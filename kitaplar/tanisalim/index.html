@@ -45,71 +45,24 @@
   (()=>{
     const LANGS=[['en','🇬🇧','English'],['ru','🇷🇺','Русский'],['ky','🇰🇬','Кыргызча'],['ar','🇸🇦','العربية'],['fr','🇫🇷','Français']];
     const pagesUrl='pages.json';
-    const cache=new Map();
+    let glossary={};
     let pages=[], current=0, zoom=1, activeWord='';
     const $=s=>document.querySelector(s), stage=$('#stage'), img=$('#pageImage'), hits=$('#hotspots'), body=$('#translationBody');
-    function normalize(s){return s.toLocaleLowerCase('tr-TR').replace(/[.,:;!?()\[\]{}"“”’…]/g,'').trim()}
+    function normalize(s){return s.normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/^[\s.,:;!?()\[\]{}\"“”’…\-−•]+|[\s.,:;!?()\[\]{}\"“”’…\-−•]+$/g,'')}
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,Number(localStorage.getItem('ta-tanisalim-page')||0)))}catch{return 0}}
     function renderPage(){if(!pages.length)return;const p=pages[current];img.src=p.image;img.alt=`Tanışalım ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
       hits.replaceChildren();for(const w of p.words){const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — çeviriyi göster`;b.setAttribute('aria-label',`${w.t} kelimesini çevir`);b.dataset.word=w.t;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t));hits.append(b)}
       document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-tanisalim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';}
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
-    const COMMON={
-      'merhaba':['Hello','Здравствуйте','Салам','مرحبًا','Bonjour'],
-      'selam':['Hello','Привет','Салам','مرحبًا','Salut'],
-      'günaydın':['Good morning','Доброе утро','Кутман таң','صباح الخير','Bonjour'],
-      'iyi günler':['Good day','Добрый день','Күнүңүз жакшы болсун','نهارك سعيد','Bonne journée'],
-      'iyi akşamlar':['Good evening','Добрый вечер','Кутман кеч','مساء الخير','Bonsoir'],
-      'iyi geceler':['Good night','Спокойной ночи','Кутман түн','تصبح على خير','Bonne nuit'],
-      'nasılsın':['How are you?','Как ты?','Кандайсың?','كيف حالك؟','Comment vas-tu ?'],
-      'nasılsın?':['How are you?','Как ты?','Кандайсың?','كيف حالك؟','Comment vas-tu ?'],
-      'nasılsınız':['How are you? (formal/plural)','Как вы?','Кандайсыз?','كيف حالك؟','Comment allez-vous ?'],
-      'nasılsınız?':['How are you? (formal/plural)','Как вы?','Кандайсыз?','كيف حالك؟','Comment allez-vous ?'],
-      'iyiyim':['I am fine','Я в порядке','Жакшымын','أنا بخير','Je vais bien'],
-      'teşekkür ederim':['Thank you','Спасибо','Рахмат','شكرًا','Merci'],
-      'teşekkür':['Thanks','Спасибо','Рахмат','شكرًا','Merci'],
-      'rica ederim':["You're welcome",'Пожалуйста','Эч нерсе эмес','على الرحب والسعة','Je vous en prie'],
-      'memnun oldum':['Nice to meet you','Рад(а) познакомиться','Таанышканыма кубанычтамын','سُررت بلقائك','Enchanté(e)'],
-      'hoş geldiniz':['Welcome','Добро пожаловать','Кош келиңиз','أهلًا وسهلًا','Bienvenue'],
-      'hoş bulduk':['Thank you (reply to “welcome”)','Спасибо (ответ на приветствие)','Кош көрдүк','شكرًا على الترحيب','Merci (en réponse à « bienvenue »)'],
-      'hoşça kal':['Goodbye (to the person staying)','Прощай (тому, кто остаётся)','Кош бол','إلى اللقاء (لمن يبقى)','Au revoir (à la personne qui reste)'],
-      'güle güle':['Goodbye (to the person leaving)','До свидания (уходящему)','Жакшы барыңыз','مع السلامة (لمن يغادر)','Au revoir (à la personne qui part)'],
-      'görüşürüz':['See you','Увидимся','Көрүшкөнчө','أراك لاحقًا','À bientôt'],
-      'görüşmek üzere':['See you later','До скорой встречи','Көрүшкөнчө','إلى اللقاء','À bientôt'],
-      'ad':['Name','Имя','Ат','اسم','Nom'],
-      'adım':['My name','Моё имя','Менин атым','اسمي','Mon nom'],
-      'adın':['Your name','Твоё имя','Сенин атың','اسمك','Ton nom'],
-      'ben':['I','Я','Мен','أنا','Je'],
-      'sen':['You (singular, informal)','Ты','Сен','أنتَ / أنتِ','Tu'],
-      'siz':['You (formal/plural)','Вы','Сиздер','أنتم / حضرتك','Vous'],
-      'ne':['What','Что','Эмне','ماذا','Quoi'],
-      'nerelisin':['Where are you from?','Откуда ты?','Кайсы жерденсиң?','من أين أنت؟','D’où viens-tu ?'],
-      'nerelisin?':['Where are you from?','Откуда ты?','Кайсы жерденсиң?','من أين أنت؟','D’où viens-tu ?'],
-      'dil':['Language','Язык','Тил','لغة','Langue'],
-      'ülke':['Country','Страна','Өлкө','بلد','Pays'],
-      'insan':['Person','Человек','Адам','إنسان','Personne'],
-      'öğretmen':['Teacher','Учитель','Мугалим','معلّم / معلّمة','Enseignant(e)'],
-      'öğrenci':['Student','Ученик / студент','Окуучу / студент','طالب / طالبة','Élève / étudiant(e)'],
-      'arkadaş':['Friend','Друг','Дос','صديق / صديقة','Ami(e)'],
-      'tekrar':['Again','Снова','Кайра','مرة أخرى','Encore'],
-      'bir':['One / a','Один / один (артикль)','Бир','واحد / أداة تنكير','Un / une'],
-      've':['And','И','Жана','و','Et'],
-      'bu':['This','Это','Бул','هذا / هذه','Ce / cette'],
-      'nasıl':['How','Как','Кантип','كيف','Comment'],
-      'var':['There is / have','Есть','Бар','يوجد','Il y a'],
-      'yok':['There is not / do not have','Нет','Жок','لا يوجد','Il n’y a pas'],
-      'ülkenizde':['In your country','В вашей стране','Өлкөңүздө','في بلدكم','Dans votre pays'],
-      'dünyada':['In the world','В мире','Дүйнөдө','في العالم','Dans le monde']
-    };
-    async function translate(word){const key=normalize(word);if(cache.has(key))return cache.get(key);if(COMMON[key]){cache.set(key,Promise.resolve(COMMON[key]));return COMMON[key]}const job=Promise.all(LANGS.map(async([code])=>{const google=`https://translate.googleapis.com/translate_a/single?client=gtx&sl=tr&tl=${code}&dt=t&q=${encodeURIComponent(word)}`;try{const r=await fetch(google);if(!r.ok)throw Error('Google translate unavailable');const data=await r.json();const result=data?.[0]?.map(x=>x?.[0]||'').join('');if(result)return result}catch{}try{const memory=`https://api.mymemory.translated.net/get?q=${encodeURIComponent(word)}&langpair=tr%7C${code}`;const r=await fetch(memory);if(!r.ok)throw Error('MyMemory unavailable');const data=await r.json();const result=data?.responseData?.translatedText;if(result&&data.responseStatus===200)return result}catch{}return 'Çeviri şu anda alınamadı'}));cache.set(key,job);return job}
-    async function selectWord(word){activeWord=word;$('#speak').disabled=false;body.innerHTML='<div class="loading">Beş dilde karşılıklar hazırlanıyor…</div>';const meanings=await translate(word);if(activeWord!==word)return;const cards=LANGS.map(([code,flag,name],i)=>`<div class="translation"><span class="flag">${flag}</span><div><div class="langname" lang="${code}">${name}</div><div class="meaning" ${code==='ar'?'dir="rtl" lang="ar"':''}>${escapeHtml(meanings[i])}</div></div></div>`).join('');body.innerHTML=`<div class="selected">${escapeHtml(word)}</div><p class="subhint">Türkçe kelime • ünite bağlamındaki karşılıkları</p><div class="translations">${cards}</div><p class="footnote">Çeviriler seçilen kelime için çevrim içi sözlükten alınır. Birleşik ifadeler tek seferde çevrilebilir.</p>`;}
+    function translate(word){const key=normalize(word);return glossary[key]||[word,word,word,word,word]}
+    async function selectWord(word){activeWord=word;$('#speak').disabled=false;body.innerHTML='<div class="loading">Beş dilde karşılıklar hazırlanıyor…</div>';const meanings=await translate(word);if(activeWord!==word)return;const cards=LANGS.map(([code,flag,name],i)=>`<div class="translation"><span class="flag">${flag}</span><div><div class="langname" lang="${code}">${name}</div><div class="meaning" ${code==='ar'?'dir="rtl" lang="ar"':''}>${escapeHtml(meanings[i])}</div></div></div>`).join('');body.innerHTML=`<div class="selected">${escapeHtml(word)}</div><p class="subhint">Türkçe kelime • ünite bağlamındaki karşılıkları</p><div class="translations">${cards}</div><p class="footnote">Karşılıklar bu ünite için ChatGPT ile hazırlanmış yerel sözlükten gelir.</p>`;}
     function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
     $('#speak').onclick=()=>{if(!activeWord)return;if(!('speechSynthesis'in window)){showToast('Bu tarayıcıda sesli okuma desteklenmiyor.');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(activeWord);u.lang='tr-TR';u.rate=.86;speechSynthesis.speak(u)};
     $('#prev').onclick=()=>{if(current>0){current--;renderPage()}};$('#next').onclick=()=>{if(current<pages.length-1){current++;renderPage()}};
     $('#zoomIn').onclick=()=>{zoom=Math.min(1.5,zoom+.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};$('#zoomOut').onclick=()=>{zoom=Math.max(.8,zoom-.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};
     document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'&&current<pages.length-1){current++;renderPage()}if(e.key==='ArrowLeft'&&current>0){current--;renderPage()}});
-    fetch(pagesUrl).then(r=>{if(!r.ok)throw Error();return r.json()}).then(data=>{pages=data;makeThumbs();current=savedPage();renderPage()}).catch(()=>{body.innerHTML='<div class="idle">Sayfalar yüklenemedi. İnternet bağlantısını kontrol edip sayfayı yenileyin.</div>'});
+    Promise.all([fetch(pagesUrl),fetch('translations.json')]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error();return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage()}).catch(()=>{body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
 </body>
