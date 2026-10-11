@@ -34,7 +34,7 @@
   function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
   async function init(){
     try{
-      const [data,hitData,translations,answerData]=await Promise.all([fetch('assets/slides-20261011b.json').then(r=>r.json()),fetch('assets/word-spots-20261011c.json').then(r=>r.json()),fetch('../translations-20261011b.json').then(r=>r.json()),fetch('assets/answer-overlays-20261011h.json').then(r=>r.json())]);
+      const [data,hitData,translations,answerData]=await Promise.all([fetch('assets/slides-20261011b.json').then(r=>r.json()),fetch('assets/word-spots-20261011c.json').then(r=>r.json()),fetch('../translations-20261011b.json').then(r=>r.json()),fetch('assets/answer-overlays-20261011i.json').then(r=>r.json())]);
       slides=data.slides;spots=hitData;dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('sunum-current')||0),slides.length-1);lang=localStorage.getItem('sunum-language')||'en';
       renderShell();renderSlide();
     }catch(e){main.innerHTML='<section class="panel"><h2>Sunum açılamadı</h2><p>Slayt dosyaları yüklenirken bir sorun oluştu. Sayfayı yenileyin.</p></section>';console.error(e)}
