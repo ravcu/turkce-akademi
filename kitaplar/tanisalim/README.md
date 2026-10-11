@@ -13,7 +13,6 @@ Bu klasör, Türkçe Akademi GitHub Pages sitesi için hazırlanan etkileşimli 
 - Mini alıştırma ve kelime defteri sözlük/örnek panelinin altında aynı sağ sütunda yer alır; geniş ekranda kartlar büyük kitap sayfasının alt hizasından başlar.
 - Sayfa seçimi, yakınlaştırma ve son kalınan sayfanın cihazda hatırlanması vardır.
 - PDF'deki `S.010`, `M.001` gibi dinleme kodlarının yanında `DİNLE` düğmesi görünür. `S.010` → `audio/Lise - A1 - Ders Kitabı - 10.mp3`; `M.001` → `audio/Lise A1  M.001.mp3` olarak eşleştirilir. Sağlanan sesler mobilde daha hızlı açılması için küçük boyutlu MP3'e dönüştürülmüştür.
-- `sunum/` adresinde 1. ünitenin tamamı 16:9 Sunum Modu’nda açılır. Özgün sayfalar etkinlik bölümlerine ayrılır; kelime alanları, cevap katmanları ve ses düğmeleri her bölümün koordinatlarına göre taşınır. İki mod arasında üstteki bağlantıyla geçiş yapılır.
-- Sunum Modu 37 yatay slayt içerir; ileri/geri düğmeleri, klavye okları, beş dilde sözlük, örnek cümle, cevap gösterme ve sayfa değişince duran ses çalışır. Yatay slaytlar özgün sayfa görsellerini kaynak olarak kullandığından ayrıca görsel kopyası tutulmaz.
+- `sunum/` adresi, PowerPoint’ten aktarılacak hazır 16:9 ders slaytları için ayrılmıştır. Slaytlar dosyadaki sırayla yerleştirilecek; cevaplar ve dinleme kayıtları ilgili etkinliklerde gösterilecektir. PDF Modu aynı şekilde kullanılmaya devam eder.
 
 `index.html` dosyası `pages.json`, `translations.json` dosyalarını ve `pages/` içindeki görselleri kullanır. Karşılıklar ve örnekler ünite için ChatGPT ile hazırlanmış yerel içerikten gelir; Google Translate veya başka bir çevrim içi çeviri servisine istek gönderilmez.
