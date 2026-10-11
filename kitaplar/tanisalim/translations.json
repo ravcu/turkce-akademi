@@ -4555,5 +4555,250 @@
     "özbekistan",
     "özbekistanlıyım",
     "bosna-hersekliyim"
-  ]
+  ],
+  "answerKeys": {
+    "4": {
+      "sections": [
+        {
+          "title": "3. İfadeleri eşleştirin",
+          "items": [
+            "1–d · Ben de memnun oldum.",
+            "2–e · Hoş bulduk.",
+            "3–f · Görüşürüz.",
+            "4–a · Benim adım Ali.",
+            "5–c · Rica ederim.",
+            "6–b · Merhaba."
+          ]
+        },
+        {
+          "title": "4. Boşlukları tamamlayın",
+          "items": [
+            "Örnek: Merhaba. Benim adım Ali."
+          ]
+        },
+        {
+          "title": "5. Diyalogları tamamlayın",
+          "items": [
+            "Fatma: Merhaba, benim adım Fatma.",
+            "Fatma: Ben de memnun oldum.",
+            "Ahmet: Hoş bulduk. Benim adım Ahmet."
+          ]
+        },
+        {
+          "title": "Söz varlığı 1. Diyaloğu tamamlayın",
+          "items": [
+            "Benim adım Ali. Senin adın ne?",
+            "Ben de memnun oldum."
+          ]
+        },
+        {
+          "title": "Söz varlığı 2. Görsellerle eşleştirin",
+          "items": [
+            "a · Merhaba.",
+            "b · Görüşürüz."
+          ]
+        }
+      ]
+    },
+    "5": {
+      "sections": [
+        {
+          "title": "2. Diyalogları dinleyin ve tamamlayın",
+          "items": [
+            "A · Sen nasılsın? Ben de iyiyim.",
+            "B · Günaydın, öğretmenim. Siz nasılsınız? Ben de iyiyim, teşekkür ederim."
+          ]
+        }
+      ]
+    },
+    "6": {
+      "sections": [
+        {
+          "title": "3. Metne göre doğru ifadeler",
+          "items": [
+            "Sol görsel · sen; Nasılsın?; Ayşa–Murat.",
+            "Sağ görsel · siz; Nasılsınız?; Zeynep Hanım–Akira."
+          ]
+        },
+        {
+          "title": "4. Diyaloğu sıralayın ve cevaplayın",
+          "items": [
+            "Sıralama: Ayşa “Merhaba öğretmenim.” → Zeynep Hanım “Merhaba Ayşa. Nasılsın?” → Ayşa “İyiyim, teşekkür ederim. Siz nasılsınız?” → Zeynep Hanım “Ben de iyiyim, teşekkür ederim.” → Zeynep Hanım “Görüşmek üzere Ayşa.” → Ayşa “Görüşürüz öğretmenim.”",
+            "“Sen nasılsın?” sorusuna örnek cevap: İyiyim, teşekkür ederim."
+          ]
+        }
+      ]
+    },
+    "9": {
+      "note": "Dinleme etkinliklerinde ses kaydına göre farklı doğru ifadeler olabilir. Kişisel diyalog için örnek cevap verilmiştir.",
+      "sections": [
+        {
+          "title": "1. Kelimeleri tamamlayın",
+          "items": [
+            "inek · zürafa · cüzdan",
+            "elma · kalem · radyo",
+            "limon · masa · bayrak"
+          ]
+        },
+        {
+          "title": "2. Cümleleri tamamlayın",
+          "items": [
+            "a · İyi akşamlar.",
+            "b · İyi günler!",
+            "c · Günaydın.",
+            "ç · Benim adım Ali.",
+            "d · Teşekkür ederim.",
+            "e · Senin adın ne?",
+            "f · Nasılsın?"
+          ]
+        },
+        {
+          "title": "3. Diyalog yazın · örnek",
+          "items": [
+            "A: Merhaba. B: Merhaba. A: Nasılsın? B: İyiyim, sen nasılsın? A: Ben de iyiyim, teşekkür ederim. B: Hoşça kal. A: Güle güle."
+          ]
+        },
+        {
+          "title": "4. Boşlukları doldurun · örnek",
+          "items": [
+            "A: Merhaba. B: Merhaba. A: Benim adım Ali. Senin adın ne? B: Benim adım Ayşe. A: Nasılsın? B: İyiyim, teşekkür ederim. Sen nasılsın? A: Ben de iyiyim, teşekkür ederim. B: Görüşmek üzere. A: Görüşürüz."
+          ]
+        }
+      ]
+    },
+    "10": {
+      "sections": [
+        {
+          "title": "3. Boşlukları örnekteki gibi doldurun",
+          "items": [
+            "2 · Akira Japonyalı. O Japon.",
+            "3 · Emily Kanadalı. O Kanadalı.",
+            "4 · Rina Tunuslu. O Tunuslu."
+          ]
+        }
+      ]
+    },
+    "12": {
+      "sections": [
+        {
+          "title": "5. Kişilerin ülkeleri",
+          "items": [
+            "Emily · Kanada; Almir · Bosna-Hersek; Zarina · Özbekistan; Akira · Japonya.",
+            "Rina · Tunus; Murat · Türkiye; Osman · Tanzanya; Ayşa · Pakistan."
+          ]
+        },
+        {
+          "title": "6. Kim, nereli?",
+          "items": [
+            "Ayşa · Ben Pakistanlıyım.",
+            "Zeynep Öğretmen · Ben Türkiyeliyim.",
+            "Almir · Ben Bosna-Hersekliyim.",
+            "Zarina · Ben Özbekistanlıyım.",
+            "Osman · Ben Tanzanyalıyım."
+          ]
+        },
+        {
+          "title": "7. Sen nerelisin? · örnek",
+          "items": [
+            "Ben Türkiyeliyim."
+          ]
+        },
+        {
+          "title": "Söz varlığı · örnek cevaplar",
+          "items": [
+            "a · Türkiyeliyim.",
+            "b · İstanbul’da yaşıyorum."
+          ]
+        }
+      ]
+    },
+    "13": {
+      "note": "Kendini tanıtma bölümünde adını, ülkeni ve yaşını kendine göre yazabilirsin.",
+      "sections": [
+        {
+          "title": "1. Kendini tanıt · örnek",
+          "items": [
+            "Merhaba, benim adım Meryem. Türkiyeliyim. 15 yaşındayım."
+          ]
+        },
+        {
+          "title": "2. Ülkeleri dinleyin ve tamamlayın",
+          "items": [
+            "Elif Yılmaz · Türkiye; Salman Malik · Pakistan.",
+            "Bella Martin · Kanada; Abdalla Hamad Suleyman · Tanzanya."
+          ]
+        }
+      ]
+    },
+    "14": {
+      "sections": [
+        {
+          "title": "3. Kim, kaç yaşında?",
+          "items": [
+            "Elif Yılmaz · 19 yaşında.",
+            "Salman Malik · 17 yaşında.",
+            "Bella Martin · 16 yaşında.",
+            "Abdalla Hamad Suleyman · 13 yaşında."
+          ]
+        },
+        {
+          "title": "4. Tabloya göre cümleler",
+          "items": [
+            "2 · Benim adım Elif Yılmaz. Türkiyeliyim. Türkçe dili konuşuyorum.",
+            "3 · Benim adım Salman Malik. Pakistanlıyım. Urduca dili konuşuyorum.",
+            "4 · Benim adım Bella Martin. Kanadalıyım. İngilizce dili konuşuyorum."
+          ]
+        },
+        {
+          "title": "5. Dil adlarını kimlik kartlarına yazın",
+          "items": [
+            "Murat · Türkçe; Emily · İngilizce; Osman · Svahili; Rina · Arapça.",
+            "Zarina · Özbek Türkçesi; Akira · Japonca; Ayşa · Urduca; Almir · Boşnakça."
+          ]
+        }
+      ]
+    },
+    "15": {
+      "note": "Bu etkinlikte verilen seçeneklerden farklı bilgiler de seçilebilir. Aşağıdaki kart, doğru yerleştirmeye örnektir.",
+      "sections": [
+        {
+          "title": "1b. Örnek kimlik kartı",
+          "items": [
+            "Adı-Soyadı · Ayşa Malik; Yaşı · 15; Doğum Tarihi · 21.08.2005; Sınıf · 9/B.",
+            "Okul · Pakistan Maarif Okulu; Doğum Yeri · İslamabad; Telefon · 0545 851 54 10."
+          ]
+        }
+      ]
+    },
+    "16": {
+      "note": "Bu sayfadaki kimlik kartı ve kendini tanıtma soruları kişiseldir. Aşağıdakiler örnek yanıttır; tablodan farklı uygun bilgiler de seçilebilir.",
+      "sections": [
+        {
+          "title": "2. bölümdeki tanışma diyaloğu · örnek",
+          "items": [
+            "Merhaba! Benim adım Ayşe. Türkiyeliyim. 15 yaşındayım. Görüşürüz."
+          ]
+        },
+        {
+          "title": "Yazma 1. Kimlik kartı · örnek",
+          "items": [
+            "Adı · Murat; Soyadı · Malik; Yaşı · 14; Ülkesi · Tunus; Dili · Türkçe; Cinsiyeti · Kadın.",
+            "Doğum tarihi tabloda verilmediği için öğrenci kendisi seçebilir."
+          ]
+        },
+        {
+          "title": "Yazma 2. Kendine göre doldur · örnek",
+          "items": [
+            "Adı · Meryem; Soyadı · Yılmaz; Yaşı · 15; Ülkesi · Türkiye; Dili · Türkçe; Cinsiyeti · Kadın; Doğum tarihi · 12.04.2011."
+          ]
+        },
+        {
+          "title": "Yazma 3. Kendini tanıt · örnek",
+          "items": [
+            "Merhaba, benim adım Meryem. 15 yaşındayım. Türkiyeliyim."
+          ]
+        }
+      ]
+    }
+  }
 }
