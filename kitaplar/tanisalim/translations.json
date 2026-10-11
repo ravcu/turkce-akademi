@@ -4573,7 +4573,7 @@
         {
           "title": "4. Boşlukları tamamlayın",
           "items": [
-            "Örnek: Merhaba. Benim adım Ali."
+            "Örnek: Merhaba. Benim adım Ayşe."
           ]
         },
         {
@@ -4710,32 +4710,32 @@
       ],
       "fills": [
         {
-          "x": 0.324,
-          "y": 0.642,
-          "w": 0.16,
+          "x": 0.536,
+          "y": 0.655,
+          "w": 0.18,
           "text": "nasılsın?"
         },
         {
-          "x": 0.303,
-          "y": 0.681,
-          "w": 0.15,
+          "x": 0.61,
+          "y": 0.673,
+          "w": 0.16,
           "text": "iyiyim."
         },
         {
-          "x": 0.152,
-          "y": 0.818,
+          "x": 0.19,
+          "y": 0.823,
           "w": 0.18,
           "text": "Günaydın,"
         },
         {
-          "x": 0.172,
-          "y": 0.869,
+          "x": 0.205,
+          "y": 0.875,
           "w": 0.17,
           "text": "nasılsınız?"
         },
         {
-          "x": 0.306,
-          "y": 0.891,
+          "x": 0.3,
+          "y": 0.893,
           "w": 0.16,
           "text": "iyiyim,"
         }
@@ -5051,19 +5051,19 @@
       "fills": [
         {
           "x": 0.339,
-          "y": 0.965,
+          "y": 0.946,
           "w": 0.3,
           "text": "Japonyalıyım. O Japon."
         },
         {
           "x": 0.548,
-          "y": 0.965,
+          "y": 0.946,
           "w": 0.28,
           "text": "Kanadalıyım. O Kanadalı."
         },
         {
           "x": 0.755,
-          "y": 0.965,
+          "y": 0.946,
           "w": 0.21,
           "text": "Tunusluyum. O Tunuslu."
         }
@@ -5212,7 +5212,7 @@
       ],
       "fills": [
         {
-          "x": 0.646,
+          "x": 0.71,
           "y": 0.198,
           "w": 0.16,
           "text": "adım Ayşa."
@@ -5749,7 +5749,7 @@
           "title": "Selamlaşma örnekleri",
           "items": [
             "Merhaba! · Türkçe",
-            "Zdravo! · Boşnakça",
+            "Zdravo! · Merhaba.",
             "Salom! · Özbekçe",
             "Konnichiwa! · Japonca",
             "Jambo! · Svahili",
