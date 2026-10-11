@@ -4181,6 +4181,23 @@
     ]
   },
   "phrases": {
+    "ben de": {
+      "translations": [
+        "Me too.",
+        "Я тоже.",
+        "Мен да.",
+        "وأنا أيضًا.",
+        "Moi aussi."
+      ],
+      "exampleTr": "Ben de öğrenciyim.",
+      "examples": [
+        "I am a student too.",
+        "Я тоже студент.",
+        "Мен да окуучумун.",
+        "وأنا أيضًا طالب.",
+        "Je suis étudiant aussi."
+      ]
+    },
     "teşekkür ederim": {
       "translations": [
         "Thank you",
