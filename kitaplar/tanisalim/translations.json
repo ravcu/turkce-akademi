@@ -1,6 +1,3 @@
-Warning: truncated output (original token count: 34312)
-Total output lines: 5698
-
 {
   "words": {
     "merhaba": [
@@ -3067,7 +3064,550 @@ Total output lines: 5698
       "Класс",
       "Класс",
       "صف",
-      "Salle de cl…4312 tokens truncated…r miyim?",
+      "Salle de classe"
+    ],
+    "/": [
+      "/",
+      "/",
+      "/",
+      "/",
+      "/"
+    ],
+    "gitmek": [
+      "to go",
+      "идти",
+      "баруу",
+      "الذهاب",
+      "aller"
+    ],
+    "gelmek": [
+      "to come",
+      "приходить",
+      "келүү",
+      "المجيء",
+      "venir"
+    ]
+  },
+  "phrases": {
+    "teşekkür ederim": {
+      "translations": [
+        "Thank you",
+        "Спасибо",
+        "Рахмат",
+        "شكرًا",
+        "Je vous remercie"
+      ],
+      "exampleTr": "Teşekkür ederim, öğretmenim.",
+      "examples": [
+        "Thank you, teacher.",
+        "Спасибо, учитель.",
+        "Рахмат, мугалим.",
+        "شكرًا لك يا أستاذي.",
+        "Merci, professeur."
+      ]
+    },
+    "rica ederim": {
+      "translations": [
+        "You're welcome",
+        "Пожалуйста",
+        "Эч нерсе эмес",
+        "على الرحب والسعة",
+        "Je vous en prie"
+      ],
+      "exampleTr": "Rica ederim, iyi günler.",
+      "examples": [
+        "You’re welcome. Have a nice day.",
+        "Пожалуйста. Хорошего дня.",
+        "Эч нерсе эмес. Күнүңүз жакшы өтсүн.",
+        "على الرحب والسعة. أتمنى لك يومًا سعيدًا.",
+        "Je vous en prie. Bonne journée."
+      ]
+    },
+    "memnun oldum": {
+      "translations": [
+        "Nice to meet you",
+        "Рад(а) познакомиться",
+        "Таанышканыма кубанычтамын",
+        "سُررت بلقائك",
+        "Enchanté(e)"
+      ],
+      "exampleTr": "Memnun oldum, benim adım Ayşe.",
+      "examples": [
+        "Nice to meet you. My name is Ayşe.",
+        "Приятно познакомиться. Меня зовут Айше.",
+        "Таанышканыма кубанычтамын. Менин атым Айше.",
+        "سُررت بلقائك. اسمي عائشة.",
+        "Enchantée. Je m’appelle Ayşe."
+      ]
+    },
+    "hoş geldiniz": {
+      "translations": [
+        "Welcome",
+        "Добро пожаловать",
+        "Кош келиңиз",
+        "أهلًا وسهلًا",
+        "Bienvenue"
+      ],
+      "exampleTr": "Hoş geldiniz, öğretmenim.",
+      "examples": [
+        "Welcome, teacher.",
+        "Добро пожаловать, учитель.",
+        "Кош келиңиз, мугалим.",
+        "أهلًا وسهلًا يا أستاذي.",
+        "Bienvenue, professeur."
+      ]
+    },
+    "hoş bulduk": {
+      "translations": [
+        "Thank you for welcoming me",
+        "Спасибо за тёплый приём",
+        "Кош келгениңиздер үчүн рахмат",
+        "شكرًا على الترحيب",
+        "Merci pour votre accueil"
+      ],
+      "exampleTr": "Hoş bulduk, teşekkür ederim.",
+      "examples": [
+        "Thank you for welcoming me.",
+        "Спасибо за тёплый приём.",
+        "Кош келдиңиздер деген сөзүңүздөргө рахмат.",
+        "شكرًا على الترحيب.",
+        "Merci pour votre accueil."
+      ]
+    },
+    "hoşça kal": {
+      "translations": [
+        "Goodbye (to the person staying)",
+        "Прощай (тому, кто остаётся)",
+        "Кош бол",
+        "إلى اللقاء (لمن يبقى)",
+        "Au revoir (à la personne qui reste)"
+      ],
+      "exampleTr": "Hoşça kal, yarın görüşürüz.",
+      "examples": [
+        "Goodbye. See you tomorrow.",
+        "Прощай. Увидимся завтра.",
+        "Кош бол. Эртең көрүшөбүз.",
+        "إلى اللقاء. أراك غدًا.",
+        "Au revoir. À demain."
+      ]
+    },
+    "güle güle": {
+      "translations": [
+        "Goodbye (to the person leaving)",
+        "До свидания (уходящему)",
+        "Жакшы барыңыз",
+        "مع السلامة (لمن يغادر)",
+        "Au revoir (à la personne qui part)"
+      ],
+      "exampleTr": "Güle güle, yarın görüşürüz.",
+      "examples": [
+        "Goodbye. See you tomorrow.",
+        "До свидания. Увидимся завтра.",
+        "Жакшы барыңыз. Эртең көрүшөбүз.",
+        "مع السلامة. أراك غدًا.",
+        "Au revoir. À demain."
+      ]
+    },
+    "görüşmek üzere": {
+      "translations": [
+        "See you later",
+        "До свидания",
+        "Көрүшкөнчө",
+        "إلى اللقاء",
+        "À bientôt"
+      ],
+      "exampleTr": "Görüşmek üzere, iyi günler.",
+      "examples": [
+        "See you later. Have a nice day.",
+        "До скорой встречи. Хорошего дня.",
+        "Көрүшкөнчө. Күнүңүз жакшы өтсүн.",
+        "إلى اللقاء. أتمنى لك يومًا سعيدًا.",
+        "À bientôt. Bonne journée."
+      ]
+    },
+    "benim adım": {
+      "translations": [
+        "My name is",
+        "Меня зовут",
+        "Менин атым",
+        "اسمي",
+        "Je m’appelle"
+      ],
+      "exampleTr": "Benim adım Ayşe.",
+      "examples": [
+        "My name is Ayşe.",
+        "Меня зовут Айше.",
+        "Менин атым Айше.",
+        "اسمي عائشة.",
+        "Je m’appelle Ayşe."
+      ]
+    },
+    "senin adın": {
+      "translations": [
+        "Your name",
+        "Твоё имя",
+        "Сенин атың",
+        "اسمك",
+        "Ton nom"
+      ],
+      "exampleTr": "Senin adın ne?",
+      "examples": [
+        "What is your name?",
+        "Как тебя зовут?",
+        "Сенин атың ким?",
+        "ما اسمك؟",
+        "Comment tu t’appelles ?"
+      ]
+    },
+    "doğum tarihi": {
+      "translations": [
+        "Date of birth",
+        "Дата рождения",
+        "Туулган күнү",
+        "تاريخ الميلاد",
+        "Date de naissance"
+      ],
+      "exampleTr": "Doğum tarihiniz nedir?",
+      "examples": [
+        "What is your date of birth?",
+        "Какая у вас дата рождения?",
+        "Туулган күнүңүз качан?",
+        "ما تاريخ ميلادك؟",
+        "Quelle est votre date de naissance ?"
+      ]
+    },
+    "dinleyin ve tekrar edin": {
+      "translations": [
+        "Listen and repeat",
+        "Послушайте и повторите",
+        "Угуңуз жана кайталаңыз",
+        "استمعوا وكرّروا",
+        "Écoutez et répétez"
+      ],
+      "exampleTr": "Lütfen dinleyin ve tekrar edin.",
+      "examples": [
+        "Please listen and repeat.",
+        "Пожалуйста, послушайте и повторите.",
+        "Сураныч, угуп, кайталаңыз.",
+        "من فضلك استمع وكرّر.",
+        "Écoutez et répétez, s’il vous plaît."
+      ]
+    },
+    "iyi günler": {
+      "translations": [
+        "Good day / Hello",
+        "Добрый день",
+        "Кутман күн",
+        "نهار سعيد / مرحبًا",
+        "Bonjour"
+      ],
+      "exampleTr": "İyi günler, görüşmek üzere.",
+      "examples": [
+        "Have a nice day. See you later.",
+        "Хорошего дня. До скорой встречи.",
+        "Күнүңүз жакшы өтсүн. Көрүшкөнчө.",
+        "أتمنى لك يومًا سعيدًا. إلى اللقاء.",
+        "Bonne journée. À bientôt."
+      ]
+    },
+    "iyi akşamlar": {
+      "translations": [
+        "Good evening",
+        "Добрый вечер",
+        "Кутман кеч",
+        "مساء الخير",
+        "Bonsoir"
+      ],
+      "exampleTr": "İyi akşamlar, nasılsınız?",
+      "examples": [
+        "Good evening, how are you?",
+        "Добрый вечер, как вы?",
+        "Кутман кеч, кандайсыз?",
+        "مساء الخير، كيف حالك؟",
+        "Bonsoir, comment allez-vous ?"
+      ]
+    },
+    "iyi geceler": {
+      "translations": [
+        "Good night",
+        "Спокойной ночи",
+        "Кутман түн",
+        "تصبح على خير",
+        "Bonne nuit"
+      ],
+      "exampleTr": "İyi geceler, yarın görüşürüz.",
+      "examples": [
+        "Good night. See you tomorrow.",
+        "Спокойной ночи. Увидимся завтра.",
+        "Кутман түн. Эртең көрүшөбүз.",
+        "تصبح على خير. أراك غدًا.",
+        "Bonne nuit. À demain."
+      ]
+    }
+  },
+  "examples": {
+    "merhaba": [
+      "Merhaba, benim adım Ayşe.",
+      [
+        "Hello, my name is Ayşe.",
+        "Здравствуйте, меня зовут Айше.",
+        "Салам, менин атым Айше.",
+        "مرحبًا، اسمي عائشة.",
+        "Bonjour, je m’appelle Ayşe."
+      ]
+    ],
+    "selam": [
+      "Selam, nasılsın?",
+      [
+        "Hi, how are you?",
+        "Привет, как ты?",
+        "Салам, кандайсың?",
+        "مرحبًا، كيف حالك؟",
+        "Salut, comment vas-tu ?"
+      ]
+    ],
+    "günaydın": [
+      "Günaydın, öğretmenim.",
+      [
+        "Good morning, teacher.",
+        "Доброе утро, учитель.",
+        "Кутман таң, мугалим.",
+        "صباح الخير يا أستاذي.",
+        "Bonjour, professeur."
+      ]
+    ],
+    "iyi günler": [
+      "İyi günler, görüşmek üzere.",
+      [
+        "Have a nice day. See you later.",
+        "Хорошего дня. До скорой встречи.",
+        "Күнүңүз жакшы өтсүн. Көрүшкөнчө.",
+        "أتمنى لك يومًا سعيدًا. إلى اللقاء.",
+        "Bonne journée. À bientôt."
+      ]
+    ],
+    "iyi akşamlar": [
+      "İyi akşamlar, nasılsınız?",
+      [
+        "Good evening, how are you?",
+        "Добрый вечер, как вы?",
+        "Кутман кеч, кандайсыз?",
+        "مساء الخير، كيف حالك؟",
+        "Bonsoir, comment allez-vous ?"
+      ]
+    ],
+    "iyi geceler": [
+      "İyi geceler, yarın görüşürüz.",
+      [
+        "Good night. See you tomorrow.",
+        "Спокойной ночи. Увидимся завтра.",
+        "Кутман түн. Эртең көрүшөбүз.",
+        "تصبح على خير. أراك غدًا.",
+        "Bonne nuit. À demain."
+      ]
+    ],
+    "nasılsın": [
+      "Merhaba, nasılsın?",
+      [
+        "Hello, how are you?",
+        "Привет, как ты?",
+        "Салам, кандайсың?",
+        "مرحبًا، كيف حالك؟",
+        "Bonjour, comment vas-tu ?"
+      ]
+    ],
+    "nasılsınız": [
+      "Merhaba, nasılsınız?",
+      [
+        "Hello, how are you?",
+        "Здравствуйте, как вы?",
+        "Салам, кандайсыз?",
+        "مرحبًا، كيف حالك؟",
+        "Bonjour, comment allez-vous ?"
+      ]
+    ],
+    "iyiyim": [
+      "Teşekkürler, iyiyim.",
+      [
+        "Thanks, I’m fine.",
+        "Спасибо, у меня всё хорошо.",
+        "Рахмат, жакшымын.",
+        "شكرًا، أنا بخير.",
+        "Merci, je vais bien."
+      ]
+    ],
+    "adım": [
+      "Benim adım Ayşe.",
+      [
+        "My name is Ayşe.",
+        "Меня зовут Айше.",
+        "Менин атым Айше.",
+        "اسمي عائشة.",
+        "Je m’appelle Ayşe."
+      ]
+    ],
+    "öğrenci": [
+      "Yeni öğrenci kütüphanede ders çalışıyor.",
+      [
+        "The new student is studying in the library.",
+        "Новый ученик занимается в библиотеке.",
+        "Жаңы окуучу китепканада сабак окуп жатат.",
+        "الطالب الجديد يدرس في المكتبة.",
+        "Le nouvel élève étudie à la bibliothèque."
+      ]
+    ],
+    "öğretmen": [
+      "Öğretmen sınıfa hoş geldiniz dedi.",
+      [
+        "The teacher said, “Welcome to class.”",
+        "Учитель сказал: «Добро пожаловать в класс».",
+        "Мугалим: «Класска кош келиңиздер», — деди.",
+        "قال المعلّم: «أهلًا بكم في الصف».",
+        "Le professeur a dit : « Bienvenue en classe »."
+      ]
+    ],
+    "ülke": [
+      "Yaz tatilinde başka bir ülkeye gideceğiz.",
+      [
+        "We will travel to another country during summer vacation.",
+        "Летом мы поедем в другую страну.",
+        "Жайкы эс алууда башка өлкөгө барабыз.",
+        "سنذهب إلى بلد آخر في العطلة الصيفية.",
+        "Nous irons dans un autre pays pendant les vacances d’été."
+      ]
+    ],
+    "dil": [
+      "Yeni bir dil öğrenmek zaman alır.",
+      [
+        "Learning a new language takes time.",
+        "Изучение нового языка требует времени.",
+        "Жаңы тил үйрөнүүгө убакыт керек.",
+        "تعلّم لغة جديدة يحتاج إلى وقت.",
+        "Apprendre une nouvelle langue prend du temps."
+      ]
+    ],
+    "arkadaş": [
+      "Bu benim arkadaşım.",
+      [
+        "This is my friend.",
+        "Это мой друг / моя подруга.",
+        "Бул менин досум.",
+        "هذا صديقي / هذه صديقتي.",
+        "Voici mon ami(e)."
+      ]
+    ],
+    "yaş": [
+      "Kızımın yaşı on.",
+      [
+        "My daughter is ten years old.",
+        "Моей дочери десять лет.",
+        "Кызым он жашта.",
+        "عمر ابنتي عشر سنوات.",
+        "Ma fille a dix ans."
+      ]
+    ],
+    "nerelisin": [
+      "Sen nerelisin?",
+      [
+        "Where are you from?",
+        "Откуда ты?",
+        "Сен кайсы жерденсиң?",
+        "من أين أنت؟",
+        "D’où viens-tu ?"
+      ]
+    ],
+    "teşekkür": [
+      "Yardımınız için teşekkür ederim.",
+      [
+        "Thank you for your help.",
+        "Спасибо за вашу помощь.",
+        "Жардамыңыз үчүн рахмат.",
+        "شكرًا على مساعدتك.",
+        "Merci pour votre aide."
+      ]
+    ],
+    "ad": [
+      "Adım Elif.",
+      [
+        "My name is Elif.",
+        "Меня зовут Элиф.",
+        "Менин атым Элиф.",
+        "اسمي إليف.",
+        "Je m’appelle Elif."
+      ]
+    ],
+    "isim": [
+      "İsminizi tekrar eder misiniz?",
+      [
+        "Could you repeat your name?",
+        "Не могли бы вы повторить своё имя?",
+        "Атыңызды кайталап коёсузбу?",
+        "هل يمكنك إعادة اسمك؟",
+        "Pouvez-vous répéter votre nom ?"
+      ]
+    ],
+    "soyadı": [
+      "Soyadım Yılmaz.",
+      [
+        "My surname is Yılmaz.",
+        "Моя фамилия — Йылмаз.",
+        "Фамилиям Йылмаз.",
+        "اسم عائلتي يلماز.",
+        "Mon nom de famille est Yılmaz."
+      ]
+    ],
+    "kadın": [
+      "Kadın otobüse bindi.",
+      [
+        "The woman got on the bus.",
+        "Женщина села в автобус.",
+        "Аял автобуска түштү.",
+        "ركبت المرأة الحافلة.",
+        "La femme est montée dans le bus."
+      ]
+    ],
+    "erkek": [
+      "Erkek kardeşim üniversitede okuyor.",
+      [
+        "My brother studies at university.",
+        "Мой брат учится в университете.",
+        "Агам университетте окуйт.",
+        "أخي يدرس في الجامعة.",
+        "Mon frère étudie à l’université."
+      ]
+    ],
+    "okul": [
+      "Okul saat sekizde başlıyor.",
+      [
+        "School starts at eight o’clock.",
+        "Занятия в школе начинаются в восемь.",
+        "Мектеп саат сегизде башталат.",
+        "تبدأ المدرسة في الساعة الثامنة.",
+        "L’école commence à huit heures."
+      ]
+    ],
+    "sınıf": [
+      "Sınıf bugün çok kalabalık.",
+      [
+        "The classroom is very crowded today.",
+        "Сегодня в классе очень много людей.",
+        "Бүгүн класс абдан жык толгон.",
+        "الصف مزدحم جدًا اليوم.",
+        "La classe est très pleine aujourd’hui."
+      ]
+    ],
+    "gün": [
+      "Bugün güzel bir gün.",
+      [
+        "Today is a beautiful day.",
+        "Сегодня прекрасный день.",
+        "Бүгүн сонун күн.",
+        "اليوم يوم جميل.",
+        "Aujourd’hui, c’est une belle journée."
+      ]
+    ],
+    "burada": [
+      "Burada oturabilir miyim?",
       [
         "Can I sit here?",
         "Можно мне здесь сесть?",
