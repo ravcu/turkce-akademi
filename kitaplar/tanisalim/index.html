@@ -18,6 +18,22 @@
   <style>
     .quiz-tabs{display:flex;gap:5px;margin:7px 0 9px}.quiz-tab{flex:1;border:1px solid #dce7e3;background:#f7faf6;border-radius:8px;padding:6px 5px;font-size:10px;font-weight:750}.quiz-tab[aria-selected=true]{background:#e0f4ed;border-color:var(--teal);color:#075d61;box-shadow:0 0 0 1px var(--teal) inset}.quiz-listen{border:1px solid #b9ded4;border-radius:9px;background:#eff9f4;padding:7px 11px;font-size:11px;font-weight:750;margin:0 0 7px}.quiz-write{display:flex;gap:6px;margin-top:7px}.quiz-write[hidden],.quiz-listen[hidden]{display:none}.quiz-write input{min-width:0;flex:1;border:1px solid #dce7e3;border-radius:8px;padding:7px 9px;background:#fff;font:inherit;font-size:12px}.quiz-write input:focus{outline:2px solid #087f8333;border-color:var(--teal)}.quiz-check{border:0;border-radius:8px;background:var(--teal);color:#fff;padding:7px 10px;font-size:11px;font-weight:750}.quiz-check:disabled{opacity:.55;cursor:default}.quiz-prompt-meaning{display:inline-block;padding:7px 10px;border:1px solid #e0ebe4;border-radius:9px;background:#f6faf5;font-family:inherit;font-size:15px;font-weight:700}.quiz-prompt-meaning[dir=rtl]{display:block;text-align:right;font-size:18px}
   </style>
+
+  <style>
+    .answer-details{margin-top:10px;border:1px solid #cfe1d8;border-radius:12px;background:#fffefa;overflow:hidden}
+    .answer-details[hidden]{display:none}
+    .answer-details summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:11px 13px;color:#075d61;font-size:12px;font-weight:800}
+    .answer-details summary::-webkit-details-marker{display:none}
+    .answer-details summary::after{content:"+";display:grid;place-items:center;width:23px;height:23px;border:1px solid #dce7e3;border-radius:7px;background:#f7faf6;font-size:16px;line-height:1}
+    .answer-details[open] summary::after{content:"−"}
+    .answer-details summary:focus-visible{outline:2px solid #087f83;outline-offset:-3px;border-radius:10px}
+    .answer-content{padding:0 13px 12px;border-top:1px solid #edf1ed}
+    .answer-note{margin:10px 0;color:#62777b;font-size:11px;line-height:1.45}
+    .answer-group{margin-top:10px}
+    .answer-group h3{font-size:11px;margin:0 0 4px;color:#17343b}
+    .answer-group ul{margin:0;padding-left:18px;color:#465f63;font-size:11px;line-height:1.55}
+    .answer-group li+li{margin-top:2px}
+  </style>
 </head>
 <body>
   <header class="topbar">
@@ -38,6 +54,10 @@
         </div>
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div></div>
         <div id="thumbrail" class="thumbrail" aria-label="Sayfa seçimi"></div>
+        <details id="answerDetails" class="answer-details" hidden>
+          <summary id="answerSummary">Cevabı gör</summary>
+          <div id="answerContent" class="answer-content"></div>
+        </details>
       </section>
       <div class="side-stack">
       <aside class="panel" aria-live="polite" aria-label="Kelime çevirileri">
@@ -70,7 +90,15 @@
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,Number(localStorage.getItem('ta-tanisalim-page')||0)))}catch{return 0}}
     function renderPage(){if(!pages.length)return;const p=pages[current];img.src=p.image;img.alt=`Tanışalım ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
       hits.replaceChildren();for(const [index,w] of p.words.entries()){if(!normalize(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
-      document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-tanisalim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
+      renderAnswerKey();document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-tanisalim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
+    function renderAnswerKey(){
+      const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
+      details.open=false;$('#answerSummary').textContent='Cevabı gör';details.hidden=!data;content.replaceChildren();
+      if(!data)return;
+      if(data.note){const note=document.createElement('p');note.className='answer-note';note.textContent=data.note;content.append(note)}
+      (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
+    }
+    $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları gizle':'Cevabı gör'});
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
     function phraseAt(index,words){
       const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(' ').length-a.split(' ').length);
@@ -152,7 +180,7 @@
     $('#quizWrite').addEventListener('submit',e=>{e.preventDefault();const answer=$('#quizAnswer').value;answerQuiz(normalize(answer)===normalize(quizItems[quizIndex]?.text))});
     $('#quizNext').onclick=()=>{if(quizFinished){buildQuiz();return}if(!quizAnswered)return;if(quizIndex===quizItems.length-1){finishQuiz();return}quizIndex++;renderQuiz()};
     try{targetLang=localStorage.getItem('ta-tanisalim-lang')||'en';savedWords=readSaved()}catch{} updateLanguageTabs();document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.addEventListener('click',()=>{targetLang=b.dataset.lang;try{localStorage.setItem('ta-tanisalim-lang',targetLang)}catch{}updateLanguageTabs();renderSelection();buildQuiz();renderVocab()}));img.addEventListener('load',alignStudyArea);window.addEventListener('resize',alignStudyArea);
-    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json?v=20261011-phrases-v2',{cache:'no-store'})]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
+    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json?v=20261011-answers-v1',{cache:'no-store'})]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
 </body>
