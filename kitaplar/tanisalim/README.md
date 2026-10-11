@@ -12,6 +12,6 @@ Bu klasör, Türkçe Akademi GitHub Pages sitesi için hazırlanan etkileşimli 
 - Öğrenci seçtiği kelime ve kalıpları cihazındaki kelime defterine ekleyip silebilir; defter ve ilerleme aynı cihazda saklanır.
 - Mini alıştırma ve kelime defteri sözlük/örnek panelinin altında aynı sağ sütunda yer alır; geniş ekranda kartlar büyük kitap sayfasının alt hizasından başlar.
 - Sayfa seçimi, yakınlaştırma ve son kalınan sayfanın cihazda hatırlanması vardır.
-- PDF'deki `S.009` gibi dinleme kodlarının yanında `DİNLE` düğmesi görünür. Ses dosyaları bu klasördeki `audio/` dizinine kodla aynı adla, örneğin `S.009.mp3`, eklendiğinde düğme doğrudan kaydı oynatır.
+- PDF'deki `S.010` gibi dinleme kodlarının yanında `DİNLE` düğmesi görünür. Ses dosyaları kod numarasına göre eşleştirilir: `S.010` → `audio/Lise - A1 - Ders Kitabı - 10.mp3`. Sağlanan WAV kayıtları mobilde daha hızlı açılması için küçük boyutlu MP3'e dönüştürülmüştür.
 
 `index.html` dosyası `pages.json`, `translations.json` dosyalarını ve `pages/` içindeki görselleri kullanır. Karşılıklar ve örnekler ünite için ChatGPT ile hazırlanmış yerel içerikten gelir; Google Translate veya başka bir çevrim içi çeviri servisine istek gönderilmez.
