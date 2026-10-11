@@ -14,6 +14,7 @@
     @media(max-width:520px){.topbar{height:58px}.toplink{font-size:11px}.heading{margin-bottom:16px}.heading p{font-size:12px;max-width:275px}.unit-mark{font-size:10px;padding:7px 9px}.reader{gap:12px}.book{border-radius:14px;padding:7px}.toolbar{height:39px;padding-bottom:9px}.iconbtn{height:31px;min-width:32px}.pagecount{font-size:10px;min-width:65px}.thumbrail{gap:5px}.thumb{flex-basis:41px}.panel{padding:15px;border-radius:14px}.translations{grid-template-columns:1fr 1fr;gap:6px}.translation{padding:8px;grid-template-columns:20px 1fr}.meaning{font-size:12px}.meaning[dir=rtl]{font-size:15px}.selected{font-size:25px}.bottomline{font-size:10px}.keyhint{display:none}}
     .meaning-row{display:flex;align-items:center;gap:8px}.meaning-row .meaning{flex:1;min-width:0}.meaning-row .line-speak{flex:0 0 30px}
     @media(max-width:520px){.translation{grid-template-columns:1fr!important}}
+  .mode-links{display:flex;align-items:center;gap:18px}@media(max-width:520px){.mode-links{gap:9px}.mode-links .toplink{font-size:10px}}
   </style>
   <style>
     .quiz-tabs{display:flex;gap:5px;margin:7px 0 9px}.quiz-tab{flex:1;border:1px solid #dce7e3;background:#f7faf6;border-radius:8px;padding:6px 5px;font-size:10px;font-weight:750}.quiz-tab[aria-selected=true]{background:#e0f4ed;border-color:var(--teal);color:#075d61;box-shadow:0 0 0 1px var(--teal) inset}.quiz-listen{border:1px solid #b9ded4;border-radius:9px;background:#eff9f4;padding:7px 11px;font-size:11px;font-weight:750;margin:0 0 7px}.quiz-write{display:flex;gap:6px;margin-top:7px}.quiz-write[hidden],.quiz-listen[hidden]{display:none}.quiz-write input{min-width:0;flex:1;border:1px solid #dce7e3;border-radius:8px;padding:7px 9px;background:#fff;font:inherit;font-size:12px}.quiz-write input:focus{outline:2px solid #087f8333;border-color:var(--teal)}.quiz-check{border:0;border-radius:8px;background:var(--teal);color:#fff;padding:7px 10px;font-size:11px;font-weight:750}.quiz-check:disabled{opacity:.55;cursor:default}.quiz-prompt-meaning{display:inline-block;padding:7px 10px;border:1px solid #e0ebe4;border-radius:9px;background:#f6faf5;font-family:inherit;font-size:15px;font-weight:700}.quiz-prompt-meaning[dir=rtl]{display:block;text-align:right;font-size:18px}
@@ -44,11 +45,12 @@
     .answer-links{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
     .answer-links line{stroke:#087f83;stroke-width:1.5;vector-effect:non-scaling-stroke;marker-end:url(#answerArrow)}
   </style>
+
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
-    <a class="toplink" href="../../">← Ana sayfaya dön</a>
+    <nav class="mode-links"><a class="toplink" href="sunum/">16:9 Sunum Modu</a><a class="toplink" href="../../">← Ana sayfaya dön</a></nav>
   </header>
   <main class="shell">
     <div class="heading">

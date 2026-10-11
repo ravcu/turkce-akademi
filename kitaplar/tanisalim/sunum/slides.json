@@ -1,0 +1,784 @@
+[
+  {
+    "page": 1,
+    "crop": [
+      0,
+      0,
+      950,
+      1202
+    ],
+    "title": "1. Ünite · Tanışalım",
+    "answerSections": [
+      0
+    ],
+    "index": 1,
+    "src": "../pages/sayfa-01.jpg",
+    "image": [
+      444,
+      0,
+      711,
+      900
+    ]
+  },
+  {
+    "page": 2,
+    "crop": [
+      0,
+      0,
+      950,
+      601
+    ],
+    "title": "Selamlaşma ifadeleri · 1",
+    "answerSections": [
+      0
+    ],
+    "index": 2,
+    "src": "../pages/sayfa-02.jpg",
+    "image": [
+      88,
+      0,
+      1423,
+      900
+    ]
+  },
+  {
+    "page": 2,
+    "crop": [
+      0,
+      601,
+      950,
+      1202
+    ],
+    "title": "Selamlaşma ifadeleri · 2",
+    "answerSections": [
+      0
+    ],
+    "index": 3,
+    "src": "../pages/sayfa-02.jpg",
+    "image": [
+      88,
+      0,
+      1423,
+      900
+    ]
+  },
+  {
+    "page": 3,
+    "crop": [
+      0,
+      0,
+      950,
+      600
+    ],
+    "title": "Merhaba · dinle ve tekrar et",
+    "answerSections": [
+      0
+    ],
+    "index": 4,
+    "src": "../pages/sayfa-03.jpg",
+    "image": [
+      87,
+      0,
+      1425,
+      900
+    ]
+  },
+  {
+    "page": 3,
+    "crop": [
+      0,
+      600,
+      950,
+      1202
+    ],
+    "title": "Tanışma diyalogları",
+    "answerSections": [
+      0
+    ],
+    "index": 5,
+    "src": "../pages/sayfa-03.jpg",
+    "image": [
+      90,
+      0,
+      1420,
+      900
+    ]
+  },
+  {
+    "page": 4,
+    "crop": [
+      0,
+      0,
+      950,
+      390
+    ],
+    "title": "Tanışma ifadeleri · eşleştirme",
+    "answerSections": [
+      0,
+      1
+    ],
+    "index": 6,
+    "src": "../pages/sayfa-04.jpg",
+    "image": [
+      0,
+      121,
+      1600,
+      657
+    ]
+  },
+  {
+    "page": 4,
+    "crop": [
+      0,
+      365,
+      950,
+      760
+    ],
+    "title": "Diyalogları tamamlayın",
+    "answerSections": [
+      2
+    ],
+    "index": 7,
+    "src": "../pages/sayfa-04.jpg",
+    "image": [
+      0,
+      117,
+      1600,
+      665
+    ]
+  },
+  {
+    "page": 4,
+    "crop": [
+      0,
+      740,
+      950,
+      1202
+    ],
+    "title": "Söz varlığı · konuşma ve görseller",
+    "answerSections": [
+      3,
+      4
+    ],
+    "index": 8,
+    "src": "../pages/sayfa-04.jpg",
+    "image": [
+      0,
+      61,
+      1600,
+      778
+    ]
+  },
+  {
+    "page": 5,
+    "crop": [
+      0,
+      0,
+      950,
+      600
+    ],
+    "title": "Dinleme · günlük diyaloglar",
+    "answerSections": [
+      0
+    ],
+    "index": 9,
+    "src": "../pages/sayfa-05.jpg",
+    "image": [
+      87,
+      0,
+      1425,
+      900
+    ]
+  },
+  {
+    "page": 5,
+    "crop": [
+      0,
+      600,
+      950,
+      1202
+    ],
+    "title": "Dinleme · diyalogları tamamlayın",
+    "answerSections": [
+      0
+    ],
+    "index": 10,
+    "src": "../pages/sayfa-05.jpg",
+    "image": [
+      90,
+      0,
+      1420,
+      900
+    ]
+  },
+  {
+    "page": 6,
+    "crop": [
+      0,
+      0,
+      950,
+      520
+    ],
+    "title": "Metne göre doğru ifadeyi seçin",
+    "answerSections": [
+      0
+    ],
+    "index": 11,
+    "src": "../pages/sayfa-06.jpg",
+    "image": [
+      0,
+      12,
+      1600,
+      876
+    ]
+  },
+  {
+    "page": 6,
+    "crop": [
+      0,
+      500,
+      950,
+      870
+    ],
+    "title": "Diyaloğu sıralayın",
+    "answerSections": [
+      1
+    ],
+    "index": 12,
+    "src": "../pages/sayfa-06.jpg",
+    "image": [
+      0,
+      138,
+      1600,
+      623
+    ]
+  },
+  {
+    "page": 6,
+    "crop": [
+      0,
+      850,
+      950,
+      1202
+    ],
+    "title": "Söz varlığı · dinle ve tekrar et",
+    "answerSections": [],
+    "index": 13,
+    "src": "../pages/sayfa-06.jpg",
+    "image": [
+      0,
+      153,
+      1600,
+      593
+    ]
+  },
+  {
+    "page": 7,
+    "crop": [
+      0,
+      0,
+      950,
+      620
+    ],
+    "title": "Selamlaşma · eşleştirme",
+    "answerSections": [
+      0
+    ],
+    "index": 14,
+    "src": "../pages/sayfa-07.jpg",
+    "image": [
+      110,
+      0,
+      1379,
+      900
+    ]
+  },
+  {
+    "page": 7,
+    "crop": [
+      0,
+      620,
+      950,
+      1202
+    ],
+    "title": "Selamlaşma ifadeleri · söz varlığı",
+    "answerSections": [
+      0
+    ],
+    "index": 15,
+    "src": "../pages/sayfa-07.jpg",
+    "image": [
+      65,
+      0,
+      1469,
+      900
+    ]
+  },
+  {
+    "page": 8,
+    "crop": [
+      0,
+      0,
+      950,
+      320
+    ],
+    "title": "Konuşma · örnek diyalog",
+    "answerSections": [
+      0
+    ],
+    "index": 16,
+    "src": "../pages/sayfa-08.jpg",
+    "image": [
+      0,
+      180,
+      1600,
+      539
+    ]
+  },
+  {
+    "page": 8,
+    "crop": [
+      0,
+      300,
+      950,
+      1202
+    ],
+    "title": "Konuşma · harita üzerinde diyalog",
+    "answerSections": [
+      0
+    ],
+    "index": 17,
+    "src": "../pages/sayfa-08.jpg",
+    "image": [
+      326,
+      0,
+      948,
+      900
+    ]
+  },
+  {
+    "page": 9,
+    "crop": [
+      0,
+      0,
+      950,
+      490
+    ],
+    "title": "Yazma · kelime ve cümleleri tamamlayın",
+    "answerSections": [
+      0,
+      1
+    ],
+    "index": 18,
+    "src": "../pages/sayfa-09.jpg",
+    "image": [
+      0,
+      37,
+      1600,
+      825
+    ]
+  },
+  {
+    "page": 9,
+    "crop": [
+      0,
+      480,
+      950,
+      770
+    ],
+    "title": "Diyalog yazın · örnek",
+    "answerSections": [
+      2
+    ],
+    "index": 19,
+    "src": "../pages/sayfa-09.jpg",
+    "image": [
+      0,
+      206,
+      1600,
+      488
+    ]
+  },
+  {
+    "page": 9,
+    "crop": [
+      0,
+      750,
+      950,
+      1202
+    ],
+    "title": "Arkadaşınızla diyalog kurun",
+    "answerSections": [
+      3
+    ],
+    "index": 20,
+    "src": "../pages/sayfa-09.jpg",
+    "image": [
+      0,
+      69,
+      1600,
+      761
+    ]
+  },
+  {
+    "page": 10,
+    "crop": [
+      0,
+      0,
+      950,
+      590
+    ],
+    "title": "Nerelisin? · kişiler ve diyaloglar",
+    "answerSections": [
+      0
+    ],
+    "index": 21,
+    "src": "../pages/sayfa-10.jpg",
+    "image": [
+      75,
+      0,
+      1449,
+      900
+    ]
+  },
+  {
+    "page": 10,
+    "crop": [
+      0,
+      570,
+      950,
+      940
+    ],
+    "title": "Harita · ülkeleri yerleştirin",
+    "answerSections": [
+      0
+    ],
+    "index": 22,
+    "src": "../pages/sayfa-10.jpg",
+    "image": [
+      0,
+      138,
+      1600,
+      623
+    ]
+  },
+  {
+    "page": 10,
+    "crop": [
+      0,
+      920,
+      950,
+      1202
+    ],
+    "title": "Ülke ve dil adları",
+    "answerSections": [
+      1
+    ],
+    "index": 23,
+    "src": "../pages/sayfa-10.jpg",
+    "image": [
+      0,
+      212,
+      1600,
+      475
+    ]
+  },
+  {
+    "page": 11,
+    "crop": [
+      0,
+      0,
+      950,
+      440
+    ],
+    "title": "Okuma · tanışma diyaloğu",
+    "answerSections": [
+      0
+    ],
+    "index": 24,
+    "src": "../pages/sayfa-11.jpg",
+    "image": [
+      0,
+      79,
+      1600,
+      741
+    ]
+  },
+  {
+    "page": 11,
+    "crop": [
+      0,
+      440,
+      950,
+      1202
+    ],
+    "title": "Tanışma · görsel ve metin",
+    "answerSections": [
+      0
+    ],
+    "index": 25,
+    "src": "../pages/sayfa-11.jpg",
+    "image": [
+      239,
+      0,
+      1122,
+      900
+    ]
+  },
+  {
+    "page": 12,
+    "crop": [
+      0,
+      0,
+      950,
+      620
+    ],
+    "title": "Harita · kişilerin ülkeleri",
+    "answerSections": [
+      0
+    ],
+    "index": 26,
+    "src": "../pages/sayfa-12.jpg",
+    "image": [
+      110,
+      0,
+      1379,
+      900
+    ]
+  },
+  {
+    "page": 12,
+    "crop": [
+      0,
+      600,
+      950,
+      900
+    ],
+    "title": "Kim nereli? · eşleştirme",
+    "answerSections": [
+      1,
+      2
+    ],
+    "index": 27,
+    "src": "../pages/sayfa-12.jpg",
+    "image": [
+      0,
+      197,
+      1600,
+      505
+    ]
+  },
+  {
+    "page": 12,
+    "crop": [
+      0,
+      880,
+      950,
+      1202
+    ],
+    "title": "Söz varlığı · kendini tanıt",
+    "answerSections": [
+      3
+    ],
+    "index": 28,
+    "src": "../pages/sayfa-12.jpg",
+    "image": [
+      0,
+      179,
+      1600,
+      542
+    ]
+  },
+  {
+    "page": 13,
+    "crop": [
+      0,
+      0,
+      950,
+      520
+    ],
+    "title": "Dinleme · kişileri tanıyalım",
+    "answerSections": [
+      0
+    ],
+    "index": 29,
+    "src": "../pages/sayfa-13.jpg",
+    "image": [
+      0,
+      12,
+      1600,
+      876
+    ]
+  },
+  {
+    "page": 13,
+    "crop": [
+      0,
+      520,
+      950,
+      1202
+    ],
+    "title": "Dinleme · kimlik kartları",
+    "answerSections": [
+      1
+    ],
+    "index": 30,
+    "src": "../pages/sayfa-13.jpg",
+    "image": [
+      173,
+      0,
+      1254,
+      900
+    ]
+  },
+  {
+    "page": 14,
+    "crop": [
+      0,
+      0,
+      950,
+      500
+    ],
+    "title": "Kişiler · yaş ve ülke bilgileri",
+    "answerSections": [
+      0,
+      1
+    ],
+    "index": 31,
+    "src": "../pages/sayfa-14.jpg",
+    "image": [
+      0,
+      29,
+      1600,
+      842
+    ]
+  },
+  {
+    "page": 14,
+    "crop": [
+      0,
+      480,
+      950,
+      1202
+    ],
+    "title": "Kimlik kartları · dil adları",
+    "answerSections": [
+      2
+    ],
+    "index": 32,
+    "src": "../pages/sayfa-14.jpg",
+    "image": [
+      208,
+      0,
+      1184,
+      900
+    ]
+  },
+  {
+    "page": 15,
+    "crop": [
+      0,
+      0,
+      950,
+      330
+    ],
+    "title": "Söz varlığı · kendini tanıt",
+    "answerSections": [
+      0
+    ],
+    "index": 33,
+    "src": "../pages/sayfa-15.jpg",
+    "image": [
+      0,
+      172,
+      1600,
+      556
+    ]
+  },
+  {
+    "page": 15,
+    "crop": [
+      0,
+      330,
+      950,
+      800
+    ],
+    "title": "Yazma · kimlik bilgileri",
+    "answerSections": [
+      0
+    ],
+    "index": 34,
+    "src": "../pages/sayfa-15.jpg",
+    "image": [
+      0,
+      54,
+      1600,
+      792
+    ]
+  },
+  {
+    "page": 15,
+    "crop": [
+      0,
+      800,
+      950,
+      1202
+    ],
+    "title": "Konuşma · kendini tanıt",
+    "answerSections": [
+      0
+    ],
+    "index": 35,
+    "src": "../pages/sayfa-15.jpg",
+    "image": [
+      0,
+      111,
+      1600,
+      677
+    ]
+  },
+  {
+    "page": 16,
+    "crop": [
+      0,
+      0,
+      950,
+      550
+    ],
+    "title": "Tanışma · dinle ve konuş",
+    "answerSections": [
+      0,
+      1
+    ],
+    "index": 36,
+    "src": "../pages/sayfa-16.jpg",
+    "image": [
+      22,
+      0,
+      1555,
+      900
+    ]
+  },
+  {
+    "page": 16,
+    "crop": [
+      0,
+      530,
+      950,
+      1202
+    ],
+    "title": "Yazma · kimlik kartı ve kendini tanıt",
+    "answerSections": [
+      2,
+      3
+    ],
+    "index": 37,
+    "src": "../pages/sayfa-16.jpg",
+    "image": [
+      164,
+      0,
+      1272,
+      900
+    ]
+  }
+]
