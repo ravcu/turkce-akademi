@@ -68,7 +68,7 @@
     $('#zoomIn').onclick=()=>{zoom=Math.min(1.5,zoom+.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};$('#zoomOut').onclick=()=>{zoom=Math.max(.8,zoom-.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};
     document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'&&current<pages.length-1){current++;renderPage()}if(e.key==='ArrowLeft'&&current>0){current--;renderPage()}});
     try{targetLang=localStorage.getItem('ta-tanisalim-lang')||'en'}catch{} updateLanguageTabs();document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.addEventListener('click',()=>{targetLang=b.dataset.lang;try{localStorage.setItem('ta-tanisalim-lang',targetLang)}catch{}renderSelection()}));
-    Promise.all([fetch(pagesUrl),fetch('translations.json')]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error();return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage()}).catch(()=>{body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
+    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json?v=20261011-phrase-v2',{cache:'no-store'})]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
 </body>
