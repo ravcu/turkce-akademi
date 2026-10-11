@@ -3163,6 +3163,1021 @@
       "туура эмес",
       "خطأ",
       "faux"
+    ],
+    "beyaz": [
+      "white",
+      "белый",
+      "ак",
+      "أبيض",
+      "blanc"
+    ],
+    "turuncu": [
+      "orange",
+      "оранжевый",
+      "кызгылт сары",
+      "برتقالي",
+      "orange"
+    ],
+    "mor": [
+      "purple",
+      "фиолетовый",
+      "кызгылт көк",
+      "بنفسجي",
+      "violet"
+    ],
+    "sarı": [
+      "yellow",
+      "жёлтый",
+      "сары",
+      "أصفر",
+      "jaune"
+    ],
+    "kırmızı": [
+      "red",
+      "красный",
+      "кызыл",
+      "أحمر",
+      "rouge"
+    ],
+    "yeşil": [
+      "green",
+      "зелёный",
+      "жашыл",
+      "أخضر",
+      "vert"
+    ],
+    "mavi": [
+      "blue",
+      "синий",
+      "көк",
+      "أزرق",
+      "bleu"
+    ],
+    "siyah": [
+      "black",
+      "чёрный",
+      "кара",
+      "أسود",
+      "noir"
+    ],
+    "pazartesi": [
+      "Monday",
+      "понедельник",
+      "дүйшөмбү",
+      "الاثنين",
+      "lundi"
+    ],
+    "salı": [
+      "Tuesday",
+      "вторник",
+      "шейшемби",
+      "الثلاثاء",
+      "mardi"
+    ],
+    "çarşamba": [
+      "Wednesday",
+      "среда",
+      "шаршемби",
+      "الأربعاء",
+      "mercredi"
+    ],
+    "perşembe": [
+      "Thursday",
+      "четверг",
+      "бейшемби",
+      "الخميس",
+      "jeudi"
+    ],
+    "cuma": [
+      "Friday",
+      "пятница",
+      "жума",
+      "الجمعة",
+      "vendredi"
+    ],
+    "cumartesi": [
+      "Saturday",
+      "суббота",
+      "ишемби",
+      "السبت",
+      "samedi"
+    ],
+    "pazar": [
+      "Sunday",
+      "воскресенье",
+      "жекшемби",
+      "الأحد",
+      "dimanche"
+    ],
+    "ocak": [
+      "January",
+      "январь",
+      "январь",
+      "يناير",
+      "janvier"
+    ],
+    "şubat": [
+      "February",
+      "февраль",
+      "февраль",
+      "فبراير",
+      "février"
+    ],
+    "mart": [
+      "March",
+      "март",
+      "март",
+      "مارس",
+      "mars"
+    ],
+    "nisan": [
+      "April",
+      "апрель",
+      "апрель",
+      "أبريل",
+      "avril"
+    ],
+    "mayıs": [
+      "May",
+      "май",
+      "май",
+      "مايو",
+      "mai"
+    ],
+    "haziran": [
+      "June",
+      "июнь",
+      "июнь",
+      "يونيو",
+      "juin"
+    ],
+    "temmuz": [
+      "July",
+      "июль",
+      "июль",
+      "يوليو",
+      "juillet"
+    ],
+    "ağustos": [
+      "August",
+      "август",
+      "август",
+      "أغسطس",
+      "août"
+    ],
+    "eylül": [
+      "September",
+      "сентябрь",
+      "сентябрь",
+      "سبتمبر",
+      "septembre"
+    ],
+    "ekim": [
+      "October",
+      "октябрь",
+      "октябрь",
+      "أكتوبر",
+      "octobre"
+    ],
+    "kasım": [
+      "November",
+      "ноябрь",
+      "ноябрь",
+      "نوفمبر",
+      "novembre"
+    ],
+    "aralık": [
+      "December",
+      "декабрь",
+      "декабрь",
+      "ديسمبر",
+      "décembre"
+    ],
+    "afganistan": [
+      "Afghanistan",
+      "Афганистан",
+      "Ооганстан",
+      "أفغانستان",
+      "Afghanistan"
+    ],
+    "macaristan": [
+      "Hungary",
+      "Венгрия",
+      "Венгрия",
+      "المجر",
+      "Hongrie"
+    ],
+    "norveç": [
+      "Norway",
+      "Норвегия",
+      "Норвегия",
+      "النرويج",
+      "Norvège"
+    ],
+    "endonezya": [
+      "Indonesia",
+      "Индонезия",
+      "Индонезия",
+      "إندونيسيا",
+      "Indonésie"
+    ],
+    "gine": [
+      "Guinea",
+      "Гвинея",
+      "Гвинея",
+      "غينيا",
+      "Guinée"
+    ],
+    "kongo": [
+      "Congo",
+      "Конго",
+      "Конго",
+      "الكونغو",
+      "Congo"
+    ],
+    "gana": [
+      "Ghana",
+      "Гана",
+      "Гана",
+      "غانا",
+      "Ghana"
+    ],
+    "ürdün": [
+      "Jordan",
+      "Иордания",
+      "Иордания",
+      "الأردن",
+      "Jordanie"
+    ],
+    "avustralya": [
+      "Australia",
+      "Австралия",
+      "Австралия",
+      "أستراليا",
+      "Australie"
+    ],
+    "romanya": [
+      "Romania",
+      "Румыния",
+      "Румыния",
+      "رومانيا",
+      "Roumanie"
+    ],
+    "portekiz": [
+      "Portugal",
+      "Португалия",
+      "Португалия",
+      "البرتغال",
+      "Portugal"
+    ],
+    "ispanya": [
+      "Spain",
+      "Испания",
+      "Испания",
+      "إسبانيا",
+      "Espagne"
+    ],
+    "malezya": [
+      "Malaysia",
+      "Малайзия",
+      "Малайзия",
+      "ماليزيا",
+      "Malaisie"
+    ],
+    "mısır": [
+      "Egypt",
+      "Египет",
+      "Египет",
+      "مصر",
+      "Égypte"
+    ],
+    "fransa": [
+      "France",
+      "Франция",
+      "Франция",
+      "فرنسا",
+      "France"
+    ],
+    "rusya": [
+      "Russia",
+      "Россия",
+      "Россия",
+      "روسيا",
+      "Russie"
+    ],
+    "kırgızistan": [
+      "Kyrgyzstan",
+      "Кыргызстан",
+      "Кыргызстан",
+      "قيرغيزستان",
+      "Kirghizistan"
+    ],
+    "türkmenistan": [
+      "Turkmenistan",
+      "Туркменистан",
+      "Түркмөнстан",
+      "تركمانستان",
+      "Turkménistan"
+    ],
+    "ırak": [
+      "Iraq",
+      "Ирак",
+      "Ирак",
+      "العراق",
+      "Irak"
+    ],
+    "ispanyolca": [
+      "Spanish",
+      "испанский язык",
+      "испан тили",
+      "الإسبانية",
+      "espagnol"
+    ],
+    "macarca": [
+      "Hungarian",
+      "венгерский язык",
+      "венгер тили",
+      "المجرية",
+      "hongrois"
+    ],
+    "gürcüce": [
+      "Georgian",
+      "грузинский язык",
+      "грузин тили",
+      "الجورجية",
+      "géorgien"
+    ],
+    "portekizce": [
+      "Portuguese",
+      "португальский язык",
+      "португал тили",
+      "البرتغالية",
+      "portugais"
+    ],
+    "hintçe": [
+      "Hindi",
+      "хинди",
+      "хинди тили",
+      "الهندية",
+      "hindi"
+    ],
+    "norveççe": [
+      "Norwegian",
+      "норвежский язык",
+      "норвег тили",
+      "النرويجية",
+      "norvégien"
+    ],
+    "özbekçe": [
+      "Uzbek",
+      "узбекский язык",
+      "өзбек тили",
+      "الأوزبكية",
+      "ouzbek"
+    ],
+    "farsça": [
+      "Persian",
+      "персидский язык",
+      "фарсы тили",
+      "الفارسية",
+      "persan"
+    ],
+    "darice": [
+      "Dari",
+      "дари",
+      "дари тили",
+      "الدرية",
+      "dari"
+    ],
+    "peştuca": [
+      "Pashto",
+      "пушту",
+      "пушту тили",
+      "البشتوية",
+      "pachto"
+    ],
+    "kenyalı": [
+      "Kenyan",
+      "кениец / кенийский",
+      "кениялык",
+      "كيني",
+      "kényan"
+    ],
+    "norveçli": [
+      "Norwegian person",
+      "норвежец / норвежка",
+      "норвегиялык",
+      "نرويجي",
+      "Norvégien / Norvégienne"
+    ],
+    "afgan": [
+      "Afghan",
+      "афганец / афганка",
+      "ооган",
+      "أفغاني",
+      "Afghan / Afghane"
+    ],
+    "macar": [
+      "Hungarian person",
+      "венгр",
+      "венгр",
+      "مجري",
+      "Hongrois / Hongroise"
+    ],
+    "ganalı": [
+      "Ghanaian",
+      "ганец / ганка",
+      "ганалык",
+      "غاني",
+      "ghanéen / ghanéenne"
+    ],
+    "ürdünlü": [
+      "Jordanian",
+      "иорданец / иорданка",
+      "иорданиялык",
+      "أردني",
+      "Jordanien / Jordanienne"
+    ],
+    "kongolu": [
+      "Congolese",
+      "конголезец / конголезка",
+      "конголук",
+      "كونغولي",
+      "congolais / congolaise"
+    ],
+    "portekizli": [
+      "Portuguese person",
+      "португалец / португалка",
+      "португалиялык",
+      "برتغالي",
+      "Portugais / Portugaise"
+    ],
+    "romanyalı": [
+      "Romanian",
+      "румын / румынка",
+      "румыниялык",
+      "روماني",
+      "roumain / roumaine"
+    ],
+    "avustralyalı": [
+      "Australian",
+      "австралиец / австралийка",
+      "австралиялык",
+      "أسترالي",
+      "australien / australienne"
+    ],
+    "ispanyol": [
+      "Spanish person",
+      "испанец / испанка",
+      "испаниялык",
+      "إسباني",
+      "Espagnol / Espagnole"
+    ],
+    "bosnalı": [
+      "Bosnian",
+      "босниец / боснийка",
+      "босниялык",
+      "بوسني",
+      "bosniaque"
+    ],
+    "araba": [
+      "car",
+      "машина",
+      "унаа",
+      "سيارة",
+      "voiture"
+    ],
+    "çanta": [
+      "bag",
+      "сумка",
+      "сумка",
+      "حقيبة",
+      "sac"
+    ],
+    "cüzdan": [
+      "wallet",
+      "кошелёк",
+      "капчык",
+      "محفظة",
+      "portefeuille"
+    ],
+    "radyo": [
+      "radio",
+      "радио",
+      "радио",
+      "راديو",
+      "radio"
+    ],
+    "bayrak": [
+      "flag",
+      "флаг",
+      "желек",
+      "علم",
+      "drapeau"
+    ],
+    "ceket": [
+      "jacket",
+      "куртка",
+      "куртка",
+      "سترة",
+      "veste"
+    ],
+    "dolap": [
+      "cupboard",
+      "шкаф",
+      "шкаф",
+      "خزانة",
+      "armoire"
+    ],
+    "pencere": [
+      "window",
+      "окно",
+      "терезе",
+      "نافذة",
+      "fenêtre"
+    ],
+    "uçak": [
+      "airplane",
+      "самолёт",
+      "учак",
+      "طائرة",
+      "avion"
+    ],
+    "yumurta": [
+      "egg",
+      "яйцо",
+      "жумуртка",
+      "بيضة",
+      "œuf"
+    ],
+    "elma": [
+      "apple",
+      "яблоко",
+      "алма",
+      "تفاحة",
+      "pomme"
+    ],
+    "üzüm": [
+      "grapes",
+      "виноград",
+      "жүзүм",
+      "عنب",
+      "raisins"
+    ],
+    "irmak": [
+      "river",
+      "река",
+      "дарыя",
+      "نهر",
+      "rivière"
+    ],
+    "ekmek": [
+      "bread",
+      "хлеб",
+      "нан",
+      "خبز",
+      "pain"
+    ],
+    "tuz": [
+      "salt",
+      "соль",
+      "туз",
+      "ملح",
+      "sel"
+    ],
+    "buz": [
+      "ice",
+      "лёд",
+      "муз",
+      "ثلج",
+      "glace"
+    ],
+    "kalın": [
+      "thick",
+      "толстый",
+      "калың",
+      "سميك",
+      "épais"
+    ],
+    "ince": [
+      "thin",
+      "тонкий",
+      "ичке",
+      "رفيع",
+      "fin"
+    ],
+    "sert": [
+      "hard",
+      "твёрдый",
+      "катуу",
+      "صلب",
+      "dur"
+    ],
+    "yumuşak": [
+      "soft",
+      "мягкий",
+      "жумшак",
+      "ناعم",
+      "doux"
+    ],
+    "düz": [
+      "flat / straight",
+      "ровный / прямой",
+      "тегиз / түз",
+      "مسطح / مستقيم",
+      "plat / droit"
+    ],
+    "yuvarlak": [
+      "round",
+      "круглый",
+      "тегерек",
+      "مستدير",
+      "rond"
+    ],
+    "harf": [
+      "letter",
+      "буква",
+      "тамга",
+      "حرف",
+      "lettre"
+    ],
+    "renk": [
+      "color",
+      "цвет",
+      "түс",
+      "لون",
+      "couleur"
+    ],
+    "temel": [
+      "Temel (a given name)",
+      "Темель (имя)",
+      "Темел (ысым)",
+      "تمَل (اسم)",
+      "Temel (prénom)"
+    ],
+    "canlandırın": [
+      "act it out",
+      "разыграйте",
+      "аткарып көргүлө",
+      "مثّلوا الحوار",
+      "jouez la scène"
+    ],
+    "duyduğunuz": [
+      "that you hear",
+      "который вы слышите",
+      "укканыңыз",
+      "الذي تسمعونه",
+      "que vous entendez"
+    ],
+    "harfler": [
+      "letters",
+      "буквы",
+      "тамгалар",
+      "حروف",
+      "lettres"
+    ],
+    "videoyu": [
+      "the video",
+      "видео",
+      "видеону",
+      "الفيديو",
+      "la vidéo"
+    ],
+    "yetmiş": [
+      "seventy",
+      "семьдесят",
+      "жетимиш",
+      "سبعون",
+      "soixante-dix"
+    ],
+    "yirmi": [
+      "twenty",
+      "двадцать",
+      "жыйырма",
+      "عشرون",
+      "vingt"
+    ],
+    "dokuz": [
+      "nine",
+      "девять",
+      "тогуз",
+      "تسعة",
+      "neuf"
+    ],
+    "sekiz": [
+      "eight",
+      "восемь",
+      "сегиз",
+      "ثمانية",
+      "huit"
+    ],
+    "iki": [
+      "two",
+      "два",
+      "эки",
+      "اثنان",
+      "deux"
+    ],
+    "dört": [
+      "four",
+      "четыре",
+      "төрт",
+      "أربعة",
+      "quatre"
+    ],
+    "yedi": [
+      "seven",
+      "семь",
+      "жети",
+      "سبعة",
+      "sept"
+    ],
+    "onlar": [
+      "they",
+      "они",
+      "алар",
+      "هم",
+      "ils / elles"
+    ],
+    "biz": [
+      "we",
+      "мы",
+      "биз",
+      "نحن",
+      "nous"
+    ],
+    "onun": [
+      "his / her",
+      "его / её",
+      "анын",
+      "له / لها",
+      "son / sa"
+    ],
+    "hem": [
+      "both / also",
+      "и / также",
+      "жана",
+      "كلاهما / أيضًا",
+      "à la fois / aussi"
+    ],
+    "bence": [
+      "in my opinion",
+      "по-моему",
+      "менимче",
+      "في رأيي",
+      "à mon avis"
+    ],
+    "oluyor": [
+      "is becoming / happens",
+      "становится / происходит",
+      "болуп жатат",
+      "يصبح / يحدث",
+      "devient / se produit"
+    ],
+    "video": [
+      "video",
+      "видео",
+      "видео",
+      "فيديو",
+      "vidéo"
+    ],
+    "dede": [
+      "grandfather",
+      "дедушка",
+      "чоң ата",
+      "جدّ",
+      "grand-père"
+    ],
+    "puan": [
+      "score / point",
+      "балл",
+      "упай",
+      "نقطة",
+      "score / point"
+    ],
+    "baskent": [
+      "capital city",
+      "столица",
+      "борбор шаар",
+      "عاصمة",
+      "capitale"
+    ],
+    "hafta": [
+      "week",
+      "неделя",
+      "жума",
+      "أسبوع",
+      "semaine"
+    ],
+    "aylar": [
+      "months",
+      "месяцы",
+      "айлар",
+      "أشهر",
+      "mois"
+    ],
+    "sabah": [
+      "morning",
+      "утро",
+      "таң",
+      "صباح",
+      "matin"
+    ],
+    "öğle": [
+      "noon",
+      "полдень",
+      "түш",
+      "الظهر",
+      "midi"
+    ],
+    "akşam": [
+      "evening",
+      "вечер",
+      "кеч",
+      "مساء",
+      "soir"
+    ],
+    "gece": [
+      "night",
+      "ночь",
+      "түн",
+      "ليل",
+      "nuit"
+    ],
+    "yaz": [
+      "summer",
+      "лето",
+      "жай",
+      "صيف",
+      "été"
+    ],
+    "kullanabilirim": [
+      "I can use",
+      "я могу использовать",
+      "мен колдоно алам",
+      "يمكنني أن أستخدم",
+      "je peux utiliser"
+    ],
+    "sıfır": [
+      "zero",
+      "ноль",
+      "нөл",
+      "صفر",
+      "zéro"
+    ],
+    "üç": [
+      "three",
+      "три",
+      "үч",
+      "ثلاثة",
+      "trois"
+    ],
+    "altı": [
+      "six",
+      "шесть",
+      "алты",
+      "ستة",
+      "six"
+    ],
+    "on bir": [
+      "eleven",
+      "одиннадцать",
+      "он бир",
+      "أحد عشر",
+      "onze"
+    ],
+    "on iki": [
+      "twelve",
+      "двенадцать",
+      "он эки",
+      "اثنا عشر",
+      "douze"
+    ],
+    "on üç": [
+      "thirteen",
+      "тринадцать",
+      "он үч",
+      "ثلاثة عشر",
+      "treize"
+    ],
+    "on dört": [
+      "fourteen",
+      "четырнадцать",
+      "он төрт",
+      "أربعة عشر",
+      "quatorze"
+    ],
+    "on beş": [
+      "fifteen",
+      "пятнадцать",
+      "он беш",
+      "خمسة عشر",
+      "quinze"
+    ],
+    "on altı": [
+      "sixteen",
+      "шестнадцать",
+      "он алты",
+      "ستة عشر",
+      "seize"
+    ],
+    "on yedi": [
+      "seventeen",
+      "семнадцать",
+      "он жети",
+      "سبعة عشر",
+      "dix-sept"
+    ],
+    "on sekiz": [
+      "eighteen",
+      "восемнадцать",
+      "он сегиз",
+      "ثمانية عشر",
+      "dix-huit"
+    ],
+    "on dokuz": [
+      "nineteen",
+      "девятнадцать",
+      "он тогуз",
+      "تسعة عشر",
+      "dix-neuf"
+    ],
+    "otuz": [
+      "thirty",
+      "тридцать",
+      "отуз",
+      "ثلاثون",
+      "trente"
+    ],
+    "kırk": [
+      "forty",
+      "сорок",
+      "кырк",
+      "أربعون",
+      "quarante"
+    ],
+    "elli": [
+      "fifty",
+      "пятьдесят",
+      "элүү",
+      "خمسون",
+      "cinquante"
+    ],
+    "altmış": [
+      "sixty",
+      "шестьдесят",
+      "алтымыш",
+      "ستون",
+      "soixante"
+    ],
+    "seksen": [
+      "eighty",
+      "восемьдесят",
+      "сексен",
+      "ثمانون",
+      "quatre-vingts"
+    ],
+    "doksan": [
+      "ninety",
+      "девяносто",
+      "токсон",
+      "تسعون",
+      "quatre-vingt-dix"
+    ],
+    "yüz": [
+      "one hundred",
+      "сто",
+      "жүз",
+      "مئة",
+      "cent"
+    ],
+    "lütfen": [
+      "please",
+      "пожалуйста",
+      "сураныч",
+      "من فضلك",
+      "s’il vous plaît"
+    ],
+    "oku": [
+      "read",
+      "читай / читайте",
+      "оку",
+      "اقرأ",
+      "lis / lisez"
+    ],
+    "aç": [
+      "open",
+      "открой / откройте",
+      "ач",
+      "افتح",
+      "ouvre / ouvrez"
+    ],
+    "kapat": [
+      "close",
+      "закрой / закройте",
+      "жап",
+      "أغلق",
+      "ferme / fermez"
     ]
   },
   "phrases": {
@@ -3420,6 +4435,278 @@
         "تصبح على خير. أراك غدًا.",
         "Bonne nuit. À demain."
       ]
+    },
+    "iyiyim, teşekkür ederim": {
+      "translations": [
+        "I am fine, thank you.",
+        "Я в порядке, спасибо.",
+        "Жакшымын, рахмат.",
+        "أنا بخير، شكرًا.",
+        "Je vais bien, merci."
+      ],
+      "exampleTr": "İyiyim, teşekkür ederim.",
+      "examples": [
+        "I am fine, thank you.",
+        "Я в порядке, спасибо.",
+        "Жакшымын, рахмат.",
+        "أنا بخير، شكرًا.",
+        "Je vais bien, merci."
+      ]
+    },
+    "ben de iyiyim": {
+      "translations": [
+        "I am fine too.",
+        "Я тоже в порядке.",
+        "Мен да жакшымын.",
+        "أنا بخير أيضًا.",
+        "Je vais bien aussi."
+      ],
+      "exampleTr": "Ben de iyiyim.",
+      "examples": [
+        "I am fine too.",
+        "Я тоже в порядке.",
+        "Мен да жакшымын.",
+        "أنا بخير أيضًا.",
+        "Je vais bien aussi."
+      ]
+    },
+    "ben de memnun oldum": {
+      "translations": [
+        "Nice to meet you too.",
+        "Я тоже рад(а) познакомиться.",
+        "Мен да таанышканыма кубанычтамын.",
+        "وأنا سعيد بلقائك أيضًا.",
+        "Enchanté(e) également."
+      ],
+      "exampleTr": "Ben de memnun oldum.",
+      "examples": [
+        "Nice to meet you too.",
+        "Я тоже рад(а) познакомиться.",
+        "Мен да таанышканыма кубанычтамын.",
+        "وأنا سعيد بلقائك أيضًا.",
+        "Enchanté(e) également."
+      ]
+    },
+    "sen nasılsın": {
+      "translations": [
+        "How are you? (informal)",
+        "Как ты?",
+        "Кандайсың?",
+        "كيف حالك؟",
+        "Comment vas-tu ?"
+      ],
+      "exampleTr": "Sen nasılsın?",
+      "examples": [
+        "How are you? (informal)",
+        "Как ты?",
+        "Кандайсың?",
+        "كيف حالك؟",
+        "Comment vas-tu ?"
+      ]
+    },
+    "siz nasılsınız": {
+      "translations": [
+        "How are you? (formal/plural)",
+        "Как вы?",
+        "Кандайсыз?",
+        "كيف حالكم؟",
+        "Comment allez-vous ?"
+      ],
+      "exampleTr": "Siz nasılsınız?",
+      "examples": [
+        "How are you? (formal/plural)",
+        "Как вы?",
+        "Кандайсыз?",
+        "كيف حالكم؟",
+        "Comment allez-vous ?"
+      ]
+    },
+    "kaç yaşındasın": {
+      "translations": [
+        "How old are you? (informal)",
+        "Сколько тебе лет?",
+        "Сен канча жаштасың?",
+        "كم عمرك؟",
+        "Quel âge as-tu ?"
+      ],
+      "exampleTr": "Kaç yaşındasın?",
+      "examples": [
+        "How old are you? (informal)",
+        "Сколько тебе лет?",
+        "Сен канча жаштасың?",
+        "كم عمرك؟",
+        "Quel âge as-tu ?"
+      ]
+    },
+    "kaç yaşındasınız": {
+      "translations": [
+        "How old are you? (formal/plural)",
+        "Сколько вам лет?",
+        "Сиз канча жаштасыз?",
+        "كم عمركم؟",
+        "Quel âge avez-vous ?"
+      ],
+      "exampleTr": "Kaç yaşındasınız?",
+      "examples": [
+        "How old are you? (formal/plural)",
+        "Сколько вам лет?",
+        "Сиз канча жаштасыз?",
+        "كم عمركم؟",
+        "Quel âge avez-vous ?"
+      ]
+    },
+    "nerelisin": {
+      "translations": [
+        "Where are you from? (informal)",
+        "Откуда ты?",
+        "Кайдансың?",
+        "من أين أنت؟",
+        "Tu viens d’où ?"
+      ],
+      "exampleTr": "Nerelisin?",
+      "examples": [
+        "Where are you from? (informal)",
+        "Откуда ты?",
+        "Кайдансың?",
+        "من أين أنت؟",
+        "Tu viens d’où ?"
+      ]
+    },
+    "nerelisiniz": {
+      "translations": [
+        "Where are you from? (formal/plural)",
+        "Откуда вы?",
+        "Кайдансыз?",
+        "من أين أنتم؟",
+        "Vous venez d’où ?"
+      ],
+      "exampleTr": "Nerelisiniz?",
+      "examples": [
+        "Where are you from? (formal/plural)",
+        "Откуда вы?",
+        "Кайдансыз?",
+        "من أين أنتم؟",
+        "Vous venez d’où ?"
+      ]
+    },
+    "ben türkçe konuşuyorum": {
+      "translations": [
+        "I speak Turkish.",
+        "Я говорю по-турецки.",
+        "Мен түркчө сүйлөйм.",
+        "أنا أتحدث التركية.",
+        "Je parle turc."
+      ],
+      "exampleTr": "Ben Türkçe konuşuyorum.",
+      "examples": [
+        "I speak Turkish.",
+        "Я говорю по-турецки.",
+        "Мен түркчө сүйлөйм.",
+        "أنا أتحدث التركية.",
+        "Je parle turc."
+      ]
+    },
+    "iyi sabahlar": {
+      "translations": [
+        "Good morning.",
+        "Доброе утро.",
+        "Кутман таң.",
+        "صباح الخير.",
+        "Bonjour."
+      ],
+      "exampleTr": "İyi sabahlar.",
+      "examples": [
+        "Good morning.",
+        "Доброе утро.",
+        "Кутман таң.",
+        "صباح الخير.",
+        "Bonjour."
+      ]
+    },
+    "hayırlı akşamlar": {
+      "translations": [
+        "Good evening.",
+        "Добрый вечер.",
+        "Кутман кеч.",
+        "مساء الخير.",
+        "Bonsoir."
+      ],
+      "exampleTr": "Hayırlı akşamlar.",
+      "examples": [
+        "Good evening.",
+        "Добрый вечер.",
+        "Кутман кеч.",
+        "مساء الخير.",
+        "Bonsoir."
+      ]
+    },
+    "hayırlı günler": {
+      "translations": [
+        "Have a good day.",
+        "Хорошего дня.",
+        "Күнүңүз жакшы өтсүн.",
+        "نهارًا سعيدًا.",
+        "Bonne journée."
+      ],
+      "exampleTr": "Hayırlı günler.",
+      "examples": [
+        "Have a good day.",
+        "Хорошего дня.",
+        "Күнүңүз жакшы өтсүн.",
+        "نهارًا سعيدًا.",
+        "Bonne journée."
+      ]
+    },
+    "lütfen oku": {
+      "translations": [
+        "Please read.",
+        "Пожалуйста, прочитайте.",
+        "Сураныч, окуңуз.",
+        "يُرجى القراءة.",
+        "Veuillez lire, s’il vous plaît."
+      ],
+      "examples": [
+        "Please read this page.",
+        "Пожалуйста, прочитайте эту страницу.",
+        "Сураныч, бул баракты окуңуз.",
+        "يُرجى قراءة هذه الصفحة.",
+        "Veuillez lire cette page, s’il vous plaît."
+      ],
+      "exampleTr": "Lütfen oku."
+    },
+    "kitabı aç": {
+      "translations": [
+        "Open the book.",
+        "Откройте книгу.",
+        "Китепти ач.",
+        "افتح الكتاب.",
+        "Ouvre le livre."
+      ],
+      "examples": [
+        "Open the book, please.",
+        "Пожалуйста, откройте книгу.",
+        "Сураныч, китепти ач.",
+        "افتح الكتاب من فضلك.",
+        "Ouvre le livre, s’il te plaît."
+      ],
+      "exampleTr": "Kitabı aç."
+    },
+    "kitabı kapat": {
+      "translations": [
+        "Close the book.",
+        "Закройте книгу.",
+        "Китепти жап.",
+        "أغلق الكتاب.",
+        "Ferme le livre."
+      ],
+      "examples": [
+        "Close the book, please.",
+        "Пожалуйста, закройте книгу.",
+        "Сураныч, китепти жап.",
+        "أغلق الكتاب من فضلك.",
+        "Ferme le livre, s’il te plaît."
+      ],
+      "exampleTr": "Kitabı kapat."
     }
   },
   "examples": {
