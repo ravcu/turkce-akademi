@@ -45,43 +45,6 @@
     .answer-links line{stroke:#087f83;stroke-width:1.5;vector-effect:non-scaling-stroke;marker-end:url(#answerArrow)}
   </style>
 
-  <style>
-    /* Keep the full learning workspace on screen on desktop; scroll only the lesson sidebar if needed. */
-    @media (min-width:851px){
-      body{height:100dvh;overflow:hidden}
-      .topbar{height:54px}
-      .shell{height:calc(100dvh - 54px);padding:10px clamp(18px,3vw,38px) 8px;display:flex;flex-direction:column;overflow:hidden}
-      .heading{flex:0 0 auto;margin:0 auto 10px;align-items:center}
-      .heading h1{font-size:clamp(29px,3.2vw,38px);margin:4px 0}
-      .heading p{font-size:12px}
-      .unit-mark{padding:7px 12px;font-size:11px}
-      .progress{flex:0 0 4px;margin:0 auto 10px}
-      .reader{flex:1;min-height:0;align-items:stretch}
-      .book{height:100%;min-height:0;padding:10px;display:flex;flex-direction:column;overflow:hidden}
-      .toolbar{flex:0 0 40px;height:40px;padding-bottom:7px}
-      .stage{flex:1 1 0;min-height:0;max-height:100%;height:auto;width:auto;max-width:100%;aspect-ratio:950/1202;align-self:center;margin:0 auto}
-      .pageimage{width:100%;height:100%;object-fit:fill}
-      .thumbrail{flex:0 0 auto;max-height:66px;overflow-x:auto;overflow-y:hidden;padding:7px 2px 0}
-      .thumb{width:42px;flex-basis:42px}
-      .answer-details{flex:0 1 auto;max-height:24%;overflow:auto}
-      .side-stack{height:100%;min-height:0;overflow-y:auto;overscroll-behavior:contain;scrollbar-width:thin}
-      .bottomline{flex:0 0 auto;margin:5px auto 0}
-    }
-    @media (min-width:851px) and (max-height:760px){
-      .topbar{height:48px}
-      .shell{height:calc(100dvh - 48px);padding:7px 18px 5px}
-      .heading{margin-bottom:7px}
-      .heading h1{font-size:29px;margin:2px 0}
-      .heading p{font-size:11px}
-      .unit-mark{padding:5px 9px}
-      .progress{margin-bottom:7px}
-      .reader{grid-template-columns:minmax(0,1fr) 290px;gap:12px}
-      .toolbar{flex-basis:35px;height:35px;padding-bottom:4px}
-      .thumbrail{max-height:49px;padding-top:4px}
-      .thumb{width:34px;flex-basis:34px}
-      .bottomline{display:none}
-    }
-  </style>
 </head>
 <body>
   <header class="topbar">
