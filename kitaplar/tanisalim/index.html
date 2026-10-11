@@ -38,7 +38,8 @@
   <style>
     .answer-overlay{position:absolute;inset:0;z-index:4;pointer-events:none}
     .answer-overlay[hidden]{display:none}
-    .answer-fill{position:absolute;display:block;min-height:1.35%;overflow:visible;padding:0 2px;color:#125f4d;background:rgba(255,254,250,.96);border-bottom:1px solid #52a88d;border-radius:2px;font-size:clamp(7px,1.15vw,12px);font-weight:800;line-height:1.18;white-space:normal;overflow-wrap:anywhere}
+    .stage{container-type:inline-size}
+    .answer-fill{position:absolute;display:block;overflow:hidden;padding:0;color:#125f4d;background:transparent;border:0;border-radius:0;font-size:clamp(5px,1.35cqw,9px);font-weight:750;line-height:1;white-space:nowrap;text-overflow:clip}
   </style>
 </head>
 <body>
@@ -108,6 +109,7 @@
       const overlay=$('#answerOverlay'),data=glossary.answerKeys?.[String(current+1)];overlay.replaceChildren();overlay.hidden=true;
       if(!$('#answerDetails').open||!Array.isArray(data?.fills)||!data.fills.length)return;
       data.fills.forEach(fill=>{const answer=document.createElement('span');answer.className='answer-fill';answer.textContent=fill.text;answer.style.left=(fill.x*100)+'%';answer.style.top=(fill.y*100)+'%';answer.style.width=(fill.w*100)+'%';overlay.append(answer)});overlay.hidden=false;
+      overlay.querySelectorAll('.answer-fill').forEach(answer=>{let size=parseFloat(getComputedStyle(answer).fontSize);while(answer.scrollWidth>answer.clientWidth+1&&size>5){size=Math.max(5,size-.5);answer.style.fontSize=`${size}px`}});
     }
     $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları gizle':'Cevabı gör';renderAnswerOverlay()});
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
