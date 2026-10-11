@@ -10,6 +10,7 @@ Bu klasör, Türkçe Akademi GitHub Pages sitesi için hazırlanan etkileşimli 
 - Türkçe kelimeler ve örnek cümleler cihazın seslendirme özelliğiyle dinlenebilir.
 - Seçilen çeviri diline göre beş soruluk mini anlam alıştırması sunulur.
 - Öğrenci seçtiği kelime ve kalıpları cihazındaki kelime defterine ekleyip silebilir; defter ve ilerleme aynı cihazda saklanır.
+- Mini alıştırma ve kelime defteri, sözlük/örnek panelinin hemen altında aynı sağ sütunda yer alır.
 - Sayfa seçimi, yakınlaştırma ve son kalınan sayfanın cihazda hatırlanması vardır.
 
 `index.html` dosyası `pages.json`, `translations.json` dosyalarını ve `pages/` içindeki görselleri kullanır. Karşılıklar ve örnekler ünite için ChatGPT ile hazırlanmış yerel içerikten gelir; Google Translate veya başka bir çevrim içi çeviri servisine istek gönderilmez.
