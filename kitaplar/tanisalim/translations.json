@@ -3427,9 +3427,9 @@
       ]
     ],
     "iyiyim": [
-      "Teşekkür ederim, iyiyim.",
+      "Teşekkürler, iyiyim.",
       [
-        "Thank you, I am fine.",
+        "Thanks, I’m fine.",
         "Спасибо, у меня всё хорошо.",
         "Рахмат, жакшымын.",
         "شكرًا، أنا بخير.",
@@ -3447,13 +3447,13 @@
       ]
     ],
     "öğrenci": [
-      "Ben öğrenciyim.",
+      "Öğrenciler dersten sonra kütüphaneye gitti.",
       [
-        "I am a student.",
-        "Я студент(ка).",
-        "Мен окуучумун.",
-        "أنا طالب(ة).",
-        "Je suis élève."
+        "The students went to the library after class.",
+        "После урока ученики пошли в библиотеку.",
+        "Окуучулар сабактан кийин китепканага барышты.",
+        "ذهب الطلاب إلى المكتبة بعد الدرس.",
+        "Les élèves sont allés à la bibliothèque après le cours."
       ]
     ],
     "öğretmen": [
@@ -3467,23 +3467,23 @@
       ]
     ],
     "ülke": [
-      "Türkiye güzel bir ülkedir.",
+      "Yaz tatilinde başka bir ülkeye gideceğiz.",
       [
-        "Turkey is a beautiful country.",
-        "Турция — красивая страна.",
-        "Түркия — кооз өлкө.",
-        "تركيا بلد جميل.",
-        "La Turquie est un beau pays."
+        "We will travel to another country during summer vacation.",
+        "Летом мы поедем в другую страну.",
+        "Жайкы эс алууда башка өлкөгө барабыз.",
+        "سنذهب إلى بلد آخر في العطلة الصيفية.",
+        "Nous irons dans un autre pays pendant les vacances d’été."
       ]
     ],
     "dil": [
-      "Türkçe güzel bir dildir.",
+      "Yeni bir dil öğrenmek zaman alır.",
       [
-        "Turkish is a beautiful language.",
-        "Турецкий — красивый язык.",
-        "Түрк тили — кооз тил.",
-        "التركية لغة جميلة.",
-        "Le turc est une belle langue."
+        "Learning a new language takes time.",
+        "Изучение нового языка требует времени.",
+        "Жаңы тил үйрөнүүгө убакыт керек.",
+        "تعلّم لغة جديدة يحتاج إلى وقت.",
+        "Apprendre une nouvelle langue prend du temps."
       ]
     ],
     "arkadaş": [
@@ -3497,13 +3497,13 @@
       ]
     ],
     "yaş": [
-      "Yaşınız kaç?",
+      "Kızımın yaşı on.",
       [
-        "How old are you?",
-        "Сколько вам лет?",
-        "Жашыңыз канчада?",
-        "كم عمرك؟",
-        "Quel âge avez-vous ?"
+        "My daughter is ten years old.",
+        "Моей дочери десять лет.",
+        "Кызым он жашта.",
+        "عمر ابنتي عشر سنوات.",
+        "Ma fille a dix ans."
       ]
     ],
     "nerelisin": [
@@ -3524,6 +3524,216 @@
         "Жардамыңыз үчүн рахмат.",
         "شكرًا على مساعدتك.",
         "Merci pour votre aide."
+      ]
+    ],
+    "ad": [
+      "Adım Elif.",
+      [
+        "My name is Elif.",
+        "Меня зовут Элиф.",
+        "Менин атым Элиф.",
+        "اسمي إليف.",
+        "Je m’appelle Elif."
+      ]
+    ],
+    "isim": [
+      "İsminizi tekrar eder misiniz?",
+      [
+        "Could you repeat your name?",
+        "Не могли бы вы повторить своё имя?",
+        "Атыңызды кайталап коёсузбу?",
+        "هل يمكنك إعادة اسمك؟",
+        "Pouvez-vous répéter votre nom ?"
+      ]
+    ],
+    "soyadı": [
+      "Soyadım Yılmaz.",
+      [
+        "My surname is Yılmaz.",
+        "Моя фамилия — Йылмаз.",
+        "Фамилиям Йылмаз.",
+        "اسم عائلتي يلماز.",
+        "Mon nom de famille est Yılmaz."
+      ]
+    ],
+    "kadın": [
+      "Kadın otobüse bindi.",
+      [
+        "The woman got on the bus.",
+        "Женщина села в автобус.",
+        "Аял автобуска түштү.",
+        "ركبت المرأة الحافلة.",
+        "La femme est montée dans le bus."
+      ]
+    ],
+    "erkek": [
+      "Erkek kardeşim üniversitede okuyor.",
+      [
+        "My brother studies at university.",
+        "Мой брат учится в университете.",
+        "Агам университетте окуйт.",
+        "أخي يدرس في الجامعة.",
+        "Mon frère étudie à l’université."
+      ]
+    ],
+    "okul": [
+      "Okul saat sekizde başlıyor.",
+      [
+        "School starts at eight o’clock.",
+        "Занятия в школе начинаются в восемь.",
+        "Мектеп саат сегизде башталат.",
+        "تبدأ المدرسة في الساعة الثامنة.",
+        "L’école commence à huit heures."
+      ]
+    ],
+    "sınıf": [
+      "Sınıf bugün çok kalabalık.",
+      [
+        "The classroom is very crowded today.",
+        "Сегодня в классе очень много людей.",
+        "Бүгүн класс абдан жык толгон.",
+        "الصف مزدحم جدًا اليوم.",
+        "La classe est très pleine aujourd’hui."
+      ]
+    ],
+    "gün": [
+      "Bugün güzel bir gün.",
+      [
+        "Today is a beautiful day.",
+        "Сегодня прекрасный день.",
+        "Бүгүн сонун күн.",
+        "اليوم يوم جميل.",
+        "Aujourd’hui, c’est une belle journée."
+      ]
+    ],
+    "burada": [
+      "Burada oturabilir miyim?",
+      [
+        "Can I sit here?",
+        "Можно мне здесь сесть?",
+        "Бул жерге отурсам болобу?",
+        "هل يمكنني الجلوس هنا؟",
+        "Puis-je m’asseoir ici ?"
+      ]
+    ],
+    "türkiyeliyim": [
+      "Ben Türkiye’denim.",
+      [
+        "I am from Turkey.",
+        "Я из Турции.",
+        "Мен Түркияданмын.",
+        "أنا من تركيا.",
+        "Je viens de Turquie."
+      ]
+    ],
+    "japonyalıyım": [
+      "Japonya’da yaşıyorum.",
+      [
+        "I live in Japan.",
+        "Я живу в Японии.",
+        "Мен Японияда жашайм.",
+        "أعيش في اليابان.",
+        "J’habite au Japon."
+      ]
+    ],
+    "kanadalıyım": [
+      "Kanada’da bir arkadaşım var.",
+      [
+        "I have a friend in Canada.",
+        "У меня есть друг в Канаде.",
+        "Канадада досум бар.",
+        "لدي صديق في كندا.",
+        "J’ai un ami au Canada."
+      ]
+    ],
+    "konuşuyorum": [
+      "Evde ailemle Türkçe konuşuyorum.",
+      [
+        "I speak Turkish with my family at home.",
+        "Дома я говорю с семьёй по-турецки.",
+        "Үйдө үй-бүлөм менен түркчө сүйлөшөм.",
+        "أتحدث التركية مع عائلتي في البيت.",
+        "Je parle turc avec ma famille à la maison."
+      ]
+    ],
+    "yaşıyorum": [
+      "Bişkek’te yaşıyorum.",
+      [
+        "I live in Bishkek.",
+        "Я живу в Бишкеке.",
+        "Мен Бишкекте жашайм.",
+        "أعيش في بيشكيك.",
+        "J’habite à Bichkek."
+      ]
+    ],
+    "tanışalım": [
+      "Ders çıkışı tanışalım.",
+      [
+        "Let’s meet after class.",
+        "Давайте познакомимся после занятия.",
+        "Сабактан кийин таанышалы.",
+        "لنتعارف بعد الدرس.",
+        "Faisons connaissance après le cours."
+      ]
+    ],
+    "öğretmenim": [
+      "Öğretmenim bugün bize yeni bir kitap verdi.",
+      [
+        "My teacher gave us a new book today.",
+        "Сегодня учитель дал нам новую книгу.",
+        "Мугалимибиз бүгүн бизге жаңы китеп берди.",
+        "أعطانا معلمي كتابًا جديدًا اليوم.",
+        "Mon professeur nous a donné un nouveau livre aujourd’hui."
+      ]
+    ],
+    "arkadaşlar": [
+      "Arkadaşlarımla parkta buluştum.",
+      [
+        "I met my friends at the park.",
+        "Я встретился(лась) с друзьями в парке.",
+        "Досторум менен сейил бакта жолуктум.",
+        "التقيت أصدقائي في الحديقة.",
+        "J’ai retrouvé mes amis au parc."
+      ]
+    ],
+    "geceler": [
+      "Kış geceleri erken başlar.",
+      [
+        "Winter nights begin early.",
+        "Зимой ночи наступают рано.",
+        "Кышкы түндөр эрте башталат.",
+        "تبدأ ليالي الشتاء مبكرًا.",
+        "Les nuits d’hiver commencent tôt."
+      ]
+    ],
+    "günler": [
+      "Hafta sonları günler daha sakin geçiyor.",
+      [
+        "The days are quieter on weekends.",
+        "По выходным дни проходят спокойнее.",
+        "Дем алыш күндөрү тынчыраак өтөт.",
+        "تمر الأيام بهدوء أكثر في عطلة نهاية الأسبوع.",
+        "Les journées sont plus calmes le week-end."
+      ]
+    ],
+    "akşamlar": [
+      "Akşamları ailemle yemek yerim.",
+      [
+        "I have dinner with my family in the evenings.",
+        "По вечерам я ужинаю с семьёй.",
+        "Кечинде үй-бүлөм менен тамактанам.",
+        "أتناول العشاء مع عائلتي في المساء.",
+        "Le soir, je dîne avec ma famille."
+      ]
+    ],
+    "sabahlar": [
+      "Sabahları kısa bir yürüyüş yaparım.",
+      [
+        "I take a short walk in the mornings.",
+        "По утрам я немного гуляю.",
+        "Эртең менен кыскача сейилдейм.",
+        "أتمشى قليلًا في الصباح.",
+        "Le matin, je fais une petite promenade."
       ]
     ]
   },
