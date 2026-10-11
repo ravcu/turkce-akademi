@@ -3079,6 +3079,13 @@
       "баруу",
       "الذهاب",
       "aller"
+    ],
+    "gelmek": [
+      "to come",
+      "приходить",
+      "келүү",
+      "المجيء",
+      "venir"
     ]
   },
   "phrases": {
@@ -3582,15 +3589,15 @@
         "школу",
         "мектепти",
         "المدرسة (مفعول به)",
-        "l’école (complément d’objet)"
+        "l’école (objet)"
       ],
-      "exampleTr": "Bu okulu çok seviyorum.",
+      "exampleTr": "Yeni okulu gördüm.",
       "examples": [
-        "I like this school very much.",
-        "Мне очень нравится эта школа.",
-        "Бул мектеп мага абдан жагат.",
-        "أحب هذه المدرسة كثيرًا.",
-        "J’aime beaucoup cette école."
+        "I saw the new school.",
+        "Я увидел(а) новую школу.",
+        "Жаңы мектепти көрдүм.",
+        "رأيتُ المدرسة الجديدة.",
+        "J’ai vu la nouvelle école."
       ]
     },
     "okullar": {
@@ -3627,6 +3634,24 @@
         "Кечээ мектепке бардым.",
         "ذهبتُ إلى المدرسة أمس.",
         "Je suis allé(e) à l’école hier."
+      ]
+    },
+    "geldiniz": {
+      "lemma": "gelmek",
+      "formTranslations": [
+        "you came (formal/plural)",
+        "вы пришли",
+        "сиз келдиңиз",
+        "أتيتم / أتيتَ",
+        "vous êtes venu(e)(s)"
+      ],
+      "exampleTr": "Öğretmenim, hoş geldiniz.",
+      "examples": [
+        "Welcome, teacher.",
+        "Добро пожаловать, учитель.",
+        "Кош келиңиз, мугалим.",
+        "أهلًا بك يا أستاذي.",
+        "Bienvenue, professeur."
       ]
     }
   }
