@@ -3086,6 +3086,83 @@
       "келүү",
       "المجيء",
       "venir"
+    ],
+    "fare": [
+      "mouse",
+      "мышь",
+      "чычкан",
+      "فأر",
+      "souris"
+    ],
+    "gözlük": [
+      "glasses",
+      "очки",
+      "көз айнек",
+      "نظارات",
+      "lunettes"
+    ],
+    "hemşire": [
+      "nurse",
+      "медсестра",
+      "медайым",
+      "ممرضة",
+      "infirmier / infirmière"
+    ],
+    "ıspanak": [
+      "spinach",
+      "шпинат",
+      "шпинат",
+      "سبانخ",
+      "épinards"
+    ],
+    "inek": [
+      "cow",
+      "корова",
+      "уй",
+      "بقرة",
+      "vache"
+    ],
+    "japon": [
+      "Japanese person",
+      "японец / японка",
+      "жапон",
+      "ياباني / يابانية",
+      "japon / japonaise"
+    ],
+    "kalem": [
+      "pencil",
+      "карандаш",
+      "калем",
+      "قلم رصاص",
+      "crayon"
+    ],
+    "limon": [
+      "lemon",
+      "лимон",
+      "лимон",
+      "ليمون",
+      "citron"
+    ],
+    "masa": [
+      "table",
+      "стол",
+      "үстөл",
+      "طاولة",
+      "table"
+    ],
+    "nar": [
+      "pomegranate",
+      "гранат",
+      "анар",
+      "رمان",
+      "grenade"
+    ],
+    "yanlış": [
+      "wrong",
+      "неправильно",
+      "туура эмес",
+      "خطأ",
+      "faux"
     ]
   },
   "phrases": {
@@ -4335,6 +4412,116 @@
         "أنا من البوسنة والهرسك وأعيش في سراييفو.",
         "Je viens de Bosnie-Herzégovine et j’habite à Sarajevo."
       ]
+    ],
+    "fare": [
+      "Evde küçük bir fare var.",
+      [
+        "There is a small mouse in the house.",
+        "В доме есть маленькая мышь.",
+        "Үйдө кичинекей чычкан бар.",
+        "في البيت فأر صغير.",
+        "Il y a une petite souris dans la maison."
+      ]
+    ],
+    "gözlük": [
+      "Gözlüğüm masanın üstünde.",
+      [
+        "My glasses are on the table.",
+        "Мои очки на столе.",
+        "Көз айнегим үстөлдүн үстүндө.",
+        "نظارتي على الطاولة.",
+        "Mes lunettes sont sur la table."
+      ]
+    ],
+    "hemşire": [
+      "Hemşire hastaya yardım ediyor.",
+      [
+        "The nurse is helping the patient.",
+        "Медсестра помогает пациенту.",
+        "Медайым бейтапка жардам берип жатат.",
+        "الممرضة تساعد المريض.",
+        "L’infirmière aide le patient."
+      ]
+    ],
+    "ıspanak": [
+      "Annem akşam yemeğine ıspanak yaptı.",
+      [
+        "My mother made spinach for dinner.",
+        "Мама приготовила шпинат на ужин.",
+        "Апам кечки тамакка шпинат жасады.",
+        "أعدّت أمي السبانخ للعشاء.",
+        "Ma mère a préparé des épinards pour le dîner."
+      ]
+    ],
+    "inek": [
+      "İnek çiftlikte yaşıyor.",
+      [
+        "The cow lives on a farm.",
+        "Корова живёт на ферме.",
+        "Уй фермада жашайт.",
+        "تعيش البقرة في المزرعة.",
+        "La vache vit à la ferme."
+      ]
+    ],
+    "japon": [
+      "Akira Japon.",
+      [
+        "Akira is Japanese.",
+        "Акира — японец.",
+        "Акира — жапон.",
+        "أكيرا ياباني.",
+        "Akira est japonais."
+      ]
+    ],
+    "kalem": [
+      "Bir kalem alabilir miyim?",
+      [
+        "May I have a pencil?",
+        "Можно мне карандаш?",
+        "Мага карандаш бересизби?",
+        "هل يمكنني أخذ قلم رصاص؟",
+        "Puis-je avoir un crayon ?"
+      ]
+    ],
+    "limon": [
+      "Çaya limon koyuyorum.",
+      [
+        "I am putting lemon in the tea.",
+        "Я кладу лимон в чай.",
+        "Чайга лимон салып жатам.",
+        "أضع الليمون في الشاي.",
+        "Je mets du citron dans le thé."
+      ]
+    ],
+    "masa": [
+      "Kitap masanın üstünde.",
+      [
+        "The book is on the table.",
+        "Книга на столе.",
+        "Китеп үстөлдүн үстүндө.",
+        "الكتاب على الطاولة.",
+        "Le livre est sur la table."
+      ]
+    ],
+    "nar": [
+      "Nar çok faydalı bir meyvedir.",
+      [
+        "Pomegranate is a very healthy fruit.",
+        "Гранат — очень полезный фрукт.",
+        "Анар абдан пайдалуу мөмө.",
+        "الرمان فاكهة مفيدة جدًا.",
+        "La grenade est un fruit très sain."
+      ]
+    ],
+    "yanlış": [
+      "Bu cevap yanlış.",
+      [
+        "This answer is wrong.",
+        "Этот ответ неправильный.",
+        "Бул жооп туура эмес.",
+        "هذه الإجابة خاطئة.",
+        "Cette réponse est fausse."
+      ]
     ]
   },
   "forms": {
@@ -4656,7 +4843,7 @@
         },
         {
           "x": 0.215,
-          "y": 0.520,
+          "y": 0.52,
           "w": 0.135,
           "text": "benim adım"
         },

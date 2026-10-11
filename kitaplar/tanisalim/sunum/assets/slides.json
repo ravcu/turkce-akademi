@@ -1,0 +1,808 @@
+{
+  "title": "A1 · Tanışalım · Sunum Modu",
+  "aspectRatio": "16:9",
+  "slideCount": 94,
+  "audioAssetCount": 38,
+  "slides": [
+    {
+      "sequence": 1,
+      "sourcePart": "part-01",
+      "sourceSlide": 1,
+      "image": "assets/slides/001.jpg"
+    },
+    {
+      "sequence": 2,
+      "sourcePart": "part-01",
+      "sourceSlide": 2,
+      "image": "assets/slides/002.jpg"
+    },
+    {
+      "sequence": 3,
+      "sourcePart": "part-01",
+      "sourceSlide": 3,
+      "image": "assets/slides/003.jpg"
+    },
+    {
+      "sequence": 4,
+      "sourcePart": "part-01",
+      "sourceSlide": 4,
+      "image": "assets/slides/004.jpg",
+      "audio": "assets/audio/001.mp3"
+    },
+    {
+      "sequence": 5,
+      "sourcePart": "part-01",
+      "sourceSlide": 5,
+      "image": "assets/slides/005.jpg",
+      "audio": "assets/audio/002.mp3"
+    },
+    {
+      "sequence": 6,
+      "sourcePart": "part-01",
+      "sourceSlide": 6,
+      "image": "assets/slides/006.jpg",
+      "audio": "assets/audio/003.mp3"
+    },
+    {
+      "sequence": 7,
+      "sourcePart": "part-01",
+      "sourceSlide": 7,
+      "image": "assets/slides/007.jpg",
+      "audio": "assets/audio/004.mp3"
+    },
+    {
+      "sequence": 8,
+      "sourcePart": "part-01",
+      "sourceSlide": 8,
+      "image": "assets/slides/008.jpg",
+      "audio": "assets/audio/005.mp3"
+    },
+    {
+      "sequence": 9,
+      "sourcePart": "part-01",
+      "sourceSlide": 9,
+      "image": "assets/slides/009.jpg",
+      "audio": "assets/audio/006.mp3"
+    },
+    {
+      "sequence": 10,
+      "sourcePart": "part-01",
+      "sourceSlide": 12,
+      "image": "assets/slides/010.jpg",
+      "audio": "assets/audio/007.mp3"
+    },
+    {
+      "sequence": 11,
+      "sourcePart": "part-01",
+      "sourceSlide": 13,
+      "image": "assets/slides/011.jpg",
+      "audio": "assets/audio/008.mp3"
+    },
+    {
+      "sequence": 12,
+      "sourcePart": "part-01",
+      "sourceSlide": 14,
+      "image": "assets/slides/012.jpg"
+    },
+    {
+      "sequence": 13,
+      "sourcePart": "part-01",
+      "sourceSlide": 15,
+      "image": "assets/slides/013.jpg"
+    },
+    {
+      "sequence": 14,
+      "sourcePart": "part-01",
+      "sourceSlide": 16,
+      "image": "assets/slides/014.jpg"
+    },
+    {
+      "sequence": 15,
+      "sourcePart": "part-01",
+      "sourceSlide": 17,
+      "image": "assets/slides/015.jpg"
+    },
+    {
+      "sequence": 16,
+      "sourcePart": "part-01",
+      "sourceSlide": 18,
+      "image": "assets/slides/016.jpg"
+    },
+    {
+      "sequence": 17,
+      "sourcePart": "part-01",
+      "sourceSlide": 19,
+      "image": "assets/slides/017.jpg"
+    },
+    {
+      "sequence": 18,
+      "sourcePart": "part-01",
+      "sourceSlide": 20,
+      "image": "assets/slides/018.jpg"
+    },
+    {
+      "sequence": 19,
+      "sourcePart": "part-01",
+      "sourceSlide": 21,
+      "image": "assets/slides/019.jpg",
+      "audio": "assets/audio/009.mp3"
+    },
+    {
+      "sequence": 20,
+      "sourcePart": "part-01",
+      "sourceSlide": 22,
+      "image": "assets/slides/020.jpg",
+      "audio": "assets/audio/010.mp3"
+    },
+    {
+      "sequence": 21,
+      "sourcePart": "part-01",
+      "sourceSlide": 24,
+      "image": "assets/slides/021.jpg"
+    },
+    {
+      "sequence": 22,
+      "sourcePart": "part-02",
+      "sourceSlide": 1,
+      "image": "assets/slides/022.jpg"
+    },
+    {
+      "sequence": 23,
+      "sourcePart": "part-02",
+      "sourceSlide": 2,
+      "image": "assets/slides/023.jpg"
+    },
+    {
+      "sequence": 24,
+      "sourcePart": "part-02",
+      "sourceSlide": 3,
+      "image": "assets/slides/024.jpg"
+    },
+    {
+      "sequence": 25,
+      "sourcePart": "part-02",
+      "sourceSlide": 4,
+      "image": "assets/slides/025.jpg"
+    },
+    {
+      "sequence": 26,
+      "sourcePart": "part-02",
+      "sourceSlide": 5,
+      "image": "assets/slides/026.jpg",
+      "audio": "assets/audio/011.mp3"
+    },
+    {
+      "sequence": 27,
+      "sourcePart": "part-02",
+      "sourceSlide": 6,
+      "image": "assets/slides/027.jpg",
+      "audio": "assets/audio/011.mp3"
+    },
+    {
+      "sequence": 28,
+      "sourcePart": "part-02",
+      "sourceSlide": 7,
+      "image": "assets/slides/028.jpg",
+      "audio": "assets/audio/011.mp3"
+    },
+    {
+      "sequence": 29,
+      "sourcePart": "part-02",
+      "sourceSlide": 8,
+      "image": "assets/slides/029.jpg",
+      "audio": "assets/audio/011.mp3"
+    },
+    {
+      "sequence": 30,
+      "sourcePart": "part-02",
+      "sourceSlide": 9,
+      "image": "assets/slides/030.jpg",
+      "audio": "assets/audio/011.mp3"
+    },
+    {
+      "sequence": 31,
+      "sourcePart": "part-02",
+      "sourceSlide": 10,
+      "image": "assets/slides/031.jpg"
+    },
+    {
+      "sequence": 32,
+      "sourcePart": "part-02",
+      "sourceSlide": 11,
+      "image": "assets/slides/032.jpg",
+      "audio": "assets/audio/012.mp3"
+    },
+    {
+      "sequence": 33,
+      "sourcePart": "part-02",
+      "sourceSlide": 12,
+      "image": "assets/slides/033.jpg",
+      "audio": "assets/audio/013.mp3"
+    },
+    {
+      "sequence": 34,
+      "sourcePart": "part-02",
+      "sourceSlide": 13,
+      "image": "assets/slides/034.jpg",
+      "audio": "assets/audio/014.mp3"
+    },
+    {
+      "sequence": 35,
+      "sourcePart": "part-02",
+      "sourceSlide": 15,
+      "image": "assets/slides/035.jpg"
+    },
+    {
+      "sequence": 36,
+      "sourcePart": "part-02",
+      "sourceSlide": 16,
+      "image": "assets/slides/036.jpg"
+    },
+    {
+      "sequence": 37,
+      "sourcePart": "part-02",
+      "sourceSlide": 17,
+      "image": "assets/slides/037.jpg",
+      "audio": "assets/audio/015.mp3"
+    },
+    {
+      "sequence": 38,
+      "sourcePart": "part-02",
+      "sourceSlide": 18,
+      "image": "assets/slides/038.jpg"
+    },
+    {
+      "sequence": 39,
+      "sourcePart": "part-02",
+      "sourceSlide": 19,
+      "image": "assets/slides/039.jpg"
+    },
+    {
+      "sequence": 40,
+      "sourcePart": "part-02",
+      "sourceSlide": 20,
+      "image": "assets/slides/040.jpg",
+      "audio": "assets/audio/016.mp3"
+    },
+    {
+      "sequence": 41,
+      "sourcePart": "part-02",
+      "sourceSlide": 21,
+      "image": "assets/slides/041.jpg",
+      "audio": "assets/audio/017.mp3"
+    },
+    {
+      "sequence": 42,
+      "sourcePart": "part-02",
+      "sourceSlide": 22,
+      "image": "assets/slides/042.jpg",
+      "audio": "assets/audio/018.mp3"
+    },
+    {
+      "sequence": 43,
+      "sourcePart": "part-02",
+      "sourceSlide": 23,
+      "image": "assets/slides/043.jpg",
+      "audio": "assets/audio/019.mp3"
+    },
+    {
+      "sequence": 44,
+      "sourcePart": "part-02",
+      "sourceSlide": 24,
+      "image": "assets/slides/044.jpg",
+      "audio": [
+        "assets/audio/020.mp3",
+        "assets/audio/021.mp3"
+      ]
+    },
+    {
+      "sequence": 45,
+      "sourcePart": "part-03",
+      "sourceSlide": 1,
+      "image": "assets/slides/045.jpg"
+    },
+    {
+      "sequence": 46,
+      "sourcePart": "part-03",
+      "sourceSlide": 2,
+      "image": "assets/slides/046.jpg"
+    },
+    {
+      "sequence": 47,
+      "sourcePart": "part-03",
+      "sourceSlide": 3,
+      "image": "assets/slides/047.jpg",
+      "audio": "assets/audio/022.mp3"
+    },
+    {
+      "sequence": 48,
+      "sourcePart": "part-03",
+      "sourceSlide": 4,
+      "image": "assets/slides/048.jpg",
+      "audio": "assets/audio/023.mp3"
+    },
+    {
+      "sequence": 49,
+      "sourcePart": "part-03",
+      "sourceSlide": 5,
+      "image": "assets/slides/049.jpg"
+    },
+    {
+      "sequence": 50,
+      "sourcePart": "part-03",
+      "sourceSlide": 6,
+      "image": "assets/slides/050.jpg"
+    },
+    {
+      "sequence": 51,
+      "sourcePart": "part-03",
+      "sourceSlide": 7,
+      "image": "assets/slides/051.jpg",
+      "audio": "assets/audio/024.mp3"
+    },
+    {
+      "sequence": 52,
+      "sourcePart": "part-03",
+      "sourceSlide": 8,
+      "image": "assets/slides/052.jpg"
+    },
+    {
+      "sequence": 53,
+      "sourcePart": "part-03",
+      "sourceSlide": 9,
+      "image": "assets/slides/053.jpg",
+      "audio": "assets/audio/025.mp3"
+    },
+    {
+      "sequence": 54,
+      "sourcePart": "part-03",
+      "sourceSlide": 11,
+      "image": "assets/slides/054.jpg"
+    },
+    {
+      "sequence": 55,
+      "sourcePart": "part-03",
+      "sourceSlide": 12,
+      "image": "assets/slides/055.jpg"
+    },
+    {
+      "sequence": 56,
+      "sourcePart": "part-03",
+      "sourceSlide": 13,
+      "image": "assets/slides/056.jpg"
+    },
+    {
+      "sequence": 57,
+      "sourcePart": "part-03",
+      "sourceSlide": 14,
+      "image": "assets/slides/057.jpg",
+      "audio": "assets/audio/026.mp3"
+    },
+    {
+      "sequence": 58,
+      "sourcePart": "part-03",
+      "sourceSlide": 16,
+      "image": "assets/slides/058.jpg"
+    },
+    {
+      "sequence": 59,
+      "sourcePart": "part-03",
+      "sourceSlide": 17,
+      "image": "assets/slides/059.jpg"
+    },
+    {
+      "sequence": 60,
+      "sourcePart": "part-03",
+      "sourceSlide": 18,
+      "image": "assets/slides/060.jpg"
+    },
+    {
+      "sequence": 61,
+      "sourcePart": "part-03",
+      "sourceSlide": 19,
+      "image": "assets/slides/061.jpg",
+      "audio": "assets/audio/027.mp3"
+    },
+    {
+      "sequence": 62,
+      "sourcePart": "part-03",
+      "sourceSlide": 20,
+      "image": "assets/slides/062.jpg",
+      "audio": "assets/audio/028.mp3"
+    },
+    {
+      "sequence": 63,
+      "sourcePart": "part-03",
+      "sourceSlide": 21,
+      "image": "assets/slides/063.jpg"
+    },
+    {
+      "sequence": 64,
+      "sourcePart": "part-03",
+      "sourceSlide": 22,
+      "image": "assets/slides/064.jpg"
+    },
+    {
+      "sequence": 65,
+      "sourcePart": "part-03",
+      "sourceSlide": 23,
+      "image": "assets/slides/065.jpg"
+    },
+    {
+      "sequence": 66,
+      "sourcePart": "part-03",
+      "sourceSlide": 24,
+      "image": "assets/slides/066.jpg"
+    },
+    {
+      "sequence": 67,
+      "sourcePart": "part-04",
+      "sourceSlide": 1,
+      "image": "assets/slides/067.jpg",
+      "audio": "assets/audio/029.mp3"
+    },
+    {
+      "sequence": 68,
+      "sourcePart": "part-04",
+      "sourceSlide": 3,
+      "image": "assets/slides/068.jpg"
+    },
+    {
+      "sequence": 69,
+      "sourcePart": "part-04",
+      "sourceSlide": 4,
+      "image": "assets/slides/069.jpg"
+    },
+    {
+      "sequence": 70,
+      "sourcePart": "part-04",
+      "sourceSlide": 5,
+      "image": "assets/slides/070.jpg",
+      "audio": "assets/audio/030.mp3"
+    },
+    {
+      "sequence": 71,
+      "sourcePart": "part-04",
+      "sourceSlide": 6,
+      "image": "assets/slides/071.jpg"
+    },
+    {
+      "sequence": 72,
+      "sourcePart": "part-04",
+      "sourceSlide": 7,
+      "image": "assets/slides/072.jpg",
+      "audio": "assets/audio/031.mp3"
+    },
+    {
+      "sequence": 73,
+      "sourcePart": "part-04",
+      "sourceSlide": 8,
+      "image": "assets/slides/073.jpg",
+      "audio": "assets/audio/032.mp3"
+    },
+    {
+      "sequence": 74,
+      "sourcePart": "part-04",
+      "sourceSlide": 9,
+      "image": "assets/slides/074.jpg",
+      "audio": "assets/audio/033.mp3"
+    },
+    {
+      "sequence": 75,
+      "sourcePart": "part-04",
+      "sourceSlide": 10,
+      "image": "assets/slides/075.jpg",
+      "audio": "assets/audio/034.mp3"
+    },
+    {
+      "sequence": 76,
+      "sourcePart": "part-04",
+      "sourceSlide": 11,
+      "image": "assets/slides/076.jpg",
+      "audio": "assets/audio/035.mp3"
+    },
+    {
+      "sequence": 77,
+      "sourcePart": "part-04",
+      "sourceSlide": 12,
+      "image": "assets/slides/077.jpg",
+      "audio": "assets/audio/036.mp3"
+    },
+    {
+      "sequence": 78,
+      "sourcePart": "part-04",
+      "sourceSlide": 13,
+      "image": "assets/slides/078.jpg",
+      "audio": "assets/audio/037.mp3"
+    },
+    {
+      "sequence": 79,
+      "sourcePart": "part-04",
+      "sourceSlide": 15,
+      "image": "assets/slides/079.jpg",
+      "audio": "assets/audio/038.mp3"
+    },
+    {
+      "sequence": 80,
+      "sourcePart": "part-04",
+      "sourceSlide": 16,
+      "image": "assets/slides/080.jpg"
+    },
+    {
+      "sequence": 81,
+      "sourcePart": "part-04",
+      "sourceSlide": 17,
+      "image": "assets/slides/081.jpg"
+    },
+    {
+      "sequence": 82,
+      "sourcePart": "part-04",
+      "sourceSlide": 18,
+      "image": "assets/slides/082.jpg"
+    },
+    {
+      "sequence": 83,
+      "sourcePart": "part-04",
+      "sourceSlide": 19,
+      "image": "assets/slides/083.jpg"
+    },
+    {
+      "sequence": 84,
+      "sourcePart": "part-04",
+      "sourceSlide": 20,
+      "image": "assets/slides/084.jpg"
+    },
+    {
+      "sequence": 85,
+      "sourcePart": "part-04",
+      "sourceSlide": 21,
+      "image": "assets/slides/085.jpg"
+    },
+    {
+      "sequence": 86,
+      "sourcePart": "part-04",
+      "sourceSlide": 22,
+      "image": "assets/slides/086.jpg"
+    },
+    {
+      "sequence": 87,
+      "sourcePart": "part-04",
+      "sourceSlide": 23,
+      "image": "assets/slides/087.jpg"
+    },
+    {
+      "sequence": 88,
+      "sourcePart": "part-04",
+      "sourceSlide": 24,
+      "image": "assets/slides/088.jpg"
+    },
+    {
+      "sequence": 89,
+      "sourcePart": "part-04",
+      "sourceSlide": 25,
+      "image": "assets/slides/089.jpg"
+    },
+    {
+      "sequence": 90,
+      "sourcePart": "part-04",
+      "sourceSlide": 26,
+      "image": "assets/slides/090.jpg"
+    },
+    {
+      "sequence": 91,
+      "sourcePart": "part-04",
+      "sourceSlide": 27,
+      "image": "assets/slides/091.jpg"
+    },
+    {
+      "sequence": 92,
+      "sourcePart": "part-04",
+      "sourceSlide": 28,
+      "image": "assets/slides/092.jpg"
+    },
+    {
+      "sequence": 93,
+      "sourcePart": "part-04",
+      "sourceSlide": 29,
+      "image": "assets/slides/093.jpg"
+    },
+    {
+      "sequence": 94,
+      "sourcePart": "part-04",
+      "sourceSlide": 30,
+      "image": "assets/slides/094.jpg"
+    }
+  ],
+  "audioAssets": [
+    {
+      "id": 1,
+      "path": "assets/audio/001.mp3",
+      "source": "part-01/audio/source-slide-04.wav"
+    },
+    {
+      "id": 2,
+      "path": "assets/audio/002.mp3",
+      "source": "part-01/audio/source-slide-05.wav"
+    },
+    {
+      "id": 3,
+      "path": "assets/audio/003.mp3",
+      "source": "part-01/audio/source-slide-06.wav"
+    },
+    {
+      "id": 4,
+      "path": "assets/audio/004.mp3",
+      "source": "part-01/audio/source-slide-07.wav"
+    },
+    {
+      "id": 5,
+      "path": "assets/audio/005.mp3",
+      "source": "part-01/audio/source-slide-08.wav"
+    },
+    {
+      "id": 6,
+      "path": "assets/audio/006.mp3",
+      "source": "part-01/audio/source-slide-09.wav"
+    },
+    {
+      "id": 7,
+      "path": "assets/audio/007.mp3",
+      "source": "part-01/audio/source-slide-12.wav"
+    },
+    {
+      "id": 8,
+      "path": "assets/audio/008.mp3",
+      "source": "part-01/audio/source-slide-13.wav"
+    },
+    {
+      "id": 9,
+      "path": "assets/audio/009.mp3",
+      "source": "part-01/audio/source-slide-21.wav"
+    },
+    {
+      "id": 10,
+      "path": "assets/audio/010.mp3",
+      "source": "part-01/audio/source-slide-22.wav"
+    },
+    {
+      "id": 11,
+      "path": "assets/audio/011.mp3",
+      "source": "part-02/audio/part-02-media1.wav"
+    },
+    {
+      "id": 12,
+      "path": "assets/audio/012.mp3",
+      "source": "part-02/audio/part-02-media2.wav"
+    },
+    {
+      "id": 13,
+      "path": "assets/audio/013.mp3",
+      "source": "part-02/audio/part-02-media3.wav"
+    },
+    {
+      "id": 14,
+      "path": "assets/audio/014.mp3",
+      "source": "part-02/audio/part-02-media4.wav"
+    },
+    {
+      "id": 15,
+      "path": "assets/audio/015.mp3",
+      "source": "part-02/audio/part-02-media5.wav"
+    },
+    {
+      "id": 16,
+      "path": "assets/audio/016.mp3",
+      "source": "part-02/audio/part-02-media6.mp3"
+    },
+    {
+      "id": 17,
+      "path": "assets/audio/017.mp3",
+      "source": "part-02/audio/part-02-media7.wav"
+    },
+    {
+      "id": 18,
+      "path": "assets/audio/018.mp3",
+      "source": "part-02/audio/part-02-media8.wav"
+    },
+    {
+      "id": 19,
+      "path": "assets/audio/019.mp3",
+      "source": "part-02/audio/part-02-media9.wav"
+    },
+    {
+      "id": 20,
+      "path": "assets/audio/020.mp3",
+      "source": "part-02/audio/part-02-media11.wav"
+    },
+    {
+      "id": 21,
+      "path": "assets/audio/021.mp3",
+      "source": "part-02/audio/part-02-media10.wav"
+    },
+    {
+      "id": 22,
+      "path": "assets/audio/022.mp3",
+      "source": "part-03/audio/part-03-media1.wav"
+    },
+    {
+      "id": 23,
+      "path": "assets/audio/023.mp3",
+      "source": "part-03/audio/part-03-media2.wav"
+    },
+    {
+      "id": 24,
+      "path": "assets/audio/024.mp3",
+      "source": "part-03/audio/part-03-media3.wav"
+    },
+    {
+      "id": 25,
+      "path": "assets/audio/025.mp3",
+      "source": "part-03/audio/part-03-media4.wav"
+    },
+    {
+      "id": 26,
+      "path": "assets/audio/026.mp3",
+      "source": "part-03/audio/part-03-media5.wav"
+    },
+    {
+      "id": 27,
+      "path": "assets/audio/027.mp3",
+      "source": "part-03/audio/part-03-media6.wav"
+    },
+    {
+      "id": 28,
+      "path": "assets/audio/028.mp3",
+      "source": "part-03/audio/part-03-media7.wav"
+    },
+    {
+      "id": 29,
+      "path": "assets/audio/029.mp3",
+      "source": "part-04/audio/part-04-media1.wav"
+    },
+    {
+      "id": 30,
+      "path": "assets/audio/030.mp3",
+      "source": "part-04/audio/part-04-media2.wav"
+    },
+    {
+      "id": 31,
+      "path": "assets/audio/031.mp3",
+      "source": "part-04/audio/part-04-media3.wav"
+    },
+    {
+      "id": 32,
+      "path": "assets/audio/032.mp3",
+      "source": "part-04/audio/part-04-media4.wav"
+    },
+    {
+      "id": 33,
+      "path": "assets/audio/033.mp3",
+      "source": "part-04/audio/part-04-media5.mp3"
+    },
+    {
+      "id": 34,
+      "path": "assets/audio/034.mp3",
+      "source": "part-04/audio/part-04-media6.wav"
+    },
+    {
+      "id": 35,
+      "path": "assets/audio/035.mp3",
+      "source": "part-04/audio/part-04-media7.wav"
+    },
+    {
+      "id": 36,
+      "path": "assets/audio/036.mp3",
+      "source": "part-04/audio/part-04-media8.wav"
+    },
+    {
+      "id": 37,
+      "path": "assets/audio/037.mp3",
+      "source": "part-04/audio/part-04-media9.wav"
+    },
+    {
+      "id": 38,
+      "path": "assets/audio/038.mp3",
+      "source": "part-04/audio/part-04-media10.wav"
+    }
+  ]
+}
