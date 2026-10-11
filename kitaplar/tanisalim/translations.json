@@ -3447,13 +3447,13 @@
       ]
     ],
     "öğrenci": [
-      "Öğrenciler dersten sonra kütüphaneye gitti.",
+      "Yeni öğrenci kütüphanede ders çalışıyor.",
       [
-        "The students went to the library after class.",
-        "После урока ученики пошли в библиотеку.",
-        "Окуучулар сабактан кийин китепканага барышты.",
-        "ذهب الطلاب إلى المكتبة بعد الدرس.",
-        "Les élèves sont allés à la bibliothèque après le cours."
+        "The new student is studying in the library.",
+        "Новый ученик занимается в библиотеке.",
+        "Жаңы окуучу китепканада сабак окуп жатат.",
+        "الطالب الجديد يدرس في المكتبة.",
+        "Le nouvel élève étudie à la bibliothèque."
       ]
     ],
     "öğretmen": [
@@ -3617,33 +3617,33 @@
       ]
     ],
     "türkiyeliyim": [
-      "Ben Türkiye’denim.",
+      "Ben Türkiyeliyim, İstanbul’da doğdum.",
       [
-        "I am from Turkey.",
-        "Я из Турции.",
-        "Мен Түркияданмын.",
-        "أنا من تركيا.",
-        "Je viens de Turquie."
+        "I am from Türkiye; I was born in Istanbul.",
+        "Я из Турции, я родился / родилась в Стамбуле.",
+        "Мен Түркияданмын, Стамбулда төрөлгөм.",
+        "أنا من تركيا، وُلدت في إسطنبول.",
+        "Je viens de Turquie, je suis né(e) à Istanbul."
       ]
     ],
     "japonyalıyım": [
-      "Japonya’da yaşıyorum.",
+      "Ben Japonyalıyım, Tokyo’da yaşıyorum.",
       [
-        "I live in Japan.",
-        "Я живу в Японии.",
-        "Мен Японияда жашайм.",
-        "أعيش في اليابان.",
-        "J’habite au Japon."
+        "I am Japanese and live in Tokyo.",
+        "Я японец / японка и живу в Токио.",
+        "Мен жапонмун, Токиодо жашайм.",
+        "أنا ياباني/يابانية وأعيش في طوكيو.",
+        "Je suis japonais(e) et j’habite à Tokyo."
       ]
     ],
     "kanadalıyım": [
-      "Kanada’da bir arkadaşım var.",
+      "Ben Kanadalıyım, Toronto’da yaşıyorum.",
       [
-        "I have a friend in Canada.",
-        "У меня есть друг в Канаде.",
-        "Канадада досум бар.",
-        "لدي صديق في كندا.",
-        "J’ai un ami au Canada."
+        "I am Canadian and live in Toronto.",
+        "Я канадец / канадка и живу в Торонто.",
+        "Мен канадалыкмын, Торонтодо жашайм.",
+        "أنا كندي/كندية وأعيش في تورونتو.",
+        "Je suis canadien(ne) et j’habite à Toronto."
       ]
     ],
     "konuşuyorum": [
@@ -3734,6 +3734,606 @@
         "Эртең менен кыскача сейилдейм.",
         "أتمشى قليلًا في الصباح.",
         "Le matin, je fais une petite promenade."
+      ]
+    ],
+    "aleykümselam": [
+      "Aleykümselam, hoş geldiniz.",
+      [
+        "And peace be upon you; welcome.",
+        "И вам мир, добро пожаловать.",
+        "Алейкум ассалам, кош келиңиз.",
+        "وعليكم السلام، أهلًا وسهلًا.",
+        "Que la paix soit sur vous, bienvenue."
+      ]
+    ],
+    "ben": [
+      "Ben bugün okula erken geldim.",
+      [
+        "I came to school early today.",
+        "Сегодня я рано пришёл в школу.",
+        "Мен бүгүн мектепке эрте келдим.",
+        "أتيت إلى المدرسة مبكرًا اليوم.",
+        "Je suis arrivé tôt à l’école aujourd’hui."
+      ]
+    ],
+    "benim": [
+      "Bu benim yeni defterim.",
+      [
+        "This is my new notebook.",
+        "Это моя новая тетрадь.",
+        "Бул менин жаңы дептерим.",
+        "هذا دفتري الجديد.",
+        "C’est mon nouveau cahier."
+      ]
+    ],
+    "sen": [
+      "Sen hangi şehirde yaşıyorsun?",
+      [
+        "Which city do you live in?",
+        "В каком городе ты живёшь?",
+        "Сен кайсы шаарда жашайсың?",
+        "في أي مدينة تعيش؟",
+        "Dans quelle ville habites-tu ?"
+      ]
+    ],
+    "senin": [
+      "Senin telefon numaran nedir?",
+      [
+        "What is your phone number?",
+        "Какой у тебя номер телефона?",
+        "Сенин телефон номериң кандай?",
+        "ما رقم هاتفك؟",
+        "Quel est ton numéro de téléphone ?"
+      ]
+    ],
+    "siz": [
+      "Siz bugün derse katılıyor musunuz?",
+      [
+        "Are you attending class today?",
+        "Вы сегодня будете на занятии?",
+        "Сиз бүгүн сабакка катышасызбы?",
+        "هل ستحضرون الدرس اليوم؟",
+        "Vous assistez au cours aujourd’hui ?"
+      ]
+    ],
+    "sizin": [
+      "Sizin sınıfınız ikinci katta.",
+      [
+        "Your classroom is on the second floor.",
+        "Ваша аудитория на втором этаже.",
+        "Сиздин классыңыз экинчи кабатта.",
+        "صفّكم في الطابق الثاني.",
+        "Votre classe est au deuxième étage."
+      ]
+    ],
+    "adı": [
+      "Yeni öğrencinin adı Lina.",
+      [
+        "The new student’s name is Lina.",
+        "Новую ученицу зовут Лина.",
+        "Жаңы окуучунун аты Лина.",
+        "اسم الطالبة الجديدة لينا.",
+        "La nouvelle élève s’appelle Lina."
+      ]
+    ],
+    "adın": [
+      "Merhaba, adın ne?",
+      [
+        "Hello, what is your name?",
+        "Привет, как тебя зовут?",
+        "Салам, атың ким?",
+        "مرحبًا، ما اسمك؟",
+        "Bonjour, comment tu t’appelles ?"
+      ]
+    ],
+    "soyad": [
+      "Formdaki soyad bölümünü doldurun.",
+      [
+        "Fill in the surname field on the form.",
+        "Заполните поле «фамилия» в анкете.",
+        "Анкетадагы фамилия бөлүгүн толтуруңуз.",
+        "املأ خانة اسم العائلة في الاستمارة.",
+        "Remplissez la case « nom de famille » du formulaire."
+      ]
+    ],
+    "adı-soyadı": [
+      "Lütfen öğrencinin adı-soyadını yazın.",
+      [
+        "Please write the student’s first and last name.",
+        "Пожалуйста, напишите имя и фамилию ученика.",
+        "Окуучунун аты-жөнүн жазыңызчы.",
+        "يرجى كتابة الاسم واسم العائلة للطالب.",
+        "Veuillez écrire le prénom et le nom de l’élève."
+      ]
+    ],
+    "yaşı": [
+      "Kardeşimin yaşı on beş.",
+      [
+        "My sibling is fifteen years old.",
+        "Моему брату / моей сестре пятнадцать лет.",
+        "Бир тууганым он беш жашта.",
+        "عمر أخي/أختي خمس عشرة سنة.",
+        "Mon frère / ma sœur a quinze ans."
+      ]
+    ],
+    "yaşında": [
+      "Ece on beş yaşında.",
+      [
+        "Ece is fifteen years old.",
+        "Эдже пятнадцать лет.",
+        "Эже он беш жашта.",
+        "إجه تبلغ الخامسة عشرة من عمرها.",
+        "Ece a quinze ans."
+      ]
+    ],
+    "yaşındasın": [
+      "Sen kaç yaşındasın?",
+      [
+        "How old are you?",
+        "Сколько тебе лет?",
+        "Сен канча жаштасың?",
+        "كم عمرك؟",
+        "Quel âge as-tu ?"
+      ]
+    ],
+    "yaşındayım": [
+      "Ben on beş yaşındayım.",
+      [
+        "I am fifteen years old.",
+        "Мне пятнадцать лет.",
+        "Мен он беш жаштамын.",
+        "عمري خمس عشرة سنة.",
+        "J’ai quinze ans."
+      ]
+    ],
+    "ülkesi": [
+      "Onun ülkesi Kanada, ama burada yaşıyor.",
+      [
+        "Her country is Canada, but she lives here.",
+        "Её страна — Канада, но она живёт здесь.",
+        "Анын өлкөсү Канада, бирок ал бул жерде жашайт.",
+        "بلدها كندا، لكنها تعيش هنا.",
+        "Son pays est le Canada, mais elle vit ici."
+      ]
+    ],
+    "ülkeleri": [
+      "Sınıftaki öğrencilerin ülkeleri farklı.",
+      [
+        "The students in the class are from different countries.",
+        "Ученики в классе приехали из разных стран.",
+        "Класстагы окуучулар ар кайсы өлкөлөрдөн.",
+        "طلاب الصف من بلدان مختلفة.",
+        "Les élèves de la classe viennent de pays différents."
+      ]
+    ],
+    "ülkelerini": [
+      "Çocuklar ülkelerini haritada buldu.",
+      [
+        "The children found their country on the map.",
+        "Дети нашли свою страну на карте.",
+        "Балдар өз өлкөсүн картадан табышты.",
+        "وجد الأطفال بلدهم على الخريطة.",
+        "Les enfants ont trouvé leur pays sur la carte."
+      ]
+    ],
+    "ülkenizde": [
+      "Ülkenizde hangi diller konuşuluyor?",
+      [
+        "What languages are spoken in your country?",
+        "На каких языках говорят в вашей стране?",
+        "Өлкөңүздө кайсы тилдерде сүйлөшөт?",
+        "ما اللغات التي تُتحدث في بلدكم؟",
+        "Quelles langues parle-t-on dans votre pays ?"
+      ]
+    ],
+    "ülkenizi": [
+      "Ülkenizi bize biraz anlatır mısınız?",
+      [
+        "Could you tell us a little about your country?",
+        "Расскажите нам немного о своей стране.",
+        "Өлкөңүз жөнүндө бир аз айтып бересизби?",
+        "هل يمكنكم أن تحدثونا قليلًا عن بلدكم؟",
+        "Pourriez-vous nous parler un peu de votre pays ?"
+      ]
+    ],
+    "ülkemize": [
+      "Yaz tatilinde ülkemize dönüyoruz.",
+      [
+        "We are returning to our country for the summer holiday.",
+        "На летние каникулы мы возвращаемся в нашу страну.",
+        "Жайкы эс алууда өлкөбүзгө кайтып жатабыз.",
+        "نعود إلى بلدنا في العطلة الصيفية.",
+        "Nous retournons dans notre pays pour les vacances d’été."
+      ]
+    ],
+    "dili": [
+      "Bu okulda eğitim dili Türkçe.",
+      [
+        "The language of instruction at this school is Turkish.",
+        "Язык обучения в этой школе — турецкий.",
+        "Бул мектепте окутуу тили — түрк тили.",
+        "لغة التدريس في هذه المدرسة هي التركية.",
+        "La langue d’enseignement de cette école est le turc."
+      ]
+    ],
+    "türkçe": [
+      "Evde Türkçe konuşuyoruz.",
+      [
+        "We speak Turkish at home.",
+        "Дома мы говорим по-турецки.",
+        "Үйдө түркчө сүйлөшөбүз.",
+        "نتحدث التركية في المنزل.",
+        "Nous parlons turc à la maison."
+      ]
+    ],
+    "türkçesi": [
+      "Bu filmin Türkçesi çok anlaşılır.",
+      [
+        "The Turkish in this film is easy to understand.",
+        "Турецкая речь в этом фильме очень понятная.",
+        "Бул тасмадагы түркчө абдан түшүнүктүү.",
+        "التركية في هذا الفيلم واضحة جدًا.",
+        "Le turc de ce film est très facile à comprendre."
+      ]
+    ],
+    "türkçemize": [
+      "Her gün Türkçemize yeni kelimeler katıyoruz.",
+      [
+        "We add new words to our Turkish every day.",
+        "Каждый день мы добавляем новые слова в наш турецкий.",
+        "Күн сайын түрк тилибизге жаңы сөздөрдү кошобуз.",
+        "نضيف كلمات جديدة إلى لغتنا التركية كل يوم.",
+        "Chaque jour, nous ajoutons de nouveaux mots à notre turc."
+      ]
+    ],
+    "ingilizce": [
+      "İngilizce biliyor musun?",
+      [
+        "Do you speak English?",
+        "Ты знаешь английский?",
+        "Англисче билесиңби?",
+        "هل تعرف الإنجليزية؟",
+        "Tu parles anglais ?"
+      ]
+    ],
+    "arapça": [
+      "Komşumuz evde Arapça konuşuyor.",
+      [
+        "Our neighbor speaks Arabic at home.",
+        "Наш сосед дома говорит по-арабски.",
+        "Кошунабыз үйдө арабча сүйлөйт.",
+        "يتحدث جارنا العربية في المنزل.",
+        "Notre voisin parle arabe à la maison."
+      ]
+    ],
+    "japonca": [
+      "Akira okulda Japonca ve Türkçe öğreniyor.",
+      [
+        "Akira is learning Japanese and Turkish at school.",
+        "Акира изучает в школе японский и турецкий.",
+        "Акира мектепте жапон жана түрк тилдерин үйрөнүп жатат.",
+        "يتعلم أكيرا اليابانية والتركية في المدرسة.",
+        "Akira apprend le japonais et le turc à l’école."
+      ]
+    ],
+    "boşnakça": [
+      "Mina ailesiyle Boşnakça konuşuyor.",
+      [
+        "Mina speaks Bosnian with her family.",
+        "Мина разговаривает с семьёй по-боснийски.",
+        "Мина үй-бүлөсү менен боснияча сүйлөшөт.",
+        "تتحدث مينا البوسنية مع عائلتها.",
+        "Mina parle bosnien avec sa famille."
+      ]
+    ],
+    "svahili": [
+      "Tanzanya’da birçok kişi Svahili konuşuyor.",
+      [
+        "Many people speak Swahili in Tanzania.",
+        "В Танзании многие говорят на суахили.",
+        "Танзанияда көп адамдар суахили тилинде сүйлөшөт.",
+        "يتحدث كثير من الناس السواحيلية في تنزانيا.",
+        "En Tanzanie, beaucoup de gens parlent swahili."
+      ]
+    ],
+    "urduca": [
+      "Amina evde Urduca konuşuyor.",
+      [
+        "Amina speaks Urdu at home.",
+        "Амина дома говорит на урду.",
+        "Амина үйдө урдуча сүйлөйт.",
+        "تتحدث أمينة الأردية في المنزل.",
+        "Amina parle ourdou à la maison."
+      ]
+    ],
+    "selamünaleyküm": [
+      "Selamünaleyküm, nasılsınız?",
+      [
+        "Peace be upon you; how are you?",
+        "Мир вам, как вы?",
+        "Ассаламу алейкум, кандайсыз?",
+        "السلام عليكم، كيف حالكم؟",
+        "Que la paix soit sur vous, comment allez-vous ?"
+      ]
+    ],
+    "iyi": [
+      "Bugün kendimi çok iyi hissediyorum.",
+      [
+        "I feel very well today.",
+        "Сегодня я чувствую себя очень хорошо.",
+        "Бүгүн өзүмдү абдан жакшы сезип жатам.",
+        "أشعر أنني بخير جدًا اليوم.",
+        "Je me sens très bien aujourd’hui."
+      ]
+    ],
+    "nasıl": [
+      "Yeni okulun nasıl?",
+      [
+        "How is your new school?",
+        "Как тебе новая школа?",
+        "Жаңы мектебиң кандай?",
+        "كيف هي مدرستك الجديدة؟",
+        "Comment est ta nouvelle école ?"
+      ]
+    ],
+    "hoş": [
+      "Yeni öğretmenimiz bizi hoş bir gülümsemeyle karşıladı.",
+      [
+        "Our new teacher greeted us with a warm smile.",
+        "Новый учитель встретил нас с приятной улыбкой.",
+        "Жаңы мугалим бизди жылмаюу менен тосуп алды.",
+        "استقبلنا معلمنا الجديد بابتسامة لطيفة.",
+        "Notre nouveau professeur nous a accueillis avec un sourire chaleureux."
+      ]
+    ],
+    "hoşça": [
+      "Hoşça kal, yarın görüşürüz.",
+      [
+        "Goodbye, see you tomorrow.",
+        "До свидания, увидимся завтра.",
+        "Кош бол, эртең көрүшөбүз.",
+        "إلى اللقاء، أراك غدًا.",
+        "Au revoir, à demain."
+      ]
+    ],
+    "memnun": [
+      "Sizinle tanıştığıma memnun oldum.",
+      [
+        "I am pleased to meet you.",
+        "Рад(а) с вами познакомиться.",
+        "Сиз менен таанышканыма кубанычтамын.",
+        "سُررت بلقائكم.",
+        "Ravi(e) de faire votre connaissance."
+      ]
+    ],
+    "teşekkürler": [
+      "Yardımın için teşekkürler.",
+      [
+        "Thanks for your help.",
+        "Спасибо за помощь.",
+        "Жардамың үчүн рахмат.",
+        "شكرًا على مساعدتك.",
+        "Merci pour ton aide."
+      ]
+    ],
+    "rica": [
+      "Bir bardak su rica edebilir miyim?",
+      [
+        "May I have a glass of water, please?",
+        "Можно попросить стакан воды?",
+        "Бир стакан суу бересизби, сураныч?",
+        "هل يمكنني طلب كوب من الماء؟",
+        "Puis-je avoir un verre d’eau, s’il vous plaît ?"
+      ]
+    ],
+    "görüşürüz": [
+      "Yarın okulda görüşürüz.",
+      [
+        "See you at school tomorrow.",
+        "Увидимся завтра в школе.",
+        "Эртең мектептен көрүшөбүз.",
+        "أراك غدًا في المدرسة.",
+        "À demain à l’école."
+      ]
+    ],
+    "görüşelim": [
+      "Ders çıkışı kafede görüşelim.",
+      [
+        "Let’s meet at the café after class.",
+        "Давай встретимся в кафе после занятий.",
+        "Сабактан кийин кафеде жолугалы.",
+        "لنتقابل في المقهى بعد الدرس.",
+        "Retrouvons-nous au café après le cours."
+      ]
+    ],
+    "görüşmek": [
+      "Sizinle tekrar görüşmek isterim.",
+      [
+        "I would like to see you again.",
+        "Я хотел(а) бы увидеться с вами снова.",
+        "Сиз менен кайра жолугушкум келет.",
+        "أود أن ألتقي بكم مرة أخرى.",
+        "J’aimerais vous revoir."
+      ]
+    ],
+    "nereli": [
+      "Yeni arkadaşın nereli?",
+      [
+        "Where is your new friend from?",
+        "Откуда твой новый друг?",
+        "Жаңы досуң кайсы жерден?",
+        "من أين صديقك الجديد؟",
+        "D’où vient ton nouvel ami ?"
+      ]
+    ],
+    "orada": [
+      "Kütüphane orada, okulun yanında.",
+      [
+        "The library is over there, next to the school.",
+        "Библиотека вон там, рядом со школой.",
+        "Китепкана тигил жерде, мектептин жанында.",
+        "المكتبة هناك بجانب المدرسة.",
+        "La bibliothèque est là-bas, à côté de l’école."
+      ]
+    ],
+    "öğretmeniyim": [
+      "Ben bu okulda Türkçe öğretmeniyim.",
+      [
+        "I am a Turkish teacher at this school.",
+        "Я учитель турецкого языка в этой школе.",
+        "Мен бул мектепте түрк тили мугалимимин.",
+        "أنا معلم اللغة التركية في هذه المدرسة.",
+        "Je suis professeur de turc dans cette école."
+      ]
+    ],
+    "türkiye": [
+      "Türkiye’de dört mevsim yaşanır.",
+      [
+        "There are four seasons in Türkiye.",
+        "В Турции бывают все четыре времени года.",
+        "Түркияда төрт мезгил бар.",
+        "توجد أربعة فصول في تركيا.",
+        "La Turquie connaît quatre saisons."
+      ]
+    ],
+    "türkiyeli": [
+      "Sınıftaki yeni öğrenci Türkiyeli.",
+      [
+        "The new student in the class is from Türkiye.",
+        "Новый ученик в классе из Турции.",
+        "Класстагы жаңы окуучу Түркиядан.",
+        "الطالب الجديد في الصف من تركيا.",
+        "Le nouvel élève de la classe vient de Turquie."
+      ]
+    ],
+    "japonya": [
+      "Japonya Asya’da bir ada ülkesidir.",
+      [
+        "Japan is an island country in Asia.",
+        "Япония — островное государство в Азии.",
+        "Япония — Азиядагы арал өлкө.",
+        "اليابان دولة جزرية في آسيا.",
+        "Le Japon est un pays insulaire d’Asie."
+      ]
+    ],
+    "kanada": [
+      "Kanada’nın başkenti Ottawa’dır.",
+      [
+        "The capital of Canada is Ottawa.",
+        "Столица Канады — Оттава.",
+        "Канаданын борбору — Оттава.",
+        "عاصمة كندا هي أوتاوا.",
+        "La capitale du Canada est Ottawa."
+      ]
+    ],
+    "suriyeli": [
+      "Yeni komşumuz Suriyeli ve çok nazik.",
+      [
+        "Our new neighbor is Syrian and very kind.",
+        "Наш новый сосед из Сирии и очень добрый.",
+        "Жаңы кошунабыз Сириядан, абдан сылык.",
+        "جارنا الجديد سوري ولطيف جدًا.",
+        "Notre nouveau voisin est syrien et très gentil."
+      ]
+    ],
+    "pakistan": [
+      "Pakistan Güney Asya’da yer alır.",
+      [
+        "Pakistan is in South Asia.",
+        "Пакистан находится в Южной Азии.",
+        "Пакистан Түштүк Азияда жайгашкан.",
+        "تقع باكستان في جنوب آسيا.",
+        "Le Pakistan se trouve en Asie du Sud."
+      ]
+    ],
+    "pakistanlı": [
+      "Yeni doktor Pakistanlı.",
+      [
+        "The new doctor is Pakistani.",
+        "Новый врач — пакистанец / пакистанка.",
+        "Жаңы дарыгер пакистандык.",
+        "الطبيب الجديد باكستاني.",
+        "Le nouveau médecin est pakistanais."
+      ]
+    ],
+    "pakistanlıyım": [
+      "Ben Pakistanlıyım, Karaçi’de doğdum.",
+      [
+        "I am Pakistani; I was born in Karachi.",
+        "Я пакистанец / пакистанка, я родился / родилась в Карачи.",
+        "Мен пакистандыкмын, Карачиде төрөлгөм.",
+        "أنا باكستاني/باكستانية، وُلدت في كراتشي.",
+        "Je suis pakistanais(e), je suis né(e) à Karachi."
+      ]
+    ],
+    "tanzanya": [
+      "Tanzanya’nın doğusunda Hint Okyanusu var.",
+      [
+        "The Indian Ocean is east of Tanzania.",
+        "К востоку от Танзании находится Индийский океан.",
+        "Танзаниянын чыгышында Инд океаны бар.",
+        "يقع المحيط الهندي شرق تنزانيا.",
+        "L’océan Indien se trouve à l’est de la Tanzanie."
+      ]
+    ],
+    "tanzanyalıyım": [
+      "Ben Tanzanyalıyım ve Darüsselam’da yaşıyorum.",
+      [
+        "I am Tanzanian and live in Dar es Salaam.",
+        "Я из Танзании и живу в Дар-эс-Саламе.",
+        "Мен танзаниялыкмын, Дар-эс-Саламда жашайм.",
+        "أنا من تنزانيا وأعيش في دار السلام.",
+        "Je suis tanzanien(ne) et j’habite à Dar es Salaam."
+      ]
+    ],
+    "tunus": [
+      "Tunus, Akdeniz kıyısında bir ülkedir.",
+      [
+        "Tunisia is a country on the Mediterranean coast.",
+        "Тунис — страна на побережье Средиземного моря.",
+        "Тунис — Жер Ортолук деңизинин жээгиндеги өлкө.",
+        "تونس بلد يقع على ساحل البحر المتوسط.",
+        "La Tunisie est un pays situé sur la côte méditerranéenne."
+      ]
+    ],
+    "tunusluyum": [
+      "Ben Tunusluyum, ailem Susa’da yaşıyor.",
+      [
+        "I am Tunisian; my family lives in Sousse.",
+        "Я из Туниса, моя семья живёт в Сусе.",
+        "Мен тунистикмин, үй-бүлөм Сус шаарында жашайт.",
+        "أنا تونسي/تونسية، وعائلتي تعيش في سوسة.",
+        "Je suis tunisien(ne), ma famille vit à Sousse."
+      ]
+    ],
+    "özbekistan": [
+      "Özbekistan’ın başkenti Taşkent’tir.",
+      [
+        "The capital of Uzbekistan is Tashkent.",
+        "Столица Узбекистана — Ташкент.",
+        "Өзбекстандын борбору — Ташкент.",
+        "عاصمة أوزبكستان هي طشقند.",
+        "La capitale de l’Ouzbékistan est Tachkent."
+      ]
+    ],
+    "özbekistanlıyım": [
+      "Ben Özbekistanlıyım, Taşkent’te doğdum.",
+      [
+        "I am from Uzbekistan; I was born in Tashkent.",
+        "Я из Узбекистана, родился / родилась в Ташкенте.",
+        "Мен өзбекстандыкмын, Ташкентте төрөлгөм.",
+        "أنا من أوزبكستان، وُلدت في طشقند.",
+        "Je viens d’Ouzbékistan, je suis né(e) à Tachkent."
+      ]
+    ],
+    "bosna-hersekliyim": [
+      "Ben Bosna-Hersekliyim ve Saraybosna’da yaşıyorum.",
+      [
+        "I am from Bosnia and Herzegovina and live in Sarajevo.",
+        "Я из Боснии и Герцеговины и живу в Сараево.",
+        "Мен Босния жана Герцеговинаданмын, Сараеводо жашайм.",
+        "أنا من البوسنة والهرسك وأعيش في سراييفو.",
+        "Je viens de Bosnie-Herzégovine et j’habite à Sarajevo."
       ]
     ]
   },
