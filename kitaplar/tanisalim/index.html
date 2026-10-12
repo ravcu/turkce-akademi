@@ -46,7 +46,7 @@
     .answer-links line{stroke:#087f83;stroke-width:1.5;vector-effect:non-scaling-stroke;marker-end:url(#answerArrow)}
   </style>
 
-<script>if(new URLSearchParams(location.search).get('share')==='1')document.documentElement.classList.add('share-mode')</script><style>html.share-mode .mode-links{display:none!important}html.share-mode .brand{pointer-events:none;cursor:default}</style>
+<script>if(new URLSearchParams(location.search).get('share')==='1'){document.documentElement.classList.add('share-mode');document.addEventListener('DOMContentLoaded',()=>document.querySelector('.brand')?.removeAttribute('href'))}</script><style>html.share-mode .mode-links{display:none!important}html.share-mode .brand{pointer-events:none;cursor:default}</style>
 </head>
 <body>
   <header class="topbar">
