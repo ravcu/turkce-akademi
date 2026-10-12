@@ -171,7 +171,7 @@
       const synth=window.speechSynthesis;synth.cancel();
       const run=()=>{
         const voices=synth.getVoices(),voice=chooseSpeechVoice(voices,lang);
-        if(voices.length&&!voice){showToast(`${speechNames[lang]||lang} ses paketi cihazda yüklü değil.`);return}
+        // Ses seçicisi dil için eşleşme döndürmese de tarayıcının dil yedeğiyle konuşmayı dene.
         const u=new SpeechSynthesisUtterance(text);u.lang=voice?.lang||speechLanguages[lang]?.[0]||'tr-TR';u.rate=.88;if(voice)u.voice=voice;
         u.onerror=event=>{if(event.error!=='canceled')showToast(`${speechNames[lang]||lang} seslendirmesi kullanılamadı.`)};
         try{synth.speak(u)}catch{showToast(`${speechNames[lang]||lang} seslendirmesi kullanılamadı.`)}
