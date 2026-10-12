@@ -7295,16 +7295,33 @@
             "Benim sınıfımda sıra, masa, tahta ve pencere var."
           ]
         }
+      ],
+      "fills": [
+        {
+          "text": "Kitap, defter, sıra ve masa var.",
+          "x": 0.43,
+          "y": 0.3,
+          "w": 0.34
+        }
       ]
     },
     "6": {
-      "note": "Dinleme kodu S.023. Ses dosyası gelince bu etkinliğin dinleme düğmesine bağlanacak. Yazılı çalışma için örnek anahtar:",
+      "note": "Dinleme kodu S.023–S.024 için ses kaydı bekleniyor. Görselde çözülebilen bulmacanın cevapları:",
       "sections": [
         {
-          "title": "Okul eşyaları · örnek cevaplar",
+          "title": "Okul eşyaları · bulmaca",
           "items": [
-            "Kalem, kitap, defter, cetvel, silgi, çanta, makas, kalemtıraş, tebeşir, kalemlik ve yapıştırıcı.",
-            "Bulmaca cevapları sayfadaki kutu harflerine göre kontrol edilmelidir."
+            "1 · Tebeşir",
+            "2 · Kalemtıraş",
+            "3 · Kalemlik",
+            "4 · Yapıştırıcı",
+            "5 · Makas"
+          ]
+        },
+        {
+          "title": "Görsel söz varlığı",
+          "items": [
+            "Makas, kalemtıraş, tebeşir, kalemlik ve yapıştırıcı."
           ]
         }
       ]
@@ -7341,10 +7358,10 @@
           "w": 0.14
         },
         {
-          "text": "ol",
+          "text": "lütfen",
           "x": 0.8,
           "y": 0.429,
-          "w": 0.045
+          "w": 0.06
         },
         {
           "text": "ne var",
@@ -7357,12 +7374,6 @@
           "x": 0.7,
           "y": 0.614,
           "w": 0.06
-        },
-        {
-          "text": "Zeynep Hanım'ın",
-          "x": 0.68,
-          "y": 0.883,
-          "w": 0.15
         }
       ]
     },
@@ -7456,15 +7467,55 @@
       ]
     },
     "13": {
-      "note": "Doğru seçenekleri okul binası görselindeki kat planına bakarak işaretleyin.",
       "sections": [
         {
-          "title": "Okuduğunu anlama",
+          "title": "5. Doğru cevabı işaretleyin",
           "items": [
-            "1 · Birinci kattaki bölümü görseldeki plana göre bulun.",
-            "2 · İkinci kattaki bölümü görseldeki plana göre bulun.",
-            "3 · Soruların kalanını kat planındaki görsellere göre yanıtlayın."
+            "1 · Birinci katta spor salonu var.",
+            "2 · İkinci katta kütüphane var.",
+            "3 · Kitaplar kütüphanede.",
+            "4 · Spor salonunda basketbol topu var."
           ]
+        },
+        {
+          "title": "6. Okulunu tanıt · metne göre",
+          "items": [
+            "Okul iki katlıdır.",
+            "Birinci katta spor salonu, sınıflar, müdür odası, öğretmenler odası, tuvalet, konferans salonu ve kütüphane bulunur.",
+            "İkinci katta öğretmenler odası, müdür odası, laboratuvar ve sınıflar vardır."
+          ]
+        },
+        {
+          "title": "6b. Örnek yazı",
+          "items": [
+            "Bizim okulumuz iki katlı. Birinci katta spor salonu ve sınıflar var. İkinci katta laboratuvar ve kütüphane var."
+          ]
+        }
+      ],
+      "fills": [
+        {
+          "text": "spor salonu",
+          "x": 0.23,
+          "y": 0.177,
+          "w": 0.18
+        },
+        {
+          "text": "kütüphane",
+          "x": 0.69,
+          "y": 0.177,
+          "w": 0.15
+        },
+        {
+          "text": "kütüphanede",
+          "x": 0.235,
+          "y": 0.337,
+          "w": 0.18
+        },
+        {
+          "text": "basketbol topu",
+          "x": 0.68,
+          "y": 0.337,
+          "w": 0.22
         }
       ]
     },
