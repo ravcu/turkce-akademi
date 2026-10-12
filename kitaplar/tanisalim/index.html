@@ -171,10 +171,10 @@
       const synth=window.speechSynthesis;synth.cancel();
       const run=()=>{
         const voices=synth.getVoices(),voice=chooseSpeechVoice(voices,lang);
-        if(voices.length&&!voice){showToast(\`\${speechNames[lang]||lang} ses paketi cihazda yüklü değil.\`);return}
+        if(voices.length&&!voice){showToast(`${speechNames[lang]||lang} ses paketi cihazda yüklü değil.`);return}
         const u=new SpeechSynthesisUtterance(text);u.lang=voice?.lang||speechLanguages[lang]?.[0]||'tr-TR';u.rate=.88;if(voice)u.voice=voice;
-        u.onerror=event=>{if(event.error!=='canceled')showToast(\`\${speechNames[lang]||lang} seslendirmesi kullanılamadı.\`)};
-        try{synth.speak(u)}catch{showToast(\`\${speechNames[lang]||lang} seslendirmesi kullanılamadı.\`)}
+        u.onerror=event=>{if(event.error!=='canceled')showToast(`${speechNames[lang]||lang} seslendirmesi kullanılamadı.`)};
+        try{synth.speak(u)}catch{showToast(`${speechNames[lang]||lang} seslendirmesi kullanılamadı.`)}
       };
       if(!synth.getVoices().length&&synth.addEventListener){
         let done=false;const ready=()=>{if(done||!synth.getVoices().length)return;done=true;clearTimeout(timer);synth.removeEventListener('voiceschanged',ready);run()};
