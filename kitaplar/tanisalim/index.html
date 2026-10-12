@@ -157,7 +157,31 @@
       while(n){const group=n%1000;if(group)parts.unshift(underThousand(group)+(units[i]?' '+units[i]:''));n=Math.floor(n/1000);i++}
       return parts.join(' ');
     }
-    function speakText(text,lang='tr'){text=cleanLeadingDashes(text);if(!text)return;if(!('speechSynthesis'in window)){showToast('Bu tarayıcıda sesli okuma desteklenmiyor.');return}speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(text);u.lang=lang==='en'?'en-US':lang==='ky'?'ky-KG':lang==='ar'?'ar-SA':lang==='fr'?'fr-FR':lang==='ru'?'ru-RU':'tr-TR';u.rate=.88;speechSynthesis.speak(u)}
+    const speechLanguages={tr:['tr-TR','tr'],en:['en-US','en'],ru:['ru-RU','ru'],ky:['ky-KG','ky'],ar:['ar-SA','ar-XA','ar-EG','ar'],fr:['fr-FR','fr']};
+    const speechNames={ky:'Kırgızca',ar:'Arapça',tr:'Türkçe',en:'İngilizce',ru:'Rusça',fr:'Fransızca'};
+    function chooseSpeechVoice(voices,language){
+      const wanted=speechLanguages[language]||[language||'tr-TR'];
+      for(const code of wanted){const exact=voices.find(v=>v.lang.toLowerCase()===code.toLowerCase());if(exact)return exact}
+      const base=wanted[0].split('-')[0].toLowerCase();
+      return voices.find(v=>v.lang.toLowerCase().split('-')[0]===base)||null;
+    }
+    function speakText(text,lang='tr'){
+      text=cleanLeadingDashes(text);if(!text)return;
+      if(!('speechSynthesis'in window)||!window.SpeechSynthesisUtterance){showToast('Bu tarayıcı sesli okumayı desteklemiyor.');return}
+      const synth=window.speechSynthesis;synth.cancel();
+      const run=()=>{
+        const voices=synth.getVoices(),voice=chooseSpeechVoice(voices,lang);
+        if(voices.length&&!voice){showToast(\`\${speechNames[lang]||lang} ses paketi cihazda yüklü değil.\`);return}
+        const u=new SpeechSynthesisUtterance(text);u.lang=voice?.lang||speechLanguages[lang]?.[0]||'tr-TR';u.rate=.88;if(voice)u.voice=voice;
+        u.onerror=event=>{if(event.error!=='canceled')showToast(\`\${speechNames[lang]||lang} seslendirmesi kullanılamadı.\`)};
+        try{synth.speak(u)}catch{showToast(\`\${speechNames[lang]||lang} seslendirmesi kullanılamadı.\`)}
+      };
+      if(!synth.getVoices().length&&synth.addEventListener){
+        let done=false;const ready=()=>{if(done||!synth.getVoices().length)return;done=true;clearTimeout(timer);synth.removeEventListener('voiceschanged',ready);run()};
+        const timer=setTimeout(()=>{if(done)return;done=true;synth.removeEventListener('voiceschanged',ready);run()},1000);
+        synth.addEventListener('voiceschanged',ready);
+      }else run();
+    }
     $('#speak').onclick=()=>{if(activeWord)speakText(activeWord)};
     $('#prev').onclick=()=>{if(current>0){current--;renderPage()}};$('#next').onclick=()=>{if(current<pages.length-1){current++;renderPage()}};
     $('#zoomIn').onclick=()=>{zoom=Math.min(1.5,zoom+.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};$('#zoomOut').onclick=()=>{zoom=Math.max(.8,zoom-.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};
