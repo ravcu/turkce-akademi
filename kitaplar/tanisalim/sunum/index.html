@@ -15,6 +15,18 @@
 @media(max-width:860px){.toolbar-listen{min-width:66px;padding:7px 6px;font-size:10px}.answer-controls{flex-wrap:wrap}}
 .slide-frame{perspective:1500px;transform-style:preserve-3d}.page-edge{position:absolute;z-index:5;top:50%;display:grid;place-items:center;width:42px;height:58px;margin-top:-29px;border:1px solid #ffffffb0;border-radius:13px;background:#173d3bcc;color:#fff;font-size:28px;line-height:1;cursor:pointer;opacity:.82;transition:opacity .18s,transform .18s,background .18s;box-shadow:0 5px 18px #163d3c35}.page-edge:hover{opacity:1;background:#126e65;transform:scale(1.06)}.page-edge:disabled{opacity:.18;cursor:default;transform:none}.page-edge.prev{left:12px}.page-edge.next{right:12px}.turn-sheet{position:absolute;inset:0;z-index:4;overflow:hidden;border-radius:inherit;background:#fff;backface-visibility:hidden;transform-style:preserve-3d;box-shadow:0 0 25px #132e2b45}.turn-sheet img{display:block;width:100%;height:100%;object-fit:contain}.turn-sheet.forward{transform-origin:left center;animation:turnForward .56s cubic-bezier(.54,.02,.78,.38) forwards}.turn-sheet.backward{transform-origin:right center;animation:turnBackward .56s cubic-bezier(.54,.02,.78,.38) forwards}@keyframes turnForward{0%{transform:rotateY(0);filter:brightness(1)}45%{filter:brightness(.83)}100%{transform:rotateY(-92deg);filter:brightness(.72)}}@keyframes turnBackward{0%{transform:rotateY(0);filter:brightness(1)}45%{filter:brightness(.83)}100%{transform:rotateY(92deg);filter:brightness(.72)}}.word-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:6px}.word-heading .word-title{flex:1}.speech-line{display:flex;align-items:center;justify-content:space-between;gap:8px}.speech-text{min-width:0;flex:1}.tts-button{flex:none;width:30px;height:30px;border:1px solid var(--line);border-radius:9px;background:#fff;cursor:pointer;font-size:15px;line-height:1}.tts-button:hover{border-color:var(--teal2);background:#e9f6f1}.translation .speech-line{align-items:center}.form-translation{display:flex;align-items:center;justify-content:space-between;gap:8px}.example .speech-line{padding:2px 0}.example .translated{color:var(--muted)}.page-edge:focus-visible,.tts-button:focus-visible{outline:3px solid #f0b535;outline-offset:2px}
 @media(max-width:520px){.page-edge{width:36px;height:50px;font-size:24px}.page-edge.prev{left:7px}.page-edge.next{right:7px}}
+
+/* Page curl and recorded public-domain page-turn sound (Wikimedia Commons: “Turning a page.ogg”, planish). */
+.turn-sheet{overflow:hidden;box-shadow:0 0 28px #132e2b55}
+.turn-sheet.forward{animation:turnForward .95s cubic-bezier(.36,.05,.68,.98) forwards}
+.turn-sheet.backward{animation:turnBackward .95s cubic-bezier(.36,.05,.68,.98) forwards}
+.turn-sheet::before{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;opacity:0;background:linear-gradient(90deg,transparent 42%,#132a2840 48%,#ffffffd9 50%,#132a2835 53%,transparent 60%);background-size:250% 100%;background-position:100% 0;animation:foldShadow .95s ease-in-out forwards}
+.turn-sheet::after{content:"";position:absolute;z-index:2;right:0;bottom:0;width:18%;aspect-ratio:1;pointer-events:none;opacity:0;clip-path:polygon(100% 0,100% 100%,0 100%);transform-origin:bottom right;background:linear-gradient(135deg,#fff 0%,#f5f3ee 34%,#bab9b2 47%,#fff 52%,#d5d4ce 100%);filter:drop-shadow(-5px -4px 7px #213b3640);animation:cornerPeel .95s cubic-bezier(.2,.75,.24,1) forwards}
+.turn-sheet.backward::after{right:auto;left:0;clip-path:polygon(0 0,0 100%,100% 100%);transform-origin:bottom left;animation-name:cornerPeelBack}
+@keyframes foldShadow{0%{opacity:0;background-position:100% 0}25%{opacity:.8}75%{opacity:.65;background-position:0 0}100%{opacity:0;background-position:0 0}}
+@keyframes cornerPeel{0%{opacity:0;transform:scale(.04)}14%{opacity:1;transform:scale(.58)}55%{opacity:.95;transform:scale(1)}100%{opacity:0;transform:scale(.28) translate(-12%,-8%)}}
+@keyframes cornerPeelBack{0%{opacity:0;transform:scale(.04)}14%{opacity:1;transform:scale(.58)}55%{opacity:.95;transform:scale(1)}100%{opacity:0;transform:scale(.28) translate(12%,-8%)}}
+@media(prefers-reduced-motion:reduce){.turn-sheet.forward,.turn-sheet.backward,.turn-sheet::before,.turn-sheet::after{animation-duration:.01ms}}
 </style>
 </head>
 <body>
@@ -29,7 +41,7 @@
 <script>
 (() => {
   const langs=[{id:'en',label:'EN',flag:'🇬🇧',index:0},{id:'ru',label:'RU',flag:'🇷🇺',index:1},{id:'ky',label:'KY',flag:'🇰🇬',index:2},{id:'ar',label:'AR',flag:'🇸🇦',index:3},{id:'fr',label:'FR',flag:'🇫🇷',index:4}];
-  const main=document.getElementById('main'),toast=document.getElementById('toast');let slides=[],spots=[],dict={},answers={},current=0,lang='en',selected=null,audioNodes=[],answersVisible=false;
+  const main=document.getElementById('main'),toast=document.getElementById('toast');let slides=[],spots=[],dict={},answers={},current=0,lang='en',selected=null,audioNodes=[],turnAudio=null,answersVisible=false;
   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
   async function init(){
@@ -52,11 +64,12 @@
     document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')go(current+1);if(e.key==='ArrowLeft')go(current-1)});
   }
   function playTurnSound(){
-    try{const AC=window.AudioContext||window.webkitAudioContext;if(!AC)return;const ctx=playTurnSound.ctx||(playTurnSound.ctx=new AC());if(ctx.state==='suspended')ctx.resume();const duration=.23,buffer=ctx.createBuffer(1,Math.floor(ctx.sampleRate*duration),ctx.sampleRate),data=buffer.getChannelData(0);for(let i=0;i<data.length;i++)data[i]=(Math.random()*2-1)*(1-i/data.length);const source=ctx.createBufferSource(),filter=ctx.createBiquadFilter(),gain=ctx.createGain();source.buffer=buffer;filter.type='lowpass';filter.frequency.setValueAtTime(1700,ctx.currentTime);filter.frequency.exponentialRampToValueAtTime(420,ctx.currentTime+duration);gain.gain.setValueAtTime(.0001,ctx.currentTime);gain.gain.exponentialRampToValueAtTime(.055,ctx.currentTime+.035);gain.gain.exponentialRampToValueAtTime(.0001,ctx.currentTime+duration);source.connect(filter).connect(gain).connect(ctx.destination);source.start();source.stop(ctx.currentTime+duration)}catch(e){console.debug('Page-turn sound unavailable',e)}
+    try{turnAudio?.pause();turnAudio=new Audio('assets/audio/page-turn.mp3');turnAudio.preload='auto';turnAudio.volume=.7;turnAudio.onended=()=>{turnAudio=null};turnAudio.play().catch(e=>console.debug('Page-turn sound unavailable',e))}catch(e){console.debug('Page-turn sound unavailable',e)}
   }
   function animatePageTurn(oldSrc,direction){
-    const frame=document.getElementById('frame');if(!oldSrc||matchMedia('(prefers-reduced-motion: reduce)').matches)return;
-    frame.querySelector('.turn-sheet')?.remove();const sheet=document.createElement('div');sheet.className=`turn-sheet ${direction>0?'forward':'backward'}`;const oldImage=document.createElement('img');oldImage.src=oldSrc;oldImage.alt='';sheet.append(oldImage);frame.append(sheet);playTurnSound();sheet.addEventListener('animationend',()=>sheet.remove(),{once:true});setTimeout(()=>sheet.remove(),700);
+    if(!oldSrc)return;
+    playTurnSound();if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+    const frame=document.getElementById('frame');frame.querySelector('.turn-sheet')?.remove();const sheet=document.createElement('div');sheet.className=`turn-sheet ${direction>0?'forward':'backward'}`;const oldImage=document.createElement('img');oldImage.src=oldSrc;oldImage.alt='';sheet.append(oldImage);frame.append(sheet);sheet.addEventListener('animationend',()=>sheet.remove(),{once:true});setTimeout(()=>sheet.remove(),1150);
   }
   function go(n){if(n<0||n>=slides.length||n===current)return;const oldSrc=slides[current]?.image,direction=n>current?1:-1;stopAudio();current=n;selected=null;answersVisible=false;localStorage.setItem('sunum-current',String(current));renderSlide(oldSrc,direction)}
   function renderSlide(oldSrc='',direction=0){
@@ -92,7 +105,7 @@
     if(choices.length){choices.sort((a,b)=>b.score-a.score);const best=choices[0],first=list[best.indices[0]],last=list[best.indices[best.indices.length-1]],display=best.key.split(/\s+/);if(/^[A-ZÇĞİÖŞÜ]/.test(first.text||''))display[0]=display[0].replace(/^./u,c=>c.toLocaleUpperCase('tr-TR'));const ending=String(last.text||'').match(/[.!?,:;…]+$/)?.[0];if(ending)display[display.length-1]+=ending;best.displayText=display.join(' ');best.text=best.displayText;return best}
     return {key:hit.key||normalized(hit.text),text:canonicalDisplay(hit),displayText:canonicalDisplay(hit),phrase:false,indices:[index]};
   }
-  function stopAudio(){audioNodes.forEach(a=>{a.pause();a.currentTime=0});audioNodes=[];if('speechSynthesis'in window)speechSynthesis.cancel();const b=document.getElementById('toolbarListen');if(b){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._audio=null;b._playing=false}}
+  function stopAudio(){audioNodes.forEach(a=>{a.pause();a.currentTime=0});audioNodes=[];if(turnAudio){turnAudio.pause();turnAudio.currentTime=0;turnAudio=null}if('speechSynthesis'in window)speechSynthesis.cancel();const b=document.getElementById('toolbarListen');if(b){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._audio=null;b._playing=false}}
   function playTracks(tracks,b){if(b._playing){stopAudio();return}stopAudio();let index=0;b._playing=true;b.classList.add('playing');b.innerHTML='❚❚ DURDUR';const playNext=()=>{if(index>=tracks.length){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;audioNodes=[];return}const a=new Audio(tracks[index++]);b._audio=a;audioNodes=[a];a.onended=playNext;a.onerror=()=>{showToast('Ses dosyası açılamadı.');playNext()};a.play().catch(()=>{showToast('Ses oynatılamadı.');playNext()})};playNext()}
   function renderAudio(audio){const b=document.getElementById('toolbarListen'),tracks=audio?(Array.isArray(audio)?audio:[audio]):[];b.hidden=!tracks.length;b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;b._audio=null;if(tracks.length){b.textContent='▶ DİNLE';b.onclick=()=>playTracks(tracks,b);b.title=tracks.length>1?`Bu slayttaki ${tracks.length} dinleme kaydını sırayla çal`:'Slayt sesini dinle'}}
   const speechLang={tr:'tr-TR',en:'en-US',ru:'ru-RU',ky:'ky-KG',ar:'ar-SA',fr:'fr-FR'};
