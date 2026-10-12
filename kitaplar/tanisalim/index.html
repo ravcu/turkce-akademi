@@ -230,5 +230,30 @@
     Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations-20261011b.json')]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
+
+<script>
+(()=>{
+  const link=document.querySelector('.mode-links a[href="sunum/"]');
+  if(!link)return;
+  let presentationFrame=null;
+  link.addEventListener('click',event=>{
+    if(event.button!==0||event.metaKey||event.ctrlKey||event.shiftKey||event.altKey)return;
+    if(!document.fullscreenEnabled||!HTMLIFrameElement.prototype.requestFullscreen)return;
+    event.preventDefault();
+    const frame=document.createElement('iframe');
+    frame.title='Türkçe Akademi Sunum Modu';
+    frame.allow='fullscreen';
+    frame.setAttribute('allowfullscreen','');
+    frame.src=link.href;
+    frame.style.cssText='position:fixed;inset:0;width:100vw;height:100vh;border:0;z-index:2147483647;background:#f3f7f3';
+    presentationFrame=frame;
+    document.body.append(frame);
+    frame.requestFullscreen().catch(()=>{frame.remove();presentationFrame=null;window.location.assign(link.href)});
+  });
+  document.addEventListener('fullscreenchange',()=>{
+    if(presentationFrame&&document.fullscreenElement!==presentationFrame){presentationFrame.remove();presentationFrame=null}
+  });
+})();
+</script>
 </body>
 </html>
