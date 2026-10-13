@@ -38,6 +38,7 @@
   <main id="main"><div class="loading">Sunum sayfaları yükleniyor…</div></main>
 </div>
 <div class="toast" id="toast" role="status"></div>
+<script src="../../../assets/speech-20261013/player.js"></script>
 <script>
 (() => {
   const speakerClean={"7":"assets/speaker-clean/007.svg","10":"assets/speaker-clean/010.svg","11":"assets/speaker-clean/011.svg","14":"assets/speaker-clean/014.svg","15":"assets/speaker-clean/015.svg","20":"assets/speaker-clean/020.svg","23":"assets/speaker-clean/023.svg","25":"assets/speaker-clean/025.svg","26":"assets/speaker-clean/026.svg","27":"assets/speaker-clean/027.svg","30":"assets/speaker-clean/030.svg","33":"assets/speaker-clean/033.svg","39":"assets/speaker-clean/039.svg","43":"assets/speaker-clean/043.svg","44":"assets/speaker-clean/044.svg","45":"assets/speaker-clean/045.svg","46":"assets/speaker-clean/046.svg","47":"assets/speaker-clean/047.svg","48":"assets/speaker-clean/048.svg","51":"assets/speaker-clean/051.svg","53":"assets/speaker-clean/053.svg","54":"assets/speaker-clean/054.svg","55":"assets/speaker-clean/055.svg","60":"assets/speaker-clean/060.svg","62":"assets/speaker-clean/062.svg","64":"assets/speaker-clean/064.svg","68":"assets/speaker-clean/068.svg","71":"assets/speaker-clean/071.svg","72":"assets/speaker-clean/072.svg","73":"assets/speaker-clean/073.svg","75":"assets/speaker-clean/075.svg","77":"assets/speaker-clean/077.svg","81":"assets/speaker-clean/081.svg","82":"assets/speaker-clean/082.svg","83":"assets/speaker-clean/083.svg","84":"assets/speaker-clean/084.svg","85":"assets/speaker-clean/085.svg","86":"assets/speaker-clean/086.svg"};
@@ -108,7 +109,7 @@
     if(choices.length){choices.sort((a,b)=>b.score-a.score);const best=choices[0],first=list[best.indices[0]],last=list[best.indices[best.indices.length-1]],display=best.key.split(/\s+/);if(/^[A-ZÇĞİÖŞÜ]/.test(first.text||''))display[0]=display[0].replace(/^./u,c=>c.toLocaleUpperCase('tr-TR'));const ending=String(last.text||'').match(/[.!?,:;…]+$/)?.[0];if(ending)display[display.length-1]+=ending;best.displayText=display.join(' ');best.text=best.displayText;return best}
     return {key:hit.key||normalized(hit.text),text:canonicalDisplay(hit),displayText:canonicalDisplay(hit),phrase:false,indices:[index]};
   }
-  function stopAudio(){audioNodes.forEach(a=>{a.pause();a.currentTime=0});audioNodes=[];if(turnAudio){turnAudio.pause();turnAudio.currentTime=0;turnAudio=null}if('speechSynthesis'in window)speechSynthesis.cancel();const b=document.getElementById('toolbarListen');if(b){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._audio=null;b._playing=false}}
+  function stopAudio(){window.TurkceSpeech?.stop();audioNodes.forEach(a=>{a.pause();a.currentTime=0});audioNodes=[];if(turnAudio){turnAudio.pause();turnAudio.currentTime=0;turnAudio=null}if('speechSynthesis'in window)speechSynthesis.cancel();const b=document.getElementById('toolbarListen');if(b){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._audio=null;b._playing=false}}
   function playTracks(tracks,b){
     if(b._playing){stopAudio();return}
     stopAudio();let index=0;const audio=new Audio();audio.preload='auto';audioNodes=[audio];b._audio=audio;b._playing=true;b.classList.add('playing');b.textContent='❚❚ DURDUR';
@@ -123,8 +124,10 @@
   function renderAudio(audio){const b=document.getElementById('toolbarListen'),tracks=audio?(Array.isArray(audio)?audio:[audio]):[];b.hidden=!tracks.length;b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;b._audio=null;if(tracks.length){b.textContent='▶ DİNLE';b.onclick=()=>playTracks(tracks,b);b.title=tracks.length>1?`Bu slayttaki ${tracks.length} dinleme kaydını sırayla çal`:'Slayt sesini dinle'}}
   const speechLang={tr:'tr-TR',en:'en-US',ru:'ru-RU',ky:'ky-KG',ar:'ar-SA',fr:'fr-FR'};
   function speak(text,language='tr'){
-    const clean=cleanText(text);if(!clean||!('speechSynthesis'in window))return;
-    speechSynthesis.cancel();const utterance=new SpeechSynthesisUtterance(clean);utterance.lang=speechLang[language]||language||'tr-TR';utterance.rate=.9;speechSynthesis.speak(utterance)
+    const clean=cleanText(text);if(!clean)return;
+    stopAudio();
+    if(!window.TurkceSpeech){showToast('Ses oynatıcısı yüklenemedi. Sayfayı yenileyin.');return}
+    window.TurkceSpeech.speak(clean,language).catch(error=>showToast(error.message));
   }
   function speechButton(text,language,label='Seslendir'){
     return `<button class="tts-button" type="button" data-say="${esc(text)}" data-say-lang="${esc(language)}" aria-label="${label}">🔊</button>`
