@@ -54,7 +54,7 @@
   </header>
   <main class="shell">
     <div class="heading">
-      <div><div class="eyebrow">A1 • Türkçe ders kitabı</div><h1>Ailem ve Evim</h1><p>Sayfadaki bir kelimeye dokun; anlamını beş dilde gör ve Türkçe telaffuzunu dinle.</p></div>
+      <div><div class="eyebrow">A1 • Türkçe ders kitabı</div><h1>Ailem ve Evim</h1><p>Sayfadaki kelimelere dokun; beş dilde anlamlarını ve örnek cümlelerini gör.</p></div>
       <div class="unit-mark">3. ÜNİTE &nbsp;·&nbsp; 26 SAYFA</div>
     </div>
     <div class="progress" aria-label="Kitap ilerlemesi"><span id="progress"></span></div>
@@ -103,7 +103,7 @@
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,Number(localStorage.getItem('ta-ailem-ve-evim-page')||0)))}catch{return 0}}
     function renderPage(){if(!pages.length)return;if(renderedPage!==current){const player=$('#audioPlayer');player.pause();if(player.currentTime)player.currentTime=0;renderedPage=current}const p=pages[current];img.src=p.image;img.alt=`Ailem ve Evim ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
-      hits.replaceChildren();for(const [index,w] of p.words.entries()){if(!normalize(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
+      hits.replaceChildren();for(const [index,w] of p.words.entries()){if(w.lexical===false||!normalize(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
       renderAudioCues(p);
       renderAnswerKey();document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-ailem-ve-evim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
     function renderAudioCues(page){const layer=$('#audioCues');layer.replaceChildren();for(const cue of (page.audioCues||[])){const code=cue.code;const button=document.createElement('button');button.type='button';button.className='audio-cue';button.textContent=audioMap[code]?'DİNLE':'Ses bekleniyor';button.title=audioMap[code]?`${code} sesini dinle`:`${code}: ses dosyası henüz eklenmedi`; button.setAttribute('aria-label',`${code} dinleme kaydını oynat`);button.style.left=`${Math.min(cue.x+cue.w+.006,.91)*100}%`;button.style.top=`${Math.max(cue.y-.004,0)*100}%`;button.addEventListener('click',()=>playAudio(code));layer.append(button)}}
@@ -125,9 +125,19 @@
     $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları gizle':'Cevabı gör';renderAnswerOverlay()});
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
     function phraseAt(index,words){
-      const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(' ').length-a.split(' ').length);
-      const adjacent=(a,b)=>{const ay=a.y+a.h/2,by=b.y+b.h/2,dy=by-ay,gap=b.x-(a.x+a.w);if(Math.abs(dy)<=Math.max(.009,Math.min(a.h,b.h)*.75))return b.x>=a.x-.015&&gap<=.08;return dy>0&&dy<=.026&&b.x>=a.x-.09&&b.x<=a.x+a.w+.1};
-      for(const phrase of phrases){const parts=phrase.split(' ');for(let start=Math.max(0,index-parts.length+1);start<=Math.min(index,words.length-parts.length);start++){const seq=words.slice(start,start+parts.length),indices=seq.map((_,j)=>start+j);if(!indices.includes(index))continue;if(seq.every((w,j)=>normalize(w.t)===parts[j])&&seq.slice(1).every((w,j)=>adjacent(seq[j],w)))return {key:phrase,indices,text:seq.map(w=>w.t).join(' ')}}}return null
+      const keyOf=w=>w.key||normalize(w.t), phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(' ').length-a.split(' ').length);
+      const lexical=words.map((w,i)=>({w,i})).filter(({w})=>w.lexical!==false);
+      for(const key of phrases){const parts=key.split(' ');for(const start of lexical.filter(({w})=>keyOf(w)===parts[0])){
+        const sequence=[start];let ok=true;
+        for(let j=1;j<parts.length;j++){
+          const previous=sequence.at(-1),a=previous.w,center=a.y+a.h/2;
+          let neighbours=lexical.filter(({w,i})=>i!==previous.i&&w.x>=a.x+a.w*.65&&Math.abs(w.y+w.h/2-center)<=Math.max(.006,Math.min(a.h,w.h)*.48)).sort((a,b)=>a.w.x-b.w.x);
+          let next=neighbours[0];if(next&&next.w.x-a.x-a.w>.065)next=null;
+          if(!next){const rows=lexical.filter(({w})=>w.y>a.y+a.h*.55&&w.y-a.y<.032&&Math.abs(w.x-start.w.x)<.045).sort((a,b)=>a.w.y-b.w.y||a.w.x-b.w.x);next=rows[0]}
+          if(!next||keyOf(next.w)!==parts[j]){ok=false;break}sequence.push(next);
+        }
+        if(ok&&sequence.some(item=>item.i===index))return {key,indices:sequence.map(item=>item.i),text:sequence.map(item=>item.w.t).join(' ')};
+      }}return null;
     }
     function setSelected(indices){const selected=new Set(indices||[]);hits.querySelectorAll('.word-hit').forEach(b=>{const yes=selected.has(Number(b.dataset.index));b.classList.toggle('is-selected',yes);b.setAttribute('aria-pressed',String(yes))})}
     function updateLanguageTabs(){document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.lang===targetLang)))}
@@ -143,11 +153,11 @@
       const translations=showBoth?card(`Yalın / mastar biçimi · ${lemma}`,baseMeaning,'base')+card(`Metindeki biçimi · ${text}`,meaning,'form'):card(`${lang[1]} ${lang[2]}`,meaning,'meaning');
       const savedExample=glossary.examples[key];let ex=entry?{tr:entry.exampleTr,values:entry.examples}:formEntry?.exampleTr?{tr:formEntry.exampleTr,values:formEntry.examples}:Array.isArray(savedExample)?{tr:savedExample[0],values:savedExample[1]}:savedExample;
       if(!ex?.tr||!ex?.values){ex={tr:'',values:['','','','','']}}
-      body.innerHTML=`<div class="selected">${escapeHtml(text)}</div><div class="subhint">Türkçe ifade • seçilen dile göre anlam ve örnek</div><div class="translations">${translations}</div><div class="example"><div class="example-title">${ex.tr?'Örnek cümle':'Bu kelime için örnek cümle henüz eklenmedi.'}</div><div class="example-line"><div class="example-tr" lang="tr">${escapeHtml(ex.tr)}</div><button class="line-speak" data-say="tr" aria-label="Türkçe örneği dinle" title="Türkçe örneği dinle">🔊</button></div><div class="example-line"><div class="example-target"${dir} lang="${lang[0]}">${escapeHtml(ex.values[langIndex])}</div><button class="line-speak" data-say="example" aria-label="Çeviriyi dinle" title="Çeviriyi dinle">🔊</button></div></div><p class="footnote">Anlamlar ve örnekler bu ünite için ChatGPT ile hazırlanmış yerel içerikten gelir.</p>`;
+      body.innerHTML=`<div class="selected">${escapeHtml(text)}</div><div class="subhint">Türkçe ifade • seçilen dile göre anlam ve örnek</div><div class="translations">${translations}</div><div class="example"><div class="example-title">${ex.tr?'Örnek cümle':'Örnek cümle'}</div><div class="example-line"><div class="example-tr" lang="tr">${escapeHtml(ex.tr)}</div><button class="line-speak" data-say="tr" aria-label="Türkçe örneği dinle" title="Türkçe örneği dinle">🔊</button></div><div class="example-line"><div class="example-target"${dir} lang="${lang[0]}">${escapeHtml(ex.values[langIndex])}</div><button class="line-speak" data-say="example" aria-label="Çeviriyi dinle" title="Çeviriyi dinle">🔊</button></div></div><p class="footnote">Anlamlar ve örnekler kitaptaki kullanıma göre hazırlanmıştır.</p>`;
       body.querySelectorAll('[data-say]').forEach(b=>b.addEventListener('click',()=>{const type=b.dataset.say,speech=type==='tr'?ex.tr:type==='example'?ex.values[langIndex]:type==='base'?baseMeaning:meaning;speakText(speech,type==='tr'?'tr':targetLang)}));
       $('#saveWord').disabled=false;$('#saveWord').textContent=isSaved(activeSelection)?'✓ Defterimde':'＋ Kelime defterime ekle';updateLanguageTabs();requestAnimationFrame(alignStudyArea);
     }
-    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:normalize(word);const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase,indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
+    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:(words[index]?.key||normalize(word));const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase,indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
     function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
     function numberToEnglish(value){
       if(!Number.isSafeInteger(value)||value<0)return String(value);
@@ -205,7 +215,7 @@
     $('#quizWrite').addEventListener('submit',e=>{e.preventDefault();const answer=$('#quizAnswer').value;answerQuiz(normalize(answer)===normalize(quizItems[quizIndex]?.text))});
     $('#quizNext').onclick=()=>{if(quizFinished){buildQuiz();return}if(!quizAnswered)return;if(quizIndex===quizItems.length-1){finishQuiz();return}quizIndex++;renderQuiz()};
     try{targetLang=localStorage.getItem('ta-ailem-ve-evim-lang')||'en';savedWords=readSaved()}catch{} updateLanguageTabs();document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.addEventListener('click',()=>{targetLang=b.dataset.lang;try{localStorage.setItem('ta-ailem-ve-evim-lang',targetLang)}catch{}updateLanguageTabs();renderSelection();buildQuiz();renderVocab()}));img.addEventListener('load',alignStudyArea);window.addEventListener('resize',alignStudyArea);
-    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json'),fetch('audio-map.json')]).then(async([p,t,a])=>{if(!p.ok||!t.ok||!a.ok)throw Error(`Resources unavailable (${p.status}, ${t.status}, ${a.status})`);return [await p.json(),await t.json(),await a.json()]}).then(([data,words,audio])=>{pages=data;glossary=words;audioMap=audio;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
+    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json',{cache:'no-store'}),fetch('audio-map.json')]).then(async([p,t,a])=>{if(!p.ok||!t.ok||!a.ok)throw Error(`Resources unavailable (${p.status}, ${t.status}, ${a.status})`);return [await p.json(),await t.json(),await a.json()]}).then(([data,words,audio])=>{pages=data;glossary=words;audioMap=audio;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
 </body>
