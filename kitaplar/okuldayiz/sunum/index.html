@@ -48,7 +48,7 @@
   function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
   async function init(){
     try{
-      const [data,hitData,translations,answerData]=await Promise.all([fetch('assets/slides.json?v=answers-20261012a').then(r=>r.json()),fetch('assets/word-spots.json?v=answers-20261012a').then(r=>r.json()),fetch('assets/translations.json?v=answers-20261012a').then(r=>r.json()),fetch('assets/answer-overlays.json?v=answers-20261012a').then(r=>r.json())]);
+      const [data,hitData,translations,answerData]=await Promise.all([fetch('assets/slides.json?v=audio-full-20261013').then(r=>r.json()),fetch('assets/word-spots.json?v=answers-20261012a').then(r=>r.json()),fetch('assets/translations.json?v=answers-20261012a').then(r=>r.json()),fetch('assets/answer-overlays.json?v=answers-20261012a').then(r=>r.json())]);
       slides=data.slides;spots=hitData;dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('sunum-current')||0),slides.length-1);lang=localStorage.getItem('sunum-language')||'en';
       renderShell();renderSlide();requestAutoFullscreen();
     }catch(e){main.innerHTML='<section class="panel"><h2>Sunum açılamadı</h2><p>Slayt dosyaları yüklenirken bir sorun oluştu. Sayfayı yenileyin.</p></section>';console.error(e)}
@@ -109,7 +109,17 @@
     return {key:hit.key||normalized(hit.text),text:canonicalDisplay(hit),displayText:canonicalDisplay(hit),phrase:false,indices:[index]};
   }
   function stopAudio(){audioNodes.forEach(a=>{a.pause();a.currentTime=0});audioNodes=[];if(turnAudio){turnAudio.pause();turnAudio.currentTime=0;turnAudio=null}if('speechSynthesis'in window)speechSynthesis.cancel();const b=document.getElementById('toolbarListen');if(b){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._audio=null;b._playing=false}}
-  function playTracks(tracks,b){if(b._playing){stopAudio();return}stopAudio();let index=0;b._playing=true;b.classList.add('playing');b.innerHTML='❚❚ DURDUR';const playNext=()=>{if(index>=tracks.length){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;audioNodes=[];return}const a=new Audio(tracks[index++]);b._audio=a;audioNodes=[a];a.onended=playNext;a.onerror=()=>{showToast('Ses dosyası açılamadı.');playNext()};a.play().catch(()=>{showToast('Ses oynatılamadı.');playNext()})};playNext()}
+  function playTracks(tracks,b){
+    if(b._playing){stopAudio();return}
+    stopAudio();let index=0;const audio=new Audio();audio.preload='auto';audioNodes=[audio];b._audio=audio;b._playing=true;b.classList.add('playing');b.textContent='❚❚ DURDUR';
+    const active=()=>b._playing&&b._audio===audio;
+    const finish=()=>{if(!active())return;audio.onended=null;audio.onerror=null;audioNodes=[];b._audio=null;b._playing=false;b.classList.remove('playing');b.textContent='▶ DİNLE'};
+    const playNext=()=>{if(!active())return;if(index>=tracks.length){finish();return}audio.src=tracks[index++];let failed=false;
+      const fail=()=>{if(!active()||failed)return;failed=true;showToast('Ses dosyası yüklenemedi. Yeniden DİNLE düğmesine dokunun.');finish()};
+      audio.onended=playNext;audio.onerror=fail;
+      audio.play().catch(error=>{if(!active()||error.name==='AbortError')return;if(error.name==='NotAllowedError'){showToast('Sesi başlatmak için DİNLE düğmesine yeniden dokunun.');finish()}else fail()});
+    };playNext()
+  }
   function renderAudio(audio){const b=document.getElementById('toolbarListen'),tracks=audio?(Array.isArray(audio)?audio:[audio]):[];b.hidden=!tracks.length;b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;b._audio=null;if(tracks.length){b.textContent='▶ DİNLE';b.onclick=()=>playTracks(tracks,b);b.title=tracks.length>1?`Bu slayttaki ${tracks.length} dinleme kaydını sırayla çal`:'Slayt sesini dinle'}}
   const speechLang={tr:'tr-TR',en:'en-US',ru:'ru-RU',ky:'ky-KG',ar:'ar-SA',fr:'fr-FR'};
   function speak(text,language='tr'){
