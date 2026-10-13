@@ -77,7 +77,7 @@
       <div class="side-stack">
       <aside class="panel" aria-live="polite" aria-label="Kelime çevirileri">
         <div class="panel-top"><span class="panel-label">Sözlük ve örnek</span><button id="speak" class="sound" disabled>🔊 Türkçe dinle</button></div>
-        <div id="languageTabs" class="language-tabs" role="tablist" aria-label="Çeviri dili"><button class="language-tab" role="tab" aria-selected="true" aria-label="English" data-lang="en"><span>🇬🇧</span>EN</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Русский" data-lang="ru"><span>🇷🇺</span>RU</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Кыргызча" data-lang="ky"><span>🇰🇬</span>KY</button><button class="language-tab" role="tab" aria-selected="false" aria-label="العربية" data-lang="ar"><span>🇸🇦</span>AR</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Français" data-lang="fr"><span>🇫🇷</span>FR</button></div>
+        <div id="languageTabs" class="language-tabs" role="tablist" aria-label="Çeviri dili"><button class="language-tab" role="tab" aria-selected="false" aria-label="Türkçe" data-lang="tr"><span>🇹🇷</span>TR</button><button class="language-tab" role="tab" aria-selected="true" aria-label="English" data-lang="en"><span>🇬🇧</span>EN</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Русский" data-lang="ru"><span>🇷🇺</span>RU</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Кыргызча" data-lang="ky"><span>🇰🇬</span>KY</button><button class="language-tab" role="tab" aria-selected="false" aria-label="العربية" data-lang="ar"><span>🇸🇦</span>AR</button></div>
         <div id="translationBody"><div class="idle"><span class="tapicon">☝️</span>Kitapta bir kelimeye ya da ifadeye dokun.<br>Anlamı ve örnek cümlesi seçtiğin dilde görünsün.</div></div>
         <div class="vocab-actions"><button id="saveWord" class="small-action" disabled>＋ Kelime defterime ekle</button><button id="openVocab" class="small-action">📘 Defterim (0)</button></div>
       </aside>
@@ -93,13 +93,13 @@
   <dialog id="vocabDialog" class="dialog" aria-labelledby="vocabTitle"><div class="dialog-head"><h2 id="vocabTitle">Kelime defterim</h2><button id="closeVocab" class="dialog-close" aria-label="Kapat">×</button></div><div id="vocabList" class="vocab-list"></div></dialog>
   <script>
   (()=>{
-    const LANGS=[['en','🇬🇧','English'],['ru','🇷🇺','Русский'],['ky','🇰🇬','Кыргызча'],['ar','🇸🇦','العربية'],['fr','🇫🇷','Français']];
+    const LANGS=[['tr','🇹🇷','Türkçe'],['en','🇬🇧','English'],['ru','🇷🇺','Русский'],['ky','🇰🇬','Кыргызча'],['ar','🇸🇦','العربية']];
     const pagesUrl='pages.json';
     let glossary={words:{},phrases:{},examples:{}};
     let pages=[], current=0, renderedPage=-1, zoom=1, activeWord='', activeSelection=null, targetLang='en', quizPool=[], quizItems=[], quizIndex=0, quizScore=0, quizAnswered=false, quizFinished=false, activeQuizMode='vocab', savedWords=[];
     const $=s=>document.querySelector(s), stage=$('#stage'), img=$('#pageImage'), hits=$('#hotspots'), body=$('#translationBody');
     function alignStudyArea(){const area=$('.study-area'),panel=$('.panel');area.style.marginTop='14px';if(window.matchMedia('(min-width: 851px)').matches){const bookBottom=$('.book').getBoundingClientRect().bottom,panelBottom=panel.getBoundingClientRect().bottom,areaHeight=area.getBoundingClientRect().height;area.style.marginTop=`${Math.max(0,bookBottom-panelBottom-areaHeight)}px`}}
-    function normalize(s){return s.normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/^[\s.,:;!?()\[\]{}\"“”’…\-−•]+|[\s.,:;!?()\[\]{}\"“”’…\-−•]+$/g,'')}
+    function normalize(s){return String(s).normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/[’‘`]/g,"'").replace(/^[\s.,:;!?()\[\]{}\"“”…\-−•/]+|[\s.,:;!?()\[\]{}\"“””…\-−•/]+$/g,'')}
     function cleanLeadingDashes(text){return String(text).replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim()}
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,Number(localStorage.getItem('ta-gecmis-olsun-page')||0)))}catch{return 0}}
@@ -135,16 +135,16 @@
     function renderSelection(){
       if(!activeSelection)return;
       const {key,text,phrase}=activeSelection,entry=phrase?glossary.phrases[key]:null,formEntry=!phrase?glossary.forms?.[key]:null;
-      const langIndex=LANGS.findIndex(x=>x[0]===targetLang),lang=LANGS[langIndex],dir=targetLang==='ar'?' dir="rtl"':'';
-      const meanings=entry?.translations||formEntry?.formTranslations||glossary.words[key]||[text,text,text,text,text],rawMeaning=meanings[langIndex]||text,meaning=/^\d+$/.test(key)&&targetLang==='en'?numberToEnglish(Number(key)):rawMeaning;
-      const lemma=formEntry?.lemma,lemmaKey=lemma?normalize(lemma):'',lemmaMeanings=formEntry?.lemmaTranslations||glossary.lemmas?.[lemmaKey]?.translations||glossary.words[lemmaKey],baseMeaning=lemmaMeanings?.[langIndex]||lemma;
+      const langIndex=LANGS.findIndex(x=>x[0]===targetLang),translationIndex=langIndex+1,lang=LANGS[langIndex],dir=targetLang==='ar'?' dir="rtl"':'';
+      const meanings=entry?.translations||formEntry?.formTranslations||glossary.words[key]||[text,text,text,text,text],rawMeaning=meanings[translationIndex]||text,meaning=/^\d+$/.test(key)&&targetLang==='en'?numberToEnglish(Number(key)):rawMeaning;
+      const lemma=formEntry?.lemma,lemmaKey=lemma?normalize(lemma):'',lemmaMeanings=formEntry?.lemmaTranslations||glossary.lemmas?.[lemmaKey]?.translations||glossary.words[lemmaKey],baseMeaning=lemmaMeanings?.[translationIndex]||lemma;
       const showBoth=!!(formEntry&&lemma&&lemmaKey!==key&&baseMeaning);
       const card=(label,value,say)=>`<div class="translation"><div class="langname">${escapeHtml(label)}</div><div class="meaning-row"><div class="meaning"${dir} lang="${lang[0]}">${escapeHtml(value)}</div><button class="line-speak" data-say="${say}" aria-label="${escapeHtml(label)} anlamını dinle" title="Anlamı dinle">🔊</button></div></div>`;
-      const translations=showBoth?card(`Yalın / mastar biçimi · ${lemma}`,baseMeaning,'base')+card(`Metindeki biçimi · ${text}`,meaning,'form'):card(`${lang[1]} ${lang[2]}`,meaning,'meaning');
+      const translations=showBoth?card(`${formEntry.lemmaType==='verb'?'Mastar biçimi':'Kök biçimi'} · ${lemma}`,baseMeaning,'base')+card(`Metindeki biçimi · ${text}`,meaning,'form'):card(`${lang[1]} ${lang[2]}`,meaning,'meaning');
       const savedExample=glossary.examples[key];let ex=entry?{tr:entry.exampleTr,values:entry.examples}:formEntry?.exampleTr?{tr:formEntry.exampleTr,values:formEntry.examples}:Array.isArray(savedExample)?{tr:savedExample[0],values:savedExample[1]}:savedExample;
-      if(!ex?.tr||!ex?.values){const examples=[{tr:`Arkadaşım bana “${text}” dedi.`,values:[`My friend said “${meaning}” to me.`,`Мой друг сказал(а) мне: «${meaning}».`,`Досум мага «${meaning}» деди.`,`قال لي صديقي: «${meaning}».`,`Mon ami(e) m’a dit « ${meaning} ».`]},{tr:`Öğretmen bugün “${text}” dedi.`,values:[`The teacher said “${meaning}” today.`,`Сегодня учитель сказал(а): «${meaning}».`,`Мугалим бүгүн «${meaning}» деди.`,`قال المعلم اليوم: «${meaning}».`,`Le professeur a dit « ${meaning} » aujourd’hui.`]},{tr:`Mesajında “${text}” yazmış.`,values:[`They wrote “${meaning}” in their message.`,`Он(а) написал(а) «${meaning}» в сообщении.`,`Ал билдирүүсүнө «${meaning}» деп жазыптыр.`,`كتب «${meaning}» في رسالته.`,`Il/Elle a écrit « ${meaning} » dans son message.`]}];const seed=[...key].reduce((n,c)=>n+c.codePointAt(0),0);ex=examples[seed%examples.length]}
-      body.innerHTML=`<div class="selected">${escapeHtml(text)}</div><div class="subhint">Türkçe ifade • seçilen dile göre anlam ve örnek</div><div class="translations">${translations}</div><div class="example"><div class="example-title">Örnek cümle</div><div class="example-line"><div class="example-tr" lang="tr">${escapeHtml(ex.tr)}</div><button class="line-speak" data-say="tr" aria-label="Türkçe örneği dinle" title="Türkçe örneği dinle">🔊</button></div><div class="example-line"><div class="example-target"${dir} lang="${lang[0]}">${escapeHtml(ex.values[langIndex])}</div><button class="line-speak" data-say="example" aria-label="Çeviriyi dinle" title="Çeviriyi dinle">🔊</button></div></div><p class="footnote">Anlamlar ve örnekler bu ünite için ChatGPT ile hazırlanmış yerel içerikten gelir.</p>`;
-      body.querySelectorAll('[data-say]').forEach(b=>b.addEventListener('click',()=>{const type=b.dataset.say,speech=type==='tr'?ex.tr:type==='example'?ex.values[langIndex]:type==='base'?baseMeaning:meaning;speakText(speech,type==='tr'?'tr':targetLang)}));
+      if(!ex?.tr||!ex?.values){const lemmaExample=lemmaKey?glossary.examples[lemmaKey]:null;ex=lemmaExample&&lemmaExample.tr&&lemmaExample.values?lemmaExample:{tr:'Bu kelime için günlük bir örnek cümle henüz eklenmedi.',values:['Bu kelime için örnek cümle henüz eklenmedi.','This word does not have an example yet.','Для этого слова пример пока не добавлен.','Бул сөзгө мисал сүйлөм азырынча кошула элек.','لا يوجد مثال لهذه الكلمة بعد.']}}
+      body.innerHTML=`<div class="selected">${escapeHtml(text)}</div><div class="subhint">Türkçe ifade • seçilen dile göre anlam ve örnek</div><div class="translations">${translations}</div><div class="example"><div class="example-title">Örnek cümle</div><div class="example-line"><div class="example-tr" lang="tr">${escapeHtml(ex.tr)}</div><button class="line-speak" data-say="tr" aria-label="Türkçe örneği dinle" title="Türkçe örneği dinle">🔊</button></div><div class="example-line"><div class="example-target"${dir} lang="${lang[0]}">${escapeHtml(ex.values[translationIndex])}</div><button class="line-speak" data-say="example" aria-label="Çeviriyi dinle" title="Çeviriyi dinle">🔊</button></div></div><p class="footnote">Anlamlar ve örnekler bu ünite için ChatGPT ile hazırlanmış yerel içerikten gelir.</p>`;
+      body.querySelectorAll('[data-say]').forEach(b=>b.addEventListener('click',()=>{const type=b.dataset.say,speech=type==='tr'?ex.tr:type==='example'?ex.values[translationIndex]:type==='base'?baseMeaning:meaning;speakText(speech,type==='tr'?'tr':targetLang)}));
       $('#saveWord').disabled=false;$('#saveWord').textContent=isSaved(activeSelection)?'✓ Defterimde':'＋ Kelime defterime ekle';updateLanguageTabs();requestAnimationFrame(alignStudyArea);
     }
     function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:normalize(word);const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase,indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
@@ -160,7 +160,7 @@
       return parts.join(' ');
     }
     const speechLanguages={tr:['tr-TR','tr'],en:['en-US','en'],ru:['ru-RU','ru'],ky:['ky-KG','ky'],ar:['ar-SA','ar-XA','ar-EG','ar'],fr:['fr-FR','fr']};
-    const speechNames={ky:'Kırgızca',ar:'Arapça',tr:'Türkçe',en:'İngilizce',ru:'Rusça',fr:'Fransızca'};
+    const speechNames={ky:'Kırgızca',ar:'Arapça',tr:'Türkçe',en:'İngilizce',ru:'Rusça',};
     function chooseSpeechVoice(voices,language){
       const wanted=speechLanguages[language]||[language||'tr-TR'];
       for(const code of wanted){const exact=voices.find(v=>v.lang.toLowerCase()===code.toLowerCase());if(exact)return exact}
@@ -197,7 +197,7 @@
     $('#saveWord').onclick=()=>{if(!activeSelection)return;if(isSaved(activeSelection)){showToast('Bu ifade zaten kelime defterinde.');return}savedWords.unshift({key:activeSelection.key,text:activeSelection.text,phrase:activeSelection.phrase});saveSaved();$('#saveWord').textContent='✓ Defterimde';showToast('Kelime defterine eklendi.')};$('#openVocab').onclick=openVocab;$('#openVocab2').onclick=openVocab;$('#closeVocab').onclick=()=>$('#vocabDialog').close();$('#vocabDialog').addEventListener('click',e=>{if(e.target===$('#vocabDialog'))$('#vocabDialog').close()});
     function shuffle(items){const copy=[...items];for(let i=copy.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[copy[i],copy[j]]=[copy[j],copy[i]]}return copy}
     function buildQuiz(){
-      const langIndex=LANGS.findIndex(x=>x[0]===targetLang),importantWords=new Set(glossary.quizVocabulary||[]),items=[],seen=new Set();
+      const langIndex=LANGS.findIndex(x=>x[0]===targetLang)+1,importantWords=new Set(glossary.quizVocabulary||[]),items=[],seen=new Set();
       const add=(key,text,meaning,phrase=false)=>{const clean=normalize(key);if(!meaning||!clean||seen.has(clean))return;seen.add(clean);items.push({key:clean,text,meaning,phrase})};
       for(const [key,item] of Object.entries(glossary.phrases||{}))add(key,key,item.translations?.[langIndex],true);
       for(const [key,item] of Object.entries(glossary.forms||{}))add(key,key,item.formTranslations?.[langIndex]);
