@@ -48,7 +48,7 @@
   </style>
 
 <script>if(new URLSearchParams(location.search).get('share')==='1'){document.documentElement.classList.add('share-mode');document.addEventListener('DOMContentLoaded',()=>document.querySelector('.brand')?.removeAttribute('href'))}</script><style>html.share-mode .mode-links{display:none!important}html.share-mode .brand{pointer-events:none;cursor:default}</style>
-</head>
+<style>.audio-playback{margin:10px 3px 0;padding:10px 12px;background:#fffefa;border:1px solid #cfe1d8;border-radius:12px}.audio-playback[hidden]{display:none}.audio-label{font-size:12px;font-weight:750;color:#075d61;margin-bottom:6px}.audio-playback audio{display:block;width:100%;height:36px}.audio-cue:disabled{cursor:default;color:#687c7c;background:#fffefa;border-color:#ccd8d2}.audio-cue.is-playing{background:#d9f3eb;border-color:#087f83}</style></head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
@@ -67,7 +67,7 @@
           <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button></div>
         </div>
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
-        <audio id="audioPlayer" preload="none"></audio>
+        <div id="audioPlayback" class="audio-playback" hidden><div id="audioLabel" class="audio-label" aria-live="polite"></div><audio id="audioPlayer" controls preload="none" aria-label="Ünite dinleme kaydı"></audio></div>
         <div id="thumbrail" class="thumbrail" aria-label="Sayfa seçimi"></div>
         <details id="answerDetails" class="answer-details" hidden>
           <summary id="answerSummary">Cevabı gör</summary>
@@ -95,7 +95,7 @@
   (()=>{
     const LANGS=[['tr','🇹🇷','Türkçe'],['en','🇬🇧','English'],['ru','🇷🇺','Русский'],['ky','🇰🇬','Кыргызча'],['ar','🇸🇦','العربية']];
     const pagesUrl='pages.json';
-    let glossary={words:{},phrases:{},examples:{}};
+    let glossary={words:{},phrases:{},examples:{}},audioMap={};
     let pages=[], current=0, renderedPage=-1, zoom=1, activeWord='', activeSelection=null, targetLang='en', quizPool=[], quizItems=[], quizIndex=0, quizScore=0, quizAnswered=false, quizFinished=false, activeQuizMode='vocab', savedWords=[];
     const $=s=>document.querySelector(s), stage=$('#stage'), img=$('#pageImage'), hits=$('#hotspots'), body=$('#translationBody');
     function alignStudyArea(){const area=$('.study-area'),panel=$('.panel');area.style.marginTop='14px';if(window.matchMedia('(min-width: 851px)').matches){const bookBottom=$('.book').getBoundingClientRect().bottom,panelBottom=panel.getBoundingClientRect().bottom,areaHeight=area.getBoundingClientRect().height;area.style.marginTop=`${Math.max(0,bookBottom-panelBottom-areaHeight)}px`}}
@@ -103,12 +103,32 @@
     function cleanLeadingDashes(text){return String(text).replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim()}
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,Number(localStorage.getItem('ta-gecmis-olsun-page')||0)))}catch{return 0}}
-    function renderPage(){if(!pages.length)return;if(renderedPage!==current){const player=$('#audioPlayer');player.pause();if(player.currentTime)player.currentTime=0;renderedPage=current}const p=pages[current];img.src=p.image;img.alt=`Geçmiş Olsun ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
+    function renderPage(){if(!pages.length)return;if(renderedPage!==current){const player=$('#audioPlayer');player.pause();if(player.currentTime)player.currentTime=0;$('#audioPlayback').hidden=true;renderedPage=current}const p=pages[current];img.src=p.image;img.alt=`Geçmiş Olsun ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
       hits.replaceChildren();for(const [index,w] of p.words.entries()){if(!normalize(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
-      /* Original printed listening marks are retained; audio files will be connected when provided. */
+      renderAudioCues(p);
       renderAnswerKey();document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-gecmis-olsun-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
-    function renderAudioCues(page){const layer=$('#audioCues');layer.replaceChildren();for(const word of page.words){const code=word.t.match(/^(?:S|M)\.\d{3}$/)?.[0];if(!code)continue;const button=document.createElement('button');button.type='button';button.className='audio-cue';button.textContent='DİNLE';button.title=`${code} sesini dinle`;button.setAttribute('aria-label',`${code} dinleme kaydını oynat`);button.style.left=`${Math.min(word.x+word.w+.006,.91)*100}%`;button.style.top=`${Math.max(word.y-.004,0)*100}%`;button.addEventListener('click',()=>playAudio(code));layer.append(button)}}
-    function playAudio(code){const player=$('#audioPlayer');player.pause();player.currentTime=0;const file=code.startsWith('M.')?`Lise A1  ${code}.mp3`:`Lise - A1 - Ders Kitabı - ${Number(code.slice(2))}.mp3`;player.src=`audio/${encodeURIComponent(file)}`;player.onerror=()=>showToast(`${code} ses dosyası henüz eklenmedi.`);player.play().catch(()=>{})}
+    function renderAudioCues(page){
+      const layer=$('#audioCues');layer.replaceChildren();
+      for(const cue of (page.audioCues||page.words.filter(w=>/^[SM]\.\d{3}$/.test(w.t)).map(w=>({...w,code:w.t})))){
+        const code=cue.code;if(!/^[SM]\.\d{3}[A-Z]?$/.test(code))continue;
+        const available=!!audioMap[code],button=document.createElement('button');
+        button.type='button';button.className='audio-cue';button.dataset.code=code;button.textContent=available?'DİNLE':'Ses bekleniyor';button.disabled=!available;
+        button.title=available?`${code} sesini dinle`:`${code}: ses dosyası henüz eklenmedi`;
+        button.setAttribute('aria-label',available?`${code} dinleme kaydını oynat`:`${code} ses kaydı henüz eklenmedi`);
+        button.style.left=`${Math.min(cue.x+cue.w+.006,.91)*100}%`;button.style.top=`${Math.max(cue.y-.004,0)*100}%`;
+        button.addEventListener('click',()=>playAudio(code));layer.append(button);
+      }
+    }
+    function updateAudioButtons(){const p=$('#audioPlayer');$('#audioCues').querySelectorAll('[data-code]').forEach(b=>b.classList.toggle('is-playing',b.dataset.code===p.dataset.code&&!p.paused&&!p.ended))}
+    function playAudio(code){
+      const file=audioMap[code];if(!file){showToast(`${code} ses dosyası henüz eklenmedi.`);return}
+      const player=$('#audioPlayer');player.pause();window.TurkceSpeech?.stop();window.speechSynthesis?.cancel();
+      player.dataset.code=code;player.src=`audio/${encodeURIComponent(file)}`;player.currentTime=0;
+      $('#audioPlayback').hidden=false;$('#audioLabel').textContent=`${code} · Dinleme kaydı`;
+      player.onerror=()=>showToast(`${code} ses dosyası yüklenemedi.`);
+      player.play().catch(error=>{if(error.name!=='AbortError')showToast('Sesi başlatmak için oynatma düğmesine dokunun.');});
+    }
+    ['play','pause','ended'].forEach(event=>$('#audioPlayer').addEventListener(event,updateAudioButtons));
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
       details.open=false;$('#answerSummary').textContent='Cevabı gör';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
@@ -229,7 +249,7 @@
     $('#quizWrite').addEventListener('submit',e=>{e.preventDefault();const answer=$('#quizAnswer').value;answerQuiz(normalize(answer)===normalize(quizItems[quizIndex]?.text))});
     $('#quizNext').onclick=()=>{if(quizFinished){buildQuiz();return}if(!quizAnswered)return;if(quizIndex===quizItems.length-1){finishQuiz();return}quizIndex++;renderQuiz()};
     try{targetLang=localStorage.getItem('ta-gecmis-olsun-lang')||'en';savedWords=readSaved()}catch{} updateLanguageTabs();document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.addEventListener('click',()=>{targetLang=b.dataset.lang;try{localStorage.setItem('ta-gecmis-olsun-lang',targetLang)}catch{}updateLanguageTabs();renderSelection();buildQuiz();renderVocab()}));img.addEventListener('load',alignStudyArea);window.addEventListener('resize',alignStudyArea);
-    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json',{cache:'no-store'})]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
+    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json',{cache:'no-store'}),fetch('audio-map.json?v=20261014-u8',{cache:'no-store'})]).then(async([p,t,a])=>{if(!p.ok||!t.ok||!a.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json(),await a.json()]}).then(([data,words,audio])=>{pages=data;glossary=words;audioMap=audio;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
 
