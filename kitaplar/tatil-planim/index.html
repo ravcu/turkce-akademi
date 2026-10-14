@@ -136,7 +136,7 @@
     function updateLanguageTabs(){document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.lang===targetLang)))}
     function renderSelection(){
       if(!activeSelection)return;
-      const {key,text,phrase}=activeSelection,entry=phrase?glossary.phrases[key]:null,formEntry=!phrase?glossary.forms?.[key]:null;
+      const {key,text,phrase}=activeSelection,entry=phrase?glossary.phrases[key]:null,formEntry=phrase?(entry?.lemma?entry:null):glossary.forms?.[key];
       const langIndex=LANGS.findIndex(x=>x[0]===targetLang),lang=LANGS[langIndex],dir=targetLang==='ar'?' dir="rtl"':'';
       const meanings=entry?.translations||formEntry?.formTranslations||glossary.words[key]||[text,text,text,text,text],rawMeaning=meanings[langIndex]||text,meaning=/^\d+$/.test(key)&&targetLang==='en'?numberToEnglish(Number(key)):rawMeaning;
       const lemma=formEntry?.lemma,lemmaKey=lemma?normalize(lemma):'',lemmaMeanings=formEntry?.lemmaTranslations||glossary.lemmas?.[lemmaKey]?.translations||glossary.words[lemmaKey],baseMeaning=lemmaMeanings?.[langIndex]||lemma;
