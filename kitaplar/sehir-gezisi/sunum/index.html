@@ -97,7 +97,7 @@
   function nearOnLine(a,b){const ay=a.y+a.h/2,by=b.y+b.h/2,dy=by-ay,lineTolerance=Math.max(.018,Math.min(a.h,b.h)*.85),gap=b.x-(a.x+a.w),sameLine=Math.abs(dy)<=lineTolerance&&b.x>=a.x-.025&&gap<=.14,wrappedLine=dy>lineTolerance&&dy<=.055&&b.x>=a.x-.12&&b.x<=a.x+.12;return sameLine||wrappedLine}
   function selectPhrase(index,list){
     const hit=list[index];if(hit.type==='phrase'&&dict.phrases?.[hit.key])return {key:hit.key,text:canonicalDisplay(hit),displayText:canonicalDisplay(hit),phrase:true,indices:[index]};
-    const candidates=list.map((h,i)=>({h,i,token:normalized(h.key||h.text)})).filter(x=>x.h.type!=='phrase'&&!x.h.answer);
+    const candidates=list.map((h,i)=>({h,i,token:normalized(h.key||h.text)})).filter(x=>x.h.type!=='phrase'&&!!x.h.answer===!!hit.answer);
     const choices=[];
     for(const [phrase,entry] of Object.entries(dict.phrases||{})){
       const parts=phrase.split(/\s+/).map(normalized);if(parts.length<2)continue;
