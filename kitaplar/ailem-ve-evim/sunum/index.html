@@ -49,7 +49,7 @@
   function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
   async function init(){
     try{
-      const [data,hitData,translations,answerData]=await Promise.all([fetch('assets/slides.json?v=unit3-audiofull-20261015').then(r=>r.json()),fetch('assets/word-spots.json?v=unit3-audiofull-20261015').then(r=>r.json()),fetch('assets/translations.json?v=unit3-audiofull-20261015').then(r=>r.json()),fetch('assets/answer-overlays.json?v=unit3-audiofull-20261015').then(r=>r.json())]);
+      const [data,hitData,translations,answerData]=await Promise.all([fetch('assets/slides.json?v=unit3-verified-20261015').then(r=>r.json()),fetch('assets/word-spots.json?v=unit3-verified-20261015').then(r=>r.json()),fetch('assets/translations.json?v=unit3-verified-20261015').then(r=>r.json()),fetch('assets/answer-overlays.json?v=unit3-verified-20261015').then(r=>r.json())]);
       slides=data.slides;spots=hitData;dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('sunum-u3-current')||0),slides.length-1);lang=localStorage.getItem('sunum-u3-language')||'en';
       renderShell();renderSlide();requestAutoFullscreen();
     }catch(e){main.innerHTML='<section class="panel"><h2>Sunum açılamadı</h2><p>Slayt dosyaları yüklenirken bir sorun oluştu. Sayfayı yenileyin.</p></section>';console.error(e)}
