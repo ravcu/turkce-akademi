@@ -34,6 +34,8 @@
 
 
 
+
+.unit-navigation{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}.unit-navigation>.unit-nav-button:first-child{justify-self:start}.unit-navigation>.unit-nav-button:last-child{justify-self:end}.unit-current{justify-self:center;white-space:nowrap;color:var(--teal);font-size:13px;font-weight:850;letter-spacing:.06em}@media(max-width:520px){.unit-navigation{gap:5px}.unit-current{font-size:11px;letter-spacing:.02em}.unit-navigation>.unit-nav-button{font-size:10px;padding:8px 6px}}
 </style>
 </head>
 <body>
@@ -42,7 +44,7 @@
     <div class="brand"><span class="mark">T</span><span>Türkçe Akademi<small>A1 · ŞEHİR GEZİSİ · SUNUM MODU</small></span></div>
     <div class="header-right"><button class="plain-btn" id="fullBtn" title="Tam ekran">⛶</button><a class="back" href="../index.html">PDF Modu’na dön</a></div>
   </header>
-  <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../../bir-gunum/sunum/">← Bir Önceki Ünite</a><a class="unit-nav-button" href="../../carsi-pazar/sunum/">Bir Sonraki Ünite →</a></nav>
+  <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../../bir-gunum/sunum/">← Bir Önceki Ünite</a><span class="unit-current" aria-current="step">5. ÜNİTE</span><a class="unit-nav-button" href="../../carsi-pazar/sunum/">Bir Sonraki Ünite →</a></nav>
   <main id="main"><div class="loading">Sunum sayfaları yükleniyor…</div></main>
 </div>
 <div class="toast" id="toast" role="status"></div>
