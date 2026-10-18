@@ -64,7 +64,7 @@
       <section class="book" aria-label="Ders kitabı sayfaları">
         <div class="toolbar">
           <div class="toolgroup"><button id="prev" class="iconbtn" aria-label="Önceki sayfa">←</button><span id="count" class="pagecount">1 / 16</span><button id="next" class="iconbtn" aria-label="Sonraki sayfa">→</button></div>
-          <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button></div>
+          <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button><button type="button" id="regionZoomButton" class="iconbtn region-zoom-button" aria-label="Bölge büyütme" aria-pressed="false" style="min-width:82px;white-space:nowrap">🔍 Bölge</button></div>
         </div>
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
         <audio id="audioPlayer" preload="none"></audio>
@@ -277,7 +277,7 @@
  const stage=document.getElementById('stage'),page=document.getElementById('pageImage'),dialog=document.getElementById('regionZoomDialog');
  const win=document.getElementById('regionZoomWindow'),picture=document.getElementById('regionZoomPicture'),toolbar=document.querySelector('.toolbar .toolgroup');
  if(!stage||!page||!dialog||!win||!toolbar)return;
- const button=document.createElement('button');button.type='button';button.className='iconbtn region-zoom-button';button.textContent='⌕';button.title='Bölge büyütme: etkinleştirip sayfada istediğiniz noktaya dokunun';button.setAttribute('aria-label','Bölge büyütme modunu aç veya kapat');button.setAttribute('aria-pressed','false');toolbar.append(button); button.style.minWidth='65px';button.textContent='🔍 Bölge';
+ const button=document.getElementById('regionZoomButton');if(!button)return;button.title='Bölge büyütme: etkinleştirip sayfada istediğiniz noktaya dokunun';
  let enabled=false,focusX=.5,focusY=.5;
  button.addEventListener('click',()=>{enabled=!enabled;button.setAttribute('aria-pressed',String(enabled));stage.style.cursor=enabled?'zoom-in':'';button.textContent=enabled?'✓ Seç':'🔍 Bölge'});
  function position(){
