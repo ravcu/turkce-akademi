@@ -269,7 +269,7 @@
 @media(max-width:520px){.region-zoom-tip{font-size:10px}.region-zoom-header{padding:10px}}
 </style>
 <dialog id="regionZoomDialog" class="region-zoom-dialog" aria-label="Seçilen kitap bölgesi büyütülmüş görünüm">
-  <div class="region-zoom-header"><span class="region-zoom-tip">Büyütülmüş bölge · Parmağınızla kaydırabilirsiniz</span><button type="button" id="regionZoomClose">✕ Kapat</button></div>
+  <div class="region-zoom-header"><span class="region-zoom-tip">Seçilen kitap bölgesi · Kapatınca sayfaya dön</span><button type="button" id="regionZoomClose">✕ Kapat</button></div>
   <div class="region-zoom-window" id="regionZoomWindow"><img class="region-zoom-picture" id="regionZoomPicture" alt="Büyütülen kitap bölgesi"></div>
 </dialog>
 <script>
@@ -283,9 +283,9 @@
  function position(){
   if(!picture.naturalWidth||!picture.naturalHeight)return;
   const w=win.clientWidth,h=win.clientHeight,iw=picture.naturalWidth,ih=picture.naturalHeight;
-  const base=Math.min(w/iw,h/ih),scale=base*2.1,sw=iw*scale,sh=ih*scale;
+  const base=Math.min(w/iw,h/ih),scale=Math.min(base,2.5),sw=iw*scale,sh=ih*scale;
   picture.style.width=sw+'px';picture.style.height=sh+'px';
-  picture.style.left='0';picture.style.top='0';
+  picture.style.left=Math.max(0,(w-sw)/2)+'px';picture.style.top=Math.max(0,(h-sh)/2)+'px';
   win.scrollLeft=Math.max(0,focusX*sw-w/2);
   win.scrollTop=Math.max(0,focusY*sh-h/2);
  }
@@ -295,7 +295,16 @@
   const rect=page.getBoundingClientRect();
   focusX=Math.max(0,Math.min(1,(e.clientX-rect.left)/rect.width));
   focusY=Math.max(0,Math.min(1,(e.clientY-rect.top)/rect.height));
-  picture.src=page.currentSrc||page.src;picture.alt=page.alt;
+  const sourceWidth=page.naturalWidth,sourceHeight=page.naturalHeight;
+  const cropWidth=Math.round(sourceWidth*.84),cropHeight=Math.round(sourceHeight*.30);
+  const centerX=focusX*sourceWidth,centerY=focusY*sourceHeight;
+  const sx=Math.max(0,Math.min(sourceWidth-cropWidth,centerX-cropWidth/2));
+  const sy=Math.max(0,Math.min(sourceHeight-cropHeight,centerY-cropHeight/2));
+  const canvas=document.createElement('canvas');canvas.width=cropWidth;canvas.height=cropHeight;
+  const ctx=canvas.getContext('2d');if(!ctx)return;
+  ctx.drawImage(page,sx,sy,cropWidth,cropHeight,0,0,cropWidth,cropHeight);
+  picture.src=canvas.toDataURL('image/png');picture.alt='Seçilen kitap etkinliği';
+  focusX=.5;focusY=.5;
   if(typeof dialog.showModal==='function')dialog.showModal();else dialog.setAttribute('open','');
   requestAnimationFrame(position);
  },true);
