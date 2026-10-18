@@ -277,9 +277,9 @@
  const stage=document.getElementById('stage'),page=document.getElementById('pageImage'),dialog=document.getElementById('regionZoomDialog');
  const win=document.getElementById('regionZoomWindow'),picture=document.getElementById('regionZoomPicture'),toolbar=document.querySelector('.toolbar .toolgroup');
  if(!stage||!page||!dialog||!win||!toolbar)return;
- const button=document.createElement('button');button.type='button';button.className='iconbtn region-zoom-button';button.textContent='⌕';button.title='Bölge büyütme: etkinleştirip sayfada istediğiniz noktaya dokunun';button.setAttribute('aria-label','Bölge büyütme modunu aç veya kapat');button.setAttribute('aria-pressed','false');toolbar.append(button);
+ const button=document.createElement('button');button.type='button';button.className='iconbtn region-zoom-button';button.textContent='⌕';button.title='Bölge büyütme: etkinleştirip sayfada istediğiniz noktaya dokunun';button.setAttribute('aria-label','Bölge büyütme modunu aç veya kapat');button.setAttribute('aria-pressed','false');toolbar.append(button); button.style.minWidth='65px';button.textContent='🔍 Bölge';
  let enabled=false,focusX=.5,focusY=.5;
- button.addEventListener('click',()=>{enabled=!enabled;button.setAttribute('aria-pressed',String(enabled));stage.style.cursor=enabled?'zoom-in':'';button.textContent=enabled?'⌕ ✓':'⌕'});
+ button.addEventListener('click',()=>{enabled=!enabled;button.setAttribute('aria-pressed',String(enabled));stage.style.cursor=enabled?'zoom-in':'';button.textContent=enabled?'✓ Seç':'🔍 Bölge'});
  function position(){
   if(!picture.naturalWidth||!picture.naturalHeight)return;
   const w=win.clientWidth,h=win.clientHeight,iw=picture.naturalWidth,ih=picture.naturalHeight;
@@ -290,7 +290,7 @@
  }
  stage.addEventListener('click',e=>{
   if(!enabled||!page.complete||!page.naturalWidth)return;
-  if(e.target.closest('button, a, input, select, audio, .audio-cue'))return;
+  if(e.target.closest('.audio-cue'))return; e.preventDefault();e.stopImmediatePropagation();
   const rect=page.getBoundingClientRect();
   focusX=Math.max(0,Math.min(1,(e.clientX-rect.left)/rect.width));
   focusY=Math.max(0,Math.min(1,(e.clientY-rect.top)/rect.height));
