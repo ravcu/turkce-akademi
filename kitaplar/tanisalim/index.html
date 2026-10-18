@@ -257,5 +257,51 @@
   });
 })();
 </script>
+<style>
+.region-zoom-button[aria-pressed="true"]{background:#087f83;color:white;border-color:#087f83}
+.region-zoom-dialog{position:fixed;inset:0;width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;padding:0;border:0;background:#102d34eb;color:white;z-index:9999}
+.region-zoom-dialog::backdrop{background:#102d34eb}
+.region-zoom-header{position:absolute;top:0;left:0;right:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 18px;background:#102d34}
+.region-zoom-header button{border:1px solid #b4d4d0;border-radius:10px;background:white;color:#17343b;padding:8px 13px;font-weight:700}
+.region-zoom-window{position:absolute;inset:62px 12px 14px;overflow:hidden;touch-action:pan-x pan-y;cursor:grab}
+.region-zoom-picture{position:absolute;display:block;max-width:none;max-height:none;transform-origin:top left;user-select:none;-webkit-user-drag:none}
+.region-zoom-tip{font-size:12px;color:#d4eae6}
+@media(max-width:520px){.region-zoom-tip{font-size:10px}.region-zoom-header{padding:10px}}
+</style>
+<dialog id="regionZoomDialog" class="region-zoom-dialog" aria-label="Seçilen kitap bölgesi büyütülmüş görünüm">
+  <div class="region-zoom-header"><span class="region-zoom-tip">Büyütülmüş kitap bölgesi · Kapatınca aynı sayfaya dönersiniz</span><button type="button" id="regionZoomClose">✕ Kapat</button></div>
+  <div class="region-zoom-window" id="regionZoomWindow"><img class="region-zoom-picture" id="regionZoomPicture" alt="Büyütülen kitap bölgesi"></div>
+</dialog>
+<script>
+(()=>{
+ const stage=document.getElementById('stage'),page=document.getElementById('pageImage'),dialog=document.getElementById('regionZoomDialog');
+ const win=document.getElementById('regionZoomWindow'),picture=document.getElementById('regionZoomPicture'),toolbar=document.querySelector('.toolbar .toolgroup');
+ if(!stage||!page||!dialog||!win||!toolbar)return;
+ const button=document.createElement('button');button.type='button';button.className='iconbtn region-zoom-button';button.textContent='⌕';button.title='Bölge büyütme: etkinleştirip sayfada istediğiniz noktaya dokunun';button.setAttribute('aria-label','Bölge büyütme modunu aç veya kapat');button.setAttribute('aria-pressed','false');toolbar.append(button);
+ let enabled=false,focusX=.5,focusY=.5;
+ button.addEventListener('click',()=>{enabled=!enabled;button.setAttribute('aria-pressed',String(enabled));stage.style.cursor=enabled?'zoom-in':'';button.textContent=enabled?'⌕ ✓':'⌕'});
+ function position(){
+  if(!picture.naturalWidth||!picture.naturalHeight)return;
+  const w=win.clientWidth,h=win.clientHeight,iw=picture.naturalWidth,ih=picture.naturalHeight;
+  const base=Math.min(w/iw,h/ih),scale=base*2.5,sw=iw*scale,sh=ih*scale;
+  picture.style.width=sw+'px';picture.style.height=sh+'px';
+  picture.style.left=Math.min(0,Math.max(w-sw,w/2-focusX*sw))+'px';
+  picture.style.top=Math.min(0,Math.max(h-sh,h/2-focusY*sh))+'px';
+ }
+ stage.addEventListener('click',e=>{
+  if(!enabled||!page.complete||!page.naturalWidth)return;
+  if(e.target.closest('button, a, input, select, audio, .audio-cue'))return;
+  const rect=page.getBoundingClientRect();
+  focusX=Math.max(0,Math.min(1,(e.clientX-rect.left)/rect.width));
+  focusY=Math.max(0,Math.min(1,(e.clientY-rect.top)/rect.height));
+  picture.src=page.currentSrc||page.src;picture.alt=page.alt;
+  if(typeof dialog.showModal==='function')dialog.showModal();else dialog.setAttribute('open','');
+  requestAnimationFrame(position);
+ },true);
+ picture.addEventListener('load',position);window.addEventListener('resize',()=>{if(dialog.open)position()});
+ document.getElementById('regionZoomClose').addEventListener('click',()=>dialog.close());
+ dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
+})();
+</script>
 </body>
 </html>
