@@ -64,7 +64,7 @@
       <section class="book" aria-label="Ders kitabı sayfaları">
         <div class="toolbar">
           <div class="toolgroup"><button id="prev" class="iconbtn" aria-label="Önceki sayfa">←</button><span id="count" class="pagecount">1 / 16</span><button id="next" class="iconbtn" aria-label="Sonraki sayfa">→</button></div>
-          <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button><button type="button" id="regionZoomButton" class="iconbtn region-zoom-button" aria-label="Bölge büyütme" aria-pressed="false" style="min-width:82px;white-space:nowrap">🔍 Bölge</button></div>
+          <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button></div>
         </div>
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
         <audio id="audioPlayer" preload="none"></audio>
@@ -257,61 +257,6 @@
   });
 })();
 </script>
-<style>
-.region-zoom-button[aria-pressed="true"]{background:#087f83;color:white;border-color:#087f83}
-.region-zoom-dialog{position:fixed;inset:0;width:100vw;height:100dvh;max-width:none;max-height:none;margin:0;padding:0;border:0;background:#102d34eb;color:white;z-index:9999}
-.region-zoom-dialog::backdrop{background:#102d34eb}
-.region-zoom-header{position:absolute;top:0;left:0;right:0;z-index:2;display:flex;align-items:center;justify-content:space-between;gap:12px;padding:12px 18px;background:#102d34}
-.region-zoom-header button{border:1px solid #b4d4d0;border-radius:10px;background:white;color:#17343b;padding:8px 13px;font-weight:700}
-.region-zoom-window{position:absolute;inset:62px 12px 14px;overflow:auto;overscroll-behavior:contain;touch-action:pan-x pan-y;-webkit-overflow-scrolling:touch;background:#edf2ef}
-.region-zoom-picture{position:relative;display:block;max-width:none;max-height:none;user-select:none;-webkit-user-drag:none}
-.region-zoom-tip{font-size:12px;color:#d4eae6}
-@media(max-width:520px){.region-zoom-tip{font-size:10px}.region-zoom-header{padding:10px}}
-</style>
-<dialog id="regionZoomDialog" class="region-zoom-dialog" aria-label="Seçilen kitap bölgesi büyütülmüş görünüm">
-  <div class="region-zoom-header"><span class="region-zoom-tip">Seçilen kitap bölgesi · Kapatınca sayfaya dön</span><button type="button" id="regionZoomClose">✕ Kapat</button></div>
-  <div class="region-zoom-window" id="regionZoomWindow"><img class="region-zoom-picture" id="regionZoomPicture" alt="Büyütülen kitap bölgesi"></div>
-</dialog>
-<script>
-(()=>{
- const stage=document.getElementById('stage'),page=document.getElementById('pageImage'),dialog=document.getElementById('regionZoomDialog');
- const win=document.getElementById('regionZoomWindow'),picture=document.getElementById('regionZoomPicture'),toolbar=document.querySelector('.toolbar .toolgroup');
- if(!stage||!page||!dialog||!win||!toolbar)return;
- const button=document.getElementById('regionZoomButton');if(!button)return;button.title='Bölge büyütme: etkinleştirip sayfada istediğiniz noktaya dokunun';
- let enabled=false,focusX=.5,focusY=.5;
- button.addEventListener('click',()=>{enabled=!enabled;button.setAttribute('aria-pressed',String(enabled));stage.style.cursor=enabled?'zoom-in':'';button.textContent=enabled?'✓ Seç':'🔍 Bölge'});
- function position(){
-  if(!picture.naturalWidth||!picture.naturalHeight)return;
-  const w=win.clientWidth,h=win.clientHeight,iw=picture.naturalWidth,ih=picture.naturalHeight;
-  const base=Math.min(w/iw,h/ih),scale=Math.min(base,2.5),sw=iw*scale,sh=ih*scale;
-  picture.style.width=sw+'px';picture.style.height=sh+'px';
-  picture.style.left=Math.max(0,(w-sw)/2)+'px';picture.style.top=Math.max(0,(h-sh)/2)+'px';
-  win.scrollLeft=Math.max(0,focusX*sw-w/2);
-  win.scrollTop=Math.max(0,focusY*sh-h/2);
- }
- stage.addEventListener('click',e=>{
-  if(!enabled||!page.complete||!page.naturalWidth)return;
-  if(e.target.closest('.audio-cue'))return; e.preventDefault();e.stopImmediatePropagation();
-  const rect=page.getBoundingClientRect();
-  focusX=Math.max(0,Math.min(1,(e.clientX-rect.left)/rect.width));
-  focusY=Math.max(0,Math.min(1,(e.clientY-rect.top)/rect.height));
-  const sourceWidth=page.naturalWidth,sourceHeight=page.naturalHeight;
-  const cropWidth=Math.round(sourceWidth*.84),cropHeight=Math.round(sourceHeight*.30);
-  const centerX=focusX*sourceWidth,centerY=focusY*sourceHeight;
-  const sx=Math.max(0,Math.min(sourceWidth-cropWidth,centerX-cropWidth/2));
-  const sy=Math.max(0,Math.min(sourceHeight-cropHeight,centerY-cropHeight/2));
-  const canvas=document.createElement('canvas');canvas.width=cropWidth;canvas.height=cropHeight;
-  const ctx=canvas.getContext('2d');if(!ctx)return;
-  ctx.drawImage(page,sx,sy,cropWidth,cropHeight,0,0,cropWidth,cropHeight);
-  picture.src=canvas.toDataURL('image/png');picture.alt='Seçilen kitap etkinliği';
-  focusX=.5;focusY=.5;
-  if(typeof dialog.showModal==='function')dialog.showModal();else dialog.setAttribute('open','');
-  requestAnimationFrame(position);
- },true);
- picture.addEventListener('load',position);window.addEventListener('resize',()=>{if(dialog.open)position()});
- document.getElementById('regionZoomClose').addEventListener('click',()=>dialog.close());
- dialog.addEventListener('click',e=>{if(e.target===dialog)dialog.close()});
-})();
-</script>
+
 </body>
 </html>
