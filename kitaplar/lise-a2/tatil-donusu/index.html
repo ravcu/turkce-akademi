@@ -165,20 +165,26 @@
     function exportCurrentPageWords(){
       const page=pages[current];if(!page)return;
       const index=LANGS.findIndex(x=>x[0]===targetLang),language=LANGS[index]?.[2]||'English';
-      const rows=[],seen=new Set();
+      const rows=[],seen=new Set(),seenPhrases=new Set();
+      // Include every distinct printed word, even if it is also part of a multiword phrase.
+      // Keep numbers, proper names and inflected forms; never silently omit an entry.
       for(let i=0;i<page.words.length;i++){
         const w=page.words[i],word=cleanLeadingDashes(w.t||''),key=normalize(word);
-        if(!key||!/[a-zA-ZçğıöşüÇĞİÖŞÜ]/.test(key))continue;
-        const phrase=phraseAt(i,page.words),phraseKey=phrase?.key||key;
-        if(seen.has(phraseKey))continue;
-        const form=glossary.forms?.[phraseKey],translations=phrase?glossary.phrases?.[phraseKey]?.translations:form?.formTranslations||glossary.words[phraseKey];
+        if(!key||seen.has(key))continue;
+        seen.add(key);
+        const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
         let meaning=translations?.[index];
-        if(/^\d+$/.test(phraseKey)&&targetLang==='en')meaning=numberToEnglish(Number(phraseKey));
-        if(!meaning||normalize(meaning)===phraseKey)continue;
-        seen.add(phraseKey);
-        rows.push([phrase?cleanLeadingDashes(phrase.text):word,meaning]);
+        if(/^\\d+$/.test(key)&&targetLang==='en')meaning=numberToEnglish(Number(key));
+        rows.push([word,typeof meaning==='string'&&meaning.trim()?meaning:'— (çeviri kontrol edilecek)']);
+        const phrase=phraseAt(i,page.words);
+        if(phrase&&!seenPhrases.has(phrase.key))seenPhrases.add(phrase.key);
       }
-      if(!rows.length){showToast('Bu sayfa için doğrulanmış kelime karşılıkları bulunamadı.');return}
+      // Show full expressions as additional entries without hiding their component words.
+      for(const phraseKey of seenPhrases){
+        const translations=glossary.phrases?.[phraseKey]?.translations;
+        rows.push([phraseKey,translations?.[index]||'— (çeviri kontrol edilecek)']);
+      }
+      if(!rows.length){showToast('Bu sayfada kelime bulunamadı.');return}
       const popup=window.open('','_blank');
       if(!popup){showToast('PDF için açılır pencereye izin verin.');return}
       const safe=escapeHtml;
