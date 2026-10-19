@@ -132,7 +132,9 @@
     }
     ['play','pause','ended'].forEach(event=>$('#audioPlayer').addEventListener(event,updateAudioButtons));
     const verifiedPage2Answers={sections:[{title:'1. b. Kelimeleri uygun kutucuklara yazınız.',items:['1. anne (kitapta mevcut)','2. Baba','3. Dede','4. Nine','5. Abla','6. Ağabey']}],fills:[{text:'Baba',x:.461,y:.336,w:.083},{text:'Dede',x:.646,y:.344,w:.083},{text:'Nine',x:.732,y:.380,w:.075},{text:'Abla',x:.837,y:.350,w:.077},{text:'Ağabey',x:.254,y:.627,w:.112}]};
-    function getPageAnswers(){return current===1?verifiedPage2Answers:glossary.answerKeys?.[String(current+1)]}
+    const verifiedPage4Answers={sections:[{title:'5. Murat’ın ailesinde kimler var?',items:['Zeliha','Mehmet','Zeynep','Hakan','Elif','Alican']}],fills:[{text:'Zeliha',x:.445,y:.134,w:.075},{text:'Mehmet',x:.664,y:.134,w:.09},{text:'Zeynep',x:.315,y:.232,w:.09},{text:'Hakan',x:.827,y:.232,w:.08},{text:'Elif',x:.448,y:.296,w:.055},{text:'Alican',x:.682,y:.296,w:.077}]};
+    const verifiedPage2Extra={fills:[{text:'İ',x:.501,y:.861,w:.018},{text:'L',x:.678,y:.861,w:.018},{text:'E',x:.802,y:.861,w:.018}],circles:[{x:.501,y:.836,rx:.021,ry:.014},{x:.678,y:.836,rx:.022,ry:.014},{x:.802,y:.836,rx:.022,ry:.014},{x:.325,y:.927,rx:.036,ry:.017},{x:.380,y:.927,rx:.034,ry:.017},{x:.43,y:.927,rx:.031,ry:.017},{x:.587,y:.927,rx:.066,ry:.017},{x:.67,y:.927,rx:.033,ry:.017},{x:.725,y:.927,rx:.032,ry:.017}]};
+    function getPageAnswers(){if(current===1)return {...verifiedPage2Answers,sections:[...verifiedPage2Answers.sections,{title:'2. Görseli inceleyin; 3. Aile üyelerini işaretleyin.',items:['Gizli kelime: AİLE','İşaretlenenler: anne, baba, abla, ağabey, erkek kardeş, dede, nine']}],fills:[...verifiedPage2Answers.fills,...verifiedPage2Extra.fills],circles:verifiedPage2Extra.circles};if(current===3)return verifiedPage4Answers;return glossary.answerKeys?.[String(current+1)]}
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=getPageAnswers();
       details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=false;content.replaceChildren();renderAnswerOverlay();
@@ -142,15 +144,16 @@
     }
     function renderAnswerOverlay(){
       const overlay=$('#answerOverlay'),data=getPageAnswers();overlay.replaceChildren();overlay.hidden=true;
-      if(!$('#answerDetails').open||!Array.isArray(data?.fills)||!data.fills.length)return;
+      if(!$('#answerDetails').open||!data)return;
       if(Array.isArray(data.links)&&data.links.length){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('class','answer-links');svg.setAttribute('viewBox','0 0 950 1202');svg.setAttribute('preserveAspectRatio','none');svg.innerHTML='<defs><marker id="answerArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#087f83"></path></marker></defs>';data.links.forEach(link=>{const line=document.createElementNS('http://www.w3.org/2000/svg','line');line.setAttribute('x1',link.x1*950);line.setAttribute('y1',link.y1*1202);line.setAttribute('x2',link.x2*950);line.setAttribute('y2',link.y2*1202);svg.append(line)});overlay.append(svg)}
+      if(Array.isArray(data.circles)&&data.circles.length){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('class','answer-links');svg.setAttribute('viewBox','0 0 1000 1000');svg.setAttribute('preserveAspectRatio','none');data.circles.forEach(c=>{const el=document.createElementNS('http://www.w3.org/2000/svg','ellipse');el.setAttribute('cx',c.x*1000);el.setAttribute('cy',c.y*1000);el.setAttribute('rx',c.rx*1000);el.setAttribute('ry',c.ry*1000);el.setAttribute('fill','none');el.setAttribute('stroke','#e11b22');el.setAttribute('stroke-width','2');svg.append(el)});overlay.append(svg)}
       const pageWords=pages[current]?.words||[];
       const collides=(x,y,w,h)=>pageWords.some(word=>{
         if(!word.t||!/[\\p{L}\\p{N}]/u.test(word.t))return false;
         const padX=.003,padY=.002;
         return x<word.x+word.w-padX&&x+w>word.x+padX&&y<word.y+word.h-padY&&y+h>word.y+padY;
       });
-      data.fills.forEach(fill=>{
+      (data.fills||[]).forEach(fill=>{
         const answer=document.createElement('span');
         answer.className=`answer-fill${fill.underline?' answer-underline':''}`;
         answer.textContent=fill.text;
