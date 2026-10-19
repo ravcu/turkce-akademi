@@ -2902,7 +2902,13 @@
     },
     "33": {
       "tr": "Kitabın otuz üçüncü sayfasını aç.",
-      "values": []
+      "values": [
+        "Open page thirty-three of the book.",
+        "Открой тридцать третью страницу книги.",
+        "Китептин отуз үчүнчү бетин ач.",
+        "افتح الصفحة الثالثة والثلاثين من الكتاب.",
+        "Ouvre la page trente-trois du livre."
+      ]
     },
     "ünite": {
       "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
@@ -4046,519 +4052,1293 @@
     },
     "metni": {
       "tr": "Metni dikkatle okuyun.",
-      "values": []
+      "values": [
+        "Read the text carefully.",
+        "Внимательно прочитайте текст.",
+        "Текстти кунт коюп окугула.",
+        "اقرؤوا النص بعناية.",
+        "Lisez attentivement le texte."
+      ]
     },
     "sorulara": {
       "tr": "Sorulara cevap verin.",
-      "values": []
+      "values": [
+        "Answer the questions.",
+        "Ответьте на вопросы.",
+        "Суроолорго жооп бергиле.",
+        "أجيبوا عن الأسئلة.",
+        "Répondez aux questions."
+      ]
     },
     "cevap": {
       "tr": "Bu sorunun cevabını biliyorum.",
-      "values": []
+      "values": [
+        "I know the answer to this question.",
+        "Я знаю ответ на этот вопрос.",
+        "Бул суроонун жообун билем.",
+        "أعرف إجابة هذا السؤال.",
+        "Je connais la réponse à cette question."
+      ]
     },
     "verin": {
       "tr": "Lütfen cevap verin.",
-      "values": []
+      "values": [
+        "Please give an answer.",
+        "Пожалуйста, дайте ответ.",
+        "Сураныч, жооп бергиле.",
+        "من فضلكم، أعطوا إجابة.",
+        "Veuillez donner une réponse."
+      ]
     },
     "s.014": {
       "tr": "S.014 numaralı kaydı dinleyin.",
-      "values": []
+      "values": [
+        "Listen to recording S.014.",
+        "Прослушайте запись S.014.",
+        "S.014 аудиожазуусун уккула.",
+        "استمعوا إلى التسجيل S.014.",
+        "Écoutez l'enregistrement S.014."
+      ]
     },
     "sinemaya": {
       "tr": "Akşam sinemaya gideceğiz.",
-      "values": []
+      "values": [
+        "We're going to the cinema tonight.",
+        "Сегодня вечером мы пойдём в кино.",
+        "Бүгүн кечинде киного барабыз.",
+        "سنذهب إلى السينما هذا المساء.",
+        "Nous allons au cinéma ce soir."
+      ]
     },
     "gidelim": {
       "tr": "Birlikte gidelim.",
-      "values": []
+      "values": [
+        "Let's go together.",
+        "Давай пойдём вместе.",
+        "Чогуу баралы.",
+        "لنذهب معًا.",
+        "Allons-y ensemble."
+      ]
     },
     "mi": {
       "tr": "Bugün hava güzel mi?",
-      "values": []
+      "values": [
+        "Is the weather nice today?",
+        "Сегодня хорошая погода?",
+        "Бүгүн аба ырайы жакшыбы?",
+        "هل الطقس جميل اليوم؟",
+        "Il fait beau aujourd'hui ?"
+      ]
     },
     "aycan": {
       "tr": "Aycan bugün bize gelecek.",
-      "values": []
+      "values": [
+        "Aycan is coming to our place today.",
+        "Айджан сегодня придёт к нам.",
+        "Айжан бүгүн бизге келет.",
+        "ستأتي آيجان إلى منزلنا اليوم.",
+        "Aycan vient chez nous aujourd'hui."
+      ]
     },
     "arkadaşlar": {
       "tr": "Arkadaşlar, buraya gelin.",
-      "values": []
+      "values": [
+        "Friends, come here.",
+        "Друзья, идите сюда.",
+        "Достор, бул жакка келгиле.",
+        "يا أصدقاء، تعالوا إلى هنا.",
+        "Les amis, venez ici."
+      ]
     },
     "bakın": {
       "tr": "Bakın, otobüs geliyor.",
-      "values": []
+      "values": [
+        "Look, the bus is coming.",
+        "Смотрите, автобус едет.",
+        "Карагыла, автобус келе жатат.",
+        "انظروا، الحافلة قادمة.",
+        "Regardez, le bus arrive."
+      ]
     },
     "burada": {
       "tr": "Burada bekleyelim.",
-      "values": []
+      "values": [
+        "Let's wait here.",
+        "Давай подождём здесь.",
+        "Бул жерде күтөлү.",
+        "لننتظر هنا.",
+        "Attendons ici."
+      ]
     },
     "afişi": {
       "tr": "Festivalin afişi çok güzel.",
-      "values": []
+      "values": [
+        "The festival poster is very nice.",
+        "Афиша фестиваля очень красивая.",
+        "Фестивалдын афишасы абдан кооз.",
+        "ملصق المهرجان جميل جدًا.",
+        "L'affiche du festival est très belle."
+      ]
     },
     "emre": {
       "tr": "Emre bugün sinemaya gitti.",
-      "values": []
+      "values": [
+        "Emre went to the cinema today.",
+        "Эмре сегодня ходил в кино.",
+        "Эмре бүгүн киного барды.",
+        "ذهب أمره إلى السينما اليوم.",
+        "Emre est allé au cinéma aujourd'hui."
+      ]
     },
     "harbiye": {
       "tr": "Harbiye İstanbul'dadır.",
-      "values": []
+      "values": [
+        "Harbiye is in Istanbul.",
+        "Харбие находится в Стамбуле.",
+        "Харбие Стамбулда жайгашкан.",
+        "تقع حربية في إسطنبول.",
+        "Harbiye se trouve à Istanbul."
+      ]
     },
     "açık": {
       "tr": "Açık havada yürüyelim.",
-      "values": []
+      "values": [
+        "Let's take a walk outdoors.",
+        "Давай погуляем на свежем воздухе.",
+        "Ачык абада сейилдейли.",
+        "لنتمشَّ في الهواء الطلق.",
+        "Promenons-nous en plein air."
+      ]
     },
     "hava": {
       "tr": "Bugün hava çok güzel.",
-      "values": []
+      "values": [
+        "The weather is very nice today.",
+        "Сегодня очень хорошая погода.",
+        "Бүгүн аба ырайы абдан жакшы.",
+        "الطقس جميل جدًا اليوم.",
+        "Il fait très beau aujourd'hui."
+      ]
     },
     "sahnesi’nde": {
       "tr": "Konser açık hava sahnesinde olacak.",
-      "values": []
+      "values": [
+        "The concert will be at the open-air stage.",
+        "Концерт пройдёт на сцене под открытым небом.",
+        "Концерт ачык асман алдындагы сахнада болот.",
+        "سيقام الحفل على المسرح المكشوف.",
+        "Le concert aura lieu sur la scène en plein air."
+      ]
     },
     "zaman": {
       "tr": "Ne zaman geleceksin?",
-      "values": []
+      "values": [
+        "When will you come?",
+        "Когда ты придёшь?",
+        "Качан келесиң?",
+        "متى ستأتي؟",
+        "Quand viendras-tu ?"
+      ]
     },
     "günleri": {
       "tr": "Hafta sonu günleri dinlenirim.",
-      "values": []
+      "values": [
+        "I rest on weekends.",
+        "Я отдыхаю по выходным.",
+        "Дем алыш күндөрү эс алам.",
+        "أستريح في عطلة نهاية الأسبوع.",
+        "Je me repose le week-end."
+      ]
     },
     "teklifi": {
       "tr": "Teklifi kabul ettim.",
-      "values": []
+      "values": [
+        "I accepted the offer.",
+        "Я принял предложение.",
+        "Сунушту кабыл алдым.",
+        "قبلت العرض.",
+        "J'ai accepté la proposition."
+      ]
     },
     "evet": {
       "tr": "Evet, ben de geliyorum.",
-      "values": []
+      "values": [
+        "Yes, I'm coming too.",
+        "Да, я тоже приду.",
+        "Ооба, мен да келем.",
+        "نعم، سأأتي أيضًا.",
+        "Oui, je viens aussi."
+      ]
     },
     "etti": {
       "tr": "Bana yardım etti.",
-      "values": []
+      "values": [
+        "He helped me.",
+        "Он мне помог.",
+        "Ал мага жардам берди.",
+        "لقد ساعدني.",
+        "Il m'a aidé."
+      ]
     },
     "murat": {
       "tr": "Murat arkadaşını aradı.",
-      "values": []
+      "values": [
+        "Murat called his friend.",
+        "Мурат позвонил другу.",
+        "Мурат досуна чалды.",
+        "اتصل مراد بصديقه.",
+        "Murat a appelé son ami."
+      ]
     },
     "dersiniz": {
       "tr": "Bu plana ne dersiniz?",
-      "values": []
+      "values": [
+        "What do you think of this plan?",
+        "Что скажете об этом плане?",
+        "Бул планга эмне дейсиңер?",
+        "ما رأيكم في هذه الخطة؟",
+        "Que pensez-vous de ce projet ?"
+      ]
     },
     "festivale": {
       "tr": "Festivale birlikte gidelim.",
-      "values": []
+      "values": [
+        "Let's go to the festival together.",
+        "Давай вместе пойдём на фестиваль.",
+        "Фестивалга чогуу баралы.",
+        "لنذهب إلى المهرجان معًا.",
+        "Allons ensemble au festival."
+      ]
     },
     "planınız": {
       "tr": "Hafta sonu planınız var mı?",
-      "values": []
+      "values": [
+        "Do you have plans for the weekend?",
+        "У вас есть планы на выходные?",
+        "Дем алышка планыңар барбы?",
+        "هل لديكم خطط لعطلة نهاية الأسبوع؟",
+        "Vous avez des projets pour le week-end ?"
+      ]
     },
     "mı": {
       "tr": "Bir planınız var mı?",
-      "values": []
+      "values": [
+        "Do you have a plan?",
+        "У вас есть план?",
+        "Планыңар барбы?",
+        "هل لديكم خطة؟",
+        "Vous avez un projet ?"
+      ]
     },
     "benim": {
       "tr": "Benim bir biletim var.",
-      "values": []
+      "values": [
+        "I have a ticket.",
+        "У меня есть билет.",
+        "Менин билетим бар.",
+        "لدي تذكرة.",
+        "J'ai un billet."
+      ]
     },
     "planım": {
       "tr": "Planım yarın müzeye gitmek.",
-      "values": []
+      "values": [
+        "My plan is to visit the museum tomorrow.",
+        "Я планирую завтра пойти в музей.",
+        "Менин планым — эртең музейге баруу.",
+        "خطتي هي الذهاب إلى المتحف غدًا.",
+        "Mon projet est d'aller au musée demain."
+      ]
     },
     "yok": {
       "tr": "Bugün dersim yok.",
-      "values": []
+      "values": [
+        "I don't have class today.",
+        "У меня сегодня нет уроков.",
+        "Бүгүн сабагым жок.",
+        "ليس لدي درس اليوم.",
+        "Je n'ai pas cours aujourd'hui."
+      ]
     },
     "ben": {
       "tr": "Ben bugün evdeyim.",
-      "values": []
+      "values": [
+        "I'm at home today.",
+        "Сегодня я дома.",
+        "Мен бүгүн үйдөмүн.",
+        "أنا في البيت اليوم.",
+        "Je suis chez moi aujourd'hui."
+      ]
     },
     "gelirim": {
       "tr": "Yarın size gelirim.",
-      "values": []
+      "values": [
+        "I'll come to your place tomorrow.",
+        "Я приду к вам завтра.",
+        "Эртең силерге келем.",
+        "سآتي إليكم غدًا.",
+        "Je viendrai chez vous demain."
+      ]
     },
     "çünkü": {
       "tr": "Gelemiyorum çünkü hastayım.",
-      "values": []
+      "values": [
+        "I can't come because I'm sick.",
+        "Я не могу прийти, потому что болею.",
+        "Ооруп жатканым үчүн келе албайм.",
+        "لا أستطيع المجيء لأنني مريض.",
+        "Je ne peux pas venir parce que je suis malade."
+      ]
     },
     "sinemada": {
       "tr": "Sinemada arkadaşımı gördüm.",
-      "values": []
+      "values": [
+        "I saw my friend at the cinema.",
+        "Я увидел друга в кинотеатре.",
+        "Досумду кинотеатрдан көрдүм.",
+        "رأيت صديقي في السينما.",
+        "J'ai vu mon ami au cinéma."
+      ]
     },
     "izlemeyi": {
       "tr": "Film izlemeyi severim.",
-      "values": []
+      "values": [
+        "I like watching films.",
+        "Я люблю смотреть фильмы.",
+        "Мен тасма көргөндү жакшы көрөм.",
+        "أحب مشاهدة الأفلام.",
+        "J'aime regarder des films."
+      ]
     },
     "çok": {
       "tr": "Bu filmi çok sevdim.",
-      "values": []
+      "values": [
+        "I liked this film very much.",
+        "Мне очень понравился этот фильм.",
+        "Бул тасма мага абдан жакты.",
+        "أعجبني هذا الفيلم كثيرًا.",
+        "J'ai beaucoup aimé ce film."
+      ]
     },
     "severim": {
       "tr": "Komedi filmlerini severim.",
-      "values": []
+      "values": [
+        "I like comedy films.",
+        "Я люблю комедии.",
+        "Мен комедиялык тасмаларды жакшы көрөм.",
+        "أحب الأفلام الكوميدية.",
+        "J'aime les comédies."
+      ]
     },
     "elif": {
       "tr": "Elif kitap okuyor.",
-      "values": []
+      "values": [
+        "Elif is reading a book.",
+        "Элиф читает книгу.",
+        "Элиф китеп окуп жатат.",
+        "إليف تقرأ كتابًا.",
+        "Elif lit un livre."
+      ]
     },
     "iyi": {
       "tr": "İyi bir fikir.",
-      "values": []
+      "values": [
+        "A good idea.",
+        "Хорошая идея.",
+        "Жакшы ой.",
+        "فكرة جيدة.",
+        "Une bonne idée."
+      ]
     },
     "fikir": {
       "tr": "Bu güzel bir fikir.",
-      "values": []
+      "values": [
+        "This is a nice idea.",
+        "Это хорошая идея.",
+        "Бул жакшы ой.",
+        "هذه فكرة جميلة.",
+        "C'est une bonne idée."
+      ]
     },
     "de": {
       "tr": "Ben de geliyorum.",
-      "values": []
+      "values": [
+        "I'm coming too.",
+        "Я тоже приду.",
+        "Мен да келем.",
+        "سآتي أيضًا.",
+        "Je viens aussi."
+      ]
     },
     "sahnesi’ni": {
       "tr": "Açık hava sahnesini gördüm.",
-      "values": []
+      "values": [
+        "I saw the open-air stage.",
+        "Я увидел сцену под открытым небом.",
+        "Ачык асман алдындагы сахнаны көрдүм.",
+        "رأيت المسرح المكشوف.",
+        "J'ai vu la scène en plein air."
+      ]
     },
     "istiyorum": {
       "tr": "Bir bilet istiyorum.",
-      "values": []
+      "values": [
+        "I'd like a ticket.",
+        "Я хочу билет.",
+        "Мен билет алгым келет.",
+        "أريد تذكرة.",
+        "Je voudrais un billet."
+      ]
     },
     "gelemem": {
       "tr": "Üzgünüm, bugün gelemem.",
-      "values": []
+      "values": [
+        "Sorry, I can't come today.",
+        "Извини, сегодня я не смогу прийти.",
+        "Кечир, бүгүн келе албайм.",
+        "آسف، لا أستطيع المجيء اليوم.",
+        "Désolé, je ne peux pas venir aujourd'hui."
+      ]
     },
     "günü": {
       "tr": "Cumartesi günü görüşelim.",
-      "values": []
+      "values": [
+        "See you on Saturday.",
+        "Увидимся в субботу.",
+        "Ишемби күнү көрүшөбүз.",
+        "أراك يوم السبت.",
+        "À samedi."
+      ]
     },
     "teyzem": {
       "tr": "Teyzem yarın gelecek.",
-      "values": []
+      "values": [
+        "My aunt will come tomorrow.",
+        "Моя тётя придёт завтра.",
+        "Таежем эртең келет.",
+        "ستأتي خالتي غدًا.",
+        "Ma tante viendra demain."
+      ]
     },
     "dayım": {
       "tr": "Dayım bize uğradı.",
-      "values": []
+      "values": [
+        "My uncle stopped by our place.",
+        "Мой дядя зашёл к нам.",
+        "Таякем бизге кирип кетти.",
+        "زارنا خالي.",
+        "Mon oncle est passé chez nous."
+      ]
     },
     "bize": {
       "tr": "Akşam bize gelin.",
-      "values": []
+      "values": [
+        "Come to our place tonight.",
+        "Приходите к нам вечером.",
+        "Кечинде бизге келгиле.",
+        "تعالوا إلى منزلنا مساءً.",
+        "Venez chez nous ce soir."
+      ]
     },
     "gelecek": {
       "tr": "Babam akşam gelecek.",
-      "values": []
+      "values": [
+        "My father will come tonight.",
+        "Папа придёт вечером.",
+        "Атам кечинде келет.",
+        "سيأتي أبي مساءً.",
+        "Mon père viendra ce soir."
+      ]
     },
     "seansları": {
       "tr": "Film seansları internette yazıyor.",
-      "values": []
+      "values": [
+        "The film showtimes are listed online.",
+        "Время сеансов фильма указано в интернете.",
+        "Тасманын сеанстары интернетте жазылган.",
+        "مواعيد عروض الفيلم موجودة على الإنترنت.",
+        "Les horaires des séances sont indiqués sur Internet."
+      ]
     },
     "saatlerde": {
       "tr": "Hangi saatlerde boşsun?",
-      "values": []
+      "values": [
+        "At what times are you free?",
+        "В какое время ты свободен?",
+        "Кайсы сааттарда бошсуң?",
+        "في أي أوقات تكون متفرغًا؟",
+        "À quelles heures es-tu libre ?"
+      ]
     },
     "afişte": {
       "tr": "Saatler afişte yazıyor.",
-      "values": []
+      "values": [
+        "The times are written on the poster.",
+        "Время указано на афише.",
+        "Убакыттар афишада жазылган.",
+        "الأوقات مكتوبة على الملصق.",
+        "Les horaires sont écrits sur l'affiche."
+      ]
     },
     "yazılı": {
       "tr": "Adres burada yazılı.",
-      "values": []
+      "values": [
+        "The address is written here.",
+        "Адрес написан здесь.",
+        "Дарек бул жерде жазылган.",
+        "العنوان مكتوب هنا.",
+        "L'adresse est écrite ici."
+      ]
     },
     "değil": {
       "tr": "Bu benim biletim değil.",
-      "values": []
+      "values": [
+        "This isn't my ticket.",
+        "Это не мой билет.",
+        "Бул менин билетим эмес.",
+        "هذه ليست تذكرتي.",
+        "Ce n'est pas mon billet."
+      ]
     },
     "internetten": {
       "tr": "Biletleri internetten aldım.",
-      "values": []
+      "values": [
+        "I bought the tickets online.",
+        "Я купил билеты через интернет.",
+        "Билеттерди интернеттен сатып алдым.",
+        "اشتريت التذاكر عبر الإنترنت.",
+        "J'ai acheté les billets sur Internet."
+      ]
     },
     "bakalım": {
       "tr": "Saatlere bakalım.",
-      "values": []
+      "values": [
+        "Let's check the times.",
+        "Давай посмотрим расписание.",
+        "Убакыттарын карап көрөлү.",
+        "لننظر إلى المواعيد.",
+        "Regardons les horaires."
+      ]
     },
     "şimdi": {
       "tr": "Şimdi çıkıyorum.",
-      "values": []
+      "values": [
+        "I'm leaving now.",
+        "Я сейчас ухожу.",
+        "Мен азыр чыгып жатам.",
+        "سأخرج الآن.",
+        "Je pars maintenant."
+      ]
     },
     "bakıyorum": {
       "tr": "Bilet fiyatlarına bakıyorum.",
-      "values": []
+      "values": [
+        "I'm checking the ticket prices.",
+        "Я смотрю цены на билеты.",
+        "Билеттердин бааларын карап жатам.",
+        "أنظر إلى أسعار التذاكر.",
+        "Je regarde les prix des billets."
+      ]
     },
     "filmler": {
       "tr": "Bu hafta güzel filmler var.",
-      "values": []
+      "values": [
+        "There are good films this week.",
+        "На этой неделе идут хорошие фильмы.",
+        "Бул аптада жакшы тасмалар бар.",
+        "توجد أفلام جيدة هذا الأسبوع.",
+        "Il y a de bons films cette semaine."
+      ]
     },
     "saat": {
       "tr": "Saat kaç?",
-      "values": []
+      "values": [
+        "What time is it?",
+        "Который час?",
+        "Саат канча болду?",
+        "كم الساعة؟",
+        "Quelle heure est-il ?"
+      ]
     },
     "11.00’de": {
       "tr": "Film saat 11.00'de başlıyor.",
-      "values": []
+      "values": [
+        "The film starts at 11 a.m.",
+        "Фильм начинается в 11:00.",
+        "Тасма саат 11:00дө башталат.",
+        "يبدأ الفيلم الساعة الحادية عشرة صباحًا.",
+        "Le film commence à 11 h."
+      ]
     },
     "13.00’te": {
       "tr": "Saat 13.00'te buluşalım.",
-      "values": []
+      "values": [
+        "Let's meet at 1 p.m.",
+        "Встретимся в 13:00.",
+        "Саат 13:00дө жолугалы.",
+        "لنلتقِ الساعة الواحدة ظهرًا.",
+        "Retrouvons-nous à 13 h."
+      ]
     },
     "17.00’de": {
       "tr": "Konser 17.00'de başlıyor.",
-      "values": []
+      "values": [
+        "The concert starts at 5 p.m.",
+        "Концерт начинается в 17:00.",
+        "Концерт саат 17:00дө башталат.",
+        "يبدأ الحفل الساعة الخامسة مساءً.",
+        "Le concert commence à 17 h."
+      ]
     },
     "o": {
       "tr": "O film çok güzel.",
-      "values": []
+      "values": [
+        "That film is very good.",
+        "Этот фильм очень хороший.",
+        "Ал тасма абдан жакшы.",
+        "ذلك الفيلم جيد جدًا.",
+        "Ce film est très bien."
+      ]
     },
     "13.00’teki": {
       "tr": "13.00'teki seansa gidelim.",
-      "values": []
+      "values": [
+        "Let's go to the 1 p.m. screening.",
+        "Пойдём на сеанс в 13:00.",
+        "Саат 13:00дөгү сеанска баралы.",
+        "لنذهب إلى عرض الساعة الواحدة ظهرًا.",
+        "Allons à la séance de 13 h."
+      ]
     },
     "seansı": {
       "tr": "İkinci seansı seçelim.",
-      "values": []
+      "values": [
+        "Let's choose the second screening.",
+        "Давай выберем второй сеанс.",
+        "Экинчи сеансты тандайлы.",
+        "لنختر العرض الثاني.",
+        "Choisissons la deuxième séance."
+      ]
     },
     "seçelim": {
       "tr": "Bu filmi seçelim.",
-      "values": []
+      "values": [
+        "Let's choose this film.",
+        "Давай выберем этот фильм.",
+        "Бул тасманы тандайлы.",
+        "لنختر هذا الفيلم.",
+        "Choisissons ce film."
+      ]
     },
     "biletleri": {
       "tr": "Biletleri ben alacağım.",
-      "values": []
+      "values": [
+        "I'll buy the tickets.",
+        "Я куплю билеты.",
+        "Билеттерди мен сатып алам.",
+        "سأشتري التذاكر.",
+        "J'achèterai les billets."
+      ]
     },
     "nereden": {
       "tr": "Biletleri nereden alacağız?",
-      "values": []
+      "values": [
+        "Where will we buy the tickets?",
+        "Где мы купим билеты?",
+        "Билеттерди кайдан сатып алабыз?",
+        "من أين سنشتري التذاكر؟",
+        "Où achèterons-nous les billets ?"
+      ]
     },
     "alacağız": {
       "tr": "Biletleri gişeden alacağız.",
-      "values": []
+      "values": [
+        "We'll buy the tickets at the ticket booth.",
+        "Мы купим билеты в кассе.",
+        "Билеттерди кассадан сатып алабыз.",
+        "سنشتري التذاكر من شباك التذاكر.",
+        "Nous achèterons les billets au guichet."
+      ]
     },
     "gişesinden": {
       "tr": "Sinema gişesinden bilet aldım.",
-      "values": []
+      "values": [
+        "I bought a ticket at the cinema ticket booth.",
+        "Я купил билет в кассе кинотеатра.",
+        "Кинотеатрдын кассасынан билет сатып алдым.",
+        "اشتريت تذكرة من شباك تذاكر السينما.",
+        "J'ai acheté un billet au guichet du cinéma."
+      ]
     },
     "tamam": {
       "tr": "Tamam, görüşürüz.",
-      "values": []
+      "values": [
+        "Okay, see you.",
+        "Хорошо, увидимся.",
+        "Макул, көрүшөбүз.",
+        "حسنًا، إلى اللقاء.",
+        "D'accord, à bientôt."
+      ]
     },
     "olur": {
       "tr": "Olur, ben de gelirim.",
-      "values": []
+      "values": [
+        "Okay, I'll come too.",
+        "Ладно, я тоже приду.",
+        "Макул, мен да келем.",
+        "حسنًا، سآتي أيضًا.",
+        "D'accord, je viendrai aussi."
+      ]
     },
     "hasan’ı": {
       "tr": "Hasan'ı arayalım.",
-      "values": []
+      "values": [
+        "Let's call Hasan.",
+        "Давай позовём Хасана.",
+        "Хасанды да чакыралы.",
+        "لندعُ حسنًا.",
+        "Invitons Hasan."
+      ]
     },
     "da": {
       "tr": "O da bizimle gelsin.",
-      "values": []
+      "values": [
+        "Let him come with us too.",
+        "Пусть он тоже пойдёт с нами.",
+        "Ал да биз менен барсын.",
+        "ليأتِ معنا أيضًا.",
+        "Qu'il vienne aussi avec nous."
+      ]
     },
     "çağıralım": {
       "tr": "Hasan'ı da çağıralım.",
-      "values": []
+      "values": [
+        "Let's invite Hasan too.",
+        "Давай пригласим и Хасана.",
+        "Хасанды да чакыралы.",
+        "لندعُ حسنًا أيضًا.",
+        "Invitons aussi Hasan."
+      ]
     },
     "sever": {
       "tr": "Hasan film izlemeyi sever.",
-      "values": []
+      "values": [
+        "Hasan likes watching films.",
+        "Хасан любит смотреть фильмы.",
+        "Хасан тасма көргөндү жакшы көрөт.",
+        "يحب حسن مشاهدة الأفلام.",
+        "Hasan aime regarder des films."
+      ]
     },
     "hasan’a": {
       "tr": "Hasan'a mesaj attım.",
-      "values": []
+      "values": [
+        "I sent Hasan a message.",
+        "Я отправил Хасану сообщение.",
+        "Хасанга билдирүү жөнөттүм.",
+        "أرسلت رسالة إلى حسن.",
+        "J'ai envoyé un message à Hasan."
+      ]
     },
     "telefon": {
       "tr": "Telefon çalıyor.",
-      "values": []
+      "values": [
+        "The phone is ringing.",
+        "Телефон звонит.",
+        "Телефон шыңгырап жатат.",
+        "الهاتف يرن.",
+        "Le téléphone sonne."
+      ]
     },
     "ediyorum": {
       "tr": "Hasan'a telefon ediyorum.",
-      "values": []
+      "values": [
+        "I'm calling Hasan.",
+        "Я звоню Хасану.",
+        "Хасанга телефон чалып жатам.",
+        "أتصل بحسن.",
+        "Je téléphone à Hasan."
+      ]
     },
     "alo": {
       "tr": "Alo, beni duyuyor musun?",
-      "values": []
+      "values": [
+        "Hello, can you hear me?",
+        "Алло, ты меня слышишь?",
+        "Алло, мени угуп жатасыңбы?",
+        "ألو، هل تسمعني؟",
+        "Allô, tu m'entends ?"
+      ]
     },
     "hasan": {
       "tr": "Hasan bugün geliyor.",
-      "values": []
+      "values": [
+        "Hasan is coming today.",
+        "Хасан придёт сегодня.",
+        "Хасан бүгүн келет.",
+        "سيأتي حسن اليوم.",
+        "Hasan vient aujourd'hui."
+      ]
     },
     "haber": {
       "tr": "Ne haber?",
-      "values": []
+      "values": [
+        "What's new?",
+        "Что нового?",
+        "Кандай жаңылык?",
+        "ما الأخبار؟",
+        "Quoi de neuf ?"
+      ]
     },
     "nasılsın": {
       "tr": "Nasılsın, iyi misin?",
-      "values": []
+      "values": [
+        "How are you? Are you well?",
+        "Как дела? Всё хорошо?",
+        "Кандайсың? Жакшысыңбы?",
+        "كيف حالك؟ هل أنت بخير؟",
+        "Comment vas-tu ? Tout va bien ?"
+      ]
     },
     "merhaba": {
       "tr": "Merhaba, hoş geldin.",
-      "values": []
+      "values": [
+        "Hello, welcome.",
+        "Привет, добро пожаловать.",
+        "Салам, кош келдиң.",
+        "مرحبًا، أهلًا بك.",
+        "Bonjour, bienvenue."
+      ]
     },
     "iyiyim": {
       "tr": "Teşekkürler, iyiyim.",
-      "values": []
+      "values": [
+        "Thanks, I'm fine.",
+        "Спасибо, у меня всё хорошо.",
+        "Рахмат, жакшымын.",
+        "شكرًا، أنا بخير.",
+        "Merci, je vais bien."
+      ]
     },
     "sen": {
       "tr": "Sen de geliyor musun?",
-      "values": []
+      "values": [
+        "Are you coming too?",
+        "Ты тоже придёшь?",
+        "Сен да келесиңби?",
+        "هل ستأتي أنت أيضًا؟",
+        "Tu viens aussi ?"
+      ]
     },
     "sağ": {
       "tr": "Sağ ol, çok naziksin.",
-      "values": []
+      "values": [
+        "Thanks, that's very kind of you.",
+        "Спасибо, это очень мило с твоей стороны.",
+        "Рахмат, сен абдан сылыксың.",
+        "شكرًا، هذا لطف منك.",
+        "Merci, c'est très gentil."
+      ]
     },
     "ol": {
       "tr": "Sağ ol, teşekkür ederim.",
-      "values": []
+      "values": [
+        "Thank you very much.",
+        "Спасибо большое.",
+        "Чоң рахмат.",
+        "شكرًا جزيلًا.",
+        "Merci beaucoup."
+      ]
     },
     "yanımda": {
       "tr": "Arkadaşım yanımda.",
-      "values": []
+      "values": [
+        "My friend is next to me.",
+        "Мой друг рядом со мной.",
+        "Досум жанымда.",
+        "صديقي بجانبي.",
+        "Mon ami est à côté de moi."
+      ]
     },
     "evdeyim": {
       "tr": "Bugün evdeyim.",
-      "values": []
+      "values": [
+        "I'm at home today.",
+        "Сегодня я дома.",
+        "Бүгүн үйдөмүн.",
+        "أنا في البيت اليوم.",
+        "Je suis chez moi aujourd'hui."
+      ]
     },
     "babama": {
       "tr": "Babama yardım edeceğim.",
-      "values": []
+      "values": [
+        "I'll help my father.",
+        "Я помогу папе.",
+        "Атама жардам берем.",
+        "سأساعد أبي.",
+        "Je vais aider mon père."
+      ]
     },
     "bahçede": {
       "tr": "Bahçede çalışıyoruz.",
-      "values": []
+      "values": [
+        "We're working in the garden.",
+        "Мы работаем в саду.",
+        "Бакчада иштеп жатабыз.",
+        "نعمل في الحديقة.",
+        "Nous travaillons dans le jardin."
+      ]
     },
     "yardım": {
       "tr": "Yardıma ihtiyacım var.",
-      "values": []
+      "values": [
+        "I need help.",
+        "Мне нужна помощь.",
+        "Мага жардам керек.",
+        "أحتاج إلى مساعدة.",
+        "J'ai besoin d'aide."
+      ]
     },
     "edeceğim": {
       "tr": "Sana yardım edeceğim.",
-      "values": []
+      "values": [
+        "I'll help you.",
+        "Я тебе помогу.",
+        "Сага жардам берем.",
+        "سأساعدك.",
+        "Je vais t'aider."
+      ]
     },
     "biz": {
       "tr": "Biz birlikte gideceğiz.",
-      "values": []
+      "values": [
+        "We'll go together.",
+        "Мы пойдём вместе.",
+        "Биз чогуу барабыз.",
+        "سنذهب معًا.",
+        "Nous irons ensemble."
+      ]
     },
     "yaptık": {
       "tr": "Bir plan yaptık.",
-      "values": []
+      "values": [
+        "We made a plan.",
+        "Мы составили план.",
+        "Биз план түздүк.",
+        "وضعنا خطة.",
+        "Nous avons fait un projet."
+      ]
     },
     "öyle": {
       "tr": "Öyle mi, gerçekten?",
-      "values": []
+      "values": [
+        "Really? Is that so?",
+        "Правда? Неужели?",
+        "Ошондойбу? Чын элеби?",
+        "حقًا؟ أهذا صحيح؟",
+        "Ah bon ? Vraiment ?"
+      ]
     },
     "nedir": {
       "tr": "Planın nedir?",
-      "values": []
+      "values": [
+        "What's your plan?",
+        "Какой у тебя план?",
+        "Планың кандай?",
+        "ما خطتك؟",
+        "Quel est ton projet ?"
+      ]
     },
     "harbiye’de": {
       "tr": "Harbiye'de buluşalım.",
-      "values": []
+      "values": [
+        "Let's meet in Harbiye.",
+        "Давай встретимся в Харбие.",
+        "Харбиеде жолугалы.",
+        "لنلتقِ في حربية.",
+        "Retrouvons-nous à Harbiye."
+      ]
     },
     "gideceğiz": {
       "tr": "Cumartesi sinemaya gideceğiz.",
-      "values": []
+      "values": [
+        "We're going to the cinema on Saturday.",
+        "В субботу мы пойдём в кино.",
+        "Ишемби күнү киного барабыз.",
+        "سنذهب إلى السينما يوم السبت.",
+        "Nous irons au cinéma samedi."
+      ]
     },
     "gelmek": {
       "tr": "Ben de gelmek istiyorum.",
-      "values": []
+      "values": [
+        "I want to come too.",
+        "Я тоже хочу прийти.",
+        "Мен да келгим келет.",
+        "أريد أن آتي أيضًا.",
+        "Je veux venir aussi."
+      ]
     },
     "ister": {
       "tr": "O da gelmek ister.",
-      "values": []
+      "values": [
+        "He wants to come too.",
+        "Он тоже хочет прийти.",
+        "Ал да келгиси келет.",
+        "يريد أن يأتي أيضًا.",
+        "Il veut venir aussi."
+      ]
     },
     "misin": {
       "tr": "Bizimle gelir misin?",
-      "values": []
+      "values": [
+        "Will you come with us?",
+        "Ты пойдёшь с нами?",
+        "Биз менен келесиңби?",
+        "هل ستأتي معنا؟",
+        "Tu viens avec nous ?"
+      ]
     },
     "olabilir": {
       "tr": "Olabilir, ben de gelebilirim.",
-      "values": []
+      "values": [
+        "Maybe I can come too.",
+        "Возможно, я тоже смогу прийти.",
+        "Балким, мен да келе алам.",
+        "ربما أستطيع المجيء أيضًا.",
+        "Peut-être que je pourrai venir aussi."
+      ]
     },
     "peki": {
       "tr": "Peki, saat kaçta?",
-      "values": []
+      "values": [
+        "Okay, what time?",
+        "Хорошо, во сколько?",
+        "Макул, саат канчада?",
+        "حسنًا، في أي ساعة؟",
+        "D'accord, à quelle heure ?"
+      ]
     },
     "kaçta": {
       "tr": "Film kaçta başlıyor?",
-      "values": []
+      "values": [
+        "What time does the film start?",
+        "Во сколько начинается фильм?",
+        "Тасма саат канчада башталат?",
+        "في أي ساعة يبدأ الفيلم؟",
+        "À quelle heure commence le film ?"
+      ]
     },
     "filme": {
       "tr": "Akşam filme gidelim.",
-      "values": []
+      "values": [
+        "Let's go to the cinema tonight.",
+        "Пойдём вечером в кино.",
+        "Кечинде киного баралы.",
+        "لنذهب إلى السينما مساءً.",
+        "Allons voir un film ce soir."
+      ]
     },
     "bence": {
       "tr": "Bence bu film güzel.",
-      "values": []
+      "values": [
+        "I think this film is good.",
+        "По-моему, этот фильм хороший.",
+        "Менимче, бул тасма жакшы.",
+        "برأيي هذا الفيلم جيد.",
+        "À mon avis, ce film est bien."
+      ]
     },
     "mutlaka": {
       "tr": "Mutlaka gel.",
-      "values": []
+      "values": [
+        "You must come.",
+        "Обязательно приходи.",
+        "Сөзсүз кел.",
+        "يجب أن تأتي بالتأكيد.",
+        "Viens absolument."
+      ]
     },
     "gel": {
       "tr": "Yarın bize gel.",
-      "values": []
+      "values": [
+        "Come to our place tomorrow.",
+        "Приходи к нам завтра.",
+        "Эртең бизге кел.",
+        "تعال إلى منزلنا غدًا.",
+        "Viens chez nous demain."
+      ]
     },
     "eğleneceğiz": {
       "tr": "Birlikte çok eğleneceğiz.",
-      "values": []
+      "values": [
+        "We'll have lots of fun together.",
+        "Мы отлично повеселимся вместе.",
+        "Чогуу абдан көңүл ачабыз.",
+        "سنستمتع كثيرًا معًا.",
+        "Nous allons beaucoup nous amuser ensemble."
+      ]
     },
     "tabii": {
       "tr": "Tabii, gelebilirsin.",
-      "values": []
+      "values": [
+        "Of course, you can come.",
+        "Конечно, можешь прийти.",
+        "Албетте, келсең болот.",
+        "بالطبع، يمكنك المجيء.",
+        "Bien sûr, tu peux venir."
+      ]
     },
     "ama": {
       "tr": "Gelmek isterim ama işim var.",
-      "values": []
+      "values": [
+        "I'd like to come, but I'm busy.",
+        "Я хотел бы прийти, но занят.",
+        "Келгим келет, бирок ишим бар.",
+        "أود المجيء، لكن لدي عمل.",
+        "J'aimerais venir, mais je suis occupé."
+      ]
     },
     "harbiye’ye": {
       "tr": "Harbiye'ye otobüsle gittim.",
-      "values": []
+      "values": [
+        "I went to Harbiye by bus.",
+        "Я поехал в Харбие на автобусе.",
+        "Харбиеге автобус менен бардым.",
+        "ذهبت إلى حربية بالحافلة.",
+        "Je suis allé à Harbiye en bus."
+      ]
     },
     "hiç": {
       "tr": "Buraya hiç gelmedim.",
-      "values": []
+      "values": [
+        "I've never been here.",
+        "Я никогда здесь не был.",
+        "Бул жерге эч качан келген эмесмин.",
+        "لم آتِ إلى هنا قط.",
+        "Je ne suis jamais venu ici."
+      ]
     },
     "gitmedim": {
       "tr": "Oraya hiç gitmedim.",
-      "values": []
+      "values": [
+        "I've never been there.",
+        "Я никогда туда не ходил.",
+        "Ал жакка эч качан барган эмесмин.",
+        "لم أذهب إلى هناك قط.",
+        "Je n'y suis jamais allé."
+      ]
     },
     "sorun": {
       "tr": "Sorun değil, yardım ederim.",
-      "values": []
+      "values": [
+        "No problem, I'll help.",
+        "Без проблем, я помогу.",
+        "Маселе жок, жардам берем.",
+        "لا مشكلة، سأساعدك.",
+        "Pas de problème, je vais aider."
+      ]
     },
     "sana": {
       "tr": "Sana yolu göstereyim.",
-      "values": []
+      "values": [
+        "I'll show you the way.",
+        "Я покажу тебе дорогу.",
+        "Сага жолду көрсөтөм.",
+        "سأريك الطريق.",
+        "Je vais te montrer le chemin."
+      ]
     },
     "yolu": {
       "tr": "Yolu tarif edeyim.",
-      "values": []
+      "values": [
+        "Let me show you the way.",
+        "Давай я объясню тебе дорогу.",
+        "Сага жолду түшүндүрүп берейин.",
+        "دعني أشرح لك الطريق.",
+        "Laisse-moi t'indiquer le chemin."
+      ]
     },
     "tarif": {
       "tr": "Yolu tarif eder misin?",
-      "values": []
+      "values": [
+        "Can you tell me the way?",
+        "Можешь объяснить дорогу?",
+        "Жолду түшүндүрүп бересиңби?",
+        "هل يمكنك أن تصف لي الطريق؟",
+        "Peux-tu m'indiquer le chemin ?"
+      ]
     },
     "ederiz": {
       "tr": "Sana yardım ederiz.",
-      "values": []
+      "values": [
+        "We'll help you.",
+        "Мы тебе поможем.",
+        "Сага жардам беребиз.",
+        "سنساعدك.",
+        "Nous t'aiderons."
+      ]
     },
     "görüşürüz": {
       "tr": "Yarın görüşürüz.",
-      "values": []
+      "values": [
+        "See you tomorrow.",
+        "Увидимся завтра.",
+        "Эртең көрүшөбүз.",
+        "أراك غدًا.",
+        "À demain."
+      ]
     },
     "hoşça": {
       "tr": "Hoşça kal.",
-      "values": []
+      "values": [
+        "Goodbye.",
+        "До свидания.",
+        "Жакшы кал.",
+        "مع السلامة.",
+        "Au revoir."
+      ]
     },
     "kal": {
       "tr": "Evde kal.",
-      "values": []
+      "values": [
+        "Stay at home.",
+        "Оставайся дома.",
+        "Үйдө кал.",
+        "ابقَ في البيت.",
+        "Reste à la maison."
+      ]
     },
     "güle": {
       "tr": "Güle güle!",
-      "values": []
+      "values": [
+        "Goodbye!",
+        "Счастливо!",
+        "Жакшы бар!",
+        "مع السلامة!",
+        "Au revoir !"
+      ]
     },
     "görüşmek": {
       "tr": "Yarın görüşmek üzere.",
-      "values": []
+      "values": [
+        "See you tomorrow.",
+        "До встречи завтра.",
+        "Эртең көрүшкөнчө.",
+        "إلى اللقاء غدًا.",
+        "À demain."
+      ]
     },
     "üzere": {
       "tr": "Görüşmek üzere!",
-      "values": []
+      "values": [
+        "See you soon!",
+        "До встречи!",
+        "Көрүшкөнчө!",
+        "إلى اللقاء!",
+        "À bientôt !"
+      ]
     },
     "görmek": {
       "tr": "Bu filmi görmek istiyorum.",
