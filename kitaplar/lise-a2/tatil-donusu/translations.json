@@ -11528,6 +11528,13 @@
       "колдонуп",
       "باستخدام",
       "en utilisant"
+    ],
+    "sözcüklerin": [
+      "of the words / the words'",
+      "слов / этих слов",
+      "сөздөрдүн",
+      "الكلمات / للكلمات",
+      "des mots"
     ]
   },
   "phrases": {
@@ -26790,6 +26797,36 @@
         "Картаны колдонуп даректи таптык.",
         "وجدنا العنوان باستخدام الخريطة.",
         "Nous avons trouvé l'adresse en utilisant la carte."
+      ]
+    },
+    "sözcüklerin": {
+      "tr": "Bu sözcüklerin anlamlarını öğreniyoruz.",
+      "values": [
+        "We are learning the meanings of these words.",
+        "Мы изучаем значения этих слов.",
+        "Бул сөздөрдүн маанилерин үйрөнүп жатабыз.",
+        "نتعلم معاني هذه الكلمات.",
+        "Nous apprenons le sens de ces mots."
+      ]
+    },
+    "ıncı": {
+      "tr": "Üçüncü kelimesinde sıra sayısı eki kullanılır.",
+      "values": [
+        "The ordinal-number suffix is used in the word 'üçüncü' (third).",
+        "В слове «üçüncü» (третий) используется суффикс порядкового числительного.",
+        "«Үчүнчү» деген сөздө иреттик сан мүчөсү колдонулат.",
+        "تُستخدم لاحقة العدد الترتيبي في كلمة «üçüncü» (الثالث).",
+        "Le suffixe ordinal est utilisé dans le mot «üçüncü» (troisième)."
+      ]
+    },
+    "–(y)dı": {
+      "tr": "Dün hava çok soğuktu.",
+      "values": [
+        "The weather was very cold yesterday.",
+        "Вчера было очень холодно.",
+        "Кечээ аба ырайы абдан суук болчу.",
+        "كان الجو باردًا جدًا أمس.",
+        "Hier, il faisait très froid."
       ]
     }
   },
