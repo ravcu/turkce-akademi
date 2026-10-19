@@ -230,7 +230,7 @@
       const target=ordered.findIndex(item=>item.i===index);
       if(target>=0){
         for(const phrase of phrases){
-          const parts=phrase.split(/\\s+/).map(normalize);
+          const parts=phrase.split(/\s+/).map(normalize);
           if(parts.length<2)continue;
           for(let start=Math.max(0,target-parts.length+1);start<=Math.min(target,ordered.length-parts.length);start++){
             const seq=ordered.slice(start,start+parts.length);
