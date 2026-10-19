@@ -56,6 +56,13 @@
       "ثلاثة وثلاثون",
       "trente-trois"
     ],
+    "34": [
+      "thirty-four",
+      "тридцать четыре",
+      "отуз төрт",
+      "أربعة وثلاثون",
+      "trente-quatre"
+    ],
     "ünite": [
       "unit",
       "раздел",
@@ -2043,6 +2050,307 @@
       "үчүн",
       "من أجل",
       "pour"
+    ],
+    "soruları": [
+      "the questions",
+      "вопросы",
+      "суроолорду",
+      "الأسئلة",
+      "les questions"
+    ],
+    "metne": [
+      "to the text",
+      "к тексту",
+      "текстке",
+      "إلى النص",
+      "au texte"
+    ],
+    "göre": [
+      "according to",
+      "согласно",
+      "ылайык",
+      "وفقًا لـ",
+      "selon"
+    ],
+    "cevaplayın": [
+      "answer (imperative)",
+      "ответьте",
+      "жооп бергиле",
+      "أجيبوا",
+      "répondez"
+    ],
+    "d": [
+      "letter D",
+      "буква Д",
+      "Д тамгасы",
+      "الحرف د",
+      "lettre D"
+    ],
+    "festivaline": [
+      "to the festival",
+      "на фестиваль",
+      "фестивалга",
+      "إلى المهرجان",
+      "au festival"
+    ],
+    "kimler": [
+      "who (plural)",
+      "кто именно",
+      "кимдер",
+      "مَن",
+      "qui"
+    ],
+    "gidecek": [
+      "will go",
+      "пойдёт",
+      "барат",
+      "سيذهب",
+      "ira"
+    ],
+    "e": [
+      "letter E",
+      "буква Е",
+      "Е тамгасы",
+      "الحرف هـ",
+      "lettre E"
+    ],
+    "seçtiler": [
+      "they chose",
+      "они выбрали",
+      "алар тандашты",
+      "اختاروا",
+      "ils ont choisi"
+    ],
+    "f": [
+      "letter F",
+      "буква Ф",
+      "Ф тамгасы",
+      "الحرف ف",
+      "lettre F"
+    ],
+    "alacaklar": [
+      "they will buy; take",
+      "они купят",
+      "алар сатып алышат",
+      "سيشترون",
+      "ils achèteront"
+    ],
+    "tabloyu": [
+      "the table",
+      "таблицу",
+      "таблицаны",
+      "الجدول",
+      "le tableau"
+    ],
+    "işaretleyin": [
+      "mark; tick",
+      "отметьте",
+      "белгилегиле",
+      "ضعوا علامة",
+      "cochez"
+    ],
+    "gitmeyi": [
+      "going (object form)",
+      "идти; поход",
+      "барууну",
+      "الذهاب",
+      "le fait d'aller"
+    ],
+    "kim": [
+      "who",
+      "кто",
+      "ким",
+      "مَن",
+      "qui"
+    ],
+    "katılacak": [
+      "will attend",
+      "будет участвовать",
+      "катышат",
+      "سيشارك",
+      "participera"
+    ],
+    "katılmayacak": [
+      "will not attend",
+      "не будет участвовать",
+      "катышпайт",
+      "لن يشارك",
+      "ne participera pas"
+    ],
+    "onlar": [
+      "they",
+      "они",
+      "алар",
+      "هم",
+      "ils; elles"
+    ],
+    "niçin": [
+      "why",
+      "почему",
+      "эмне үчүн",
+      "لماذا",
+      "pourquoi"
+    ],
+    "katılacaklar": [
+      "they will attend",
+      "они будут участвовать",
+      "алар катышат",
+      "سيشاركون",
+      "ils participeront"
+    ],
+    "veya": [
+      "or",
+      "или",
+      "же; же болбосо",
+      "أو",
+      "ou"
+    ],
+    "sebeplerini": [
+      "their reasons",
+      "их причины",
+      "себептерин",
+      "أسبابهم",
+      "leurs raisons"
+    ],
+    "yazın": [
+      "write (imperative)",
+      "напишите",
+      "жазгыла",
+      "اكتبوا",
+      "écrivez"
+    ],
+    "planı": [
+      "the plan",
+      "план",
+      "планды",
+      "الخطة",
+      "le projet"
+    ],
+    "yapın": [
+      "do; make (imperative)",
+      "сделайте",
+      "жасагыла",
+      "افعلوا",
+      "faites"
+    ],
+    "planınızı": [
+      "your plan (object form)",
+      "ваш план",
+      "планыңарды",
+      "خطتكم",
+      "votre projet"
+    ],
+    "anlatın": [
+      "tell; explain (imperative)",
+      "расскажите",
+      "айтып бергиле",
+      "اشرحوا",
+      "racontez"
+    ],
+    "etkinliğin": [
+      "of the activity",
+      "мероприятия",
+      "иш-чаранын",
+      "للنشاط",
+      "de l'activité"
+    ],
+    "adı": [
+      "its name",
+      "название",
+      "аты",
+      "اسمه",
+      "son nom"
+    ],
+    "tarihi/zamanı": [
+      "date/time",
+      "дата и время",
+      "датасы жана убактысы",
+      "التاريخ والوقت",
+      "date et heure"
+    ],
+    "saati": [
+      "its time",
+      "время",
+      "сааты",
+      "وقته",
+      "son heure"
+    ],
+    "yeri": [
+      "its place; venue",
+      "место",
+      "жери",
+      "مكانه",
+      "son lieu"
+    ],
+    "katılımcılar": [
+      "participants",
+      "участники",
+      "катышуучулар",
+      "المشاركون",
+      "participants"
+    ],
+    "arkadaşınızla": [
+      "with your friend",
+      "с вашим другом",
+      "досуңар менен",
+      "مع صديقكم",
+      "avec votre ami"
+    ],
+    "eşleşin": [
+      "pair up",
+      "разделитесь на пары",
+      "жупташкыла",
+      "كوّنوا أزواجًا",
+      "mettez-vous par deux"
+    ],
+    "onu": [
+      "him; her; it",
+      "его; её",
+      "аны",
+      "إياه؛ إياها",
+      "le; la"
+    ],
+    "etkinliğinize": [
+      "to your activity",
+      "на ваше мероприятие",
+      "иш-чараңарга",
+      "إلى نشاطكم",
+      "à votre activité"
+    ],
+    "edin": [
+      "do; make (imperative)",
+      "сделайте",
+      "кылгыла",
+      "افعلوا",
+      "faites"
+    ],
+    "birlikte": [
+      "together",
+      "вместе",
+      "чогуу",
+      "معًا",
+      "ensemble"
+    ],
+    "gidelim/yapalım": [
+      "let's go / let's do",
+      "пойдём / сделаем",
+      "баралы / жасайлы",
+      "لنذهب / لنفعل",
+      "allons-y / faisons"
+    ],
+    "mi?/yapalım": [
+      "shall we? / let's do",
+      "пойдём? / сделаем",
+      "баралыбы / жасайлы",
+      "هل نذهب؟ / لنفعل",
+      "on y va ? / faisons"
+    ],
+    "olmaz": [
+      "no; that won't work",
+      "не получится",
+      "болбойт",
+      "لا يمكن",
+      "ce n'est pas possible"
     ]
   },
   "phrases": {
@@ -2909,6 +3217,10 @@
         "افتح الصفحة الثالثة والثلاثين من الكتاب.",
         "Ouvre la page trente-trois du livre."
       ]
+    },
+    "34": {
+      "tr": "Kitabın otuz dördüncü sayfasını aç.",
+      "values": []
     },
     "ünite": {
       "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
@@ -5359,6 +5671,178 @@
         "وضعنا خطة لعطلة نهاية الأسبوع.",
         "Nous avons fait un projet pour le week-end."
       ]
+    },
+    "soruları": {
+      "tr": "Soruları dikkatle okuyun.",
+      "values": []
+    },
+    "metne": {
+      "tr": "Metne tekrar bakın.",
+      "values": []
+    },
+    "göre": {
+      "tr": "Metne göre cevap verin.",
+      "values": []
+    },
+    "cevaplayın": {
+      "tr": "Soruları cevaplayın.",
+      "values": []
+    },
+    "d": {
+      "tr": "D seçeneğini işaretleyin.",
+      "values": []
+    },
+    "festivaline": {
+      "tr": "Film festivaline gideceğiz.",
+      "values": []
+    },
+    "kimler": {
+      "tr": "Kimler gelecek?",
+      "values": []
+    },
+    "gidecek": {
+      "tr": "Murat festivale gidecek.",
+      "values": []
+    },
+    "e": {
+      "tr": "E seçeneğini seçin.",
+      "values": []
+    },
+    "seçtiler": {
+      "tr": "İkinci seansı seçtiler.",
+      "values": []
+    },
+    "f": {
+      "tr": "F seçeneğine bakın.",
+      "values": []
+    },
+    "alacaklar": {
+      "tr": "Biletleri gişeden alacaklar.",
+      "values": []
+    },
+    "tabloyu": {
+      "tr": "Tabloyu doldurun.",
+      "values": []
+    },
+    "işaretleyin": {
+      "tr": "Doğru cevabı işaretleyin.",
+      "values": []
+    },
+    "gitmeyi": {
+      "tr": "Sinemaya gitmeyi seviyorum.",
+      "values": []
+    },
+    "kim": {
+      "tr": "Bu filmi kim seçti?",
+      "values": []
+    },
+    "katılacak": {
+      "tr": "Elif festivale katılacak.",
+      "values": []
+    },
+    "katılmayacak": {
+      "tr": "Emre festivale katılmayacak.",
+      "values": []
+    },
+    "onlar": {
+      "tr": "Onlar sinemaya gidiyor.",
+      "values": []
+    },
+    "niçin": {
+      "tr": "Niçin gelemiyorsun?",
+      "values": []
+    },
+    "katılacaklar": {
+      "tr": "Arkadaşlarım festivale katılacaklar.",
+      "values": []
+    },
+    "veya": {
+      "tr": "Çay veya kahve ister misin?",
+      "values": []
+    },
+    "sebeplerini": {
+      "tr": "Sebeplerini açıklayın.",
+      "values": []
+    },
+    "yazın": {
+      "tr": "Cevapları deftere yazın.",
+      "values": []
+    },
+    "planı": {
+      "tr": "Etkinlik planı hazırladım.",
+      "values": []
+    },
+    "yapın": {
+      "tr": "Bir plan yapın.",
+      "values": []
+    },
+    "planınızı": {
+      "tr": "Planınızı arkadaşınıza anlatın.",
+      "values": []
+    },
+    "anlatın": {
+      "tr": "Planınızı anlatın.",
+      "values": []
+    },
+    "etkinliğin": {
+      "tr": "Etkinliğin adı ne?",
+      "values": []
+    },
+    "adı": {
+      "tr": "Filmin adı ne?",
+      "values": []
+    },
+    "tarihi/zamanı": {
+      "tr": "Etkinliğin tarihini yazın.",
+      "values": []
+    },
+    "saati": {
+      "tr": "Etkinliğin saati belli.",
+      "values": []
+    },
+    "yeri": {
+      "tr": "Buluşma yeri neresi?",
+      "values": []
+    },
+    "katılımcılar": {
+      "tr": "Katılımcılar salonda bekliyor.",
+      "values": []
+    },
+    "arkadaşınızla": {
+      "tr": "Arkadaşınızla konuşun.",
+      "values": []
+    },
+    "eşleşin": {
+      "tr": "Arkadaşınızla eşleşin.",
+      "values": []
+    },
+    "onu": {
+      "tr": "Onu festivale davet edin.",
+      "values": []
+    },
+    "etkinliğinize": {
+      "tr": "Arkadaşınızı etkinliğinize çağırın.",
+      "values": []
+    },
+    "edin": {
+      "tr": "Bir arkadaşınızı davet edin.",
+      "values": []
+    },
+    "birlikte": {
+      "tr": "Birlikte sinemaya gidelim.",
+      "values": []
+    },
+    "gidelim/yapalım": {
+      "tr": "Hafta sonu birlikte bir şey yapalım.",
+      "values": []
+    },
+    "mi?/yapalım": {
+      "tr": "Sinemaya gidelim mi?",
+      "values": []
+    },
+    "olmaz": {
+      "tr": "Üzgünüm, bugün olmaz.",
+      "values": []
     }
   },
   "forms": {
