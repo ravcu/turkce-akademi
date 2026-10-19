@@ -40,7 +40,7 @@
     .answer-overlay{position:absolute;inset:0;z-index:4;pointer-events:none}
     .answer-overlay[hidden]{display:none}
     .stage{container-type:inline-size}
-    .answer-fill{position:absolute;display:block;overflow:hidden;padding:0;color:#125f4d;background:transparent;border:0;border-radius:0;font-size:clamp(5px,1.35cqw,9px);font-weight:750;line-height:1;white-space:nowrap;text-overflow:clip}
+    .answer-fill{position:absolute;display:block;overflow:hidden;padding:0;color:#d71920;background:transparent;border:0;border-radius:0;font-size:clamp(5px,1.35cqw,9px);font-weight:750;line-height:1;white-space:nowrap;text-overflow:clip}
     .answer-fill.answer-underline{color:transparent;text-decoration:underline;text-decoration-color:#125f4d;text-decoration-thickness:1.4px;text-underline-offset:1px}
     .answer-links{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
     .answer-links line{stroke:#087f83;stroke-width:1.5;vector-effect:non-scaling-stroke;marker-end:url(#answerArrow)}
@@ -131,15 +131,17 @@
       player.play().catch(error=>{if(error.name!=='AbortError')showToast('Sesi başlatmak için oynatma düğmesine dokunun.');});
     }
     ['play','pause','ended'].forEach(event=>$('#audioPlayer').addEventListener(event,updateAudioButtons));
+    const verifiedPage2Answers={sections:[{title:'1. b. Kelimeleri uygun kutucuklara yazınız.',items:['1. anne (kitapta mevcut)','2. Baba','3. Dede','4. Nine','5. Abla','6. Ağabey']}],fills:[{text:'Baba',x:.286,y:.339,w:.071},{text:'Dede',x:.416,y:.36,w:.071},{text:'Nine',x:.47,y:.386,w:.065},{text:'Abla',x:.536,y:.358,w:.065},{text:'Ağabey',x:.135,y:.583,w:.11}]};
+    function getPageAnswers(){return current===1?verifiedPage2Answers:glossary.answerKeys?.[String(current+1)]}
     function renderAnswerKey(){
-      const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
+      const details=$('#answerDetails'),content=$('#answerContent'),data=getPageAnswers();
       details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=false;content.replaceChildren();renderAnswerOverlay();
       if(!data){const note=document.createElement('p');note.className='answer-note';note.textContent='Bu sayfanın cevap anahtarı henüz eklenmedi.';content.append(note);return;}
       if(data.note){const note=document.createElement('p');note.className='answer-note';note.textContent=data.note;content.append(note)}
       (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
     }
     function renderAnswerOverlay(){
-      const overlay=$('#answerOverlay'),data=glossary.answerKeys?.[String(current+1)];overlay.replaceChildren();overlay.hidden=true;
+      const overlay=$('#answerOverlay'),data=getPageAnswers();overlay.replaceChildren();overlay.hidden=true;
       if(!$('#answerDetails').open||!Array.isArray(data?.fills)||!data.fills.length)return;
       if(Array.isArray(data.links)&&data.links.length){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('class','answer-links');svg.setAttribute('viewBox','0 0 950 1202');svg.setAttribute('preserveAspectRatio','none');svg.innerHTML='<defs><marker id="answerArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#087f83"></path></marker></defs>';data.links.forEach(link=>{const line=document.createElementNS('http://www.w3.org/2000/svg','line');line.setAttribute('x1',link.x1*950);line.setAttribute('y1',link.y1*1202);line.setAttribute('x2',link.x2*950);line.setAttribute('y2',link.y2*1202);svg.append(line)});overlay.append(svg)}
       const pageWords=pages[current]?.words||[];
@@ -156,9 +158,10 @@
         if(!Number.isFinite(x)||!Number.isFinite(y)||!Number.isFinite(w)||w<=0)return;
         const offsets=[[0,0],[0,.008],[0,-.008],[.008,0],[-.008,0],[0,.016],[0,-.016],[.015,.008],[-.015,.008]];
         const position=offsets.map(([dx,dy])=>[x+dx,y+dy]).find(([px,py])=>px>=0&&py>=0&&px+w<=1&&py+h<=1&&!collides(px,py,w,h));
-        if(!position)return; // An uncertain placement must never cover the book's printed words.
-        answer.style.left=(position[0]*100)+'%';
-        answer.style.top=(position[1]*100)+'%';
+        if(!position&&current!==1)return; // Avoid covering printed text on other pages.
+        const finalPosition=position||[x,y];
+        answer.style.left=(finalPosition[0]*100)+'%';
+        answer.style.top=(finalPosition[1]*100)+'%';
         answer.style.width=(w*100)+'%';
         overlay.append(answer);
       });overlay.hidden=false;
