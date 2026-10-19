@@ -22240,6 +22240,126 @@
         "رأينا أشجارًا متنوعة في مشتل أتاتورك.",
         "Nous avons vu différentes espèces d'arbres à l'arboretum Atatürk."
       ]
+    },
+    "eşyalara": {
+      "tr": "Seyahat eşyalarına dikkat et.",
+      "values": [
+        "Take care of your travel belongings.",
+        "Береги свои вещи в поездке.",
+        "Саякат буюмдарыңа көңүл бур.",
+        "انتبه إلى أغراض السفر.",
+        "Fais attention à tes affaires de voyage."
+      ]
+    },
+    "sırt": {
+      "tr": "Ağır çanta yüzünden sırtım ağrıyor.",
+      "values": [
+        "My back hurts because of the heavy bag.",
+        "У меня болит спина из-за тяжёлой сумки.",
+        "Оор сумкадан улам белим ооруп жатат.",
+        "يؤلمني ظهري بسبب الحقيبة الثقيلة.",
+        "J'ai mal au dos à cause du sac lourd."
+      ]
+    },
+    "çantası": {
+      "tr": "Sırt çantası kapının yanında.",
+      "values": [
+        "The backpack is next to the door.",
+        "Рюкзак стоит рядом с дверью.",
+        "Рюкзак эшиктин жанында турат.",
+        "حقيبة الظهر بجانب الباب.",
+        "Le sac à dos est à côté de la porte."
+      ]
+    },
+    "kamera": {
+      "tr": "Yanıma küçük bir kamera aldım.",
+      "values": [
+        "I brought a small camera with me.",
+        "Я взял с собой небольшую камеру.",
+        "Өзүм менен кичинекей камера алдым.",
+        "أخذت معي كاميرا صغيرة.",
+        "J'ai emporté un petit appareil photo."
+      ]
+    },
+    "plaj": {
+      "tr": "Plaj sabah çok sakindi.",
+      "values": [
+        "The beach was very quiet in the morning.",
+        "Утром на пляже было очень спокойно.",
+        "Эртең менен пляж абдан тынч эле.",
+        "كان الشاطئ هادئًا جدًا صباحًا.",
+        "La plage était très calme le matin."
+      ]
+    },
+    "spor": {
+      "tr": "Her hafta sonu spor yaparım.",
+      "values": [
+        "I exercise every weekend.",
+        "Я занимаюсь спортом каждые выходные.",
+        "Ар бир дем алышта спорт менен машыгам.",
+        "أمارس الرياضة كل عطلة أسبوع.",
+        "Je fais du sport chaque week-end."
+      ]
+    },
+    "posteri": {
+      "tr": "Öğrenci gezi posterini hazırladı.",
+      "values": [
+        "The student prepared the travel poster.",
+        "Ученик подготовил туристический плакат.",
+        "Окуучу саякат постерин даярдады.",
+        "أعد الطالب ملصق الرحلة.",
+        "L'élève a préparé l'affiche du voyage."
+      ]
+    },
+    "ilgini": {
+      "tr": "Bu şehirde en çok ne ilgini çekti?",
+      "values": [
+        "What interested you most in this city?",
+        "Что тебя больше всего заинтересовало в этом городе?",
+        "Бул шаарда сени эң көп эмне кызыктырды?",
+        "ما الذي أثار اهتمامك أكثر في هذه المدينة؟",
+        "Qu'est-ce qui t'a le plus intéressé dans cette ville ?"
+      ]
+    },
+    "istersin": {
+      "tr": "Tatilde nereye gitmek istersin?",
+      "values": [
+        "Where would you like to go on vacation?",
+        "Куда ты хотел бы поехать в отпуск?",
+        "Эс алууда кайда баргың келет?",
+        "إلى أين تود الذهاب في العطلة؟",
+        "Où aimerais-tu aller en vacances ?"
+      ]
+    },
+    "şehirle": {
+      "tr": "Bu şehirle ilgili bir poster hazırladım.",
+      "values": [
+        "I made a poster about this city.",
+        "Я подготовил плакат об этом городе.",
+        "Бул шаар тууралуу постер даярдадым.",
+        "أعددت ملصقًا عن هذه المدينة.",
+        "J'ai préparé une affiche sur cette ville."
+      ]
+    },
+    "şehirde": {
+      "tr": "Bu şehirde birçok park var.",
+      "values": [
+        "There are many parks in this city.",
+        "В этом городе много парков.",
+        "Бул шаарда көп парк бар.",
+        "توجد حدائق كثيرة في هذه المدينة.",
+        "Il y a beaucoup de parcs dans cette ville."
+      ]
+    },
+    "yemekleri": {
+      "tr": "Buranın yemekleri çok lezzetli.",
+      "values": [
+        "The local dishes are delicious.",
+        "Местные блюда очень вкусные.",
+        "Бул жердин тамактары абдан даамдуу.",
+        "الأطباق المحلية لذيذة جدًا.",
+        "Les plats d'ici sont délicieux."
+      ]
     }
   },
   "forms": {
