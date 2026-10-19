@@ -1,0 +1,134 @@
+[
+  {
+    "page": 1,
+    "bookPage": 31,
+    "image": "pages/sayfa_01.webp",
+    "words": []
+  },
+  {
+    "page": 2,
+    "bookPage": 32,
+    "image": "pages/sayfa_02.webp",
+    "words": []
+  },
+  {
+    "page": 3,
+    "bookPage": 33,
+    "image": "pages/sayfa_03.webp",
+    "words": []
+  },
+  {
+    "page": 4,
+    "bookPage": 34,
+    "image": "pages/sayfa_04.webp",
+    "words": []
+  },
+  {
+    "page": 5,
+    "bookPage": 35,
+    "image": "pages/sayfa_05.webp",
+    "words": []
+  },
+  {
+    "page": 6,
+    "bookPage": 36,
+    "image": "pages/sayfa_06.webp",
+    "words": []
+  },
+  {
+    "page": 7,
+    "bookPage": 37,
+    "image": "pages/sayfa_07.webp",
+    "words": []
+  },
+  {
+    "page": 8,
+    "bookPage": 38,
+    "image": "pages/sayfa_08.webp",
+    "words": []
+  },
+  {
+    "page": 9,
+    "bookPage": 39,
+    "image": "pages/sayfa_09.webp",
+    "words": []
+  },
+  {
+    "page": 10,
+    "bookPage": 40,
+    "image": "pages/sayfa_10.webp",
+    "words": []
+  },
+  {
+    "page": 11,
+    "bookPage": 41,
+    "image": "pages/sayfa_11.webp",
+    "words": []
+  },
+  {
+    "page": 12,
+    "bookPage": 42,
+    "image": "pages/sayfa_12.webp",
+    "words": []
+  },
+  {
+    "page": 13,
+    "bookPage": 43,
+    "image": "pages/sayfa_13.webp",
+    "words": []
+  },
+  {
+    "page": 14,
+    "bookPage": 44,
+    "image": "pages/sayfa_14.webp",
+    "words": []
+  },
+  {
+    "page": 15,
+    "bookPage": 45,
+    "image": "pages/sayfa_15.webp",
+    "words": []
+  },
+  {
+    "page": 16,
+    "bookPage": 46,
+    "image": "pages/sayfa_16.webp",
+    "words": []
+  },
+  {
+    "page": 17,
+    "bookPage": 47,
+    "image": "pages/sayfa_17.webp",
+    "words": []
+  },
+  {
+    "page": 18,
+    "bookPage": 48,
+    "image": "pages/sayfa_18.webp",
+    "words": []
+  },
+  {
+    "page": 19,
+    "bookPage": 49,
+    "image": "pages/sayfa_19.webp",
+    "words": []
+  },
+  {
+    "page": 20,
+    "bookPage": 50,
+    "image": "pages/sayfa_20.webp",
+    "words": []
+  },
+  {
+    "page": 21,
+    "bookPage": 51,
+    "image": "pages/sayfa_21.webp",
+    "words": []
+  },
+  {
+    "page": 22,
+    "bookPage": 52,
+    "image": "pages/sayfa_22.webp",
+    "words": []
+  }
+]
