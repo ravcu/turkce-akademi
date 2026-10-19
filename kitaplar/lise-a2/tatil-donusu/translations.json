@@ -24794,6 +24794,106 @@
         "شاهدنا في الصف الفيديو الذي يحمل الرمز V.001.",
         "Nous avons regardé en classe la vidéo portant le code V.001."
       ]
+    },
+    "cümlelerle": {
+      "tr": "Yeni kelimeleri kısa cümlelerle kullandık.",
+      "values": [
+        "We used the new words in short sentences.",
+        "Мы использовали новые слова в коротких предложениях.",
+        "Жаңы сөздөрдү кыска сүйлөмдөрдө колдондук.",
+        "استخدمنا الكلمات الجديدة في جمل قصيرة.",
+        "Nous avons utilisé les nouveaux mots dans de courtes phrases."
+      ]
+    },
+    "soru": {
+      "tr": "Öğretmene bir soru sordum.",
+      "values": [
+        "I asked the teacher a question.",
+        "Я задал учителю вопрос.",
+        "Мугалимге бир суроо бердим.",
+        "طرحت سؤالًا على المعلم.",
+        "J'ai posé une question au professeur."
+      ]
+    },
+    "sormak": {
+      "tr": "Bir şey anlamadığında soru sormak önemlidir.",
+      "values": [
+        "It's important to ask questions when you don't understand something.",
+        "Важно задавать вопросы, когда что-то непонятно.",
+        "Бир нерсени түшүнбөгөндө суроо берүү маанилүү.",
+        "من المهم طرح الأسئلة عندما لا تفهم شيئًا.",
+        "Il est important de poser des questions quand on ne comprend pas quelque chose."
+      ]
+    },
+    "voleybol": {
+      "tr": "Arkadaşlarımla okulda voleybol oynuyoruz.",
+      "values": [
+        "We play volleyball at school with our friends.",
+        "Мы играем в волейбол с друзьями в школе.",
+        "Мектепте досторум менен волейбол ойнойбуз.",
+        "نلعب الكرة الطائرة مع أصدقائنا في المدرسة.",
+        "Nous jouons au volley-ball à l'école avec nos amis."
+      ]
+    },
+    "oynamak": {
+      "tr": "Çocuklar bahçede oynamak istiyor.",
+      "values": [
+        "The children want to play in the garden.",
+        "Дети хотят играть во дворе.",
+        "Балдар короодо ойногусу келет.",
+        "يريد الأطفال اللعب في الحديقة.",
+        "Les enfants veulent jouer dans le jardin."
+      ]
+    },
+    "temiz": {
+      "tr": "Sınıfımız bugün çok temiz.",
+      "values": [
+        "Our classroom is very clean today.",
+        "Сегодня наш класс очень чистый.",
+        "Бүгүн классыбыз абдан таза.",
+        "صفّنا نظيف جدًا اليوم.",
+        "Notre salle de classe est très propre aujourd'hui."
+      ]
+    },
+    "almak": {
+      "tr": "Marketten ekmek almak istiyorum.",
+      "values": [
+        "I want to buy bread at the market.",
+        "Я хочу купить хлеб в магазине.",
+        "Дүкөндөн нан сатып алгым келет.",
+        "أريد شراء الخبز من المتجر.",
+        "Je veux acheter du pain au magasin."
+      ]
+    },
+    "kantin": {
+      "tr": "Öğle arasında kantinden su aldım.",
+      "values": [
+        "I bought water from the school canteen during lunch break.",
+        "Во время обеденного перерыва я купил воду в школьном буфете.",
+        "Түшкү тыныгууда мектептин ашканасынан суу сатып алдым.",
+        "اشتريت ماءً من مقصف المدرسة خلال استراحة الغداء.",
+        "J'ai acheté de l'eau à la cafétéria de l'école pendant la pause déjeuner."
+      ]
+    },
+    "konuda": {
+      "tr": "Bu konuda öğretmenimle konuştum.",
+      "values": [
+        "I spoke with my teacher about this topic.",
+        "Я поговорил с учителем на эту тему.",
+        "Бул тууралуу мугалимим менен сүйлөштүм.",
+        "تحدثت مع معلمي حول هذا الموضوع.",
+        "J'ai parlé de ce sujet avec mon professeur."
+      ]
+    },
+    "internette": {
+      "tr": "Bu bilgiyi internette buldum.",
+      "values": [
+        "I found this information on the internet.",
+        "Я нашёл эту информацию в интернете.",
+        "Бул маалыматты интернеттен таптым.",
+        "وجدت هذه المعلومة على الإنترنت.",
+        "J'ai trouvé cette information sur Internet."
+      ]
     }
   },
   "forms": {
