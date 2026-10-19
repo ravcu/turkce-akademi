@@ -169,7 +169,8 @@
       // Include every distinct printed word, even if it is also part of a multiword phrase.
       // Keep numbers, proper names and inflected forms; never silently omit an entry.
       for(let i=0;i<page.words.length;i++){
-        const w=page.words[i],word=cleanLeadingDashes(w.t||''),key=normalize(word);
+        const w=page.words[i],joined=phraseAt(i,page.words);
+        const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=normalize(word);
         if(!key||seen.has(key))continue;
         seen.add(key);
         const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
