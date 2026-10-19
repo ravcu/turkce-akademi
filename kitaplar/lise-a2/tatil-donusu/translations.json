@@ -13945,6 +13945,16 @@
         "Il y a 21 élèves dans notre classe."
       ]
     },
+    "23": {
+      "tr": "Bugün ayın 23'ü.",
+      "values": [
+        "Today is the 23rd.",
+        "Сегодня 23-е число.",
+        "Бүгүн айдын 23ү.",
+        "اليوم هو الثالث والعشرون من الشهر.",
+        "Nous sommes le 23 du mois."
+      ]
+    },
     "29": {
       "tr": "29 Ekim'de okulda tören düzenledik.",
       "values": [
@@ -13973,6 +13983,26 @@
         "Бул китеп 50 беттен турат.",
         "يتكوّن هذا الكتاب من 50 صفحة.",
         "Ce livre compte 50 pages."
+      ]
+    },
+    "98": {
+      "tr": "Bu sınavdan 98 puan aldım.",
+      "values": [
+        "I scored 98 points on this exam.",
+        "Я получил 98 баллов на экзамене.",
+        "Бул сынактан 98 упай алдым.",
+        "حصلت على 98 نقطة في هذا الامتحان.",
+        "J'ai obtenu 98 points à cet examen."
+      ]
+    },
+    "458": {
+      "tr": "Bu listede 458 numarası var.",
+      "values": [
+        "The number 458 is on this list.",
+        "В этом списке есть номер 458.",
+        "Бул тизмеде 458 саны бар.",
+        "يوجد الرقم 458 في هذه القائمة.",
+        "Le numéro 458 figure sur cette liste."
       ]
     },
     "2001": {
@@ -25833,6 +25863,236 @@
         "Диалогду досуң менен аткар.",
         "مثّل الحوار مع صديقك.",
         "Joue le dialogue avec ton ami."
+      ]
+    },
+    "1.kat": {
+      "tr": "Kütüphane 1. katta.",
+      "values": [
+        "The library is on the first floor.",
+        "Библиотека находится на первом этаже.",
+        "Китепкана биринчи кабатта.",
+        "المكتبة في الطابق الأول.",
+        "La bibliothèque est au premier étage."
+      ]
+    },
+    "2.kat": {
+      "tr": "Laboratuvar 2. katta.",
+      "values": [
+        "The laboratory is on the second floor.",
+        "Лаборатория находится на втором этаже.",
+        "Лаборатория экинчи кабатта.",
+        "المختبر في الطابق الثاني.",
+        "Le laboratoire est au deuxième étage."
+      ]
+    },
+    "kayıt": {
+      "tr": "Okula kayıt için bir form doldurdum.",
+      "values": [
+        "I filled out a form to register at school.",
+        "Я заполнил анкету для записи в школу.",
+        "Мектепке катталуу үчүн форма толтурдум.",
+        "ملأت استمارة للتسجيل في المدرسة.",
+        "J'ai rempli un formulaire pour m'inscrire à l'école."
+      ]
+    },
+    "formunu": {
+      "tr": "Lütfen başvuru formunu doldurun.",
+      "values": [
+        "Please fill out the application form.",
+        "Пожалуйста, заполните форму заявления.",
+        "Сураныч, арыз формасын толтуруңуз.",
+        "يرجى ملء استمارة التقديم.",
+        "Veuillez remplir le formulaire de candidature."
+      ]
+    },
+    "yılmaz": {
+      "tr": "Yılmaz bugün toplantıya katıldı.",
+      "values": [
+        "Yılmaz attended the meeting today.",
+        "Йылмаз сегодня присутствовал на собрании.",
+        "Йылмаз бүгүн жыйынга катышты.",
+        "حضر يلماز الاجتماع اليوم.",
+        "Yılmaz a assisté à la réunion aujourd'hui."
+      ]
+    },
+    "doğum": {
+      "tr": "Doğum tarihinizi forma yazın.",
+      "values": [
+        "Write your date of birth on the form.",
+        "Укажите дату рождения в анкете.",
+        "Туулган күнүңүздү формага жазыңыз.",
+        "اكتب تاريخ ميلادك في الاستمارة.",
+        "Indiquez votre date de naissance sur le formulaire."
+      ]
+    },
+    "tarihi": {
+      "tr": "Bugünün tarihini defterime yazdım.",
+      "values": [
+        "I wrote today's date in my notebook.",
+        "Я записал сегодняшнюю дату в тетрадь.",
+        "Бүгүнкү датаны дептериме жаздым.",
+        "كتبت تاريخ اليوم في دفتري.",
+        "J'ai écrit la date d'aujourd'hui dans mon cahier."
+      ]
+    },
+    "27.03.2004": {
+      "tr": "Formda doğum tarihi 27.03.2004 olarak yazıyor.",
+      "values": [
+        "The date of birth on the form is 27 March 2004.",
+        "В анкете указана дата рождения 27.03.2004.",
+        "Формада туулган күнү 27.03.2004 деп жазылган.",
+        "تاريخ الميلاد المكتوب في الاستمارة هو 27 مارس 2004.",
+        "La date de naissance indiquée sur le formulaire est le 27 mars 2004."
+      ]
+    },
+    "zeynep": {
+      "tr": "Zeynep bugün kütüphaneye gitti.",
+      "values": [
+        "Zeynep went to the library today.",
+        "Зейнеп сегодня пошла в библиотеку.",
+        "Зейнеп бүгүн китепканага барды.",
+        "ذهبت زينب إلى المكتبة اليوم.",
+        "Zeynep est allée à la bibliothèque aujourd'hui."
+      ]
+    },
+    "baba": {
+      "tr": "Babam akşam eve geldi.",
+      "values": [
+        "My father came home in the evening.",
+        "Мой отец пришёл домой вечером.",
+        "Атам кечинде үйгө келди.",
+        "عاد أبي إلى المنزل مساءً.",
+        "Mon père est rentré à la maison le soir."
+      ]
+    },
+    "hakan": {
+      "tr": "Hakan arkadaşına yardım etti.",
+      "values": [
+        "Hakan helped his friend.",
+        "Хакан помог своему другу.",
+        "Хакан досуна жардам берди.",
+        "ساعد هاكان صديقه.",
+        "Hakan a aidé son ami."
+      ]
+    },
+    "cinsiyet": {
+      "tr": "Formda cinsiyet bilgisi isteniyor.",
+      "values": [
+        "The form asks for gender information.",
+        "В анкете нужно указать пол.",
+        "Формада жынысы тууралуу маалымат суралат.",
+        "تطلب الاستمارة معلومات عن الجنس.",
+        "Le formulaire demande d'indiquer le sexe."
+      ]
+    },
+    "kız": {
+      "tr": "Kız bahçede kitap okuyor.",
+      "values": [
+        "The girl is reading a book in the garden.",
+        "Девочка читает книгу во дворе.",
+        "Кыз короодо китеп окуп жатат.",
+        "تقرأ الفتاة كتابًا في الحديقة.",
+        "La fille lit un livre dans le jardin."
+      ]
+    },
+    "telefon": {
+      "tr": "Telefon numaranı bana yazar mısın?",
+      "values": [
+        "Can you write down your phone number for me?",
+        "Можешь записать мне свой номер телефона?",
+        "Телефон номериңди мага жазып бересиңби?",
+        "هل يمكنك كتابة رقم هاتفك لي؟",
+        "Peux-tu m'écrire ton numéro de téléphone ?"
+      ]
+    },
+    "numarası": {
+      "tr": "Oda numarası kapının üzerinde yazıyor.",
+      "values": [
+        "The room number is written on the door.",
+        "Номер комнаты написан на двери.",
+        "Бөлмөнүн номери эшикте жазылган.",
+        "رقم الغرفة مكتوب على الباب.",
+        "Le numéro de la chambre est écrit sur la porte."
+      ]
+    },
+    "0589": {
+      "tr": "Örnek telefon numarası 0589 ile başlıyor.",
+      "values": [
+        "The sample phone number starts with 0589.",
+        "Образец номера телефона начинается с 0589.",
+        "Үлгү телефон номери 0589 менен башталат.",
+        "يبدأ رقم الهاتف النموذجي بالأرقام 0589.",
+        "Le numéro de téléphone d'exemple commence par 0589."
+      ]
+    },
+    "e-posta": {
+      "tr": "Sana bir e-posta gönderdim.",
+      "values": [
+        "I sent you an email.",
+        "Я отправил тебе электронное письмо.",
+        "Сага электрондук кат жөнөттүм.",
+        "أرسلت إليك بريدًا إلكترونيًا.",
+        "Je t'ai envoyé un courriel."
+      ]
+    },
+    "adresi": {
+      "tr": "Okulun adresi internet sitesinde yazıyor.",
+      "values": [
+        "The school's address is on its website.",
+        "Адрес школы указан на сайте.",
+        "Мектептин дареги сайтында жазылган.",
+        "عنوان المدرسة مكتوب على موقعها الإلكتروني.",
+        "L'adresse de l'école figure sur son site internet."
+      ]
+    },
+    "adres": {
+      "tr": "Yeni adresimi defterime yazdım.",
+      "values": [
+        "I wrote my new address in my notebook.",
+        "Я записал свой новый адрес в тетрадь.",
+        "Жаңы дарегимди дептериме жаздым.",
+        "كتبت عنواني الجديد في دفتري.",
+        "J'ai noté ma nouvelle adresse dans mon cahier."
+      ]
+    },
+    "fatih": {
+      "tr": "Fatih sabah erkenden uyandı.",
+      "values": [
+        "Fatih woke up early in the morning.",
+        "Фатих проснулся рано утром.",
+        "Фатих эртең менен эрте ойгонду.",
+        "استيقظ فاتح مبكرًا في الصباح.",
+        "Fatih s'est réveillé tôt le matin."
+      ]
+    },
+    "erdem": {
+      "tr": "Erdem arkadaşlarıyla parka gitti.",
+      "values": [
+        "Erdem went to the park with his friends.",
+        "Эрдем пошёл в парк с друзьями.",
+        "Эрдем достору менен сейил бакка барды.",
+        "ذهب أردم إلى الحديقة مع أصدقائه.",
+        "Erdem est allé au parc avec ses amis."
+      ]
+    },
+    "menekşe": {
+      "tr": "Penceremin önünde bir menekşe var.",
+      "values": [
+        "There is a violet by my window.",
+        "У моего окна растёт фиалка.",
+        "Тереземдин алдында фиалка гүлү бар.",
+        "توجد زهرة بنفسج قرب نافذتي.",
+        "Il y a une violette près de ma fenêtre."
+      ]
+    },
+    "üsküdar/istanbul": {
+      "tr": "Üsküdar, İstanbul'un Anadolu yakasındadır.",
+      "values": [
+        "Üsküdar is on the Asian side of Istanbul.",
+        "Ускюдар находится на азиатской стороне Стамбула.",
+        "Үскүдар Стамбулдун Азия тарабында жайгашкан.",
+        "تقع أُسكُدار في الجانب الآسيوي من إسطنبول.",
+        "Üsküdar se trouve sur la rive asiatique d'Istanbul."
       ]
     }
   },
