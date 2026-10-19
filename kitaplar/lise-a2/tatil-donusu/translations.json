@@ -19680,6 +19680,246 @@
         "اشتريتُ حذاءً متينًا للمشي في الجبال.",
         "J'ai acheté des bottes solides pour marcher en montagne."
       ]
+    },
+    "kelimelerle": {
+      "tr": "Bu kelimelerle üç cümle yazın.",
+      "values": [
+        "Write three sentences using these words.",
+        "Напишите три предложения с этими словами.",
+        "Бул сөздөр менен үч сүйлөм жазгыла.",
+        "اكتبوا ثلاث جمل باستخدام هذه الكلمات.",
+        "Écrivez trois phrases avec ces mots."
+      ]
+    },
+    "etkinlikleri": {
+      "tr": "Yaz etkinlikleri yarın başlıyor.",
+      "values": [
+        "The summer activities start tomorrow.",
+        "Летние мероприятия начинаются завтра.",
+        "Жайкы иш-чаралар эртең башталат.",
+        "تبدأ الأنشطة الصيفية غدًا.",
+        "Les activités d'été commencent demain."
+      ]
+    },
+    "daha": {
+      "tr": "Bugün hava dünden daha sıcak.",
+      "values": [
+        "Today the weather is warmer than yesterday.",
+        "Сегодня теплее, чем вчера.",
+        "Бүгүн аба ырайы кечээгиден жылуураак.",
+        "الجو اليوم أدفأ من الأمس.",
+        "Aujourd'hui, il fait plus chaud qu'hier."
+      ]
+    },
+    "önce": {
+      "tr": "Yemekten önce ellerini yıka.",
+      "values": [
+        "Wash your hands before eating.",
+        "Вымой руки перед едой.",
+        "Тамактанардан мурун колуңду жуу.",
+        "اغسل يديك قبل الأكل.",
+        "Lave-toi les mains avant de manger."
+      ]
+    },
+    "tür": {
+      "tr": "Bu tür filmleri seviyorum.",
+      "values": [
+        "I like this kind of film.",
+        "Мне нравятся такие фильмы.",
+        "Мага мындай тасмалар жагат.",
+        "أحب هذا النوع من الأفلام.",
+        "J'aime ce genre de films."
+      ]
+    },
+    "etkinlikler": {
+      "tr": "Çocuklar için eğlenceli etkinlikler var.",
+      "values": [
+        "There are fun activities for children.",
+        "Для детей есть интересные занятия.",
+        "Балдар үчүн кызыктуу иш-чаралар бар.",
+        "هناك أنشطة ممتعة للأطفال.",
+        "Il y a des activités amusantes pour les enfants."
+      ]
+    },
+    "etkinliklerini": {
+      "tr": "Okulun etkinliklerini takvimden takip ediyorum.",
+      "values": [
+        "I follow the school's activities on the calendar.",
+        "Я слежу за школьными мероприятиями по календарю.",
+        "Мектептин иш-чараларын календардан карап турам.",
+        "أتابع أنشطة المدرسة من خلال التقويم.",
+        "Je suis les activités de l'école sur le calendrier."
+      ]
+    },
+    "istersiniz": {
+      "tr": "Bir bardak su ister misiniz?",
+      "values": [
+        "Would you like a glass of water?",
+        "Хотите стакан воды?",
+        "Бир стакан суу ичесизби?",
+        "هل ترغبون في كوب من الماء؟",
+        "Voulez-vous un verre d'eau ?"
+      ]
+    },
+    "niçin": {
+      "tr": "Niçin erken geldin?",
+      "values": [
+        "Why did you come early?",
+        "Почему ты пришёл рано?",
+        "Эмне үчүн эрте келдиң?",
+        "لماذا جئت مبكرًا؟",
+        "Pourquoi es-tu venu tôt ?"
+      ]
+    },
+    "yapabileceğiniz": {
+      "tr": "Burada yapabileceğiniz birçok spor var.",
+      "values": [
+        "There are many sports you can do here.",
+        "Здесь есть много видов спорта, которыми вы можете заняться.",
+        "Бул жерде сиз жасай ала турган спорттун көп түрү бар.",
+        "هناك رياضات كثيرة يمكنكم ممارستها هنا.",
+        "Il y a beaucoup de sports que vous pouvez pratiquer ici."
+      ]
+    },
+    "yerler": {
+      "tr": "Bu şehirde gezilecek güzel yerler var.",
+      "values": [
+        "There are beautiful places to visit in this city.",
+        "В этом городе есть красивые места для прогулок.",
+        "Бул шаарда кыдыра турган кооз жерлер бар.",
+        "توجد أماكن جميلة للزيارة في هذه المدينة.",
+        "Il y a de beaux endroits à visiter dans cette ville."
+      ]
+    },
+    "hangileri": {
+      "tr": "Bu kitaplardan hangileri senin?",
+      "values": [
+        "Which of these books are yours?",
+        "Какие из этих книг твои?",
+        "Бул китептердин кайсылары сеники?",
+        "أيّ من هذه الكتب لك؟",
+        "Lesquels de ces livres sont à toi ?"
+      ]
+    },
+    "su": {
+      "tr": "Yürüyüşe çıkarken yanına su al.",
+      "values": [
+        "Take water with you when you go hiking.",
+        "Возьми с собой воду, когда пойдёшь в поход.",
+        "Жөө жүрүшкө чыкканда өзүң менен суу ал.",
+        "خذ معك ماءً عندما تخرج للمشي.",
+        "Prends de l'eau avec toi quand tu pars en randonnée."
+      ]
+    },
+    "el": {
+      "tr": "Soğukta ellerim üşüyor.",
+      "values": [
+        "My hands get cold in the cold weather.",
+        "На холоде у меня мёрзнут руки.",
+        "Суукта колдорум үшүйт.",
+        "تبرد يداي في الجو البارد.",
+        "J'ai froid aux mains quand il fait froid."
+      ]
+    },
+    "feneri": {
+      "tr": "Çantamdaki el feneri çalışmıyor.",
+      "values": [
+        "The flashlight in my bag isn't working.",
+        "Фонарик в моей сумке не работает.",
+        "Сумкамдагы кол чырак иштебей жатат.",
+        "المصباح اليدوي في حقيبتي لا يعمل.",
+        "La lampe de poche dans mon sac ne fonctionne pas."
+      ]
+    },
+    "güneş": {
+      "tr": "Bugün güneş çok parlak.",
+      "values": [
+        "The sun is very bright today.",
+        "Сегодня солнце очень яркое.",
+        "Бүгүн күн абдан жарык тийип жатат.",
+        "الشمس ساطعة جدًا اليوم.",
+        "Le soleil brille très fort aujourd'hui."
+      ]
+    },
+    "kremi": {
+      "tr": "Denize gitmeden önce güneş kremi sürdüm.",
+      "values": [
+        "I applied sunscreen before going to the beach.",
+        "Я нанёс солнцезащитный крем перед походом на пляж.",
+        "Деңизге барардан мурун күндөн коргоочу крем сүйкөдүм.",
+        "وضعت واقي الشمس قبل الذهاب إلى الشاطئ.",
+        "J'ai mis de la crème solaire avant d'aller à la plage."
+      ]
+    },
+    "fotoğraf": {
+      "tr": "Tatilde çok fotoğraf çektim.",
+      "values": [
+        "I took lots of photos on vacation.",
+        "На каникулах я сделал много фотографий.",
+        "Эс алууда көп сүрөт тарттым.",
+        "التقطت صورًا كثيرة في العطلة.",
+        "J'ai pris beaucoup de photos pendant les vacances."
+      ]
+    },
+    "makinesi": {
+      "tr": "Fotoğraf makinesi masanın üzerinde.",
+      "values": [
+        "The camera is on the table.",
+        "Фотоаппарат лежит на столе.",
+        "Фотоаппарат столдун үстүндө турат.",
+        "الكاميرا على الطاولة.",
+        "L'appareil photo est sur la table."
+      ]
+    },
+    "uyku": {
+      "tr": "Uzun yolculuktan sonra uykuya daldım.",
+      "values": [
+        "I fell asleep after the long journey.",
+        "После долгой поездки я заснул.",
+        "Узак жолдон кийин уктап калдым.",
+        "نمت بعد الرحلة الطويلة.",
+        "Je me suis endormi après le long voyage."
+      ]
+    },
+    "tulumu": {
+      "tr": "Kamp için uyku tulumu aldık.",
+      "values": [
+        "We bought a sleeping bag for camping.",
+        "Мы купили спальный мешок для похода.",
+        "Лагерь үчүн уктоочу кап сатып алдык.",
+        "اشترينا كيس نوم للتخييم.",
+        "Nous avons acheté un sac de couchage pour le camping."
+      ]
+    },
+    "kayak": {
+      "tr": "Kışın kayak yapmayı seviyorum.",
+      "values": [
+        "I like skiing in winter.",
+        "Зимой я люблю кататься на лыжах.",
+        "Кышында лыжа тепкенди жакшы көрөм.",
+        "أحب التزلج في الشتاء.",
+        "J'aime faire du ski en hiver."
+      ]
+    },
+    "takımı": {
+      "tr": "Kayak takımımı arabaya koydum.",
+      "values": [
+        "I put my ski equipment in the car.",
+        "Я положил лыжный комплект в машину.",
+        "Лыжа шаймандарымды унаага салдым.",
+        "وضعت معدات التزلج في السيارة.",
+        "J'ai mis mon équipement de ski dans la voiture."
+      ]
+    },
+    "gözlüğü": {
+      "tr": "Güneş gözlüğümü evde unuttum.",
+      "values": [
+        "I forgot my sunglasses at home.",
+        "Я забыл солнцезащитные очки дома.",
+        "Күн көз айнегимди үйдө унутуп калдым.",
+        "نسيت نظارتي الشمسية في المنزل.",
+        "J'ai oublié mes lunettes de soleil à la maison."
+      ]
     }
   },
   "forms": {
