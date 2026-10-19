@@ -170,6 +170,9 @@
       // Keep numbers, proper names and inflected forms; never silently omit an entry.
       for(let i=0;i<page.words.length;i++){
         const w=page.words[i],joined=phraseAt(i,page.words);
+        // A wrapped word belongs to one logical entry: emit it only at its
+        // first fragment, never again at the continuation hotspot.
+        if(joined?.single&&joined.indices[0]!==i)continue;
         const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=normalize(word);
         if(!key||seen.has(key))continue;
         seen.add(key);
