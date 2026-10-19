@@ -26094,6 +26094,216 @@
         "تقع أُسكُدار في الجانب الآسيوي من إسطنبول.",
         "Üsküdar se trouve sur la rive asiatique d'Istanbul."
       ]
+    },
+    "olayları": {
+      "tr": "Dün yaşadığım olayları arkadaşıma anlattım.",
+      "values": [
+        "I told my friend about what happened yesterday.",
+        "Я рассказал другу о вчерашних событиях.",
+        "Кечээ болгон окуяларды досума айтып бердим.",
+        "أخبرت صديقي عن أحداث الأمس.",
+        "J'ai raconté à mon ami les événements d'hier."
+      ]
+    },
+    "anlatma": {
+      "tr": "Bana bu hikâyeyi anlatma, zaten biliyorum.",
+      "values": [
+        "Don't tell me this story; I already know it.",
+        "Не рассказывай мне эту историю, я её уже знаю.",
+        "Бул окуяны мага айтпа, мен аны билем.",
+        "لا تحكِ لي هذه القصة، فأنا أعرفها بالفعل.",
+        "Ne me raconte pas cette histoire, je la connais déjà."
+      ]
+    },
+    "çeşitlerini": {
+      "tr": "Tatil çeşitlerini birlikte öğrendik.",
+      "values": [
+        "We learned about different types of holidays together.",
+        "Мы вместе изучили разные виды отдыха.",
+        "Эс алуунун түрлөрүн чогуу үйрөндүк.",
+        "تعرفنا معًا على أنواع العطلات.",
+        "Nous avons découvert ensemble différents types de vacances."
+      ]
+    },
+    "çeşitleri": {
+      "tr": "Bu mağazada farklı çay çeşitleri var.",
+      "values": [
+        "This shop has different kinds of tea.",
+        "В этом магазине есть разные сорта чая.",
+        "Бул дүкөндө чайдын ар кандай түрлөрү бар.",
+        "يوجد في هذا المتجر أنواع مختلفة من الشاي.",
+        "Il y a différentes sortes de thé dans ce magasin."
+      ]
+    },
+    "hangisidir": {
+      "tr": "Bu resimlerden hangisidir seninki?",
+      "values": [
+        "Which of these pictures is yours?",
+        "Какая из этих картинок твоя?",
+        "Бул сүрөттөрдүн кайсынысы сеники?",
+        "أيّ هذه الصور صورتك؟",
+        "Laquelle de ces images est la tienne ?"
+      ]
+    },
+    "yapmayı": {
+      "tr": "Hafta sonu yürüyüş yapmayı seviyorum.",
+      "values": [
+        "I like going for walks at the weekend.",
+        "Я люблю гулять по выходным.",
+        "Дем алышта сейилдегенди жакшы көрөм.",
+        "أحب المشي في عطلة نهاية الأسبوع.",
+        "J'aime me promener le week-end."
+      ]
+    },
+    "seversiniz": {
+      "tr": "Boş zamanlarınızda ne yapmayı seversiniz?",
+      "values": [
+        "What do you like doing in your free time?",
+        "Что вы любите делать в свободное время?",
+        "Бош убактыңызда эмне кылганды жакшы көрөсүз?",
+        "ماذا تحبون أن تفعلوا في وقت فراغكم؟",
+        "Qu'aimez-vous faire pendant votre temps libre ?"
+      ]
+    },
+    "sevmezsiniz": {
+      "tr": "Hangi yemekleri sevmezsiniz?",
+      "values": [
+        "Which foods don't you like?",
+        "Какие блюда вам не нравятся?",
+        "Кайсы тамактарды жактырбайсыз?",
+        "ما الأطعمة التي لا تحبونها؟",
+        "Quels plats n'aimez-vous pas ?"
+      ]
+    },
+    "üzerinde": {
+      "tr": "Kitap masanın üzerinde duruyor.",
+      "values": [
+        "The book is on the table.",
+        "Книга лежит на столе.",
+        "Китеп столдун үстүндө турат.",
+        "الكتاب على الطاولة.",
+        "Le livre est sur la table."
+      ]
+    },
+    "ağrı": {
+      "tr": "Uzun yürüyüşten sonra bacağımda ağrı hissettim.",
+      "values": [
+        "I felt pain in my leg after a long walk.",
+        "После долгой прогулки я почувствовал боль в ноге.",
+        "Узак баскандан кийин бутум ооруду.",
+        "شعرت بألم في ساقي بعد مشي طويل.",
+        "J'ai eu mal à la jambe après une longue marche."
+      ]
+    },
+    "haritada": {
+      "tr": "Şehri haritada gösterir misin?",
+      "values": [
+        "Can you show me the city on the map?",
+        "Можешь показать город на карте?",
+        "Шаарды картадан көрсөтүп бересиңби?",
+        "هل يمكنك أن تريني المدينة على الخريطة؟",
+        "Peux-tu me montrer la ville sur la carte ?"
+      ]
+    },
+    "başka": {
+      "tr": "Başka bir sorunuz var mı?",
+      "values": [
+        "Do you have another question?",
+        "У вас есть ещё вопросы?",
+        "Дагы сурооңуз барбы?",
+        "هل لديكم سؤال آخر؟",
+        "Avez-vous une autre question ?"
+      ]
+    },
+    "görsel": {
+      "tr": "Bu görselde üç çocuk var.",
+      "values": [
+        "There are three children in this picture.",
+        "На этой иллюстрации трое детей.",
+        "Бул сүрөттө үч бала бар.",
+        "توجد ثلاثة أطفال في هذه الصورة.",
+        "Il y a trois enfants sur cette image."
+      ]
+    },
+    "cümleler": {
+      "tr": "Defterime beş kısa cümle yazdım.",
+      "values": [
+        "I wrote five short sentences in my notebook.",
+        "Я написал пять коротких предложений в тетради.",
+        "Дептериме беш кыска сүйлөм жаздым.",
+        "كتبت خمس جمل قصيرة في دفتري.",
+        "J'ai écrit cinq phrases courtes dans mon cahier."
+      ]
+    },
+    "paragraf": {
+      "tr": "Metnin ilk paragrafını okuyun.",
+      "values": [
+        "Read the first paragraph of the text.",
+        "Прочитайте первый абзац текста.",
+        "Тексттин биринчи абзацын окугула.",
+        "اقرؤوا الفقرة الأولى من النص.",
+        "Lisez le premier paragraphe du texte."
+      ]
+    },
+    "ilgilidir": {
+      "tr": "Bu metin doğa ile ilgilidir.",
+      "values": [
+        "This text is about nature.",
+        "Этот текст посвящён природе.",
+        "Бул текст жаратылыш жөнүндө.",
+        "هذا النص متعلق بالطبيعة.",
+        "Ce texte parle de la nature."
+      ]
+    },
+    "mabedidir": {
+      "tr": "Bu yapı şehrin en eski mabedidir.",
+      "values": [
+        "This building is the city's oldest place of worship.",
+        "Это здание — древнейшее культовое сооружение города.",
+        "Бул имарат шаардын эң байыркы сыйынуу жайы.",
+        "هذا المبنى أقدم معبد في المدينة.",
+        "Cet édifice est le plus ancien lieu de culte de la ville."
+      ]
+    },
+    "yerlerindendir": {
+      "tr": "Burası ülkenin en güzel yerlerindendir.",
+      "values": [
+        "This is one of the most beautiful places in the country.",
+        "Это одно из самых красивых мест страны.",
+        "Бул өлкөнүн эң кооз жерлеринин бири.",
+        "هذا من أجمل الأماكن في البلاد.",
+        "C'est l'un des plus beaux endroits du pays."
+      ]
+    },
+    "göbeklitepe’deki": {
+      "tr": "Göbeklitepe'deki yapılar çok eskidir.",
+      "values": [
+        "The structures at Göbeklitepe are very old.",
+        "Сооружения в Гёбекли-Тепе очень древние.",
+        "Гөбеклитепедеги курулуштар абдан байыркы.",
+        "المنشآت في غوبكلي تبه قديمة جدًا.",
+        "Les structures de Göbeklitepe sont très anciennes."
+      ]
+    },
+    "çeşidini": {
+      "tr": "Yeni bir tatlı çeşidini denedim.",
+      "values": [
+        "I tried a new kind of dessert.",
+        "Я попробовал новый вид десерта.",
+        "Таттуунун жаңы түрүн татып көрдүм.",
+        "جربت نوعًا جديدًا من الحلوى.",
+        "J'ai goûté une nouvelle sorte de dessert."
+      ]
+    },
+    "eder": {
+      "tr": "Bu gezi iki saat devam eder.",
+      "values": [
+        "This tour lasts two hours.",
+        "Эта экскурсия длится два часа.",
+        "Бул экскурсия эки саатка созулат.",
+        "تستمر هذه الجولة ساعتين.",
+        "Cette visite dure deux heures."
+      ]
     }
   },
   "forms": {
