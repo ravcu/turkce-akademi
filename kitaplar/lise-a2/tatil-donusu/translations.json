@@ -24894,6 +24894,206 @@
         "وجدت هذه المعلومة على الإنترنت.",
         "J'ai trouvé cette information sur Internet."
       ]
+    },
+    "karnım": {
+      "tr": "Karnım acıktı, biraz yemek yiyelim.",
+      "values": [
+        "I'm hungry; let's eat something.",
+        "Я проголодался, давай что-нибудь поедим.",
+        "Курсагым ачты, бир нерсе жейли.",
+        "أنا جائع، لنتناول شيئًا.",
+        "J'ai faim, mangeons quelque chose."
+      ]
+    },
+    "yemeğini": {
+      "tr": "Ali yemeğini bitirdi.",
+      "values": [
+        "Ali finished his meal.",
+        "Али закончил есть.",
+        "Али тамагын жеп бүттү.",
+        "أنهى علي طعامه.",
+        "Ali a terminé son repas."
+      ]
+    },
+    "salonu": {
+      "tr": "Spor salonu ikinci katta.",
+      "values": [
+        "The gym is on the second floor.",
+        "Спортивный зал находится на втором этаже.",
+        "Спорт залы экинчи кабатта.",
+        "تقع الصالة الرياضية في الطابق الثاني.",
+        "La salle de sport est au deuxième étage."
+      ]
+    },
+    "kimya": {
+      "tr": "Bugün kimya dersinde deney yaptık.",
+      "values": [
+        "We did an experiment in chemistry class today.",
+        "Сегодня на уроке химии мы провели опыт.",
+        "Бүгүн химия сабагында тажрыйба жасадык.",
+        "أجرينا تجربة في حصة الكيمياء اليوم.",
+        "Aujourd'hui, nous avons fait une expérience en cours de chimie."
+      ]
+    },
+    "dersinde": {
+      "tr": "Türkçe dersinde yeni kelimeler öğrendik.",
+      "values": [
+        "We learned new words in Turkish class.",
+        "На уроке турецкого языка мы выучили новые слова.",
+        "Түрк тили сабагында жаңы сөздөрдү үйрөндүк.",
+        "تعلمنا كلمات جديدة في درس اللغة التركية.",
+        "Nous avons appris de nouveaux mots en cours de turc."
+      ]
+    },
+    "deney": {
+      "tr": "Öğretmenimiz bize basit bir deney gösterdi.",
+      "values": [
+        "Our teacher showed us a simple experiment.",
+        "Учитель показал нам простой опыт.",
+        "Мугалимибиз бизге жөнөкөй тажрыйба көрсөттү.",
+        "أرانا معلمنا تجربة بسيطة.",
+        "Notre professeur nous a montré une expérience simple."
+      ]
+    },
+    "nereden": {
+      "tr": "Bu kitabı nereden aldın?",
+      "values": [
+        "Where did you get this book?",
+        "Где ты взял эту книгу?",
+        "Бул китепти кайдан алдың?",
+        "من أين حصلت على هذا الكتاب؟",
+        "Où as-tu trouvé ce livre ?"
+      ]
+    },
+    "bahçe": {
+      "tr": "Okulun bahçesinde ağaçlar var.",
+      "values": [
+        "There are trees in the school garden.",
+        "Во дворе школы есть деревья.",
+        "Мектептин короосунда бактар бар.",
+        "توجد أشجار في ساحة المدرسة.",
+        "Il y a des arbres dans la cour de l'école."
+      ]
+    },
+    "hayal": {
+      "tr": "En büyük hayalim dünyayı gezmek.",
+      "values": [
+        "My biggest dream is to travel the world.",
+        "Моя самая большая мечта — путешествовать по миру.",
+        "Эң чоң кыялым — дүйнөнү кыдыруу.",
+        "حلمي الأكبر هو السفر حول العالم.",
+        "Mon plus grand rêve est de voyager autour du monde."
+      ]
+    },
+    "krokisini": {
+      "tr": "Okulun krokisini defterime çizdim.",
+      "values": [
+        "I drew a plan of the school in my notebook.",
+        "Я нарисовал план школы в тетради.",
+        "Мектептин схемасын дептериме тарттым.",
+        "رسمت مخطط المدرسة في دفتري.",
+        "J'ai dessiné le plan de l'école dans mon cahier."
+      ]
+    },
+    "çizin": {
+      "tr": "Lütfen tahtaya bir ev çizin.",
+      "values": [
+        "Please draw a house on the board.",
+        "Пожалуйста, нарисуйте дом на доске.",
+        "Сураныч, тактага үй тартыңыздар.",
+        "من فضلكم ارسموا بيتًا على السبورة.",
+        "Dessinez une maison au tableau, s'il vous plaît."
+      ]
+    },
+    "çizdiğiniz": {
+      "tr": "Çizdiğiniz resmi arkadaşlarınıza gösterin.",
+      "values": [
+        "Show your drawing to your friends.",
+        "Покажите рисунок, который вы нарисовали, друзьям.",
+        "Тарткан сүрөтүңөрдү досторуңарга көрсөткүлө.",
+        "أروا أصدقاءكم الصورة التي رسمتموها.",
+        "Montrez à vos amis le dessin que vous avez fait."
+      ]
+    },
+    "örnekteki": {
+      "tr": "Örnekteki cümleyi dikkatle okuyun.",
+      "values": [
+        "Read the example sentence carefully.",
+        "Внимательно прочитайте предложение в примере.",
+        "Мисалдагы сүйлөмдү кунт коюп окугула.",
+        "اقرؤوا الجملة الموجودة في المثال بعناية.",
+        "Lisez attentivement la phrase de l'exemple."
+      ]
+    },
+    "yemekhanenin": {
+      "tr": "Yemekhanenin kapısı açık.",
+      "values": [
+        "The cafeteria door is open.",
+        "Дверь столовой открыта.",
+        "Ашкананын эшиги ачык.",
+        "باب قاعة الطعام مفتوح.",
+        "La porte de la cantine est ouverte."
+      ]
+    },
+    "fizik": {
+      "tr": "Fizik dersinde hareket konusunu işledik.",
+      "values": [
+        "We studied motion in physics class.",
+        "На уроке физики мы изучали движение.",
+        "Физика сабагында кыймыл темасын өттүк.",
+        "درسنا الحركة في حصة الفيزياء.",
+        "Nous avons étudié le mouvement en cours de physique."
+      ]
+    },
+    "edebiyat": {
+      "tr": "Edebiyat dersinde bir şiir okuduk.",
+      "values": [
+        "We read a poem in literature class.",
+        "На уроке литературы мы прочитали стихотворение.",
+        "Адабият сабагында ыр окудук.",
+        "قرأنا قصيدة في درس الأدب.",
+        "Nous avons lu un poème en cours de littérature."
+      ]
+    },
+    "beden": {
+      "tr": "Beden eğitimi dersinde koşuyoruz.",
+      "values": [
+        "We run in physical education class.",
+        "Мы бегаем на уроке физкультуры.",
+        "Дене тарбия сабагында чуркайбыз.",
+        "نركض في حصة التربية البدنية.",
+        "Nous courons en cours d'éducation physique."
+      ]
+    },
+    "eğitimi": {
+      "tr": "Beden eğitimi dersimiz cuma günü.",
+      "values": [
+        "Our physical education class is on Friday.",
+        "У нас физкультура в пятницу.",
+        "Дене тарбия сабагыбыз жума күнү.",
+        "حصة التربية البدنية لدينا يوم الجمعة.",
+        "Nous avons cours d'éducation physique le vendredi."
+      ]
+    },
+    "biyoloji": {
+      "tr": "Biyoloji dersinde bitkileri inceliyoruz.",
+      "values": [
+        "We study plants in biology class.",
+        "На уроке биологии мы изучаем растения.",
+        "Биология сабагында өсүмдүктөрдү изилдейбиз.",
+        "ندرس النباتات في حصة الأحياء.",
+        "Nous étudions les plantes en cours de biologie."
+      ]
+    },
+    "matematik": {
+      "tr": "Matematik dersinde problem çözdük.",
+      "values": [
+        "We solved problems in math class.",
+        "На уроке математики мы решали задачи.",
+        "Математика сабагында маселелерди чыгардык.",
+        "حللنا مسائل في حصة الرياضيات.",
+        "Nous avons résolu des problèmes en cours de mathématiques."
+      ]
     }
   },
   "forms": {
