@@ -20160,6 +20160,36 @@
         "هذا المعبد القديم مفتوح للسياح.",
         "Cet ancien temple est ouvert aux touristes."
       ]
+    },
+    "ek": {
+      "tr": "Bu kelimeye çoğul eki ekleyin.",
+      "values": [
+        "Add the plural suffix to this word.",
+        "Добавьте к этому слову суффикс множественного числа.",
+        "Бул сөзгө көптүк мүчөнү улагыла.",
+        "أضيفوا لاحقة الجمع إلى هذه الكلمة.",
+        "Ajoutez le suffixe du pluriel à ce mot."
+      ]
+    },
+    "fiilin": {
+      "tr": "Bu cümledeki fiilin altını çizin.",
+      "values": [
+        "Underline the verb in this sentence.",
+        "Подчеркните глагол в этом предложении.",
+        "Бул сүйлөмдөгү этиштин астын сызгыла.",
+        "ضعوا خطًا تحت الفعل في هذه الجملة.",
+        "Soulignez le verbe dans cette phrase."
+      ]
+    },
+    "zamanı": {
+      "tr": "Dersin başlama zamanı değişti.",
+      "values": [
+        "The lesson's start time has changed.",
+        "Время начала урока изменилось.",
+        "Сабактын баштала турган убактысы өзгөрдү.",
+        "تغيّر وقت بدء الدرس.",
+        "L'heure de début du cours a changé."
+      ]
     }
   },
   "forms": {
