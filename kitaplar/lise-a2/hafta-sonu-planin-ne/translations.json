@@ -49,6 +49,13 @@
       "اثنان وثلاثون",
       "trente-deux"
     ],
+    "33": [
+      "thirty-three",
+      "тридцать три",
+      "отуз үч",
+      "ثلاثة وثلاثون",
+      "trente-trois"
+    ],
     "ünite": [
       "unit",
       "раздел",
@@ -1133,6 +1140,909 @@
       "суроо бөлүкчөсү",
       "أداة استفهام",
       "particule interrogative"
+    ],
+    "metni": [
+      "the text",
+      "текст",
+      "текстти",
+      "النص",
+      "le texte"
+    ],
+    "sorulara": [
+      "to the questions",
+      "на вопросы",
+      "суроолорго",
+      "عن الأسئلة",
+      "aux questions"
+    ],
+    "cevap": [
+      "answer",
+      "ответ",
+      "жооп",
+      "إجابة",
+      "réponse"
+    ],
+    "verin": [
+      "give; provide (imperative)",
+      "дайте",
+      "бергиле",
+      "أعطوا",
+      "donnez"
+    ],
+    "s.014": [
+      "listening track S.014",
+      "аудиозапись S.014",
+      "S.014 угуу жазуусу",
+      "التسجيل الصوتي S.014",
+      "enregistrement S.014"
+    ],
+    "sinemaya": [
+      "to the cinema",
+      "в кино",
+      "киного",
+      "إلى السينما",
+      "au cinéma"
+    ],
+    "gidelim": [
+      "let's go",
+      "давай пойдём",
+      "баралы",
+      "لنذهب",
+      "allons-y"
+    ],
+    "mi": [
+      "question particle",
+      "вопросительная частица",
+      "суроо бөлүкчөсү",
+      "أداة استفهام",
+      "particule interrogative"
+    ],
+    "aycan": [
+      "Aycan (name)",
+      "Айджан (имя)",
+      "Айжан (ысым)",
+      "آيجان (اسم)",
+      "Aycan (prénom)"
+    ],
+    "arkadaşlar": [
+      "friends",
+      "друзья",
+      "достор",
+      "أصدقاء",
+      "les amis"
+    ],
+    "bakın": [
+      "look (plural/polite)",
+      "посмотрите",
+      "карагыла",
+      "انظروا",
+      "regardez"
+    ],
+    "burada": [
+      "here",
+      "здесь",
+      "бул жерде",
+      "هنا",
+      "ici"
+    ],
+    "afişi": [
+      "the poster",
+      "афишу; афиша",
+      "афишаны",
+      "الملصق",
+      "l'affiche"
+    ],
+    "emre": [
+      "Emre (name)",
+      "Эмре (имя)",
+      "Эмре (ысым)",
+      "أمره (اسم)",
+      "Emre (prénom)"
+    ],
+    "harbiye": [
+      "Harbiye (place name)",
+      "Харбие",
+      "Харбие",
+      "حربية",
+      "Harbiye"
+    ],
+    "açık": [
+      "open; outdoor",
+      "открытый",
+      "ачык",
+      "مفتوح",
+      "ouvert"
+    ],
+    "hava": [
+      "air; weather",
+      "воздух; погода",
+      "аба; аба ырайы",
+      "هواء؛ طقس",
+      "air; temps"
+    ],
+    "sahnesi’nde": [
+      "at its stage",
+      "на сцене",
+      "сахнасында",
+      "على مسرحه",
+      "sur sa scène"
+    ],
+    "zaman": [
+      "time",
+      "время",
+      "убакыт",
+      "وقت",
+      "temps"
+    ],
+    "günleri": [
+      "days",
+      "дни",
+      "күндөрү",
+      "أيام",
+      "les jours"
+    ],
+    "teklifi": [
+      "the offer",
+      "предложение",
+      "сунушту",
+      "العرض",
+      "la proposition"
+    ],
+    "evet": [
+      "yes",
+      "да",
+      "ооба",
+      "نعم",
+      "oui"
+    ],
+    "etti": [
+      "did; made",
+      "сделал",
+      "кылды",
+      "فعل",
+      "a fait"
+    ],
+    "murat": [
+      "Murat (name)",
+      "Мурат (имя)",
+      "Мурат (ысым)",
+      "مراد (اسم)",
+      "Murat (prénom)"
+    ],
+    "dersiniz": [
+      "you say; what do you think?",
+      "скажете",
+      "дейсиңер",
+      "تقولون",
+      "vous dites"
+    ],
+    "festivale": [
+      "to the festival",
+      "на фестиваль",
+      "фестивалга",
+      "إلى المهرجان",
+      "au festival"
+    ],
+    "planınız": [
+      "your plan",
+      "ваш план",
+      "планыңар",
+      "خطتكم",
+      "votre projet"
+    ],
+    "mı": [
+      "question particle",
+      "вопросительная частица",
+      "суроо бөлүкчөсү",
+      "أداة استفهام",
+      "particule interrogative"
+    ],
+    "benim": [
+      "my; mine",
+      "мой; у меня",
+      "менин",
+      "لي؛ خاصتي",
+      "mon; le mien"
+    ],
+    "planım": [
+      "my plan",
+      "мой план",
+      "менин планым",
+      "خطتي",
+      "mon projet"
+    ],
+    "yok": [
+      "there isn't; no",
+      "нет",
+      "жок",
+      "لا يوجد",
+      "il n'y a pas"
+    ],
+    "ben": [
+      "I",
+      "я",
+      "мен",
+      "أنا",
+      "je"
+    ],
+    "gelirim": [
+      "I'll come",
+      "я приду",
+      "мен келем",
+      "سآتي",
+      "je viendrai"
+    ],
+    "çünkü": [
+      "because",
+      "потому что",
+      "анткени",
+      "لأن",
+      "parce que"
+    ],
+    "sinemada": [
+      "at the cinema",
+      "в кинотеатре",
+      "кинотеатрда",
+      "في السينما",
+      "au cinéma"
+    ],
+    "izlemeyi": [
+      "watching (object form)",
+      "смотреть (в конструкции)",
+      "көрүүнү",
+      "المشاهدة",
+      "regarder"
+    ],
+    "çok": [
+      "very; a lot",
+      "очень; много",
+      "абдан; көп",
+      "جدًا؛ كثيرًا",
+      "très; beaucoup"
+    ],
+    "severim": [
+      "I like; I love",
+      "я люблю",
+      "мен жакшы көрөм",
+      "أحب",
+      "j'aime"
+    ],
+    "elif": [
+      "Elif (name)",
+      "Элиф (имя)",
+      "Элиф (ысым)",
+      "إليف (اسم)",
+      "Elif (prénom)"
+    ],
+    "iyi": [
+      "good",
+      "хороший",
+      "жакшы",
+      "جيد",
+      "bon"
+    ],
+    "fikir": [
+      "idea",
+      "идея",
+      "ой",
+      "فكرة",
+      "idée"
+    ],
+    "de": [
+      "also; too",
+      "тоже",
+      "да",
+      "أيضًا",
+      "aussi"
+    ],
+    "sahnesi’ni": [
+      "its stage (object form)",
+      "сцену",
+      "сахнасын",
+      "مسرحه",
+      "sa scène"
+    ],
+    "istiyorum": [
+      "I want",
+      "я хочу",
+      "мен каалайм",
+      "أريد",
+      "je veux"
+    ],
+    "gelemem": [
+      "I can't come",
+      "я не могу прийти",
+      "келе албайм",
+      "لا أستطيع المجيء",
+      "je ne peux pas venir"
+    ],
+    "günü": [
+      "day; on the day",
+      "день; в день",
+      "күнү",
+      "يوم",
+      "le jour"
+    ],
+    "teyzem": [
+      "my aunt (mother's sister)",
+      "моя тётя",
+      "таежем",
+      "خالتي",
+      "ma tante maternelle"
+    ],
+    "dayım": [
+      "my uncle (mother's brother)",
+      "мой дядя",
+      "таякем",
+      "خالي",
+      "mon oncle maternel"
+    ],
+    "bize": [
+      "to us; to our place",
+      "к нам",
+      "бизге",
+      "إلينا",
+      "chez nous; à nous"
+    ],
+    "gelecek": [
+      "will come",
+      "придёт",
+      "келет",
+      "سيأتي",
+      "viendra"
+    ],
+    "seansları": [
+      "showtimes; sessions",
+      "сеансы",
+      "сеанстар",
+      "مواعيد العروض",
+      "les séances"
+    ],
+    "saatlerde": [
+      "at what times; at the hours",
+      "в часы",
+      "сааттарда",
+      "في الأوقات",
+      "aux heures"
+    ],
+    "afişte": [
+      "on the poster",
+      "на афише",
+      "афишада",
+      "على الملصق",
+      "sur l'affiche"
+    ],
+    "yazılı": [
+      "written",
+      "написано",
+      "жазылган",
+      "مكتوب",
+      "écrit"
+    ],
+    "değil": [
+      "not",
+      "не; нет",
+      "эмес",
+      "ليس",
+      "ne... pas"
+    ],
+    "internetten": [
+      "from the internet; online",
+      "в интернете",
+      "интернеттен",
+      "من الإنترنت",
+      "sur Internet"
+    ],
+    "bakalım": [
+      "let's look",
+      "давай посмотрим",
+      "карап көрөлү",
+      "لنرَ",
+      "regardons"
+    ],
+    "şimdi": [
+      "now",
+      "сейчас",
+      "азыр",
+      "الآن",
+      "maintenant"
+    ],
+    "bakıyorum": [
+      "I'm looking",
+      "я смотрю",
+      "карап жатам",
+      "أنظر الآن",
+      "je regarde"
+    ],
+    "filmler": [
+      "films",
+      "фильмы",
+      "тасмалар",
+      "أفلام",
+      "les films"
+    ],
+    "saat": [
+      "hour; time",
+      "час; время",
+      "саат",
+      "ساعة؛ وقت",
+      "heure"
+    ],
+    "11.00’de": [
+      "at 11:00",
+      "в 11:00",
+      "саат 11:00дө",
+      "الساعة 11:00",
+      "à 11 h"
+    ],
+    "13.00’te": [
+      "at 13:00",
+      "в 13:00",
+      "саат 13:00дө",
+      "الساعة 13:00",
+      "à 13 h"
+    ],
+    "17.00’de": [
+      "at 17:00",
+      "в 17:00",
+      "саат 17:00дө",
+      "الساعة 17:00",
+      "à 17 h"
+    ],
+    "o": [
+      "that; he; she",
+      "тот; он; она",
+      "ал; ошол",
+      "ذلك؛ هو؛ هي",
+      "ce; il; elle"
+    ],
+    "13.00’teki": [
+      "the one at 13:00",
+      "тот, что в 13:00",
+      "саат 13:00дөгү",
+      "الذي في الساعة 13:00",
+      "celui de 13 h"
+    ],
+    "seansı": [
+      "the screening; session",
+      "сеанс",
+      "сеансты",
+      "العرض",
+      "la séance"
+    ],
+    "seçelim": [
+      "let's choose",
+      "давай выберем",
+      "тандайлы",
+      "لنختر",
+      "choisissons"
+    ],
+    "biletleri": [
+      "the tickets",
+      "билеты",
+      "билеттерди",
+      "التذاكر",
+      "les billets"
+    ],
+    "nereden": [
+      "from where; where ... from",
+      "откуда; где",
+      "кайдан",
+      "من أين",
+      "d'où; où"
+    ],
+    "alacağız": [
+      "we will buy; take",
+      "мы купим; возьмём",
+      "сатып алабыз; алабыз",
+      "سنشتري؛ سنأخذ",
+      "nous achèterons; prendrons"
+    ],
+    "gişesinden": [
+      "from its ticket booth",
+      "из кассы",
+      "кассасынан",
+      "من شباك التذاكر",
+      "de son guichet"
+    ],
+    "tamam": [
+      "okay",
+      "хорошо",
+      "макул",
+      "حسنًا",
+      "d'accord"
+    ],
+    "olur": [
+      "okay; it works",
+      "ладно; получится",
+      "болот",
+      "حسنًا؛ يمكن",
+      "d'accord; ça marche"
+    ],
+    "hasan’ı": [
+      "Hasan (object form)",
+      "Хасана",
+      "Хасанды",
+      "حسن (مفعول به)",
+      "Hasan (COD)"
+    ],
+    "da": [
+      "also; too",
+      "тоже",
+      "да",
+      "أيضًا",
+      "aussi"
+    ],
+    "çağıralım": [
+      "let's invite; call",
+      "давай позовём",
+      "чакыралы",
+      "لندعُ",
+      "invitons; appelons"
+    ],
+    "sever": [
+      "likes; loves",
+      "любит",
+      "жакшы көрөт",
+      "يحب",
+      "aime"
+    ],
+    "hasan’a": [
+      "to Hasan",
+      "Хасану",
+      "Хасанга",
+      "إلى حسن",
+      "à Hasan"
+    ],
+    "telefon": [
+      "telephone; phone",
+      "телефон",
+      "телефон",
+      "هاتف",
+      "téléphone"
+    ],
+    "ediyorum": [
+      "I am doing",
+      "я делаю",
+      "кылып жатам",
+      "أفعل الآن",
+      "je fais"
+    ],
+    "alo": [
+      "hello (on the phone)",
+      "алло",
+      "алло",
+      "ألو",
+      "allô"
+    ],
+    "hasan": [
+      "Hasan (name)",
+      "Хасан",
+      "Хасан",
+      "حسن",
+      "Hasan"
+    ],
+    "haber": [
+      "news",
+      "новости",
+      "кабар",
+      "أخبار",
+      "nouvelles"
+    ],
+    "nasılsın": [
+      "how are you?",
+      "как дела?",
+      "кандайсың?",
+      "كيف حالك؟",
+      "comment vas-tu ?"
+    ],
+    "merhaba": [
+      "hello",
+      "привет; здравствуйте",
+      "салам",
+      "مرحبًا",
+      "bonjour"
+    ],
+    "iyiyim": [
+      "I'm fine",
+      "у меня всё хорошо",
+      "жакшымын",
+      "أنا بخير",
+      "je vais bien"
+    ],
+    "sen": [
+      "you (singular)",
+      "ты",
+      "сен",
+      "أنت",
+      "tu"
+    ],
+    "sağ": [
+      "healthy; right",
+      "здоровый; правый",
+      "соо; оң",
+      "سليم؛ يمين",
+      "sain; droit"
+    ],
+    "ol": [
+      "be (imperative)",
+      "будь",
+      "бол",
+      "كُن",
+      "sois"
+    ],
+    "yanımda": [
+      "beside me; with me",
+      "рядом со мной",
+      "жанымда",
+      "بجانبي",
+      "à côté de moi"
+    ],
+    "evdeyim": [
+      "I'm at home",
+      "я дома",
+      "мен үйдөмүн",
+      "أنا في البيت",
+      "je suis chez moi"
+    ],
+    "babama": [
+      "to my father",
+      "моему отцу",
+      "атама",
+      "لأبي",
+      "à mon père"
+    ],
+    "bahçede": [
+      "in the garden",
+      "в саду",
+      "бакчада",
+      "في الحديقة",
+      "dans le jardin"
+    ],
+    "yardım": [
+      "help",
+      "помощь",
+      "жардам",
+      "مساعدة",
+      "aide"
+    ],
+    "edeceğim": [
+      "I will do",
+      "я сделаю",
+      "кылам",
+      "سأفعل",
+      "je ferai"
+    ],
+    "biz": [
+      "we",
+      "мы",
+      "биз",
+      "نحن",
+      "nous"
+    ],
+    "yaptık": [
+      "we made; did",
+      "мы сделали",
+      "жасадык",
+      "فعلنا؛ صنعنا",
+      "nous avons fait"
+    ],
+    "öyle": [
+      "so; like that",
+      "так",
+      "ошондой",
+      "هكذا",
+      "comme ça"
+    ],
+    "nedir": [
+      "what is it?",
+      "что это?",
+      "бул эмне?",
+      "ما هو؟",
+      "qu'est-ce que c'est ?"
+    ],
+    "harbiye’de": [
+      "in Harbiye",
+      "в Харбие",
+      "Харбиеде",
+      "في حربية",
+      "à Harbiye"
+    ],
+    "gideceğiz": [
+      "we will go",
+      "мы пойдём",
+      "барабыз",
+      "سنذهب",
+      "nous irons"
+    ],
+    "gelmek": [
+      "to come",
+      "приходить",
+      "келүү",
+      "المجيء",
+      "venir"
+    ],
+    "ister": [
+      "wants",
+      "хочет",
+      "каалайт",
+      "يريد",
+      "veut"
+    ],
+    "misin": [
+      "question particle (you?)",
+      "вопросительная частица (ты?)",
+      "суроо бөлүкчөсү (сенби?)",
+      "أداة استفهام (أنت)",
+      "particule interrogative (tu ?)"
+    ],
+    "olabilir": [
+      "maybe; possible",
+      "возможно",
+      "болушу мүмкүн",
+      "ربما؛ ممكن",
+      "peut-être; possible"
+    ],
+    "peki": [
+      "well; okay",
+      "ну; ладно",
+      "макул; анда",
+      "حسنًا",
+      "bon; d'accord"
+    ],
+    "kaçta": [
+      "at what time?",
+      "во сколько?",
+      "саат канчада?",
+      "في أي ساعة؟",
+      "à quelle heure ?"
+    ],
+    "filme": [
+      "to the film",
+      "на фильм",
+      "тасмага",
+      "إلى الفيلم",
+      "au film"
+    ],
+    "bence": [
+      "in my opinion",
+      "по-моему",
+      "менимче",
+      "برأيي",
+      "à mon avis"
+    ],
+    "mutlaka": [
+      "definitely; certainly",
+      "обязательно",
+      "сөзсүз",
+      "بالتأكيد",
+      "absolument"
+    ],
+    "gel": [
+      "come (imperative)",
+      "приходи",
+      "кел",
+      "تعال",
+      "viens"
+    ],
+    "eğleneceğiz": [
+      "we will have fun",
+      "мы повеселимся",
+      "көңүл ачабыз",
+      "سنستمتع",
+      "nous nous amuserons"
+    ],
+    "tabii": [
+      "of course",
+      "конечно",
+      "албетте",
+      "طبعًا",
+      "bien sûr"
+    ],
+    "ama": [
+      "but",
+      "но",
+      "бирок",
+      "لكن",
+      "mais"
+    ],
+    "harbiye’ye": [
+      "to Harbiye",
+      "в Харбие",
+      "Харбиеге",
+      "إلى حربية",
+      "à Harbiye"
+    ],
+    "hiç": [
+      "never; ever",
+      "никогда; совсем",
+      "эч качан",
+      "أبدًا",
+      "jamais"
+    ],
+    "gitmedim": [
+      "I have not been; I didn't go",
+      "я не ходил",
+      "барган эмесмин",
+      "لم أذهب",
+      "je ne suis pas allé"
+    ],
+    "sorun": [
+      "problem",
+      "проблема",
+      "маселе",
+      "مشكلة",
+      "problème"
+    ],
+    "sana": [
+      "to you",
+      "тебе",
+      "сага",
+      "لك",
+      "à toi"
+    ],
+    "yolu": [
+      "the way; road",
+      "дорогу",
+      "жолду",
+      "الطريق",
+      "le chemin"
+    ],
+    "tarif": [
+      "description; directions",
+      "описание; объяснение пути",
+      "түшүндүрмө; жол көрсөтүү",
+      "وصف؛ إرشاد",
+      "description; indication"
+    ],
+    "ederiz": [
+      "we do; we will do",
+      "мы сделаем",
+      "кылабыз",
+      "نفعل",
+      "nous faisons"
+    ],
+    "görüşürüz": [
+      "see you",
+      "увидимся",
+      "көрүшөбүз",
+      "إلى اللقاء",
+      "à bientôt"
+    ],
+    "hoşça": [
+      "pleasantly (in farewell)",
+      "хорошо (в прощании)",
+      "жакшы (коштошууда)",
+      "بخير (في الوداع)",
+      "bien (dans l'adieu)"
+    ],
+    "kal": [
+      "stay",
+      "оставайся",
+      "кал",
+      "ابقَ",
+      "reste"
+    ],
+    "güle": [
+      "with a smile (farewell fragment)",
+      "с улыбкой (часть прощания)",
+      "күлүп (коштошуу бөлүгү)",
+      "بابتسامة (جزء من الوداع)",
+      "en souriant (dans l'adieu)"
+    ],
+    "görüşmek": [
+      "to meet; see each other",
+      "видеться",
+      "көрүшүү",
+      "اللقاء",
+      "se revoir"
+    ],
+    "üzere": [
+      "for; in order to (farewell phrase)",
+      "для; с целью",
+      "үчүн",
+      "من أجل",
+      "pour"
     ]
   },
   "phrases": {
@@ -1513,6 +2423,10 @@
         "افتح الصفحة الثانية والثلاثين من الكتاب.",
         "Ouvre la trente-deuxième page du livre."
       ]
+    },
+    "33": {
+      "tr": "Kitabın otuz üçüncü sayfasını aç.",
+      "values": []
     },
     "ünite": {
       "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
@@ -2653,6 +3567,522 @@
         "شاهدنا فيلمًا مساء أمس.",
         "Nous avons regardé un film hier soir."
       ]
+    },
+    "metni": {
+      "tr": "Metni dikkatle okuyun.",
+      "values": []
+    },
+    "sorulara": {
+      "tr": "Sorulara cevap verin.",
+      "values": []
+    },
+    "cevap": {
+      "tr": "Bu sorunun cevabını biliyorum.",
+      "values": []
+    },
+    "verin": {
+      "tr": "Lütfen cevap verin.",
+      "values": []
+    },
+    "s.014": {
+      "tr": "S.014 numaralı kaydı dinleyin.",
+      "values": []
+    },
+    "sinemaya": {
+      "tr": "Akşam sinemaya gideceğiz.",
+      "values": []
+    },
+    "gidelim": {
+      "tr": "Birlikte gidelim.",
+      "values": []
+    },
+    "mi": {
+      "tr": "Bugün hava güzel mi?",
+      "values": []
+    },
+    "aycan": {
+      "tr": "Aycan bugün bize gelecek.",
+      "values": []
+    },
+    "arkadaşlar": {
+      "tr": "Arkadaşlar, buraya gelin.",
+      "values": []
+    },
+    "bakın": {
+      "tr": "Bakın, otobüs geliyor.",
+      "values": []
+    },
+    "burada": {
+      "tr": "Burada bekleyelim.",
+      "values": []
+    },
+    "afişi": {
+      "tr": "Festivalin afişi çok güzel.",
+      "values": []
+    },
+    "emre": {
+      "tr": "Emre bugün sinemaya gitti.",
+      "values": []
+    },
+    "harbiye": {
+      "tr": "Harbiye İstanbul'dadır.",
+      "values": []
+    },
+    "açık": {
+      "tr": "Açık havada yürüyelim.",
+      "values": []
+    },
+    "hava": {
+      "tr": "Bugün hava çok güzel.",
+      "values": []
+    },
+    "sahnesi’nde": {
+      "tr": "Konser açık hava sahnesinde olacak.",
+      "values": []
+    },
+    "zaman": {
+      "tr": "Ne zaman geleceksin?",
+      "values": []
+    },
+    "günleri": {
+      "tr": "Hafta sonu günleri dinlenirim.",
+      "values": []
+    },
+    "teklifi": {
+      "tr": "Teklifi kabul ettim.",
+      "values": []
+    },
+    "evet": {
+      "tr": "Evet, ben de geliyorum.",
+      "values": []
+    },
+    "etti": {
+      "tr": "Bana yardım etti.",
+      "values": []
+    },
+    "murat": {
+      "tr": "Murat arkadaşını aradı.",
+      "values": []
+    },
+    "dersiniz": {
+      "tr": "Bu plana ne dersiniz?",
+      "values": []
+    },
+    "festivale": {
+      "tr": "Festivale birlikte gidelim.",
+      "values": []
+    },
+    "planınız": {
+      "tr": "Hafta sonu planınız var mı?",
+      "values": []
+    },
+    "mı": {
+      "tr": "Bir planınız var mı?",
+      "values": []
+    },
+    "benim": {
+      "tr": "Benim bir biletim var.",
+      "values": []
+    },
+    "planım": {
+      "tr": "Planım yarın müzeye gitmek.",
+      "values": []
+    },
+    "yok": {
+      "tr": "Bugün dersim yok.",
+      "values": []
+    },
+    "ben": {
+      "tr": "Ben bugün evdeyim.",
+      "values": []
+    },
+    "gelirim": {
+      "tr": "Yarın size gelirim.",
+      "values": []
+    },
+    "çünkü": {
+      "tr": "Gelemiyorum çünkü hastayım.",
+      "values": []
+    },
+    "sinemada": {
+      "tr": "Sinemada arkadaşımı gördüm.",
+      "values": []
+    },
+    "izlemeyi": {
+      "tr": "Film izlemeyi severim.",
+      "values": []
+    },
+    "çok": {
+      "tr": "Bu filmi çok sevdim.",
+      "values": []
+    },
+    "severim": {
+      "tr": "Komedi filmlerini severim.",
+      "values": []
+    },
+    "elif": {
+      "tr": "Elif kitap okuyor.",
+      "values": []
+    },
+    "iyi": {
+      "tr": "İyi bir fikir.",
+      "values": []
+    },
+    "fikir": {
+      "tr": "Bu güzel bir fikir.",
+      "values": []
+    },
+    "de": {
+      "tr": "Ben de geliyorum.",
+      "values": []
+    },
+    "sahnesi’ni": {
+      "tr": "Açık hava sahnesini gördüm.",
+      "values": []
+    },
+    "istiyorum": {
+      "tr": "Bir bilet istiyorum.",
+      "values": []
+    },
+    "gelemem": {
+      "tr": "Üzgünüm, bugün gelemem.",
+      "values": []
+    },
+    "günü": {
+      "tr": "Cumartesi günü görüşelim.",
+      "values": []
+    },
+    "teyzem": {
+      "tr": "Teyzem yarın gelecek.",
+      "values": []
+    },
+    "dayım": {
+      "tr": "Dayım bize uğradı.",
+      "values": []
+    },
+    "bize": {
+      "tr": "Akşam bize gelin.",
+      "values": []
+    },
+    "gelecek": {
+      "tr": "Babam akşam gelecek.",
+      "values": []
+    },
+    "seansları": {
+      "tr": "Film seansları internette yazıyor.",
+      "values": []
+    },
+    "saatlerde": {
+      "tr": "Hangi saatlerde boşsun?",
+      "values": []
+    },
+    "afişte": {
+      "tr": "Saatler afişte yazıyor.",
+      "values": []
+    },
+    "yazılı": {
+      "tr": "Adres burada yazılı.",
+      "values": []
+    },
+    "değil": {
+      "tr": "Bu benim biletim değil.",
+      "values": []
+    },
+    "internetten": {
+      "tr": "Biletleri internetten aldım.",
+      "values": []
+    },
+    "bakalım": {
+      "tr": "Saatlere bakalım.",
+      "values": []
+    },
+    "şimdi": {
+      "tr": "Şimdi çıkıyorum.",
+      "values": []
+    },
+    "bakıyorum": {
+      "tr": "Bilet fiyatlarına bakıyorum.",
+      "values": []
+    },
+    "filmler": {
+      "tr": "Bu hafta güzel filmler var.",
+      "values": []
+    },
+    "saat": {
+      "tr": "Saat kaç?",
+      "values": []
+    },
+    "11.00’de": {
+      "tr": "Film saat 11.00'de başlıyor.",
+      "values": []
+    },
+    "13.00’te": {
+      "tr": "Saat 13.00'te buluşalım.",
+      "values": []
+    },
+    "17.00’de": {
+      "tr": "Konser 17.00'de başlıyor.",
+      "values": []
+    },
+    "o": {
+      "tr": "O film çok güzel.",
+      "values": []
+    },
+    "13.00’teki": {
+      "tr": "13.00'teki seansa gidelim.",
+      "values": []
+    },
+    "seansı": {
+      "tr": "İkinci seansı seçelim.",
+      "values": []
+    },
+    "seçelim": {
+      "tr": "Bu filmi seçelim.",
+      "values": []
+    },
+    "biletleri": {
+      "tr": "Biletleri ben alacağım.",
+      "values": []
+    },
+    "nereden": {
+      "tr": "Biletleri nereden alacağız?",
+      "values": []
+    },
+    "alacağız": {
+      "tr": "Biletleri gişeden alacağız.",
+      "values": []
+    },
+    "gişesinden": {
+      "tr": "Sinema gişesinden bilet aldım.",
+      "values": []
+    },
+    "tamam": {
+      "tr": "Tamam, görüşürüz.",
+      "values": []
+    },
+    "olur": {
+      "tr": "Olur, ben de gelirim.",
+      "values": []
+    },
+    "hasan’ı": {
+      "tr": "Hasan'ı arayalım.",
+      "values": []
+    },
+    "da": {
+      "tr": "O da bizimle gelsin.",
+      "values": []
+    },
+    "çağıralım": {
+      "tr": "Hasan'ı da çağıralım.",
+      "values": []
+    },
+    "sever": {
+      "tr": "Hasan film izlemeyi sever.",
+      "values": []
+    },
+    "hasan’a": {
+      "tr": "Hasan'a mesaj attım.",
+      "values": []
+    },
+    "telefon": {
+      "tr": "Telefon çalıyor.",
+      "values": []
+    },
+    "ediyorum": {
+      "tr": "Hasan'a telefon ediyorum.",
+      "values": []
+    },
+    "alo": {
+      "tr": "Alo, beni duyuyor musun?",
+      "values": []
+    },
+    "hasan": {
+      "tr": "Hasan bugün geliyor.",
+      "values": []
+    },
+    "haber": {
+      "tr": "Ne haber?",
+      "values": []
+    },
+    "nasılsın": {
+      "tr": "Nasılsın, iyi misin?",
+      "values": []
+    },
+    "merhaba": {
+      "tr": "Merhaba, hoş geldin.",
+      "values": []
+    },
+    "iyiyim": {
+      "tr": "Teşekkürler, iyiyim.",
+      "values": []
+    },
+    "sen": {
+      "tr": "Sen de geliyor musun?",
+      "values": []
+    },
+    "sağ": {
+      "tr": "Sağ ol, çok naziksin.",
+      "values": []
+    },
+    "ol": {
+      "tr": "Sağ ol, teşekkür ederim.",
+      "values": []
+    },
+    "yanımda": {
+      "tr": "Arkadaşım yanımda.",
+      "values": []
+    },
+    "evdeyim": {
+      "tr": "Bugün evdeyim.",
+      "values": []
+    },
+    "babama": {
+      "tr": "Babama yardım edeceğim.",
+      "values": []
+    },
+    "bahçede": {
+      "tr": "Bahçede çalışıyoruz.",
+      "values": []
+    },
+    "yardım": {
+      "tr": "Yardıma ihtiyacım var.",
+      "values": []
+    },
+    "edeceğim": {
+      "tr": "Sana yardım edeceğim.",
+      "values": []
+    },
+    "biz": {
+      "tr": "Biz birlikte gideceğiz.",
+      "values": []
+    },
+    "yaptık": {
+      "tr": "Bir plan yaptık.",
+      "values": []
+    },
+    "öyle": {
+      "tr": "Öyle mi, gerçekten?",
+      "values": []
+    },
+    "nedir": {
+      "tr": "Planın nedir?",
+      "values": []
+    },
+    "harbiye’de": {
+      "tr": "Harbiye'de buluşalım.",
+      "values": []
+    },
+    "gideceğiz": {
+      "tr": "Cumartesi sinemaya gideceğiz.",
+      "values": []
+    },
+    "gelmek": {
+      "tr": "Ben de gelmek istiyorum.",
+      "values": []
+    },
+    "ister": {
+      "tr": "O da gelmek ister.",
+      "values": []
+    },
+    "misin": {
+      "tr": "Bizimle gelir misin?",
+      "values": []
+    },
+    "olabilir": {
+      "tr": "Olabilir, ben de gelebilirim.",
+      "values": []
+    },
+    "peki": {
+      "tr": "Peki, saat kaçta?",
+      "values": []
+    },
+    "kaçta": {
+      "tr": "Film kaçta başlıyor?",
+      "values": []
+    },
+    "filme": {
+      "tr": "Akşam filme gidelim.",
+      "values": []
+    },
+    "bence": {
+      "tr": "Bence bu film güzel.",
+      "values": []
+    },
+    "mutlaka": {
+      "tr": "Mutlaka gel.",
+      "values": []
+    },
+    "gel": {
+      "tr": "Yarın bize gel.",
+      "values": []
+    },
+    "eğleneceğiz": {
+      "tr": "Birlikte çok eğleneceğiz.",
+      "values": []
+    },
+    "tabii": {
+      "tr": "Tabii, gelebilirsin.",
+      "values": []
+    },
+    "ama": {
+      "tr": "Gelmek isterim ama işim var.",
+      "values": []
+    },
+    "harbiye’ye": {
+      "tr": "Harbiye'ye otobüsle gittim.",
+      "values": []
+    },
+    "hiç": {
+      "tr": "Buraya hiç gelmedim.",
+      "values": []
+    },
+    "gitmedim": {
+      "tr": "Oraya hiç gitmedim.",
+      "values": []
+    },
+    "sorun": {
+      "tr": "Sorun değil, yardım ederim.",
+      "values": []
+    },
+    "sana": {
+      "tr": "Sana yolu göstereyim.",
+      "values": []
+    },
+    "yolu": {
+      "tr": "Yolu tarif edeyim.",
+      "values": []
+    },
+    "tarif": {
+      "tr": "Yolu tarif eder misin?",
+      "values": []
+    },
+    "ederiz": {
+      "tr": "Sana yardım ederiz.",
+      "values": []
+    },
+    "görüşürüz": {
+      "tr": "Yarın görüşürüz.",
+      "values": []
+    },
+    "hoşça": {
+      "tr": "Hoşça kal.",
+      "values": []
+    },
+    "kal": {
+      "tr": "Evde kal.",
+      "values": []
+    },
+    "güle": {
+      "tr": "Güle güle!",
+      "values": []
+    },
+    "görüşmek": {
+      "tr": "Yarın görüşmek üzere.",
+      "values": []
+    },
+    "üzere": {
+      "tr": "Görüşmek üzere!",
+      "values": []
     }
   },
   "forms": {
