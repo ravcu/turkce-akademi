@@ -63,7 +63,7 @@
 .quiz-meta{margin-top:12px}
 .quiz-next,.quiz-check{min-height:38px}
 @media(max-width:520px){.study-card{padding:12px}.quiz-option{min-height:40px;padding:8px;font-size:11px}}
-</style></head>
+</style><style>.page-export-actions{display:flex;justify-content:center;margin:10px 0}.page-export-actions button{background:#e8f5ef;color:#075d61;border:1px solid #a4d3c8;border-radius:10px;padding:10px 14px;font:inherit;font-size:12px;font-weight:750;cursor:pointer}.page-export-actions button:hover{background:#d7efe6}</style></head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
@@ -83,6 +83,7 @@
         </div>
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
         <audio id="audioPlayer" preload="none"></audio>
+        <div class="page-export-actions"><button id="exportPageWords" type="button">📄 Bu sayfanın kelimelerini PDF olarak kaydet</button></div>
         <div id="thumbrail" class="thumbrail" aria-label="Sayfa seçimi"></div>
 
       </section>
@@ -141,6 +142,31 @@
       overlay.querySelectorAll('.answer-fill').forEach(answer=>{let size=parseFloat(getComputedStyle(answer).fontSize);while(answer.scrollWidth>answer.clientWidth+1&&size>5){size=Math.max(5,size-.5);answer.style.fontSize=`${size}px`}});
     }
     $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları gizle':'Cevabı gör';renderAnswerOverlay()});
+
+    function exportCurrentPageWords(){
+      const page=pages[current];if(!page)return;
+      const index=LANGS.findIndex(x=>x[0]===targetLang),language=LANGS[index]?.[2]||'English';
+      const rows=[],seen=new Set();
+      for(let i=0;i<page.words.length;i++){
+        const w=page.words[i],word=cleanLeadingDashes(w.t||''),key=normalize(word);
+        if(!key||!/[a-zA-ZçğıöşüÇĞİÖŞÜ]/.test(key))continue;
+        const phrase=phraseAt(i,page.words),phraseKey=phrase?.key||key;
+        if(seen.has(phraseKey))continue;
+        const form=glossary.forms?.[phraseKey],translations=phrase?glossary.phrases?.[phraseKey]?.translations:form?.formTranslations||glossary.words[phraseKey];
+        let meaning=translations?.[index];
+        if(/^\d+$/.test(phraseKey)&&targetLang==='en')meaning=numberToEnglish(Number(phraseKey));
+        if(!meaning||normalize(meaning)===phraseKey)continue;
+        seen.add(phraseKey);
+        rows.push([phrase?cleanLeadingDashes(phrase.text):word,meaning]);
+      }
+      if(!rows.length){showToast('Bu sayfa için doğrulanmış kelime karşılıkları bulunamadı.');return}
+      const popup=window.open('','_blank');
+      if(!popup){showToast('PDF için açılır pencereye izin verin.');return}
+      const safe=escapeHtml;
+      const html='<!doctype html><html lang="'+targetLang+'"><head><meta charset="utf-8"><title>Tanışalım - Sayfa '+safe(page.bookPage)+' - '+safe(language)+'</title><style>@page{size:A4;margin:16mm}body{font:12px Arial,"Noto Sans",sans-serif;color:#17343b}h1{font-size:19px;margin:0 0 6px}p{color:#52646a;margin:0 0 18px}table{width:100%;border-collapse:collapse}th,td{padding:8px 10px;border-bottom:1px solid #dbe6e1;text-align:left;vertical-align:top;overflow-wrap:anywhere}th{background:#e8f5ef}tr{break-inside:avoid}td[dir=rtl]{text-align:right;font-size:14px}.hint{font-size:11px;margin-top:16px}@media print{.hint{display:none}}</style></head><body><h1>Türkçe Akademi · Tanışalım</h1><p>Kitap sayfası: '+safe(page.bookPage)+' · Türkçe — '+safe(language)+'</p><table><thead><tr><th>Türkçe</th><th>'+safe(language)+'</th></tr></thead><tbody>'+rows.map(r=>'<tr><td lang="tr">'+safe(r[0])+'</td><td lang="'+targetLang+'"'+(targetLang==='ar'?' dir="rtl"':'')+'>'+safe(r[1])+'</td></tr>').join('')+'</tbody></table><p class="hint">PDF olarak kaydetmek için yazdırma penceresinde “PDF olarak kaydet” seçeneğini kullanın.</p></body></html>';
+      popup.document.open();popup.document.write(html);popup.document.close();popup.focus();setTimeout(()=>popup.print(),350);
+    }
+    $('#exportPageWords').addEventListener('click',exportCurrentPageWords);
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
     function phraseAt(index,words){
       const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(' ').length-a.split(' ').length);
