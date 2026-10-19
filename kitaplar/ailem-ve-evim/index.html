@@ -161,8 +161,8 @@
         if(!Number.isFinite(x)||!Number.isFinite(y)||!Number.isFinite(w)||w<=0)return;
         const offsets=[[0,0],[0,.008],[0,-.008],[.008,0],[-.008,0],[0,.016],[0,-.016],[.015,.008],[-.015,.008]];
         const position=offsets.map(([dx,dy])=>[x+dx,y+dy]).find(([px,py])=>px>=0&&py>=0&&px+w<=1&&py+h<=1&&!collides(px,py,w,h));
-        if(!position&&current!==1)return; // Avoid covering printed text on other pages.
-        const finalPosition=position||[x,y];
+        if(!position&&current!==1&&!fill.precise)return; // Avoid covering printed text on other pages.
+        const finalPosition=fill.precise?[x,y]:(position||[x,y]);
         answer.style.left=(finalPosition[0]*100)+'%';
         answer.style.top=(finalPosition[1]*100)+'%';
         answer.style.width=(w*100)+'%';
