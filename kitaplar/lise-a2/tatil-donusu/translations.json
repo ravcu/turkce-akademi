@@ -11493,6 +11493,34 @@
       "сиз тарта аласыз",
       "يمكنكم تصوير",
       "vous pouvez filmer / prendre"
+    ],
+    "isterdiniz": [
+      "would you like / would you want",
+      "хотели бы вы",
+      "каалайт белеңиздер",
+      "هل كنتم تودون",
+      "voudriez-vous"
+    ],
+    "camisi": [
+      "his/her/its mosque; the mosque (in a name)",
+      "его/её мечеть; мечеть (в названии)",
+      "анын мечити; мечит (аталышта)",
+      "مسجده/مسجدها؛ الجامع في اسم علم",
+      "sa mosquée ; mosquée (dans un nom propre)"
+    ],
+    "arkadaşlarınıza": [
+      "to your friends",
+      "вашим друзьям",
+      "досторуңарга",
+      "إلى أصدقائكم",
+      "à vos amis"
+    ],
+    "yaşadığını": [
+      "that he/she lives / has lived",
+      "что он/она живёт / жил(а)",
+      "анын жашаганын",
+      "أنه يعيش / عاش",
+      "qu'il/elle vit / a vécu"
     ]
   },
   "phrases": {
@@ -24608,6 +24636,46 @@
         "Кайсы китепти окугуң келет?",
         "أي كتاب تريد أن تقرأ؟",
         "Quel livre veux-tu lire ?"
+      ]
+    },
+    "isterdiniz": {
+      "tr": "Hangi şehri gezmek isterdiniz?",
+      "values": [
+        "Which city would you like to visit?",
+        "Какой город вы хотели бы посетить?",
+        "Кайсы шаарды кыдыргыңыз келет эле?",
+        "أي مدينة تودون زيارتها؟",
+        "Quelle ville voudriez-vous visiter ?"
+      ]
+    },
+    "camisi": {
+      "tr": "Selimiye Camisi Edirne'dedir.",
+      "values": [
+        "The Selimiye Mosque is in Edirne.",
+        "Мечеть Селимие находится в Эдирне.",
+        "Селимие мечити Эдирнеде.",
+        "يقع جامع السليمية في أدرنة.",
+        "La mosquée Selimiye se trouve à Edirne."
+      ]
+    },
+    "arkadaşlarınıza": {
+      "tr": "Projenizi arkadaşlarınıza sunun.",
+      "values": [
+        "Present your project to your friends.",
+        "Представьте свой проект друзьям.",
+        "Долбооруңарды досторуңарга көрсөткүлө.",
+        "قدموا مشروعكم لأصدقائكم.",
+        "Présentez votre projet à vos amis."
+      ]
+    },
+    "yaşadığını": {
+      "tr": "Onun burada yaşadığını biliyorum.",
+      "values": [
+        "I know that he lives here.",
+        "Я знаю, что он здесь живёт.",
+        "Анын бул жерде жашаганын билем.",
+        "أعرف أنه يعيش هنا.",
+        "Je sais qu'il habite ici."
       ]
     }
   },
