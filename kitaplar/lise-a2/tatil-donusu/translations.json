@@ -25294,6 +25294,316 @@
         "ضعوا جدول حصصكم في حقائبكم.",
         "Mettez votre emploi du temps dans votre sac."
       ]
+    },
+    "zamirleri": {
+      "tr": "Bugün kişi zamirlerini öğrendik.",
+      "values": [
+        "We learned personal pronouns today.",
+        "Сегодня мы изучили личные местоимения.",
+        "Бүгүн жактама ат атоочторду үйрөндүк.",
+        "تعلمنا ضمائر الشخص اليوم.",
+        "Aujourd'hui, nous avons appris les pronoms personnels."
+      ]
+    },
+    "sıra": {
+      "tr": "Şimdi sıra sende.",
+      "values": [
+        "Now it's your turn.",
+        "Теперь твоя очередь.",
+        "Эми кезек сенде.",
+        "الآن جاء دورك.",
+        "C'est ton tour maintenant."
+      ]
+    },
+    "sayı": {
+      "tr": "Tahtaya bir sayı yaz.",
+      "values": [
+        "Write a number on the board.",
+        "Напиши число на доске.",
+        "Тактага бир сан жаз.",
+        "اكتب رقمًا على السبورة.",
+        "Écris un nombre au tableau."
+      ]
+    },
+    "sıfatları": {
+      "tr": "Bu derste sayı sıfatlarını öğreniyoruz.",
+      "values": [
+        "We are learning numeral adjectives in this lesson.",
+        "На этом уроке мы изучаем числительные прилагательные.",
+        "Бул сабакта сан атоочторду үйрөнүп жатабыз.",
+        "نتعلم الصفات العددية في هذا الدرس.",
+        "Dans ce cours, nous apprenons les adjectifs numéraux."
+      ]
+    },
+    "eşlik": {
+      "tr": "Arkadaşım bana eşlik etti.",
+      "values": [
+        "My friend accompanied me.",
+        "Мой друг составил мне компанию.",
+        "Досум мени коштоп жүрдү.",
+        "رافقني صديقي.",
+        "Mon ami m'a accompagné."
+      ]
+    },
+    "şermin’in": {
+      "tr": "Şermin'in çantası masada.",
+      "values": [
+        "Şermin's bag is on the table.",
+        "Сумка Шермин лежит на столе.",
+        "Шерминдин сумкасы столдун үстүндө.",
+        "حقيبة شرمين على الطاولة.",
+        "Le sac de Şermin est sur la table."
+      ]
+    },
+    "alfabesi": {
+      "tr": "Türk alfabesinde 29 harf var.",
+      "values": [
+        "There are 29 letters in the Turkish alphabet.",
+        "В турецком алфавите 29 букв.",
+        "Түрк алфавитинде 29 тамга бар.",
+        "توجد 29 حرفًا في الأبجدية التركية.",
+        "L'alphabet turc compte 29 lettres."
+      ]
+    },
+    "oku": {
+      "tr": "Lütfen bu metni sesli oku.",
+      "values": [
+        "Please read this text aloud.",
+        "Пожалуйста, прочитай этот текст вслух.",
+        "Сураныч, бул текстти үн чыгарып оку.",
+        "اقرأ هذا النص بصوت عالٍ من فضلك.",
+        "Lis ce texte à voix haute, s'il te plaît."
+      ]
+    },
+    "yavrum": {
+      "tr": "Üşüdün mü yavrum?",
+      "values": [
+        "Are you cold, my dear?",
+        "Ты замёрз, дорогой?",
+        "Үшүп калдыңбы, балам?",
+        "هل تشعر بالبرد يا صغيري؟",
+        "Tu as froid, mon enfant ?"
+      ]
+    },
+    "işte": {
+      "tr": "İşte aradığın kitap burada.",
+      "values": [
+        "Here is the book you were looking for.",
+        "Вот книга, которую ты искал.",
+        "Мына сен издеген китеп.",
+        "ها هو الكتاب الذي كنت تبحث عنه.",
+        "Voici le livre que tu cherchais."
+      ]
+    },
+    "hemen": {
+      "tr": "Hemen geliyorum, bekle.",
+      "values": [
+        "I'm coming right away, wait.",
+        "Я сейчас приду, подожди.",
+        "Азыр эле келем, күтө тур.",
+        "سآتي حالًا، انتظر.",
+        "J'arrive tout de suite, attends."
+      ]
+    },
+    "sor": {
+      "tr": "Anlamadığın kelimeyi öğretmene sor.",
+      "values": [
+        "Ask the teacher about the word you don't understand.",
+        "Спроси учителя о слове, которое не понимаешь.",
+        "Түшүнбөгөн сөзүңдү мугалимден сура.",
+        "اسأل المعلم عن الكلمة التي لا تفهمها.",
+        "Demande au professeur le sens du mot que tu ne comprends pas."
+      ]
+    },
+    "istediğini": {
+      "tr": "Ne istediğini açıkça söyle.",
+      "values": [
+        "Say clearly what you want.",
+        "Скажи ясно, чего ты хочешь.",
+        "Эмне каалаганыңды ачык айт.",
+        "قل بوضوح ما تريده.",
+        "Dis clairement ce que tu veux."
+      ]
+    },
+    "harfler": {
+      "tr": "Bu kelimede beş harf var.",
+      "values": [
+        "There are five letters in this word.",
+        "В этом слове пять букв.",
+        "Бул сөздө беш тамга бар.",
+        "في هذه الكلمة خمسة أحرف.",
+        "Il y a cinq lettres dans ce mot."
+      ]
+    },
+    "yumuşak": {
+      "tr": "Bu yastık çok yumuşak.",
+      "values": [
+        "This pillow is very soft.",
+        "Эта подушка очень мягкая.",
+        "Бул жаздык абдан жумшак.",
+        "هذه الوسادة ناعمة جدًا.",
+        "Cet oreiller est très doux."
+      ]
+    },
+    "sonunda": {
+      "tr": "Filmin sonunda herkes alkışladı.",
+      "values": [
+        "Everyone applauded at the end of the film.",
+        "В конце фильма все аплодировали.",
+        "Тасманын аягында баары кол чабышты.",
+        "صفق الجميع في نهاية الفيلم.",
+        "Tout le monde a applaudi à la fin du film."
+      ]
+    },
+    "değil": {
+      "tr": "Bu benim kalemim değil.",
+      "values": [
+        "This is not my pen.",
+        "Это не моя ручка.",
+        "Бул менин калемим эмес.",
+        "هذا ليس قلمي.",
+        "Ce n'est pas mon stylo."
+      ]
+    },
+    "anne": {
+      "tr": "Annem bugün evde yemek yapıyor.",
+      "values": [
+        "My mother is cooking at home today.",
+        "Сегодня моя мама готовит дома.",
+        "Апам бүгүн үйдө тамак жасап жатат.",
+        "أمي تطبخ في المنزل اليوم.",
+        "Ma mère cuisine à la maison aujourd'hui."
+      ]
+    },
+    "artık": {
+      "tr": "Artık Türkçe konuşabiliyorum.",
+      "values": [
+        "I can speak Turkish now.",
+        "Теперь я умею говорить по-турецки.",
+        "Эми түркчө сүйлөй алам.",
+        "أستطيع الآن التحدث بالتركية.",
+        "Maintenant, je peux parler turc."
+      ]
+    },
+    "bana": {
+      "tr": "Lütfen bana yardım et.",
+      "values": [
+        "Please help me.",
+        "Пожалуйста, помоги мне.",
+        "Сураныч, мага жардам бер.",
+        "ساعدني من فضلك.",
+        "Aide-moi, s'il te plaît."
+      ]
+    },
+    "ünlüdür": {
+      "tr": "Bu şehir tarihi yapılarıyla ünlüdür.",
+      "values": [
+        "This city is famous for its historic buildings.",
+        "Этот город знаменит своими историческими зданиями.",
+        "Бул шаар тарыхый имараттары менен белгилүү.",
+        "تشتهر هذه المدينة بمبانيها التاريخية.",
+        "Cette ville est célèbre pour ses bâtiments historiques."
+      ]
+    },
+    "oyna": {
+      "tr": "Hadi bahçede oyun oyna.",
+      "values": [
+        "Go play in the garden.",
+        "Иди поиграй во дворе.",
+        "Бар, короодо ойно.",
+        "اذهب والعب في الحديقة.",
+        "Va jouer dans le jardin."
+      ]
+    },
+    "koca": {
+      "tr": "Bahçede koca bir ağaç var.",
+      "values": [
+        "There is a huge tree in the garden.",
+        "Во дворе растёт огромное дерево.",
+        "Короодо чоң дарак бар.",
+        "توجد شجرة ضخمة في الحديقة.",
+        "Il y a un arbre immense dans le jardin."
+      ]
+    },
+    "kalanlar": {
+      "tr": "Kalanlar sınıfta beklesin.",
+      "values": [
+        "The others should wait in the classroom.",
+        "Остальные пусть подождут в классе.",
+        "Калгандары класста күтүшсүн.",
+        "ليَنتظر الباقون في الصف.",
+        "Que les autres attendent dans la salle de classe."
+      ]
+    },
+    "ünsüzdür": {
+      "tr": "B harfi bir ünsüzdür.",
+      "values": [
+        "The letter B is a consonant.",
+        "Буква B — согласная.",
+        "B тамгасы үнсүз тамга.",
+        "الحرف B حرف ساكن.",
+        "La lettre B est une consonne."
+      ]
+    },
+    "ince": {
+      "tr": "Bu kitap çok ince.",
+      "values": [
+        "This book is very thin.",
+        "Эта книга очень тонкая.",
+        "Бул китеп абдан жука.",
+        "هذا الكتاب رقيق جدًا.",
+        "Ce livre est très mince."
+      ]
+    },
+    "düz": {
+      "tr": "Bu yol uzun ve düz.",
+      "values": [
+        "This road is long and straight.",
+        "Эта дорога длинная и прямая.",
+        "Бул жол узун жана түз.",
+        "هذا الطريق طويل ومستقيم.",
+        "Cette route est longue et droite."
+      ]
+    },
+    "yuvarlak": {
+      "tr": "Masamız yuvarlak.",
+      "values": [
+        "Our table is round.",
+        "Наш стол круглый.",
+        "Үстөлүбүз тегерек.",
+        "طاولتنا مستديرة.",
+        "Notre table est ronde."
+      ]
+    },
+    "ünsüzleri": {
+      "tr": "Türkçedeki ünsüzleri tekrar ettik.",
+      "values": [
+        "We reviewed the consonants in Turkish.",
+        "Мы повторили согласные турецкого языка.",
+        "Түрк тилиндеги үнсүздөрдү кайталадык.",
+        "راجعنا الحروف الساكنة في اللغة التركية.",
+        "Nous avons révisé les consonnes du turc."
+      ]
+    },
+    "sorarsan": {
+      "tr": "Bana sorarsan bu film çok güzel.",
+      "values": [
+        "If you ask me, this film is very good.",
+        "По-моему, этот фильм очень хороший.",
+        "Менден сурасаң, бул тасма абдан жакшы.",
+        "إذا سألتني، فهذا الفيلم جميل جدًا.",
+        "Si tu veux mon avis, ce film est très bien."
+      ]
+    },
+    "sert": {
+      "tr": "Bu ekmek biraz sert.",
+      "values": [
+        "This bread is a little hard.",
+        "Этот хлеб немного твёрдый.",
+        "Бул нан бир аз катуу.",
+        "هذا الخبز قاسٍ قليلًا.",
+        "Ce pain est un peu dur."
+      ]
     }
   },
   "forms": {
