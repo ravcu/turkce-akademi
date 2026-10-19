@@ -112,8 +112,8 @@
     function playAudio(code){const file=audioMap[code];if(!file){showToast(`${code} ses dosyası henüz eklenmedi.`);return}const player=$('#audioPlayer');player.pause();player.currentTime=0;player.src=`audio/${encodeURIComponent(file)}`;player.onerror=()=>showToast(`${code} ses dosyası yüklenemedi.`);player.play().catch(()=>{})}
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
-      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
-      if(!data)return;
+      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=false;content.replaceChildren();renderAnswerOverlay();
+      if(!data){const note=document.createElement('p');note.className='answer-note';note.textContent='Bu sayfanın cevap anahtarı henüz eklenmedi.';content.append(note);return;}
       if(data.note){const note=document.createElement('p');note.className='answer-note';note.textContent=data.note;content.append(note)}
       (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
     }
