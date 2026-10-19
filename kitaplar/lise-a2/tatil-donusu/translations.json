@@ -22360,6 +22360,216 @@
         "الأطباق المحلية لذيذة جدًا.",
         "Les plats d'ici sont délicieux."
       ]
+    },
+    "video": {
+      "tr": "Bu video beş dakika sürüyor.",
+      "values": [
+        "This video lasts five minutes.",
+        "Это видео длится пять минут.",
+        "Бул видео беш мүнөткө созулат.",
+        "مدة هذا الفيديو خمس دقائق.",
+        "Cette vidéo dure cinq minutes."
+      ]
+    },
+    "hakkındadır": {
+      "tr": "Bu belgesel doğa hakkındadır.",
+      "values": [
+        "This documentary is about nature.",
+        "Этот документальный фильм о природе.",
+        "Бул даректүү тасма жаратылыш жөнүндө.",
+        "هذا الفيلم الوثائقي عن الطبيعة.",
+        "Ce documentaire parle de la nature."
+      ]
+    },
+    "seyahat": {
+      "tr": "Seyahat etmeyi çok seviyorum.",
+      "values": [
+        "I really love traveling.",
+        "Я очень люблю путешествовать.",
+        "Мен саякаттоону абдан жакшы көрөм.",
+        "أحب السفر كثيرًا.",
+        "J'aime beaucoup voyager."
+      ]
+    },
+    "videoyu": {
+      "tr": "Videoyu tekrar izleyin.",
+      "values": [
+        "Watch the video again.",
+        "Посмотрите видео ещё раз.",
+        "Видеону кайра көргүлө.",
+        "شاهدوا الفيديو مرة أخرى.",
+        "Regardez de nouveau la vidéo."
+      ]
+    },
+    "videodaki": {
+      "tr": "Videodaki kişi kim?",
+      "values": [
+        "Who is the person in the video?",
+        "Кто этот человек на видео?",
+        "Видеодогу адам ким?",
+        "من الشخص الموجود في الفيديو؟",
+        "Qui est la personne dans la vidéo ?"
+      ]
+    },
+    "şehre": {
+      "tr": "Yarın başka bir şehre gideceğiz.",
+      "values": [
+        "We will go to another city tomorrow.",
+        "Завтра мы поедем в другой город.",
+        "Эртең башка шаарга барабыз.",
+        "سنذهب إلى مدينة أخرى غدًا.",
+        "Demain, nous irons dans une autre ville."
+      ]
+    },
+    "gitmek": {
+      "tr": "Hafta sonu müzeye gitmek istiyorum.",
+      "values": [
+        "I want to go to the museum this weekend.",
+        "Я хочу сходить в музей на выходных.",
+        "Дем алышта музейге баргым келет.",
+        "أريد الذهاب إلى المتحف في عطلة نهاية الأسبوع.",
+        "Je veux aller au musée ce week-end."
+      ]
+    },
+    "ister": {
+      "tr": "Kardeşim de bizimle gelmek ister.",
+      "values": [
+        "My sibling also wants to come with us.",
+        "Мой брат тоже хочет пойти с нами.",
+        "Бир тууганым да биз менен баргысы келет.",
+        "يريد أخي أيضًا أن يأتي معنا.",
+        "Mon frère veut aussi venir avec nous."
+      ]
+    },
+    "misiniz": {
+      "tr": "Siz öğretmen misiniz?",
+      "values": [
+        "Are you a teacher?",
+        "Вы учитель?",
+        "Сиз мугалимсизби?",
+        "هل أنتم معلمون؟",
+        "Êtes-vous professeur ?"
+      ]
+    },
+    "neden": {
+      "tr": "Neden bu şehri seçtin?",
+      "values": [
+        "Why did you choose this city?",
+        "Почему ты выбрал этот город?",
+        "Эмне үчүн бул шаарды тандадың?",
+        "لماذا اخترت هذه المدينة؟",
+        "Pourquoi as-tu choisi cette ville ?"
+      ]
+    },
+    "videoda": {
+      "tr": "Videoda eski bir şehir gösteriliyor.",
+      "values": [
+        "An old city is shown in the video.",
+        "В видео показывают старый город.",
+        "Видеодо эски шаар көрсөтүлөт.",
+        "تُعرض مدينة قديمة في الفيديو.",
+        "On voit une vieille ville dans la vidéo."
+      ]
+    },
+    "kimden": {
+      "tr": "Bu haberi kimden duydun?",
+      "values": [
+        "Who did you hear this news from?",
+        "От кого ты услышал эту новость?",
+        "Бул кабарды кимден уктуң?",
+        "ممن سمعت هذا الخبر؟",
+        "De qui as-tu appris cette nouvelle ?"
+      ]
+    },
+    "bahsedilmektedir": {
+      "tr": "Bu kitapta tarihî şehirlerden bahsedilmektedir.",
+      "values": [
+        "This book discusses historic cities.",
+        "В этой книге рассказывается об исторических городах.",
+        "Бул китепте тарыхый шаарлар жөнүндө сөз болот.",
+        "يتحدث هذا الكتاب عن المدن التاريخية.",
+        "Ce livre parle des villes historiques."
+      ]
+    },
+    "osman": {
+      "tr": "Osman bugün okula erken geldi.",
+      "values": [
+        "Osman came to school early today.",
+        "Осман сегодня рано пришёл в школу.",
+        "Осман бүгүн мектепке эрте келди.",
+        "جاء عثمان إلى المدرسة مبكرًا اليوم.",
+        "Osman est arrivé tôt à l'école aujourd'hui."
+      ]
+    },
+    "olmak": {
+      "tr": "İleride doktor olmak istiyorum.",
+      "values": [
+        "I want to become a doctor in the future.",
+        "В будущем я хочу стать врачом.",
+        "Келечекте дарыгер болгум келет.",
+        "أريد أن أصبح طبيبًا في المستقبل.",
+        "Je veux devenir médecin plus tard."
+      ]
+    },
+    "miydiniz": {
+      "tr": "Dün okulda mıydınız?",
+      "values": [
+        "Were you at school yesterday?",
+        "Вы вчера были в школе?",
+        "Кечээ мектепте белеңиздер?",
+        "هل كنتم في المدرسة أمس؟",
+        "Étiez-vous à l'école hier ?"
+      ]
+    },
+    "onun": {
+      "tr": "Onun kitabı masanın üstünde.",
+      "values": [
+        "His book is on the table.",
+        "Его книга лежит на столе.",
+        "Анын китеби үстөлдүн үстүндө.",
+        "كتابه على الطاولة.",
+        "Son livre est sur la table."
+      ]
+    },
+    "nedir": {
+      "tr": "Bu kelimenin anlamı nedir?",
+      "values": [
+        "What does this word mean?",
+        "Что означает это слово?",
+        "Бул сөздүн мааниси эмне?",
+        "ما معنى هذه الكلمة؟",
+        "Que signifie ce mot ?"
+      ]
+    },
+    "şehirleri": {
+      "tr": "Türkiye'nin farklı şehirlerini gezdik.",
+      "values": [
+        "We visited different cities in Türkiye.",
+        "Мы посетили разные города Турции.",
+        "Түркиянын ар кандай шаарларын кыдырдык.",
+        "زرنا مدنًا مختلفة في تركيا.",
+        "Nous avons visité différentes villes de Turquie."
+      ]
+    },
+    "yaşadı": {
+      "tr": "Dedem bu şehirde uzun yıllar yaşadı.",
+      "values": [
+        "My grandfather lived in this city for many years.",
+        "Мой дед много лет жил в этом городе.",
+        "Чоң атам бул шаарда көп жыл жашаган.",
+        "عاش جدي في هذه المدينة سنوات طويلة.",
+        "Mon grand-père a vécu dans cette ville pendant de nombreuses années."
+      ]
+    },
+    "yüzyıl": {
+      "tr": "Bir yüzyıl yüz yıldır.",
+      "values": [
+        "A century is one hundred years.",
+        "В одном веке сто лет.",
+        "Бир кылым жүз жыл болот.",
+        "القرن مئة سنة.",
+        "Un siècle compte cent ans."
+      ]
     }
   },
   "forms": {
