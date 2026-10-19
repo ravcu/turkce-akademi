@@ -181,7 +181,7 @@
         if(/^\d+$/.test(key)&&targetLang==='en')meaning=numberToEnglish(Number(key));
         rows.push([word,typeof meaning==='string'&&meaning.trim()?meaning:'— (çeviri kontrol edilecek)']);
         const phrase=phraseAt(i,page.words);
-        if(phrase&&!seenPhrases.has(phrase.key))seenPhrases.add(phrase.key);
+        if(phrase&&!phrase.single&&glossary.phrases?.[phrase.key]&&!seenPhrases.has(phrase.key))seenPhrases.add(phrase.key);
       }
       // Show full expressions as additional entries without hiding their component words.
       for(const phraseKey of seenPhrases){
