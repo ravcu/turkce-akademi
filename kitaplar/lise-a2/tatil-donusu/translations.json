@@ -13905,6 +13905,16 @@
         "J'ai 15 ans."
       ]
     },
+    "16": {
+      "tr": "Kardeşim 16 yaşında.",
+      "values": [
+        "My younger sibling is 16 years old.",
+        "Моему младшему брату 16 лет.",
+        "Иним 16 жашта.",
+        "أخي الأصغر عمره 16 عامًا.",
+        "Mon petit frère a 16 ans."
+      ]
+    },
     "17": {
       "tr": "Otobüs 17 numaralı durakta duruyor.",
       "values": [
@@ -13923,6 +13933,16 @@
         "Иним бүгүн 18 жашка толду.",
         "أتمّ أخي الأصغر اليوم الثامنة عشرة من عمره.",
         "Mon petit frère a eu 18 ans aujourd'hui."
+      ]
+    },
+    "21": {
+      "tr": "Sınıfımızda 21 öğrenci var.",
+      "values": [
+        "There are 21 students in our class.",
+        "В нашем классе 21 ученик.",
+        "Биздин класста 21 окуучу бар.",
+        "في صفنا 21 طالبًا.",
+        "Il y a 21 élèves dans notre classe."
       ]
     },
     "29": {
@@ -25603,6 +25623,216 @@
         "Бул нан бир аз катуу.",
         "هذا الخبز قاسٍ قليلًا.",
         "Ce pain est un peu dur."
+      ]
+    },
+    "burada/şurada/orada": {
+      "tr": "Burada okul, şurada park, orada hastane var.",
+      "values": [
+        "The school is here, the park is over there, and the hospital is farther away.",
+        "Здесь школа, вон там парк, а там дальше больница.",
+        "Бул жерде мектеп, тиги жерде парк, ал жакта оорукана бар.",
+        "المدرسة هنا، والحديقة هناك، والمستشفى أبعد هناك.",
+        "L'école est ici, le parc est là-bas et l'hôpital est plus loin."
+      ]
+    },
+    "burası/şurası/orası": {
+      "tr": "Burası sınıfımız, şurası kütüphane, orası spor salonu.",
+      "values": [
+        "This is our classroom, that is the library, and over there is the gym.",
+        "Это наш класс, вон там библиотека, а дальше спортивный зал.",
+        "Бул биздин класс, тиги жер китепкана, ал жак спорт залы.",
+        "هذا صفنا، وتلك المكتبة، وهناك الصالة الرياضية.",
+        "Voici notre salle de classe, là-bas la bibliothèque, et plus loin la salle de sport."
+      ]
+    },
+    "tevfik": {
+      "tr": "Tevfik bugün okula erken geldi.",
+      "values": [
+        "Tevfik came to school early today.",
+        "Тевфик сегодня рано пришёл в школу.",
+        "Тевфик бүгүн мектепке эрте келди.",
+        "جاء توفيق إلى المدرسة مبكرًا اليوم.",
+        "Tevfik est arrivé tôt à l'école aujourd'hui."
+      ]
+    },
+    "fikret": {
+      "tr": "Fikret kütüphaneden kitap aldı.",
+      "values": [
+        "Fikret borrowed a book from the library.",
+        "Фикрет взял книгу в библиотеке.",
+        "Фикрет китепканадан китеп алды.",
+        "استعار فكرت كتابًا من المكتبة.",
+        "Fikret a emprunté un livre à la bibliothèque."
+      ]
+    },
+    "bilgileri": {
+      "tr": "Formdaki bilgileri kontrol edin.",
+      "values": [
+        "Check the information on the form.",
+        "Проверьте данные в анкете.",
+        "Формадагы маалыматтарды текшериңиздер.",
+        "تحققوا من المعلومات الموجودة في الاستمارة.",
+        "Vérifiez les informations du formulaire."
+      ]
+    },
+    "anna": {
+      "tr": "Anna Türkçe öğreniyor.",
+      "values": [
+        "Anna is learning Turkish.",
+        "Анна учит турецкий язык.",
+        "Анна түрк тилин үйрөнүп жатат.",
+        "آنا تتعلم اللغة التركية.",
+        "Anna apprend le turc."
+      ]
+    },
+    "abdala": {
+      "tr": "Abdala bugün sınıfta sunum yaptı.",
+      "values": [
+        "Abdala gave a presentation in class today.",
+        "Абдала сегодня выступил с презентацией в классе.",
+        "Абдала бүгүн класста баяндама жасады.",
+        "قدّم عبد الله عرضًا في الصف اليوم.",
+        "Abdala a fait une présentation en classe aujourd'hui."
+      ]
+    },
+    "kemal": {
+      "tr": "Kemal arkadaşlarıyla futbol oynadı.",
+      "values": [
+        "Kemal played football with his friends.",
+        "Кемаль играл в футбол с друзьями.",
+        "Кемал достору менен футбол ойноду.",
+        "لعب كمال كرة القدم مع أصدقائه.",
+        "Kemal a joué au football avec ses amis."
+      ]
+    },
+    "varga": {
+      "tr": "Varga yeni bir kitap okuyor.",
+      "values": [
+        "Varga is reading a new book.",
+        "Варга читает новую книгу.",
+        "Варга жаңы китеп окуп жатат.",
+        "يقرأ فارغا كتابًا جديدًا.",
+        "Varga lit un nouveau livre."
+      ]
+    },
+    "suleyman": {
+      "tr": "Suleyman otobüsle okula gidiyor.",
+      "values": [
+        "Suleyman goes to school by bus.",
+        "Сулейман ездит в школу на автобусе.",
+        "Сулейман мектепке автобус менен барат.",
+        "يذهب سليمان إلى المدرسة بالحافلة.",
+        "Suleyman va à l'école en bus."
+      ]
+    },
+    "yalçıntaş": {
+      "tr": "Yalçıntaş soyadını doğru yazdım.",
+      "values": [
+        "I spelled the surname Yalçıntaş correctly.",
+        "Я правильно написал фамилию Ялчынташ.",
+        "Ялчынташ фамилиясын туура жаздым.",
+        "كتبت اسم العائلة يالتشينتاش بشكل صحيح.",
+        "J'ai écrit correctement le nom de famille Yalçıntaş."
+      ]
+    },
+    "macaristan": {
+      "tr": "Macaristan'ın başkenti Budapeşte'dir.",
+      "values": [
+        "The capital of Hungary is Budapest.",
+        "Столица Венгрии — Будапешт.",
+        "Венгриянын борбору — Будапешт.",
+        "عاصمة المجر هي بودابست.",
+        "La capitale de la Hongrie est Budapest."
+      ]
+    },
+    "somali": {
+      "tr": "Somali Afrika'da bir ülkedir.",
+      "values": [
+        "Somalia is a country in Africa.",
+        "Сомали — страна в Африке.",
+        "Сомали — Африкадагы өлкө.",
+        "الصومال دولة في أفريقيا.",
+        "La Somalie est un pays d'Afrique."
+      ]
+    },
+    "budapeşte": {
+      "tr": "Budapeşte Tuna Nehri kıyısındadır.",
+      "values": [
+        "Budapest is on the banks of the Danube.",
+        "Будапешт расположен на берегах Дуная.",
+        "Будапешт Дунай дарыясынын жээгинде жайгашкан.",
+        "تقع بودابست على ضفاف نهر الدانوب.",
+        "Budapest se trouve sur les rives du Danube."
+      ]
+    },
+    "mogadişu": {
+      "tr": "Mogadişu Somali'nin başkentidir.",
+      "values": [
+        "Mogadishu is the capital of Somalia.",
+        "Могадишо — столица Сомали.",
+        "Могадишо — Сомалинин борбору.",
+        "مقديشو عاصمة الصومال.",
+        "Mogadiscio est la capitale de la Somalie."
+      ]
+    },
+    "verilen": {
+      "tr": "Verilen kelimelerle cümle kurun.",
+      "values": [
+        "Make sentences with the given words.",
+        "Составьте предложения из данных слов.",
+        "Берилген сөздөр менен сүйлөм түзгүлө.",
+        "كوّنوا جملًا باستخدام الكلمات المعطاة.",
+        "Formez des phrases avec les mots donnés."
+      ]
+    },
+    "boşlukları": {
+      "tr": "Metindeki boşlukları doldurun.",
+      "values": [
+        "Fill in the blanks in the text.",
+        "Заполните пропуски в тексте.",
+        "Тексттеги боштуктарды толтургула.",
+        "املؤوا الفراغات في النص.",
+        "Complétez les blancs dans le texte."
+      ]
+    },
+    "kendinizi": {
+      "tr": "Kendinizi kısaca tanıtın.",
+      "values": [
+        "Introduce yourselves briefly.",
+        "Кратко представьтесь.",
+        "Өзүңөрдү кыскача тааныштыргыла.",
+        "عرّفوا بأنفسكم باختصار.",
+        "Présentez-vous brièvement."
+      ]
+    },
+    "kişiler": {
+      "tr": "Bu fotoğraftaki kişiler kim?",
+      "values": [
+        "Who are the people in this photo?",
+        "Кто эти люди на фотографии?",
+        "Бул сүрөттөгү адамдар кимдер?",
+        "من هؤلاء الأشخاص في الصورة؟",
+        "Qui sont les personnes sur cette photo ?"
+      ]
+    },
+    "diyalog": {
+      "tr": "İki arkadaş kısa bir diyalog yazdı.",
+      "values": [
+        "Two friends wrote a short dialogue.",
+        "Два друга написали короткий диалог.",
+        "Эки дос кыска диалог жазды.",
+        "كتب صديقان حوارًا قصيرًا.",
+        "Deux amis ont écrit un court dialogue."
+      ]
+    },
+    "diyaloğu": {
+      "tr": "Diyaloğu arkadaşınla canlandır.",
+      "values": [
+        "Act out the dialogue with your friend.",
+        "Разыграй диалог с другом.",
+        "Диалогду досуң менен аткар.",
+        "مثّل الحوار مع صديقك.",
+        "Joue le dialogue avec ton ami."
       ]
     }
   },
