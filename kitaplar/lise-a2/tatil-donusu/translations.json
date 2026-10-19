@@ -21910,6 +21910,336 @@
         "لهذا السبب غادرنا مبكرًا.",
         "C'est pourquoi nous sommes partis tôt."
       ]
+    },
+    "şehri/şehirleri": {
+      "tr": "Hangi şehri veya şehirleri ziyaret ettiniz?",
+      "values": [
+        "Which city or cities did you visit?",
+        "Какой город или какие города вы посетили?",
+        "Кайсы шаарга же шаарларга бардыңыздар?",
+        "أي مدينة أو مدن زرتم؟",
+        "Quelle ville ou quelles villes avez-vous visitées ?"
+      ]
+    },
+    "kendi": {
+      "tr": "Bu resmi kendim çizdim.",
+      "values": [
+        "I drew this picture myself.",
+        "Я сам нарисовал эту картину.",
+        "Бул сүрөттү өзүм тарттым.",
+        "رسمت هذه الصورة بنفسي.",
+        "J'ai dessiné cette image moi-même."
+      ]
+    },
+    "anılarınızı": {
+      "tr": "Tatil anılarınızı arkadaşlarınıza anlatın.",
+      "values": [
+        "Tell your friends about your vacation memories.",
+        "Расскажите друзьям о своих воспоминаниях об отпуске.",
+        "Эс алуудагы эскерүүлөрүңөрдү досторуңарга айтып бергиле.",
+        "احكوا لأصدقائكم عن ذكريات عطلتكم.",
+        "Racontez vos souvenirs de vacances à vos amis."
+      ]
+    },
+    "odanın": {
+      "tr": "Odanın penceresi denize bakıyor.",
+      "values": [
+        "The room's window faces the sea.",
+        "Окно комнаты выходит на море.",
+        "Бөлмөнүн терезеси деңизди карайт.",
+        "تطل نافذة الغرفة على البحر.",
+        "La fenêtre de la chambre donne sur la mer."
+      ]
+    },
+    "posterlerini": {
+      "tr": "Öğrenciler şehir posterlerini hazırladı.",
+      "values": [
+        "The students prepared posters about cities.",
+        "Ученики подготовили плакаты о городах.",
+        "Окуучулар шаарлар тууралуу постерлерди даярдашты.",
+        "أعد الطلاب ملصقات عن المدن.",
+        "Les élèves ont préparé des affiches sur les villes."
+      ]
+    },
+    "antalya": {
+      "tr": "Antalya'da denize girdik.",
+      "values": [
+        "We swam in the sea in Antalya.",
+        "Мы купались в море в Анталье.",
+        "Антальяда деңизге түштүк.",
+        "سبحنا في البحر في أنطاليا.",
+        "Nous nous sommes baignés dans la mer à Antalya."
+      ]
+    },
+    "istanbul": {
+      "tr": "İstanbul'da birçok tarihî yer var.",
+      "values": [
+        "There are many historic places in Istanbul.",
+        "В Стамбуле много исторических мест.",
+        "Стамбулда тарыхый жерлер көп.",
+        "توجد أماكن تاريخية كثيرة في إسطنبول.",
+        "Il y a beaucoup de lieux historiques à Istanbul."
+      ]
+    },
+    "alanı": {
+      "tr": "Parkın oyun alanı çok geniş.",
+      "values": [
+        "The park's play area is very spacious.",
+        "Игровая площадка парка очень просторная.",
+        "Парктын оюн аянты абдан кенен.",
+        "منطقة اللعب في الحديقة واسعة جدًا.",
+        "L'aire de jeux du parc est très grande."
+      ]
+    },
+    "etmek": {
+      "tr": "Bugün müzeyi ziyaret etmek istiyorum.",
+      "values": [
+        "I want to visit the museum today.",
+        "Сегодня я хочу посетить музей.",
+        "Бүгүн музейге баргым келет.",
+        "أريد زيارة المتحف اليوم.",
+        "Je veux visiter le musée aujourd'hui."
+      ]
+    },
+    "güneşlenmek": {
+      "tr": "Sahilde güneşlenmek istiyorum.",
+      "values": [
+        "I want to sunbathe on the beach.",
+        "Я хочу позагорать на пляже.",
+        "Жээкте күнгө кактангым келет.",
+        "أريد الاستلقاء تحت الشمس على الشاطئ.",
+        "Je veux prendre un bain de soleil sur la plage."
+      ]
+    },
+    "sokaklarda": {
+      "tr": "Eski sokaklarda yürüdük.",
+      "values": [
+        "We walked through the old streets.",
+        "Мы гуляли по старым улицам.",
+        "Эски көчөлөрдө сейилдедик.",
+        "تمشينا في الشوارع القديمة.",
+        "Nous nous sommes promenés dans les vieilles rues."
+      ]
+    },
+    "yürümek": {
+      "tr": "Her sabah yürümek sağlıklıdır.",
+      "values": [
+        "Walking every morning is healthy.",
+        "Гулять каждое утро полезно.",
+        "Күн сайын эртең менен басуу ден соолукка пайдалуу.",
+        "المشي كل صباح مفيد للصحة.",
+        "Marcher chaque matin est bon pour la santé."
+      ]
+    },
+    "parklarda": {
+      "tr": "Çocuklar parklarda oyun oynuyor.",
+      "values": [
+        "Children are playing in parks.",
+        "Дети играют в парках.",
+        "Балдар парктарда ойноп жатышат.",
+        "يلعب الأطفال في الحدائق.",
+        "Les enfants jouent dans les parcs."
+      ]
+    },
+    "restoranda": {
+      "tr": "Dün akşam restoranda yemek yedik.",
+      "values": [
+        "We ate at a restaurant last night.",
+        "Вчера вечером мы ужинали в ресторане.",
+        "Кечээ кечинде ресторанда тамак жедик.",
+        "تناولنا العشاء في المطعم مساء أمس.",
+        "Nous avons mangé au restaurant hier soir."
+      ]
+    },
+    "yemek": {
+      "tr": "Bugün evde yemek pişirdik.",
+      "values": [
+        "We cooked food at home today.",
+        "Сегодня мы готовили дома.",
+        "Бүгүн үйдө тамак жасадык.",
+        "طبخنا الطعام في البيت اليوم.",
+        "Nous avons cuisiné à la maison aujourd'hui."
+      ]
+    },
+    "nereleri": {
+      "tr": "İstanbul'da nereleri gezdiniz?",
+      "values": [
+        "Which places did you visit in Istanbul?",
+        "Какие места вы посетили в Стамбуле?",
+        "Стамбулда кайсы жерлерди кыдырдыңыздар?",
+        "ما الأماكن التي زرتموها في إسطنبول؟",
+        "Quels endroits avez-vous visités à Istanbul ?"
+      ]
+    },
+    "ayasofya": {
+      "tr": "Ayasofya İstanbul'dadır.",
+      "values": [
+        "Hagia Sophia is in Istanbul.",
+        "Айя-София находится в Стамбуле.",
+        "Айя-София Стамбулда жайгашкан.",
+        "تقع آيا صوفيا في إسطنبول.",
+        "Sainte-Sophie se trouve à Istanbul."
+      ]
+    },
+    "camii": {
+      "tr": "Sultanahmet Camii'ni gezdik.",
+      "values": [
+        "We visited the Blue Mosque.",
+        "Мы посетили мечеть Султанахмет.",
+        "Султанахмет мечитин кыдырдык.",
+        "زرنا جامع السلطان أحمد.",
+        "Nous avons visité la mosquée Sultanahmet."
+      ]
+    },
+    "sultanahmet": {
+      "tr": "Sultanahmet'te fotoğraf çektik.",
+      "values": [
+        "We took photos in Sultanahmet.",
+        "Мы фотографировались в Султанахмете.",
+        "Султанахметте сүрөткө түштүк.",
+        "التقطنا صورًا في السلطان أحمد.",
+        "Nous avons pris des photos à Sultanahmet."
+      ]
+    },
+    "köprülü": {
+      "tr": "Köprülü Kanyon'da yürüyüş yaptık.",
+      "values": [
+        "We went hiking in Köprülü Canyon.",
+        "Мы ходили в поход в каньоне Кёпрюлю.",
+        "Көпрүлү каньонунда жөө сейилдедик.",
+        "تنزهنا في وادي كوبْرولو.",
+        "Nous avons fait une randonnée dans le canyon de Köprülü."
+      ]
+    },
+    "kanyon": {
+      "tr": "Bu kanyonun manzarası çok güzel.",
+      "values": [
+        "The view of this canyon is beautiful.",
+        "Вид на этот каньон очень красивый.",
+        "Бул каньондун көрүнүшү абдан кооз.",
+        "منظر هذا الوادي رائع جدًا.",
+        "La vue sur ce canyon est magnifique."
+      ]
+    },
+    "topkapı": {
+      "tr": "Topkapı Sarayı'nı ziyaret ettik.",
+      "values": [
+        "We visited Topkapı Palace.",
+        "Мы посетили дворец Топкапы.",
+        "Топкапы сарайына бардык.",
+        "زرنا قصر طوب قابي.",
+        "Nous avons visité le palais de Topkapı."
+      ]
+    },
+    "sarayı": {
+      "tr": "Topkapı Sarayı çok ünlüdür.",
+      "values": [
+        "Topkapı Palace is very famous.",
+        "Дворец Топкапы очень известен.",
+        "Топкапы сарайы абдан белгилүү.",
+        "قصر طوب قابي مشهور جدًا.",
+        "Le palais de Topkapı est très célèbre."
+      ]
+    },
+    "yivli": {
+      "tr": "Yivli Minare Antalya'dadır.",
+      "values": [
+        "The Fluted Minaret is in Antalya.",
+        "Минарет Йивли находится в Анталье.",
+        "Йивли мунарасы Антальяда жайгашкан.",
+        "تقع المئذنة المخددة في أنطاليا.",
+        "Le minaret cannelé se trouve à Antalya."
+      ]
+    },
+    "minare": {
+      "tr": "Caminin minaresi çok yüksek.",
+      "values": [
+        "The mosque's minaret is very tall.",
+        "Минарет мечети очень высокий.",
+        "Мечиттин мунарасы абдан бийик.",
+        "مئذنة المسجد عالية جدًا.",
+        "Le minaret de la mosquée est très haut."
+      ]
+    },
+    "arkeoloji": {
+      "tr": "Arkeoloji müzesini gezdik.",
+      "values": [
+        "We visited the archaeology museum.",
+        "Мы посетили археологический музей.",
+        "Археология музейин кыдырдык.",
+        "زرنا متحف الآثار.",
+        "Nous avons visité le musée archéologique."
+      ]
+    },
+    "müzesi": {
+      "tr": "Şehrin arkeoloji müzesi bugün açık.",
+      "values": [
+        "The city's archaeology museum is open today.",
+        "Городской археологический музей сегодня открыт.",
+        "Шаардын археология музейи бүгүн ачык.",
+        "متحف الآثار في المدينة مفتوح اليوم.",
+        "Le musée archéologique de la ville est ouvert aujourd'hui."
+      ]
+    },
+    "düden": {
+      "tr": "Düden Şelalesi'ni görmek istiyorum.",
+      "values": [
+        "I want to see Düden Waterfall.",
+        "Я хочу увидеть водопад Дюден.",
+        "Дүден шаркыратмасын көргүм келет.",
+        "أريد رؤية شلال دودن.",
+        "Je veux voir la cascade de Düden."
+      ]
+    },
+    "şelalesi": {
+      "tr": "Bu şelalenin suyu çok soğuk.",
+      "values": [
+        "The water of this waterfall is very cold.",
+        "Вода этого водопада очень холодная.",
+        "Бул шаркыратманын суусу абдан муздак.",
+        "ماء هذا الشلال بارد جدًا.",
+        "L'eau de cette cascade est très froide."
+      ]
+    },
+    "gülhane": {
+      "tr": "Gülhane Parkı'nda yürüdük.",
+      "values": [
+        "We walked in Gülhane Park.",
+        "Мы гуляли в парке Гюльхане.",
+        "Гүлхане паркында сейилдедик.",
+        "تمشينا في حديقة غولهانه.",
+        "Nous nous sommes promenés dans le parc Gülhane."
+      ]
+    },
+    "manavgat": {
+      "tr": "Manavgat'ta bir şelale gördük.",
+      "values": [
+        "We saw a waterfall in Manavgat.",
+        "Мы увидели водопад в Манавгате.",
+        "Манавгатта шаркыратма көрдүк.",
+        "رأينا شلالًا في مانافغات.",
+        "Nous avons vu une cascade à Manavgat."
+      ]
+    },
+    "atatürk": {
+      "tr": "Atatürk Türkiye Cumhuriyeti'nin kurucusudur.",
+      "values": [
+        "Atatürk is the founder of the Republic of Türkiye.",
+        "Ататюрк — основатель Турецкой Республики.",
+        "Ататүрк — Түркия Республикасынын негиздөөчүсү.",
+        "أتاتورك هو مؤسس الجمهورية التركية.",
+        "Atatürk est le fondateur de la République de Turquie."
+      ]
+    },
+    "arboretumu": {
+      "tr": "Atatürk Arboretumu'nda farklı ağaçlar gördük.",
+      "values": [
+        "We saw different trees at Atatürk Arboretum.",
+        "Мы увидели разные деревья в дендрарии Ататюрка.",
+        "Ататүрк арборетумунда ар түрдүү дарактарды көрдүк.",
+        "رأينا أشجارًا متنوعة في مشتل أتاتورك.",
+        "Nous avons vu différentes espèces d'arbres à l'arboretum Atatürk."
+      ]
     }
   },
   "forms": {
