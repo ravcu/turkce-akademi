@@ -198,6 +198,22 @@
       // A phrase is selected in full regardless of which constituent word was clicked.
       const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(/\s+/).length-a.split(/\s+/).length);
       const clicked=words[index];if(!clicked)return null;
+      // PDF line-wrap fragments are separate visual hotspots. Rejoin them without
+      // changing their coordinates, so either half selects the complete word.
+      const wrappedByPage={
+        20:[['Sey-','yah','seyyah'],['is-','terdiniz?','isterdiniz']],
+        21:[['Bu-','rada','burada'],['ti-','yatro,','tiyatro'],['Ca-','misi.','camisi'],['bu-','rada','burada'],['arka-','daşlarınıza','arkadaşlarınıza'],['yaşa-','dığını','yaşadığınız']]
+      };
+      const pageWraps=wrappedByPage[current]||[];
+      for(const [left,right,whole] of pageWraps){
+        const leftIndices=words.map((w,i)=>w.t===left?i:-1).filter(i=>i>=0);
+        for(const li of leftIndices){
+          const a=words[li];
+          const ri=words.findIndex((w,i)=>w.t===right&&i!==li&&w.y>a.y&&w.y-a.y<.022&&w.x<a.x);
+          if(ri<0||index!==li&&index!==ri)continue;
+          return {key:normalize(whole),indices:[li,ri],text:whole};
+        }
+      }
       const token=w=>normalize(w.t).replace(/[’']/g,"'");
       const sameLine=(a,b)=>{const cy=a.y+a.h/2,dy=b.y+b.h/2;return Math.abs(cy-dy)<=Math.max(.007,Math.min(a.h,b.h)*.50)};
       const follows=(a,b)=>{
