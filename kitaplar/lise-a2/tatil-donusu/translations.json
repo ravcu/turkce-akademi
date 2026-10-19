@@ -22960,6 +22960,656 @@
         "ذهبنا إلى وسط المدينة بالحافلة.",
         "Nous sommes allés au centre-ville en bus."
       ]
+    },
+    "döndük": {
+      "tr": "Akşam otele döndük.",
+      "values": [
+        "We returned to the hotel in the evening.",
+        "Вечером мы вернулись в отель.",
+        "Кечинде мейманканага кайттык.",
+        "عدنا إلى الفندق مساءً.",
+        "Nous sommes rentrés à l'hôtel le soir."
+      ]
+    },
+    "kebabı": {
+      "tr": "Urfa kebabını çok beğendim.",
+      "values": [
+        "I really liked Urfa kebab.",
+        "Мне очень понравился урфа-кебаб.",
+        "Урфа кебабы мага абдан жакты.",
+        "أعجبني كباب أورفا كثيرًا.",
+        "J'ai beaucoup aimé le kebab d'Urfa."
+      ]
+    },
+    "görmenizi": {
+      "tr": "Bu müzeyi görmenizi tavsiye ederim.",
+      "values": [
+        "I recommend that you see this museum.",
+        "Советую вам посетить этот музей.",
+        "Бул музейди көрүүнү сунуштайм.",
+        "أنصحكم بزيارة هذا المتحف.",
+        "Je vous conseille de visiter ce musée."
+      ]
+    },
+    "size": {
+      "tr": "Size bir soru sormak istiyorum.",
+      "values": [
+        "I want to ask you a question.",
+        "Я хочу задать вам вопрос.",
+        "Сизге бир суроо бергим келет.",
+        "أريد أن أطرح عليكم سؤالًا.",
+        "Je voudrais vous poser une question."
+      ]
+    },
+    "türkiye’deki": {
+      "tr": "Türkiye'deki tarihî şehirleri gezdik.",
+      "values": [
+        "We visited historic cities in Türkiye.",
+        "Мы посетили исторические города Турции.",
+        "Түркиядагы тарыхый шаарларды кыдырдык.",
+        "زرنا المدن التاريخية في تركيا.",
+        "Nous avons visité des villes historiques de Turquie."
+      ]
+    },
+    "bazı": {
+      "tr": "Bazı günler erken kalkarım.",
+      "values": [
+        "Some days I get up early.",
+        "В некоторые дни я встаю рано.",
+        "Кээ бир күндөрү эрте турам.",
+        "أستيقظ مبكرًا في بعض الأيام.",
+        "Certains jours, je me lève tôt."
+      ]
+    },
+    "mekânlarından": {
+      "tr": "Şehrin tarihî mekânlarından birini gezdik.",
+      "values": [
+        "We visited one of the city's historic sites.",
+        "Мы посетили одно из исторических мест города.",
+        "Шаардын тарыхый жерлеринин бирин кыдырдык.",
+        "زرنا أحد المواقع التاريخية في المدينة.",
+        "Nous avons visité l'un des sites historiques de la ville."
+      ]
+    },
+    "bahsetmek": {
+      "tr": "Size tatilimden bahsetmek istiyorum.",
+      "values": [
+        "I want to tell you about my vacation.",
+        "Я хочу рассказать вам о своём отпуске.",
+        "Сизге эс алуум жөнүндө айтып бергим келет.",
+        "أريد أن أحدثكم عن عطلتي.",
+        "Je voudrais vous parler de mes vacances."
+      ]
+    },
+    "istiyorum": {
+      "tr": "Bugün denize gitmek istiyorum.",
+      "values": [
+        "I want to go to the seaside today.",
+        "Сегодня я хочу поехать к морю.",
+        "Бүгүн деңизге баргым келет.",
+        "أريد الذهاب إلى البحر اليوم.",
+        "Je veux aller à la mer aujourd'hui."
+      ]
+    },
+    "artvin’i": {
+      "tr": "Artvin'i geçen yaz ziyaret ettik.",
+      "values": [
+        "We visited Artvin last summer.",
+        "Прошлым летом мы посетили Артвин.",
+        "Өткөн жайда Артвинге бардык.",
+        "زرنا أرتفين الصيف الماضي.",
+        "Nous avons visité Artvin l'été dernier."
+      ]
+    },
+    "denizi": {
+      "tr": "Antalya'nın denizi yazın sıcaktır.",
+      "values": [
+        "The sea in Antalya is warm in summer.",
+        "Летом море в Анталье тёплое.",
+        "Антальянын деңизи жайында жылуу.",
+        "مياه البحر في أنطاليا دافئة صيفًا.",
+        "La mer à Antalya est chaude en été."
+      ]
+    },
+    "doğası": {
+      "tr": "Artvin'in doğası çok yeşildir.",
+      "values": [
+        "Artvin's landscape is very green.",
+        "Природа Артвина очень зелёная.",
+        "Артвиндин жаратылышы абдан жашыл.",
+        "طبيعة أرتفين خضراء جدًا.",
+        "La nature d'Artvin est très verdoyante."
+      ]
+    },
+    "mekânlarıyla": {
+      "tr": "Şehir tarihî mekânlarıyla ünlüdür.",
+      "values": [
+        "The city is famous for its historic sites.",
+        "Город славится своими историческими местами.",
+        "Шаар тарыхый жерлери менен белгилүү.",
+        "تشتهر المدينة بمواقعها التاريخية.",
+        "La ville est célèbre pour ses sites historiques."
+      ]
+    },
+    "türkiye’nin": {
+      "tr": "Türkiye'nin başkenti Ankara'dır.",
+      "values": [
+        "Türkiye's capital is Ankara.",
+        "Столица Турции — Анкара.",
+        "Түркиянын борбору — Анкара.",
+        "عاصمة تركيا هي أنقرة.",
+        "La capitale de la Turquie est Ankara."
+      ]
+    },
+    "şehirlerinden": {
+      "tr": "Türkiye'nin şehirlerinden biri de Artvin'dir.",
+      "values": [
+        "Artvin is one of Türkiye's cities.",
+        "Артвин — один из городов Турции.",
+        "Артвин — Түркиянын шаарларынын бири.",
+        "أرتفين إحدى مدن تركيا.",
+        "Artvin est l'une des villes de Turquie."
+      ]
+    },
+    "biridir": {
+      "tr": "Antalya Türkiye'nin turistik şehirlerinden biridir.",
+      "values": [
+        "Antalya is one of Türkiye's tourist cities.",
+        "Анталья — один из туристических городов Турции.",
+        "Анталья Түркиянын туристтик шаарларынын бири.",
+        "أنطاليا إحدى المدن السياحية في تركيا.",
+        "Antalya est l'une des villes touristiques de Turquie."
+      ]
+    },
+    "antalya’yı": {
+      "tr": "Antalya'yı çok sevdim.",
+      "values": [
+        "I really liked Antalya.",
+        "Мне очень понравилась Анталья.",
+        "Анталья мага абдан жакты.",
+        "أحببت أنطاليا كثيرًا.",
+        "J'ai beaucoup aimé Antalya."
+      ]
+    },
+    "milyonlarca": {
+      "tr": "Her yıl milyonlarca turist geliyor.",
+      "values": [
+        "Millions of tourists come every year.",
+        "Каждый год приезжают миллионы туристов.",
+        "Жыл сайын миллиондогон туристтер келет.",
+        "يأتي ملايين السياح كل عام.",
+        "Des millions de touristes viennent chaque année."
+      ]
+    },
+    "ediyor": {
+      "tr": "Kardeşim spor yapmaya devam ediyor.",
+      "values": [
+        "My sibling continues exercising.",
+        "Мой брат продолжает заниматься спортом.",
+        "Бир тууганым спорт менен машыгууну улантып жатат.",
+        "يواصل أخي ممارسة الرياضة.",
+        "Mon frère continue à faire du sport."
+      ]
+    },
+    "ziyaretçilerin": {
+      "tr": "Ziyaretçilerin çoğu müzeyi beğendi.",
+      "values": [
+        "Most visitors liked the museum.",
+        "Большинству посетителей понравился музей.",
+        "Келгендердин көбүнө музей жакты.",
+        "أعجب المتحف معظم الزوار.",
+        "La plupart des visiteurs ont aimé le musée."
+      ]
+    },
+    "çoğu": {
+      "tr": "Öğrencilerin çoğu geziye katıldı.",
+      "values": [
+        "Most students joined the trip.",
+        "Большинство учеников поехали на экскурсию.",
+        "Окуучулардын көбү саякатка катышты.",
+        "شارك معظم الطلاب في الرحلة.",
+        "La plupart des élèves ont participé à l'excursion."
+      ]
+    },
+    "geliyor": {
+      "tr": "Otobüs birazdan geliyor.",
+      "values": [
+        "The bus is coming soon.",
+        "Автобус скоро приедет.",
+        "Автобус азыр келет.",
+        "ستصل الحافلة قريبًا.",
+        "Le bus arrive bientôt."
+      ]
+    },
+    "ancak": {
+      "tr": "Gitmek istedim ancak vaktim yoktu.",
+      "values": [
+        "I wanted to go, but I had no time.",
+        "Я хотел пойти, но у меня не было времени.",
+        "Баргым келди, бирок убактым жок эле.",
+        "أردت الذهاب، لكن لم يكن لدي وقت.",
+        "Je voulais y aller, mais je n'avais pas le temps."
+      ]
+    },
+    "doğal": {
+      "tr": "Burada doğal bir göl var.",
+      "values": [
+        "There is a natural lake here.",
+        "Здесь есть природное озеро.",
+        "Бул жерде табигый көл бар.",
+        "توجد بحيرة طبيعية هنا.",
+        "Il y a un lac naturel ici."
+      ]
+    },
+    "güzellikleri": {
+      "tr": "Bölgenin doğal güzellikleri ünlüdür.",
+      "values": [
+        "The region's natural beauty is famous.",
+        "Природные красоты региона известны.",
+        "Аймактын жаратылыш кооздуктары белгилүү.",
+        "تشتهر المنطقة بجمالها الطبيعي.",
+        "Les beautés naturelles de la région sont célèbres."
+      ]
+    },
+    "mekânları": {
+      "tr": "Şehrin tarihî mekânları çok ilginç.",
+      "values": [
+        "The city's historic sites are very interesting.",
+        "Исторические места города очень интересны.",
+        "Шаардын тарыхый жерлери абдан кызыктуу.",
+        "المواقع التاريخية في المدينة مثيرة للاهتمام.",
+        "Les sites historiques de la ville sont très intéressants."
+      ]
+    },
+    "edilen": {
+      "tr": "En çok ziyaret edilen müze burası.",
+      "values": [
+        "This is the most visited museum.",
+        "Это самый посещаемый музей.",
+        "Бул эң көп зыярат кылынган музей.",
+        "هذا هو المتحف الأكثر زيارة.",
+        "C'est le musée le plus visité."
+      ]
+    },
+    "kanyon’dur": {
+      "tr": "Burası ünlü bir kanyondur.",
+      "values": [
+        "This is a famous canyon.",
+        "Это известный каньон.",
+        "Бул белгилүү каньон.",
+        "هذا وادٍ مشهور.",
+        "C'est un canyon célèbre."
+      ]
+    },
+    "zamanda": {
+      "tr": "Aynı zamanda müzeyi de gezdik.",
+      "values": [
+        "We also visited the museum.",
+        "Мы также посетили музей.",
+        "Ошол эле учурда музейди да кыдырдык.",
+        "زرنا المتحف أيضًا.",
+        "Nous avons également visité le musée."
+      ]
+    },
+    "mekân": {
+      "tr": "Bu mekân çok sakin.",
+      "values": [
+        "This place is very peaceful.",
+        "Это место очень спокойное.",
+        "Бул жер абдан тынч.",
+        "هذا المكان هادئ جدًا.",
+        "Cet endroit est très calme."
+      ]
+    },
+    "vardır": {
+      "tr": "Bu bölgede birçok göl vardır.",
+      "values": [
+        "There are many lakes in this region.",
+        "В этом регионе много озёр.",
+        "Бул аймакта көп көлдөр бар.",
+        "توجد بحيرات كثيرة في هذه المنطقة.",
+        "Il y a de nombreux lacs dans cette région."
+      ]
+    },
+    "olimpos": {
+      "tr": "Olimpos Antik Kenti'ni gezdik.",
+      "values": [
+        "We visited the ancient city of Olympos.",
+        "Мы посетили древний город Олимпос.",
+        "Олимпос байыркы шаарын кыдырдык.",
+        "زرنا مدينة أوليمبوس الأثرية.",
+        "Nous avons visité la cité antique d'Olympos."
+      ]
+    },
+    "kenti’ni": {
+      "tr": "Antik kenti rehberle gezdik.",
+      "values": [
+        "We visited the ancient city with a guide.",
+        "Мы осмотрели древний город с гидом.",
+        "Байыркы шаарды гид менен кыдырдык.",
+        "زرنا المدينة الأثرية مع مرشد.",
+        "Nous avons visité la cité antique avec un guide."
+      ]
+    },
+    "etmenizi": {
+      "tr": "Bu geziye katılmanızı tavsiye etmenizi istiyorum.",
+      "values": [
+        "I want you to recommend joining this trip.",
+        "Я хочу, чтобы вы рекомендовали эту поездку.",
+        "Бул саякатка катышууну сунушташыңызды каалайм.",
+        "أريد منكم أن تنصحوا بالمشاركة في هذه الرحلة.",
+        "Je voudrais que vous recommandiez de participer à cette excursion."
+      ]
+    },
+    "hem": {
+      "tr": "Hem müzeyi hem de kaleyi gezdik.",
+      "values": [
+        "We visited both the museum and the castle.",
+        "Мы посетили и музей, и крепость.",
+        "Музейди да, чепти да кыдырдык.",
+        "زرنا المتحف والقلعة معًا.",
+        "Nous avons visité à la fois le musée et le château."
+      ]
+    },
+    "bence": {
+      "tr": "Bence Artvin çok güzel.",
+      "values": [
+        "I think Artvin is beautiful.",
+        "По-моему, Артвин очень красив.",
+        "Менимче, Артвин абдан кооз.",
+        "أعتقد أن أرتفين جميلة جدًا.",
+        "À mon avis, Artvin est très belle."
+      ]
+    },
+    "şehrini": {
+      "tr": "Bu şehrini değil, başka bir şehrini görmek istiyorum.",
+      "values": [
+        "I want to see another of its cities, not this one.",
+        "Я хочу увидеть другой его город, а не этот.",
+        "Мен анын бул шаарын эмес, башка шаарын көргүм келет.",
+        "أريد رؤية مدينة أخرى فيها، لا هذه المدينة.",
+        "Je veux voir une autre de ses villes, pas celle-ci."
+      ]
+    },
+    "seveceksiniz": {
+      "tr": "Bu şehri çok seveceksiniz.",
+      "values": [
+        "You will really love this city.",
+        "Вам очень понравится этот город.",
+        "Бул шаарды абдан жакшы көрөсүздөр.",
+        "ستحبون هذه المدينة كثيرًا.",
+        "Vous allez beaucoup aimer cette ville."
+      ]
+    },
+    "özellikle": {
+      "tr": "Özellikle doğa gezilerini severim.",
+      "values": [
+        "I especially like nature trips.",
+        "Я особенно люблю поездки на природу.",
+        "Айрыкча жаратылышка саякаттаганды жакшы көрөм.",
+        "أحب الرحلات إلى الطبيعة خصوصًا.",
+        "J'aime particulièrement les excursions dans la nature."
+      ]
+    },
+    "tarafından": {
+      "tr": "Bu köprü mimarlar tarafından yapıldı.",
+      "values": [
+        "This bridge was built by architects.",
+        "Этот мост построили архитекторы.",
+        "Бул көпүрө архитекторлор тарабынан курулган.",
+        "بُني هذا الجسر على يد مهندسين معماريين.",
+        "Ce pont a été construit par des architectes."
+      ]
+    },
+    "sık": {
+      "tr": "Bu müzeye sık sık gelirim.",
+      "values": [
+        "I come to this museum often.",
+        "Я часто прихожу в этот музей.",
+        "Бул музейге тез-тез келем.",
+        "آتي إلى هذا المتحف كثيرًا.",
+        "Je viens souvent dans ce musée."
+      ]
+    },
+    "şehirdir": {
+      "tr": "Artvin yeşil bir şehirdir.",
+      "values": [
+        "Artvin is a green city.",
+        "Артвин — зелёный город.",
+        "Артвин жашыл шаар.",
+        "أرتفين مدينة خضراء.",
+        "Artvin est une ville verdoyante."
+      ]
+    },
+    "kano": {
+      "tr": "Gölde kano yaptık.",
+      "values": [
+        "We went canoeing on the lake.",
+        "Мы катались на каноэ по озеру.",
+        "Көлдө каноэ менен сүздүк.",
+        "تجدفنا بقارب الكانو في البحيرة.",
+        "Nous avons fait du canoë sur le lac."
+      ]
+    },
+    "tırmanışı": {
+      "tr": "Dağ tırmanışı için erken kalktık.",
+      "values": [
+        "We got up early for mountain climbing.",
+        "Мы рано встали ради восхождения на гору.",
+        "Тоого чыгуу үчүн эрте турдук.",
+        "استيقظنا مبكرًا لتسلق الجبل.",
+        "Nous nous sommes levés tôt pour l'alpinisme."
+      ]
+    },
+    "gibi": {
+      "tr": "Artvin gibi yeşil yerleri severim.",
+      "values": [
+        "I like green places like Artvin.",
+        "Мне нравятся зелёные места, такие как Артвин.",
+        "Артвин сыяктуу жашыл жерлерди жакшы көрөм.",
+        "أحب الأماكن الخضراء مثل أرتفين.",
+        "J'aime les endroits verdoyants comme Artvin."
+      ]
+    },
+    "sporları": {
+      "tr": "Su sporlarını denemek istiyorum.",
+      "values": [
+        "I want to try water sports.",
+        "Я хочу попробовать водные виды спорта.",
+        "Суу спорт түрлөрүн сынап көргүм келет.",
+        "أريد تجربة الرياضات المائية.",
+        "Je veux essayer les sports nautiques."
+      ]
+    },
+    "yapabilirsiniz": {
+      "tr": "Burada yürüyüş yapabilirsiniz.",
+      "values": [
+        "You can go hiking here.",
+        "Здесь можно ходить в походы.",
+        "Бул жерде жөө сейилдей аласыздар.",
+        "يمكنكم التنزه سيرًا هنا.",
+        "Vous pouvez faire de la randonnée ici."
+      ]
+    },
+    "isteyenler": {
+      "tr": "Katılmak isteyenler adını yazsın.",
+      "values": [
+        "Those who want to join should write their names.",
+        "Желающие участвовать пусть запишут свои имена.",
+        "Катышууну каалагандар аттарын жазсын.",
+        "من يريد المشاركة فليكتب اسمه.",
+        "Ceux qui veulent participer doivent écrire leur nom."
+      ]
+    },
+    "çoruh": {
+      "tr": "Çoruh Nehri Artvin'den geçer.",
+      "values": [
+        "The Çoruh River flows through Artvin.",
+        "Река Чорух протекает через Артвин.",
+        "Чорух дарыясы Артвин аркылуу агат.",
+        "يمر نهر تشوروه عبر أرتفين.",
+        "Le fleuve Çoruh traverse Artvin."
+      ]
+    },
+    "nehri’ni": {
+      "tr": "Çoruh Nehri'ni görmek istiyorum.",
+      "values": [
+        "I want to see the Çoruh River.",
+        "Я хочу увидеть реку Чорух.",
+        "Чорух дарыясын көргүм келет.",
+        "أريد رؤية نهر تشوروه.",
+        "Je veux voir le fleuve Çoruh."
+      ]
+    },
+    "nehirde": {
+      "tr": "Bu nehirde rafting yapılıyor.",
+      "values": [
+        "People go rafting on this river.",
+        "На этой реке занимаются рафтингом.",
+        "Бул дарыяда рафтинг жасашат.",
+        "يمارس الناس التجديف في هذا النهر.",
+        "On fait du rafting sur cette rivière."
+      ]
+    },
+    "zorlu": {
+      "tr": "Bu parkur oldukça zorlu.",
+      "values": [
+        "This route is quite challenging.",
+        "Этот маршрут довольно сложный.",
+        "Бул маршрут кыйла татаал.",
+        "هذا المسار صعب إلى حد كبير.",
+        "Ce parcours est assez difficile."
+      ]
+    },
+    "parkurlar": {
+      "tr": "Dağda farklı yürüyüş parkurları var.",
+      "values": [
+        "There are different hiking trails in the mountains.",
+        "В горах есть разные пешеходные маршруты.",
+        "Тоодо ар кандай жөө жүрүү маршруттары бар.",
+        "توجد مسارات مشي مختلفة في الجبل.",
+        "Il y a différents sentiers de randonnée en montagne."
+      ]
+    },
+    "artvin’de": {
+      "tr": "Artvin'de doğa yürüyüşü yaptık.",
+      "values": [
+        "We went hiking in Artvin.",
+        "Мы ходили в поход в Артвине.",
+        "Артвинде жөө сейилдедик.",
+        "قمنا بنزهة في الطبيعة في أرتفين.",
+        "Nous avons fait de la randonnée à Artvin."
+      ]
+    },
+    "sakin": {
+      "tr": "Bu köy çok sakin.",
+      "values": [
+        "This village is very quiet.",
+        "Эта деревня очень тихая.",
+        "Бул айыл абдан тынч.",
+        "هذه القرية هادئة جدًا.",
+        "Ce village est très calme."
+      ]
+    },
+    "huzurlu": {
+      "tr": "Dağ evinde huzurlu bir tatil geçirdik.",
+      "values": [
+        "We had a peaceful vacation in the mountain house.",
+        "Мы спокойно отдохнули в горном доме.",
+        "Тоодогу үйдө тынч эс алдык.",
+        "قضينا عطلة هادئة في البيت الجبلي.",
+        "Nous avons passé des vacances paisibles dans une maison de montagne."
+      ]
+    },
+    "mesela": {
+      "tr": "Mesela yarın müzeye gidebiliriz.",
+      "values": [
+        "For example, we could go to the museum tomorrow.",
+        "Например, завтра мы можем пойти в музей.",
+        "Мисалы, эртең музейге барсак болот.",
+        "مثلًا، يمكننا الذهاب إلى المتحف غدًا.",
+        "Par exemple, nous pourrions aller au musée demain."
+      ]
+    },
+    "bunlardan": {
+      "tr": "Bunlardan birini seçebilirsin.",
+      "values": [
+        "You can choose one of these.",
+        "Ты можешь выбрать один из них.",
+        "Булардын бирин тандай аласың.",
+        "يمكنك اختيار واحد من هذه.",
+        "Tu peux en choisir un."
+      ]
+    },
+    "ünlüsü": {
+      "tr": "Bu bölgenin en ünlüsü bu şelaledir.",
+      "values": [
+        "This waterfall is the region's most famous one.",
+        "Этот водопад — самый известный в регионе.",
+        "Бул шаркыратма аймактагы эң белгилүүсү.",
+        "هذا الشلال هو الأشهر في المنطقة.",
+        "Cette cascade est la plus célèbre de la région."
+      ]
+    },
+    "kaçkar": {
+      "tr": "Kaçkar Dağları'nda yürüyüş yaptık.",
+      "values": [
+        "We hiked in the Kaçkar Mountains.",
+        "Мы ходили в поход в горах Качкар.",
+        "Качкар тоолорунда жөө сейилдедик.",
+        "تنزهنا في جبال كاتشكار.",
+        "Nous avons fait de la randonnée dans les monts Kaçkar."
+      ]
+    },
+    "yaylası’dır": {
+      "tr": "Burası bölgenin ünlü yaylasıdır.",
+      "values": [
+        "This is the region's famous highland pasture.",
+        "Это известное высокогорное пастбище региона.",
+        "Бул аймактын белгилүү жайлоосу.",
+        "هذه هضبة رعوية مشهورة في المنطقة.",
+        "C'est un alpage célèbre de la région."
+      ]
+    },
+    "evlerde": {
+      "tr": "Yayladaki ahşap evlerde kaldık.",
+      "values": [
+        "We stayed in wooden houses on the highland.",
+        "Мы остановились в деревянных домах на высокогорном пастбище.",
+        "Жайлоодогу жыгач үйлөрдө калдык.",
+        "أقمنا في بيوت خشبية في المرتفعات.",
+        "Nous avons séjourné dans des maisons en bois sur les hauteurs."
+      ]
+    },
+    "kalabilir": {
+      "tr": "Burada iki gece kalabilir.",
+      "values": [
+        "He can stay here for two nights.",
+        "Он может остаться здесь на две ночи.",
+        "Ал бул жерде эки түн кала алат.",
+        "يمكنه البقاء هنا ليلتين.",
+        "Il peut rester ici deux nuits."
+      ]
+    },
+    "yürüyüşleri": {
+      "tr": "Doğa yürüyüşleri yapmayı severim.",
+      "values": [
+        "I like going on nature walks.",
+        "Я люблю прогулки на природе.",
+        "Жаратылышта сейилдегенди жакшы көрөм.",
+        "أحب التنزه في الطبيعة.",
+        "J'aime faire des randonnées dans la nature."
+      ]
+    },
+    "yeşil": {
+      "tr": "Bu orman her mevsim yeşil.",
+      "values": [
+        "This forest is green in every season.",
+        "Этот лес зелёный круглый год.",
+        "Бул токой ар бир мезгилде жашыл.",
+        "هذه الغابة خضراء في كل فصل.",
+        "Cette forêt est verte en toute saison."
+      ]
     }
   },
   "forms": {
