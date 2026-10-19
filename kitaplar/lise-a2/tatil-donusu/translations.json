@@ -21290,6 +21290,316 @@
         "استغرقت رحلة الحافلة وقتًا طويلًا.",
         "Le voyage en bus a été long."
       ]
+    },
+    "afişteki": {
+      "tr": "Afişteki tarih yanlış yazılmış.",
+      "values": [
+        "The date on the poster is written incorrectly.",
+        "Дата на плакате указана неверно.",
+        "Афишадагы дата туура эмес жазылган.",
+        "التاريخ المكتوب على الملصق غير صحيح.",
+        "La date sur l'affiche est incorrecte."
+      ]
+    },
+    "şehirlerden": {
+      "tr": "Bu şehirlerden hangisini görmek istersin?",
+      "values": [
+        "Which of these cities would you like to see?",
+        "Какой из этих городов ты хотел бы посетить?",
+        "Бул шаарлардын кайсынысын көргүң келет?",
+        "أي مدينة من هذه المدن تود زيارتها؟",
+        "Laquelle de ces villes aimerais-tu visiter ?"
+      ]
+    },
+    "hangisini": {
+      "tr": "Bu iki otelden hangisini seçelim?",
+      "values": [
+        "Which of these two hotels should we choose?",
+        "Какой из этих двух отелей выберем?",
+        "Бул эки мейманкананын кайсынысын тандайбыз?",
+        "أيّ الفندقين نختار؟",
+        "Lequel de ces deux hôtels choisissons-nous ?"
+      ]
+    },
+    "gruplar": {
+      "tr": "Öğrenciler küçük gruplar oluşturdu.",
+      "values": [
+        "The students formed small groups.",
+        "Ученики разделились на небольшие группы.",
+        "Окуучулар чакан топторду түзүштү.",
+        "شكّل الطلاب مجموعات صغيرة.",
+        "Les élèves ont formé de petits groupes."
+      ]
+    },
+    "oluşturun": {
+      "tr": "İkişer kişilik gruplar oluşturun.",
+      "values": [
+        "Form groups of two.",
+        "Сформируйте группы по два человека.",
+        "Эки кишиден топторду түзгүлө.",
+        "شكّلوا مجموعات من شخصين.",
+        "Formez des groupes de deux."
+      ]
+    },
+    "afişlerinden": {
+      "tr": "Gezi afişlerinden birini seçtik.",
+      "values": [
+        "We chose one of the travel posters.",
+        "Мы выбрали один из туристических плакатов.",
+        "Саякат афишаларынын бирин тандадык.",
+        "اخترنا واحدًا من ملصقات الرحلات.",
+        "Nous avons choisi l'une des affiches de voyage."
+      ]
+    },
+    "birini": {
+      "tr": "Kitaplardan birini ödünç aldım.",
+      "values": [
+        "I borrowed one of the books.",
+        "Я взял одну из книг почитать.",
+        "Китептердин бирин убактылуу алдым.",
+        "استعرت واحدًا من الكتب.",
+        "J'ai emprunté l'un des livres."
+      ]
+    },
+    "aranızdan": {
+      "tr": "Aranızdan biri tahtaya gelsin.",
+      "values": [
+        "One of you, please come to the board.",
+        "Пусть кто-нибудь из вас выйдет к доске.",
+        "Араңардан бирөө тактага чыксын.",
+        "ليتقدم أحدكم إلى السبورة.",
+        "Que l'un de vous vienne au tableau."
+      ]
+    },
+    "turist": {
+      "tr": "Turist müzenin yolunu sordu.",
+      "values": [
+        "The tourist asked for directions to the museum.",
+        "Турист спросил дорогу к музею.",
+        "Турист музейге барчу жолду сурады.",
+        "سأل السائح عن الطريق إلى المتحف.",
+        "Le touriste a demandé le chemin du musée."
+      ]
+    },
+    "seçin": {
+      "tr": "Doğru cevabı seçin.",
+      "values": [
+        "Choose the correct answer.",
+        "Выберите правильный ответ.",
+        "Туура жоопту тандагыла.",
+        "اختاروا الإجابة الصحيحة.",
+        "Choisissez la bonne réponse."
+      ]
+    },
+    "örnek": {
+      "tr": "Öğretmen bize bir örnek verdi.",
+      "values": [
+        "The teacher gave us an example.",
+        "Учитель привёл нам пример.",
+        "Мугалим бизге мисал келтирди.",
+        "أعطانا المعلم مثالًا.",
+        "Le professeur nous a donné un exemple."
+      ]
+    },
+    "sorulardan": {
+      "tr": "Sorulardan üçünü cevaplayın.",
+      "values": [
+        "Answer three of the questions.",
+        "Ответьте на три вопроса.",
+        "Суроолордун үчөөнө жооп бергиле.",
+        "أجيبوا عن ثلاثة من الأسئلة.",
+        "Répondez à trois des questions."
+      ]
+    },
+    "diyaloglar": {
+      "tr": "Kitapta kısa diyaloglar var.",
+      "values": [
+        "There are short dialogues in the book.",
+        "В книге есть короткие диалоги.",
+        "Китепте кыска диалогдор бар.",
+        "توجد حوارات قصيرة في الكتاب.",
+        "Il y a de courts dialogues dans le livre."
+      ]
+    },
+    "gittiniz": {
+      "tr": "Geçen yaz nereye gittiniz?",
+      "values": [
+        "Where did you go last summer?",
+        "Куда вы ездили прошлым летом?",
+        "Өткөн жайда кайда бардыңыздар?",
+        "إلى أين ذهبتم الصيف الماضي؟",
+        "Où êtes-vous allés l'été dernier ?"
+      ]
+    },
+    "ziyaret": {
+      "tr": "Yarın müzeyi ziyaret edeceğiz.",
+      "values": [
+        "We will visit the museum tomorrow.",
+        "Завтра мы посетим музей.",
+        "Эртең музейге барабыз.",
+        "سنزور المتحف غدًا.",
+        "Nous visiterons le musée demain."
+      ]
+    },
+    "ettiniz": {
+      "tr": "Hangi müzeyi ziyaret ettiniz?",
+      "values": [
+        "Which museum did you visit?",
+        "Какой музей вы посетили?",
+        "Кайсы музейге бардыңыздар?",
+        "أي متحف زرتم؟",
+        "Quel musée avez-vous visité ?"
+      ]
+    },
+    "yemeklerini": {
+      "tr": "Bölgenin yemeklerini çok beğendik.",
+      "values": [
+        "We really liked the region's dishes.",
+        "Нам очень понравились местные блюда.",
+        "Аймактын тамактары бизге абдан жакты.",
+        "أعجبتنا أطباق المنطقة كثيرًا.",
+        "Nous avons beaucoup aimé les plats de la région."
+      ]
+    },
+    "yediniz": {
+      "tr": "Akşam ne yediniz?",
+      "values": [
+        "What did you eat for dinner?",
+        "Что вы ели на ужин?",
+        "Кечки тамакка эмне жедиңиздер?",
+        "ماذا أكلتم على العشاء؟",
+        "Qu'avez-vous mangé au dîner ?"
+      ]
+    },
+    "odanız": {
+      "tr": "Odanız hangi katta?",
+      "values": [
+        "Which floor is your room on?",
+        "На каком этаже ваш номер?",
+        "Бөлмөңүз кайсы кабатта?",
+        "في أي طابق تقع غرفتكم؟",
+        "À quel étage se trouve votre chambre ?"
+      ]
+    },
+    "rehberiniz": {
+      "tr": "Rehberiniz size şehri anlattı mı?",
+      "values": [
+        "Did your guide tell you about the city?",
+        "Ваш гид рассказал вам о городе?",
+        "Гидиңиз сизге шаар жөнүндө айтып бердиби?",
+        "هل شرح لكم مرشدكم معلومات عن المدينة؟",
+        "Votre guide vous a-t-il parlé de la ville ?"
+      ]
+    },
+    "mıydı": {
+      "tr": "Dünkü gezi güzel miydi?",
+      "values": [
+        "Was yesterday's trip good?",
+        "Вчерашняя экскурсия была хорошей?",
+        "Кечээги саякат жакшы беле?",
+        "هل كانت رحلة الأمس جميلة؟",
+        "L'excursion d'hier était-elle agréable ?"
+      ]
+    },
+    "havuz": {
+      "tr": "Otelde büyük bir havuz var.",
+      "values": [
+        "There is a large swimming pool at the hotel.",
+        "В отеле есть большой бассейн.",
+        "Мейманканада чоң бассейн бар.",
+        "يوجد مسبح كبير في الفندق.",
+        "Il y a une grande piscine à l'hôtel."
+      ]
+    },
+    "tatiliniz": {
+      "tr": "Tatiliniz nasıl geçti?",
+      "values": [
+        "How was your vacation?",
+        "Как прошёл ваш отпуск?",
+        "Эс алууңуз кандай өттү?",
+        "كيف كانت عطلتكم؟",
+        "Comment se sont passées vos vacances ?"
+      ]
+    },
+    "yazma": {
+      "tr": "Yazma etkinliği için defterinizi açın.",
+      "values": [
+        "Open your notebook for the writing activity.",
+        "Откройте тетрадь для письменного задания.",
+        "Жазуу тапшырмасы үчүн дептериңерди ачкыла.",
+        "افتحوا دفاتركم لنشاط الكتابة.",
+        "Ouvrez votre cahier pour l'activité d'écriture."
+      ]
+    },
+    "ayşe’nin": {
+      "tr": "Ayşe'nin çantası masada.",
+      "values": [
+        "Ayşe's bag is on the table.",
+        "Сумка Айше на столе.",
+        "Айшенин сумкасы столдо.",
+        "حقيبة عائشة على الطاولة.",
+        "Le sac d'Ayşe est sur la table."
+      ]
+    },
+    "anısını": {
+      "tr": "Çocukluk anısını bize anlattı.",
+      "values": [
+        "She told us about a childhood memory.",
+        "Она рассказала нам воспоминание из детства.",
+        "Ал бизге балалык кезиндеги эскерүүсүн айтып берди.",
+        "حكت لنا ذكرى من طفولتها.",
+        "Elle nous a raconté un souvenir d'enfance."
+      ]
+    },
+    "ilginizi": {
+      "tr": "Bu kitap ilginizi çekebilir.",
+      "values": [
+        "This book might interest you.",
+        "Эта книга может вас заинтересовать.",
+        "Бул китеп сизди кызыктырышы мүмкүн.",
+        "قد يثير هذا الكتاب اهتمامكم.",
+        "Ce livre pourrait vous intéresser."
+      ]
+    },
+    "çekti": {
+      "tr": "Bu fotoğraf dikkatimi çekti.",
+      "values": [
+        "This photo caught my attention.",
+        "Эта фотография привлекла моё внимание.",
+        "Бул сүрөт көңүлүмдү бурду.",
+        "لفتت هذه الصورة انتباهي.",
+        "Cette photo a attiré mon attention."
+      ]
+    },
+    "kaleiçi’nde": {
+      "tr": "Kaleiçi'nde eski evler gördük.",
+      "values": [
+        "We saw old houses in Kaleiçi.",
+        "Мы увидели старые дома в Калеичи.",
+        "Калейичиде эски үйлөрдү көрдүк.",
+        "رأينا بيوتًا قديمة في كاليتشي.",
+        "Nous avons vu de vieilles maisons à Kaleiçi."
+      ]
+    },
+    "antalya’nın": {
+      "tr": "Antalya'nın plajları çok güzel.",
+      "values": [
+        "Antalya's beaches are beautiful.",
+        "Пляжи Антальи очень красивые.",
+        "Антальянын пляждары абдан кооз.",
+        "شواطئ أنطاليا جميلة جدًا.",
+        "Les plages d'Antalya sont très belles."
+      ]
+    },
+    "merkezinde": {
+      "tr": "Şehrin merkezinde bir müze var.",
+      "values": [
+        "There is a museum in the city center.",
+        "В центре города есть музей.",
+        "Шаардын борборунда музей бар.",
+        "يوجد متحف في وسط المدينة.",
+        "Il y a un musée dans le centre-ville."
+      ]
     }
   },
   "forms": {
