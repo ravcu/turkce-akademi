@@ -131,7 +131,7 @@
       player.play().catch(error=>{if(error.name!=='AbortError')showToast('Sesi başlatmak için oynatma düğmesine dokunun.');});
     }
     ['play','pause','ended'].forEach(event=>$('#audioPlayer').addEventListener(event,updateAudioButtons));
-    const verifiedPage2Answers={sections:[{title:'1. b. Kelimeleri uygun kutucuklara yazınız.',items:['1. anne (kitapta mevcut)','2. Baba','3. Dede','4. Nine','5. Abla','6. Ağabey']}],fills:[{text:'Baba',x:.286,y:.339,w:.071},{text:'Dede',x:.416,y:.36,w:.071},{text:'Nine',x:.47,y:.386,w:.065},{text:'Abla',x:.536,y:.358,w:.065},{text:'Ağabey',x:.135,y:.583,w:.11}]};
+    const verifiedPage2Answers={sections:[{title:'1. b. Kelimeleri uygun kutucuklara yazınız.',items:['1. anne (kitapta mevcut)','2. Baba','3. Dede','4. Nine','5. Abla','6. Ağabey']}],fills:[{text:'Baba',x:.461,y:.336,w:.083},{text:'Dede',x:.646,y:.344,w:.083},{text:'Nine',x:.732,y:.380,w:.075},{text:'Abla',x:.837,y:.350,w:.077},{text:'Ağabey',x:.254,y:.627,w:.112}]};
     function getPageAnswers(){return current===1?verifiedPage2Answers:glossary.answerKeys?.[String(current+1)]}
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=getPageAnswers();
