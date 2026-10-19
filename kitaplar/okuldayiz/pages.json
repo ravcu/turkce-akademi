@@ -2,7 +2,7 @@
   {
     "page": 1,
     "bookPage": 33,
-    "image": "pages/sayfa-01.jpg",
+    "image": "pages/sayfa-01.webp",
     "words": [
       {
         "t": "2.",
@@ -200,7 +200,7 @@
   {
     "page": 2,
     "bookPage": 34,
-    "image": "pages/sayfa-02.jpg",
+    "image": "pages/sayfa-02.webp",
     "words": [
       {
         "t": "1",
@@ -363,7 +363,7 @@
   {
     "page": 3,
     "bookPage": 35,
-    "image": "pages/sayfa-03.jpg",
+    "image": "pages/sayfa-03.webp",
     "words": [
       {
         "t": "BU",
@@ -802,7 +802,7 @@
   {
     "page": 4,
     "bookPage": 36,
-    "image": "pages/sayfa-04.jpg",
+    "image": "pages/sayfa-04.webp",
     "words": [
       {
         "t": "4",
@@ -1626,7 +1626,7 @@
   {
     "page": 5,
     "bookPage": 37,
-    "image": "pages/sayfa-05.jpg",
+    "image": "pages/sayfa-05.webp",
     "words": [
       {
         "t": "5",
@@ -2156,7 +2156,7 @@
   {
     "page": 6,
     "bookPage": 38,
-    "image": "pages/sayfa-06.jpg",
+    "image": "pages/sayfa-06.webp",
     "words": [
       {
         "t": "DİNLEME",
@@ -2750,7 +2750,7 @@
   {
     "page": 7,
     "bookPage": 39,
-    "image": "pages/sayfa-07.jpg",
+    "image": "pages/sayfa-07.webp",
     "words": [
       {
         "t": "3",
@@ -3298,7 +3298,7 @@
   {
     "page": 8,
     "bookPage": 40,
-    "image": "pages/sayfa-08.jpg",
+    "image": "pages/sayfa-08.webp",
     "words": [
       {
         "t": "4",
@@ -3744,7 +3744,7 @@
   {
     "page": 9,
     "bookPage": 41,
-    "image": "pages/sayfa-09.jpg",
+    "image": "pages/sayfa-09.webp",
     "words": [
       {
         "t": "2",
@@ -4757,7 +4757,7 @@
   {
     "page": 10,
     "bookPage": 42,
-    "image": "pages/sayfa-10.jpg",
+    "image": "pages/sayfa-10.webp",
     "words": [
       {
         "t": "KONUŞMA",
@@ -5109,7 +5109,7 @@
   {
     "page": 11,
     "bookPage": 43,
-    "image": "pages/sayfa-11.jpg",
+    "image": "pages/sayfa-11.webp",
     "words": [
       {
         "t": "BURASI",
@@ -5423,7 +5423,7 @@
   {
     "page": 12,
     "bookPage": 44,
-    "image": "pages/sayfa-12.jpg",
+    "image": "pages/sayfa-12.webp",
     "words": [
       {
         "t": "4",
@@ -6289,7 +6289,7 @@
   {
     "page": 13,
     "bookPage": 45,
-    "image": "pages/sayfa-13.jpg",
+    "image": "pages/sayfa-13.webp",
     "words": [
       {
         "t": "5",
@@ -6879,7 +6879,7 @@
   {
     "page": 14,
     "bookPage": 46,
-    "image": "pages/sayfa-14.jpg",
+    "image": "pages/sayfa-14.webp",
     "words": [
       {
         "t": "SÖZ",
@@ -7304,7 +7304,7 @@
   {
     "page": 15,
     "bookPage": 47,
-    "image": "pages/sayfa-15.jpg",
+    "image": "pages/sayfa-15.webp",
     "words": [
       {
         "t": "Bakınız:",
@@ -8178,7 +8178,7 @@
   {
     "page": 16,
     "bookPage": 48,
-    "image": "pages/sayfa-16.jpg",
+    "image": "pages/sayfa-16.webp",
     "words": [
       {
         "t": "4",
@@ -8782,7 +8782,7 @@
   {
     "page": 17,
     "bookPage": 49,
-    "image": "pages/sayfa-17.jpg",
+    "image": "pages/sayfa-17.webp",
     "words": [
       {
         "t": "SÖZ",
@@ -10427,7 +10427,7 @@
   {
     "page": 18,
     "bookPage": 50,
-    "image": "pages/sayfa-18.jpg",
+    "image": "pages/sayfa-18.webp",
     "words": [
       {
         "t": "Merhaba!",
@@ -11486,7 +11486,7 @@
   {
     "page": 19,
     "bookPage": 51,
-    "image": "pages/sayfa-19.jpg",
+    "image": "pages/sayfa-19.webp",
     "words": [
       {
         "t": "OKULUMUZUN",
@@ -12041,7 +12041,7 @@
   {
     "page": 20,
     "bookPage": 52,
-    "image": "pages/sayfa-20.jpg",
+    "image": "pages/sayfa-20.webp",
     "words": [
       {
         "t": "ZAMANI",
