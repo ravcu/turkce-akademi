@@ -44,7 +44,10 @@
     .answer-fill.answer-underline{color:transparent;text-decoration:underline;text-decoration-color:#125f4d;text-decoration-thickness:1.4px;text-underline-offset:1px}
     .answer-links{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
     .answer-links line{stroke:#087f83;stroke-width:1.5;vector-effect:non-scaling-stroke;marker-end:url(#answerArrow)}
-  </style>
+  
+/* Answer placement editor: visible only with ?answerEditor=1 */
+.answer-editor-panel{margin-top:14px;padding:12px;border:1px solid #a9bdc1;border-radius:12px;background:#f4fbfc;color:#18363c}.answer-editor-panel label{display:block;font-weight:700;margin:8px 0 3px}.answer-editor-panel input,.answer-editor-panel select{box-sizing:border-box;width:100%;padding:8px;border:1px solid #9aafb4;border-radius:6px;background:white;color:#123}.answer-editor-panel button{margin:5px 3px 0 0;padding:7px 10px;border:1px solid #557b85;border-radius:7px;background:white;color:#123;cursor:pointer}.answer-editor-panel .editor-primary{background:#176477;color:white}.answer-editor-hint{font-size:12px;line-height:1.4;margin:8px 0}.answer-editor-layer{position:absolute;inset:0;z-index:40;pointer-events:auto;cursor:crosshair}.answer-editor-object{position:absolute;color:#c71924;font:700 14px 'Times New Roman',serif;white-space:nowrap;cursor:move;user-select:none;touch-action:none;text-shadow:0 0 2px white}.answer-editor-object.selected{outline:1px dashed #165b6e;background:#ffffff80}.answer-editor-svg{position:absolute;inset:0;width:100%;height:100%;pointer-events:none}.answer-editor-object circle{pointer-events:all}
+</style>
 
 <style>.audio-playback{margin:10px 3px 0;padding:10px 12px;background:#fffefa;border:1px solid #cfe1d8;border-radius:12px}.audio-playback[hidden]{display:none}.audio-label{font-size:12px;font-weight:750;color:#075d61;margin-bottom:6px}.audio-playback audio{display:block;width:100%;height:36px}.audio-cue:disabled{cursor:default;color:#687c7c;background:#fffefa;border-color:#ccd8d2}.audio-cue.is-playing{background:#d9f3eb;border-color:#087f83}</style><style>.unit-navigation{display:flex;justify-content:space-between;gap:12px;max-width:1180px;margin:22px auto 0;flex-wrap:wrap}.unit-nav-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:11px 17px;border:1px solid #a4d3c8;border-radius:11px;background:#fffefa;color:#075d61;font:inherit;font-size:13px;font-weight:750;text-decoration:none}.unit-nav-button:hover{background:#e0f4ed;border-color:#087f83}.unit-nav-button:focus-visible{outline:2px solid #087f83;outline-offset:3px}.unit-nav-next{margin-left:auto;background:#087f83;color:white;border-color:#087f83}.unit-nav-next:hover{background:#06696d;color:white}.unit-nav-button:disabled{opacity:.45;cursor:default;background:#edf2ef;color:#667c80;border-color:#d3ded8}@media(max-width:520px){.unit-navigation{gap:8px;margin-top:16px}.unit-nav-button{flex:1;padding:10px 8px;font-size:11px}}</style><style>.heading .unit-navigation{margin:0;max-width:none;flex-wrap:nowrap;justify-content:center;flex:1;align-self:center}.heading .unit-nav-next{margin-left:0}.heading .unit-nav-button{white-space:nowrap;font-size:12px;padding:10px 12px}.heading>div:first-child{flex:0 1 auto}.heading .unit-mark{flex-shrink:0}@media(max-width:1000px){.heading{flex-wrap:wrap}.heading .unit-navigation{order:3;flex-basis:100%;justify-content:flex-start}.heading .unit-mark{margin-left:auto}}@media(max-width:520px){.heading .unit-navigation{gap:8px}.heading .unit-nav-button{font-size:11px;flex:0 1 auto}}</style><style>.page-export-actions{display:flex;justify-content:center;margin:10px 0}.page-export-actions button{background:#e8f5ef;color:#075d61;border:1px solid #a4d3c8;border-radius:10px;padding:10px 14px;font:inherit;font-size:12px;font-weight:750;cursor:pointer}.page-export-actions button:hover{background:#d7efe6}</style><style>/* Improved right-hand study workflow; book layout unchanged. */.side-stack>.answer-details{margin:12px 0 14px}.side-stack .study-area{margin-top:12px!important}.study-card{padding:16px 15px;border-radius:17px}.study-head h2{font-size:15px}.study-head p{font-size:11px}.quiz-question{font-size:20px;line-height:1.4;margin:14px 0}.quiz-tabs{gap:8px;margin:12px 0}.quiz-tab{min-height:38px;font-size:12px}.quiz-options{gap:9px}.quiz-option{min-height:43px;padding:10px 11px;font-size:12px;line-height:1.35}.quiz-meta{margin-top:12px}.quiz-next,.quiz-check{min-height:38px}@media(max-width:520px){.study-card{padding:12px}.quiz-option{min-height:40px;padding:8px;font-size:11px}}</style></head>
 <body>
@@ -80,6 +83,8 @@
           <summary id="answerSummary">Cevapları Göster</summary>
           <div id="answerContent" class="answer-content"><p class="answer-note">Bu sayfanın cevap anahtarı henüz eklenmedi.</p></div>
         </details>
+
+        <section id="answerEditorPanel" class="answer-editor-panel" hidden aria-label="Cevap konumlandırma düzenleyicisi"><strong>✎ Cevap Konumlandırma — Deneme</strong><p class="answer-editor-hint">Yalnızca düzenleme bağlantısında açılır. Kitap üzerinde tıklayarak ekle; yazıyı sürükleyerek düzelt. Değişiklikler önce bu tarayıcıda saklanır.</p><label for="editorTool">Araç</label><select id="editorTool"><option value="text">Kırmızı cevap yazısı</option><option value="circle">Kırmızı daire</option><option value="line">Eşleştirme çizgisi (iki noktaya tıkla)</option></select><label for="editorText">Cevap</label><input id="editorText" type="text" placeholder="Örn. Baba" autocomplete="off"><div><button id="editorUndo" type="button">Sonuncuyu sil</button><button id="editorClear" type="button">Sayfayı temizle</button><button id="editorExport" class="editor-primary" type="button">JSON indir</button></div><p id="editorStatus" class="answer-editor-hint" role="status">Hazır.</p></section>
       </aside>
         <section class="study-area" aria-label="Ünite çalışma alanı">
           <div class="study-card"><div class="study-head"><div><h2 id="quizTitle">Kelime alıştırması</h2><p id="quizIntro">Ünite geneli · English</p></div><span id="quizProgress" class="panel-label">1 / 20</span></div><div class="quiz-tabs" role="tablist" aria-label="Alıştırma kategorisi"><button class="quiz-tab" role="tab" aria-selected="true" data-quiz-mode="vocab">Kelime</button><button class="quiz-tab" role="tab" aria-selected="false" data-quiz-mode="listening">Dinleme</button><button class="quiz-tab" role="tab" aria-selected="false" data-quiz-mode="writing">Yazma</button></div><div id="quizQuestion" class="quiz-question">Alıştırma hazırlanıyor…</div><button id="quizListen" class="quiz-listen" hidden>🔊 Türkçeyi dinle</button><div id="quizOptions" class="quiz-options"></div><form id="quizWrite" class="quiz-write" hidden><input id="quizAnswer" type="text" autocomplete="off" autocapitalize="off" placeholder="Türkçesini yaz" aria-label="Türkçe karşılığı"><button class="quiz-check" type="submit">Kontrol et</button></form><div id="quizFeedback" class="quiz-feedback" role="status" aria-live="polite"></div><div class="quiz-meta"><span id="quizScore">Doğru: 0</span><button id="quizNext" class="quiz-next" disabled>Sonraki soru</button></div></div>
@@ -171,6 +176,69 @@
       overlay.querySelectorAll('.answer-fill').forEach(answer=>{let size=parseFloat(getComputedStyle(answer).fontSize);while(answer.scrollWidth>answer.clientWidth+1&&size>5){size=Math.max(5,size-.5);answer.style.fontSize=`${size}px`}});
     }
     $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları Gizle':'Cevapları Göster';renderAnswerOverlay()});
+
+    // Private visual answer placement preview. No GitHub write credentials are exposed.
+    const answerEditorEnabled=new URLSearchParams(location.search).get('answerEditor')==='1';
+    const editorDraftKey='ta-ailem-ve-evim-answer-editor-v1';
+    let editorDraft={};let editorLineStart=null;let editorSelected=-1;
+    try{const stored=JSON.parse(localStorage.getItem(editorDraftKey)||'{}');if(stored&&typeof stored==='object'&&!Array.isArray(stored))editorDraft=stored}catch{}
+    const editorPanel=$('#answerEditorPanel');
+    let editorLayer=null;
+    const editorPage=()=>String(current+1);
+    const editorItems=()=>editorDraft[editorPage()]||(editorDraft[editorPage()]=[]);
+    const editorClamp=v=>Math.max(0,Math.min(1,Number(v.toFixed(5))));
+    const editorSave=()=>{try{localStorage.setItem(editorDraftKey,JSON.stringify(editorDraft))}catch{}};
+    const editorStatus=msg=>{$('#editorStatus').textContent=msg};
+    function editorRender(){
+      if(!answerEditorEnabled||!editorLayer)return;
+      editorLayer.replaceChildren();editorSelected=-1;
+      const items=editorItems();
+      const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');
+      svg.setAttribute('viewBox','0 0 1000 1000');svg.setAttribute('preserveAspectRatio','none');svg.setAttribute('class','answer-editor-svg');
+      items.forEach((item,index)=>{
+        if(item.type==='text'){
+          const el=document.createElement('span');el.className='answer-editor-object';el.textContent=item.text;
+          el.style.left=item.x*100+'%';el.style.top=item.y*100+'%';el.dataset.index=index;
+          el.addEventListener('pointerdown',ev=>{
+            ev.stopPropagation();ev.preventDefault();editorSelected=index;el.classList.add('selected');el.setPointerCapture(ev.pointerId);
+            const rect=editorLayer.getBoundingClientRect(),dx=ev.clientX-rect.left-item.x*rect.width,dy=ev.clientY-rect.top-item.y*rect.height;
+            const move=e=>{item.x=editorClamp((e.clientX-rect.left-dx)/rect.width);item.y=editorClamp((e.clientY-rect.top-dy)/rect.height);el.style.left=item.x*100+'%';el.style.top=item.y*100+'%'};
+            const stop=()=>{el.removeEventListener('pointermove',move);el.removeEventListener('pointerup',stop);editorSave();editorStatus('Konum kaydedildi.')};
+            el.addEventListener('pointermove',move);el.addEventListener('pointerup',stop,{once:true});
+          });editorLayer.append(el);
+        }else{
+          const shape=document.createElementNS('http://www.w3.org/2000/svg',item.type==='circle'?'ellipse':'line');
+          if(item.type==='circle'){shape.setAttribute('cx',item.x*1000);shape.setAttribute('cy',item.y*1000);shape.setAttribute('rx',(item.rx||.025)*1000);shape.setAttribute('ry',(item.ry||.012)*1000)}
+          else{shape.setAttribute('x1',item.x1*1000);shape.setAttribute('y1',item.y1*1000);shape.setAttribute('x2',item.x2*1000);shape.setAttribute('y2',item.y2*1000)}
+          shape.setAttribute('fill','none');shape.setAttribute('stroke','#d71920');shape.setAttribute('stroke-width','3');svg.append(shape);
+        }
+      });editorLayer.prepend(svg);
+      editorStatus('Sayfa '+editorPage()+': '+items.length+' işaret. Yazıları sürükleyebilirsin.');
+    }
+    if(answerEditorEnabled){
+      editorPanel.hidden=false;
+      editorLayer=document.createElement('div');editorLayer.className='answer-editor-layer';editorLayer.setAttribute('aria-label','Cevap konumlandırma alanı');
+      $('#stage').append(editorLayer);
+      editorLayer.addEventListener('click',ev=>{
+        if(ev.target!==editorLayer&&ev.target.tagName.toLowerCase()!=='svg')return;
+        const rect=editorLayer.getBoundingClientRect(),x=editorClamp((ev.clientX-rect.left)/rect.width),y=editorClamp((ev.clientY-rect.top)/rect.height),tool=$('#editorTool').value;
+        if(tool==='text'){const value=$('#editorText').value.trim();if(!value){editorStatus('Önce cevap metnini yaz.');return}editorItems().push({type:'text',text:value,x,y,w:.16,precise:true})}
+        if(tool==='circle')editorItems().push({type:'circle',x,y,rx:.025,ry:.012});
+        if(tool==='line'){if(!editorLineStart){editorLineStart={x,y};editorStatus('Çizginin bitiş noktasına tıkla.');return}editorItems().push({type:'line',x1:editorLineStart.x,y1:editorLineStart.y,x2:x,y2:y});editorLineStart=null}
+        editorSave();editorRender();
+      });
+      $('#editorUndo').addEventListener('click',()=>{editorItems().pop();editorSave();editorRender()});
+      $('#editorClear').addEventListener('click',()=>{if(!confirm('Bu sayfadaki taslak işaretler silinsin mi?'))return;editorDraft[editorPage()]=[];editorSave();editorRender()});
+      $('#editorExport').addEventListener('click',()=>{
+        const data={unit:'ailem-ve-evim',version:1,pages:editorDraft,exportedAt:new Date().toISOString()};
+        const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');
+        a.href=url;a.download='ailem-ve-evim-cevap-konumlari.json';a.click();setTimeout(()=>URL.revokeObjectURL(url),1500);editorStatus('JSON indirildi. GitHub’a otomatik yüklenmedi.');
+      });
+      const originalRenderPage=renderPage;
+      renderPage=function(){originalRenderPage();editorLineStart=null;editorRender()};
+      editorRender();
+    }
+
     function exportCurrentPageWords(){
       const page=pages[current];if(!page)return;
       const index=LANGS.findIndex(x=>x[0]===targetLang),language=LANGS[index]?.[2]||'English';
