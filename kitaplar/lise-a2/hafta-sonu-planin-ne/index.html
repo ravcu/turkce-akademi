@@ -222,6 +222,29 @@
         }
       }
       const token=w=>normalize(w.t).replace(/[’']/g,"'");
+      // Explicit phrase matching by neighboring PDF hotspots. This also works
+      // when the source PDF extraction order differs from visual reading order.
+      const ordered=words.map((w,i)=>({w,i})).sort((a,b)=>
+        Math.abs((a.w.y+a.w.h/2)-(b.w.y+b.w.h/2))<.006
+          ?a.w.x-b.w.x:(a.w.y+a.w.h/2)-(b.w.y+b.w.h/2));
+      const target=ordered.findIndex(item=>item.i===index);
+      if(target>=0){
+        for(const phrase of phrases){
+          const parts=phrase.split(/\\s+/).map(normalize);
+          if(parts.length<2)continue;
+          for(let start=Math.max(0,target-parts.length+1);start<=Math.min(target,ordered.length-parts.length);start++){
+            const seq=ordered.slice(start,start+parts.length);
+            if(!seq.every((item,j)=>token(item.w)===parts[j]))continue;
+            if(!seq.slice(1).every((item,j)=>{
+              const prev=seq[j].w,cur=item.w;
+              const vertical=Math.abs((prev.y+prev.h/2)-(cur.y+cur.h/2));
+              const gap=cur.x-(prev.x+prev.w);
+              return vertical<.009&&gap>=-.012&&gap<.055&&!/[.!?;:]$/.test(prev.t);
+            }))continue;
+            return {key:phrase,indices:seq.map(item=>item.i),text:seq.map(item=>item.w.t).join(' ')};
+          }
+        }
+      }
       const sameLine=(a,b)=>{const cy=a.y+a.h/2,dy=b.y+b.h/2;return Math.abs(cy-dy)<=Math.max(.007,Math.min(a.h,b.h)*.50)};
       const follows=(a,b)=>{
         if(!sameLine(a,b))return false;
@@ -347,7 +370,7 @@
     $('#quizWrite').addEventListener('submit',e=>{e.preventDefault();const answer=$('#quizAnswer').value;answerQuiz(normalize(answer)===normalize(quizItems[quizIndex]?.text))});
     $('#quizNext').onclick=()=>{if(quizFinished){buildQuiz();return}if(!quizAnswered)return;if(quizIndex===quizItems.length-1){finishQuiz();return}quizIndex++;renderQuiz()};
     try{targetLang=localStorage.getItem('ta-a2-hafta-sonu-planin-ne-lang')||'en';savedWords=readSaved()}catch{} updateLanguageTabs();document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.addEventListener('click',()=>{targetLang=b.dataset.lang;try{localStorage.setItem('ta-a2-hafta-sonu-planin-ne-lang',targetLang)}catch{}updateLanguageTabs();renderSelection();buildQuiz();renderVocab()}));img.addEventListener('load',alignStudyArea);window.addEventListener('resize',alignStudyArea);
-    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json')]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
+    Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json',{cache:'no-store'})]).then(async([p,t])=>{if(!p.ok||!t.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json()]}).then(([data,words])=>{pages=data;glossary=words;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
 
