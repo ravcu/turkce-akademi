@@ -25094,6 +25094,206 @@
         "حللنا مسائل في حصة الرياضيات.",
         "Nous avons résolu des problèmes en cours de mathématiques."
       ]
+    },
+    "felsefe": {
+      "tr": "Felsefe dersinde düşüncelerimizi paylaştık.",
+      "values": [
+        "We shared our ideas in philosophy class.",
+        "На уроке философии мы поделились своими мыслями.",
+        "Философия сабагында ойлорубузду бөлүштүк.",
+        "شاركنا أفكارنا في حصة الفلسفة.",
+        "Nous avons partagé nos idées en cours de philosophie."
+      ]
+    },
+    "tarih": {
+      "tr": "Tarih dersinde eski uygarlıkları öğrendik.",
+      "values": [
+        "We learned about ancient civilizations in history class.",
+        "На уроке истории мы изучали древние цивилизации.",
+        "Тарых сабагында байыркы цивилизацияларды үйрөндүк.",
+        "تعلمنا عن الحضارات القديمة في درس التاريخ.",
+        "Nous avons étudié les civilisations anciennes en cours d'histoire."
+      ]
+    },
+    "anketi": {
+      "tr": "Öğretmenin verdiği anketi doldurdum.",
+      "values": [
+        "I filled out the survey the teacher gave us.",
+        "Я заполнил анкету, которую дал учитель.",
+        "Мугалим берген сурамжылоону толтурдум.",
+        "ملأت الاستبيان الذي أعطانا إياه المعلم.",
+        "J'ai rempli le questionnaire donné par le professeur."
+      ]
+    },
+    "işaretle": {
+      "tr": "Doğru cevabı işaretle.",
+      "values": [
+        "Mark the correct answer.",
+        "Отметь правильный ответ.",
+        "Туура жоопту белгиле.",
+        "ضع علامة على الإجابة الصحيحة.",
+        "Coche la bonne réponse."
+      ]
+    },
+    "konuş": {
+      "tr": "Lütfen biraz daha yavaş konuş.",
+      "values": [
+        "Please speak a little more slowly.",
+        "Пожалуйста, говори немного медленнее.",
+        "Сураныч, бир аз жайыраак сүйлө.",
+        "تحدث ببطء أكثر قليلًا من فضلك.",
+        "Parle un peu plus lentement, s'il te plaît."
+      ]
+    },
+    "sevdiğiniz": {
+      "tr": "Sevdiğiniz ders hangisi?",
+      "values": [
+        "Which subject do you like?",
+        "Какой предмет вам нравится?",
+        "Силерге кайсы сабак жагат?",
+        "ما المادة التي تحبونها؟",
+        "Quelle matière aimez-vous ?"
+      ]
+    },
+    "dersler": {
+      "tr": "Bugün üç farklı dersimiz var.",
+      "values": [
+        "We have three different classes today.",
+        "Сегодня у нас три разных урока.",
+        "Бүгүн үч башка сабагыбыз бар.",
+        "لدينا اليوم ثلاث حصص مختلفة.",
+        "Nous avons trois cours différents aujourd'hui."
+      ]
+    },
+    "dersleri": {
+      "tr": "Pazartesi günkü dersleri defterime yazdım.",
+      "values": [
+        "I wrote Monday's classes in my notebook.",
+        "Я записал уроки на понедельник в тетрадь.",
+        "Дүйшөмбүдөгү сабактарды дептериме жаздым.",
+        "كتبت حصص يوم الاثنين في دفتري.",
+        "J'ai noté les cours du lundi dans mon cahier."
+      ]
+    },
+    "sevmediğiniz": {
+      "tr": "Sevmediğiniz yemekleri yemek zorunda değilsiniz.",
+      "values": [
+        "You don't have to eat foods you dislike.",
+        "Вам не обязательно есть блюда, которые вы не любите.",
+        "Жактырбаган тамактарды жешиңер шарт эмес.",
+        "لستم مضطرين إلى تناول الأطعمة التي لا تحبونها.",
+        "Vous n'êtes pas obligés de manger les plats que vous n'aimez pas."
+      ]
+    },
+    "sevmiyorsunuz": {
+      "tr": "Bu filmi neden sevmiyorsunuz?",
+      "values": [
+        "Why don't you like this movie?",
+        "Почему вам не нравится этот фильм?",
+        "Бул тасма эмне үчүн силерге жакпайт?",
+        "لماذا لا تحبون هذا الفيلم؟",
+        "Pourquoi n'aimez-vous pas ce film ?"
+      ]
+    },
+    "dersin": {
+      "tr": "Bugünkü dersin konusu ne?",
+      "values": [
+        "What is today's lesson about?",
+        "Какая тема сегодняшнего урока?",
+        "Бүгүнкү сабактын темасы эмне?",
+        "ما موضوع درس اليوم؟",
+        "Quel est le sujet du cours d'aujourd'hui ?"
+      ]
+    },
+    "olmasını": {
+      "tr": "Havanın güzel olmasını istiyorum.",
+      "values": [
+        "I want the weather to be nice.",
+        "Я хочу, чтобы погода была хорошей.",
+        "Аба ырайынын жакшы болушун каалайм.",
+        "أريد أن يكون الطقس جميلًا.",
+        "Je souhaite qu'il fasse beau."
+      ]
+    },
+    "günde": {
+      "tr": "Günde iki litre su içiyorum.",
+      "values": [
+        "I drink two liters of water a day.",
+        "Я выпиваю два литра воды в день.",
+        "Күнүнө эки литр суу ичем.",
+        "أشرب لترين من الماء يوميًا.",
+        "Je bois deux litres d'eau par jour."
+      ]
+    },
+    "derse": {
+      "tr": "Derse zamanında geldim.",
+      "values": [
+        "I arrived at class on time.",
+        "Я пришёл на урок вовремя.",
+        "Сабакка өз убагында келдим.",
+        "وصلت إلى الدرس في الوقت المحدد.",
+        "Je suis arrivé à l'heure en cours."
+      ]
+    },
+    "girmek": {
+      "tr": "Sınava girmek için erken kalktım.",
+      "values": [
+        "I got up early to take the exam.",
+        "Я встал рано, чтобы пойти на экзамен.",
+        "Сынакка кирүү үчүн эрте турдум.",
+        "استيقظت مبكرًا لأداء الامتحان.",
+        "Je me suis levé tôt pour passer l'examen."
+      ]
+    },
+    "programda": {
+      "tr": "Programda bugün müzik dersi var.",
+      "values": [
+        "There is a music class on today's schedule.",
+        "Сегодня в расписании есть урок музыки.",
+        "Бүгүнкү жүгүртмөдө музыка сабагы бар.",
+        "توجد حصة موسيقى في جدول اليوم.",
+        "Il y a un cours de musique dans l'emploi du temps d'aujourd'hui."
+      ]
+    },
+    "yukarıdaki": {
+      "tr": "Yukarıdaki soruları cevaplayın.",
+      "values": [
+        "Answer the questions above.",
+        "Ответьте на вопросы выше.",
+        "Жогорудагы суроолорго жооп бергиле.",
+        "أجيبوا عن الأسئلة أعلاه.",
+        "Répondez aux questions ci-dessus."
+      ]
+    },
+    "cevaplarınıza": {
+      "tr": "Cevaplarınıza tekrar bakın.",
+      "values": [
+        "Look at your answers again.",
+        "Ещё раз посмотрите на свои ответы.",
+        "Жоопторуңарды дагы бир жолу карагыла.",
+        "راجعوا إجاباتكم مرة أخرى.",
+        "Regardez à nouveau vos réponses."
+      ]
+    },
+    "ders": {
+      "tr": "Bugünkü ders çok eğlenceliydi.",
+      "values": [
+        "Today's lesson was very fun.",
+        "Сегодняшний урок был очень интересным.",
+        "Бүгүнкү сабак абдан кызыктуу болду.",
+        "كان درس اليوم ممتعًا جدًا.",
+        "Le cours d'aujourd'hui était très agréable."
+      ]
+    },
+    "programınızı": {
+      "tr": "Ders programınızı çantanıza koyun.",
+      "values": [
+        "Put your class schedule in your bag.",
+        "Положите расписание уроков в сумку.",
+        "Сабактардын жүгүртмөсүн сумкаңарга салгыла.",
+        "ضعوا جدول حصصكم في حقائبكم.",
+        "Mettez votre emploi du temps dans votre sac."
+      ]
     }
   },
   "forms": {
