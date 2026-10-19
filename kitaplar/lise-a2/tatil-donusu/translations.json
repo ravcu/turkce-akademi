@@ -23729,6 +23729,226 @@
         "هذه الغابة خضراء في كل فصل.",
         "Cette forêt est verte en toute saison."
       ]
+    },
+    "etti": {
+      "tr": "Bu gezi bizi çok mutlu etti.",
+      "values": [
+        "This trip made us very happy.",
+        "Эта поездка нас очень обрадовала.",
+        "Бул саякат бизди абдан кубантты.",
+        "أسعدتنا هذه الرحلة كثيرًا.",
+        "Cette excursion nous a rendus très heureux."
+      ]
+    },
+    "kitabının": {
+      "tr": "Yazarın kitabının adı Seyahatnâme.",
+      "values": [
+        "The writer's book is called Seyahatnâme.",
+        "Книга писателя называется «Сеяхатнаме».",
+        "Жазуучунун китебинин аты «Саякатнаме».",
+        "اسم كتاب الكاتب هو «سياحتنامه».",
+        "Le livre de l'écrivain s'appelle Seyahatnâme."
+      ]
+    },
+    "evliyanâme": {
+      "tr": "Evliyanâme kelimesini tahtaya yazdık.",
+      "values": [
+        "We wrote the word Evliyanâme on the board.",
+        "Мы написали слово «Эвлиянаме» на доске.",
+        "«Эвлиянаме» деген сөздү тактага жаздык.",
+        "كتبنا كلمة «أوليانامه» على السبورة.",
+        "Nous avons écrit le mot «Evliyanâme» au tableau."
+      ]
+    },
+    "cilttir": {
+      "tr": "Bu eser on cilttir.",
+      "values": [
+        "This work consists of ten volumes.",
+        "Это произведение состоит из десяти томов.",
+        "Бул чыгарма он томдон турат.",
+        "يتكون هذا العمل من عشرة مجلدات.",
+        "Cette œuvre comprend dix volumes."
+      ]
+    },
+    "cilt": {
+      "tr": "Kitabın ilk cildini okudum.",
+      "values": [
+        "I read the first volume of the book.",
+        "Я прочитал первый том книги.",
+        "Китептин биринчи томун окудум.",
+        "قرأت المجلد الأول من الكتاب.",
+        "J'ai lu le premier volume du livre."
+      ]
+    },
+    "kitabında": {
+      "tr": "Bu bilgi tarih kitabında var.",
+      "values": [
+        "This information is in the history book.",
+        "Эта информация есть в учебнике истории.",
+        "Бул маалымат тарых китебинде бар.",
+        "هذه المعلومة موجودة في كتاب التاريخ.",
+        "Cette information figure dans le livre d'histoire."
+      ]
+    },
+    "nelerden": {
+      "tr": "Gezide nelerden bahsettiniz?",
+      "values": [
+        "What did you talk about on the trip?",
+        "О чём вы говорили во время поездки?",
+        "Саякатта эмнелер жөнүндө сүйлөштүңөр?",
+        "عمّ تحدثتم في الرحلة؟",
+        "De quoi avez-vous parlé pendant le voyage ?"
+      ]
+    },
+    "bahsetti": {
+      "tr": "Rehber eski şehirden bahsetti.",
+      "values": [
+        "The guide talked about the old city.",
+        "Гид рассказал о старом городе.",
+        "Гид эски шаар жөнүндө айтып берди.",
+        "تحدث المرشد عن المدينة القديمة.",
+        "Le guide a parlé de la vieille ville."
+      ]
+    },
+    "coğrafya": {
+      "tr": "Coğrafya dersinde harita çizdik.",
+      "values": [
+        "We drew a map in geography class.",
+        "На уроке географии мы рисовали карту.",
+        "География сабагында карта тарттык.",
+        "رسمنا خريطة في درس الجغرافيا.",
+        "Nous avons dessiné une carte en cours de géographie."
+      ]
+    },
+    "anılarından": {
+      "tr": "Dedem çocukluk anılarından bahsetti.",
+      "values": [
+        "My grandfather talked about his childhood memories.",
+        "Дедушка рассказал о воспоминаниях детства.",
+        "Чоң атам балалык эскерүүлөрү жөнүндө айтып берди.",
+        "تحدث جدي عن ذكريات طفولته.",
+        "Mon grand-père a parlé de ses souvenirs d'enfance."
+      ]
+    },
+    "tarihten": {
+      "tr": "Tarihten ilginç bir olay öğrendik.",
+      "values": [
+        "We learned about an interesting historical event.",
+        "Мы узнали об интересном историческом событии.",
+        "Тарыхтан кызыктуу окуя үйрөндүк.",
+        "تعلمنا حدثًا تاريخيًا مثيرًا للاهتمام.",
+        "Nous avons découvert un événement historique intéressant."
+      ]
+    },
+    "kazan": {
+      "tr": "Yemek büyük bir kazanda pişiyor.",
+      "values": [
+        "The food is cooking in a large cauldron.",
+        "Еда готовится в большом котле.",
+        "Тамак чоң казанда бышып жатат.",
+        "يُطهى الطعام في قدر كبير.",
+        "Le repas cuit dans un grand chaudron."
+      ]
+    },
+    "kabil": {
+      "tr": "Kabil Afganistan'ın başkentidir.",
+      "values": [
+        "Kabul is the capital of Afghanistan.",
+        "Кабул — столица Афганистана.",
+        "Кабул — Ооганстандын борбору.",
+        "كابل عاصمة أفغانستان.",
+        "Kaboul est la capitale de l'Afghanistan."
+      ]
+    },
+    "izlediğiniz": {
+      "tr": "İzlediğiniz video hakkında konuşun.",
+      "values": [
+        "Talk about the video you watched.",
+        "Расскажите о видео, которое вы посмотрели.",
+        "Көргөн видеоңор жөнүндө сүйлөшкүлө.",
+        "تحدثوا عن الفيديو الذي شاهدتموه.",
+        "Parlez de la vidéo que vous avez regardée."
+      ]
+    },
+    "tatar": {
+      "tr": "Tatar mutfağında çeşitli hamur işleri var.",
+      "values": [
+        "Tatar cuisine has various pastries.",
+        "В татарской кухне есть разные виды выпечки.",
+        "Татар ашканасында ар кандай камыр тамактар бар.",
+        "توجد معجنات متنوعة في المطبخ التتري.",
+        "La cuisine tatare propose diverses pâtisseries."
+      ]
+    },
+    "yemekleridir": {
+      "tr": "Bunlar bölgenin geleneksel yemekleridir.",
+      "values": [
+        "These are the region's traditional dishes.",
+        "Это традиционные блюда региона.",
+        "Булар аймактын салттуу тамактары.",
+        "هذه أطباق المنطقة التقليدية.",
+        "Ce sont les plats traditionnels de la région."
+      ]
+    },
+    "dikkatinizi": {
+      "tr": "Bu resimde dikkatinizi ne çekti?",
+      "values": [
+        "What caught your attention in this picture?",
+        "Что привлекло ваше внимание на этой картинке?",
+        "Бул сүрөттө көңүлүңөрдү эмне бурду?",
+        "ما الذي لفت انتباهكم في هذه الصورة؟",
+        "Qu'est-ce qui a attiré votre attention sur cette image ?"
+      ]
+    },
+    "konuşun": {
+      "tr": "Arkadaşınızla tatil hakkında konuşun.",
+      "values": [
+        "Talk to your friend about vacation.",
+        "Поговорите с другом об отпуске.",
+        "Досуңар менен эс алуу жөнүндө сүйлөшкүлө.",
+        "تحدثوا مع أصدقائكم عن العطلة.",
+        "Parlez des vacances avec votre camarade."
+      ]
+    },
+    "paratha-saji": {
+      "tr": "Paratha ve saji adlarını videoda duydum.",
+      "values": [
+        "I heard the names paratha and saji in the video.",
+        "Я услышал названия «парата» и «саджи» в видео.",
+        "Видеодон парата жана сажи деген аттарды уктум.",
+        "سمعت اسمي باراتا وساجي في الفيديو.",
+        "J'ai entendu les noms paratha et saji dans la vidéo."
+      ]
+    },
+    "üçpoçmak-kıstıbıy": {
+      "tr": "Üçpoçmak ve kıstıbıy Tatar yemekleridir.",
+      "values": [
+        "Üçpoçmak and kıstıbıy are Tatar dishes.",
+        "Эчпочмак и кыстыбый — татарские блюда.",
+        "Өчпочмак жана кыстыбый — татар тамактары.",
+        "أوتشبوتشماك وكيستيبي من الأطباق التترية.",
+        "L'üçpoçmak et le kıstıbıy sont des plats tatars."
+      ]
+    },
+    "mi": {
+      "tr": "Bu kitap senin mi?",
+      "values": [
+        "Is this book yours?",
+        "Эта книга твоя?",
+        "Бул китеп сеникиби?",
+        "هل هذا الكتاب لك؟",
+        "Ce livre est-il à toi ?"
+      ]
+    },
+    "puan": {
+      "tr": "Bu filme on üzerinden sekiz puan verdim.",
+      "values": [
+        "I gave this film eight out of ten.",
+        "Я поставил этому фильму восемь баллов из десяти.",
+        "Бул тасмага ондон сегиз упай бердим.",
+        "أعطيت هذا الفيلم ثماني نقاط من عشر.",
+        "J'ai donné huit points sur dix à ce film."
+      ]
     }
   },
   "forms": {
