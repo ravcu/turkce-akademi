@@ -188,11 +188,34 @@
     $('#exportPageWords').addEventListener('click',exportCurrentPageWords);
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
     function phraseAt(index,words){
-      const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(' ').length-a.split(' ').length);
-      const adjacent=(a,b)=>{const ay=a.y+a.h/2,by=b.y+b.h/2,dy=by-ay,gap=b.x-(a.x+a.w);if(Math.abs(dy)<=Math.max(.009,Math.min(a.h,b.h)*.75))return b.x>=a.x-.015&&gap<=.08;return dy>0&&dy<=.026&&b.x>=a.x-.09&&b.x<=a.x+a.w+.1};
-      for(const phrase of phrases){const parts=phrase.split(' ');for(let start=Math.max(0,index-parts.length+1);start<=Math.min(index,words.length-parts.length);start++){const seq=words.slice(start,start+parts.length),indices=seq.map((_,j)=>start+j);if(!indices.includes(index))continue;if(seq.every((w,j)=>normalize(w.t)===parts[j])&&seq.slice(1).every((w,j)=>adjacent(seq[j],w)))return {key:phrase,indices,text:seq.map(w=>w.t).join(' ')}}}return null
+      // Match multi-word expressions by their visual position, not PDF extraction order.
+      // A phrase is selected in full regardless of which constituent word was clicked.
+      const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(/\s+/).length-a.split(/\s+/).length);
+      const clicked=words[index];if(!clicked)return null;
+      const token=w=>normalize(w.t).replace(/[’']/g,"'");
+      const sameLine=(a,b)=>{const cy=a.y+a.h/2,dy=b.y+b.h/2;return Math.abs(cy-dy)<=Math.max(.007,Math.min(a.h,b.h)*.50)};
+      const follows=(a,b)=>{
+        if(!sameLine(a,b))return false;
+        const gap=b.x-(a.x+a.w);
+        return gap>=-.008&&gap<=Math.max(.025,Math.min(.052,Math.min(a.h,b.h)*2.3));
+      };
+      const punctuationBoundary=w=>/[.!?;:]$/.test(String(w.t).trim());
+      const candidates=words.map((w,i)=>({w,i})).filter(({w})=>sameLine(clicked,w)).sort((a,b)=>a.w.x-b.w.x);
+      const clickedPosition=candidates.findIndex(c=>c.i===index);
+      if(clickedPosition<0)return null;
+      for(const phrase of phrases){
+        const parts=phrase.split(/\s+/).map(normalize);
+        if(parts.length<2)continue;
+        for(let start=Math.max(0,clickedPosition-parts.length+1);start<=Math.min(clickedPosition,candidates.length-parts.length);start++){
+          const seq=candidates.slice(start,start+parts.length);
+          if(!seq.every((c,j)=>token(c.w)===parts[j]))continue;
+          if(!seq.slice(1).every((c,j)=>follows(seq[j].w,c.w)&&!punctuationBoundary(seq[j].w)))continue;
+          return {key:phrase,indices:seq.map(c=>c.i),text:seq.map(c=>c.w.t).join(' ')};
+        }
+      }
+      return null;
     }
-    function setSelected(indices){const selected=new Set(indices||[]);hits.querySelectorAll('.word-hit').forEach(b=>{const yes=selected.has(Number(b.dataset.index));b.classList.toggle('is-selected',yes);b.setAttribute('aria-pressed',String(yes))})}
+        function setSelected(indices){const selected=new Set(indices||[]);hits.querySelectorAll('.word-hit').forEach(b=>{const yes=selected.has(Number(b.dataset.index));b.classList.toggle('is-selected',yes);b.setAttribute('aria-pressed',String(yes))})}
     function updateLanguageTabs(){document.querySelectorAll('#languageTabs .language-tab').forEach(b=>b.setAttribute('aria-selected',String(b.dataset.lang===targetLang)))}
     function renderSelection(){
       if(!activeSelection)return;
