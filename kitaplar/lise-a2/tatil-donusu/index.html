@@ -174,7 +174,7 @@
         seen.add(key);
         const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
         let meaning=translations?.[index];
-        if(/^\\d+$/.test(key)&&targetLang==='en')meaning=numberToEnglish(Number(key));
+        if(/^\d+$/.test(key)&&targetLang==='en')meaning=numberToEnglish(Number(key));
         rows.push([word,typeof meaning==='string'&&meaning.trim()?meaning:'— (çeviri kontrol edilecek)']);
         const phrase=phraseAt(i,page.words);
         if(phrase&&!seenPhrases.has(phrase.key))seenPhrases.add(phrase.key);
