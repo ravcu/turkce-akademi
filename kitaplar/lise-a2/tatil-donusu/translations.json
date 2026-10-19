@@ -20450,6 +20450,256 @@
         "هيا نضع خطة معًا.",
         "Allez, faisons un plan ensemble."
       ]
+    },
+    "hayvan": {
+      "tr": "Bu parkta birçok hayvan yaşıyor.",
+      "values": [
+        "Many animals live in this park.",
+        "В этом парке живёт много животных.",
+        "Бул паркта көптөгөн жаныбарлар жашайт.",
+        "تعيش حيوانات كثيرة في هذه الحديقة.",
+        "De nombreux animaux vivent dans ce parc."
+      ]
+    },
+    "türü": {
+      "tr": "Bu kuş türü burada yaşıyor.",
+      "values": [
+        "This bird species lives here.",
+        "Этот вид птиц живёт здесь.",
+        "Бул куштун түрү ушул жерде жашайт.",
+        "يعيش هذا النوع من الطيور هنا.",
+        "Cette espèce d'oiseau vit ici."
+      ]
+    },
+    "gördüm": {
+      "tr": "Dün parkta bir tavşan gördüm.",
+      "values": [
+        "I saw a rabbit in the park yesterday.",
+        "Вчера я увидел кролика в парке.",
+        "Кечээ паркта коён көрдүм.",
+        "رأيت أرنبًا في الحديقة أمس.",
+        "Hier, j'ai vu un lapin dans le parc."
+      ]
+    },
+    "kente": {
+      "tr": "Akşam kente ulaştık.",
+      "values": [
+        "We reached the city in the evening.",
+        "Вечером мы добрались до города.",
+        "Кечинде шаарга жеттик.",
+        "وصلنا إلى المدينة مساءً.",
+        "Nous sommes arrivés en ville le soir."
+      ]
+    },
+    "buradaki": {
+      "tr": "Buradaki müze çok eski.",
+      "values": [
+        "The museum here is very old.",
+        "Музей здесь очень старый.",
+        "Бул жердеги музей абдан эски.",
+        "المتحف الموجود هنا قديم جدًا.",
+        "Le musée d'ici est très ancien."
+      ]
+    },
+    "yapıları": {
+      "tr": "Şehrin tarihî yapılarını gezdik.",
+      "values": [
+        "We visited the city's historic buildings.",
+        "Мы осмотрели исторические здания города.",
+        "Шаардын тарыхый имараттарын кыдырдык.",
+        "زرنا المباني التاريخية في المدينة.",
+        "Nous avons visité les bâtiments historiques de la ville."
+      ]
+    },
+    "tepeleri": {
+      "tr": "Uzaktan yeşil tepeleri gördük.",
+      "values": [
+        "We saw green hills in the distance.",
+        "Вдали мы увидели зелёные холмы.",
+        "Алыстан жашыл дөбөлөрдү көрдүк.",
+        "رأينا التلال الخضراء من بعيد.",
+        "Nous avons vu des collines vertes au loin."
+      ]
+    },
+    "uzun": {
+      "tr": "Bugün uzun bir yürüyüş yaptık.",
+      "values": [
+        "We took a long walk today.",
+        "Сегодня мы долго гуляли.",
+        "Бүгүн узак сейилдедик.",
+        "قمنا بنزهة طويلة اليوم.",
+        "Nous avons fait une longue promenade aujourd'hui."
+      ]
+    },
+    "yolculuk": {
+      "tr": "Otobüsle yolculuk altı saat sürdü.",
+      "values": [
+        "The bus journey took six hours.",
+        "Поездка на автобусе длилась шесть часов.",
+        "Автобус менен жол алты саатка созулду.",
+        "استغرقت الرحلة بالحافلة ست ساعات.",
+        "Le trajet en bus a duré six heures."
+      ]
+    },
+    "yaptım": {
+      "tr": "Dün bütün ödevlerimi yaptım.",
+      "values": [
+        "I did all my homework yesterday.",
+        "Вчера я сделал все домашние задания.",
+        "Кечээ бардык үй тапшырмаларымды аткардым.",
+        "أنجزت كل واجباتي أمس.",
+        "J'ai fait tous mes devoirs hier."
+      ]
+    },
+    "kuş": {
+      "tr": "Pencerenin önünde küçük bir kuş var.",
+      "values": [
+        "There is a small bird in front of the window.",
+        "Перед окном сидит маленькая птица.",
+        "Терезенин алдында кичинекей куш бар.",
+        "هناك طائر صغير أمام النافذة.",
+        "Il y a un petit oiseau devant la fenêtre."
+      ]
+    },
+    "batımını": {
+      "tr": "Deniz kenarında gün batımını izledik.",
+      "values": [
+        "We watched the sunset by the sea.",
+        "Мы наблюдали закат у моря.",
+        "Деңиз жээгинде күндүн батышын көрдүк.",
+        "شاهدنا غروب الشمس على شاطئ البحر.",
+        "Nous avons regardé le coucher du soleil au bord de la mer."
+      ]
+    },
+    "izlemek": {
+      "tr": "Film izlemek istiyorum.",
+      "values": [
+        "I want to watch a film.",
+        "Я хочу посмотреть фильм.",
+        "Мен кино көргүм келет.",
+        "أريد مشاهدة فيلم.",
+        "Je veux regarder un film."
+      ]
+    },
+    "çölün": {
+      "tr": "Çölün geceleri çok soğuk olabilir.",
+      "values": [
+        "Desert nights can be very cold.",
+        "Ночи в пустыне могут быть очень холодными.",
+        "Чөлдүн түндөрү абдан суук болушу мүмкүн.",
+        "قد تكون ليالي الصحراء باردة جدًا.",
+        "Les nuits du désert peuvent être très froides."
+      ]
+    },
+    "muhteşem": {
+      "tr": "Dağdan muhteşem bir manzara gördük.",
+      "values": [
+        "We saw a magnificent view from the mountain.",
+        "С горы мы увидели великолепный пейзаж.",
+        "Тоодон укмуштуудай көрүнүш көрдүк.",
+        "رأينا منظرًا رائعًا من الجبل.",
+        "Nous avons vu un paysage magnifique depuis la montagne."
+      ]
+    },
+    "manzarasını": {
+      "tr": "Otelin deniz manzarasını çok sevdim.",
+      "values": [
+        "I really liked the hotel's sea view.",
+        "Мне очень понравился вид на море из отеля.",
+        "Мейманкананын деңиз көрүнүшү мага абдан жакты.",
+        "أعجبني كثيرًا منظر البحر من الفندق.",
+        "J'ai beaucoup aimé la vue sur la mer depuis l'hôtel."
+      ]
+    },
+    "dağdan": {
+      "tr": "Dağdan köye yürüyerek indik.",
+      "values": [
+        "We walked down from the mountain to the village.",
+        "Мы спустились с горы в деревню пешком.",
+        "Тоодон айылга жөө түштүк.",
+        "نزلنا من الجبل إلى القرية سيرًا.",
+        "Nous sommes descendus de la montagne au village à pied."
+      ]
+    },
+    "indikten": {
+      "tr": "Otobüsten indikten sonra eve yürüdük.",
+      "values": [
+        "After getting off the bus, we walked home.",
+        "После выхода из автобуса мы пошли домой пешком.",
+        "Автобустан түшкөндөн кийин үйгө жөө бардык.",
+        "بعد أن نزلنا من الحافلة، مشينا إلى البيت.",
+        "Après être descendus du bus, nous sommes rentrés à pied."
+      ]
+    },
+    "gittim": {
+      "tr": "Geçen hafta sinemaya gittim.",
+      "values": [
+        "I went to the cinema last week.",
+        "На прошлой неделе я ходил в кино.",
+        "Өткөн жумада кинотеатрга бардым.",
+        "ذهبت إلى السينما الأسبوع الماضي.",
+        "Je suis allé au cinéma la semaine dernière."
+      ]
+    },
+    "dağın": {
+      "tr": "Dağın zirvesinde kar var.",
+      "values": [
+        "There is snow on the mountain summit.",
+        "На вершине горы лежит снег.",
+        "Тоонун чокусунда кар бар.",
+        "يوجد ثلج على قمة الجبل.",
+        "Il y a de la neige au sommet de la montagne."
+      ]
+    },
+    "zirvesine": {
+      "tr": "Sabah dağın zirvesine çıktık.",
+      "values": [
+        "We climbed to the mountain summit in the morning.",
+        "Утром мы поднялись на вершину горы.",
+        "Эртең менен тоонун чокусуна чыктык.",
+        "صعدنا إلى قمة الجبل صباحًا.",
+        "Nous sommes montés au sommet de la montagne le matin."
+      ]
+    },
+    "vardım": {
+      "tr": "İstasyona tam zamanında vardım.",
+      "values": [
+        "I arrived at the station right on time.",
+        "Я прибыл на станцию точно вовремя.",
+        "Бекетке так убагында жеттим.",
+        "وصلت إلى المحطة في الوقت المحدد تمامًا.",
+        "Je suis arrivé à la gare juste à l'heure."
+      ]
+    },
+    "ulaştık": {
+      "tr": "Akşam otele ulaştık.",
+      "values": [
+        "We reached the hotel in the evening.",
+        "Вечером мы добрались до отеля.",
+        "Кечинде мейманканага жеттик.",
+        "وصلنا إلى الفندق مساءً.",
+        "Nous sommes arrivés à l'hôtel le soir."
+      ]
+    },
+    "çöldeki": {
+      "tr": "Çöldeki hava çok sıcaktı.",
+      "values": [
+        "The weather in the desert was very hot.",
+        "В пустыне было очень жарко.",
+        "Чөлдө аба абдан ысык болчу.",
+        "كان الجو في الصحراء حارًا جدًا.",
+        "Il faisait très chaud dans le désert."
+      ]
+    },
+    "tırmandım": {
+      "tr": "Dün küçük bir tepeye tırmandım.",
+      "values": [
+        "I climbed a small hill yesterday.",
+        "Вчера я поднялся на небольшой холм.",
+        "Кечээ кичинекей дөбөгө чыктым.",
+        "تسلقت تلًا صغيرًا أمس.",
+        "Hier, j'ai gravi une petite colline."
+      ]
     }
   },
   "forms": {
