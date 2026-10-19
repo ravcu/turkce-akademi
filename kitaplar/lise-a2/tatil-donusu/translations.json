@@ -24209,6 +24209,406 @@
         "يمكنكم العثور على هذه المعلومة في الكتاب.",
         "Vous pouvez trouver cette information dans le livre."
       ]
+    },
+    "bilgisayardan": {
+      "tr": "Haritayı bilgisayardan yazdırdım.",
+      "values": [
+        "I printed the map from the computer.",
+        "Я распечатал карту с компьютера.",
+        "Картаны компьютерден басып чыгардым.",
+        "طبعت الخريطة من الحاسوب.",
+        "J'ai imprimé la carte depuis l'ordinateur."
+      ]
+    },
+    "soruların": {
+      "tr": "Soruların cevaplarını deftere yazın.",
+      "values": [
+        "Write the answers to the questions in your notebook.",
+        "Запишите ответы на вопросы в тетрадь.",
+        "Суроолордун жоопторун дептерге жазгыла.",
+        "اكتبوا إجابات الأسئلة في الدفتر.",
+        "Écrivez les réponses aux questions dans le cahier."
+      ]
+    },
+    "cevabını": {
+      "tr": "Sorunun cevabını biliyorum.",
+      "values": [
+        "I know the answer to the question.",
+        "Я знаю ответ на вопрос.",
+        "Суроонун жообун билем.",
+        "أعرف إجابة السؤال.",
+        "Je connais la réponse à la question."
+      ]
+    },
+    "içeren": {
+      "tr": "Fotoğraf içeren bir sunum hazırladım.",
+      "values": [
+        "I prepared a presentation containing photos.",
+        "Я подготовил презентацию с фотографиями.",
+        "Сүрөттөр камтылган презентация даярдадым.",
+        "أعددت عرضًا يحتوي على صور.",
+        "J'ai préparé une présentation contenant des photos."
+      ]
+    },
+    "metin": {
+      "tr": "Kısa bir metin yazdım.",
+      "values": [
+        "I wrote a short text.",
+        "Я написал короткий текст.",
+        "Кыска текст жаздым.",
+        "كتبت نصًا قصيرًا.",
+        "J'ai écrit un court texte."
+      ]
+    },
+    "haritasının": {
+      "tr": "Ülkenin haritasının çıktısını aldım.",
+      "values": [
+        "I printed a map of the country.",
+        "Я распечатал карту страны.",
+        "Өлкөнүн картасын басып чыгардым.",
+        "طبعت خريطة البلد.",
+        "J'ai imprimé la carte du pays."
+      ]
+    },
+    "çıktısını": {
+      "tr": "Ödevin çıktısını aldım.",
+      "values": [
+        "I printed out the homework.",
+        "Я распечатал домашнее задание.",
+        "Үй тапшырмасын басып чыгардым.",
+        "طبعت الواجب المنزلي.",
+        "J'ai imprimé le devoir."
+      ]
+    },
+    "alın": {
+      "tr": "Lütfen bir kalem alın.",
+      "values": [
+        "Please take a pen.",
+        "Пожалуйста, возьмите ручку.",
+        "Сураныч, калем алгыла.",
+        "خذوا قلمًا من فضلكم.",
+        "Prenez un stylo, s'il vous plaît."
+      ]
+    },
+    "hâline": {
+      "tr": "Fotoğrafları albüm hâline getirdim.",
+      "values": [
+        "I turned the photos into an album.",
+        "Я собрал фотографии в альбом.",
+        "Сүрөттөрдү альбом кылдым.",
+        "حولت الصور إلى ألبوم.",
+        "J'ai transformé les photos en album."
+      ]
+    },
+    "getirin": {
+      "tr": "Kitaplarınızı sınıfa getirin.",
+      "values": [
+        "Bring your books to class.",
+        "Принесите свои книги в класс.",
+        "Китептериңерди класска алып келгиле.",
+        "أحضروا كتبكم إلى الصف.",
+        "Apportez vos livres en classe."
+      ]
+    },
+    "haritanın": {
+      "tr": "Haritanın üzerinde şehirleri işaretledim.",
+      "values": [
+        "I marked the cities on the map.",
+        "Я отметил города на карте.",
+        "Картада шаарларды белгиледим.",
+        "حددت المدن على الخريطة.",
+        "J'ai indiqué les villes sur la carte."
+      ]
+    },
+    "üzerine": {
+      "tr": "Masayı temizledim ve üzerine kitap koydum.",
+      "values": [
+        "I cleaned the table and put a book on it.",
+        "Я протёр стол и положил на него книгу.",
+        "Үстөлдү тазалап, үстүнө китеп койдум.",
+        "نظفت الطاولة ووضعت عليها كتابًا.",
+        "J'ai nettoyé la table et posé un livre dessus."
+      ]
+    },
+    "sunumunuzu": {
+      "tr": "Sunumunuzu sınıfta yapın.",
+      "values": [
+        "Give your presentation in class.",
+        "Проведите свою презентацию в классе.",
+        "Презентацияңарды класста көрсөткүлө.",
+        "قدموا عرضكم في الصف.",
+        "Présentez votre exposé en classe."
+      ]
+    },
+    "albüm": {
+      "tr": "Gezi fotoğraflarını albüme koydum.",
+      "values": [
+        "I put the trip photos in an album.",
+        "Я положил фотографии поездки в альбом.",
+        "Саякат сүрөттөрүн альбомго салдым.",
+        "وضعت صور الرحلة في ألبوم.",
+        "J'ai mis les photos du voyage dans un album."
+      ]
+    },
+    "şehirlerdeki": {
+      "tr": "Bu şehirlerdeki müzeler çok güzel.",
+      "values": [
+        "The museums in these cities are beautiful.",
+        "Музеи в этих городах очень красивые.",
+        "Бул шаарлардагы музейлер абдан кооз.",
+        "المتاحف في هذه المدن جميلة جدًا.",
+        "Les musées de ces villes sont très beaux."
+      ]
+    },
+    "projenize": {
+      "tr": "Projenize güzel bir başlık koyun.",
+      "values": [
+        "Give your project a nice title.",
+        "Придумайте красивое название для проекта.",
+        "Долбооруңарга жакшы ат койгула.",
+        "ضعوا عنوانًا جميلًا لمشروعكم.",
+        "Donnez un beau titre à votre projet."
+      ]
+    },
+    "başlık": {
+      "tr": "Metne uygun bir başlık bulun.",
+      "values": [
+        "Find a suitable title for the text.",
+        "Подберите подходящий заголовок к тексту.",
+        "Текстке ылайыктуу аталыш тапкыла.",
+        "اختاروا عنوانًا مناسبًا للنص.",
+        "Trouvez un titre adapté au texte."
+      ]
+    },
+    "koyun": {
+      "tr": "Kitapları masaya koyun.",
+      "values": [
+        "Put the books on the table.",
+        "Положите книги на стол.",
+        "Китептерди үстөлгө койгула.",
+        "ضعوا الكتب على الطاولة.",
+        "Posez les livres sur la table."
+      ]
+    },
+    "arkadaşların": {
+      "tr": "Arkadaşların bugün nerede?",
+      "values": [
+        "Where are your friends today?",
+        "Где сегодня твои друзья?",
+        "Досторуң бүгүн кайда?",
+        "أين أصدقاؤك اليوم؟",
+        "Où sont tes amis aujourd'hui ?"
+      ]
+    },
+    "mekânların": {
+      "tr": "Tarihî mekânların fotoğraflarını çektim.",
+      "values": [
+        "I took photos of historic sites.",
+        "Я сфотографировал исторические места.",
+        "Тарыхый жерлерди сүрөткө тарттым.",
+        "التقطت صورًا للمواقع التاريخية.",
+        "J'ai photographié des sites historiques."
+      ]
+    },
+    "projeyi": {
+      "tr": "Projeyi dün bitirdik.",
+      "values": [
+        "We finished the project yesterday.",
+        "Мы закончили проект вчера.",
+        "Долбоорду кечээ бүтүрдүк.",
+        "أنهينا المشروع أمس.",
+        "Nous avons terminé le projet hier."
+      ]
+    },
+    "beğendi": {
+      "tr": "Öğretmen projeyi beğendi.",
+      "values": [
+        "The teacher liked the project.",
+        "Учителю понравился проект.",
+        "Мугалимге долбоор жакты.",
+        "أعجب المعلم بالمشروع.",
+        "Le professeur a aimé le projet."
+      ]
+    },
+    "soyadın": {
+      "tr": "Soyadın nedir?",
+      "values": [
+        "What is your surname?",
+        "Какая у тебя фамилия?",
+        "Сенин фамилияң ким?",
+        "ما اسم عائلتك؟",
+        "Quel est ton nom de famille ?"
+      ]
+    },
+    "sunmalısın": {
+      "tr": "Projeni yarın sunmalısın.",
+      "values": [
+        "You must present your project tomorrow.",
+        "Ты должен представить проект завтра.",
+        "Долбооруңду эртең көрсөтүшүң керек.",
+        "يجب أن تقدم مشروعك غدًا.",
+        "Tu dois présenter ton projet demain."
+      ]
+    },
+    "okula": {
+      "tr": "Her gün okula yürüyerek giderim.",
+      "values": [
+        "I walk to school every day.",
+        "Я каждый день хожу в школу пешком.",
+        "Күн сайын мектепке жөө барам.",
+        "أذهب إلى المدرسة مشيًا كل يوم.",
+        "Je vais à l'école à pied tous les jours."
+      ]
+    },
+    "yaşıyorsun": {
+      "tr": "Hangi şehirde yaşıyorsun?",
+      "values": [
+        "Which city do you live in?",
+        "В каком городе ты живёшь?",
+        "Кайсы шаарда жашайсың?",
+        "في أي مدينة تعيش؟",
+        "Dans quelle ville habites-tu ?"
+      ]
+    },
+    "projenizi": {
+      "tr": "Projenizi arkadaşlarınıza anlatın.",
+      "values": [
+        "Tell your friends about your project.",
+        "Расскажите друзьям о своём проекте.",
+        "Долбооруңарды досторуңарга айтып бергиле.",
+        "اشرحوا مشروعكم لأصدقائكم.",
+        "Présentez votre projet à vos camarades."
+      ]
+    },
+    "doğdun": {
+      "tr": "Sen nerede doğdun?",
+      "values": [
+        "Where were you born?",
+        "Где ты родился?",
+        "Сен кайда төрөлгөнсүң?",
+        "أين وُلدت؟",
+        "Où es-tu né ?"
+      ]
+    },
+    "ülkendeki": {
+      "tr": "Ülkendeki tarihî şehirleri tanıt.",
+      "values": [
+        "Introduce the historic cities in your country.",
+        "Расскажи об исторических городах своей страны.",
+        "Өлкөңдөгү тарыхый шаарларды тааныштыр.",
+        "عرّف بالمدن التاريخية في بلدك.",
+        "Présente les villes historiques de ton pays."
+      ]
+    },
+    "ettin": {
+      "tr": "Bu yaz hangi şehirleri ziyaret ettin?",
+      "values": [
+        "Which cities did you visit this summer?",
+        "Какие города ты посетил этим летом?",
+        "Бул жайда кайсы шаарларга бардың?",
+        "ما المدن التي زرتها هذا الصيف؟",
+        "Quelles villes as-tu visitées cet été ?"
+      ]
+    },
+    "çalışmayı": {
+      "tr": "Bu çalışmayı evde tamamladım.",
+      "values": [
+        "I completed this assignment at home.",
+        "Я закончил эту работу дома.",
+        "Бул тапшырманы үйдө бүтүрдүм.",
+        "أكملت هذا العمل في البيت.",
+        "J'ai terminé ce travail à la maison."
+      ]
+    },
+    "ülkenin": {
+      "tr": "Ülkenin en büyük şehri hangisi?",
+      "values": [
+        "What is the largest city in the country?",
+        "Какой самый большой город страны?",
+        "Өлкөнүн эң чоң шаары кайсы?",
+        "ما أكبر مدينة في البلد؟",
+        "Quelle est la plus grande ville du pays ?"
+      ]
+    },
+    "başkentinin": {
+      "tr": "Ülkenin başkentinin adını yazın.",
+      "values": [
+        "Write the name of the country's capital.",
+        "Напишите название столицы страны.",
+        "Өлкөнүн борборунун атын жазгыла.",
+        "اكتبوا اسم عاصمة البلد.",
+        "Écrivez le nom de la capitale du pays."
+      ]
+    },
+    "mekânlar": {
+      "tr": "Şehirde tarihî mekânlar var.",
+      "values": [
+        "There are historic sites in the city.",
+        "В городе есть исторические места.",
+        "Шаарда тарыхый жерлер бар.",
+        "توجد مواقع تاريخية في المدينة.",
+        "Il y a des sites historiques dans la ville."
+      ]
+    },
+    "nelerdir": {
+      "tr": "Bu şehrin özellikleri nelerdir?",
+      "values": [
+        "What are the features of this city?",
+        "Каковы особенности этого города?",
+        "Бул шаардын өзгөчөлүктөрү кандай?",
+        "ما مميزات هذه المدينة؟",
+        "Quelles sont les caractéristiques de cette ville ?"
+      ]
+    },
+    "güzellikler": {
+      "tr": "Burada pek çok doğal güzellik var.",
+      "values": [
+        "There are many natural attractions here.",
+        "Здесь много природных красот.",
+        "Бул жерде табигый кооз жерлер көп.",
+        "توجد هنا مناظر طبيعية جميلة كثيرة.",
+        "Il y a ici beaucoup de beautés naturelles."
+      ]
+    },
+    "seviyorsun": {
+      "tr": "En çok hangi şehri seviyorsun?",
+      "values": [
+        "Which city do you like most?",
+        "Какой город тебе нравится больше всего?",
+        "Кайсы шаарды эң жакшы көрөсүң?",
+        "أي مدينة تحب أكثر؟",
+        "Quelle ville préfères-tu ?"
+      ]
+    },
+    "şehrinizi": {
+      "tr": "Şehrinizi arkadaşlarınıza tanıtın.",
+      "values": [
+        "Introduce your city to your friends.",
+        "Расскажите друзьям о своём городе.",
+        "Шаарыңарды досторуңарга тааныштыргыла.",
+        "عرّفوا أصدقاءكم بمدينتكم.",
+        "Présentez votre ville à vos amis."
+      ]
+    },
+    "yaşamak": {
+      "tr": "Gelecekte deniz kenarında yaşamak istiyorum.",
+      "values": [
+        "I want to live by the sea in the future.",
+        "В будущем я хочу жить у моря.",
+        "Келечекте деңиз жээгинде жашагым келет.",
+        "أريد أن أعيش قرب البحر مستقبلًا.",
+        "Je veux vivre près de la mer à l'avenir."
+      ]
+    },
+    "istiyorsun": {
+      "tr": "Hangi kitabı okumak istiyorsun?",
+      "values": [
+        "Which book do you want to read?",
+        "Какую книгу ты хочешь прочитать?",
+        "Кайсы китепти окугуң келет?",
+        "أي كتاب تريد أن تقرأ؟",
+        "Quel livre veux-tu lire ?"
+      ]
     }
   },
   "forms": {
