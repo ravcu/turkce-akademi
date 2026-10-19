@@ -21600,6 +21600,316 @@
         "يوجد متحف في وسط المدينة.",
         "Il y a un musée dans le centre-ville."
       ]
+    },
+    "evleri": {
+      "tr": "Bu sokaktaki evleri çok beğendim.",
+      "values": [
+        "I really liked the houses on this street.",
+        "Мне очень понравились дома на этой улице.",
+        "Бул көчөдөгү үйлөр мага абдан жакты.",
+        "أعجبتني البيوت في هذا الشارع كثيرًا.",
+        "J'ai beaucoup aimé les maisons de cette rue."
+      ]
+    },
+    "meşhur": {
+      "tr": "Gaziantep baklavasıyla meşhur.",
+      "values": [
+        "Gaziantep is famous for its baklava.",
+        "Газиантеп славится пахлавой.",
+        "Газиантеп баклавасы менен белгилүү.",
+        "تشتهر غازي عنتاب بالبقلاوة.",
+        "Gaziantep est célèbre pour ses baklavas."
+      ]
+    },
+    "yerdir": {
+      "tr": "Burası dinlenmek için güzel bir yerdir.",
+      "values": [
+        "This is a nice place to relax.",
+        "Это хорошее место для отдыха.",
+        "Бул эс алуу үчүн жакшы жер.",
+        "هذا مكان جميل للاسترخاء.",
+        "C'est un bel endroit pour se reposer."
+      ]
+    },
+    "arkadaşlarımla": {
+      "tr": "Hafta sonu arkadaşlarımla buluştum.",
+      "values": [
+        "I met my friends at the weekend.",
+        "На выходных я встретился с друзьями.",
+        "Дем алышта досторум менен жолуктум.",
+        "التقيت بأصدقائي في عطلة نهاية الأسبوع.",
+        "J'ai retrouvé mes amis ce week-end."
+      ]
+    },
+    "kaldım": {
+      "tr": "Tatilde küçük bir otelde kaldım.",
+      "values": [
+        "I stayed at a small hotel on vacation.",
+        "Во время отпуска я остановился в небольшом отеле.",
+        "Эс алууда кичинекей мейманканада калдым.",
+        "أقمت في فندق صغير خلال العطلة.",
+        "J'ai séjourné dans un petit hôtel pendant les vacances."
+      ]
+    },
+    "kiliseler": {
+      "tr": "Şehirde eski kiliseler var.",
+      "values": [
+        "There are old churches in the city.",
+        "В городе есть старинные церкви.",
+        "Шаарда эски чиркөөлөр бар.",
+        "توجد كنائس قديمة في المدينة.",
+        "Il y a de vieilles églises dans la ville."
+      ]
+    },
+    "saraylar": {
+      "tr": "Bu şehirde tarihî saraylar var.",
+      "values": [
+        "There are historic palaces in this city.",
+        "В этом городе есть исторические дворцы.",
+        "Бул шаарда тарыхый сарайлар бар.",
+        "توجد قصور تاريخية في هذه المدينة.",
+        "Il y a des palais historiques dans cette ville."
+      ]
+    },
+    "müze": {
+      "tr": "Bugün yeni bir müze gezdik.",
+      "values": [
+        "We visited a new museum today.",
+        "Сегодня мы посетили новый музей.",
+        "Бүгүн жаңы музейге бардык.",
+        "زرنا متحفًا جديدًا اليوم.",
+        "Aujourd'hui, nous avons visité un nouveau musée."
+      ]
+    },
+    "vardı": {
+      "tr": "Otelin önünde büyük bir bahçe vardı.",
+      "values": [
+        "There was a big garden in front of the hotel.",
+        "Перед отелем был большой сад.",
+        "Мейманкананын алдында чоң бак бар эле.",
+        "كانت هناك حديقة كبيرة أمام الفندق.",
+        "Il y avait un grand jardin devant l'hôtel."
+      ]
+    },
+    "sayede": {
+      "tr": "Rehberimiz sayesinde yolu bulduk.",
+      "values": [
+        "We found the way thanks to our guide.",
+        "Благодаря нашему гиду мы нашли дорогу.",
+        "Гидибиздин жардамы менен жолду таптык.",
+        "وجدنا الطريق بفضل مرشدنا.",
+        "Nous avons trouvé notre chemin grâce à notre guide."
+      ]
+    },
+    "boyunca": {
+      "tr": "Tatil boyunca her gün yüzdük.",
+      "values": [
+        "We swam every day throughout the vacation.",
+        "Весь отпуск мы плавали каждый день.",
+        "Эс алуу бою күн сайын сүздүк.",
+        "سبحنا كل يوم طوال العطلة.",
+        "Nous avons nagé tous les jours pendant les vacances."
+      ]
+    },
+    "müzeyi": {
+      "tr": "Bu müzeyi geçen yıl ziyaret ettim.",
+      "values": [
+        "I visited this museum last year.",
+        "Я посетил этот музей в прошлом году.",
+        "Бул музейге өткөн жылы бардым.",
+        "زرت هذا المتحف العام الماضي.",
+        "J'ai visité ce musée l'année dernière."
+      ]
+    },
+    "ettik": {
+      "tr": "Dün şehri ziyaret ettik.",
+      "values": [
+        "We visited the city yesterday.",
+        "Вчера мы посетили город.",
+        "Кечээ шаарды кыдырдык.",
+        "زرنا المدينة أمس.",
+        "Nous avons visité la ville hier."
+      ]
+    },
+    "çektik": {
+      "tr": "Sahilde çok fotoğraf çektik.",
+      "values": [
+        "We took lots of photos at the beach.",
+        "На пляже мы сделали много фотографий.",
+        "Жээкте көп сүрөт тарттык.",
+        "التقطنا صورًا كثيرة على الشاطئ.",
+        "Nous avons pris beaucoup de photos à la plage."
+      ]
+    },
+    "hadrian": {
+      "tr": "Hadrian Kapısı Antalya'dadır.",
+      "values": [
+        "Hadrian's Gate is in Antalya.",
+        "Ворота Адриана находятся в Анталье.",
+        "Адриан дарбазасы Антальяда жайгашкан.",
+        "تقع بوابة هادريان في أنطاليا.",
+        "La porte d'Hadrien se trouve à Antalya."
+      ]
+    },
+    "kapısı": {
+      "tr": "Müzenin kapısı saat dokuzda açılıyor.",
+      "values": [
+        "The museum door opens at nine.",
+        "Дверь музея открывается в девять.",
+        "Музейдин эшиги саат тогузда ачылат.",
+        "يفتح باب المتحف الساعة التاسعة.",
+        "La porte du musée ouvre à neuf heures."
+      ]
+    },
+    "saat": {
+      "tr": "Tren saat sekizde kalkıyor.",
+      "values": [
+        "The train leaves at eight.",
+        "Поезд отправляется в восемь.",
+        "Поезд саат сегизде жөнөйт.",
+        "ينطلق القطار الساعة الثامنة.",
+        "Le train part à huit heures."
+      ]
+    },
+    "kulesi": {
+      "tr": "Şehrin eski saat kulesi çok güzel.",
+      "values": [
+        "The city's old clock tower is beautiful.",
+        "Старая часовая башня города очень красивая.",
+        "Шаардын эски саат мунарасы абдан кооз.",
+        "برج الساعة القديم في المدينة جميل جدًا.",
+        "La vieille tour de l'horloge de la ville est très belle."
+      ]
+    },
+    "ilgimi": {
+      "tr": "Bu sergi ilgimi çekti.",
+      "values": [
+        "This exhibition caught my interest.",
+        "Эта выставка меня заинтересовала.",
+        "Бул көргөзмө мени кызыктырды.",
+        "أثار هذا المعرض اهتمامي.",
+        "Cette exposition a éveillé mon intérêt."
+      ]
+    },
+    "çeken": {
+      "tr": "Dikkatimi çeken bir fotoğraf gördüm.",
+      "values": [
+        "I saw a photo that caught my attention.",
+        "Я увидел фотографию, которая привлекла моё внимание.",
+        "Көңүлүмдү бурган сүрөттү көрдүм.",
+        "رأيت صورة لفتت انتباهي.",
+        "J'ai vu une photo qui a attiré mon attention."
+      ]
+    },
+    "yapılardı": {
+      "tr": "Bunlar çok eski yapılardı.",
+      "values": [
+        "These were very old buildings.",
+        "Это были очень старые здания.",
+        "Булар абдан эски имараттар эле.",
+        "كانت هذه مباني قديمة جدًا.",
+        "C'étaient des bâtiments très anciens."
+      ]
+    },
+    "doya": {
+      "tr": "Çocuklar parkta doya doya oynadı.",
+      "values": [
+        "The children played in the park to their hearts' content.",
+        "Дети вдоволь наигрались в парке.",
+        "Балдар паркта каалаганча ойношту.",
+        "لعب الأطفال في الحديقة حتى شبعوا من اللعب.",
+        "Les enfants ont joué au parc autant qu'ils le voulaient."
+      ]
+    },
+    "tatlılar": {
+      "tr": "Pastanede farklı tatlılar var.",
+      "values": [
+        "There are different desserts at the pastry shop.",
+        "В кондитерской есть разные десерты.",
+        "Кондитердик дүкөндө ар кандай таттуулар бар.",
+        "توجد حلويات متنوعة في محل الحلويات.",
+        "Il y a différents desserts à la pâtisserie."
+      ]
+    },
+    "yedik": {
+      "tr": "Akşam birlikte yemek yedik.",
+      "values": [
+        "We ate dinner together.",
+        "Вечером мы поужинали вместе.",
+        "Кечинде чогуу тамак жедик.",
+        "تناولنا العشاء معًا.",
+        "Nous avons dîné ensemble."
+      ]
+    },
+    "örneğin": {
+      "tr": "Bazı meyveleri severim, örneğin elmayı.",
+      "values": [
+        "I like some fruits, for example apples.",
+        "Я люблю некоторые фрукты, например яблоки.",
+        "Мен кээ бир жемиштерди, мисалы алманы жакшы көрөм.",
+        "أحب بعض الفواكه، مثل التفاح.",
+        "J'aime certains fruits, par exemple les pommes."
+      ]
+    },
+    "yanık": {
+      "tr": "Ekmeğin bir tarafı yanık.",
+      "values": [
+        "One side of the bread is burnt.",
+        "Одна сторона хлеба подгорела.",
+        "Нандын бир жагы күйүп калган.",
+        "أحد جانبي الخبز محترق.",
+        "Un côté du pain est brûlé."
+      ]
+    },
+    "dondurmanın": {
+      "tr": "Dondurmanın tadı çok güzel.",
+      "values": [
+        "The ice cream tastes delicious.",
+        "Мороженое очень вкусное.",
+        "Балмуздактын даамы абдан жакшы.",
+        "طعم المثلجات لذيذ جدًا.",
+        "La glace est délicieuse."
+      ]
+    },
+    "ilginç": {
+      "tr": "Bu müzenin hikâyesi çok ilginç.",
+      "values": [
+        "The story of this museum is very interesting.",
+        "История этого музея очень интересная.",
+        "Бул музейдин тарыхы абдан кызыктуу.",
+        "قصة هذا المتحف مثيرة للاهتمام.",
+        "L'histoire de ce musée est très intéressante."
+      ]
+    },
+    "güzeldi": {
+      "tr": "Dünkü gezi çok güzeldi.",
+      "values": [
+        "Yesterday's trip was wonderful.",
+        "Вчерашняя поездка была замечательной.",
+        "Кечээги саякат абдан жакшы болду.",
+        "كانت رحلة الأمس رائعة.",
+        "L'excursion d'hier était très agréable."
+      ]
+    },
+    "şehirdi": {
+      "tr": "Burası eskiden küçük bir şehirdi.",
+      "values": [
+        "This used to be a small city.",
+        "Раньше это был маленький город.",
+        "Бул жер мурда кичинекей шаар эле.",
+        "كانت هذه مدينة صغيرة في الماضي.",
+        "Autrefois, c'était une petite ville."
+      ]
+    },
+    "nedenle": {
+      "tr": "Bu nedenle erken çıktık.",
+      "values": [
+        "For this reason, we left early.",
+        "Поэтому мы ушли рано.",
+        "Ошондуктан эрте чыктык.",
+        "لهذا السبب غادرنا مبكرًا.",
+        "C'est pourquoi nous sommes partis tôt."
+      ]
     }
   },
   "forms": {
