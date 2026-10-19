@@ -20350,6 +20350,106 @@
         "أنجز هذا الواجب وحده.",
         "Il a fait ce devoir tout seul."
       ]
+    },
+    "taşkuyu": {
+      "tr": "Geçen yaz Taşkuyu Mağarası'nı gezdik.",
+      "values": [
+        "We visited Taşkuyu Cave last summer.",
+        "Прошлым летом мы посетили пещеру Ташкую.",
+        "Өткөн жайда Ташкую үңкүрүн кыдырдык.",
+        "زرنا كهف تاشكويو الصيف الماضي.",
+        "L'été dernier, nous avons visité la grotte de Taşkuyu."
+      ]
+    },
+    "doğu’nun": {
+      "tr": "Orta Doğu'nun birçok tarihî şehri var.",
+      "values": [
+        "The Middle East has many historic cities.",
+        "На Ближнем Востоке много исторических городов.",
+        "Жакынкы Чыгышта тарыхый шаарлар көп.",
+        "توجد مدن تاريخية كثيرة في الشرق الأوسط.",
+        "Le Moyen-Orient compte de nombreuses villes historiques."
+      ]
+    },
+    "afrika’nın": {
+      "tr": "Afrika'nın farklı iklim bölgeleri var.",
+      "values": [
+        "Africa has different climate zones.",
+        "В Африке есть разные климатические зоны.",
+        "Африкада ар кандай климаттык аймактар бар.",
+        "توجد في إفريقيا مناطق مناخية مختلفة.",
+        "L'Afrique possède différentes zones climatiques."
+      ]
+    },
+    "naukluft": {
+      "tr": "Namib-Naukluft Millî Parkı Namibya'dadır.",
+      "values": [
+        "Namib-Naukluft National Park is in Namibia.",
+        "Национальный парк Намиб-Науклуфт находится в Намибии.",
+        "Намиб-Науклуфт улуттук паркы Намибияда жайгашкан.",
+        "تقع حديقة ناميب نوكلوفت الوطنية في ناميبيا.",
+        "Le parc national de Namib-Naukluft se trouve en Namibie."
+      ]
+    },
+    "hüseyin": {
+      "tr": "Hüseyin bu yaz ailesiyle seyahate çıktı.",
+      "values": [
+        "Hüseyin went on a trip with his family this summer.",
+        "Этим летом Хюсейн отправился в путешествие с семьёй.",
+        "Хүсейин бул жайда үй-бүлөсү менен саякатка чыкты.",
+        "سافر حسين مع عائلته هذا الصيف.",
+        "Hüseyin est parti en voyage avec sa famille cet été."
+      ]
+    },
+    "ayça": {
+      "tr": "Ayça geçen yıl Ürdün'e gitti.",
+      "values": [
+        "Ayça went to Jordan last year.",
+        "Айча в прошлом году ездила в Иорданию.",
+        "Айча өткөн жылы Иорданияга барды.",
+        "ذهبت آيتشا إلى الأردن العام الماضي.",
+        "Ayça est allée en Jordanie l'année dernière."
+      ]
+    },
+    "selim": {
+      "tr": "Selim arkadaşlarıyla geziye çıktı.",
+      "values": [
+        "Selim went on a trip with his friends.",
+        "Селим отправился в поездку с друзьями.",
+        "Селим достору менен саякатка чыкты.",
+        "ذهب سليم في رحلة مع أصدقائه.",
+        "Selim est parti en excursion avec ses amis."
+      ]
+    },
+    "ürdün": {
+      "tr": "Ürdün'de Petra Antik Kenti'ni gördük.",
+      "values": [
+        "We saw the ancient city of Petra in Jordan.",
+        "Мы увидели древний город Петру в Иордании.",
+        "Иорданияда байыркы Петра шаарын көрдүк.",
+        "رأينا مدينة البتراء الأثرية في الأردن.",
+        "Nous avons vu la cité antique de Pétra en Jordanie."
+      ]
+    },
+    "namib": {
+      "tr": "Namib Çölü'nde büyük kum tepeleri var.",
+      "values": [
+        "There are large sand dunes in the Namib Desert.",
+        "В пустыне Намиб есть большие песчаные дюны.",
+        "Намиб чөлүндө чоң кум дөбөлөрү бар.",
+        "توجد كثبان رملية كبيرة في صحراء ناميب.",
+        "Il y a de grandes dunes de sable dans le désert du Namib."
+      ]
+    },
+    "kur": {
+      "tr": "Haydi birlikte bir plan kur.",
+      "values": [
+        "Come on, make a plan together with me.",
+        "Давай вместе составим план.",
+        "Кел, чогуу план түзөлү.",
+        "هيا نضع خطة معًا.",
+        "Allez, faisons un plan ensemble."
+      ]
     }
   },
   "forms": {
