@@ -1407,6 +1407,40 @@
         "أخبرنا برأيك.",
         "Donne-nous ton avis."
       ]
+    },
+    "alabilir miyim": {
+      "translations": [
+        "May I have / buy ...?",
+        "Можно мне ...? / Могу я купить ...?",
+        "... алсам болобу?",
+        "هل يمكنني الحصول على ...؟ / هل يمكنني شراء ...؟",
+        "Est-ce que je peux avoir / acheter ... ?"
+      ],
+      "exampleTr": "Bir bilet alabilir miyim?",
+      "examples": [
+        "May I have a ticket, please?",
+        "Можно мне один билет, пожалуйста?",
+        "Бир билет алсам болобу?",
+        "هل يمكنني الحصول على تذكرة، من فضلك؟",
+        "Est-ce que je peux avoir un billet, s'il vous plaît ?"
+      ]
+    },
+    "izleyebilir miyiz": {
+      "translations": [
+        "Can we watch ...?",
+        "Можем ли мы посмотреть ...?",
+        "... көрсөк болобу?",
+        "هل يمكننا مشاهدة ...؟",
+        "Est-ce que nous pouvons regarder ... ?"
+      ],
+      "exampleTr": "Bu filmi birlikte izleyebilir miyiz?",
+      "examples": [
+        "Can we watch this film together?",
+        "Можем посмотреть этот фильм вместе?",
+        "Бул тасманы чогуу көрсөк болобу?",
+        "هل يمكننا مشاهدة هذا الفيلم معًا؟",
+        "Est-ce qu'on peut regarder ce film ensemble ?"
+      ]
     }
   },
   "examples": {
