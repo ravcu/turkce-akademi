@@ -328,6 +328,104 @@
       "C",
       "C",
       "C"
+    ],
+    "plan": [
+      "plan",
+      "план",
+      "план",
+      "خطة",
+      "projet"
+    ],
+    "davet": [
+      "invitation",
+      "приглашение",
+      "чакыруу",
+      "دعوة",
+      "invitation"
+    ],
+    "gitmek": [
+      "to go",
+      "идти; ехать",
+      "баруу",
+      "الذهاب",
+      "aller"
+    ],
+    "festival": [
+      "festival",
+      "фестиваль",
+      "фестиваль",
+      "مهرجان",
+      "festival"
+    ],
+    "ülke": [
+      "country",
+      "страна",
+      "өлкө",
+      "بلد",
+      "pays"
+    ],
+    "görsel": [
+      "image; visual",
+      "изображение",
+      "сүрөт",
+      "صورة",
+      "image"
+    ],
+    "kapak": [
+      "cover",
+      "обложка",
+      "мукаба",
+      "غلاف",
+      "couverture"
+    ],
+    "görmek": [
+      "to see",
+      "видеть",
+      "көрүү",
+      "الرؤية",
+      "voir"
+    ],
+    "yapmak": [
+      "to do; to make",
+      "делать",
+      "жасоо",
+      "الفعل؛ الصنع",
+      "faire"
+    ],
+    "öğrenmek": [
+      "to learn",
+      "учиться; узнавать",
+      "үйрөнүү",
+      "التعلّم",
+      "apprendre"
+    ],
+    "son": [
+      "end",
+      "конец",
+      "аягы",
+      "نهاية",
+      "fin"
+    ],
+    "gün": [
+      "day",
+      "день",
+      "күн",
+      "يوم",
+      "jour"
+    ],
+    "türkiye": [
+      "Türkiye",
+      "Турция",
+      "Түркия",
+      "تركيا",
+      "Turquie"
+    ],
+    "cumar": [
+      "Saturday",
+      "суббота",
+      "ишемби",
+      "السبت",
+      "samedi"
     ]
   },
   "phrases": {
@@ -367,6 +465,36 @@
     }
   },
   "examples": {
+    "1": {
+      "tr": "Birinci soruyu cevaplayın.",
+      "values": [
+        "Answer the first question.",
+        "Ответьте на первый вопрос.",
+        "Биринчи суроого жооп бергиле.",
+        "أجيبوا عن السؤال الأول.",
+        "Répondez à la première question."
+      ]
+    },
+    "2": {
+      "tr": "İkinci sayfayı açın.",
+      "values": [
+        "Open the second page.",
+        "Откройте вторую страницу.",
+        "Экинчи бетти ачкыла.",
+        "افتحوا الصفحة الثانية.",
+        "Ouvrez la deuxième page."
+      ]
+    },
+    "3": {
+      "tr": "Üçüncü soruyu okuyun.",
+      "values": [
+        "Read the third question.",
+        "Прочитайте третий вопрос.",
+        "Үчүнчү суроону окугула.",
+        "اقرؤوا السؤال الثالث.",
+        "Lisez la troisième question."
+      ]
+    },
     "ünite": {
       "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
       "values": [
@@ -776,8 +904,465 @@
         "سنذهب إلى الحديقة يوم السبت.",
         "Nous irons au parc samedi."
       ]
+    },
+    "a": {
+      "tr": "A seçeneğini işaretleyin.",
+      "values": [
+        "Mark option A.",
+        "Отметьте вариант A.",
+        "А вариантын белгилегиле.",
+        "حددوا الخيار A.",
+        "Cochez la réponse A."
+      ]
+    },
+    "b": {
+      "tr": "B bölümünü okuyun.",
+      "values": [
+        "Read section B.",
+        "Прочитайте раздел B.",
+        "Б бөлүмүн окугула.",
+        "اقرؤوا القسم B.",
+        "Lisez la partie B."
+      ]
+    },
+    "c": {
+      "tr": "C bölümünde festival var.",
+      "values": [
+        "There is a festival in section C.",
+        "В разделе C рассказывается о фестивале.",
+        "C бөлүмүндө фестиваль бар.",
+        "يوجد مهرجان في القسم C.",
+        "Il y a un festival dans la partie C."
+      ]
+    },
+    "cumar": {
+      "tr": "Cumartesi günü parka gideceğiz.",
+      "values": [
+        "We will go to the park on Saturday.",
+        "В субботу мы пойдём в парк.",
+        "Ишемби күнү сейил бакка барабыз.",
+        "سنذهب إلى الحديقة يوم السبت.",
+        "Nous irons au parc samedi."
+      ]
     }
   },
-  "forms": {},
+  "forms": {
+    "planın": {
+      "lemma": "plan",
+      "lemmaTranslations": [
+        "plan",
+        "план",
+        "план",
+        "خطة",
+        "projet"
+      ],
+      "formTranslations": [
+        "your plan",
+        "твой план",
+        "сенин планың",
+        "خطتك",
+        "ton projet"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Yarın için planın var mı?",
+      "examples": [
+        "Do you have a plan for tomorrow?",
+        "У тебя есть планы на завтра?",
+        "Эртеңки күнгө планың барбы?",
+        "هل لديك خطة للغد؟",
+        "Tu as quelque chose de prévu pour demain ?"
+      ]
+    },
+    "davetin": {
+      "lemma": "davet",
+      "lemmaTranslations": [
+        "invitation",
+        "приглашение",
+        "чакыруу",
+        "دعوة",
+        "invitation"
+      ],
+      "formTranslations": [
+        "your invitation",
+        "твоё приглашение",
+        "сенин чакырууң",
+        "دعوتك",
+        "ton invitation"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Davetin için teşekkür ederim.",
+      "examples": [
+        "Thank you for your invitation.",
+        "Спасибо за приглашение.",
+        "Чакырууң үчүн рахмат.",
+        "شكرًا على دعوتك.",
+        "Merci pour ton invitation."
+      ]
+    },
+    "giderim": {
+      "lemma": "gitmek",
+      "lemmaTranslations": [
+        "to go",
+        "идти; ехать",
+        "баруу",
+        "الذهاب",
+        "aller"
+      ],
+      "formTranslations": [
+        "I go; I would go",
+        "я хожу; я пойду",
+        "мен барам",
+        "أذهب",
+        "je vais ; j'irais"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Okula her gün yürüyerek giderim.",
+      "examples": [
+        "I walk to school every day.",
+        "Я каждый день хожу в школу пешком.",
+        "Мен мектепке күн сайын жөө барам.",
+        "أذهب إلى المدرسة مشيًا كل يوم.",
+        "Je vais à l'école à pied tous les jours."
+      ]
+    },
+    "festivali": {
+      "lemma": "festival",
+      "lemmaTranslations": [
+        "festival",
+        "фестиваль",
+        "фестиваль",
+        "مهرجان",
+        "festival"
+      ],
+      "formTranslations": [
+        "the festival (object/possessive form)",
+        "фестиваль (форма слова)",
+        "фестивалды / фестивалы",
+        "المهرجان",
+        "le festival"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu yıl film festivalini ziyaret edeceğiz.",
+      "examples": [
+        "We will visit the film festival this year.",
+        "В этом году мы посетим кинофестиваль.",
+        "Быйыл кинофестивалга барабыз.",
+        "سنزور مهرجان الأفلام هذا العام.",
+        "Cette année, nous irons au festival de cinéma."
+      ]
+    },
+    "ülkede": {
+      "lemma": "ülke",
+      "lemmaTranslations": [
+        "country",
+        "страна",
+        "өлкө",
+        "بلد",
+        "pays"
+      ],
+      "formTranslations": [
+        "in the country",
+        "в стране",
+        "өлкөдө",
+        "في البلد",
+        "dans le pays"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu ülkede birçok dil konuşuluyor.",
+      "examples": [
+        "Many languages are spoken in this country.",
+        "В этой стране говорят на многих языках.",
+        "Бул өлкөдө көп тилде сүйлөшөт.",
+        "تُتحدث لغات كثيرة في هذا البلد.",
+        "On parle de nombreuses langues dans ce pays."
+      ]
+    },
+    "görselde": {
+      "lemma": "görsel",
+      "lemmaTranslations": [
+        "image; visual",
+        "изображение",
+        "сүрөт",
+        "صورة",
+        "image"
+      ],
+      "formTranslations": [
+        "in the picture",
+        "на изображении",
+        "сүрөттө",
+        "في الصورة",
+        "sur l'image"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Görselde üç çocuk var.",
+      "examples": [
+        "There are three children in the picture.",
+        "На картинке трое детей.",
+        "Сүрөттө үч бала бар.",
+        "يوجد ثلاثة أطفال في الصورة.",
+        "Il y a trois enfants sur l'image."
+      ]
+    },
+    "kapaktaki": {
+      "lemma": "kapak",
+      "lemmaTranslations": [
+        "cover",
+        "обложка",
+        "мукаба",
+        "غلاف",
+        "couverture"
+      ],
+      "formTranslations": [
+        "on the cover",
+        "на обложке",
+        "мукабадагы",
+        "الموجود على الغلاف",
+        "sur la couverture"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Kapaktaki resmi beğendim.",
+      "examples": [
+        "I liked the picture on the cover.",
+        "Мне понравилась картинка на обложке.",
+        "Мага мукабадагы сүрөт жакты.",
+        "أعجبتني الصورة الموجودة على الغلاف.",
+        "J'ai aimé l'image sur la couverture."
+      ]
+    },
+    "görüyorsunuz": {
+      "lemma": "görmek",
+      "lemmaTranslations": [
+        "to see",
+        "видеть",
+        "көрүү",
+        "الرؤية",
+        "voir"
+      ],
+      "formTranslations": [
+        "you see (plural/polite)",
+        "вы видите",
+        "сиз көрүп жатасыз",
+        "ترون",
+        "vous voyez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Pencereden ne görüyorsunuz?",
+      "examples": [
+        "What do you see through the window?",
+        "Что вы видите из окна?",
+        "Терезеден эмнени көрүп жатасыз?",
+        "ماذا ترون من النافذة؟",
+        "Que voyez-vous par la fenêtre ?"
+      ]
+    },
+    "yaparsınız": {
+      "lemma": "yapmak",
+      "lemmaTranslations": [
+        "to do; to make",
+        "делать",
+        "жасоо",
+        "الفعل؛ الصنع",
+        "faire"
+      ],
+      "formTranslations": [
+        "you do (plural/polite)",
+        "вы делаете",
+        "сиз жасайсыз",
+        "تفعلون",
+        "vous faites"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Hafta sonu ne yaparsınız?",
+      "examples": [
+        "What do you do on weekends?",
+        "Что вы делаете по выходным?",
+        "Дем алышта эмне кыласыз?",
+        "ماذا تفعلون في عطلة نهاية الأسبوع؟",
+        "Que faites-vous le week-end ?"
+      ]
+    },
+    "öğreneceksiniz": {
+      "lemma": "öğrenmek",
+      "lemmaTranslations": [
+        "to learn",
+        "учиться; узнавать",
+        "үйрөнүү",
+        "التعلّم",
+        "apprendre"
+      ],
+      "formTranslations": [
+        "you will learn",
+        "вы узнаете; вы выучите",
+        "сиз үйрөнөсүз",
+        "سوف تتعلمون",
+        "vous apprendrez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bugün yeni bir konu öğreneceksiniz.",
+      "examples": [
+        "You will learn a new topic today.",
+        "Сегодня вы изучите новую тему.",
+        "Бүгүн жаңы тема үйрөнөсүз.",
+        "ستتعلمون موضوعًا جديدًا اليوم.",
+        "Vous apprendrez un nouveau sujet aujourd'hui."
+      ]
+    },
+    "ülkelerde": {
+      "lemma": "ülke",
+      "lemmaTranslations": [
+        "country",
+        "страна",
+        "өлкө",
+        "بلد",
+        "pays"
+      ],
+      "formTranslations": [
+        "in countries",
+        "в странах",
+        "өлкөлөрдө",
+        "في بلدان",
+        "dans certains pays"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bazı ülkelerde hafta sonu farklıdır.",
+      "examples": [
+        "The weekend is different in some countries.",
+        "В некоторых странах выходные дни другие.",
+        "Кээ бир өлкөлөрдө дем алыш күндөрү башкача.",
+        "تختلف عطلة نهاية الأسبوع في بعض البلدان.",
+        "Le week-end est différent dans certains pays."
+      ]
+    },
+    "sonları": {
+      "lemma": "son",
+      "lemmaTranslations": [
+        "end",
+        "конец",
+        "аягы",
+        "نهاية",
+        "fin"
+      ],
+      "formTranslations": [
+        "their ends; ends of",
+        "концы; окончания",
+        "аяктары",
+        "نهاياتها",
+        "leurs fins"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Hafta sonları ailemle vakit geçiririm.",
+      "examples": [
+        "I spend time with my family on weekends.",
+        "По выходным я провожу время с семьёй.",
+        "Дем алыш күндөрү үй-бүлөм менен убакыт өткөрөм.",
+        "أقضي وقتًا مع عائلتي في عطلات نهاية الأسبوع.",
+        "Je passe du temps avec ma famille le week-end."
+      ]
+    },
+    "günler": {
+      "lemma": "gün",
+      "lemmaTranslations": [
+        "day",
+        "день",
+        "күн",
+        "يوم",
+        "jour"
+      ],
+      "formTranslations": [
+        "days",
+        "дни",
+        "күндөр",
+        "أيام",
+        "jours"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Güzel günler bizi bekliyor.",
+      "examples": [
+        "Good days are ahead of us.",
+        "Нас ждут хорошие дни.",
+        "Бизди жакшы күндөр күтүп турат.",
+        "تنتظرنا أيام جميلة.",
+        "De beaux jours nous attendent."
+      ]
+    },
+    "günüdür": {
+      "lemma": "gün",
+      "lemmaTranslations": [
+        "day",
+        "день",
+        "күн",
+        "يوم",
+        "jour"
+      ],
+      "formTranslations": [
+        "is the day",
+        "это день",
+        "күнү болуп саналат",
+        "هو يوم",
+        "est le jour"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bugün benim doğum günümdür.",
+      "examples": [
+        "Today is my birthday.",
+        "Сегодня мой день рождения.",
+        "Бүгүн менин туулган күнүм.",
+        "اليوم هو عيد ميلادي.",
+        "Aujourd'hui, c'est mon anniversaire."
+      ]
+    },
+    "ünitede": {
+      "lemma": "ünite",
+      "lemmaTranslations": [
+        "unit",
+        "раздел",
+        "бөлүм",
+        "وحدة",
+        "unité"
+      ],
+      "formTranslations": [
+        "in the unit",
+        "в разделе",
+        "бөлүмдө",
+        "في الوحدة",
+        "dans l'unité"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu ünitede yeni kelimeler öğreneceğiz.",
+      "examples": [
+        "We will learn new words in this unit.",
+        "В этом разделе мы выучим новые слова.",
+        "Бул бөлүмдө жаңы сөздөрдү үйрөнөбүз.",
+        "سنتعلم كلمات جديدة في هذه الوحدة.",
+        "Nous apprendrons de nouveaux mots dans cette unité."
+      ]
+    },
+    "türkiye’de": {
+      "lemma": "Türkiye",
+      "lemmaTranslations": [
+        "Türkiye",
+        "Турция",
+        "Түркия",
+        "تركيا",
+        "Turquie"
+      ],
+      "formTranslations": [
+        "in Türkiye",
+        "в Турции",
+        "Түркияда",
+        "في تركيا",
+        "en Turquie"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Türkiye’de birçok tarihî şehir var.",
+      "examples": [
+        "There are many historic cities in Türkiye.",
+        "В Турции много исторических городов.",
+        "Түркияда көптөгөн тарыхый шаарлар бар.",
+        "توجد مدن تاريخية كثيرة في تركيا.",
+        "Il y a beaucoup de villes historiques en Turquie."
+      ]
+    }
+  },
   "quizVocabulary": []
 }
