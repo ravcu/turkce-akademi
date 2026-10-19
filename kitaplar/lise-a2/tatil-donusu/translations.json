@@ -13735,6 +13735,23 @@
         "زرنا مدينة أوليمبوس الأثرية.",
         "Nous avons visité la cité antique d'Olympos."
       ]
+    },
+    "gençlik parkı'nda": {
+      "translations": [
+        "in Gençlik Park",
+        "в парке Генчлик",
+        "Генчлик паркында",
+        "في حديقة غنتشليك",
+        "dans le parc Gençlik"
+      ],
+      "exampleTr": "Gençlik Parkı'nda yürüyüş yaptık.",
+      "examples": [
+        "We took a walk in Gençlik Park.",
+        "Мы прогулялись в парке Генчлик.",
+        "Генчлик паркында сейилдедик.",
+        "تمشينا في حديقة غنتشليك.",
+        "Nous nous sommes promenés dans le parc Gençlik."
+      ]
     }
   },
   "examples": {
@@ -24676,6 +24693,16 @@
         "Анын бул жерде жашаганын билем.",
         "أعرف أنه يعيش هنا.",
         "Je sais qu'il habite ici."
+      ]
+    },
+    "sunun": {
+      "tr": "Projenizi sınıfta arkadaşlarınıza sunun.",
+      "values": [
+        "Present your project to your classmates in class.",
+        "Представьте свой проект одноклассникам в классе.",
+        "Долбооруңарды класста классташтарыңарга көрсөткүлө.",
+        "قدموا مشروعكم لزملائكم في الصف.",
+        "Présentez votre projet à vos camarades en classe."
       ]
     }
   },
