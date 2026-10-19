@@ -13825,6 +13825,26 @@
         "Parlez de vous dans la septième question."
       ]
     },
+    "8": {
+      "tr": "Dersimiz saat 8'de başlıyor.",
+      "values": [
+        "Our lesson starts at eight o'clock.",
+        "Наш урок начинается в восемь часов.",
+        "Сабагыбыз саат сегизде башталат.",
+        "يبدأ درسنا الساعة الثامنة.",
+        "Notre cours commence à huit heures."
+      ]
+    },
+    "9": {
+      "tr": "Saat 9'da okula gidiyorum.",
+      "values": [
+        "I go to school at nine o'clock.",
+        "Я иду в школу в девять часов.",
+        "Мен саат тогузда мектепке барам.",
+        "أذهب إلى المدرسة الساعة التاسعة.",
+        "Je vais à l'école à neuf heures."
+      ]
+    },
     "10": {
       "tr": "10. sayfada tanışma diyalogları var.",
       "values": [
@@ -13883,6 +13903,66 @@
         "Мен 15 жаштамын.",
         "عمري خمس عشرة سنة.",
         "J'ai 15 ans."
+      ]
+    },
+    "17": {
+      "tr": "Otobüs 17 numaralı durakta duruyor.",
+      "values": [
+        "The bus stops at stop number 17.",
+        "Автобус останавливается на остановке номер 17.",
+        "Автобус 17-аялдамада токтойт.",
+        "تتوقف الحافلة عند المحطة رقم 17.",
+        "Le bus s'arrête à l'arrêt numéro 17."
+      ]
+    },
+    "18": {
+      "tr": "Kardeşim bugün 18 yaşına girdi.",
+      "values": [
+        "My younger sibling turned 18 today.",
+        "Моему младшему брату сегодня исполнилось 18 лет.",
+        "Иним бүгүн 18 жашка толду.",
+        "أتمّ أخي الأصغر اليوم الثامنة عشرة من عمره.",
+        "Mon petit frère a eu 18 ans aujourd'hui."
+      ]
+    },
+    "29": {
+      "tr": "29 Ekim'de okulda tören düzenledik.",
+      "values": [
+        "We held a ceremony at school on October 29.",
+        "29 октября мы провели церемонию в школе.",
+        "29-октябрда мектепте салтанат өткөрдүк.",
+        "أقمنا احتفالًا في المدرسة يوم 29 أكتوبر.",
+        "Nous avons organisé une cérémonie à l'école le 29 octobre."
+      ]
+    },
+    "40": {
+      "tr": "Bu sınıfta 40 öğrenci var.",
+      "values": [
+        "There are 40 students in this classroom.",
+        "В этом классе 40 учеников.",
+        "Бул класста 40 окуучу бар.",
+        "في هذا الصف 40 طالبًا.",
+        "Il y a 40 élèves dans cette classe."
+      ]
+    },
+    "50": {
+      "tr": "Bu kitap 50 sayfadan oluşuyor.",
+      "values": [
+        "This book has 50 pages.",
+        "В этой книге 50 страниц.",
+        "Бул китеп 50 беттен турат.",
+        "يتكوّن هذا الكتاب من 50 صفحة.",
+        "Ce livre compte 50 pages."
+      ]
+    },
+    "2001": {
+      "tr": "Babam 2001 yılında üniversiteden mezun oldu.",
+      "values": [
+        "My father graduated from university in 2001.",
+        "Мой отец окончил университет в 2001 году.",
+        "Атам 2001-жылы университетти бүтүргөн.",
+        "تخرّج أبي من الجامعة عام 2001.",
+        "Mon père a obtenu son diplôme universitaire en 2001."
       ]
     },
     "merhaba": [
@@ -24703,6 +24783,16 @@
         "Долбооруңарды класста классташтарыңарга көрсөткүлө.",
         "قدموا مشروعكم لزملائكم في الصف.",
         "Présentez votre projet à vos camarades en classe."
+      ]
+    },
+    "v.001": {
+      "tr": "V.001 kodlu videoyu sınıfta izledik.",
+      "values": [
+        "We watched the video labeled V.001 in class.",
+        "Мы посмотрели в классе видео с кодом V.001.",
+        "Класста V.001 коддуу видеону көрдүк.",
+        "شاهدنا في الصف الفيديو الذي يحمل الرمز V.001.",
+        "Nous avons regardé en classe la vidéo portant le code V.001."
       ]
     }
   },
