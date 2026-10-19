@@ -937,6 +937,202 @@
       "биз көрдүк",
       "شاهدنا",
       "nous avons regardé"
+    ],
+    "işlev": [
+      "function",
+      "функция",
+      "функция",
+      "وظيفة",
+      "fonction"
+    ],
+    "plan/tasarı": [
+      "plan; intention",
+      "план; намерение",
+      "план; ой",
+      "خطة؛ نية",
+      "projet; intention"
+    ],
+    "etkinlik": [
+      "activity; event",
+      "мероприятие",
+      "иш-чара",
+      "نشاط؛ فعالية",
+      "activité; événement"
+    ],
+    "kelime": [
+      "word",
+      "слово",
+      "сөз",
+      "كلمة",
+      "mot"
+    ],
+    "eşleştirmek": [
+      "to match",
+      "сопоставлять",
+      "дал келтирүү",
+      "مطابقة",
+      "associer"
+    ],
+    "diyalog": [
+      "dialogue",
+      "диалог",
+      "диалог",
+      "حوار",
+      "dialogue"
+    ],
+    "okumak": [
+      "to read",
+      "читать",
+      "окуу",
+      "قراءة",
+      "lire"
+    ],
+    "pi": [
+      "Pi (name)",
+      "Пи",
+      "Пи",
+      "باي",
+      "Pi"
+    ],
+    "yaşam": [
+      "life",
+      "жизнь",
+      "жашоо",
+      "حياة",
+      "vie"
+    ],
+    "almak": [
+      "to buy; to take",
+      "покупать; брать",
+      "сатып алуу; алуу",
+      "شراء؛ أخذ",
+      "acheter; prendre"
+    ],
+    "satılmak": [
+      "to be sold",
+      "продаваться",
+      "сатылуу",
+      "أن يُباع",
+      "être vendu"
+    ],
+    "vermek": [
+      "to give",
+      "давать",
+      "берүү",
+      "إعطاء",
+      "donner"
+    ],
+    "şura": [
+      "that place over there",
+      "вон то место",
+      "тиги жер",
+      "ذلك المكان هناك",
+      "cet endroit là-bas"
+    ],
+    "numara": [
+      "number",
+      "номер",
+      "номер",
+      "رقم",
+      "numéro"
+    ],
+    "yan": [
+      "side",
+      "сторона",
+      "жак",
+      "جانب",
+      "côté"
+    ],
+    "yer": [
+      "place; ground",
+      "место; земля",
+      "жер",
+      "مكان؛ أرض",
+      "endroit; sol"
+    ],
+    "yıldız": [
+      "star",
+      "звезда",
+      "жылдыз",
+      "نجمة",
+      "étoile"
+    ],
+    "izlemek": [
+      "to watch",
+      "смотреть",
+      "көрүү",
+      "مشاهدة",
+      "regarder"
+    ],
+    "bildirmek": [
+      "to express; to state",
+      "сообщать; выражать",
+      "билдирүү",
+      "إبلاغ؛ تعبير",
+      "exprimer; annoncer"
+    ],
+    "reddetmek": [
+      "to refuse",
+      "отказываться",
+      "баш тартуу",
+      "رفض",
+      "refuser"
+    ],
+    "gerekçelendirmek": [
+      "to justify",
+      "обосновывать",
+      "негиздөө",
+      "تبرير",
+      "justifier"
+    ],
+    "anlatmak": [
+      "to tell; explain",
+      "рассказывать; объяснять",
+      "айтып берүү",
+      "شرح؛ سرد",
+      "raconter; expliquer"
+    ],
+    "istemek": [
+      "to request; want",
+      "просить; хотеть",
+      "суроо; каалоо",
+      "طلب",
+      "demander"
+    ],
+    "etmek": [
+      "to do",
+      "делать",
+      "кылуу",
+      "فعل",
+      "faire"
+    ],
+    "bulunmak": [
+      "to be; to make (a suggestion)",
+      "находиться; делать (предложение)",
+      "болуу; сунуш кылуу",
+      "وجود؛ تقديم",
+      "se trouver; faire (une proposition)"
+    ],
+    "teklif": [
+      "offer",
+      "предложение",
+      "сунуш",
+      "عرض",
+      "proposition"
+    ],
+    "öneri": [
+      "suggestion",
+      "предложение",
+      "сунуш",
+      "اقتراح",
+      "suggestion"
+    ],
+    "mi (question particle)": [
+      "question particle",
+      "вопросительная частица",
+      "суроо бөлүкчөсү",
+      "أداة استفهام",
+      "particule interrogative"
     ]
   },
   "phrases": {
@@ -972,6 +1168,244 @@
         "Эртең эрте чыгабыз, эсиңде болсун.",
         "سنغادر مبكرًا غدًا، ضع ذلك في اعتبارك.",
         "Nous partirons tôt demain, garde-le à l'esprit."
+      ]
+    },
+    "sinema salonu": {
+      "translations": [
+        "cinema hall",
+        "кинозал",
+        "кино залы",
+        "قاعة السينما",
+        "salle de cinéma"
+      ],
+      "exampleTr": "Sinema salonu ikinci katta.",
+      "examples": [
+        "The cinema hall is on the second floor.",
+        "Кинозал находится на втором этаже.",
+        "Кино залы экинчи кабатта.",
+        "قاعة السينما في الطابق الثاني.",
+        "La salle de cinéma est au deuxième étage."
+      ]
+    },
+    "patlamış mısır": {
+      "translations": [
+        "popcorn",
+        "попкорн",
+        "попкорн",
+        "فشار",
+        "pop-corn"
+      ],
+      "exampleTr": "Film izlerken patlamış mısır yeriz.",
+      "examples": [
+        "We eat popcorn while watching a film.",
+        "Мы едим попкорн, когда смотрим фильм.",
+        "Тасма көрүп жатып попкорн жейбиз.",
+        "نأكل الفشار أثناء مشاهدة الفيلم.",
+        "Nous mangeons du pop-corn en regardant un film."
+      ]
+    },
+    "pi’nin yaşamı": {
+      "translations": [
+        "Life of Pi",
+        "Жизнь Пи",
+        "Пинин жашоосу",
+        "حياة باي",
+        "L'Odyssée de Pi"
+      ],
+      "exampleTr": "Pi’nin Yaşamı filmini izlemek istiyorum.",
+      "examples": [
+        "I want to watch Life of Pi.",
+        "Я хочу посмотреть фильм «Жизнь Пи».",
+        "Мен «Пинин жашоосу» тасмасын көргүм келет.",
+        "أريد مشاهدة فيلم «حياة باي».",
+        "Je veux regarder L'Odyssée de Pi."
+      ]
+    },
+    "neşeli günler": {
+      "translations": [
+        "Cheerful Days (film title)",
+        "Весёлые дни (название фильма)",
+        "Шайыр күндөр (тасманын аталышы)",
+        "أيام سعيدة (عنوان فيلم)",
+        "Jours joyeux (titre du film)"
+      ],
+      "exampleTr": "Neşeli Günler filmini izledik.",
+      "examples": [
+        "We watched the film Cheerful Days.",
+        "Мы посмотрели фильм «Весёлые дни».",
+        "Биз «Шайыр күндөр» тасмасын көрдүк.",
+        "شاهدنا فيلم «أيام سعيدة».",
+        "Nous avons regardé le film Jours joyeux."
+      ]
+    },
+    "yerdeki yıldızlar": {
+      "translations": [
+        "Stars on Earth (film title)",
+        "Звёздочки на земле",
+        "Жердеги жылдыздар",
+        "نجوم على الأرض",
+        "Des étoiles sur la terre"
+      ],
+      "exampleTr": "Yerdeki Yıldızlar filmini çok sevdim.",
+      "examples": [
+        "I really liked the film Stars on Earth.",
+        "Мне очень понравился фильм «Звёздочки на земле».",
+        "Мага «Жердеги жылдыздар» тасмасы абдан жакты.",
+        "أعجبني كثيرًا فيلم «نجوم على الأرض».",
+        "J'ai beaucoup aimé le film Des étoiles sur la terre."
+      ]
+    },
+    "daha önce": {
+      "translations": [
+        "before; previously",
+        "раньше; прежде",
+        "мурда",
+        "من قبل",
+        "auparavant"
+      ],
+      "exampleTr": "Bu filmi daha önce izledim.",
+      "examples": [
+        "I've seen this film before.",
+        "Я уже смотрел этот фильм.",
+        "Бул тасманы мурда көргөм.",
+        "شاهدت هذا الفيلم من قبل.",
+        "J'ai déjà vu ce film."
+      ]
+    },
+    "teklifte bulunma": {
+      "translations": [
+        "making an offer",
+        "внесение предложения",
+        "сунуш кылуу",
+        "تقديم عرض",
+        "faire une proposition"
+      ],
+      "exampleTr": "Arkadaşıma teklifte bulundum.",
+      "examples": [
+        "I made an offer to my friend.",
+        "Я сделал предложение другу.",
+        "Досума сунуш кылдым.",
+        "قدمت عرضًا لصديقي.",
+        "J'ai fait une proposition à mon ami."
+      ]
+    },
+    "öneride bulunma": {
+      "translations": [
+        "making a suggestion",
+        "внесение предложения",
+        "сунуш берүү",
+        "تقديم اقتراح",
+        "faire une suggestion"
+      ],
+      "exampleTr": "Öğretmenimize öneride bulunduk.",
+      "examples": [
+        "We made a suggestion to our teacher.",
+        "Мы предложили кое-что учителю.",
+        "Мугалимибизге сунуш айттык.",
+        "قدمنا اقتراحًا لمعلمنا.",
+        "Nous avons fait une suggestion à notre professeur."
+      ]
+    },
+    "kabul etme": {
+      "translations": [
+        "accepting",
+        "принятие",
+        "кабыл алуу",
+        "القبول",
+        "acceptation"
+      ],
+      "exampleTr": "Davetini kabul etme kararını verdim.",
+      "examples": [
+        "I decided to accept your invitation.",
+        "Я решил принять твоё приглашение.",
+        "Чакырууңду кабыл алууну чечтим.",
+        "قررت قبول دعوتك.",
+        "J'ai décidé d'accepter ton invitation."
+      ]
+    },
+    "bilgi isteme": {
+      "translations": [
+        "asking for information",
+        "запрос информации",
+        "маалымат суроо",
+        "طلب معلومات",
+        "demande de renseignements"
+      ],
+      "exampleTr": "Gişeden bilgi isteme hakkın var.",
+      "examples": [
+        "You can ask for information at the ticket booth.",
+        "Ты можешь запросить информацию в кассе.",
+        "Кассадан маалымат сурасаң болот.",
+        "يمكنك طلب معلومات من شباك التذاكر.",
+        "Tu peux demander des renseignements au guichet."
+      ]
+    },
+    "bilgi verme": {
+      "translations": [
+        "giving information",
+        "предоставление информации",
+        "маалымат берүү",
+        "تقديم معلومات",
+        "transmission d'informations"
+      ],
+      "exampleTr": "Bilgi verme sırası sende.",
+      "examples": [
+        "It's your turn to give information.",
+        "Теперь твоя очередь давать информацию.",
+        "Маалымат берүү кезеги сенде.",
+        "حان دورك لتقديم المعلومات.",
+        "C'est à toi de donner les informations."
+      ]
+    },
+    "kişisel görüş": {
+      "translations": [
+        "personal opinion",
+        "личное мнение",
+        "жеке пикир",
+        "رأي شخصي",
+        "avis personnel"
+      ],
+      "exampleTr": "Bu benim kişisel görüşüm.",
+      "examples": [
+        "This is my personal opinion.",
+        "Это моё личное мнение.",
+        "Бул менин жеке пикирим.",
+        "هذا رأيي الشخصي.",
+        "C'est mon avis personnel."
+      ]
+    },
+    "tercih bildirme": {
+      "translations": [
+        "expressing a preference",
+        "выражение предпочтения",
+        "тандоосун билдирүү",
+        "التعبير عن التفضيل",
+        "exprimer une préférence"
+      ],
+      "exampleTr": "Tercihini açıkça söyle.",
+      "examples": [
+        "Say clearly what you prefer.",
+        "Чётко скажи, что ты предпочитаешь.",
+        "Эмнени тандай турганыңды ачык айт.",
+        "قل بوضوح ما تفضله.",
+        "Dis clairement ce que tu préfères."
+      ]
+    },
+    "görüş bildirme": {
+      "translations": [
+        "expressing an opinion",
+        "выражение мнения",
+        "пикир билдирүү",
+        "إبداء الرأي",
+        "exprimer son avis"
+      ],
+      "exampleTr": "Görüşünü bize bildir.",
+      "examples": [
+        "Tell us your opinion.",
+        "Сообщи нам своё мнение.",
+        "Пикириңди бизге билдир.",
+        "أخبرنا برأيك.",
+        "Donne-nous ton avis."
       ]
     }
   },
@@ -2602,6 +3036,1020 @@
         "Түркияда көптөгөн тарыхый шаарлар бар.",
         "توجد مدن تاريخية كثيرة في تركيا.",
         "Il y a beaucoup de villes historiques en Turquie."
+      ]
+    },
+    "işlevler": {
+      "lemma": "işlev",
+      "lemmaTranslations": [
+        "function",
+        "функция",
+        "функция",
+        "وظيفة",
+        "fonction"
+      ],
+      "formTranslations": [
+        "functions",
+        "функции",
+        "милдеттер",
+        "وظائف",
+        "fonctions"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu ünitede farklı dil işlevleri öğreniyoruz.",
+      "examples": [
+        "We learn different language functions in this unit.",
+        "В этом разделе мы изучаем разные речевые функции.",
+        "Бул бөлүмдө тилдин ар кандай функцияларын үйрөнөбүз.",
+        "نتعلم وظائف لغوية مختلفة في هذه الوحدة.",
+        "Dans cette unité, nous apprenons différentes fonctions langagières."
+      ]
+    },
+    "planlarını/tasarılarını": {
+      "lemma": "plan/tasarı",
+      "lemmaTranslations": [
+        "plan; intention",
+        "план; намерение",
+        "план; ой",
+        "خطة؛ نية",
+        "projet; intention"
+      ],
+      "formTranslations": [
+        "their plans and intentions",
+        "свои планы и намерения",
+        "пландарын жана ойлорун",
+        "خططهم ونواياهم",
+        "leurs projets et intentions"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Arkadaşlarım hafta sonu planlarını anlattı.",
+      "examples": [
+        "My friends talked about their weekend plans.",
+        "Друзья рассказали о своих планах на выходные.",
+        "Досторум дем алыш күндөрүнө болгон пландарын айтып беришти.",
+        "تحدث أصدقائي عن خططهم لعطلة نهاية الأسبوع.",
+        "Mes amis ont parlé de leurs projets pour le week-end."
+      ]
+    },
+    "etkinlikler": {
+      "lemma": "etkinlik",
+      "lemmaTranslations": [
+        "activity; event",
+        "мероприятие",
+        "иш-чара",
+        "نشاط؛ فعالية",
+        "activité; événement"
+      ],
+      "formTranslations": [
+        "activities; events",
+        "мероприятия",
+        "иш-чаралар",
+        "أنشطة وفعاليات",
+        "activités; événements"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Okulda güzel etkinlikler var.",
+      "examples": [
+        "There are fun activities at school.",
+        "В школе проходят интересные мероприятия.",
+        "Мектепте кызыктуу иш-чаралар бар.",
+        "توجد أنشطة ممتعة في المدرسة.",
+        "Il y a des activités intéressantes à l'école."
+      ]
+    },
+    "kelimelerle": {
+      "lemma": "kelime",
+      "lemmaTranslations": [
+        "word",
+        "слово",
+        "сөз",
+        "كلمة",
+        "mot"
+      ],
+      "formTranslations": [
+        "with words",
+        "со словами",
+        "сөздөр менен",
+        "بالكلمات",
+        "avec des mots"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu kelimelerle cümle kur.",
+      "examples": [
+        "Make a sentence with these words.",
+        "Составь предложение с этими словами.",
+        "Бул сөздөр менен сүйлөм түз.",
+        "كوّن جملة بهذه الكلمات.",
+        "Fais une phrase avec ces mots."
+      ]
+    },
+    "görselleri": {
+      "lemma": "görsel",
+      "lemmaTranslations": [
+        "picture",
+        "изображение",
+        "сүрөт",
+        "صورة",
+        "image"
+      ],
+      "formTranslations": [
+        "the pictures",
+        "изображения",
+        "сүрөттөрдү",
+        "الصور",
+        "les images"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Görselleri dikkatle inceleyin.",
+      "examples": [
+        "Look carefully at the pictures.",
+        "Внимательно рассмотри картинки.",
+        "Сүрөттөрдү кунт коюп карагыла.",
+        "انظروا إلى الصور بعناية.",
+        "Observez attentivement les images."
+      ]
+    },
+    "eşleştirin": {
+      "lemma": "eşleştirmek",
+      "lemmaTranslations": [
+        "to match",
+        "сопоставлять",
+        "дал келтирүү",
+        "مطابقة",
+        "associer"
+      ],
+      "formTranslations": [
+        "match them",
+        "сопоставьте",
+        "дал келтиргиле",
+        "طابقوا",
+        "associez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Kelimeleri resimlerle eşleştirin.",
+      "examples": [
+        "Match the words with the pictures.",
+        "Соотнесите слова с картинками.",
+        "Сөздөрдү сүрөттөр менен дал келтиргиле.",
+        "طابقوا الكلمات مع الصور.",
+        "Associez les mots aux images."
+      ]
+    },
+    "salonu": {
+      "lemma": "salon",
+      "lemmaTranslations": [
+        "hall",
+        "зал",
+        "зал",
+        "قاعة",
+        "salle"
+      ],
+      "formTranslations": [
+        "the hall; its hall",
+        "зал",
+        "залы; залды",
+        "القاعة",
+        "la salle"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Sinema salonu çok büyük.",
+      "examples": [
+        "The cinema hall is very big.",
+        "Кинозал очень большой.",
+        "Кино залы абдан чоң.",
+        "قاعة السينما كبيرة جدًا.",
+        "La salle de cinéma est très grande."
+      ]
+    },
+    "diyalogları": {
+      "lemma": "diyalog",
+      "lemmaTranslations": [
+        "dialogue",
+        "диалог",
+        "диалог",
+        "حوار",
+        "dialogue"
+      ],
+      "formTranslations": [
+        "the dialogues",
+        "диалоги",
+        "диалогдорду",
+        "الحوارات",
+        "les dialogues"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Diyalogları sırayla okuyun.",
+      "examples": [
+        "Read the dialogues in order.",
+        "Прочитайте диалоги по порядку.",
+        "Диалогдорду ирети менен окугула.",
+        "اقرؤوا الحوارات بالترتيب.",
+        "Lisez les dialogues dans l'ordre."
+      ]
+    },
+    "okuyun": {
+      "lemma": "okumak",
+      "lemmaTranslations": [
+        "to read",
+        "читать",
+        "окуу",
+        "قراءة",
+        "lire"
+      ],
+      "formTranslations": [
+        "read (plural/polite)",
+        "прочитайте",
+        "окугула",
+        "اقرؤوا",
+        "lisez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Lütfen bu metni okuyun.",
+      "examples": [
+        "Please read this text.",
+        "Пожалуйста, прочитайте этот текст.",
+        "Сураныч, бул текстти окугула.",
+        "يرجى قراءة هذا النص.",
+        "Veuillez lire ce texte."
+      ]
+    },
+    "görsellerle": {
+      "lemma": "görsel",
+      "lemmaTranslations": [
+        "picture",
+        "изображение",
+        "сүрөт",
+        "صورة",
+        "image"
+      ],
+      "formTranslations": [
+        "with pictures",
+        "с изображениями",
+        "сүрөттөр менен",
+        "بالصور",
+        "avec les images"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Kelimeleri görsellerle eşleştir.",
+      "examples": [
+        "Match the words with the pictures.",
+        "Соотнесите слова с изображениями.",
+        "Сөздөрдү сүрөттөр менен дал келтиргиле.",
+        "طابقوا الكلمات مع الصور.",
+        "Associez les mots aux images."
+      ]
+    },
+    "pi’nin": {
+      "lemma": "Pi",
+      "lemmaTranslations": [
+        "Pi (name)",
+        "Пи",
+        "Пи",
+        "باي",
+        "Pi"
+      ],
+      "formTranslations": [
+        "of Pi",
+        "Пи (родительный падеж)",
+        "Пинин",
+        "لـ باي",
+        "de Pi"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Pi’nin Yaşamı filmini izledim.",
+      "examples": [
+        "I watched the film Life of Pi.",
+        "Я посмотрел фильм «Жизнь Пи».",
+        "Мен «Пинин жашоосу» тасмасын көрдүм.",
+        "شاهدت فيلم «حياة باي».",
+        "J'ai regardé le film L'Odyssée de Pi."
+      ]
+    },
+    "yaşamı": {
+      "lemma": "yaşam",
+      "lemmaTranslations": [
+        "life",
+        "жизнь",
+        "жашоо",
+        "حياة",
+        "vie"
+      ],
+      "formTranslations": [
+        "his life; life",
+        "его жизнь; жизнь",
+        "анын жашоосу",
+        "حياته",
+        "sa vie"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Onun yaşamı çok ilginç.",
+      "examples": [
+        "His life is very interesting.",
+        "Его жизнь очень интересная.",
+        "Анын жашоосу абдан кызыктуу.",
+        "حياته مثيرة للاهتمام جدًا.",
+        "Sa vie est très intéressante."
+      ]
+    },
+    "filmi": {
+      "lemma": "film",
+      "lemmaTranslations": [
+        "film",
+        "фильм",
+        "тасма",
+        "فيلم",
+        "film"
+      ],
+      "formTranslations": [
+        "the film",
+        "фильм",
+        "тасманы; тасмасы",
+        "الفيلم",
+        "le film"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu filmi geçen hafta izledim.",
+      "examples": [
+        "I watched this film last week.",
+        "Я посмотрел этот фильм на прошлой неделе.",
+        "Бул тасманы өткөн жумада көрдүм.",
+        "شاهدت هذا الفيلم الأسبوع الماضي.",
+        "J'ai regardé ce film la semaine dernière."
+      ]
+    },
+    "alabilir": {
+      "lemma": "almak",
+      "lemmaTranslations": [
+        "to buy; to take",
+        "покупать; брать",
+        "сатып алуу; алуу",
+        "شراء؛ أخذ",
+        "acheter; prendre"
+      ],
+      "formTranslations": [
+        "can get; can buy",
+        "может взять; может купить",
+        "ала алат",
+        "يمكنه أن يشتري",
+        "peut acheter"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "İsterse bir bilet alabilir.",
+      "examples": [
+        "If he wants, he can buy a ticket.",
+        "Если захочет, он может купить билет.",
+        "Кааласа, билет сатып ала алат.",
+        "إذا أراد، يمكنه شراء تذكرة.",
+        "S'il veut, il peut acheter un billet."
+      ]
+    },
+    "biletler": {
+      "lemma": "bilet",
+      "lemmaTranslations": [
+        "ticket",
+        "билет",
+        "билет",
+        "تذكرة",
+        "billet"
+      ],
+      "formTranslations": [
+        "tickets",
+        "билеты",
+        "билеттер",
+        "تذاكر",
+        "billets"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Biletler sabah satıldı.",
+      "examples": [
+        "The tickets were sold this morning.",
+        "Билеты продали утром.",
+        "Билеттер эртең менен сатылды.",
+        "بِيعت التذاكر صباحًا.",
+        "Les billets ont été vendus ce matin."
+      ]
+    },
+    "satıldı": {
+      "lemma": "satılmak",
+      "lemmaTranslations": [
+        "to be sold",
+        "продаваться",
+        "сатылуу",
+        "أن يُباع",
+        "être vendu"
+      ],
+      "formTranslations": [
+        "was sold; sold out",
+        "продан; распродано",
+        "сатылды",
+        "بِيعَ",
+        "a été vendu"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Konserin biletleri satılıp bitti.",
+      "examples": [
+        "The concert tickets sold out.",
+        "Билеты на концерт распроданы.",
+        "Концерттин билеттери сатылып бүттү.",
+        "نفدت تذاكر الحفل.",
+        "Les billets du concert ont été épuisés."
+      ]
+    },
+    "veriyorum": {
+      "lemma": "vermek",
+      "lemmaTranslations": [
+        "to give",
+        "давать",
+        "берүү",
+        "إعطاء",
+        "donner"
+      ],
+      "formTranslations": [
+        "I am giving",
+        "я даю",
+        "мен берип жатам",
+        "أعطي الآن",
+        "je donne"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bileti sana veriyorum.",
+      "examples": [
+        "I'm giving you the ticket.",
+        "Я даю тебе билет.",
+        "Билетти сага берип жатам.",
+        "أعطيك التذكرة الآن.",
+        "Je te donne le billet."
+      ]
+    },
+    "salonda": {
+      "lemma": "salon",
+      "lemmaTranslations": [
+        "hall",
+        "зал",
+        "зал",
+        "قاعة",
+        "salle"
+      ],
+      "formTranslations": [
+        "in the hall",
+        "в зале",
+        "залда",
+        "في القاعة",
+        "dans la salle"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Arkadaşlarım salonda bekliyor.",
+      "examples": [
+        "My friends are waiting in the hall.",
+        "Мои друзья ждут в зале.",
+        "Досторум залда күтүп жатышат.",
+        "ينتظر أصدقائي في القاعة.",
+        "Mes amis attendent dans la salle."
+      ]
+    },
+    "şurada": {
+      "lemma": "şura",
+      "lemmaTranslations": [
+        "that place over there",
+        "вон то место",
+        "тиги жер",
+        "ذلك المكان هناك",
+        "cet endroit là-bas"
+      ],
+      "formTranslations": [
+        "over there",
+        "вон там",
+        "тиги жерде",
+        "هناك",
+        "juste là-bas"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Gişe şurada, kapının yanında.",
+      "examples": [
+        "The ticket booth is over there, next to the door.",
+        "Касса вон там, рядом с дверью.",
+        "Касса тигил жерде, эшиктин жанында.",
+        "شباك التذاكر هناك بجانب الباب.",
+        "Le guichet est juste là-bas, à côté de la porte."
+      ]
+    },
+    "numaralı": {
+      "lemma": "numara",
+      "lemmaTranslations": [
+        "number",
+        "номер",
+        "номер",
+        "رقم",
+        "numéro"
+      ],
+      "formTranslations": [
+        "numbered",
+        "под номером",
+        "номерлүү",
+        "ذو الرقم",
+        "numéroté"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Dört numaralı salona gidin.",
+      "examples": [
+        "Go to hall number four.",
+        "Пройдите в зал номер четыре.",
+        "Төртүнчү номердеги залга баргыла.",
+        "اذهبوا إلى القاعة رقم أربعة.",
+        "Allez dans la salle numéro quatre."
+      ]
+    },
+    "gişenin": {
+      "lemma": "gişe",
+      "lemmaTranslations": [
+        "ticket booth",
+        "касса",
+        "касса",
+        "شباك التذاكر",
+        "guichet"
+      ],
+      "formTranslations": [
+        "of the ticket booth",
+        "кассы",
+        "кассанын",
+        "لشباك التذاكر",
+        "du guichet"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Gişenin önünde sıra var.",
+      "examples": [
+        "There's a queue in front of the ticket booth.",
+        "Перед кассой очередь.",
+        "Кассанын алдында кезек бар.",
+        "هناك طابور أمام شباك التذاكر.",
+        "Il y a une file d'attente devant le guichet."
+      ]
+    },
+    "yanında": {
+      "lemma": "yan",
+      "lemmaTranslations": [
+        "side",
+        "сторона",
+        "жак",
+        "جانب",
+        "côté"
+      ],
+      "formTranslations": [
+        "next to; beside",
+        "рядом с",
+        "жанында",
+        "بجانب",
+        "à côté de"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Kafe sinemanın yanında.",
+      "examples": [
+        "The café is next to the cinema.",
+        "Кафе рядом с кинотеатром.",
+        "Кафе кинотеатрдын жанында.",
+        "المقهى بجانب السينما.",
+        "Le café est à côté du cinéma."
+      ]
+    },
+    "yerdeki": {
+      "lemma": "yer",
+      "lemmaTranslations": [
+        "place; ground",
+        "место; земля",
+        "жер",
+        "مكان؛ أرض",
+        "endroit; sol"
+      ],
+      "formTranslations": [
+        "on the ground; on the floor",
+        "на земле; на полу",
+        "жердеги",
+        "الموجود على الأرض",
+        "par terre"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Yerdeki kitabı aldım.",
+      "examples": [
+        "I picked up the book from the floor.",
+        "Я поднял книгу с пола.",
+        "Жердеги китепти алдым.",
+        "أخذت الكتاب من الأرض.",
+        "J'ai ramassé le livre par terre."
+      ]
+    },
+    "yıldızlar": {
+      "lemma": "yıldız",
+      "lemmaTranslations": [
+        "star",
+        "звезда",
+        "жылдыз",
+        "نجمة",
+        "étoile"
+      ],
+      "formTranslations": [
+        "stars",
+        "звёзды",
+        "жылдыздар",
+        "نجوم",
+        "étoiles"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu gece yıldızlar çok parlak.",
+      "examples": [
+        "The stars are very bright tonight.",
+        "Сегодня звёзды очень яркие.",
+        "Бүгүн түнү жылдыздар абдан жарык.",
+        "النجوم ساطعة جدًا هذه الليلة.",
+        "Les étoiles brillent beaucoup ce soir."
+      ]
+    },
+    "filmini": {
+      "lemma": "film",
+      "lemmaTranslations": [
+        "film",
+        "фильм",
+        "тасма",
+        "فيلم",
+        "film"
+      ],
+      "formTranslations": [
+        "the film (object form)",
+        "его фильм",
+        "анын тасмасын",
+        "فيلمه",
+        "son film"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Arkadaşımın filmini izledim.",
+      "examples": [
+        "I watched my friend's film.",
+        "Я посмотрел фильм моего друга.",
+        "Досумдун тасмасын көрдүм.",
+        "شاهدت فيلم صديقي.",
+        "J'ai regardé le film de mon ami."
+      ]
+    },
+    "izleyebilir": {
+      "lemma": "izlemek",
+      "lemmaTranslations": [
+        "to watch",
+        "смотреть",
+        "көрүү",
+        "مشاهدة",
+        "regarder"
+      ],
+      "formTranslations": [
+        "can watch",
+        "может посмотреть",
+        "көрө алат",
+        "يستطيع المشاهدة",
+        "peut regarder"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bu filmi herkes izleyebilir.",
+      "examples": [
+        "Everyone can watch this film.",
+        "Этот фильм могут посмотреть все.",
+        "Бул тасманы баары көрө алат.",
+        "يمكن للجميع مشاهدة هذا الفيلم.",
+        "Tout le monde peut regarder ce film."
+      ]
+    },
+    "izledik": {
+      "lemma": "izlemek",
+      "lemmaTranslations": [
+        "to watch",
+        "смотреть",
+        "көрүү",
+        "مشاهدة",
+        "regarder"
+      ],
+      "formTranslations": [
+        "we watched",
+        "мы посмотрели",
+        "биз көрдүк",
+        "شاهدنا",
+        "nous avons regardé"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Dün akşam bir film izledik.",
+      "examples": [
+        "We watched a film last night.",
+        "Вчера вечером мы посмотрели фильм.",
+        "Кечээ кечинде тасма көрдүк.",
+        "شاهدنا فيلمًا مساء أمس.",
+        "Nous avons regardé un film hier soir."
+      ]
+    },
+    "bildirme": {
+      "lemma": "bildirmek",
+      "lemmaTranslations": [
+        "to express; to state",
+        "сообщать; выражать",
+        "билдирүү",
+        "إبلاغ؛ تعبير",
+        "exprimer; annoncer"
+      ],
+      "formTranslations": [
+        "expressing; stating",
+        "выражение; сообщение",
+        "билдирүү",
+        "إبداء؛ إبلاغ",
+        "expression; annonce"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Fikrini bildirme hakkın var.",
+      "examples": [
+        "You have the right to express your opinion.",
+        "Ты имеешь право высказать своё мнение.",
+        "Өз пикириңди билдирүүгө укугуң бар.",
+        "لديك الحق في التعبير عن رأيك.",
+        "Tu as le droit d'exprimer ton avis."
+      ]
+    },
+    "reddetme": {
+      "lemma": "reddetmek",
+      "lemmaTranslations": [
+        "to refuse",
+        "отказываться",
+        "баш тартуу",
+        "رفض",
+        "refuser"
+      ],
+      "formTranslations": [
+        "refusing; rejection",
+        "отказ",
+        "баш тартуу",
+        "رفض",
+        "refus"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Davetleri reddetme nedenini açıkla.",
+      "examples": [
+        "Explain why you refuse invitations.",
+        "Объясни, почему ты отказываешься от приглашений.",
+        "Чакыруулардан эмне үчүн баш тартканыңды түшүндүр.",
+        "اشرح سبب رفضك للدعوات.",
+        "Explique pourquoi tu refuses les invitations."
+      ]
+    },
+    "gerekçelendirme": {
+      "lemma": "gerekçelendirmek",
+      "lemmaTranslations": [
+        "to justify",
+        "обосновывать",
+        "негиздөө",
+        "تبرير",
+        "justifier"
+      ],
+      "formTranslations": [
+        "giving reasons",
+        "обоснование",
+        "себебин түшүндүрүү",
+        "التعليل",
+        "justification"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Cevabını gerekçelendirme çalışması yap.",
+      "examples": [
+        "Practice explaining the reason for your answer.",
+        "Потренируйся обосновывать свой ответ.",
+        "Жообуңдун себебин түшүндүрүүгө машык.",
+        "تدرّب على تبرير إجابتك.",
+        "Entraîne-toi à justifier ta réponse."
+      ]
+    },
+    "anlatma": {
+      "lemma": "anlatmak",
+      "lemmaTranslations": [
+        "to tell; explain",
+        "рассказывать; объяснять",
+        "айтып берүү",
+        "شرح؛ سرد",
+        "raconter; expliquer"
+      ],
+      "formTranslations": [
+        "telling; explaining",
+        "рассказ; объяснение",
+        "айтып берүү",
+        "شرح؛ سرد",
+        "présentation; explication"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bir olayı anlatma çalışması yapıyoruz.",
+      "examples": [
+        "We are practicing telling a story.",
+        "Мы учимся рассказывать о событиях.",
+        "Биз окуяны айтып берүүгө машыгып жатабыз.",
+        "نتدرب على سرد حدث.",
+        "Nous nous entraînons à raconter un événement."
+      ]
+    },
+    "isteme": {
+      "lemma": "istemek",
+      "lemmaTranslations": [
+        "to request; want",
+        "просить; хотеть",
+        "суроо; каалоо",
+        "طلب",
+        "demander"
+      ],
+      "formTranslations": [
+        "requesting",
+        "просьба; запрос",
+        "суроо; өтүнүү",
+        "طلب",
+        "demande"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Yardım isteme konusunda çekinme.",
+      "examples": [
+        "Don't hesitate to ask for help.",
+        "Не стесняйся просить о помощи.",
+        "Жардам суроодон тартынба.",
+        "لا تتردد في طلب المساعدة.",
+        "N'hésite pas à demander de l'aide."
+      ]
+    },
+    "verme": {
+      "lemma": "vermek",
+      "lemmaTranslations": [
+        "to give",
+        "давать",
+        "берүү",
+        "إعطاء",
+        "donner"
+      ],
+      "formTranslations": [
+        "giving",
+        "предоставление",
+        "берүү",
+        "إعطاء",
+        "fait de donner"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bilgi verme görevi bana ait.",
+      "examples": [
+        "I'm responsible for giving information.",
+        "Предоставление информации — моя обязанность.",
+        "Маалымат берүү менин милдетим.",
+        "مهمتي هي تقديم المعلومات.",
+        "C'est à moi de donner les informations."
+      ]
+    },
+    "etme": {
+      "lemma": "etmek",
+      "lemmaTranslations": [
+        "to do",
+        "делать",
+        "кылуу",
+        "فعل",
+        "faire"
+      ],
+      "formTranslations": [
+        "doing; making",
+        "совершение",
+        "кылуу",
+        "القيام بـ",
+        "fait de faire"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bunu kabul etme, önce düşün.",
+      "examples": [
+        "Don't accept this; think first.",
+        "Не соглашайся на это, сначала подумай.",
+        "Муну кабыл алба, адегенде ойлон.",
+        "لا تقبل هذا، فكّر أولًا.",
+        "N'accepte pas cela, réfléchis d'abord."
+      ]
+    },
+    "bulunma": {
+      "lemma": "bulunmak",
+      "lemmaTranslations": [
+        "to be; to make (a suggestion)",
+        "находиться; делать (предложение)",
+        "болуу; сунуш кылуу",
+        "وجود؛ تقديم",
+        "se trouver; faire (une proposition)"
+      ],
+      "formTranslations": [
+        "being; making (in expressions)",
+        "нахождение; совершение",
+        "болуу; жасоо",
+        "وجود؛ تقديم",
+        "fait de se trouver; de faire"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Arkadaşına öneride bulunma fırsatın var.",
+      "examples": [
+        "You have a chance to make a suggestion to your friend.",
+        "У тебя есть возможность предложить что-то другу.",
+        "Досуңа сунуш айтууга мүмкүнчүлүгүң бар.",
+        "لديك فرصة لتقديم اقتراح لصديقك.",
+        "Tu as l'occasion de faire une suggestion à ton ami."
+      ]
+    },
+    "teklifte": {
+      "lemma": "teklif",
+      "lemmaTranslations": [
+        "offer",
+        "предложение",
+        "сунуш",
+        "عرض",
+        "proposition"
+      ],
+      "formTranslations": [
+        "in making an offer",
+        "при предложении",
+        "сунуш кылууда",
+        "عند تقديم اقتراح",
+        "dans une proposition"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Teklifte bulunmadan önce düşün.",
+      "examples": [
+        "Think before making an offer.",
+        "Подумай, прежде чем делать предложение.",
+        "Сунуш кылардан мурун ойлон.",
+        "فكّر قبل تقديم عرض.",
+        "Réfléchis avant de faire une proposition."
+      ]
+    },
+    "öneride": {
+      "lemma": "öneri",
+      "lemmaTranslations": [
+        "suggestion",
+        "предложение",
+        "сунуш",
+        "اقتراح",
+        "suggestion"
+      ],
+      "formTranslations": [
+        "in suggesting",
+        "при предложении",
+        "сунуш берүүдө",
+        "عند الاقتراح",
+        "en proposant"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Öneride bulunmak istiyorum.",
+      "examples": [
+        "I'd like to make a suggestion.",
+        "Я хочу внести предложение.",
+        "Мен сунуш айткым келет.",
+        "أود تقديم اقتراح.",
+        "J'aimerais faire une suggestion."
+      ]
+    },
+    "miyim": {
+      "lemma": "mi (question particle)",
+      "lemmaTranslations": [
+        "question particle",
+        "вопросительная частица",
+        "суроо бөлүкчөсү",
+        "أداة استفهام",
+        "particule interrogative"
+      ],
+      "formTranslations": [
+        "question particle (can I?)",
+        "вопросительная частица (я?)",
+        "суроо бөлүкчөсү (менби?)",
+        "أداة استفهام (أنا)",
+        "particule interrogative (je ?)"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bir soru sorabilir miyim?",
+      "examples": [
+        "May I ask a question?",
+        "Можно задать вопрос?",
+        "Бир суроо берсем болобу?",
+        "هل يمكنني طرح سؤال؟",
+        "Puis-je poser une question ?"
+      ]
+    },
+    "miyiz": {
+      "lemma": "mi (question particle)",
+      "lemmaTranslations": [
+        "question particle",
+        "вопросительная частица",
+        "суроо бөлүкчөсү",
+        "أداة استفهام",
+        "particule interrogative"
+      ],
+      "formTranslations": [
+        "question particle (are we? can we?)",
+        "вопросительная частица (мы?)",
+        "суроо бөлүкчөсү (бизби?)",
+        "أداة استفهام (نحن)",
+        "particule interrogative (nous ?)"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Birlikte gidebilir miyiz?",
+      "examples": [
+        "Can we go together?",
+        "Можем пойти вместе?",
+        "Чогуу барсак болобу?",
+        "هل يمكننا الذهاب معًا؟",
+        "Pouvons-nous y aller ensemble ?"
       ]
     }
   },
