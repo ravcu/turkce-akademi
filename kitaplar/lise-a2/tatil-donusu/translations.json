@@ -21030,6 +21030,266 @@
         "الطقس جميل جدًا اليوم.",
         "Il fait très beau aujourd'hui."
       ]
+    },
+    "konuşma": {
+      "tr": "Bugün derste konuşma çalışması yaptık.",
+      "values": [
+        "We practiced speaking in class today.",
+        "Сегодня на уроке мы практиковали разговорную речь.",
+        "Бүгүн сабакта сүйлөө көнүгүүсүн жасадык.",
+        "تدرّبنا على المحادثة في الصف اليوم.",
+        "Aujourd'hui, nous avons pratiqué l'oral en classe."
+      ]
+    },
+    "afişleri": {
+      "tr": "Gezi afişlerini duvara astık.",
+      "values": [
+        "We hung the travel posters on the wall.",
+        "Мы повесили туристические плакаты на стену.",
+        "Саякат афишаларын дубалга илдик.",
+        "علقنا ملصقات الرحلات على الحائط.",
+        "Nous avons accroché les affiches de voyage au mur."
+      ]
+    },
+    "muğla": {
+      "tr": "Geçen yaz Muğla'da tatil yaptık.",
+      "values": [
+        "We spent our vacation in Muğla last summer.",
+        "Прошлым летом мы отдыхали в Мугле.",
+        "Өткөн жайда Муглада эс алдык.",
+        "قضينا عطلتنا في موغلا الصيف الماضي.",
+        "L'été dernier, nous avons passé nos vacances à Muğla."
+      ]
+    },
+    "güneydoğu": {
+      "tr": "Türkiye'nin güneydoğusunda birçok tarihî yer var.",
+      "values": [
+        "There are many historic sites in southeastern Türkiye.",
+        "На юго-востоке Турции много исторических мест.",
+        "Түркиянын түштүк-чыгышында тарыхый жерлер көп.",
+        "توجد أماكن تاريخية كثيرة في جنوب شرق تركيا.",
+        "Il y a de nombreux sites historiques dans le sud-est de la Turquie."
+      ]
+    },
+    "gece": {
+      "tr": "Dün gece erken uyudum.",
+      "values": [
+        "I went to sleep early last night.",
+        "Вчера вечером я рано лёг спать.",
+        "Кечээ түнү эрте уктадым.",
+        "نمت مبكرًا ليلة أمس.",
+        "Je me suis couché tôt hier soir."
+      ]
+    },
+    "gaziantep": {
+      "tr": "Gaziantep'te baklava yedik.",
+      "values": [
+        "We ate baklava in Gaziantep.",
+        "Мы ели пахлаву в Газиантепе.",
+        "Газиантепте баклава жедик.",
+        "أكلنا البقلاوة في غازي عنتاب.",
+        "Nous avons mangé des baklavas à Gaziantep."
+      ]
+    },
+    "mardin": {
+      "tr": "Mardin'in eski sokaklarını gezdik.",
+      "values": [
+        "We explored Mardin's old streets.",
+        "Мы гуляли по старым улицам Мардина.",
+        "Мардиндин эски көчөлөрүн кыдырдык.",
+        "تجولنا في شوارع ماردين القديمة.",
+        "Nous avons parcouru les vieilles rues de Mardin."
+      ]
+    },
+    "kişi": {
+      "tr": "Bu odada üç kişi kalabilir.",
+      "values": [
+        "Three people can stay in this room.",
+        "В этом номере могут остановиться три человека.",
+        "Бул бөлмөдө үч киши жашай алат.",
+        "يمكن لثلاثة أشخاص الإقامة في هذه الغرفة.",
+        "Trois personnes peuvent séjourner dans cette chambre."
+      ]
+    },
+    "başı": {
+      "tr": "Biletler kişi başı yüz lira.",
+      "values": [
+        "Tickets cost one hundred lira per person.",
+        "Билеты стоят сто лир с человека.",
+        "Билеттер киши башына жүз лира турат.",
+        "سعر التذكرة مئة ليرة للشخص الواحد.",
+        "Les billets coûtent cent livres turques par personne."
+      ]
+    },
+    "tl": {
+      "tr": "Bu bilet iki yüz TL.",
+      "values": [
+        "This ticket costs two hundred Turkish lira.",
+        "Этот билет стоит двести турецких лир.",
+        "Бул билет эки жүз түрк лирасы турат.",
+        "سعر هذه التذكرة مئتا ليرة تركية.",
+        "Ce billet coûte deux cents livres turques."
+      ]
+    },
+    "plaja": {
+      "tr": "Otelden plaja yürüdük.",
+      "values": [
+        "We walked from the hotel to the beach.",
+        "Мы дошли от отеля до пляжа пешком.",
+        "Мейманканадан пляжга жөө бардык.",
+        "مشينا من الفندق إلى الشاطئ.",
+        "Nous sommes allés à pied de l'hôtel à la plage."
+      ]
+    },
+    "yürüme": {
+      "tr": "Otelden merkeze yürüme mesafesi kısa.",
+      "values": [
+        "The walking distance from the hotel to the center is short.",
+        "От отеля до центра недалеко пешком.",
+        "Мейманканадан борборго жөө баруу аралыгы кыска.",
+        "المسافة سيرًا من الفندق إلى المركز قصيرة.",
+        "Le centre est à une courte distance à pied de l'hôtel."
+      ]
+    },
+    "mesafesi": {
+      "tr": "Okulla ev arasındaki mesafe kısa.",
+      "values": [
+        "The distance between school and home is short.",
+        "Расстояние между школой и домом небольшое.",
+        "Мектеп менен үйдүн аралыгы жакын.",
+        "المسافة بين المدرسة والمنزل قصيرة.",
+        "La distance entre l'école et la maison est courte."
+      ]
+    },
+    "kahvaltı": {
+      "tr": "Sabah otelde kahvaltı yaptık.",
+      "values": [
+        "We had breakfast at the hotel in the morning.",
+        "Утром мы позавтракали в отеле.",
+        "Эртең менен мейманканада эртең мененки тамакты жедик.",
+        "تناولنا الفطور في الفندق صباحًا.",
+        "Nous avons pris le petit-déjeuner à l'hôtel."
+      ]
+    },
+    "mekânlarda": {
+      "tr": "Tarihî mekânlarda fotoğraf çektik.",
+      "values": [
+        "We took photos at historic sites.",
+        "Мы фотографировались в исторических местах.",
+        "Тарыхый жайларда сүрөткө түштүк.",
+        "التقطنا صورًا في الأماكن التاريخية.",
+        "Nous avons pris des photos dans des lieux historiques."
+      ]
+    },
+    "öğle": {
+      "tr": "Öğle yemeğini saat birde yedik.",
+      "values": [
+        "We had lunch at one o'clock.",
+        "Мы пообедали в час дня.",
+        "Түшкү тамакты саат бирде жедик.",
+        "تناولنا الغداء الساعة الواحدة.",
+        "Nous avons déjeuné à une heure."
+      ]
+    },
+    "akşam": {
+      "tr": "Akşam sahilde yürüdük.",
+      "values": [
+        "We walked along the shore in the evening.",
+        "Вечером мы гуляли по берегу.",
+        "Кечинде жээкте сейилдедик.",
+        "تمشينا على الشاطئ مساءً.",
+        "Le soir, nous nous sommes promenés au bord de l'eau."
+      ]
+    },
+    "yemeği": {
+      "tr": "Akşam yemeği saat yedide.",
+      "values": [
+        "Dinner is at seven o'clock.",
+        "Ужин в семь часов.",
+        "Кечки тамак саат жетиде.",
+        "العشاء في الساعة السابعة.",
+        "Le dîner est à sept heures."
+      ]
+    },
+    "öğlen": {
+      "tr": "Öğlen arkadaşlarımla buluştum.",
+      "values": [
+        "I met my friends at noon.",
+        "В полдень я встретился с друзьями.",
+        "Түштө досторум менен жолуктум.",
+        "التقيت بأصدقائي ظهرًا.",
+        "J'ai retrouvé mes amis à midi."
+      ]
+    },
+    "hizmeti": {
+      "tr": "Otelin oda hizmeti var.",
+      "values": [
+        "The hotel has room service.",
+        "В отеле есть обслуживание номеров.",
+        "Мейманканада бөлмө кызматы бар.",
+        "تتوفر خدمة الغرف في الفندق.",
+        "L'hôtel propose un service en chambre."
+      ]
+    },
+    "çeşitli": {
+      "tr": "Festivalde çeşitli etkinlikler vardı.",
+      "values": [
+        "There were various activities at the festival.",
+        "На фестивале были разные мероприятия.",
+        "Фестивалда ар кандай иш-чаралар болду.",
+        "كانت هناك أنشطة متنوعة في المهرجان.",
+        "Il y avait diverses activités au festival."
+      ]
+    },
+    "tiyatro": {
+      "tr": "Bu akşam tiyatroya gidiyoruz.",
+      "values": [
+        "We're going to the theater tonight.",
+        "Сегодня вечером мы идём в театр.",
+        "Бүгүн кечинде театрга барабыз.",
+        "سنذهب إلى المسرح هذا المساء.",
+        "Nous allons au théâtre ce soir."
+      ]
+    },
+    "konser": {
+      "tr": "Dün akşam güzel bir konser izledik.",
+      "values": [
+        "We watched a great concert last night.",
+        "Вчера вечером мы были на прекрасном концерте.",
+        "Кечээ кечинде сонун концерт көрдүк.",
+        "شاهدنا حفلة موسيقية رائعة مساء أمس.",
+        "Nous avons assisté à un beau concert hier soir."
+      ]
+    },
+    "konforlu": {
+      "tr": "Bu otobüs çok konforlu.",
+      "values": [
+        "This bus is very comfortable.",
+        "Этот автобус очень удобный.",
+        "Бул автобус абдан ыңгайлуу.",
+        "هذه الحافلة مريحة جدًا.",
+        "Ce bus est très confortable."
+      ]
+    },
+    "otobüs": {
+      "tr": "Otobüs sabah dokuzda kalkıyor.",
+      "values": [
+        "The bus leaves at nine in the morning.",
+        "Автобус отправляется в девять утра.",
+        "Автобус эртең менен саат тогузда жөнөйт.",
+        "تنطلق الحافلة الساعة التاسعة صباحًا.",
+        "Le bus part à neuf heures du matin."
+      ]
+    },
+    "seyahati": {
+      "tr": "Otobüs seyahati uzun sürdü.",
+      "values": [
+        "The bus trip took a long time.",
+        "Поездка на автобусе длилась долго.",
+        "Автобус менен сапар узакка созулду.",
+        "استغرقت رحلة الحافلة وقتًا طويلًا.",
+        "Le voyage en bus a été long."
+      ]
     }
   },
   "forms": {
