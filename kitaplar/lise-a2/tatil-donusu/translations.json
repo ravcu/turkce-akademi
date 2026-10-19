@@ -19920,6 +19920,246 @@
         "نسيت نظارتي الشمسية في المنزل.",
         "J'ai oublié mes lunettes de soleil à la maison."
       ]
+    },
+    "tatile": {
+      "tr": "Yarın ailemle tatile çıkıyorum.",
+      "values": [
+        "I'm going on vacation with my family tomorrow.",
+        "Завтра я еду в отпуск с семьёй.",
+        "Эртең үй-бүлөм менен эс алууга чыгам.",
+        "سأسافر في عطلة مع عائلتي غدًا.",
+        "Demain, je pars en vacances avec ma famille."
+      ]
+    },
+    "eşyaları": {
+      "tr": "Tatil eşyalarını çantaya koydum.",
+      "values": [
+        "I put the vacation items in the bag.",
+        "Я положил вещи для отпуска в сумку.",
+        "Эс алуу буюмдарын сумкага салдым.",
+        "وضعت أغراض العطلة في الحقيبة.",
+        "J'ai mis les affaires de vacances dans le sac."
+      ]
+    },
+    "tatili": {
+      "tr": "Bu yaz deniz tatili yapmak istiyorum.",
+      "values": [
+        "I want to take a beach vacation this summer.",
+        "Этим летом я хочу отдохнуть на море.",
+        "Бул жайда деңиз жээгинде эс алгым келет.",
+        "أريد قضاء عطلة على البحر هذا الصيف.",
+        "Cet été, je veux passer des vacances à la mer."
+      ]
+    },
+    "kış": {
+      "tr": "Kış gelince dağlara kar yağar.",
+      "values": [
+        "When winter comes, snow falls in the mountains.",
+        "Когда приходит зима, в горах идёт снег.",
+        "Кыш келгенде тоолорго кар жаайт.",
+        "عندما يأتي الشتاء، تتساقط الثلوج على الجبال.",
+        "Quand l'hiver arrive, il neige dans les montagnes."
+      ]
+    },
+    "kültür": {
+      "tr": "Gezide farklı bir kültür tanıdık.",
+      "values": [
+        "We discovered a different culture on the trip.",
+        "Во время поездки мы познакомились с другой культурой.",
+        "Саякатта башка маданият менен тааныштык.",
+        "تعرّفنا على ثقافة مختلفة خلال الرحلة.",
+        "Nous avons découvert une autre culture pendant le voyage."
+      ]
+    },
+    "yanınıza": {
+      "tr": "Yürüyüşe giderken yanınıza su alın.",
+      "values": [
+        "Take water with you when you go for a walk.",
+        "Возьмите с собой воду на прогулку.",
+        "Сейилдөөгө чыкканда өзүңүз менен суу алыңыз.",
+        "خذوا معكم ماءً عندما تذهبون للمشي.",
+        "Prenez de l'eau avec vous pour la promenade."
+      ]
+    },
+    "üç": {
+      "tr": "Çantamda üç kitap var.",
+      "values": [
+        "There are three books in my bag.",
+        "В моей сумке три книги.",
+        "Сумкамда үч китеп бар.",
+        "في حقيبتي ثلاثة كتب.",
+        "Il y a trois livres dans mon sac."
+      ]
+    },
+    "eşya": {
+      "tr": "Bu eşya çok ağır.",
+      "values": [
+        "This item is very heavy.",
+        "Эта вещь очень тяжёлая.",
+        "Бул буюм абдан оор.",
+        "هذا الغرض ثقيل جدًا.",
+        "Cet objet est très lourd."
+      ]
+    },
+    "eşyalar": {
+      "tr": "Odada fazla eşya var.",
+      "values": [
+        "There are too many things in the room.",
+        "В комнате слишком много вещей.",
+        "Бөлмөдө буюмдар өтө көп.",
+        "هناك أغراض كثيرة في الغرفة.",
+        "Il y a trop d'affaires dans la chambre."
+      ]
+    },
+    "olmalı": {
+      "tr": "Pasaportum çantamda olmalı.",
+      "values": [
+        "My passport should be in my bag.",
+        "Мой паспорт должен быть в сумке.",
+        "Паспортум сумкамда болушу керек.",
+        "يجب أن يكون جواز سفري في حقيبتي.",
+        "Mon passeport devrait être dans mon sac."
+      ]
+    },
+    "metnin": {
+      "tr": "Metnin başlığını deftere yazın.",
+      "values": [
+        "Write the title of the text in your notebook.",
+        "Запишите заголовок текста в тетрадь.",
+        "Тексттин аталышын дептерге жазгыла.",
+        "اكتبوا عنوان النص في الدفتر.",
+        "Écrivez le titre du texte dans votre cahier."
+      ]
+    },
+    "görsellerini": {
+      "tr": "Kitabın görsellerini dikkatle inceledim.",
+      "values": [
+        "I examined the book's pictures carefully.",
+        "Я внимательно рассмотрел иллюстрации книги.",
+        "Китептин сүрөттөрүн кунт коюп карадым.",
+        "تفحّصت صور الكتاب بعناية.",
+        "J'ai examiné attentivement les illustrations du livre."
+      ]
+    },
+    "görüyorsunuz": {
+      "tr": "Fotoğrafta ne görüyorsunuz?",
+      "values": [
+        "What do you see in the photo?",
+        "Что вы видите на фотографии?",
+        "Сүрөттө эмнени көрүп жатасыздар?",
+        "ماذا ترون في الصورة؟",
+        "Que voyez-vous sur la photo ?"
+      ]
+    },
+    "söyleyin": {
+      "tr": "Lütfen adınızı söyleyin.",
+      "values": [
+        "Please say your name.",
+        "Пожалуйста, назовите своё имя.",
+        "Сураныч, атыңызды айтыңыз.",
+        "من فضلكم قولوا أسماءكم.",
+        "Dites votre nom, s'il vous plaît."
+      ]
+    },
+    "kelimeler": {
+      "tr": "Yeni kelimeler öğreniyorum.",
+      "values": [
+        "I'm learning new words.",
+        "Я учу новые слова.",
+        "Мен жаңы сөздөрдү үйрөнүп жатам.",
+        "أتعلّم كلمات جديدة.",
+        "J'apprends de nouveaux mots."
+      ]
+    },
+    "görsellerle": {
+      "tr": "Kelimeleri görsellerle eşleştirin.",
+      "values": [
+        "Match the words with the pictures.",
+        "Соотнесите слова с картинками.",
+        "Сөздөрдү сүрөттөр менен дал келтиргиле.",
+        "طابقوا الكلمات مع الصور.",
+        "Associez les mots aux images."
+      ]
+    },
+    "olabilir": {
+      "tr": "Yarın yağmur yağabilir.",
+      "values": [
+        "It may rain tomorrow.",
+        "Завтра может пойти дождь.",
+        "Эртең жамгыр жаашы мүмкүн.",
+        "قد تمطر غدًا.",
+        "Il pourrait pleuvoir demain."
+      ]
+    },
+    "dağ": {
+      "tr": "Bu dağ çok yüksek.",
+      "values": [
+        "This mountain is very high.",
+        "Эта гора очень высокая.",
+        "Бул тоо абдан бийик.",
+        "هذا الجبل مرتفع جدًا.",
+        "Cette montagne est très haute."
+      ]
+    },
+    "mağara": {
+      "tr": "Rehber bize eski bir mağara gösterdi.",
+      "values": [
+        "The guide showed us an old cave.",
+        "Гид показал нам старую пещеру.",
+        "Гид бизге эски үңкүрдү көрсөттү.",
+        "أرانا المرشد كهفًا قديمًا.",
+        "Le guide nous a montré une ancienne grotte."
+      ]
+    },
+    "antik": {
+      "tr": "Antik bir kenti ziyaret ettik.",
+      "values": [
+        "We visited an ancient city.",
+        "Мы посетили древний город.",
+        "Биз байыркы шаарга бардык.",
+        "زرنا مدينة أثرية.",
+        "Nous avons visité une cité antique."
+      ]
+    },
+    "kent": {
+      "tr": "Bu kentte birçok müze var.",
+      "values": [
+        "There are many museums in this city.",
+        "В этом городе много музеев.",
+        "Бул шаарда музейлер көп.",
+        "توجد متاحف كثيرة في هذه المدينة.",
+        "Il y a beaucoup de musées dans cette ville."
+      ]
+    },
+    "kum": {
+      "tr": "Çocuklar kumda oynuyor.",
+      "values": [
+        "The children are playing in the sand.",
+        "Дети играют в песке.",
+        "Балдар кумда ойноп жатышат.",
+        "يلعب الأطفال على الرمل.",
+        "Les enfants jouent dans le sable."
+      ]
+    },
+    "tepesi": {
+      "tr": "Tepenin tepesi karla kaplı.",
+      "values": [
+        "The top of the hill is covered in snow.",
+        "Вершина холма покрыта снегом.",
+        "Дөбөнүн чокусу кар менен капталган.",
+        "قمة التل مغطاة بالثلج.",
+        "Le sommet de la colline est couvert de neige."
+      ]
+    },
+    "mabet": {
+      "tr": "Bu eski mabet turistlere açık.",
+      "values": [
+        "This old temple is open to tourists.",
+        "Этот древний храм открыт для туристов.",
+        "Бул байыркы сыйынуучу жай туристтер үчүн ачык.",
+        "هذا المعبد القديم مفتوح للسياح.",
+        "Cet ancien temple est ouvert aux touristes."
+      ]
     }
   },
   "forms": {
