@@ -20190,6 +20190,166 @@
         "تغيّر وقت بدء الدرس.",
         "L'heure de début du cours a changé."
       ]
+    },
+    "isimleri": {
+      "tr": "Öğrencilerin isimlerini listeye yazdım.",
+      "values": [
+        "I wrote the students' names on the list.",
+        "Я записал имена учеников в список.",
+        "Окуучулардын аттарын тизмеге жаздым.",
+        "كتبت أسماء الطلاب في القائمة.",
+        "J'ai écrit les noms des élèves sur la liste."
+      ]
+    },
+    "dünya": {
+      "tr": "Dünya çok büyük bir gezegen.",
+      "values": [
+        "Earth is a very large planet.",
+        "Земля — очень большая планета.",
+        "Жер абдан чоң планета.",
+        "الأرض كوكب كبير جدًا.",
+        "La Terre est une très grande planète."
+      ]
+    },
+    "olma": {
+      "tr": "Geç kalma, otobüs birazdan kalkacak.",
+      "values": [
+        "Don't be late; the bus will leave soon.",
+        "Не опаздывай, автобус скоро отправится.",
+        "Кечикпе, автобус азыр жөнөйт.",
+        "لا تتأخر، ستنطلق الحافلة قريبًا.",
+        "Ne sois pas en retard, le bus part bientôt."
+      ]
+    },
+    "yolunda": {
+      "tr": "Her şey yolunda, merak etme.",
+      "values": [
+        "Everything is fine, don't worry.",
+        "Всё в порядке, не волнуйся.",
+        "Баары жайында, кабатыр болбо.",
+        "كل شيء على ما يرام، لا تقلق.",
+        "Tout va bien, ne t'inquiète pas."
+      ]
+    },
+    "mağarası": {
+      "tr": "Bu mağaranın girişi çok dar.",
+      "values": [
+        "The entrance to this cave is very narrow.",
+        "Вход в эту пещеру очень узкий.",
+        "Бул үңкүрдүн кире бериши абдан тар.",
+        "مدخل هذا الكهف ضيق جدًا.",
+        "L'entrée de cette grotte est très étroite."
+      ]
+    },
+    "orta": {
+      "tr": "Sınıfın ortasında büyük bir masa var.",
+      "values": [
+        "There is a big table in the middle of the classroom.",
+        "Посреди класса стоит большой стол.",
+        "Класстын ортосунда чоң стол бар.",
+        "توجد طاولة كبيرة في وسط الصف.",
+        "Il y a une grande table au milieu de la classe."
+      ]
+    },
+    "incisi": {
+      "tr": "Bu şehir bölgenin incisidir.",
+      "values": [
+        "This city is the jewel of the region.",
+        "Этот город — жемчужина региона.",
+        "Бул шаар аймактын бермети.",
+        "هذه المدينة لؤلؤة المنطقة.",
+        "Cette ville est la perle de la région."
+      ]
+    },
+    "kenti": {
+      "tr": "Bu kenti ilk kez ziyaret ediyorum.",
+      "values": [
+        "I'm visiting this city for the first time.",
+        "Я впервые посещаю этот город.",
+        "Бул шаарга биринчи жолу келип жатам.",
+        "أزور هذه المدينة لأول مرة.",
+        "Je visite cette ville pour la première fois."
+      ]
+    },
+    "büyük": {
+      "tr": "Bahçede büyük bir ağaç var.",
+      "values": [
+        "There is a big tree in the garden.",
+        "В саду растёт большое дерево.",
+        "Бакчада чоң дарак бар.",
+        "توجد شجرة كبيرة في الحديقة.",
+        "Il y a un grand arbre dans le jardin."
+      ]
+    },
+    "parkı": {
+      "tr": "Şehrin parkı hafta sonları kalabalık oluyor.",
+      "values": [
+        "The city's park gets crowded on weekends.",
+        "Городской парк бывает многолюдным по выходным.",
+        "Шаардын багы дем алыш күндөрү элге толот.",
+        "تكون حديقة المدينة مزدحمة في عطلة نهاية الأسبوع.",
+        "Le parc de la ville est bondé le week-end."
+      ]
+    },
+    "kurun": {
+      "tr": "Üç kişilik gruplar kurun.",
+      "values": [
+        "Form groups of three.",
+        "Разделитесь на группы по три человека.",
+        "Үч кишиден топторду түзгүлө.",
+        "شكّلوا مجموعات من ثلاثة أشخاص.",
+        "Formez des groupes de trois."
+      ]
+    },
+    "geçen": {
+      "tr": "Geçen hafta müzeye gittik.",
+      "values": [
+        "We went to the museum last week.",
+        "На прошлой неделе мы ходили в музей.",
+        "Өткөн жумада музейге бардык.",
+        "ذهبنا إلى المتحف الأسبوع الماضي.",
+        "Nous sommes allés au musée la semaine dernière."
+      ]
+    },
+    "yıl": {
+      "tr": "Bu yıl Türkçe öğreniyorum.",
+      "values": [
+        "I'm learning Turkish this year.",
+        "В этом году я изучаю турецкий язык.",
+        "Быйыл түрк тилин үйрөнүп жатам.",
+        "أتعلم التركية هذا العام.",
+        "Cette année, j'apprends le turc."
+      ]
+    },
+    "iki": {
+      "tr": "İki bilet aldım.",
+      "values": [
+        "I bought two tickets.",
+        "Я купил два билета.",
+        "Эки билет сатып алдым.",
+        "اشتريت تذكرتين.",
+        "J'ai acheté deux billets."
+      ]
+    },
+    "tek": {
+      "tr": "Bu odada tek bir pencere var.",
+      "values": [
+        "There is only one window in this room.",
+        "В этой комнате только одно окно.",
+        "Бул бөлмөдө бир эле терезе бар.",
+        "في هذه الغرفة نافذة واحدة فقط.",
+        "Il n'y a qu'une seule fenêtre dans cette pièce."
+      ]
+    },
+    "başına": {
+      "tr": "Bu ödevi tek başına yaptı.",
+      "values": [
+        "He did this homework by himself.",
+        "Он сделал это домашнее задание сам.",
+        "Ал бул үй тапшырмасын өзү жалгыз аткарды.",
+        "أنجز هذا الواجب وحده.",
+        "Il a fait ce devoir tout seul."
+      ]
     }
   },
   "forms": {
