@@ -21,6 +21,34 @@
       "ثلاثة",
       "trois"
     ],
+    "4": [
+      "four",
+      "четыре",
+      "төрт",
+      "أربعة",
+      "quatre"
+    ],
+    "5": [
+      "five",
+      "пять",
+      "беш",
+      "خمسة",
+      "cinq"
+    ],
+    "6": [
+      "six",
+      "шесть",
+      "алты",
+      "ستة",
+      "six"
+    ],
+    "32": [
+      "thirty-two",
+      "тридцать два",
+      "отуз эки",
+      "اثنان وثلاثون",
+      "trente-deux"
+    ],
     "ünite": [
       "unit",
       "раздел",
@@ -426,6 +454,489 @@
       "ишемби",
       "السبت",
       "samedi"
+    ],
+    "iletişimsel": [
+      "communicative",
+      "коммуникативный",
+      "баарлашууга байланыштуу",
+      "تواصلي",
+      "communicationnel"
+    ],
+    "işlevler": [
+      "functions",
+      "функции",
+      "милдеттер",
+      "وظائف",
+      "fonctions"
+    ],
+    "planlarını/tasarılarını": [
+      "their plans and intentions",
+      "свои планы и намерения",
+      "пландарын жана ойлорун",
+      "خططهم ونواياهم",
+      "leurs projets et intentions"
+    ],
+    "anlatma": [
+      "telling; explaining",
+      "рассказ; объяснение",
+      "айтып берүү",
+      "شرح؛ سرد",
+      "présentation; explication"
+    ],
+    "etkinlikler": [
+      "activities; events",
+      "мероприятия",
+      "иш-чаралар",
+      "أنشطة وفعاليات",
+      "activités; événements"
+    ],
+    "hakkında": [
+      "about",
+      "о; насчёт",
+      "жөнүндө",
+      "عن",
+      "à propos de"
+    ],
+    "bilgi": [
+      "information",
+      "информация",
+      "маалымат",
+      "معلومات",
+      "information"
+    ],
+    "isteme": [
+      "requesting",
+      "просьба; запрос",
+      "суроо; өтүнүү",
+      "طلب",
+      "demande"
+    ],
+    "verme": [
+      "giving",
+      "предоставление",
+      "берүү",
+      "إعطاء",
+      "fait de donner"
+    ],
+    "kişisel": [
+      "personal",
+      "личный",
+      "жеке",
+      "شخصي",
+      "personnel"
+    ],
+    "görüş": [
+      "opinion",
+      "мнение",
+      "пикир",
+      "رأي",
+      "avis"
+    ],
+    "bildirme": [
+      "expressing; stating",
+      "выражение; сообщение",
+      "билдирүү",
+      "إبداء؛ إبلاغ",
+      "expression; annonce"
+    ],
+    "teklifte": [
+      "in making an offer",
+      "при предложении",
+      "сунуш кылууда",
+      "عند تقديم اقتراح",
+      "dans une proposition"
+    ],
+    "bulunma": [
+      "being; making (in expressions)",
+      "нахождение; совершение",
+      "болуу; жасоо",
+      "وجود؛ تقديم",
+      "fait de se trouver; de faire"
+    ],
+    "kabul": [
+      "acceptance",
+      "принятие",
+      "кабыл алуу",
+      "قبول",
+      "acceptation"
+    ],
+    "etme": [
+      "doing; making",
+      "совершение",
+      "кылуу",
+      "القيام بـ",
+      "fait de faire"
+    ],
+    "reddetme": [
+      "refusing; rejection",
+      "отказ",
+      "баш тартуу",
+      "رفض",
+      "refus"
+    ],
+    "öneride": [
+      "in suggesting",
+      "при предложении",
+      "сунуш берүүдө",
+      "عند الاقتراح",
+      "en proposant"
+    ],
+    "gerekçelendirme": [
+      "giving reasons",
+      "обоснование",
+      "себебин түшүндүрүү",
+      "التعليل",
+      "justification"
+    ],
+    "tercih": [
+      "preference; choice",
+      "предпочтение; выбор",
+      "тандоо",
+      "تفضيل؛ اختيار",
+      "préférence; choix"
+    ],
+    "okuma": [
+      "reading",
+      "чтение",
+      "окуу",
+      "قراءة",
+      "lecture"
+    ],
+    "kelimelerle": [
+      "with words",
+      "со словами",
+      "сөздөр менен",
+      "بالكلمات",
+      "avec des mots"
+    ],
+    "görselleri": [
+      "the pictures",
+      "изображения",
+      "сүрөттөрдү",
+      "الصور",
+      "les images"
+    ],
+    "eşleştirin": [
+      "match them",
+      "сопоставьте",
+      "дал келтиргиле",
+      "طابقوا",
+      "associez"
+    ],
+    "sinema": [
+      "cinema; movie theater",
+      "кинотеатр; кино",
+      "кинотеатр; кино",
+      "سينما",
+      "cinéma"
+    ],
+    "salonu": [
+      "the hall; its hall",
+      "зал",
+      "залы; залды",
+      "القاعة",
+      "la salle"
+    ],
+    "gişe": [
+      "ticket booth",
+      "касса",
+      "касса",
+      "شباك التذاكر",
+      "guichet"
+    ],
+    "bilet": [
+      "ticket",
+      "билет",
+      "билет",
+      "تذكرة",
+      "billet"
+    ],
+    "film": [
+      "film; movie",
+      "фильм",
+      "тасма; фильм",
+      "فيلم",
+      "film"
+    ],
+    "afiş": [
+      "poster",
+      "афиша",
+      "афиша; жарнама плакаты",
+      "ملصق إعلاني",
+      "affiche"
+    ],
+    "patlamış": [
+      "popped",
+      "лопнувший",
+      "жарылган",
+      "مفرقع",
+      "éclaté"
+    ],
+    "mısır": [
+      "corn",
+      "кукуруза",
+      "жүгөрү",
+      "ذرة",
+      "maïs"
+    ],
+    "diyalogları": [
+      "the dialogues",
+      "диалоги",
+      "диалогдорду",
+      "الحوارات",
+      "les dialogues"
+    ],
+    "okuyun": [
+      "read (plural/polite)",
+      "прочитайте",
+      "окугула",
+      "اقرؤوا",
+      "lisez"
+    ],
+    "görsellerle": [
+      "with pictures",
+      "с изображениями",
+      "сүрөттөр менен",
+      "بالصور",
+      "avec les images"
+    ],
+    "pi’nin": [
+      "of Pi",
+      "Пи (родительный падеж)",
+      "Пинин",
+      "لـ باي",
+      "de Pi"
+    ],
+    "yaşamı": [
+      "his life; life",
+      "его жизнь; жизнь",
+      "анын жашоосу",
+      "حياته",
+      "sa vie"
+    ],
+    "filmi": [
+      "the film",
+      "фильм",
+      "тасманы; тасмасы",
+      "الفيلم",
+      "le film"
+    ],
+    "için": [
+      "for; in order to",
+      "для; чтобы",
+      "үчүн",
+      "لأجل؛ لكي",
+      "pour"
+    ],
+    "alabilir": [
+      "can get; can buy",
+      "может взять; может купить",
+      "ала алат",
+      "يمكنه أن يشتري",
+      "peut acheter"
+    ],
+    "miyim": [
+      "question particle (can I?)",
+      "вопросительная частица (я?)",
+      "суроо бөлүкчөсү (менби?)",
+      "أداة استفهام (أنا)",
+      "particule interrogative (je ?)"
+    ],
+    "affedersiniz": [
+      "excuse me",
+      "извините",
+      "кечиресиз",
+      "عذرًا",
+      "excusez-moi"
+    ],
+    "içecek": [
+      "drink; beverage",
+      "напиток",
+      "суусундук",
+      "مشروب",
+      "boisson"
+    ],
+    "maalesef": [
+      "unfortunately",
+      "к сожалению",
+      "тилекке каршы",
+      "للأسف",
+      "malheureusement"
+    ],
+    "tüm": [
+      "all",
+      "все; весь",
+      "бардык",
+      "كلّ",
+      "tout; tous"
+    ],
+    "biletler": [
+      "tickets",
+      "билеты",
+      "билеттер",
+      "تذاكر",
+      "billets"
+    ],
+    "satıldı": [
+      "was sold; sold out",
+      "продан; распродано",
+      "сатылды",
+      "بِيعَ",
+      "a été vendu"
+    ],
+    "tabi": [
+      "of course",
+      "конечно",
+      "албетте",
+      "طبعًا",
+      "bien sûr"
+    ],
+    "hemen": [
+      "right away",
+      "сразу",
+      "дароо",
+      "فورًا",
+      "tout de suite"
+    ],
+    "veriyorum": [
+      "I am giving",
+      "я даю",
+      "мен берип жатам",
+      "أعطي الآن",
+      "je donne"
+    ],
+    "neşeli": [
+      "cheerful",
+      "весёлый",
+      "шайыр",
+      "مرح",
+      "joyeux"
+    ],
+    "hangi": [
+      "which",
+      "какой; который",
+      "кайсы",
+      "أيّ",
+      "quel; quelle"
+    ],
+    "salonda": [
+      "in the hall",
+      "в зале",
+      "залда",
+      "في القاعة",
+      "dans la salle"
+    ],
+    "salon": [
+      "hall; room",
+      "зал",
+      "зал",
+      "قاعة",
+      "salle"
+    ],
+    "nerede": [
+      "where",
+      "где",
+      "кайда",
+      "أين",
+      "où"
+    ],
+    "şurada": [
+      "over there",
+      "вон там",
+      "тиги жерде",
+      "هناك",
+      "juste là-bas"
+    ],
+    "numaralı": [
+      "numbered",
+      "под номером",
+      "номерлүү",
+      "ذو الرقم",
+      "numéroté"
+    ],
+    "gişenin": [
+      "of the ticket booth",
+      "кассы",
+      "кассанын",
+      "لشباك التذاكر",
+      "du guichet"
+    ],
+    "yanında": [
+      "next to; beside",
+      "рядом с",
+      "жанында",
+      "بجانب",
+      "à côté de"
+    ],
+    "anne": [
+      "mother; mom",
+      "мама",
+      "апа",
+      "أمّ",
+      "maman"
+    ],
+    "yerdeki": [
+      "on the ground; on the floor",
+      "на земле; на полу",
+      "жердеги",
+      "الموجود على الأرض",
+      "par terre"
+    ],
+    "yıldızlar": [
+      "stars",
+      "звёзды",
+      "жылдыздар",
+      "نجوم",
+      "étoiles"
+    ],
+    "filmini": [
+      "the film (object form)",
+      "его фильм",
+      "анын тасмасын",
+      "فيلمه",
+      "son film"
+    ],
+    "izleyebilir": [
+      "can watch",
+      "может посмотреть",
+      "көрө алат",
+      "يستطيع المشاهدة",
+      "peut regarder"
+    ],
+    "miyiz": [
+      "question particle (are we? can we?)",
+      "вопросительная частица (мы?)",
+      "суроо бөлүкчөсү (бизби?)",
+      "أداة استفهام (نحن)",
+      "particule interrogative (nous ?)"
+    ],
+    "hayır": [
+      "no",
+      "нет",
+      "жок",
+      "لا",
+      "non"
+    ],
+    "daha": [
+      "more; yet",
+      "ещё; более",
+      "дагы; көбүрөөк",
+      "أكثر؛ بعد",
+      "plus; encore"
+    ],
+    "önce": [
+      "before; earlier",
+      "раньше; до",
+      "мурун",
+      "قبل",
+      "avant"
+    ],
+    "izledik": [
+      "we watched",
+      "мы посмотрели",
+      "биз көрдүк",
+      "شاهدنا",
+      "nous avons regardé"
     ]
   },
   "phrases": {
@@ -494,6 +1005,22 @@
         "اقرؤوا السؤال الثالث.",
         "Lisez la troisième question."
       ]
+    },
+    "4": {
+      "tr": "Dört arkadaş sinemaya gittik.",
+      "values": []
+    },
+    "5": {
+      "tr": "Beş dakika bekle.",
+      "values": []
+    },
+    "6": {
+      "tr": "Altı bilet aldık.",
+      "values": []
+    },
+    "32": {
+      "tr": "Kitabın otuz ikinci sayfasını aç.",
+      "values": []
     },
     "ünite": {
       "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
@@ -944,6 +1471,282 @@
         "سنذهب إلى الحديقة يوم السبت.",
         "Nous irons au parc samedi."
       ]
+    },
+    "iletişimsel": {
+      "tr": "Bu dersin iletişimsel amacı yol sormaktır.",
+      "values": []
+    },
+    "işlevler": {
+      "tr": "Бул бөлүмдө жаңы сөздөрдү үйрөнөбүз.",
+      "values": []
+    },
+    "planlarını/tasarılarını": {
+      "tr": "Arkadaşlarım hafta sonu planlarını anlattı.",
+      "values": []
+    },
+    "anlatma": {
+      "tr": "Bir olayı anlatma çalışması yapıyoruz.",
+      "values": []
+    },
+    "etkinlikler": {
+      "tr": "Okulda güzel etkinlikler var.",
+      "values": []
+    },
+    "hakkında": {
+      "tr": "Film hakkında konuşalım.",
+      "values": []
+    },
+    "bilgi": {
+      "tr": "Otobüs saatleri hakkında bilgi istiyorum.",
+      "values": []
+    },
+    "isteme": {
+      "tr": "Yardım isteme konusunda çekinme.",
+      "values": []
+    },
+    "verme": {
+      "tr": "Bilgi verme görevi bana ait.",
+      "values": []
+    },
+    "kişisel": {
+      "tr": "Bu benim kişisel görüşüm.",
+      "values": []
+    },
+    "görüş": {
+      "tr": "Senin görüşün benim için önemli.",
+      "values": []
+    },
+    "bildirme": {
+      "tr": "Fikrini bildirme hakkın var.",
+      "values": []
+    },
+    "teklifte": {
+      "tr": "Teklifte bulunmadan önce düşün.",
+      "values": []
+    },
+    "bulunma": {
+      "tr": "Arkadaşına öneride bulunma fırsatın var.",
+      "values": []
+    },
+    "kabul": {
+      "tr": "Davetini kabul ettim.",
+      "values": []
+    },
+    "etme": {
+      "tr": "Bunu kabul etme, önce düşün.",
+      "values": []
+    },
+    "reddetme": {
+      "tr": "Davetleri reddetme nedenini açıkla.",
+      "values": []
+    },
+    "öneride": {
+      "tr": "Öneride bulunmak istiyorum.",
+      "values": []
+    },
+    "gerekçelendirme": {
+      "tr": "Cevabını gerekçelendirme çalışması yap.",
+      "values": []
+    },
+    "tercih": {
+      "tr": "Benim tercihim komedi filmi.",
+      "values": []
+    },
+    "okuma": {
+      "tr": "Akşamları kitap okuyorum.",
+      "values": []
+    },
+    "kelimelerle": {
+      "tr": "Bu kelimelerle cümle kur.",
+      "values": []
+    },
+    "görselleri": {
+      "tr": "Görselleri dikkatle inceleyin.",
+      "values": []
+    },
+    "eşleştirin": {
+      "tr": "Kelimeleri resimlerle eşleştirin.",
+      "values": []
+    },
+    "sinema": {
+      "tr": "Akşam sinemaya gideceğiz.",
+      "values": []
+    },
+    "salonu": {
+      "tr": "Sinema salonu çok büyük.",
+      "values": []
+    },
+    "gişe": {
+      "tr": "Biletleri gişeden aldım.",
+      "values": []
+    },
+    "bilet": {
+      "tr": "İki bilet almak istiyorum.",
+      "values": []
+    },
+    "film": {
+      "tr": "Bu film çok komik.",
+      "values": []
+    },
+    "afiş": {
+      "tr": "Festivalin afişini gördüm.",
+      "values": []
+    },
+    "patlamış": {
+      "tr": "Patlamış mısır aldım.",
+      "values": []
+    },
+    "mısır": {
+      "tr": "Tarlada mısır yetişiyor.",
+      "values": []
+    },
+    "diyalogları": {
+      "tr": "Diyalogları sırayla okuyun.",
+      "values": []
+    },
+    "okuyun": {
+      "tr": "Lütfen bu metni okuyun.",
+      "values": []
+    },
+    "görsellerle": {
+      "tr": "Kelimeleri görsellerle eşleştir.",
+      "values": []
+    },
+    "pi’nin": {
+      "tr": "Pi’nin Yaşamı filmini izledim.",
+      "values": []
+    },
+    "yaşamı": {
+      "tr": "Onun yaşamı çok ilginç.",
+      "values": []
+    },
+    "filmi": {
+      "tr": "Bu filmi geçen hafta izledim.",
+      "values": []
+    },
+    "için": {
+      "tr": "Senin için bilet aldım.",
+      "values": []
+    },
+    "alabilir": {
+      "tr": "İstersen bilet alabilir.",
+      "values": []
+    },
+    "miyim": {
+      "tr": "Bir soru sorabilir miyim?",
+      "values": []
+    },
+    "affedersiniz": {
+      "tr": "Affedersiniz, saat kaç?",
+      "values": []
+    },
+    "içecek": {
+      "tr": "Soğuk bir içecek alacağım.",
+      "values": []
+    },
+    "maalesef": {
+      "tr": "Maalesef bugün gelemem.",
+      "values": []
+    },
+    "tüm": {
+      "tr": "Tüm arkadaşlarım geldi.",
+      "values": []
+    },
+    "biletler": {
+      "tr": "Biletler sabah satıldı.",
+      "values": []
+    },
+    "satıldı": {
+      "tr": "Konserin biletleri satıldı.",
+      "values": []
+    },
+    "tabi": {
+      "tr": "Tabii, sana yardım ederim.",
+      "values": []
+    },
+    "hemen": {
+      "tr": "Hemen geliyorum.",
+      "values": []
+    },
+    "veriyorum": {
+      "tr": "Bileti sana veriyorum.",
+      "values": []
+    },
+    "neşeli": {
+      "tr": "Neşeli bir şarkı dinledik.",
+      "values": []
+    },
+    "hangi": {
+      "tr": "Hangi filmi izleyelim?",
+      "values": []
+    },
+    "salonda": {
+      "tr": "Arkadaşlarım salonda bekliyor.",
+      "values": []
+    },
+    "salon": {
+      "tr": "Bu salon çok geniş.",
+      "values": []
+    },
+    "nerede": {
+      "tr": "Sinema nerede?",
+      "values": []
+    },
+    "şurada": {
+      "tr": "Gişe şurada, kapının yanında.",
+      "values": []
+    },
+    "numaralı": {
+      "tr": "Dört numaralı salona gidin.",
+      "values": []
+    },
+    "gişenin": {
+      "tr": "Gişenin önünde sıra var.",
+      "values": []
+    },
+    "yanında": {
+      "tr": "Kafe sinemanın yanında.",
+      "values": []
+    },
+    "anne": {
+      "tr": "Anne, birlikte film izleyelim.",
+      "values": []
+    },
+    "yerdeki": {
+      "tr": "Yerdeki kitabı aldım.",
+      "values": []
+    },
+    "yıldızlar": {
+      "tr": "Bu gece yıldızlar çok parlak.",
+      "values": []
+    },
+    "filmini": {
+      "tr": "Arkadaşımın filmini izledim.",
+      "values": []
+    },
+    "izleyebilir": {
+      "tr": "Bu filmi herkes izleyebilir.",
+      "values": []
+    },
+    "miyiz": {
+      "tr": "Birlikte gidebilir miyiz?",
+      "values": []
+    },
+    "hayır": {
+      "tr": "Hayır, bugün vaktim yok.",
+      "values": []
+    },
+    "daha": {
+      "tr": "Biraz daha bekleyelim.",
+      "values": []
+    },
+    "önce": {
+      "tr": "Daha önce burada bulundum.",
+      "values": []
+    },
+    "izledik": {
+      "tr": "Dün akşam bir film izledik.",
+      "values": []
     }
   },
   "forms": {
