@@ -13588,6 +13588,125 @@
         "في بلدنا مناظر طبيعية جميلة كثيرة.",
         "Notre pays possède de nombreux sites naturels magnifiques."
       ]
+    },
+    "tarihin sıfır noktası": {
+      "translations": [
+        "the zero point of history",
+        "нулевая точка истории",
+        "тарыхтын башталыш чекити",
+        "نقطة الصفر في التاريخ",
+        "le point zéro de l'histoire"
+      ],
+      "exampleTr": "Göbeklitepe'ye tarihin sıfır noktası denir.",
+      "examples": [
+        "Göbeklitepe is called the zero point of history.",
+        "Гёбекли-Тепе называют нулевой точкой истории.",
+        "Гөбеклитепени тарыхтын башталыш чекити деп аташат.",
+        "يُطلق على غوبكلي تبه نقطة الصفر في التاريخ.",
+        "On appelle Göbeklitepe le point zéro de l'histoire."
+      ]
+    },
+    "urfa kebabı": {
+      "translations": [
+        "Urfa kebab",
+        "урфа-кебаб",
+        "Урфа кебабы",
+        "كباب أورفا",
+        "kebab d'Urfa"
+      ],
+      "exampleTr": "Akşam Urfa kebabı yedik.",
+      "examples": [
+        "We ate Urfa kebab in the evening.",
+        "Вечером мы ели урфа-кебаб.",
+        "Кечинде Урфа кебабын жедик.",
+        "أكلنا كباب أورفا مساءً.",
+        "Nous avons mangé du kebab d'Urfa le soir."
+      ]
+    },
+    "çoruh nehri": {
+      "translations": [
+        "Çoruh River",
+        "река Чорух",
+        "Чорух дарыясы",
+        "نهر تشوروه",
+        "fleuve Çoruh"
+      ],
+      "exampleTr": "Çoruh Nehri'nde rafting yaptık.",
+      "examples": [
+        "We went rafting on the Çoruh River.",
+        "Мы занимались рафтингом на реке Чорух.",
+        "Чорух дарыясында рафтинг жасадык.",
+        "مارسنا التجديف في نهر تشوروه.",
+        "Nous avons fait du rafting sur le fleuve Çoruh."
+      ]
+    },
+    "kaçkar yaylası": {
+      "translations": [
+        "Kaçkar highland pasture",
+        "высокогорное пастбище Качкар",
+        "Качкар жайлоосу",
+        "مرتفعات كاتشكار الرعوية",
+        "alpage de Kaçkar"
+      ],
+      "exampleTr": "Kaçkar Yaylası'nda ahşap evler var.",
+      "examples": [
+        "There are wooden houses on the Kaçkar highland.",
+        "На высокогорном пастбище Качкар есть деревянные дома.",
+        "Качкар жайлоосунда жыгач үйлөр бар.",
+        "توجد بيوت خشبية في مرتفعات كاتشكار.",
+        "Il y a des maisons en bois sur l'alpage de Kaçkar."
+      ]
+    },
+    "sık sık": {
+      "translations": [
+        "often / frequently",
+        "часто",
+        "тез-тез",
+        "مرارًا وتكرارًا / كثيرًا",
+        "souvent / fréquemment"
+      ],
+      "exampleTr": "Bu parka sık sık gelirim.",
+      "examples": [
+        "I come to this park often.",
+        "Я часто прихожу в этот парк.",
+        "Бул паркка тез-тез келем.",
+        "آتي إلى هذه الحديقة كثيرًا.",
+        "Je viens souvent dans ce parc."
+      ]
+    },
+    "göbeklitepe'ye": {
+      "translations": [
+        "to Göbeklitepe",
+        "в Гёбекли-Тепе",
+        "Гөбеклитепеге",
+        "إلى غوبكلي تبه",
+        "à Göbeklitepe"
+      ],
+      "exampleTr": "Sabah Göbeklitepe'ye gittik.",
+      "examples": [
+        "We went to Göbeklitepe in the morning.",
+        "Утром мы поехали в Гёбекли-Тепе.",
+        "Эртең менен Гөбеклитепеге бардык.",
+        "ذهبنا إلى غوبكلي تبه صباحًا.",
+        "Nous sommes allés à Göbeklitepe le matin."
+      ]
+    },
+    "olimpos antik kenti": {
+      "translations": [
+        "ancient city of Olympos",
+        "древний город Олимпос",
+        "Олимпос байыркы шаары",
+        "مدينة أوليمبوس الأثرية",
+        "cité antique d'Olympos"
+      ],
+      "exampleTr": "Olimpos Antik Kenti'ni gezdik.",
+      "examples": [
+        "We visited the ancient city of Olympos.",
+        "Мы посетили древний город Олимпос.",
+        "Олимпос байыркы шаарын кыдырдык.",
+        "زرنا مدينة أوليمبوس الأثرية.",
+        "Nous avons visité la cité antique d'Olympos."
+      ]
     }
   },
   "examples": {
