@@ -14005,6 +14005,16 @@
         "Le numéro 458 figure sur cette liste."
       ]
     },
+    "1800": {
+      "tr": "Otelin gecelik fiyatı 1800 lira.",
+      "values": [
+        "The hotel costs 1,800 lira per night.",
+        "Ночь в отеле стоит 1800 лир.",
+        "Мейманканада бир түн 1800 лира турат.",
+        "تكلفة الليلة في الفندق 1800 ليرة.",
+        "Une nuit à l'hôtel coûte 1 800 livres turques."
+      ]
+    },
     "2001": {
       "tr": "Babam 2001 yılında üniversiteden mezun oldu.",
       "values": [
@@ -14013,6 +14023,16 @@
         "Атам 2001-жылы университетти бүтүргөн.",
         "تخرّج أبي من الجامعة عام 2001.",
         "Mon père a obtenu son diplôme universitaire en 2001."
+      ]
+    },
+    "2200": {
+      "tr": "Bu bilgisayarın fiyatı 2200 lira.",
+      "values": [
+        "This computer costs 2,200 lira.",
+        "Этот компьютер стоит 2200 лир.",
+        "Бул компьютердин баасы 2200 лира.",
+        "سعر هذا الحاسوب 2200 ليرة.",
+        "Cet ordinateur coûte 2 200 livres turques."
       ]
     },
     "merhaba": [
@@ -26713,6 +26733,46 @@
         "Жаңы достор менен таанышкым келет.",
         "أريد التعرف إلى أصدقاء جدد.",
         "Je veux faire connaissance avec de nouveaux amis."
+      ]
+    },
+    "dan": {
+      "tr": "Evden okula yürüyerek gidiyorum.",
+      "values": [
+        "I walk from home to school.",
+        "Я хожу из дома в школу пешком.",
+        "Үйдөн мектепке жөө барам.",
+        "أذهب من المنزل إلى المدرسة سيرًا على الأقدام.",
+        "Je vais de la maison à l'école à pied."
+      ]
+    },
+    "önce/-dan": {
+      "tr": "Yemekten önce ellerimi yıkarım.",
+      "values": [
+        "I wash my hands before eating.",
+        "Я мою руки перед едой.",
+        "Тамактанардан мурун колумду жууйм.",
+        "أغسل يدي قبل الأكل.",
+        "Je me lave les mains avant de manger."
+      ]
+    },
+    "madan": {
+      "tr": "Kahvaltı yapmadan evden çıkmam.",
+      "values": [
+        "I don't leave home without having breakfast.",
+        "Я не выхожу из дома без завтрака.",
+        "Эртең мененки тамакты ичпей үйдөн чыкпайм.",
+        "لا أغادر المنزل دون تناول الفطور.",
+        "Je ne quitte pas la maison sans prendre mon petit-déjeuner."
+      ]
+    },
+    "dıktan": {
+      "tr": "Ders bittikten sonra kütüphaneye gittim.",
+      "values": [
+        "I went to the library after class ended.",
+        "После окончания урока я пошёл в библиотеку.",
+        "Сабак бүткөндөн кийин китепканага бардым.",
+        "ذهبت إلى المكتبة بعد انتهاء الدرس.",
+        "Je suis allé à la bibliothèque après la fin du cours."
       ]
     }
   },
