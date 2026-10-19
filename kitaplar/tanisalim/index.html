@@ -48,7 +48,32 @@
   </style>
 
 <script>if(new URLSearchParams(location.search).get('share')==='1'){document.documentElement.classList.add('share-mode');document.addEventListener('DOMContentLoaded',()=>document.querySelector('.brand')?.removeAttribute('href'))}</script><style>html.share-mode .mode-links{display:none!important}html.share-mode .brand{pointer-events:none;cursor:default}</style>
-<style>.unit-navigation{display:flex;justify-content:space-between;gap:12px;max-width:1180px;margin:22px auto 0;flex-wrap:wrap}.unit-nav-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:11px 17px;border:1px solid #a4d3c8;border-radius:11px;background:#fffefa;color:#075d61;font:inherit;font-size:13px;font-weight:750;text-decoration:none}.unit-nav-button:hover{background:#e0f4ed;border-color:#087f83}.unit-nav-button:focus-visible{outline:2px solid #087f83;outline-offset:3px}.unit-nav-next{margin-left:auto;background:#087f83;color:white;border-color:#087f83}.unit-nav-next:hover{background:#06696d;color:white}.unit-nav-button:disabled{opacity:.45;cursor:default;background:#edf2ef;color:#667c80;border-color:#d3ded8}@media(max-width:520px){.unit-navigation{gap:8px;margin-top:16px}.unit-nav-button{flex:1;padding:10px 8px;font-size:11px}}</style><style>.heading .unit-navigation{margin:0;max-width:none;flex-wrap:nowrap;justify-content:center;flex:1;align-self:center}.heading .unit-nav-next{margin-left:0}.heading .unit-nav-button{white-space:nowrap;font-size:12px;padding:10px 12px}.heading>div:first-child{flex:0 1 auto}.heading .unit-mark{flex-shrink:0}@media(max-width:1000px){.heading{flex-wrap:wrap}.heading .unit-navigation{order:3;flex-basis:100%;justify-content:flex-start}.heading .unit-mark{margin-left:auto}}@media(max-width:520px){.heading .unit-navigation{gap:8px}.heading .unit-nav-button{font-size:11px;flex:0 1 auto}}</style></head>
+<style>.unit-navigation{display:flex;justify-content:space-between;gap:12px;max-width:1180px;margin:22px auto 0;flex-wrap:wrap}.unit-nav-button{display:inline-flex;align-items:center;justify-content:center;min-height:44px;padding:11px 17px;border:1px solid #a4d3c8;border-radius:11px;background:#fffefa;color:#075d61;font:inherit;font-size:13px;font-weight:750;text-decoration:none}.unit-nav-button:hover{background:#e0f4ed;border-color:#087f83}.unit-nav-button:focus-visible{outline:2px solid #087f83;outline-offset:3px}.unit-nav-next{margin-left:auto;background:#087f83;color:white;border-color:#087f83}.unit-nav-next:hover{background:#06696d;color:white}.unit-nav-button:disabled{opacity:.45;cursor:default;background:#edf2ef;color:#667c80;border-color:#d3ded8}@media(max-width:520px){.unit-navigation{gap:8px;margin-top:16px}.unit-nav-button{flex:1;padding:10px 8px;font-size:11px}}</style><style>.heading .unit-navigation{margin:0;max-width:none;flex-wrap:nowrap;justify-content:center;flex:1;align-self:center}.heading .unit-nav-next{margin-left:0}.heading .unit-nav-button{white-space:nowrap;font-size:12px;padding:10px 12px}.heading>div:first-child{flex:0 1 auto}.heading .unit-mark{flex-shrink:0}@media(max-width:1000px){.heading{flex-wrap:wrap}.heading .unit-navigation{order:3;flex-basis:100%;justify-content:flex-start}.heading .unit-mark{margin-left:auto}}@media(max-width:520px){.heading .unit-navigation{gap:8px}.heading .unit-nav-button{font-size:11px;flex:0 1 auto}}</style><style>
+/* Desktop PDF reading layout: centered page, left vertical thumbnails, right study tools. */
+@media(min-width:1000px){
+ html,body{min-height:100%;overflow-x:hidden}
+ .topbar{height:56px}
+ .shell{max-width:none;padding:10px 18px 12px}
+ .heading{max-width:none;margin:0 auto 8px;align-items:center}
+ .heading h1{font-size:25px;margin:2px 0}
+ .heading p{font-size:11px}
+ .heading .unit-nav-button{min-height:32px;padding:6px 10px}
+ .progress{max-width:none;margin-bottom:8px;height:3px}
+ .reader{max-width:none;grid-template-columns:minmax(0,1fr) minmax(280px,320px);gap:12px;align-items:start}
+ .book{display:grid;grid-template-columns:74px minmax(0,1fr);grid-template-rows:37px auto;gap:6px 10px;padding:9px;min-height:0}
+ .book .toolbar{grid-column:2;grid-row:1;height:37px;padding:0 4px;justify-content:center;gap:20px}
+ .book .stage{grid-column:2;grid-row:2;justify-self:center;align-self:start;margin:0 auto;max-width:100%;transition:none}
+ .book .thumbrail{grid-column:1;grid-row:2;display:flex;flex-direction:column;gap:6px;overflow-y:auto;overflow-x:hidden;max-height:calc(100dvh - 205px);min-height:0;padding:2px 4px;scrollbar-width:thin;align-items:stretch}
+ .book .thumb{flex:0 0 auto;width:100%;padding:3px}
+ .book .thumb img{max-height:75px;width:auto;max-width:100%;margin:auto}
+ .book .thumb span{font-size:10px}
+ .book #audioPlayer{display:none}
+ .side-stack{max-height:calc(100dvh - 160px);overflow-y:auto;scrollbar-width:thin;padding-right:3px}
+ .side-stack .answer-details{margin-top:10px}
+ .study-area{margin-top:12px!important}
+ .bottomline{max-width:none;margin-top:6px}
+}
+</style></head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
@@ -69,10 +94,7 @@
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
         <audio id="audioPlayer" preload="none"></audio>
         <div id="thumbrail" class="thumbrail" aria-label="Sayfa seçimi"></div>
-        <details id="answerDetails" class="answer-details" hidden>
-          <summary id="answerSummary">Cevabı gör</summary>
-          <div id="answerContent" class="answer-content"></div>
-        </details>
+
       </section>
       <div class="side-stack">
       <aside class="panel" aria-live="polite" aria-label="Kelime çevirileri">
@@ -81,9 +103,14 @@
         <div id="translationBody"><div class="idle"><span class="tapicon">☝️</span>Kitapta bir kelimeye ya da ifadeye dokun.<br>Anlamı ve örnek cümlesi seçtiğin dilde görünsün.</div></div>
         <div class="vocab-actions"><button id="saveWord" class="small-action" disabled>＋ Kelime defterime ekle</button><button id="openVocab" class="small-action">📘 Defterim (0)</button></div>
       </aside>
+        <details id="answerDetails" class="answer-details" hidden>
+          <summary id="answerSummary">Cevabı gör</summary>
+          <div id="answerContent" class="answer-content"></div>
+        </details>
         <section class="study-area" aria-label="Ünite çalışma alanı">
           <div class="study-card"><div class="study-head"><div><h2 id="quizTitle">Kelime alıştırması</h2><p id="quizIntro">Ünite geneli · English</p></div><span id="quizProgress" class="panel-label">1 / 20</span></div><div class="quiz-tabs" role="tablist" aria-label="Alıştırma kategorisi"><button class="quiz-tab" role="tab" aria-selected="true" data-quiz-mode="vocab">Kelime</button><button class="quiz-tab" role="tab" aria-selected="false" data-quiz-mode="listening">Dinleme</button><button class="quiz-tab" role="tab" aria-selected="false" data-quiz-mode="writing">Yazma</button></div><div id="quizQuestion" class="quiz-question">Alıştırma hazırlanıyor…</div><button id="quizListen" class="quiz-listen" hidden>🔊 Türkçeyi dinle</button><div id="quizOptions" class="quiz-options"></div><form id="quizWrite" class="quiz-write" hidden><input id="quizAnswer" type="text" autocomplete="off" autocapitalize="off" placeholder="Türkçesini yaz" aria-label="Türkçe karşılığı"><button class="quiz-check" type="submit">Kontrol et</button></form><div id="quizFeedback" class="quiz-feedback" role="status" aria-live="polite"></div><div class="quiz-meta"><span id="quizScore">Doğru: 0</span><button id="quizNext" class="quiz-next" disabled>Sonraki soru</button></div></div>
-          <div class="study-card"><div class="study-head"><div><h2>Kelime defterim</h2><p>Tekrar etmek istediklerini buraya kaydet.</p></div><button id="openVocab2" class="small-action">Defteri aç</button></div><div id="vocabPreview" class="vocab-empty">Henüz kelime eklemedin. Bir kelime seçip “Kelime defterime ekle” düğmesine dokun.</div></div>
+          <div hidden><button id="openVocab2" type="button">Defteri aç</button><div id="vocabPreview"></div></div>
+
         </section>
       </div>
     </div>
@@ -98,7 +125,7 @@
     let glossary={words:{},phrases:{},examples:{}};
     let pages=[], current=0, renderedPage=-1, zoom=1, activeWord='', activeSelection=null, targetLang='en', quizPool=[], quizItems=[], quizIndex=0, quizScore=0, quizAnswered=false, quizFinished=false, activeQuizMode='vocab', savedWords=[];
     const $=s=>document.querySelector(s), stage=$('#stage'), img=$('#pageImage'), hits=$('#hotspots'), body=$('#translationBody');
-    function alignStudyArea(){const area=$('.study-area'),panel=$('.panel');area.style.marginTop='14px';if(window.matchMedia('(min-width: 851px)').matches){const bookBottom=$('.book').getBoundingClientRect().bottom,panelBottom=panel.getBoundingClientRect().bottom,areaHeight=area.getBoundingClientRect().height;area.style.marginTop=`${Math.max(0,bookBottom-panelBottom-areaHeight)}px`}}
+    function alignStudyArea(){const area=$('.study-area');area.style.marginTop='12px';if(window.matchMedia('(min-width: 1000px)').matches&&img.naturalWidth&&img.naturalHeight){const available=Math.max(250,window.innerHeight-document.querySelector('.stage').getBoundingClientRect().top-18);const pageWidth=Math.min(680,available*img.naturalWidth/img.naturalHeight,document.querySelector('.book').clientWidth-120);stage.style.width=Math.max(200,pageWidth)+'px';stage.style.maxWidth='100%';}}
     function normalize(s){return s.normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/^[\s.,:;!?()\[\]{}\"“”’…\-−•]+|[\s.,:;!?()\[\]{}\"“”’…\-−•]+$/g,'')}
     function cleanLeadingDashes(text){return String(text).replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim()}
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
