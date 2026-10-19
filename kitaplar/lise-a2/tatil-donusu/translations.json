@@ -11521,6 +11521,13 @@
       "анын жашаганын",
       "أنه يعيش / عاش",
       "qu'il/elle vit / a vécu"
+    ],
+    "kullanarak": [
+      "by using",
+      "используя",
+      "колдонуп",
+      "باستخدام",
+      "en utilisant"
     ]
   },
   "phrases": {
@@ -26773,6 +26780,16 @@
         "Сабак бүткөндөн кийин китепканага бардым.",
         "ذهبت إلى المكتبة بعد انتهاء الدرس.",
         "Je suis allé à la bibliothèque après la fin du cours."
+      ]
+    },
+    "kullanarak": {
+      "tr": "Haritayı kullanarak adresi bulduk.",
+      "values": [
+        "We found the address using the map.",
+        "Мы нашли адрес с помощью карты.",
+        "Картаны колдонуп даректи таптык.",
+        "وجدنا العنوان باستخدام الخريطة.",
+        "Nous avons trouvé l'adresse en utilisant la carte."
       ]
     }
   },
