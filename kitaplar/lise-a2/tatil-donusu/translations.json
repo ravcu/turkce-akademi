@@ -26304,6 +26304,416 @@
         "تستمر هذه الجولة ساعتين.",
         "Cette visite dure deux heures."
       ]
+    },
+    "ifade": {
+      "tr": "Duygularını açıkça ifade et.",
+      "values": [
+        "Express your feelings clearly.",
+        "Выражай свои чувства ясно.",
+        "Сезимдериңди ачык билдир.",
+        "عبّر عن مشاعرك بوضوح.",
+        "Exprime clairement tes sentiments."
+      ]
+    },
+    "eğlence": {
+      "tr": "Piknikte çok eğlence vardı.",
+      "values": [
+        "We had lots of fun at the picnic.",
+        "На пикнике было очень весело.",
+        "Пикникте абдан көңүлдүү болду.",
+        "كان النزهة مليئة بالمرح.",
+        "Nous nous sommes beaucoup amusés au pique-nique."
+      ]
+    },
+    "huzur": {
+      "tr": "Deniz kenarında huzur buluyorum.",
+      "values": [
+        "I find peace by the sea.",
+        "У моря я обретаю спокойствие.",
+        "Деңиз жээгинде жан дүйнөм тынчыйт.",
+        "أجد الهدوء بجانب البحر.",
+        "Je trouve la paix au bord de la mer."
+      ]
+    },
+    "türünü": {
+      "tr": "En sevdiğin tatil türünü seç.",
+      "values": [
+        "Choose your favorite type of holiday.",
+        "Выбери свой любимый вид отдыха.",
+        "Эң жактырган эс алуу түрүңдү танда.",
+        "اختر نوع العطلة المفضل لديك.",
+        "Choisis ton type de vacances préféré."
+      ]
+    },
+    "edersin": {
+      "tr": "Hafta sonu ne yapmayı tercih edersin?",
+      "values": [
+        "What do you prefer to do at the weekend?",
+        "Что ты предпочитаешь делать по выходным?",
+        "Дем алышта эмне кылганды жактырасың?",
+        "ماذا تفضل أن تفعل في عطلة نهاية الأسبوع؟",
+        "Que préfères-tu faire le week-end ?"
+      ]
+    },
+    "gitmeyi": {
+      "tr": "Yazın köye gitmeyi seviyorum.",
+      "values": [
+        "I like going to the village in summer.",
+        "Летом я люблю ездить в деревню.",
+        "Жайында айылга барганды жакшы көрөм.",
+        "أحب الذهاب إلى القرية في الصيف.",
+        "J'aime aller au village en été."
+      ]
+    },
+    "güneşli": {
+      "tr": "Bugün hava güneşli.",
+      "values": [
+        "It's sunny today.",
+        "Сегодня солнечно.",
+        "Бүгүн күн ачык.",
+        "الجو مشمس اليوم.",
+        "Il fait beau et ensoleillé aujourd'hui."
+      ]
+    },
+    "rüzgârlı": {
+      "tr": "Dışarısı çok rüzgârlı.",
+      "values": [
+        "It's very windy outside.",
+        "На улице очень ветрено.",
+        "Сыртта катуу шамал болуп жатат.",
+        "الجو عاصف جدًا في الخارج.",
+        "Il y a beaucoup de vent dehors."
+      ]
+    },
+    "yağmurlu": {
+      "tr": "Yağmurlu havada evde kaldık.",
+      "values": [
+        "We stayed home in rainy weather.",
+        "В дождливую погоду мы остались дома.",
+        "Жаан-чачындуу күнү үйдө калдык.",
+        "بقينا في المنزل في الطقس الماطر.",
+        "Nous sommes restés à la maison par temps pluvieux."
+      ]
+    },
+    "bulutlu": {
+      "tr": "Sabah hava bulutluydu.",
+      "values": [
+        "It was cloudy in the morning.",
+        "Утром было облачно.",
+        "Эртең менен күн булуттуу болду.",
+        "كان الجو غائمًا صباحًا.",
+        "Le ciel était nuageux ce matin."
+      ]
+    },
+    "araba": {
+      "tr": "Babam yeni bir araba aldı.",
+      "values": [
+        "My father bought a new car.",
+        "Мой отец купил новую машину.",
+        "Атам жаңы унаа сатып алды.",
+        "اشترى أبي سيارة جديدة.",
+        "Mon père a acheté une nouvelle voiture."
+      ]
+    },
+    "motosiklet": {
+      "tr": "Amcam işe motosikletle gidiyor.",
+      "values": [
+        "My uncle goes to work by motorcycle.",
+        "Мой дядя ездит на работу на мотоцикле.",
+        "Агам жумушка мотоцикл менен барат.",
+        "يذهب عمي إلى العمل بالدراجة النارية.",
+        "Mon oncle va au travail à moto."
+      ]
+    },
+    "uçak": {
+      "tr": "Uçak sabah saat dokuzda kalkıyor.",
+      "values": [
+        "The plane takes off at nine in the morning.",
+        "Самолёт вылетает в девять утра.",
+        "Учак эртең менен саат тогузда учат.",
+        "تقلع الطائرة في التاسعة صباحًا.",
+        "L'avion décolle à neuf heures du matin."
+      ]
+    },
+    "ankette": {
+      "tr": "Ankette beş soru var.",
+      "values": [
+        "There are five questions in the survey.",
+        "В анкете пять вопросов.",
+        "Сурамжылоодо беш суроо бар.",
+        "يوجد خمسة أسئلة في الاستبيان.",
+        "Il y a cinq questions dans le questionnaire."
+      ]
+    },
+    "şıkkı": {
+      "tr": "Doğru cevap B şıkkı.",
+      "values": [
+        "The correct answer is option B.",
+        "Правильный ответ — вариант Б.",
+        "Туура жооп — Б варианты.",
+        "الإجابة الصحيحة هي الخيار ب.",
+        "La bonne réponse est l'option B."
+      ]
+    },
+    "anket": {
+      "tr": "Sınıfta küçük bir anket yaptık.",
+      "values": [
+        "We conducted a short survey in class.",
+        "Мы провели небольшой опрос в классе.",
+        "Класста чакан сурамжылоо жүргүздүк.",
+        "أجرينا استطلاعًا قصيرًا في الصف.",
+        "Nous avons réalisé un petit sondage en classe."
+      ]
+    },
+    "sonucunu": {
+      "tr": "Sınavın sonucunu yarın öğreneceğiz.",
+      "values": [
+        "We will learn the exam result tomorrow.",
+        "Мы узнаем результат экзамена завтра.",
+        "Сынактын жыйынтыгын эртең билебиз.",
+        "سنعرف نتيجة الامتحان غدًا.",
+        "Nous connaîtrons le résultat de l'examen demain."
+      ]
+    },
+    "arkadaşlarınla": {
+      "tr": "Tatilini arkadaşlarınla geçirebilirsin.",
+      "values": [
+        "You can spend your holiday with your friends.",
+        "Ты можешь провести каникулы с друзьями.",
+        "Эс алууңду досторуң менен өткөрсөң болот.",
+        "يمكنك قضاء عطلتك مع أصدقائك.",
+        "Tu peux passer tes vacances avec tes amis."
+      ]
+    },
+    "yüzmeyi": {
+      "tr": "Denizde yüzmeyi çok seviyorum.",
+      "values": [
+        "I love swimming in the sea.",
+        "Я очень люблю плавать в море.",
+        "Деңизде сүзгөндү абдан жакшы көрөм.",
+        "أحب السباحة في البحر كثيرًا.",
+        "J'aime beaucoup nager dans la mer."
+      ]
+    },
+    "kumsalda": {
+      "tr": "Çocuklar kumsalda oynuyor.",
+      "values": [
+        "The children are playing on the beach.",
+        "Дети играют на песчаном пляже.",
+        "Балдар кумдуу жээкте ойноп жатышат.",
+        "يلعب الأطفال على الشاطئ الرملي.",
+        "Les enfants jouent sur la plage de sable."
+      ]
+    },
+    "dinlenmeyi": {
+      "tr": "Pazar günleri evde dinlenmeyi seviyorum.",
+      "values": [
+        "I like resting at home on Sundays.",
+        "По воскресеньям я люблю отдыхать дома.",
+        "Жекшембиде үйдө эс алганды жакшы көрөм.",
+        "أحب الاستراحة في المنزل أيام الأحد.",
+        "J'aime me reposer à la maison le dimanche."
+      ]
+    },
+    "tam": {
+      "tr": "Saat tam sekizde buluşalım.",
+      "values": [
+        "Let's meet at exactly eight.",
+        "Давай встретимся ровно в восемь.",
+        "Так саат сегизде жолугалы.",
+        "لنلتقِ في تمام الساعة الثامنة.",
+        "Retrouvons-nous à huit heures précises."
+      ]
+    },
+    "tutkunusun": {
+      "tr": "Sen tam bir doğa tutkunusun.",
+      "values": [
+        "You are a true nature lover.",
+        "Ты настоящий любитель природы.",
+        "Сен жаратылышты абдан сүйгөн адамсың.",
+        "أنت عاشق حقيقي للطبيعة.",
+        "Tu es un véritable amoureux de la nature."
+      ]
+    },
+    "yüksek": {
+      "tr": "Bu dağ çok yüksek.",
+      "values": [
+        "This mountain is very high.",
+        "Эта гора очень высокая.",
+        "Бул тоо абдан бийик.",
+        "هذا الجبل مرتفع جدًا.",
+        "Cette montagne est très haute."
+      ]
+    },
+    "tepeden": {
+      "tr": "Tepeden bütün şehri gördük.",
+      "values": [
+        "We saw the whole city from the hill.",
+        "С холма мы увидели весь город.",
+        "Дөбөдөн бүт шаарды көрдүк.",
+        "رأينا المدينة كلها من أعلى التل.",
+        "Nous avons vu toute la ville depuis la colline."
+      ]
+    },
+    "dalgalar": {
+      "tr": "Bugün denizde büyük dalgalar var.",
+      "values": [
+        "There are big waves in the sea today.",
+        "Сегодня на море большие волны.",
+        "Бүгүн деңизде чоң толкундар бар.",
+        "توجد أمواج كبيرة في البحر اليوم.",
+        "Il y a de grosses vagues en mer aujourd'hui."
+      ]
+    },
+    "kürek": {
+      "tr": "Kayıkta iki kürek vardı.",
+      "values": [
+        "There were two oars in the boat.",
+        "В лодке было два весла.",
+        "Кайыкта эки калак бар эле.",
+        "كان في القارب مجدافان.",
+        "Il y avait deux rames dans le bateau."
+      ]
+    },
+    "çekmek": {
+      "tr": "Bu manzaranın fotoğrafını çekmek istiyorum.",
+      "values": [
+        "I want to take a photo of this view.",
+        "Я хочу сфотографировать этот вид.",
+        "Бул көрүнүштү сүрөткө тарткым келет.",
+        "أريد التقاط صورة لهذا المنظر.",
+        "Je veux prendre une photo de ce paysage."
+      ]
+    },
+    "işin": {
+      "tr": "Bu işin en zor kısmı bitti.",
+      "values": [
+        "The hardest part of this job is over.",
+        "Самая трудная часть этой работы позади.",
+        "Бул иштин эң оор бөлүгү бүттү.",
+        "انتهى أصعب جزء من هذا العمل.",
+        "La partie la plus difficile de ce travail est terminée."
+      ]
+    },
+    "kadar": {
+      "tr": "Akşama kadar ders çalıştım.",
+      "values": [
+        "I studied until the evening.",
+        "Я занимался до вечера.",
+        "Кечке чейин сабак окудум.",
+        "درست حتى المساء.",
+        "J'ai étudié jusqu'au soir."
+      ]
+    },
+    "sessiz": {
+      "tr": "Kütüphane çok sessiz.",
+      "values": [
+        "The library is very quiet.",
+        "В библиотеке очень тихо.",
+        "Китепкана абдан тынч.",
+        "المكتبة هادئة جدًا.",
+        "La bibliothèque est très calme."
+      ]
+    },
+    "ormanda": {
+      "tr": "Hafta sonu ormanda yürüdük.",
+      "values": [
+        "We walked in the forest at the weekend.",
+        "На выходных мы гуляли в лесу.",
+        "Дем алышта токойдо сейилдедик.",
+        "مشينا في الغابة في عطلة نهاية الأسبوع.",
+        "Nous nous sommes promenés dans la forêt le week-end."
+      ]
+    },
+    "dolu": {
+      "tr": "Bu çanta kitaplarla dolu.",
+      "values": [
+        "This bag is full of books.",
+        "Эта сумка полна книг.",
+        "Бул сумка китептерге толгон.",
+        "هذه الحقيبة مليئة بالكتب.",
+        "Ce sac est plein de livres."
+      ]
+    },
+    "ağaçları": {
+      "tr": "Bahçedeki ağaçları suladık.",
+      "values": [
+        "We watered the trees in the garden.",
+        "Мы полили деревья в саду.",
+        "Бакчадагы дарактарды сугардык.",
+        "سقينا الأشجار في الحديقة.",
+        "Nous avons arrosé les arbres du jardin."
+      ]
+    },
+    "seslerini": {
+      "tr": "Sabah kuşların seslerini dinledim.",
+      "values": [
+        "I listened to the birds singing in the morning.",
+        "Утром я слушал пение птиц.",
+        "Эртең менен куштардын үндөрүн уктум.",
+        "استمعت إلى أصوات الطيور صباحًا.",
+        "J'ai écouté le chant des oiseaux le matin."
+      ]
+    },
+    "manzaraları": {
+      "tr": "Yol boyunca güzel manzaraları izledik.",
+      "values": [
+        "We enjoyed beautiful views along the way.",
+        "По дороге мы любовались красивыми пейзажами.",
+        "Жол бою кооз көрүнүштөрдү көрдүк.",
+        "استمتعنا بالمناظر الجميلة طوال الطريق.",
+        "Nous avons admiré de beaux paysages en chemin."
+      ]
+    },
+    "okumayı": {
+      "tr": "Akşamları kitap okumayı seviyorum.",
+      "values": [
+        "I like reading books in the evening.",
+        "Я люблю читать книги по вечерам.",
+        "Кечинде китеп окуганды жакшы көрөм.",
+        "أحب قراءة الكتب في المساء.",
+        "J'aime lire des livres le soir."
+      ]
+    },
+    "gezmeyi": {
+      "tr": "Yeni şehirleri gezmeyi seviyorum.",
+      "values": [
+        "I like exploring new cities.",
+        "Я люблю гулять по новым городам.",
+        "Жаңы шаарларды кыдырганды жакшы көрөм.",
+        "أحب التجول في المدن الجديدة.",
+        "J'aime découvrir de nouvelles villes."
+      ]
+    },
+    "insanlarla": {
+      "tr": "Yeni insanlarla tanışmak güzel.",
+      "values": [
+        "It's nice to meet new people.",
+        "Приятно знакомиться с новыми людьми.",
+        "Жаңы адамдар менен таанышуу жакшы.",
+        "من الجميل التعرف إلى أشخاص جدد.",
+        "C'est agréable de rencontrer de nouvelles personnes."
+      ]
+    },
+    "kültürleri": {
+      "tr": "Farklı kültürleri tanımak istiyorum.",
+      "values": [
+        "I want to learn about different cultures.",
+        "Я хочу познакомиться с разными культурами.",
+        "Ар кандай маданияттарды тааныгым келет.",
+        "أريد التعرف إلى ثقافات مختلفة.",
+        "Je veux découvrir différentes cultures."
+      ]
+    },
+    "tanımak": {
+      "tr": "Yeni arkadaşlar tanımak istiyorum.",
+      "values": [
+        "I want to get to know new friends.",
+        "Я хочу познакомиться с новыми друзьями.",
+        "Жаңы достор менен таанышкым келет.",
+        "أريد التعرف إلى أصدقاء جدد.",
+        "Je veux faire connaissance avec de nouveaux amis."
+      ]
     }
   },
   "forms": {
