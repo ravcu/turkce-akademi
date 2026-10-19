@@ -23949,6 +23949,266 @@
         "أعطيت هذا الفيلم ثماني نقاط من عشر.",
         "J'ai donné huit points sur dix à ce film."
       ]
+    },
+    "sevdiğim": {
+      "tr": "En sevdiğim şehir İstanbul.",
+      "values": [
+        "My favorite city is Istanbul.",
+        "Мой любимый город — Стамбул.",
+        "Менин эң жакшы көргөн шаарым — Стамбул.",
+        "مدينتي المفضلة هي إسطنبول.",
+        "Ma ville préférée est Istanbul."
+      ]
+    },
+    "ülkenizin": {
+      "tr": "Ülkenizin başkenti neresi?",
+      "values": [
+        "What is the capital of your country?",
+        "Какая столица вашей страны?",
+        "Өлкөңөрдүн борбору кайсы шаар?",
+        "ما عاصمة بلدكم؟",
+        "Quelle est la capitale de votre pays ?"
+      ]
+    },
+    "zamanın": {
+      "tr": "Bugün biraz boş zamanın var mı?",
+      "values": [
+        "Do you have some free time today?",
+        "У тебя сегодня есть немного свободного времени?",
+        "Бүгүн бир аз бош убактың барбы?",
+        "هل لديك بعض وقت الفراغ اليوم؟",
+        "As-tu un peu de temps libre aujourd'hui ?"
+      ]
+    },
+    "esma": {
+      "tr": "Esma Edirne'de doğdu.",
+      "values": [
+        "Esma was born in Edirne.",
+        "Эсма родилась в Эдирне.",
+        "Эсма Эдирнеде төрөлгөн.",
+        "وُلدت أسماء في أدرنة.",
+        "Esma est née à Edirne."
+      ]
+    },
+    "yılında": {
+      "tr": "2001 yılında doğdum.",
+      "values": [
+        "I was born in 2001.",
+        "Я родился в 2001 году.",
+        "Мен 2001-жылы төрөлгөм.",
+        "وُلدت عام 2001.",
+        "Je suis né en 2001."
+      ]
+    },
+    "edirne’de": {
+      "tr": "Edirne'de tarihî camiler var.",
+      "values": [
+        "There are historic mosques in Edirne.",
+        "В Эдирне есть исторические мечети.",
+        "Эдирнеде тарыхый мечиттер бар.",
+        "توجد مساجد تاريخية في أدرنة.",
+        "Il y a des mosquées historiques à Edirne."
+      ]
+    },
+    "restoran": {
+      "tr": "Bu restoran çok kalabalık.",
+      "values": [
+        "This restaurant is very crowded.",
+        "В этом ресторане очень многолюдно.",
+        "Бул ресторанда киши көп.",
+        "هذا المطعم مزدحم جدًا.",
+        "Ce restaurant est très fréquenté."
+      ]
+    },
+    "alışveriş": {
+      "tr": "Alışveriş yapmak için çarşıya gittik.",
+      "values": [
+        "We went to the market to shop.",
+        "Мы пошли на рынок за покупками.",
+        "Соода кылуу үчүн базарга бардык.",
+        "ذهبنا إلى السوق للتسوق.",
+        "Nous sommes allés au marché faire des achats."
+      ]
+    },
+    "merkezi": {
+      "tr": "Şehir merkezi bugün kalabalık.",
+      "values": [
+        "The city center is crowded today.",
+        "Центр города сегодня многолюден.",
+        "Шаардын борборунда бүгүн эл көп.",
+        "وسط المدينة مزدحم اليوم.",
+        "Le centre-ville est animé aujourd'hui."
+      ]
+    },
+    "müzeleri": {
+      "tr": "Şehrin müzelerini gezdik.",
+      "values": [
+        "We visited the city's museums.",
+        "Мы посетили музеи города.",
+        "Шаардын музейлерин кыдырдык.",
+        "زرنا متاحف المدينة.",
+        "Nous avons visité les musées de la ville."
+      ]
+    },
+    "etmeyi": {
+      "tr": "Müzeyi ziyaret etmeyi seviyorum.",
+      "values": [
+        "I like visiting the museum.",
+        "Мне нравится посещать музей.",
+        "Музейге барганды жакшы көрөм.",
+        "أحب زيارة المتحف.",
+        "J'aime visiter le musée."
+      ]
+    },
+    "ise": {
+      "tr": "Ben çay, kardeşim ise süt içiyor.",
+      "values": [
+        "I drink tea, whereas my sibling drinks milk.",
+        "Я пью чай, а мой брат — молоко.",
+        "Мен чай ичем, ал эми бир тууганым сүт ичет.",
+        "أنا أشرب الشاي، أما أخي فيشرب الحليب.",
+        "Je bois du thé, tandis que mon frère boit du lait."
+      ]
+    },
+    "selimiye": {
+      "tr": "Selimiye Camisi Edirne'dedir.",
+      "values": [
+        "The Selimiye Mosque is in Edirne.",
+        "Мечеть Селимие находится в Эдирне.",
+        "Селимие мечити Эдирнеде жайгашкан.",
+        "يقع جامع السليمية في أدرنة.",
+        "La mosquée Selimiye se trouve à Edirne."
+      ]
+    },
+    "caminin": {
+      "tr": "Caminin avlusu çok geniş.",
+      "values": [
+        "The mosque's courtyard is very spacious.",
+        "Двор мечети очень просторный.",
+        "Мечиттин короосу абдан кенен.",
+        "ساحة المسجد واسعة جدًا.",
+        "La cour de la mosquée est très grande."
+      ]
+    },
+    "anda": {
+      "tr": "Şu anda ders çalışıyorum.",
+      "values": [
+        "I'm studying right now.",
+        "Сейчас я занимаюсь.",
+        "Мен азыр сабак окуп жатам.",
+        "أدرس الآن.",
+        "J'étudie en ce moment."
+      ]
+    },
+    "ankara’da": {
+      "tr": "Ankara'da ailemle yaşıyorum.",
+      "values": [
+        "I live with my family in Ankara.",
+        "Я живу с семьёй в Анкаре.",
+        "Анкарада үй-бүлөм менен жашайм.",
+        "أعيش مع عائلتي في أنقرة.",
+        "Je vis à Ankara avec ma famille."
+      ]
+    },
+    "başkentidir": {
+      "tr": "Ankara Türkiye'nin başkentidir.",
+      "values": [
+        "Ankara is the capital of Türkiye.",
+        "Анкара — столица Турции.",
+        "Анкара Түркиянын борбору.",
+        "أنقرة عاصمة تركيا.",
+        "Ankara est la capitale de la Turquie."
+      ]
+    },
+    "evler": {
+      "tr": "Bu mahallede eski evler var.",
+      "values": [
+        "There are old houses in this neighborhood.",
+        "В этом районе есть старые дома.",
+        "Бул райондо эски үйлөр бар.",
+        "توجد بيوت قديمة في هذا الحي.",
+        "Il y a de vieilles maisons dans ce quartier."
+      ]
+    },
+    "sokaklar": {
+      "tr": "Eski sokaklar çok güzeldi.",
+      "values": [
+        "The old streets were beautiful.",
+        "Старые улицы были очень красивыми.",
+        "Эски көчөлөр абдан кооз эле.",
+        "كانت الشوارع القديمة جميلة جدًا.",
+        "Les vieilles rues étaient magnifiques."
+      ]
+    },
+    "ayrıca": {
+      "tr": "Müzeyi gezdik, ayrıca fotoğraf çektik.",
+      "values": [
+        "We visited the museum and also took photos.",
+        "Мы посетили музей и также сделали фотографии.",
+        "Музейди кыдырып, андан тышкары сүрөткө түштүк.",
+        "زرنا المتحف والتقطنا صورًا أيضًا.",
+        "Nous avons visité le musée et pris des photos également."
+      ]
+    },
+    "gençlik": {
+      "tr": "Gençlik Parkı'nda yürüdük.",
+      "values": [
+        "We walked in Gençlik Park.",
+        "Мы гуляли в парке Генчлик.",
+        "Генчлик паркында сейилдедик.",
+        "تمشينا في حديقة غنتشليك.",
+        "Nous nous sommes promenés dans le parc Gençlik."
+      ]
+    },
+    "parkı’nda": {
+      "tr": "Parkta çocuklar oynuyor.",
+      "values": [
+        "Children are playing in the park.",
+        "В парке играют дети.",
+        "Паркта балдар ойноп жатышат.",
+        "يلعب الأطفال في الحديقة.",
+        "Des enfants jouent dans le parc."
+      ]
+    },
+    "yapmalısın": {
+      "tr": "Bu ödevi bugün yapmalısın.",
+      "values": [
+        "You must do this homework today.",
+        "Ты должен сделать это задание сегодня.",
+        "Бул үй тапшырмасын бүгүн аткарышың керек.",
+        "يجب أن تنجز هذا الواجب اليوم.",
+        "Tu dois faire ce devoir aujourd'hui."
+      ]
+    },
+    "yapabilir": {
+      "tr": "Burada spor yapabilir.",
+      "values": [
+        "He can exercise here.",
+        "Он может заниматься спортом здесь.",
+        "Ал бул жерде спорт менен машыга алат.",
+        "يمكنه ممارسة الرياضة هنا.",
+        "Il peut faire du sport ici."
+      ]
+    },
+    "aktiviteler": {
+      "tr": "Parkta eğlenceli aktiviteler var.",
+      "values": [
+        "There are fun activities in the park.",
+        "В парке есть интересные занятия.",
+        "Паркта кызыктуу иш-чаралар бар.",
+        "توجد أنشطة ممتعة في الحديقة.",
+        "Il y a des activités amusantes dans le parc."
+      ]
+    },
+    "bulabilirsiniz": {
+      "tr": "Bu bilgiyi kitapta bulabilirsiniz.",
+      "values": [
+        "You can find this information in the book.",
+        "Вы можете найти эту информацию в книге.",
+        "Бул маалыматты китептен таба аласыздар.",
+        "يمكنكم العثور على هذه المعلومة في الكتاب.",
+        "Vous pouvez trouver cette information dans le livre."
+      ]
     }
   },
   "forms": {
