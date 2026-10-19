@@ -22,7 +22,7 @@
   </style>
 
   <style>
-    .answer-details{margin-top:10px;border:1px solid #cfe1d8;border-radius:12px;background:#fffefa;overflow:hidden}
+    .answer-details{margin-top:16px;border:1px solid #cfe1d8;border-radius:12px;background:#fffefa;overflow:hidden}
     .answer-details[hidden]{display:none}
     .answer-details summary{list-style:none;cursor:pointer;display:flex;align-items:center;justify-content:space-between;gap:8px;padding:11px 13px;color:#075d61;font-size:12px;font-weight:800}
     .answer-details summary::-webkit-details-marker{display:none}
@@ -78,11 +78,11 @@
         <div id="languageTabs" class="language-tabs" role="tablist" aria-label="Çeviri dili"><button class="language-tab" role="tab" aria-selected="false" aria-label="Türkçe" data-lang="tr"><span>🇹🇷</span>TR</button><button class="language-tab" role="tab" aria-selected="true" aria-label="English" data-lang="en"><span>🇬🇧</span>EN</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Русский" data-lang="ru"><span>🇷🇺</span>RU</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Кыргызча" data-lang="ky"><span>🇰🇬</span>KY</button><button class="language-tab" role="tab" aria-selected="false" aria-label="العربية" data-lang="ar"><span>🇸🇦</span>AR</button></div>
         <div id="translationBody"><div class="idle"><span class="tapicon">☝️</span>Kitapta bir kelimeye ya da ifadeye dokun.<br>Anlamı ve örnek cümlesi seçtiğin dilde görünsün.</div></div>
         <div class="vocab-actions"><button id="saveWord" class="small-action" disabled>＋ Kelime defterime ekle</button><button id="openVocab" class="small-action">📘 Defterim (0)</button></div>
-      </aside>
         <details id="answerDetails" class="answer-details" hidden>
-          <summary id="answerSummary">Cevabı gör</summary>
+          <summary id="answerSummary">Cevapları Göster</summary>
           <div id="answerContent" class="answer-content"></div>
         </details>
+      </aside>
         <section class="study-area" aria-label="Ünite çalışma alanı">
           <div class="study-card"><div class="study-head"><div><h2 id="quizTitle">Kelime alıştırması</h2><p id="quizIntro">Ünite geneli · English</p></div><span id="quizProgress" class="panel-label">1 / 20</span></div><div class="quiz-tabs" role="tablist" aria-label="Alıştırma kategorisi"><button class="quiz-tab" role="tab" aria-selected="true" data-quiz-mode="vocab">Kelime</button><button class="quiz-tab" role="tab" aria-selected="false" data-quiz-mode="listening">Dinleme</button><button class="quiz-tab" role="tab" aria-selected="false" data-quiz-mode="writing">Yazma</button></div><div id="quizQuestion" class="quiz-question">Alıştırma hazırlanıyor…</div><button id="quizListen" class="quiz-listen" hidden>🔊 Türkçeyi dinle</button><div id="quizOptions" class="quiz-options"></div><form id="quizWrite" class="quiz-write" hidden><input id="quizAnswer" type="text" autocomplete="off" autocapitalize="off" placeholder="Türkçesini yaz" aria-label="Türkçe karşılığı"><button class="quiz-check" type="submit">Kontrol et</button></form><div id="quizFeedback" class="quiz-feedback" role="status" aria-live="polite"></div><div class="quiz-meta"><span id="quizScore">Doğru: 0</span><button id="quizNext" class="quiz-next" disabled>Sonraki soru</button></div></div>
           <div hidden aria-hidden="true"><button id="openVocab2" type="button" tabindex="-1">Defteri aç</button><div id="vocabPreview"></div></div>
@@ -134,7 +134,7 @@
     ['play','pause','ended'].forEach(event=>$('#audioPlayer').addEventListener(event,updateAudioButtons));
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
-      details.open=false;$('#answerSummary').textContent='Cevabı gör';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
+      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
       if(!data)return;
       if(data.note){const note=document.createElement('p');note.className='answer-note';note.textContent=data.note;content.append(note)}
       (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
@@ -165,7 +165,7 @@
       });overlay.hidden=false;
       overlay.querySelectorAll('.answer-fill').forEach(answer=>{let size=parseFloat(getComputedStyle(answer).fontSize);while(answer.scrollWidth>answer.clientWidth+1&&size>5){size=Math.max(5,size-.5);answer.style.fontSize=`${size}px`}});
     }
-    $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları gizle':'Cevabı gör';renderAnswerOverlay()});
+    $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları Gizle':'Cevapları Göster';renderAnswerOverlay()});
     function exportCurrentPageWords(){
       const page=pages[current];if(!page)return;
       const index=LANGS.findIndex(x=>x[0]===targetLang),language=LANGS[index]?.[2]||'English';
