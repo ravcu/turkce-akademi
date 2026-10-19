@@ -125,7 +125,7 @@
     let glossary={words:{},phrases:{},examples:{}};
     let pages=[], current=0, renderedPage=-1, zoom=1, activeWord='', activeSelection=null, targetLang='en', quizPool=[], quizItems=[], quizIndex=0, quizScore=0, quizAnswered=false, quizFinished=false, activeQuizMode='vocab', savedWords=[];
     const $=s=>document.querySelector(s), stage=$('#stage'), img=$('#pageImage'), hits=$('#hotspots'), body=$('#translationBody');
-    function alignStudyArea(){const area=$('.study-area');area.style.marginTop='12px';if(window.matchMedia('(min-width: 1000px)').matches&&img.naturalWidth&&img.naturalHeight){const available=Math.max(250,window.innerHeight-document.querySelector('.stage').getBoundingClientRect().top-18);const pageWidth=Math.min(680,available*img.naturalWidth/img.naturalHeight,document.querySelector('.book').clientWidth-120);stage.style.width=Math.max(200,pageWidth)+'px';stage.style.maxWidth='100%';}}
+    function alignStudyArea(){const area=$('.study-area');area.style.marginTop='12px';if(window.matchMedia('(min-width: 1000px)').matches&&img.naturalWidth&&img.naturalHeight){const available=Math.max(250,window.innerHeight-document.querySelector('.stage').getBoundingClientRect().top-18);const pageWidth=Math.min(available*img.naturalWidth/img.naturalHeight,document.querySelector('.book').clientWidth-125);stage.style.width=Math.max(200,pageWidth)+'px';stage.style.maxWidth='100%';}}
     function normalize(s){return s.normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/^[\s.,:;!?()\[\]{}\"“”’…\-−•]+|[\s.,:;!?()\[\]{}\"“”’…\-−•]+$/g,'')}
     function cleanLeadingDashes(text){return String(text).replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim()}
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
@@ -213,7 +213,7 @@
     }
     $('#speak').onclick=()=>{if(activeWord)speakText(activeWord)};
     $('#prev').onclick=()=>{if(current>0){current--;renderPage()}};$('#next').onclick=()=>{if(current<pages.length-1){current++;renderPage()}};
-    $('#zoomIn').onclick=()=>{zoom=Math.min(1.5,zoom+.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};$('#zoomOut').onclick=()=>{zoom=Math.max(.8,zoom-.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};
+    $('#zoomIn').onclick=()=>{if(window.matchMedia('(min-width: 1000px)').matches){alignStudyArea();showToast('PDF sayfası ekrana sığabilecek en büyük boyutta.');return}zoom=Math.min(1.5,zoom+.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};$('#zoomOut').onclick=()=>{if(window.matchMedia('(min-width: 1000px)').matches){alignStudyArea();return}zoom=Math.max(.8,zoom-.1);stage.style.width=`${Math.min(100*zoom,100)}%`;stage.style.maxWidth=`${Math.round(680*zoom)}px`};
     document.addEventListener('keydown',e=>{if(e.key==='ArrowRight'&&current<pages.length-1){current++;renderPage()}if(e.key==='ArrowLeft'&&current>0){current--;renderPage()}});
     function isSaved(item){return savedWords.some(x=>x.key===item.key&&x.phrase===item.phrase)}
     function readSaved(){try{const data=JSON.parse(localStorage.getItem('ta-tanisalim-vocab')||'[]');return Array.isArray(data)?data:[]}catch{return []}}
