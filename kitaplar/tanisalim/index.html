@@ -63,7 +63,7 @@
 .quiz-meta{margin-top:12px}
 .quiz-next,.quiz-check{min-height:38px}
 @media(max-width:520px){.study-card{padding:12px}.quiz-option{min-height:40px;padding:8px;font-size:11px}}
-</style><style>.page-export-actions{display:flex;justify-content:center;margin:10px 0}.page-export-actions button{background:#e8f5ef;color:#075d61;border:1px solid #a4d3c8;border-radius:10px;padding:10px 14px;font:inherit;font-size:12px;font-weight:750;cursor:pointer}.page-export-actions button:hover{background:#d7efe6}</style></head>
+</style><style>.page-export-actions{display:flex;justify-content:center;margin:10px 0}.page-export-actions button{background:#e8f5ef;color:#075d61;border:1px solid #a4d3c8;border-radius:10px;padding:10px 14px;font:inherit;font-size:12px;font-weight:750;cursor:pointer}.page-export-actions button:hover{background:#d7efe6}</style><style>.listening-player{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:10px 0;padding:10px;border:1px solid #b9ded4;border-radius:12px;background:#f5faf7}.listening-player[hidden]{display:none}.listening-player audio{flex:1;min-width:190px;max-width:100%;height:36px}.listening-label{font-size:12px;font-weight:750;color:#075d61}</style></head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
@@ -82,7 +82,7 @@
           <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button></div>
         </div>
         <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="A1 Türkçe ders kitabı, 1. ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
-        <audio id="audioPlayer" preload="none"></audio>
+        <div class="listening-player" id="listeningPlayer" hidden><span class="listening-label">🎧 Dinleme kaydı</span><audio id="audioPlayer" preload="metadata" controls aria-label="Dinleme kaydı: oynat, duraklat, ileri ve geri sar"></audio></div>
         <div class="page-export-actions"><button id="exportPageWords" type="button">📄 Bu sayfanın kelimelerini PDF olarak kaydet</button></div>
         <div id="thumbrail" class="thumbrail" aria-label="Sayfa seçimi"></div>
 
@@ -126,7 +126,7 @@
       renderAudioCues(p);
       renderAnswerKey();document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-tanisalim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
     function renderAudioCues(page){const layer=$('#audioCues');layer.replaceChildren();for(const word of page.words){const code=word.t.match(/^(?:S|M)\.\d{3}$/)?.[0];if(!code)continue;const button=document.createElement('button');button.type='button';button.className='audio-cue';button.textContent='DİNLE';button.title=`${code} sesini dinle`;button.setAttribute('aria-label',`${code} dinleme kaydını oynat`);button.style.left=`${Math.min(word.x+word.w+.006,.91)*100}%`;button.style.top=`${Math.max(word.y-.004,0)*100}%`;button.addEventListener('click',()=>playAudio(code));layer.append(button)}}
-    function playAudio(code){const player=$('#audioPlayer');player.pause();player.currentTime=0;const file=code.startsWith('M.')?`Lise A1  ${code}.mp3`:`Lise - A1 - Ders Kitabı - ${Number(code.slice(2))}.mp3`;player.src=`audio/${encodeURIComponent(file)}`;player.onerror=()=>showToast(`${code} ses dosyası henüz eklenmedi.`);player.play().catch(()=>{})}
+    function playAudio(code){const box=$('#listeningPlayer');box.hidden=false;const player=$('#audioPlayer');player.pause();player.currentTime=0;const file=code.startsWith('M.')?`Lise A1  ${code}.mp3`:`Lise - A1 - Ders Kitabı - ${Number(code.slice(2))}.mp3`;player.src=`audio/${encodeURIComponent(file)}`;player.onerror=()=>showToast(`${code} ses dosyası henüz eklenmedi.`);player.play().catch(()=>{})}
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
       details.open=false;$('#answerSummary').textContent='Cevabı gör';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
