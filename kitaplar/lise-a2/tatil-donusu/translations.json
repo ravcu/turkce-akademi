@@ -20700,6 +20700,316 @@
         "تسلقت تلًا صغيرًا أمس.",
         "Hier, j'ai gravi une petite colline."
       ]
+    },
+    "oluş": {
+      "tr": "Olayların oluş sırasını yazın.",
+      "values": [
+        "Write the order in which the events happened.",
+        "Запишите порядок событий.",
+        "Окуялардын болгон тартибин жазгыла.",
+        "اكتبوا ترتيب وقوع الأحداث.",
+        "Écrivez l'ordre des événements."
+      ]
+    },
+    "sırasına": {
+      "tr": "Kitapları renk sırasına göre dizdim.",
+      "values": [
+        "I arranged the books in order of color.",
+        "Я расставил книги по цветам.",
+        "Китептерди түсүнүн тартибине жараша тиздим.",
+        "رتبت الكتب حسب ترتيب الألوان.",
+        "J'ai rangé les livres par couleur."
+      ]
+    },
+    "sandviç": {
+      "tr": "Öğle yemeğinde sandviç yedim.",
+      "values": [
+        "I ate a sandwich for lunch.",
+        "На обед я съел бутерброд.",
+        "Түшкү тамакка сэндвич жедим.",
+        "أكلت شطيرة على الغداء.",
+        "J'ai mangé un sandwich à midi."
+      ]
+    },
+    "limanı’na": {
+      "tr": "Sabah limana gittik.",
+      "values": [
+        "We went to the port in the morning.",
+        "Утром мы отправились в порт.",
+        "Эртең менен портко бардык.",
+        "ذهبنا إلى الميناء صباحًا.",
+        "Nous sommes allés au port le matin."
+      ]
+    },
+    "çölü’ne": {
+      "tr": "Geçen yıl Namib Çölü'ne gittik.",
+      "values": [
+        "We went to the Namib Desert last year.",
+        "В прошлом году мы ездили в пустыню Намиб.",
+        "Өткөн жылы Намиб чөлүнө бардык.",
+        "ذهبنا إلى صحراء ناميب العام الماضي.",
+        "Nous sommes allés dans le désert du Namib l'année dernière."
+      ]
+    },
+    "kentine": {
+      "tr": "Petra Antik Kenti'ne otobüsle gittik.",
+      "values": [
+        "We went to the ancient city of Petra by bus.",
+        "Мы поехали в древний город Петру на автобусе.",
+        "Петра байыркы шаарына автобус менен бардык.",
+        "ذهبنا إلى مدينة البتراء الأثرية بالحافلة.",
+        "Nous sommes allés à la cité antique de Pétra en bus."
+      ]
+    },
+    "tepelerine": {
+      "tr": "Çölün kum tepelerine tırmandık.",
+      "values": [
+        "We climbed the desert's sand dunes.",
+        "Мы поднялись на песчаные дюны пустыни.",
+        "Чөлдүн кум дөбөлөрүнө чыктык.",
+        "صعدنا إلى الكثبان الرملية في الصحراء.",
+        "Nous avons gravi les dunes de sable du désert."
+      ]
+    },
+    "zirvesinden": {
+      "tr": "Dağın zirvesinden gölü gördüm.",
+      "values": [
+        "I saw the lake from the mountain summit.",
+        "С вершины горы я увидел озеро.",
+        "Тоонун чокусунан көлдү көрдүм.",
+        "رأيت البحيرة من قمة الجبل.",
+        "J'ai vu le lac depuis le sommet de la montagne."
+      ]
+    },
+    "genellikle": {
+      "tr": "Genellikle sabah erken kalkarım.",
+      "values": [
+        "I usually get up early.",
+        "Обычно я встаю рано.",
+        "Адатта эрте турам.",
+        "عادةً أستيقظ مبكرًا.",
+        "D'habitude, je me lève tôt."
+      ]
+    },
+    "nasıldı": {
+      "tr": "Dünkü gezi nasıldı?",
+      "values": [
+        "How was yesterday's trip?",
+        "Как прошла вчерашняя поездка?",
+        "Кечээги саякат кандай болду?",
+        "كيف كانت رحلة الأمس؟",
+        "Comment s'est passée l'excursion d'hier ?"
+      ]
+    },
+    "yemekler": {
+      "tr": "Bu restoranda yemekler çok lezzetli.",
+      "values": [
+        "The food at this restaurant is delicious.",
+        "В этом ресторане очень вкусная еда.",
+        "Бул ресторанда тамактар абдан даамдуу.",
+        "الأطعمة في هذا المطعم لذيذة جدًا.",
+        "Les plats de ce restaurant sont délicieux."
+      ]
+    },
+    "verdiğiniz": {
+      "tr": "Verdiğiniz cevap doğru.",
+      "values": [
+        "The answer you gave is correct.",
+        "Ваш ответ правильный.",
+        "Сиз берген жооп туура.",
+        "الإجابة التي قدمتموها صحيحة.",
+        "La réponse que vous avez donnée est correcte."
+      ]
+    },
+    "cevaplardan": {
+      "tr": "Cevaplardan birini seçin.",
+      "values": [
+        "Choose one of the answers.",
+        "Выберите один из ответов.",
+        "Жооптордун бирин тандагыла.",
+        "اختاروا واحدة من الإجابات.",
+        "Choisissez l'une des réponses."
+      ]
+    },
+    "hareketle": {
+      "tr": "Bu bilgilerden hareketle bir sonuç yazın.",
+      "values": [
+        "Write a conclusion based on this information.",
+        "Сделайте вывод на основе этой информации.",
+        "Бул маалыматтарга таянып жыйынтык жазгыла.",
+        "اكتبوا استنتاجًا بناءً على هذه المعلومات.",
+        "Rédigez une conclusion à partir de ces informations."
+      ]
+    },
+    "defterinize": {
+      "tr": "Yeni kelimeleri defterinize yazın.",
+      "values": [
+        "Write the new words in your notebook.",
+        "Запишите новые слова в тетрадь.",
+        "Жаңы сөздөрдү дептериңерге жазгыла.",
+        "اكتبوا الكلمات الجديدة في دفاتركم.",
+        "Écrivez les nouveaux mots dans votre cahier."
+      ]
+    },
+    "anınızı": {
+      "tr": "En güzel tatil anınızı anlatın.",
+      "values": [
+        "Tell us about your best vacation memory.",
+        "Расскажите о своём лучшем воспоминании об отпуске.",
+        "Эс алуудагы эң жакшы эскерүүңүздү айтып бериңиз.",
+        "احكوا عن أجمل ذكرى لكم في العطلة.",
+        "Racontez votre plus beau souvenir de vacances."
+      ]
+    },
+    "görsellerden": {
+      "tr": "Görsellerden birini seçin.",
+      "values": [
+        "Choose one of the pictures.",
+        "Выберите одну из картинок.",
+        "Сүрөттөрдүн бирин тандагыла.",
+        "اختاروا صورة من الصور.",
+        "Choisissez l'une des images."
+      ]
+    },
+    "odaların": {
+      "tr": "Otel odalarının pencereleri büyük.",
+      "values": [
+        "The hotel rooms have large windows.",
+        "В гостиничных номерах большие окна.",
+        "Мейманкананын бөлмөлөрүнүн терезелери чоң.",
+        "نوافذ غرف الفندق كبيرة.",
+        "Les chambres de l'hôtel ont de grandes fenêtres."
+      ]
+    },
+    "özelliklerini": {
+      "tr": "Odaların özelliklerini karşılaştırın.",
+      "values": [
+        "Compare the features of the rooms.",
+        "Сравните особенности номеров.",
+        "Бөлмөлөрдүн өзгөчөлүктөрүн салыштыргыла.",
+        "قارنوا بين خصائص الغرف.",
+        "Comparez les caractéristiques des chambres."
+      ]
+    },
+    "geniş": {
+      "tr": "Bu oda çok geniş.",
+      "values": [
+        "This room is very spacious.",
+        "Эта комната очень просторная.",
+        "Бул бөлмө абдан кенен.",
+        "هذه الغرفة واسعة جدًا.",
+        "Cette chambre est très spacieuse."
+      ]
+    },
+    "dar": {
+      "tr": "Bu sokak çok dar.",
+      "values": [
+        "This street is very narrow.",
+        "Эта улица очень узкая.",
+        "Бул көчө абдан тар.",
+        "هذا الشارع ضيق جدًا.",
+        "Cette rue est très étroite."
+      ]
+    },
+    "kişilik": {
+      "tr": "İki kişilik bir oda ayırttık.",
+      "values": [
+        "We booked a room for two.",
+        "Мы забронировали двухместный номер.",
+        "Эки кишилик бөлмө ээлеп койдук.",
+        "حجزنا غرفة لشخصين.",
+        "Nous avons réservé une chambre pour deux personnes."
+      ]
+    },
+    "küçük": {
+      "tr": "Küçük bir otelde kaldık.",
+      "values": [
+        "We stayed at a small hotel.",
+        "Мы остановились в небольшой гостинице.",
+        "Кичинекей мейманканада түнөдүк.",
+        "أقمنا في فندق صغير.",
+        "Nous avons séjourné dans un petit hôtel."
+      ]
+    },
+    "çift": {
+      "tr": "Çift kişilik oda istiyorum.",
+      "values": [
+        "I would like a double room.",
+        "Я хочу двухместный номер.",
+        "Эки кишилик бөлмө каалайм.",
+        "أريد غرفة مزدوجة.",
+        "Je voudrais une chambre double."
+      ]
+    },
+    "odayı": {
+      "tr": "Deniz manzaralı odayı seçtim.",
+      "values": [
+        "I chose the room with a sea view.",
+        "Я выбрал номер с видом на море.",
+        "Деңиз көрүнгөн бөлмөнү тандадым.",
+        "اخترت الغرفة المطلة على البحر.",
+        "J'ai choisi la chambre avec vue sur la mer."
+      ]
+    },
+    "tercih": {
+      "tr": "Ben sakin otelleri tercih ederim.",
+      "values": [
+        "I prefer quiet hotels.",
+        "Я предпочитаю тихие гостиницы.",
+        "Мен тынч мейманканаларды жактырам.",
+        "أفضل الفنادق الهادئة.",
+        "Je préfère les hôtels calmes."
+      ]
+    },
+    "edersiniz": {
+      "tr": "Hangi odayı tercih edersiniz?",
+      "values": [
+        "Which room would you prefer?",
+        "Какой номер вы предпочитаете?",
+        "Кайсы бөлмөнү тандайсыз?",
+        "أي غرفة تفضّلون؟",
+        "Quelle chambre préférez-vous ?"
+      ]
+    },
+    "restoranların": {
+      "tr": "Bu restoranların menülerine baktık.",
+      "values": [
+        "We looked at the menus of these restaurants.",
+        "Мы посмотрели меню этих ресторанов.",
+        "Бул ресторандардын менюларын карадык.",
+        "اطلعنا على قوائم طعام هذه المطاعم.",
+        "Nous avons regardé les menus de ces restaurants."
+      ]
+    },
+    "açık": {
+      "tr": "Restoran sabah sekizde açık.",
+      "values": [
+        "The restaurant is open at eight in the morning.",
+        "Ресторан открыт в восемь утра.",
+        "Ресторан эртең менен саат сегизде ачык.",
+        "المطعم مفتوح الساعة الثامنة صباحًا.",
+        "Le restaurant est ouvert à huit heures du matin."
+      ]
+    },
+    "kapalı": {
+      "tr": "Müze pazartesi günü kapalı.",
+      "values": [
+        "The museum is closed on Monday.",
+        "Музей закрыт по понедельникам.",
+        "Музей дүйшөмбү күнү жабык.",
+        "المتحف مغلق يوم الاثنين.",
+        "Le musée est fermé le lundi."
+      ]
+    },
+    "restoranı": {
+      "tr": "Otelin restoranı birinci katta.",
+      "values": [
+        "The hotel's restaurant is on the first floor.",
+        "Ресторан отеля находится на первом этаже.",
+        "Мейманкананын рестораны биринчи кабатта.",
+        "يقع مطعم الفندق في الطابق الأول.",
+        "Le restaurant de l'hôtel se trouve au premier étage."
+      ]
     }
   },
   "forms": {
