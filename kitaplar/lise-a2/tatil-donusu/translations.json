@@ -21010,6 +21010,26 @@
         "يقع مطعم الفندق في الطابق الأول.",
         "Le restaurant de l'hôtel se trouve au premier étage."
       ]
+    },
+    "için": {
+      "tr": "Bu hediyeyi annem için aldım.",
+      "values": [
+        "I bought this gift for my mother.",
+        "Я купил этот подарок для мамы.",
+        "Бул белекти апам үчүн сатып алдым.",
+        "اشتريت هذه الهدية لأمي.",
+        "J'ai acheté ce cadeau pour ma mère."
+      ]
+    },
+    "hava": {
+      "tr": "Bugün hava çok güzel.",
+      "values": [
+        "The weather is lovely today.",
+        "Сегодня прекрасная погода.",
+        "Бүгүн аба ырайы абдан жакшы.",
+        "الطقس جميل جدًا اليوم.",
+        "Il fait très beau aujourd'hui."
+      ]
     }
   },
   "forms": {
