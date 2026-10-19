@@ -2351,6 +2351,482 @@
         "هل يمكننا مشاهدة هذا الفيلم معًا؟",
         "Est-ce qu'on peut regarder ce film ensemble ?"
       ]
+    },
+    "film festivali": {
+      "translations": [
+        "film festival",
+        "кинофестиваль",
+        "кинофестиваль",
+        "مهرجان سينمائي",
+        "festival de cinéma"
+      ],
+      "exampleTr": "Bu hafta film festivali var.",
+      "examples": [
+        "There is a film festival this week.",
+        "На этой неделе проходит кинофестиваль.",
+        "Бул аптада кинофестиваль болот.",
+        "يوجد مهرجان سينمائي هذا الأسبوع.",
+        "Il y a un festival de cinéma cette semaine."
+      ]
+    },
+    "açık hava": {
+      "translations": [
+        "outdoors; open air",
+        "под открытым небом",
+        "ачык аба",
+        "الهواء الطلق",
+        "plein air"
+      ],
+      "exampleTr": "Açık havada film izleyelim.",
+      "examples": [
+        "Let's watch a film outdoors.",
+        "Давай посмотрим фильм под открытым небом.",
+        "Ачык абада тасма көрөлү.",
+        "لنشاهد فيلمًا في الهواء الطلق.",
+        "Regardons un film en plein air."
+      ]
+    },
+    "açık hava sahnesi’nde": {
+      "translations": [
+        "at the open-air theater",
+        "в театре под открытым небом",
+        "ачык асман алдындагы сахнада",
+        "في المسرح المكشوف",
+        "au théâtre de plein air"
+      ],
+      "exampleTr": "Konser açık hava sahnesinde.",
+      "examples": [
+        "The concert is at the open-air theater.",
+        "Концерт проходит в театре под открытым небом.",
+        "Концерт ачык асман алдындагы сахнада өтөт.",
+        "الحفل في المسرح المكشوف.",
+        "Le concert a lieu au théâtre de plein air."
+      ]
+    },
+    "açık hava sahnesi’ni": {
+      "translations": [
+        "the open-air theater (object form)",
+        "театр под открытым небом",
+        "ачык асман алдындагы сахнаны",
+        "المسرح المكشوف",
+        "le théâtre de plein air"
+      ],
+      "exampleTr": "Açık hava sahnesini görmek istiyorum.",
+      "examples": [
+        "I want to see the open-air theater.",
+        "Я хочу увидеть театр под открытым небом.",
+        "Ачык асман алдындагы сахнаны көргүм келет.",
+        "أريد رؤية المسرح المكشوف.",
+        "Je veux voir le théâtre de plein air."
+      ]
+    },
+    "ne dersiniz": {
+      "translations": [
+        "what do you think?",
+        "что скажете?",
+        "эмне дейсиңер?",
+        "ما رأيكم؟",
+        "qu'en dites-vous ?"
+      ],
+      "exampleTr": "Sinemaya gidelim, ne dersiniz?",
+      "examples": [
+        "Shall we go to the cinema? What do you think?",
+        "Пойдём в кино, что скажете?",
+        "Киного баралы, эмне дейсиңер?",
+        "لنذهب إلى السينما، ما رأيكم؟",
+        "Allons au cinéma, qu'en dites-vous ?"
+      ]
+    },
+    "gidelim mi": {
+      "translations": [
+        "shall we go?",
+        "пойдём?",
+        "баралыбы?",
+        "هل نذهب؟",
+        "on y va ?"
+      ],
+      "exampleTr": "Cumartesi sinemaya gidelim mi?",
+      "examples": [
+        "Shall we go to the cinema on Saturday?",
+        "Пойдём в кино в субботу?",
+        "Ишемби күнү киного баралыбы?",
+        "هل نذهب إلى السينما يوم السبت؟",
+        "On va au cinéma samedi ?"
+      ]
+    },
+    "kabul etti": {
+      "translations": [
+        "accepted",
+        "принял; согласился",
+        "кабыл алды",
+        "وافق؛ قَبِل",
+        "a accepté"
+      ],
+      "exampleTr": "Aycan teklifi kabul etti.",
+      "examples": [
+        "Aycan accepted the offer.",
+        "Айджан приняла предложение.",
+        "Айжан сунушту кабыл алды.",
+        "وافقت آيجان على الاقتراح.",
+        "Aycan a accepté la proposition."
+      ]
+    },
+    "planınız var mı": {
+      "translations": [
+        "do you have plans?",
+        "у вас есть планы?",
+        "планыңар барбы?",
+        "هل لديكم خطط؟",
+        "avez-vous des projets ?"
+      ],
+      "exampleTr": "Hafta sonu planınız var mı?",
+      "examples": [
+        "Do you have plans for the weekend?",
+        "У вас есть планы на выходные?",
+        "Дем алыш күндөрүнө планыңар барбы?",
+        "هل لديكم خطط لعطلة نهاية الأسبوع؟",
+        "Vous avez des projets pour le week-end ?"
+      ]
+    },
+    "planım yok": {
+      "translations": [
+        "I have no plans",
+        "у меня нет планов",
+        "менин планым жок",
+        "ليس لدي خطط",
+        "je n'ai rien de prévu"
+      ],
+      "exampleTr": "Cumartesi planım yok.",
+      "examples": [
+        "I have no plans on Saturday.",
+        "В субботу у меня нет планов.",
+        "Ишемби күнү планым жок.",
+        "ليس لدي خطط يوم السبت.",
+        "Je n'ai rien de prévu samedi."
+      ]
+    },
+    "film izlemeyi": {
+      "translations": [
+        "watching films (object form)",
+        "смотреть фильмы",
+        "тасма көрүүнү",
+        "مشاهدة الأفلام",
+        "regarder des films"
+      ],
+      "exampleTr": "Film izlemeyi severim.",
+      "examples": [
+        "I like watching films.",
+        "Я люблю смотреть фильмы.",
+        "Мен тасма көргөндү жакшы көрөм.",
+        "أحب مشاهدة الأفلام.",
+        "J'aime regarder des films."
+      ]
+    },
+    "çok iyi bir fikir": {
+      "translations": [
+        "a very good idea",
+        "очень хорошая идея",
+        "абдан жакшы ой",
+        "فكرة جيدة جدًا",
+        "une très bonne idée"
+      ],
+      "exampleTr": "Bu çok iyi bir fikir.",
+      "examples": [
+        "That's a very good idea.",
+        "Это очень хорошая идея.",
+        "Бул абдан жакшы ой.",
+        "هذه فكرة جيدة جدًا.",
+        "C'est une très bonne idée."
+      ]
+    },
+    "ne zaman": {
+      "translations": [
+        "when?",
+        "когда?",
+        "качан?",
+        "متى؟",
+        "quand ?"
+      ],
+      "exampleTr": "Film ne zaman başlıyor?",
+      "examples": [
+        "When does the film start?",
+        "Когда начинается фильм?",
+        "Тасма качан башталат?",
+        "متى يبدأ الفيلم؟",
+        "Quand commence le film ?"
+      ]
+    },
+    "o zaman": {
+      "translations": [
+        "then; in that case",
+        "тогда",
+        "анда",
+        "إذًا",
+        "alors"
+      ],
+      "exampleTr": "O zaman saat ikide buluşalım.",
+      "examples": [
+        "Then let's meet at two.",
+        "Тогда встретимся в два.",
+        "Анда саат экиде жолугалы.",
+        "إذًا لنلتقِ الساعة الثانية.",
+        "Alors retrouvons-nous à deux heures."
+      ]
+    },
+    "film seansları": {
+      "translations": [
+        "film showtimes",
+        "сеансы фильмов",
+        "тасманын сеанстары",
+        "مواعيد عروض الأفلام",
+        "horaires des séances"
+      ],
+      "exampleTr": "Film seansları afişte yazıyor.",
+      "examples": [
+        "The film showtimes are on the poster.",
+        "Сеансы фильмов указаны на афише.",
+        "Тасманын сеанстары афишада жазылган.",
+        "مواعيد عروض الأفلام مكتوبة على الملصق.",
+        "Les horaires des séances figurent sur l'affiche."
+      ]
+    },
+    "telefon ediyorum": {
+      "translations": [
+        "I'm calling (by phone)",
+        "я звоню",
+        "телефон чалып жатам",
+        "أتصل هاتفيًا",
+        "je téléphone"
+      ],
+      "exampleTr": "Şimdi Hasan'a telefon ediyorum.",
+      "examples": [
+        "I'm calling Hasan now.",
+        "Сейчас я звоню Хасану.",
+        "Азыр Хасанга телефон чалып жатам.",
+        "أتصل بحسن الآن.",
+        "Je téléphone à Hasan maintenant."
+      ]
+    },
+    "ne haber": {
+      "translations": [
+        "what's up?",
+        "как дела?",
+        "кандай жаңылык?",
+        "ما الأخبار؟",
+        "quoi de neuf ?"
+      ],
+      "exampleTr": "Merhaba Hasan, ne haber?",
+      "examples": [
+        "Hi Hasan, what's up?",
+        "Привет, Хасан, как дела?",
+        "Салам, Хасан, кандай жаңылык?",
+        "مرحبًا حسن، ما الأخبار؟",
+        "Salut Hasan, quoi de neuf ?"
+      ]
+    },
+    "sağ ol": {
+      "translations": [
+        "thanks; thank you",
+        "спасибо",
+        "рахмат",
+        "شكرًا",
+        "merci"
+      ],
+      "exampleTr": "İyiyim, sağ ol.",
+      "examples": [
+        "I'm fine, thanks.",
+        "Всё хорошо, спасибо.",
+        "Жакшымын, рахмат.",
+        "أنا بخير، شكرًا.",
+        "Je vais bien, merci."
+      ]
+    },
+    "yardım edeceğim": {
+      "translations": [
+        "I will help",
+        "я помогу",
+        "жардам берем",
+        "سأساعد",
+        "je vais aider"
+      ],
+      "exampleTr": "Babama yardım edeceğim.",
+      "examples": [
+        "I will help my father.",
+        "Я помогу папе.",
+        "Атама жардам берем.",
+        "سأساعد أبي.",
+        "Je vais aider mon père."
+      ]
+    },
+    "yardım ederiz": {
+      "translations": [
+        "we will help",
+        "мы поможем",
+        "жардам беребиз",
+        "سنساعد",
+        "nous aiderons"
+      ],
+      "exampleTr": "Sana yardım ederiz.",
+      "examples": [
+        "We will help you.",
+        "Мы тебе поможем.",
+        "Сага жардам беребиз.",
+        "سنساعدك.",
+        "Nous t'aiderons."
+      ]
+    },
+    "gelmek ister misin": {
+      "translations": [
+        "would you like to come?",
+        "хочешь прийти?",
+        "келгиң келеби?",
+        "هل ترغب في المجيء؟",
+        "tu veux venir ?"
+      ],
+      "exampleTr": "Bizimle gelmek ister misin?",
+      "examples": [
+        "Would you like to come with us?",
+        "Хочешь пойти с нами?",
+        "Биз менен баргың келеби?",
+        "هل ترغب في المجيء معنا؟",
+        "Tu veux venir avec nous ?"
+      ]
+    },
+    "hiç gitmedim": {
+      "translations": [
+        "I have never been",
+        "я никогда не был",
+        "эч качан барган эмесмин",
+        "لم أذهب قط",
+        "je n'y suis jamais allé"
+      ],
+      "exampleTr": "Harbiye'ye hiç gitmedim.",
+      "examples": [
+        "I've never been to Harbiye.",
+        "Я никогда не был в Харбие.",
+        "Харбиеге эч качан барган эмесмин.",
+        "لم أذهب إلى حربية قط.",
+        "Je ne suis jamais allé à Harbiye."
+      ]
+    },
+    "sorun değil": {
+      "translations": [
+        "no problem",
+        "без проблем",
+        "маселе жок",
+        "لا مشكلة",
+        "pas de problème"
+      ],
+      "exampleTr": "Sorun değil, birlikte gideriz.",
+      "examples": [
+        "No problem, we'll go together.",
+        "Без проблем, пойдём вместе.",
+        "Маселе жок, чогуу барабыз.",
+        "لا مشكلة، سنذهب معًا.",
+        "Pas de problème, nous irons ensemble."
+      ]
+    },
+    "yolu tarif ederiz": {
+      "translations": [
+        "we will give directions",
+        "мы объясним дорогу",
+        "жолду түшүндүрүп беребиз",
+        "سنشرح الطريق",
+        "nous indiquerons le chemin"
+      ],
+      "exampleTr": "Sana yolu tarif ederiz.",
+      "examples": [
+        "We'll give you directions.",
+        "Мы объясним тебе дорогу.",
+        "Сага жолду түшүндүрүп беребиз.",
+        "سنشرح لك الطريق.",
+        "Nous t'indiquerons le chemin."
+      ]
+    },
+    "hoşça kal": {
+      "translations": [
+        "goodbye (said to someone leaving)",
+        "пока; до свидания",
+        "жакшы кал",
+        "مع السلامة",
+        "au revoir"
+      ],
+      "exampleTr": "Hoşça kal, yarın görüşürüz.",
+      "examples": [
+        "Goodbye, see you tomorrow.",
+        "Пока, увидимся завтра.",
+        "Жакшы кал, эртең көрүшөбүз.",
+        "مع السلامة، أراك غدًا.",
+        "Au revoir, à demain."
+      ]
+    },
+    "güle güle": {
+      "translations": [
+        "goodbye (said to someone leaving)",
+        "счастливо; пока",
+        "жакшы бар",
+        "مع السلامة",
+        "au revoir"
+      ],
+      "exampleTr": "Güle güle, iyi yolculuklar.",
+      "examples": [
+        "Goodbye, have a good trip.",
+        "Счастливо, хорошей дороги.",
+        "Жакшы бар, жолуӊ шыдыр болсун.",
+        "مع السلامة، رحلة سعيدة.",
+        "Au revoir, bon voyage."
+      ]
+    },
+    "görüşmek üzere": {
+      "translations": [
+        "see you soon",
+        "до встречи",
+        "көрүшкөнчө",
+        "إلى اللقاء",
+        "à bientôt"
+      ],
+      "exampleTr": "Görüşmek üzere, kendine iyi bak.",
+      "examples": [
+        "See you soon, take care.",
+        "До встречи, береги себя.",
+        "Көрүшкөнчө, өзүңдү кара.",
+        "إلى اللقاء، اعتنِ بنفسك.",
+        "À bientôt, prends soin de toi."
+      ]
+    },
+    "cumartesi günü": {
+      "translations": [
+        "on Saturday",
+        "в субботу",
+        "ишемби күнү",
+        "يوم السبت",
+        "samedi"
+      ],
+      "exampleTr": "Cumartesi günü buluşalım.",
+      "examples": [
+        "Let's meet on Saturday.",
+        "Давай встретимся в субботу.",
+        "Ишемби күнү жолугалы.",
+        "لنلتقِ يوم السبت.",
+        "Retrouvons-nous samedi."
+      ]
+    },
+    "film festivali afişi": {
+      "translations": [
+        "film festival poster",
+        "афиша кинофестиваля",
+        "кинофестивалдын афишасы",
+        "ملصق المهرجان السينمائي",
+        "affiche du festival de cinéma"
+      ],
+      "exampleTr": "Film festivali afişini gördüm.",
+      "examples": [
+        "I saw the film festival poster.",
+        "Я увидел афишу кинофестиваля.",
+        "Кинофестивалдын афишасын көрдүм.",
+        "رأيت ملصق المهرجان السينمائي.",
+        "J'ai vu l'affiche du festival de cinéma."
+      ]
     }
   },
   "examples": {
@@ -4083,6 +4559,26 @@
     "üzere": {
       "tr": "Görüşmek üzere!",
       "values": []
+    },
+    "görmek": {
+      "tr": "Bu filmi görmek istiyorum.",
+      "values": [
+        "I want to see this film.",
+        "Я хочу посмотреть этот фильм.",
+        "Бул тасманы көргүм келет.",
+        "أريد مشاهدة هذا الفيلم.",
+        "Je veux voir ce film."
+      ]
+    },
+    "plan": {
+      "tr": "Hafta sonu için bir plan yaptık.",
+      "values": [
+        "We made a plan for the weekend.",
+        "Мы составили план на выходные.",
+        "Дем алыш күндөрүнө план түздүк.",
+        "وضعنا خطة لعطلة نهاية الأسبوع.",
+        "Nous avons fait un projet pour le week-end."
+      ]
     }
   },
   "forms": {
