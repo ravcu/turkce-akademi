@@ -1,7 +1,783 @@
 {
-  "words": {},
-  "phrases": {},
-  "examples": {},
+  "words": {
+    "1": [
+      "one",
+      "один",
+      "бир",
+      "واحد",
+      "un"
+    ],
+    "2": [
+      "two",
+      "два",
+      "эки",
+      "اثنان",
+      "deux"
+    ],
+    "3": [
+      "three",
+      "три",
+      "үч",
+      "ثلاثة",
+      "trois"
+    ],
+    "ünite": [
+      "unit",
+      "раздел",
+      "бөлүм",
+      "وحدة",
+      "unité"
+    ],
+    "hafta": [
+      "week",
+      "неделя",
+      "жума",
+      "أسبوع",
+      "semaine"
+    ],
+    "sonu": [
+      "end (of)",
+      "конец",
+      "аягы",
+      "نهاية",
+      "fin"
+    ],
+    "planın": [
+      "your plan",
+      "твой план",
+      "сенин планың",
+      "خطتك",
+      "ton projet"
+    ],
+    "ne": [
+      "what",
+      "что",
+      "эмне",
+      "ماذا",
+      "quoi"
+    ],
+    "etnospor": [
+      "ethnosport; traditional sports",
+      "этноспорт; традиционные виды спорта",
+      "этноспорт; салттуу спорт түрлөрү",
+      "الرياضات التراثية",
+      "ethnosport ; sports traditionnels"
+    ],
+    "nasıl": [
+      "how",
+      "как",
+      "кантип",
+      "كيف",
+      "comment"
+    ],
+    "festivali": [
+      "the festival (object/possessive form)",
+      "фестиваль (форма слова)",
+      "фестивалды / фестивалы",
+      "المهرجان",
+      "le festival"
+    ],
+    "bir": [
+      "a; one",
+      "один; какой-то",
+      "бир",
+      "واحد؛ أداة تنكير",
+      "un; une"
+    ],
+    "davetin": [
+      "your invitation",
+      "твоё приглашение",
+      "сенин чакырууң",
+      "دعوتك",
+      "ton invitation"
+    ],
+    "giderim": [
+      "I go; I would go",
+      "я хожу; я пойду",
+      "мен барам",
+      "أذهب",
+      "je vais ; j'irais"
+    ],
+    "var": [
+      "there is; have",
+      "есть; имеется",
+      "бар",
+      "يوجد؛ لديّ",
+      "il y a"
+    ],
+    "hazırlık": [
+      "preparation",
+      "подготовка",
+      "даярдык",
+      "تحضير",
+      "préparation"
+    ],
+    "aklında": [
+      "in your mind",
+      "в твоей голове; в памяти",
+      "эсиңде; оюңда",
+      "في ذهنك",
+      "dans ton esprit"
+    ],
+    "olsun": [
+      "let it be; may it be",
+      "пусть будет",
+      "болсун",
+      "ليكن",
+      "que ce soit"
+    ],
+    "her": [
+      "every; each",
+      "каждый",
+      "ар бир",
+      "كلّ",
+      "chaque"
+    ],
+    "ülkede": [
+      "in the country",
+      "в стране",
+      "өлкөдө",
+      "في البلد",
+      "dans le pays"
+    ],
+    "aynı": [
+      "same",
+      "тот же; одинаковый",
+      "бирдей; ошол эле",
+      "نفس؛ متشابه",
+      "même; identique"
+    ],
+    "günler": [
+      "days",
+      "дни",
+      "күндөр",
+      "أيام",
+      "jours"
+    ],
+    "kapaktaki": [
+      "on the cover",
+      "на обложке",
+      "мукабадагы",
+      "الموجود على الغلاف",
+      "sur la couverture"
+    ],
+    "görselde": [
+      "in the picture",
+      "на изображении",
+      "сүрөттө",
+      "في الصورة",
+      "sur l'image"
+    ],
+    "neler": [
+      "what things",
+      "что именно; какие вещи",
+      "эмнелер",
+      "ما الأشياء",
+      "quelles choses"
+    ],
+    "görüyorsunuz": [
+      "you see (plural/polite)",
+      "вы видите",
+      "сиз көрүп жатасыз",
+      "ترون",
+      "vous voyez"
+    ],
+    "değildir": [
+      "is not",
+      "не является",
+      "эмес",
+      "ليس",
+      "n'est pas"
+    ],
+    "türkiye’de": [
+      "in Türkiye",
+      "в Турции",
+      "Түркияда",
+      "في تركيا",
+      "en Turquie"
+    ],
+    "cumartesi": [
+      "Saturday",
+      "суббота",
+      "ишемби",
+      "السبت",
+      "samedi"
+    ],
+    "sonları": [
+      "their ends; ends of",
+      "концы; окончания",
+      "аяктары",
+      "نهاياتها",
+      "leurs fins"
+    ],
+    "yaparsınız": [
+      "you do (plural/polite)",
+      "вы делаете",
+      "сиз жасайсыз",
+      "تفعلون",
+      "vous faites"
+    ],
+    "tesi": [
+      "fragment of 'cumartesi'",
+      "часть слова «cumartesi»",
+      "«cumartesi» сөзүнүн бөлүгү",
+      "جزء من كلمة «cumartesi»",
+      "fragment du mot «cumartesi»"
+    ],
+    "ve": [
+      "and",
+      "и",
+      "жана",
+      "و",
+      "et"
+    ],
+    "pazar": [
+      "Sunday; market",
+      "воскресенье; рынок",
+      "жекшемби; базар",
+      "الأحد؛ سوق",
+      "dimanche ; marché"
+    ],
+    "günüdür": [
+      "is the day",
+      "это день",
+      "күнү болуп саналат",
+      "هو يوم",
+      "est le jour"
+    ],
+    "bazı": [
+      "some",
+      "некоторые",
+      "кээ бир",
+      "بعض",
+      "certains; certaines"
+    ],
+    "ülkelerde": [
+      "in countries",
+      "в странах",
+      "өлкөлөрдө",
+      "في بلدان",
+      "dans certains pays"
+    ],
+    "perşembe": [
+      "Thursday",
+      "четверг",
+      "бейшемби",
+      "الخميس",
+      "jeudi"
+    ],
+    "cuma": [
+      "Friday",
+      "пятница",
+      "жума күнү",
+      "الجمعة",
+      "vendredi"
+    ],
+    "sizce": [
+      "in your opinion",
+      "по-вашему",
+      "сиздин оюңузча",
+      "برأيكم",
+      "à votre avis"
+    ],
+    "bu": [
+      "this",
+      "этот; эта; это",
+      "бул",
+      "هذا؛ هذه",
+      "ce; cette"
+    ],
+    "ünitede": [
+      "in the unit",
+      "в разделе",
+      "бөлүмдө",
+      "في الوحدة",
+      "dans l'unité"
+    ],
+    "öğreneceksiniz": [
+      "you will learn",
+      "вы узнаете; вы выучите",
+      "сиз үйрөнөсүз",
+      "سوف تتعلمون",
+      "vous apprendrez"
+    ],
+    "cumar-": [
+      "Saturday",
+      "суббота",
+      "ишемби",
+      "السبت",
+      "samedi"
+    ],
+    "a": [
+      "A",
+      "A",
+      "A",
+      "A",
+      "A"
+    ],
+    "b": [
+      "B",
+      "B",
+      "B",
+      "B",
+      "B"
+    ],
+    "c": [
+      "C",
+      "C",
+      "C",
+      "C",
+      "C"
+    ]
+  },
+  "phrases": {
+    "hafta sonu": {
+      "translations": [
+        "weekend",
+        "выходные",
+        "дем алыш күндөрү",
+        "عطلة نهاية الأسبوع",
+        "week-end"
+      ],
+      "exampleTr": "Hafta sonu ailemle pikniğe gideceğiz.",
+      "examples": [
+        "We will have a picnic with my family this weekend.",
+        "На выходных мы пойдём на пикник всей семьёй.",
+        "Дем алыш күндөрү үй-бүлөм менен пикникке барабыз.",
+        "سنذهب في نزهة مع عائلتي في عطلة نهاية الأسبوع.",
+        "Ce week-end, nous irons pique-niquer en famille."
+      ]
+    },
+    "aklında olsun": {
+      "translations": [
+        "keep in mind",
+        "имей в виду",
+        "эсиңде болсун",
+        "ضع في اعتبارك",
+        "garde à l'esprit"
+      ],
+      "exampleTr": "Yarın erken çıkacağız, aklında olsun.",
+      "examples": [
+        "We are leaving early tomorrow; keep that in mind.",
+        "Завтра мы выходим рано, имей это в виду.",
+        "Эртең эрте чыгабыз, эсиңде болсун.",
+        "سنغادر مبكرًا غدًا، ضع ذلك في اعتبارك.",
+        "Nous partirons tôt demain, garde-le à l'esprit."
+      ]
+    }
+  },
+  "examples": {
+    "ünite": {
+      "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
+      "values": [
+        "In this unit, we learn about weekend plans.",
+        "В этом разделе мы изучаем планы на выходные.",
+        "Бул бөлүмдө дем алыш күндөрүнүн пландарын үйрөнөбүз.",
+        "في هذه الوحدة نتعلم خطط عطلة نهاية الأسبوع.",
+        "Dans cette unité, nous apprenons à parler des projets du week-end."
+      ]
+    },
+    "hafta": {
+      "tr": "Bu hafta çok dersim var.",
+      "values": [
+        "I have many classes this week.",
+        "На этой неделе у меня много уроков.",
+        "Бул жумада сабактарым көп.",
+        "لدي دروس كثيرة هذا الأسبوع.",
+        "J'ai beaucoup de cours cette semaine."
+      ]
+    },
+    "sonu": {
+      "tr": "Yolun sonu burada.",
+      "values": [
+        "The road ends here.",
+        "Дорога заканчивается здесь.",
+        "Жолдун аягы ушул жерде.",
+        "نهاية الطريق هنا.",
+        "La route se termine ici."
+      ]
+    },
+    "planın": {
+      "tr": "Yarın için planın var mı?",
+      "values": [
+        "Do you have a plan for tomorrow?",
+        "У тебя есть планы на завтра?",
+        "Эртеңки күнгө планың барбы?",
+        "هل لديك خطة للغد؟",
+        "Tu as quelque chose de prévu pour demain ?"
+      ]
+    },
+    "ne": {
+      "tr": "Bu kutuda ne var?",
+      "values": [
+        "What is in this box?",
+        "Что в этой коробке?",
+        "Бул кутуда эмне бар?",
+        "ماذا يوجد في هذا الصندوق؟",
+        "Qu'y a-t-il dans cette boîte ?"
+      ]
+    },
+    "etnospor": {
+      "tr": "Etnospor festivalinde geleneksel oyunlar var.",
+      "values": [
+        "There are traditional games at the ethnosport festival.",
+        "На фестивале этноспорта есть традиционные игры.",
+        "Этноспорт фестивалында салттуу оюндар бар.",
+        "توجد ألعاب تقليدية في مهرجان الرياضات التراثية.",
+        "Il y a des jeux traditionnels au festival d'ethnosport."
+      ]
+    },
+    "nasıl": {
+      "tr": "Okula nasıl gidiyorsun?",
+      "values": [
+        "How do you get to school?",
+        "Как ты добираешься до школы?",
+        "Мектепке кантип барасың?",
+        "كيف تذهب إلى المدرسة؟",
+        "Comment vas-tu à l'école ?"
+      ]
+    },
+    "festivali": {
+      "tr": "Bu yıl film festivalini ziyaret edeceğiz.",
+      "values": [
+        "We will visit the film festival this year.",
+        "В этом году мы посетим кинофестиваль.",
+        "Быйыл кинофестивалга барабыз.",
+        "سنزور مهرجان الأفلام هذا العام.",
+        "Cette année, nous irons au festival de cinéma."
+      ]
+    },
+    "bir": {
+      "tr": "Bir arkadaşım beni aradı.",
+      "values": [
+        "A friend called me.",
+        "Мне позвонил друг.",
+        "Мага бир досум чалды.",
+        "اتصل بي أحد أصدقائي.",
+        "Un ami m'a appelé."
+      ]
+    },
+    "davetin": {
+      "tr": "Davetin için teşekkür ederim.",
+      "values": [
+        "Thank you for your invitation.",
+        "Спасибо за приглашение.",
+        "Чакырууң үчүн рахмат.",
+        "شكرًا على دعوتك.",
+        "Merci pour ton invitation."
+      ]
+    },
+    "giderim": {
+      "tr": "Okula her gün yürüyerek giderim.",
+      "values": [
+        "I walk to school every day.",
+        "Я каждый день хожу в школу пешком.",
+        "Мен мектепке күн сайын жөө барам.",
+        "أذهب إلى المدرسة مشيًا كل يوم.",
+        "Je vais à l'école à pied tous les jours."
+      ]
+    },
+    "var": {
+      "tr": "Bugün boş vaktim var.",
+      "values": [
+        "I have free time today.",
+        "Сегодня у меня есть свободное время.",
+        "Бүгүн бош убактым бар.",
+        "لدي وقت فراغ اليوم.",
+        "J'ai du temps libre aujourd'hui."
+      ]
+    },
+    "hazırlık": {
+      "tr": "Sınav için hazırlık yapıyorum.",
+      "values": [
+        "I am preparing for the exam.",
+        "Я готовлюсь к экзамену.",
+        "Мен сынакка даярданып жатам.",
+        "أستعد للامتحان.",
+        "Je me prépare à l'examen."
+      ]
+    },
+    "aklında": {
+      "tr": "Bu adres aklında kalsın.",
+      "values": [
+        "Remember this address.",
+        "Запомни этот адрес.",
+        "Бул дарек эсиңде калсын.",
+        "تذكّر هذا العنوان.",
+        "Garde cette adresse en tête."
+      ]
+    },
+    "olsun": {
+      "tr": "Her şey güzel olsun.",
+      "values": [
+        "May everything go well.",
+        "Пусть всё будет хорошо.",
+        "Баары жакшы болсун.",
+        "ليكن كل شيء على ما يرام.",
+        "Que tout se passe bien."
+      ]
+    },
+    "her": {
+      "tr": "Her sabah erken kalkarım.",
+      "values": [
+        "I get up early every morning.",
+        "Каждое утро я встаю рано.",
+        "Мен ар күнү эртең менен эрте турам.",
+        "أستيقظ مبكرًا كل صباح.",
+        "Je me lève tôt chaque matin."
+      ]
+    },
+    "ülkede": {
+      "tr": "Bu ülkede birçok dil konuşuluyor.",
+      "values": [
+        "Many languages are spoken in this country.",
+        "В этой стране говорят на многих языках.",
+        "Бул өлкөдө көп тилде сүйлөшөт.",
+        "تُتحدث لغات كثيرة في هذا البلد.",
+        "On parle de nombreuses langues dans ce pays."
+      ]
+    },
+    "aynı": {
+      "tr": "Biz aynı okulda okuyoruz.",
+      "values": [
+        "We study at the same school.",
+        "Мы учимся в одной школе.",
+        "Биз бир мектепте окуйбуз.",
+        "نحن ندرس في المدرسة نفسها.",
+        "Nous étudions dans la même école."
+      ]
+    },
+    "günler": {
+      "tr": "Güzel günler bizi bekliyor.",
+      "values": [
+        "Good days are ahead of us.",
+        "Нас ждут хорошие дни.",
+        "Бизди жакшы күндөр күтүп турат.",
+        "تنتظرنا أيام جميلة.",
+        "De beaux jours nous attendent."
+      ]
+    },
+    "kapaktaki": {
+      "tr": "Kapaktaki resmi beğendim.",
+      "values": [
+        "I liked the picture on the cover.",
+        "Мне понравилась картинка на обложке.",
+        "Мага мукабадагы сүрөт жакты.",
+        "أعجبتني الصورة الموجودة على الغلاف.",
+        "J'ai aimé l'image sur la couverture."
+      ]
+    },
+    "görselde": {
+      "tr": "Görselde üç çocuk var.",
+      "values": [
+        "There are three children in the picture.",
+        "На картинке трое детей.",
+        "Сүрөттө үч бала бар.",
+        "يوجد ثلاثة أطفال في الصورة.",
+        "Il y a trois enfants sur l'image."
+      ]
+    },
+    "neler": {
+      "tr": "Çantanda neler var?",
+      "values": [
+        "What do you have in your bag?",
+        "Что у тебя в сумке?",
+        "Сумкаңда эмнелер бар?",
+        "ما الأشياء الموجودة في حقيبتك؟",
+        "Qu'est-ce qu'il y a dans ton sac ?"
+      ]
+    },
+    "görüyorsunuz": {
+      "tr": "Pencereden ne görüyorsunuz?",
+      "values": [
+        "What do you see through the window?",
+        "Что вы видите из окна?",
+        "Терезеден эмнени көрүп жатасыз?",
+        "ماذا ترون من النافذة؟",
+        "Que voyez-vous par la fenêtre ?"
+      ]
+    },
+    "değildir": {
+      "tr": "Bu cevap doğru değildir.",
+      "values": [
+        "This answer is not correct.",
+        "Этот ответ неверный.",
+        "Бул жооп туура эмес.",
+        "هذه الإجابة ليست صحيحة.",
+        "Cette réponse n'est pas correcte."
+      ]
+    },
+    "türkiye’de": {
+      "tr": "Türkiye’de birçok tarihî şehir var.",
+      "values": [
+        "There are many historic cities in Türkiye.",
+        "В Турции много исторических городов.",
+        "Түркияда көптөгөн тарыхый шаарлар бар.",
+        "توجد مدن تاريخية كثيرة في تركيا.",
+        "Il y a beaucoup de villes historiques en Turquie."
+      ]
+    },
+    "cumartesi": {
+      "tr": "Cumartesi günü parka gideceğiz.",
+      "values": [
+        "We will go to the park on Saturday.",
+        "В субботу мы пойдём в парк.",
+        "Ишемби күнү сейил бакка барабыз.",
+        "سنذهب إلى الحديقة يوم السبت.",
+        "Nous irons au parc samedi."
+      ]
+    },
+    "sonları": {
+      "tr": "Hafta sonları ailemle vakit geçiririm.",
+      "values": [
+        "I spend time with my family on weekends.",
+        "По выходным я провожу время с семьёй.",
+        "Дем алыш күндөрү үй-бүлөм менен убакыт өткөрөм.",
+        "أقضي وقتًا مع عائلتي في عطلات نهاية الأسبوع.",
+        "Je passe du temps avec ma famille le week-end."
+      ]
+    },
+    "yaparsınız": {
+      "tr": "Hafta sonu ne yaparsınız?",
+      "values": [
+        "What do you do on weekends?",
+        "Что вы делаете по выходным?",
+        "Дем алышта эмне кыласыз?",
+        "ماذا تفعلون في عطلة نهاية الأسبوع؟",
+        "Que faites-vous le week-end ?"
+      ]
+    },
+    "tesi": {
+      "tr": "Cumartesi günü görüşelim.",
+      "values": [
+        "Let's meet on Saturday.",
+        "Давай встретимся в субботу.",
+        "Ишемби күнү жолугалы.",
+        "لنلتقِ يوم السبت.",
+        "Retrouvons-nous samedi."
+      ]
+    },
+    "ve": {
+      "tr": "Annem ve babam evde.",
+      "values": [
+        "My mother and father are at home.",
+        "Мама и папа дома.",
+        "Апам менен атам үйдө.",
+        "أمي وأبي في المنزل.",
+        "Ma mère et mon père sont à la maison."
+      ]
+    },
+    "pazar": {
+      "tr": "Pazar günü evde dinleneceğim.",
+      "values": [
+        "I will rest at home on Sunday.",
+        "В воскресенье я отдохну дома.",
+        "Жекшемби күнү үйдө эс алам.",
+        "سأرتاح في المنزل يوم الأحد.",
+        "Je me reposerai à la maison dimanche."
+      ]
+    },
+    "günüdür": {
+      "tr": "Bugün benim doğum günümdür.",
+      "values": [
+        "Today is my birthday.",
+        "Сегодня мой день рождения.",
+        "Бүгүн менин туулган күнүм.",
+        "اليوم هو عيد ميلادي.",
+        "Aujourd'hui, c'est mon anniversaire."
+      ]
+    },
+    "bazı": {
+      "tr": "Bazı öğrenciler erken geldi.",
+      "values": [
+        "Some students arrived early.",
+        "Некоторые ученики пришли рано.",
+        "Кээ бир окуучулар эрте келишти.",
+        "وصل بعض الطلاب مبكرًا.",
+        "Certains élèves sont arrivés tôt."
+      ]
+    },
+    "ülkelerde": {
+      "tr": "Bazı ülkelerde hafta sonu farklıdır.",
+      "values": [
+        "The weekend is different in some countries.",
+        "В некоторых странах выходные дни другие.",
+        "Кээ бир өлкөлөрдө дем алыш күндөрү башкача.",
+        "تختلف عطلة نهاية الأسبوع في بعض البلدان.",
+        "Le week-end est différent dans certains pays."
+      ]
+    },
+    "perşembe": {
+      "tr": "Perşembe günü sınavımız var.",
+      "values": [
+        "We have an exam on Thursday.",
+        "В четверг у нас экзамен.",
+        "Бейшемби күнү сынагыбыз бар.",
+        "لدينا امتحان يوم الخميس.",
+        "Nous avons un examen jeudi."
+      ]
+    },
+    "cuma": {
+      "tr": "Cuma günü arkadaşımı göreceğim.",
+      "values": [
+        "I will see my friend on Friday.",
+        "В пятницу я увижусь с другом.",
+        "Жума күнү досум менен жолугам.",
+        "سأقابل صديقي يوم الجمعة.",
+        "Je verrai mon ami vendredi."
+      ]
+    },
+    "sizce": {
+      "tr": "Sizce bu film güzel mi?",
+      "values": [
+        "Do you think this film is good?",
+        "По-вашему, этот фильм хороший?",
+        "Сиздин оюңузча, бул тасма жакшыбы?",
+        "هل هذا الفيلم جيد برأيكم؟",
+        "À votre avis, ce film est-il bien ?"
+      ]
+    },
+    "bu": {
+      "tr": "Bu kitap çok güzel.",
+      "values": [
+        "This book is very good.",
+        "Эта книга очень хорошая.",
+        "Бул китеп абдан жакшы.",
+        "هذا الكتاب جميل جدًا.",
+        "Ce livre est très bien."
+      ]
+    },
+    "ünitede": {
+      "tr": "Bu ünitede yeni kelimeler öğreneceğiz.",
+      "values": [
+        "We will learn new words in this unit.",
+        "В этом разделе мы выучим новые слова.",
+        "Бул бөлүмдө жаңы сөздөрдү үйрөнөбүз.",
+        "سنتعلم كلمات جديدة في هذه الوحدة.",
+        "Nous apprendrons de nouveaux mots dans cette unité."
+      ]
+    },
+    "öğreneceksiniz": {
+      "tr": "Bugün yeni bir konu öğreneceksiniz.",
+      "values": [
+        "You will learn a new topic today.",
+        "Сегодня вы изучите новую тему.",
+        "Бүгүн жаңы тема үйрөнөсүз.",
+        "ستتعلمون موضوعًا جديدًا اليوم.",
+        "Vous apprendrez un nouveau sujet aujourd'hui."
+      ]
+    },
+    "cumar-": {
+      "tr": "Cumartesi günü parka gideceğiz.",
+      "values": [
+        "We will go to the park on Saturday.",
+        "В субботу мы пойдём в парк.",
+        "Ишемби күнү сейил бакка барабыз.",
+        "سنذهب إلى الحديقة يوم السبت.",
+        "Nous irons au parc samedi."
+      ]
+    }
+  },
   "forms": {},
   "quizVocabulary": []
 }
