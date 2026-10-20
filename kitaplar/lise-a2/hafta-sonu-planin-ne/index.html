@@ -226,7 +226,12 @@
           return {key:normalize(whole),indices:[li,ri],text:whole,single:true};
         }
       }
-      const token=w=>normalize(w.t).replace(/[’']/g,"'");
+      const token=w=>normalize(w.t).replace(/[’']/g,"'").replace(/^[^\\p{L}\\p{N}]+|[^\\p{L}\\p{N}]+$/gu,'');
+      // PDF extraction sometimes joins two independent expressions in one hotspot,
+      // e.g. "kocatsın./Allah" or "olsun./Allah". A phrase may occupy part of
+      // that hotspot; retain the whole clickable hotspot for the selection.
+      const phraseParts=w=>String(w.t).split(/(?<=[.!?])\\s*\\/(?=[\\p{L}])/u).map(token).filter(Boolean);
+      const phraseMatches=(w,part)=>phraseParts(w).includes(part)||token(w)===part;
       // Explicit phrase matching by neighboring PDF hotspots. This also works
       // when the source PDF extraction order differs from visual reading order.
       const ordered=words.map((w,i)=>({w,i})).sort((a,b)=>
@@ -239,7 +244,7 @@
           if(parts.length<2)continue;
           for(let start=Math.max(0,target-parts.length+1);start<=Math.min(target,ordered.length-parts.length);start++){
             const seq=ordered.slice(start,start+parts.length);
-            if(!seq.every((item,j)=>token(item.w)===parts[j]))continue;
+            if(!seq.every((item,j)=>phraseMatches(item.w,parts[j])))continue;
             if(!seq.slice(1).every((item,j)=>{
               const prev=seq[j].w,cur=item.w;
               const vertical=Math.abs((prev.y+prev.h/2)-(cur.y+cur.h/2));
@@ -265,7 +270,7 @@
         if(parts.length<2)continue;
         for(let start=Math.max(0,clickedPosition-parts.length+1);start<=Math.min(clickedPosition,candidates.length-parts.length);start++){
           const seq=candidates.slice(start,start+parts.length);
-          if(!seq.every((c,j)=>token(c.w)===parts[j]))continue;
+          if(!seq.every((c,j)=>phraseMatches(c.w,parts[j])))continue;
           if(!seq.slice(1).every((c,j)=>follows(seq[j].w,c.w)&&!punctuationBoundary(seq[j].w)))continue;
           return {key:phrase,indices:seq.map(c=>c.i),text:seq.map(c=>c.w.t).join(' ')};
         }
