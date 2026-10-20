@@ -26796,13 +26796,13 @@
         "غسل اليدين والوجه",
         "se laver les mains et le visage"
       ],
-      "exampleTr": "Ellerimi yıkamak için lavaboya gittim.",
+      "exampleTr": "Çocuk sabah elini yüzünü yıkadı.",
       "examples": [
-        "I went to the sink to wash my hands.",
-        "Я подошёл к раковине, чтобы вымыть руки.",
-        "Колумду жууш үчүн жуунгучка бардым.",
-        "ذهبت إلى المغسلة لغسل يديّ.",
-        "Je suis allé au lavabo pour me laver les mains."
+        "The child washed their hands and face in the morning.",
+        "Утром ребёнок вымыл руки и лицо.",
+        "Бала эртең менен колун-бетин жууду.",
+        "غسل الطفل يديه ووجهه صباحًا.",
+        "L’enfant s’est lavé les mains et le visage le matin."
       ]
     },
     "spor yapmak": {
@@ -26915,13 +26915,13 @@
         "مسح اليدين والوجه",
         "s’essuyer les mains et le visage"
       ],
-      "exampleTr": "Yemekten sonra masayı sileriz.",
+      "exampleTr": "Annesi çocuğun elini yüzünü temiz bir bezle sildi.",
       "examples": [
-        "We wipe the table after eating.",
-        "После еды мы вытираем стол.",
-        "Тамактангандан кийин үстөлдү аарчыйбыз.",
-        "نمسح الطاولة بعد الأكل.",
-        "Nous essuyons la table après le repas."
+        "His mother wiped the child’s hands and face with a clean cloth.",
+        "Мама вытерла ребёнку руки и лицо чистой салфеткой.",
+        "Апасы баланын колун-бетин таза чүпүрөк менен аарчыды.",
+        "مسحت الأم يدي الطفل ووجهه بقطعة قماش نظيفة.",
+        "Sa mère a essuyé les mains et le visage de l’enfant avec un chiffon propre."
       ]
     },
     "öğle yemeği yemek": {
@@ -26949,13 +26949,13 @@
         "تناول العشاء",
         "dîner"
       ],
-      "exampleTr": "Yemekten sonra babam kitap okur, biz müzik dinleriz.",
+      "exampleTr": "Akşam yemeğini ailemle birlikte yerim.",
       "examples": [
-        "After dinner, my father reads and we listen to music.",
-        "После ужина отец читает, а мы слушаем музыку.",
-        "Кечки тамактан кийин атам китеп окуйт, биз музыка угабыз.",
-        "بعد العشاء يقرأ أبي كتابًا ونستمع نحن إلى الموسيقى.",
-        "Après le dîner, mon père lit et nous écoutons de la musique."
+        "I have dinner with my family.",
+        "Я ужинаю вместе с семьёй.",
+        "Кечки тамакты үй-бүлөм менен чогуу ичем.",
+        "أتناول العشاء مع عائلتي.",
+        "Je dîne avec ma famille."
       ]
     },
     "bu yüzden": {
@@ -26983,13 +26983,13 @@
         "استراحة الغداء",
         "pause déjeuner"
       ],
-      "exampleTr": "Mola veriyoruz; ben de bu sırada çay içiyorum.",
+      "exampleTr": "Öğle arası arkadaşlarımla yürüyüş yapıyorum.",
       "examples": [
-        "We are taking a break, and I am drinking tea.",
-        "Мы делаем перерыв, а я пью чай.",
-        "Тыныгуу жасап жатабыз, мен чай ичип жатам.",
-        "نأخذ استراحة وأنا أشرب الشاي خلالها.",
-        "Nous faisons une pause et je bois du thé."
+        "I go for a walk with my friends during the lunch break.",
+        "В обеденный перерыв я гуляю с друзьями.",
+        "Түшкү тыныгууда досторум менен сейилдейм.",
+        "أتمشى مع أصدقائي في استراحة الغداء.",
+        "Je me promène avec mes amis pendant la pause déjeuner."
       ]
     },
     "gece yarısına kadar": {
@@ -27051,13 +27051,13 @@
         "ورقة نقدية",
         "billet de banque"
       ],
-      "exampleTr": "Eski paraları ayırdım ve albümlere yerleştirdim.",
+      "exampleTr": "Cüzdanımda iki kâğıt para var.",
       "examples": [
-        "I sorted the old coins and placed them in albums.",
-        "Я отобрал старые монеты и разместил их в альбомах.",
-        "Эски акчаларды бөлүп, альбомдорго жайгаштырдым.",
-        "فرزت النقود القديمة ووضعتها في الألبومات.",
-        "J’ai trié les anciennes pièces et les ai placées dans des albums."
+        "There are two banknotes in my wallet.",
+        "В моём кошельке две банкноты.",
+        "Капчыгымда эки кагаз акча бар.",
+        "في محفظتي ورقتان نقديتان.",
+        "Il y a deux billets dans mon portefeuille."
       ]
     },
     "çizgi roman": {
@@ -27170,13 +27170,13 @@
         "التقاط صورة",
         "prendre une photo"
       ],
-      "exampleTr": "Kendime bir fotoğrafçı dükkânı açmak istiyorum.",
+      "exampleTr": "Parkta güzel bir fotoğraf çektim.",
       "examples": [
-        "I want to open a photography shop of my own.",
-        "Я хочу открыть собственную фотомастерскую.",
-        "Өзүмө фотосүрөтчү дүкөнүн ачкым келет.",
-        "أريد فتح محل تصوير خاص بي.",
-        "Je veux ouvrir ma propre boutique de photographie."
+        "I took a beautiful photograph in the park.",
+        "Я сделал красивую фотографию в парке.",
+        "Паркта кооз сүрөт тарттым.",
+        "التقطت صورة جميلة في الحديقة.",
+        "J’ai pris une belle photo au parc."
       ]
     },
     "tenis oynamak": {
@@ -27187,13 +27187,13 @@
         "لعب التنس",
         "jouer au tennis"
       ],
-      "exampleTr": "Gitar bir müzik aleti, raket ise tenis için kullanılır.",
+      "exampleTr": "Pazar sabahı arkadaşımla tenis oynadım.",
       "examples": [
-        "A guitar is a musical instrument, while a racket is used for tennis.",
-        "Гитара — музыкальный инструмент, а ракетка используется для тенниса.",
-        "Гитара — музыкалык аспап, ал эми ракетка теннис үчүн колдонулат.",
-        "الغيتار آلة موسيقية أما المضرب فيستخدم للتنس.",
-        "La guitare est un instrument de musique et la raquette sert à jouer au tennis."
+        "I played tennis with my friend on Sunday morning.",
+        "В воскресенье утром я играл в теннис с другом.",
+        "Жекшемби күнү эртең менен досум менен теннис ойнодум.",
+        "لعبت التنس مع صديقي صباح الأحد.",
+        "J’ai joué au tennis avec mon ami dimanche matin."
       ]
     },
     "bisiklete binmek": {
@@ -27289,13 +27289,13 @@
         "تسلق الصخور",
         "escalade"
       ],
-      "exampleTr": "Üniversitede dağcılık kulübüne katıldım.",
+      "exampleTr": "Kaya tırmanışı için gerekli malzemeleri hazırladık.",
       "examples": [
-        "I joined the mountaineering club at university.",
-        "В университете я вступил в клуб альпинизма.",
-        "Университетте альпинизм клубуна кошулдум.",
-        "انضممت إلى نادي تسلق الجبال في الجامعة.",
-        "J’ai rejoint le club d’alpinisme à l’université."
+        "We prepared the equipment needed for rock climbing.",
+        "Мы подготовили снаряжение для скалолазания.",
+        "Аскага чыгуу үчүн керектүү шаймандарды даярдадык.",
+        "جهزنا المعدات اللازمة لتسلق الصخور.",
+        "Nous avons préparé le matériel nécessaire pour l’escalade."
       ]
     },
     "ölü deniz": {
@@ -27374,13 +27374,13 @@
         "الدراسة",
         "étudier"
       ],
-      "exampleTr": "Aşçı lokantada çalışıyor.",
+      "exampleTr": "Sınavdan önce kütüphanede ders çalıştım.",
       "examples": [
-        "The cook works at a restaurant.",
-        "Повар работает в ресторане.",
-        "Ашпозчу тамактануучу жайда иштейт.",
-        "الطباخ يعمل في مطعم.",
-        "Le cuisinier travaille dans un restaurant."
+        "I studied in the library before the exam.",
+        "Перед экзаменом я занимался в библиотеке.",
+        "Сынактан мурун китепканада сабак окудум.",
+        "درست في المكتبة قبل الامتحان.",
+        "J’ai étudié à la bibliothèque avant l’examen."
       ]
     },
     "uyku tulumlarını": {

@@ -179,6 +179,8 @@
         const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
         let meaning=translations?.[index];
         if(/^\d+$/.test(key)&&targetLang==='en')meaning=numberToEnglish(Number(key));
+        if(!meaning&&/^[\d\s:.,–—\-]+$/.test(word))meaning=word;
+        if(!meaning&&(/^[A-Za-zÇĞİÖŞÜçğıöşü]$/.test(word)||/^[SMV]\.\d{3}$/i.test(word)))meaning=word;
         rows.push([word,typeof meaning==='string'&&meaning.trim()?meaning:'— (çeviri kontrol edilecek)']);
         const phrase=phraseAt(i,page.words);
         if(phrase&&!phrase.single&&glossary.phrases?.[phrase.key]&&!seenPhrases.has(phrase.key))seenPhrases.add(phrase.key);
@@ -283,7 +285,7 @@
       const rootLabel=formEntry?.lemmaType==='verb'||/mak$|mek$/i.test(lemma||'')?'Mastar biçimi':'Kök biçimi';const translations=showBoth?card(`${rootLabel} · ${lemma}`,baseMeaning,'base')+card(`Metindeki biçimi · ${text}`,meaning,'form'):card(`${lang[1]} ${lang[2]}`,meaning,'meaning');
       const savedExample=glossary.examples[key];let ex=entry?{tr:entry.exampleTr,values:entry.examples}:formEntry?.exampleTr?{tr:formEntry.exampleTr,values:formEntry.examples}:Array.isArray(savedExample)?{tr:savedExample[0],values:savedExample[1]}:savedExample;
       // Never fabricate example sentences or present Turkish text as a foreign-language translation.
-      const verifiedMeaning=typeof meaning==='string'&&meaning.trim()&&!!(entry?.translations||formEntry?.formTranslations||glossary.words[key]||/^\d+$/.test(key));
+      const verifiedMeaning=typeof meaning==='string'&&meaning.trim()&&!!(entry?.translations||formEntry?.formTranslations||glossary.words[key]||/^[\d\s:.,–—\-]+$/.test(text));
       const verifiedExample=ex&&typeof ex.tr==='string'&&Array.isArray(ex.values)&&typeof ex.values[langIndex]==='string'&&ex.values[langIndex].trim();
       const exampleHtml=verifiedExample?`<div class="example"><div class="example-title">Örnek cümle</div><div class="example-line"><div class="example-tr" lang="tr">${escapeHtml(ex.tr)}</div><button class="line-speak" data-say="tr" aria-label="Türkçe örneği dinle">🔊</button></div><div class="example-line"><div class="example-target"${dir} lang="${lang[0]}">${escapeHtml(ex.values[langIndex])}</div><button class="line-speak" data-say="example" aria-label="Çeviriyi dinle">🔊</button></div></div>`:'<div class="example"><div class="example-title">Örnek cümle</div><p>Bu kelime için bağlama uygun örnek cümle henüz hazırlanmadı.</p></div>';
       const meaningHtml=verifiedMeaning?translations:'<div class="translation"><div class="langname">Çeviri kontrol ediliyor</div><div class="meaning">Bu kelimenin seçilen dilde doğrulanmış karşılığı henüz eklenmedi.</div></div>';
