@@ -42,6 +42,13 @@
       "ستة",
       "six"
     ],
+    "7": [
+      "seven",
+      "семь",
+      "жети",
+      "سبعة",
+      "sept"
+    ],
     "10": [
       "ten",
       "десять",
@@ -5361,6 +5368,342 @@
       "каалайбыз",
       "نريد",
       "nous voulons"
+    ],
+    "etkinliğe": [
+      "to an event",
+      "на мероприятие",
+      "иш-чарага",
+      "إلى فعالية",
+      "à un événement"
+    ],
+    "geleceğim": [
+      "I will come",
+      "я приду",
+      "келем",
+      "سآتي",
+      "je viendrai"
+    ],
+    "sizin": [
+      "your (polite/plural)",
+      "ваш",
+      "сиздин; силердин",
+      "لكم",
+      "votre"
+    ],
+    "ülkenizde": [
+      "in your country",
+      "в вашей стране",
+      "өлкөңүздө",
+      "في بلدكم",
+      "dans votre pays"
+    ],
+    "evlenen": [
+      "getting married; newly married",
+      "вступающие в брак",
+      "үйлөнгөн",
+      "المتزوجون حديثًا",
+      "qui se marient"
+    ],
+    "çiftlere": [
+      "to couples",
+      "парам",
+      "жубайларга",
+      "للأزواج",
+      "aux couples"
+    ],
+    "söylenir": [
+      "is said",
+      "говорят; произносится",
+      "айтылат",
+      "يُقال",
+      "se dit"
+    ],
+    "oldu": [
+      "happened; became",
+      "случилось; стало",
+      "болду",
+      "حدث؛ أصبح",
+      "s'est passé; est devenu"
+    ],
+    "söylersin": [
+      "you say",
+      "ты говоришь",
+      "айтасың",
+      "تقول",
+      "tu dis"
+    ],
+    "arkadaşının": [
+      "your friend's",
+      "твоего друга",
+      "досуңдун",
+      "لصديقك",
+      "de ton ami"
+    ],
+    "abisi": [
+      "his/her older brother",
+      "его/её старший брат",
+      "агасы",
+      "أخوه الأكبر",
+      "son grand frère"
+    ],
+    "ettiler": [
+      "they did",
+      "они сделали",
+      "кылышты",
+      "فعلوا",
+      "ils ont fait"
+    ],
+    "tebrikler": [
+      "congratulations",
+      "поздравляю",
+      "куттуктайм",
+      "تهانينا",
+      "félicitations"
+    ],
+    "başarılarının": [
+      "of your successes",
+      "твоих успехов",
+      "ийгиликтериңдин",
+      "لنجاحاتك",
+      "de tes réussites"
+    ],
+    "devamını": [
+      "continuation",
+      "продолжения",
+      "уланышын",
+      "استمرار",
+      "la continuation"
+    ],
+    "arkadaşın": [
+      "your friend",
+      "твой друг",
+      "досуң",
+      "صديقك",
+      "ton ami"
+    ],
+    "kaza": [
+      "accident",
+      "авария; несчастный случай",
+      "кырсык",
+      "حادث",
+      "accident"
+    ],
+    "yaptı": [
+      "did; made",
+      "сделал",
+      "кылды; жасады",
+      "فعل",
+      "a fait"
+    ],
+    "ayağı": [
+      "his/her foot; leg",
+      "его/её нога",
+      "буту",
+      "قدمه؛ ساقه",
+      "son pied; sa jambe"
+    ],
+    "kırıldı": [
+      "was broken",
+      "сломался; сломалась",
+      "сынды",
+      "انكسر",
+      "s'est cassé"
+    ],
+    "hastanede": [
+      "in hospital",
+      "в больнице",
+      "ооруканада",
+      "في المستشفى",
+      "à l'hôpital"
+    ],
+    "yatıyor": [
+      "is lying; staying in hospital",
+      "лежит",
+      "жатат",
+      "يرقد",
+      "est allongé; est hospitalisé"
+    ],
+    "bayramınız": [
+      "your holiday",
+      "ваш праздник",
+      "майрамыңыз",
+      "عيدكم",
+      "votre fête"
+    ],
+    "mübarek": [
+      "blessed",
+      "благословенный",
+      "куттуу",
+      "مبارك",
+      "béni"
+    ],
+    "arkadaşınız": [
+      "your friend (polite/plural)",
+      "ваш друг",
+      "досуңуз",
+      "صديقكم",
+      "votre ami"
+    ],
+    "akrabanız": [
+      "your relative",
+      "ваш родственник",
+      "тууганыңыз",
+      "قريبكم",
+      "votre proche"
+    ],
+    "okuldan": [
+      "from school",
+      "из школы",
+      "мектептен",
+      "من المدرسة",
+      "de l'école"
+    ],
+    "mezun": [
+      "graduate",
+      "выпускник",
+      "бүтүрүүчү",
+      "متخرج",
+      "diplômé"
+    ],
+    "kocatsın./allah": [
+      "may God let them grow old together / God",
+      "пусть Бог даст им состариться вместе",
+      "Алла экөөнү бир жаздыкта карытсын",
+      "أسأل الله أن يجعلهما يشيخان معًا",
+      "que Dieu leur permette de vieillir ensemble"
+    ],
+    "mesut": [
+      "happy; content",
+      "счастливый",
+      "бактылуу",
+      "سعيد",
+      "heureux"
+    ],
+    "arkadaşınızın": [
+      "your friend's",
+      "вашего друга",
+      "досуңуздун",
+      "لصديقكم",
+      "de votre ami"
+    ],
+    "günün": [
+      "your day; of the day",
+      "твой день; дня",
+      "күнүң; күндүн",
+      "يومك",
+      "ton jour; du jour"
+    ],
+    "kutlu": [
+      "blessed; happy (in wishes)",
+      "счастливый; благословенный",
+      "куттуу",
+      "مبارك؛ سعيد",
+      "heureux; béni"
+    ],
+    "ailenle": [
+      "with your family",
+      "с твоей семьёй",
+      "үй-бүлөң менен",
+      "مع عائلتك",
+      "avec ta famille"
+    ],
+    "akrabalarınıza": [
+      "to your relatives",
+      "к вашим родственникам",
+      "тууганыңыздарга",
+      "إلى أقاربكم",
+      "à vos proches"
+    ],
+    "bayram": [
+      "holiday; festival",
+      "праздник",
+      "майрам",
+      "عيد",
+      "fête"
+    ],
+    "ziyaretine": [
+      "for a visit",
+      "с визитом",
+      "зыяратка; конокко",
+      "للزيارة",
+      "pour rendre visite"
+    ],
+    "analı": [
+      "with a mother",
+      "с матерью",
+      "энелүү",
+      "مع أمه",
+      "avec sa mère"
+    ],
+    "babalı": [
+      "with a father",
+      "с отцом",
+      "аталуу",
+      "مع أبيه",
+      "avec son père"
+    ],
+    "büyütsün": [
+      "may (God) raise",
+      "пусть вырастит",
+      "чоңойтсун",
+      "ليربِّ؛ لينشّئ",
+      "qu'il fasse grandir"
+    ],
+    "gideceksin": [
+      "you will go",
+      "ты пойдёшь",
+      "барасың",
+      "ستذهب",
+      "tu iras"
+    ],
+    "komşunuzun": [
+      "your neighbor's",
+      "вашего соседа",
+      "кошунаңыздын",
+      "لجاركم",
+      "de votre voisin"
+    ],
+    "yeni": [
+      "new",
+      "новый",
+      "жаңы",
+      "جديد",
+      "nouveau"
+    ],
+    "bebeği": [
+      "his/her baby",
+      "его/её малыш",
+      "наристеси",
+      "طفله الرضيع",
+      "son bébé"
+    ],
+    "geçmiş": [
+      "past; gone by",
+      "прошедший",
+      "өткөн",
+      "ماضٍ",
+      "passé"
+    ],
+    "olsun./allah": [
+      "may it be / God (PDF combined token)",
+      "пусть будет / Бог",
+      "болсун / Алла",
+      "ليكن / الله",
+      "que ce soit / Dieu"
+    ],
+    "şifa": [
+      "healing; recovery",
+      "исцеление",
+      "шыпаа",
+      "شفاء",
+      "guérison"
+    ],
+    "versin": [
+      "may he/she give",
+      "пусть даст",
+      "берсин",
+      "ليُعطِ",
+      "qu'il donne"
     ]
   },
   "phrases": {
@@ -7447,6 +7790,16 @@
         "Алты билет сатып алдык.",
         "اشترينا ست تذاكر.",
         "Nous avons acheté six billets."
+      ]
+    },
+    "7": {
+      "tr": "Saat yedide buluşalım.",
+      "values": [
+        "Let's meet at seven.",
+        "Давай встретимся в семь.",
+        "Саат жетиде жолугалы.",
+        "لنلتقِ الساعة السابعة.",
+        "Retrouvons-nous à sept heures."
       ]
     },
     "10": {
@@ -14727,6 +15080,486 @@
         "Сизди тойго чакыргыбыз келет.",
         "نريد دعوتكم إلى الزفاف.",
         "Nous voulons vous inviter au mariage."
+      ]
+    },
+    "etkinliğe": {
+      "tr": "Seni etkinliğe davet ediyorum.",
+      "values": [
+        "I'm inviting you to the event.",
+        "Я приглашаю тебя на мероприятие.",
+        "Сени иш-чарага чакырам.",
+        "أدعوك إلى الفعالية.",
+        "Je t'invite à l'événement."
+      ]
+    },
+    "geleceğim": {
+      "tr": "Düğüne mutlaka geleceğim.",
+      "values": [
+        "I'll definitely come to the wedding.",
+        "Я обязательно приду на свадьбу.",
+        "Тойго сөзсүз келем.",
+        "سآتي إلى الزفاف بالتأكيد.",
+        "Je viendrai au mariage, c'est sûr."
+      ]
+    },
+    "sizin": {
+      "tr": "Sizin ülkenizde düğünler nasıl?",
+      "values": [
+        "What are weddings like in your country?",
+        "Какие свадьбы в вашей стране?",
+        "Сиздин өлкөдө тойлор кандай өтөт?",
+        "كيف تكون حفلات الزفاف في بلدكم؟",
+        "Comment se passent les mariages dans votre pays ?"
+      ]
+    },
+    "ülkenizde": {
+      "tr": "Ülkenizde bayram nasıl kutlanır?",
+      "values": [
+        "How is the holiday celebrated in your country?",
+        "Как отмечают праздник в вашей стране?",
+        "Өлкөңүздө майрам кандай белгиленет?",
+        "كيف يُحتفل بالعيد في بلدكم؟",
+        "Comment fête-t-on cette fête dans votre pays ?"
+      ]
+    },
+    "evlenen": {
+      "tr": "Evlenen çifte mutluluk diledik.",
+      "values": [
+        "We wished the newlyweds happiness.",
+        "Мы пожелали счастья молодожёнам.",
+        "Үйлөнгөн жубайларга бакыт кааладык.",
+        "تمنينا السعادة للعروسين.",
+        "Nous avons souhaité du bonheur aux mariés."
+      ]
+    },
+    "çiftlere": {
+      "tr": "Yeni evlenen çiftlere hediye verdik.",
+      "values": [
+        "We gave gifts to newlyweds.",
+        "Мы подарили подарки молодожёнам.",
+        "Жаңы үйлөнгөн жубайларга белек бердик.",
+        "قدمنا هدايا للأزواج الجدد.",
+        "Nous avons offert des cadeaux aux jeunes mariés."
+      ]
+    },
+    "söylenir": {
+      "tr": "Düğünde güzel dilekler söylenir.",
+      "values": [
+        "Good wishes are said at weddings.",
+        "На свадьбах говорят добрые пожелания.",
+        "Тойдо жакшы каалоолор айтылат.",
+        "تُقال التمنيات الطيبة في الأعراس.",
+        "On exprime de bons vœux aux mariages."
+      ]
+    },
+    "oldu": {
+      "tr": "Ne oldu, iyi misin?",
+      "values": [
+        "What happened? Are you okay?",
+        "Что случилось, ты в порядке?",
+        "Эмне болду, жакшысыңбы?",
+        "ماذا حدث؟ هل أنت بخير؟",
+        "Que s'est-il passé ? Tu vas bien ?"
+      ]
+    },
+    "söylersin": {
+      "tr": "Böyle bir durumda ne söylersin?",
+      "values": [
+        "What do you say in this situation?",
+        "Что ты скажешь в такой ситуации?",
+        "Мындай учурда эмне дейсиң?",
+        "ماذا تقول في مثل هذا الموقف؟",
+        "Que dis-tu dans cette situation ?"
+      ]
+    },
+    "arkadaşının": {
+      "tr": "Arkadaşının abisi evleniyor.",
+      "values": [
+        "Your friend's older brother is getting married.",
+        "Старший брат твоего друга женится.",
+        "Досуңдун агасы үйлөнүп жатат.",
+        "سيتزوج الأخ الأكبر لصديقك.",
+        "Le grand frère de ton ami se marie."
+      ]
+    },
+    "abisi": {
+      "tr": "Ayşe'nin abisi yarın geliyor.",
+      "values": [
+        "Ayşe's older brother is coming tomorrow.",
+        "Старший брат Айше приедет завтра.",
+        "Айшенин агасы эртең келет.",
+        "سيأتي أخو عائشة الأكبر غدًا.",
+        "Le grand frère d'Ayşe vient demain."
+      ]
+    },
+    "ettiler": {
+      "tr": "Bizi düğüne davet ettiler.",
+      "values": [
+        "They invited us to the wedding.",
+        "Они пригласили нас на свадьбу.",
+        "Бизди тойго чакырышты.",
+        "دعونا إلى الزفاف.",
+        "Ils nous ont invités au mariage."
+      ]
+    },
+    "tebrikler": {
+      "tr": "Tebrikler, sınavı kazandın!",
+      "values": [
+        "Congratulations, you passed the exam!",
+        "Поздравляю, ты сдал экзамен!",
+        "Куттуктайм, экзаменден өттүң!",
+        "تهانينا، نجحت في الامتحان!",
+        "Félicitations, tu as réussi l'examen !"
+      ]
+    },
+    "başarılarının": {
+      "tr": "Başarılarının devamını dilerim.",
+      "values": [
+        "I wish you continued success.",
+        "Желаю тебе дальнейших успехов.",
+        "Ийгиликтериңдин уланышын каалайм.",
+        "أتمنى لك دوام النجاح.",
+        "Je te souhaite de continuer à réussir."
+      ]
+    },
+    "devamını": {
+      "tr": "Başarılarının devamını dilerim.",
+      "values": [
+        "I wish you continued success.",
+        "Желаю тебе дальнейших успехов.",
+        "Ийгиликтериңдин уланышын каалайм.",
+        "أتمنى لك دوام النجاح.",
+        "Je te souhaite de continuer à réussir."
+      ]
+    },
+    "arkadaşın": {
+      "tr": "Arkadaşın bugün nerede?",
+      "values": [
+        "Where is your friend today?",
+        "Где сегодня твой друг?",
+        "Досуң бүгүн кайда?",
+        "أين صديقك اليوم؟",
+        "Où est ton ami aujourd'hui ?"
+      ]
+    },
+    "kaza": {
+      "tr": "Yolda küçük bir kaza oldu.",
+      "values": [
+        "There was a minor accident on the road.",
+        "На дороге произошла небольшая авария.",
+        "Жолдо кичине кырсык болду.",
+        "وقع حادث بسيط على الطريق.",
+        "Il y a eu un petit accident sur la route."
+      ]
+    },
+    "yaptı": {
+      "tr": "Arkadaşım bugün ödevini yaptı.",
+      "values": [
+        "My friend did their homework today.",
+        "Мой друг сегодня сделал домашнее задание.",
+        "Досум бүгүн үй тапшырмасын аткарды.",
+        "أنجز صديقي واجبه اليوم.",
+        "Mon ami a fait ses devoirs aujourd'hui."
+      ]
+    },
+    "ayağı": {
+      "tr": "Düşünce ayağı incindi.",
+      "values": [
+        "His foot was hurt when he fell.",
+        "Он повредил ногу при падении.",
+        "Жыгылганда буту ооруп калды.",
+        "أصيب قدمه عندما سقط.",
+        "Il s'est blessé au pied en tombant."
+      ]
+    },
+    "kırıldı": {
+      "tr": "Kazada ayağı kırıldı.",
+      "values": [
+        "His leg was broken in the accident.",
+        "В аварии он сломал ногу.",
+        "Кырсыкта буту сынды.",
+        "انكسرت ساقه في الحادث.",
+        "Il s'est cassé la jambe dans l'accident."
+      ]
+    },
+    "hastanede": {
+      "tr": "Dedem hastanede yatıyor.",
+      "values": [
+        "My grandfather is in hospital.",
+        "Мой дедушка лежит в больнице.",
+        "Чоң атам ооруканада жатат.",
+        "جدي في المستشفى.",
+        "Mon grand-père est à l'hôpital."
+      ]
+    },
+    "yatıyor": {
+      "tr": "Hasta çocuk hastanede yatıyor.",
+      "values": [
+        "The sick child is in hospital.",
+        "Больной ребёнок лежит в больнице.",
+        "Ооруган бала ооруканада жатат.",
+        "الطفل المريض يرقد في المستشفى.",
+        "L'enfant malade est hospitalisé."
+      ]
+    },
+    "bayramınız": {
+      "tr": "Bayramınız mübarek olsun!",
+      "values": [
+        "Happy holiday!",
+        "С праздником вас!",
+        "Майрамыңыз кут болсун!",
+        "عيدكم مبارك!",
+        "Bonne fête à vous !"
+      ]
+    },
+    "mübarek": {
+      "tr": "Bayramınız mübarek olsun.",
+      "values": [
+        "May your holiday be blessed.",
+        "Пусть ваш праздник будет благословенным.",
+        "Майрамыңыз кут болсун.",
+        "عيدكم مبارك.",
+        "Que votre fête soit bénie."
+      ]
+    },
+    "arkadaşınız": {
+      "tr": "Arkadaşınız bugün gelecek mi?",
+      "values": [
+        "Is your friend coming today?",
+        "Ваш друг сегодня придёт?",
+        "Досуңуз бүгүн келеби?",
+        "هل سيأتي صديقكم اليوم؟",
+        "Votre ami vient-il aujourd'hui ?"
+      ]
+    },
+    "akrabanız": {
+      "tr": "Akrabanız düğüne geliyor mu?",
+      "values": [
+        "Is your relative coming to the wedding?",
+        "Ваш родственник придёт на свадьбу?",
+        "Тууганыңыз тойго келеби?",
+        "هل سيأتي قريبكم إلى الزفاف؟",
+        "Votre proche vient-il au mariage ?"
+      ]
+    },
+    "okuldan": {
+      "tr": "Kardeşim okuldan erken geldi.",
+      "values": [
+        "My sibling came home early from school.",
+        "Мой брат рано вернулся из школы.",
+        "Бир тууганым мектептен эрте келди.",
+        "عاد أخي مبكرًا من المدرسة.",
+        "Mon frère est rentré tôt de l'école."
+      ]
+    },
+    "mezun": {
+      "tr": "Ablam üniversiteden mezun oldu.",
+      "values": [
+        "My sister graduated from university.",
+        "Моя сестра окончила университет.",
+        "Эжем университетти бүтүрдү.",
+        "تخرجت أختي من الجامعة.",
+        "Ma sœur a obtenu son diplôme universitaire."
+      ]
+    },
+    "kocatsın./allah": {
+      "tr": "Allah onları bir yastıkta kocatsın.",
+      "values": [
+        "May God let them grow old together.",
+        "Пусть Бог даст им состариться вместе.",
+        "Алла экөөнү бир жаздыкта карытсын.",
+        "أسأل الله أن يجعلهما يشيخان معًا.",
+        "Que Dieu leur permette de vieillir ensemble."
+      ]
+    },
+    "mesut": {
+      "tr": "Yeni evliler mutlu mesut yaşasın.",
+      "values": [
+        "May the newlyweds live happily.",
+        "Пусть молодожёны живут счастливо.",
+        "Жаңы үйлөнгөндөр бактылуу жашасын.",
+        "ليعش العروسان في سعادة.",
+        "Que les mariés vivent heureux."
+      ]
+    },
+    "arkadaşınızın": {
+      "tr": "Arkadaşınızın doğum günü ne zaman?",
+      "values": [
+        "When is your friend's birthday?",
+        "Когда день рождения вашего друга?",
+        "Досуңуздун туулган күнү качан?",
+        "متى عيد ميلاد صديقكم؟",
+        "Quand est l'anniversaire de votre ami ?"
+      ]
+    },
+    "günün": {
+      "tr": "Doğum günün kutlu olsun.",
+      "values": [
+        "Happy birthday!",
+        "С днём рождения!",
+        "Туулган күнүң кут болсун.",
+        "عيد ميلاد سعيد.",
+        "Joyeux anniversaire !"
+      ]
+    },
+    "kutlu": {
+      "tr": "Doğum günün kutlu olsun.",
+      "values": [
+        "Happy birthday!",
+        "С днём рождения!",
+        "Туулган күнүң кут болсун.",
+        "عيد ميلاد سعيد.",
+        "Joyeux anniversaire !"
+      ]
+    },
+    "ailenle": {
+      "tr": "Bayramda ailenle görüşecek misin?",
+      "values": [
+        "Will you see your family during the holiday?",
+        "Ты увидишься с семьёй на празднике?",
+        "Майрамда үй-бүлөң менен жолугасыңбы?",
+        "هل ستلتقي بعائلتك في العيد؟",
+        "Verras-tu ta famille pendant la fête ?"
+      ]
+    },
+    "akrabalarınıza": {
+      "tr": "Bayramda akrabalarınıza gidin.",
+      "values": [
+        "Visit your relatives during the holiday.",
+        "Навестите родственников на празднике.",
+        "Майрамда туугандарыңыздарга барыңыздар.",
+        "زوروا أقاربكم في العيد.",
+        "Rendez visite à vos proches pendant la fête."
+      ]
+    },
+    "bayram": {
+      "tr": "Bayramda büyüklerimizi ziyaret ederiz.",
+      "values": [
+        "We visit our elders during the holiday.",
+        "В праздник мы навещаем старших.",
+        "Майрамда улууларыбызга барабыз.",
+        "نزور كبار السن في العيد.",
+        "Pendant la fête, nous rendons visite à nos aînés."
+      ]
+    },
+    "ziyaretine": {
+      "tr": "Bayram ziyaretine gideceğiz.",
+      "values": [
+        "We'll go on a holiday visit.",
+        "Мы пойдём в гости на праздник.",
+        "Майрамдык конокко барабыз.",
+        "سنذهب للزيارة في العيد.",
+        "Nous irons rendre visite à nos proches pendant la fête."
+      ]
+    },
+    "analı": {
+      "tr": "Allah analı babalı büyütsün.",
+      "values": [
+        "May the child grow up with both parents.",
+        "Пусть ребёнок растёт с обоими родителями.",
+        "Алла баланы ата-энеси менен чоңойтсун.",
+        "أسأل الله أن ينشأ الطفل في كنف والديه.",
+        "Que l'enfant grandisse auprès de ses deux parents."
+      ]
+    },
+    "babalı": {
+      "tr": "Allah analı babalı büyütsün.",
+      "values": [
+        "May the child grow up with both parents.",
+        "Пусть ребёнок растёт с обоими родителями.",
+        "Алла баланы ата-энеси менен чоңойтсун.",
+        "أسأل الله أن ينشأ الطفل في كنف والديه.",
+        "Que l'enfant grandisse auprès de ses deux parents."
+      ]
+    },
+    "büyütsün": {
+      "tr": "Allah bebeği sağlıkla büyütsün.",
+      "values": [
+        "May God let the baby grow up healthy.",
+        "Пусть Бог даст малышу расти здоровым.",
+        "Алла наристени ден соолукта чоңойтсун.",
+        "أسأل الله أن ينشأ الطفل بصحة جيدة.",
+        "Que Dieu permette au bébé de grandir en bonne santé."
+      ]
+    },
+    "gideceksin": {
+      "tr": "Bayramda nereye gideceksin?",
+      "values": [
+        "Where will you go during the holiday?",
+        "Куда ты пойдёшь на празднике?",
+        "Майрамда кайда барасың?",
+        "إلى أين ستذهب في العيد؟",
+        "Où iras-tu pendant la fête ?"
+      ]
+    },
+    "komşunuzun": {
+      "tr": "Komşunuzun bebeği olmuş.",
+      "values": [
+        "Your neighbor has had a baby.",
+        "У вашего соседа родился ребёнок.",
+        "Кошунаңыздын баласы төрөлүптүр.",
+        "رُزق جاركم بمولود.",
+        "Votre voisin vient d'avoir un bébé."
+      ]
+    },
+    "yeni": {
+      "tr": "Yeni bir bebeğimiz oldu.",
+      "values": [
+        "We've had a new baby.",
+        "У нас родился малыш.",
+        "Үй-бүлөбүздө наристе төрөлдү.",
+        "رُزقنا بمولود جديد.",
+        "Nous avons eu un bébé."
+      ]
+    },
+    "bebeği": {
+      "tr": "Komşumun bebeği çok tatlı.",
+      "values": [
+        "My neighbor's baby is very cute.",
+        "Малыш моего соседа очень милый.",
+        "Кошунамдын наристеси абдан сүйкүмдүү.",
+        "طفل جاري لطيف جدًا.",
+        "Le bébé de mon voisin est adorable."
+      ]
+    },
+    "geçmiş": {
+      "tr": "Geçmiş olsun, umarım iyisindir.",
+      "values": [
+        "Get well soon, I hope you're okay.",
+        "Выздоравливай, надеюсь, ты в порядке.",
+        "Тез сакай, жакшы болуп каласың деп үмүттөнөм.",
+        "سلامتك، أتمنى أن تكون بخير.",
+        "Bon rétablissement, j'espère que tu vas bien."
+      ]
+    },
+    "olsun./allah": {
+      "tr": "Geçmiş olsun, Allah şifa versin.",
+      "values": [
+        "Get well soon, may God grant healing.",
+        "Выздоравливай, пусть Бог дарует исцеление.",
+        "Тез сакай, Алла шыпаа берсин.",
+        "سلامتك، شفاك الله.",
+        "Bon rétablissement, que Dieu t'accorde la guérison."
+      ]
+    },
+    "şifa": {
+      "tr": "Allah şifa versin.",
+      "values": [
+        "May God grant healing.",
+        "Пусть Бог дарует исцеление.",
+        "Алла шыпаа берсин.",
+        "شفاك الله.",
+        "Que Dieu t'accorde la guérison."
+      ]
+    },
+    "versin": {
+      "tr": "Allah sana sağlık versin.",
+      "values": [
+        "May God grant you health.",
+        "Пусть Бог даст тебе здоровья.",
+        "Алла сага ден соолук берсин.",
+        "رزقك الله الصحة.",
+        "Que Dieu t'accorde la santé."
       ]
     }
   },
