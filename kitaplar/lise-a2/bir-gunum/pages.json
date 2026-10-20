@@ -4053,6 +4053,72 @@
           279
         ]
       }
+    ],
+    "wordGroups": [
+      {
+        "key": "çalışma",
+        "text": "çalışma",
+        "indices": [
+          57,
+          58
+        ]
+      },
+      {
+        "key": "yiyeceklerimiz",
+        "text": "Yiyeceklerimiz,",
+        "indices": [
+          92,
+          93
+        ]
+      },
+      {
+        "key": "laboratuvarda",
+        "text": "laboratuvarda",
+        "indices": [
+          122,
+          123
+        ]
+      },
+      {
+        "key": "zayıflatır",
+        "text": "zayıflatır.",
+        "indices": [
+          158,
+          159
+        ]
+      },
+      {
+        "key": "verebilir",
+        "text": "verebilir.",
+        "indices": [
+          180,
+          181
+        ]
+      },
+      {
+        "key": "mekiğinde",
+        "text": "mekiğinde",
+        "indices": [
+          219,
+          220
+        ]
+      },
+      {
+        "key": "yoruluruz",
+        "text": "yoruluruz.",
+        "indices": [
+          295,
+          296
+        ]
+      },
+      {
+        "key": "tulumlarımızı",
+        "text": "tulumlarımızı",
+        "indices": [
+          303,
+          304
+        ]
+      }
     ]
   },
   {
