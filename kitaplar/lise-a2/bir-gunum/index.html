@@ -72,7 +72,7 @@
   <main class="shell">
     <div class="heading">
       <div><div class="eyebrow">A2 • Türkçe ders kitabı</div><h1>Bir Günüm</h1><p>Sayfadaki bir kelimeye dokun; anlamını beş dilde gör ve Türkçe telaffuzunu dinle.</p></div>
-      <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../hafta-sonu-planin-ne/">← Önceki Ünite</a></nav><div class="unit-mark">3. ÜNİTE &nbsp;·&nbsp; 24 SAYFA</div>
+      <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../hafta-sonu-planin-ne/">← Bir Önceki Ünite</a><a class="unit-nav-button" href="../simdi-haberler/">Bir Sonraki Ünite →</a></nav><div class="unit-mark">3. ÜNİTE &nbsp;·&nbsp; 24 SAYFA</div>
     </div>
     <div class="progress" aria-label="Kitap ilerlemesi"><span id="progress"></span></div>
     <div class="reader">
@@ -202,24 +202,11 @@
       // A phrase is selected in full regardless of which constituent word was clicked.
       const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(/\s+/).length-a.split(/\s+/).length);
       const clicked=words[index];if(!clicked)return null;
+      const explicit=(pages[current].phraseGroups||[]).find(group=>group.indices.includes(index));
+      if(explicit&&glossary.phrases[explicit.key])return {key:explicit.key,indices:explicit.indices,text:explicit.text};
       // PDF line-wrap fragments are separate visual hotspots. Rejoin them without
       // changing their coordinates, so either half selects the complete word.
-      const wrappedByPage={
-        0:[['cumar-','tesi','cumartesi']],
-        5:[['kul-','lanabilirsin.','kullanabilirsin']],
-        8:[['Göz-','lükçü','gözlükçü']],
-        9:[['arkadaşları-','nıza','arkadaşlarınıza']],
-        11:[['da-','vetiyeyi','davetiyeyi'],['teb-','rik','tebrik'],['mutluluk-','lar','mutluluklar']],
-        12:[['dü-','ğüne','düğüne'],['İn-','şallah','inşallah'],['düğünü-','ne','düğününe']],
-        15:[['İşaret-','leyin.','işaretleyin']],
-        7:[['söz-','cüklerin','sözcüklerin'],['kullana-','rak','kullanarak'],['ta-','nıtın.','tanıtın']],
-        16:[['Na-','mib','namib']],
-        17:[['tey-','zemin','teyzemin'],['haf-','ta','hafta'],['gör-','meye','görmeye'],['gele-','meyeceğim','gelemeyeceğim']],
-        19:[['Be-','nim','benim'],['Yıldız-','lar','yıldızlar']],
-        20:[['etkin-','likler','etkinlikler'],['yapı-','lıyor?','yapılıyor']],
-        20:[['Sey-','yah','seyyah'],['is-','terdiniz?','isterdiniz']],
-        21:[['Bu-','rada','burada'],['ti-','yatro,','tiyatro'],['Ca-','misi.','camisi'],['bu-','rada','burada'],['arka-','daşlarınıza','arkadaşlarınıza'],['yaşa-','dığını','yaşadığını']]
-      };
+      const wrappedByPage={};
       const pageWraps=wrappedByPage[current]||[];
       for(const [left,right,whole] of pageWraps){
         const leftIndices=words.map((w,i)=>w.t===left?i:-1).filter(i=>i>=0);
