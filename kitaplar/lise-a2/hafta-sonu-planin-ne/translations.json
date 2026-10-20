@@ -7874,17 +7874,17 @@
       "translations": [
         "weekend",
         "выходные",
-        "дем алыш күндөрү",
+        "дем алыш",
         "عطلة نهاية الأسبوع",
         "week-end"
       ],
-      "exampleTr": "Hafta sonu ailemle pikniğe gideceğiz.",
+      "exampleTr": "Hafta sonu dedemi ziyaret edeceğim.",
       "examples": [
-        "We will have a picnic with my family this weekend.",
-        "На выходных мы пойдём на пикник всей семьёй.",
-        "Дем алыш күндөрү үй-бүлөм менен пикникке барабыз.",
-        "سنذهب في نزهة مع عائلتي في عطلة نهاية الأسبوع.",
-        "Ce week-end, nous irons pique-niquer en famille."
+        "I'll visit my grandfather this weekend.",
+        "На выходных я навещу дедушку.",
+        "Дем алышта чоң атама барам.",
+        "سأزور جدي في عطلة نهاية الأسبوع.",
+        "Je rendrai visite à mon grand-père ce week-end."
       ]
     },
     "aklında olsun": {
@@ -8657,16 +8657,16 @@
         "sorry; excuse me",
         "извини",
         "кечир",
-        "اعذرني",
+        "سامحني؛ عذرًا",
         "excuse-moi"
       ],
-      "exampleTr": "Kusura bakma, bugün gelemem.",
+      "exampleTr": "Kusura bakma, bugün gelemeyeceğim.",
       "examples": [
         "Sorry, I can't come today.",
         "Извини, сегодня я не смогу прийти.",
         "Кечир, бүгүн келе албайм.",
-        "اعذرني، لا أستطيع المجيء اليوم.",
-        "Excuse-moi, je ne peux pas venir aujourd'hui."
+        "سامحني، لن أستطيع المجيء اليوم.",
+        "Excuse-moi, je ne pourrai pas venir aujourd'hui."
       ]
     },
     "teşekkür ederim": {
@@ -8707,17 +8707,17 @@
       "translations": [
         "I'm sorry; I apologize",
         "извините; прошу прощения",
-        "кечиресиз",
+        "кечирим сурайм",
         "أعتذر",
         "je suis désolé"
       ],
-      "exampleTr": "Özür dilerim, geç kaldım.",
+      "exampleTr": "Özür dilerim, bugün gelemeyeceğim.",
       "examples": [
-        "I'm sorry I'm late.",
-        "Извините, я опоздал.",
-        "Кечиресиз, кечигип калдым.",
-        "أعتذر عن التأخر.",
-        "Je suis désolé d'être en retard."
+        "I'm sorry, I can't come today.",
+        "Извините, сегодня я не смогу прийти.",
+        "Кечирим сурайм, бүгүн келе албайм.",
+        "أعتذر، لن أستطيع المجيء اليوم.",
+        "Je suis désolé, je ne pourrai pas venir aujourd'hui."
       ]
     },
     "kitap fuarına": {
@@ -8728,13 +8728,13 @@
         "إلى معرض الكتاب",
         "au salon du livre"
       ],
-      "exampleTr": "Yarın kitap fuarına gideceğiz.",
+      "exampleTr": "Cumartesi kitap fuarına gidelim.",
       "examples": [
-        "We'll go to the book fair tomorrow.",
-        "Завтра мы пойдём на книжную ярмарку.",
-        "Эртең китеп жарманкесине барабыз.",
-        "سنذهب إلى معرض الكتاب غدًا.",
-        "Nous irons au salon du livre demain."
+        "Let's go to the book fair on Saturday.",
+        "Давай в субботу пойдём на книжную ярмарку.",
+        "Ишембиде китеп жарманкесине баралы.",
+        "لنذهب إلى معرض الكتاب يوم السبت.",
+        "Allons au salon du livre samedi."
       ]
     },
     "müsait değilim": {
@@ -10469,6 +10469,108 @@
         "Ыйык Рамазаныңыз кут болсун.",
         "رمضانكم مبارك.",
         "Que votre saint Ramadan soit béni."
+      ]
+    },
+    "doğum günü kutlaması": {
+      "translations": [
+        "birthday celebration",
+        "празднование дня рождения",
+        "туулган күндү майрамдоо",
+        "احتفال بعيد الميلاد",
+        "fête d'anniversaire"
+      ],
+      "exampleTr": "Arkadaşımın doğum günü kutlamasına gideceğim.",
+      "examples": [
+        "I'm going to my friend's birthday party.",
+        "Я пойду на день рождения друга.",
+        "Досумдун туулган күнүнө барам.",
+        "سأذهب إلى حفلة عيد ميلاد صديقي.",
+        "J'irai à la fête d'anniversaire de mon ami."
+      ]
+    },
+    "hasta ziyareti": {
+      "translations": [
+        "visit to a sick person",
+        "посещение больного",
+        "оорулууну көрүү",
+        "زيارة مريض",
+        "visite à un malade"
+      ],
+      "exampleTr": "Hasta ziyareti için hastaneye gidiyoruz.",
+      "examples": [
+        "We're going to the hospital to visit someone who's ill.",
+        "Мы идём в больницу навестить больного.",
+        "Оорулууну көрүүгө ооруканага баратабыз.",
+        "نذهب إلى المستشفى لزيارة مريض.",
+        "Nous allons à l'hôpital rendre visite à un malade."
+      ]
+    },
+    "bebek görmeye gitmek": {
+      "translations": [
+        "to go and see a new baby",
+        "пойти посмотреть на новорождённого",
+        "наристени көргөнү баруу",
+        "الذهاب لرؤية مولود جديد",
+        "aller voir un nouveau-né"
+      ],
+      "exampleTr": "Hafta sonu bebek görmeye gideceğiz.",
+      "examples": [
+        "We're going to see the new baby this weekend.",
+        "На выходных мы пойдём посмотреть на новорождённого.",
+        "Дем алышта наристени көргөнү барабыз.",
+        "سنذهب لرؤية المولود الجديد في عطلة نهاية الأسبوع.",
+        "Nous irons voir le nouveau-né ce week-end."
+      ]
+    },
+    "bayram ziyareti": {
+      "translations": [
+        "holiday visit",
+        "праздничный визит",
+        "майрамдык зыярат",
+        "زيارة العيد",
+        "visite de fête"
+      ],
+      "exampleTr": "Bayram ziyareti için dedeme gideceğim.",
+      "examples": [
+        "I'll visit my grandfather for the holiday.",
+        "Я пойду к дедушке с праздничным визитом.",
+        "Майрамда чоң атама барам.",
+        "سأزور جدي بمناسبة العيد.",
+        "J'irai rendre visite à mon grand-père pour la fête."
+      ]
+    },
+    "mezuniyet töreni": {
+      "translations": [
+        "graduation ceremony",
+        "церемония вручения дипломов",
+        "бүтүрүү аземи",
+        "حفل التخرج",
+        "cérémonie de remise des diplômes"
+      ],
+      "exampleTr": "Ablamın mezuniyet törenine katılacağım.",
+      "examples": [
+        "I'll attend my older sister's graduation ceremony.",
+        "Я пойду на выпускной старшей сестры.",
+        "Эжемдин бүтүрүү аземине катышам.",
+        "سأحضر حفل تخرج أختي الكبرى.",
+        "J'assisterai à la remise des diplômes de ma grande sœur."
+      ]
+    },
+    "maalesef gelemem": {
+      "translations": [
+        "unfortunately I can't come",
+        "к сожалению, я не смогу прийти",
+        "тилекке каршы, келе албайм",
+        "للأسف لا أستطيع المجيء",
+        "malheureusement, je ne peux pas venir"
+      ],
+      "exampleTr": "Maalesef gelemem, ailemi ziyaret edeceğim.",
+      "examples": [
+        "Unfortunately I can't come; I'm visiting my family.",
+        "К сожалению, я не смогу прийти, навещу семью.",
+        "Тилекке каршы, келе албайм, үй-бүлөмө барам.",
+        "للأسف لا أستطيع المجيء، سأزور عائلتي.",
+        "Malheureusement, je ne peux pas venir, je vais voir ma famille."
       ]
     }
   },
