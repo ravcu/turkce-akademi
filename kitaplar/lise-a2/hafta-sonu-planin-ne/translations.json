@@ -2351,6 +2351,181 @@
       "болбойт",
       "لا يمكن",
       "ce n'est pas possible"
+    ],
+    "söz": [
+      "word",
+      "слово",
+      "сөз",
+      "كلمة",
+      "mot"
+    ],
+    "varlığı": [
+      "existence",
+      "наличие",
+      "бар болушу",
+      "وجود",
+      "existence"
+    ],
+    "birer": [
+      "one each",
+      "по одному",
+      "бирден",
+      "واحد لكل شخص",
+      "un chacun"
+    ],
+    "ifade": [
+      "expression",
+      "выражение",
+      "туюнтма",
+      "تعبير",
+      "expression"
+    ],
+    "seçin": [
+      "choose",
+      "выберите",
+      "тандагыла",
+      "اختاروا",
+      "choisissez"
+    ],
+    "kurun": [
+      "form; make",
+      "составьте",
+      "түзгүлө",
+      "كوّنوا",
+      "formez"
+    ],
+    "kitap": [
+      "book",
+      "книга",
+      "китеп",
+      "كتاب",
+      "livre"
+    ],
+    "fuarına": [
+      "to the fair",
+      "на ярмарку",
+      "жарманкеге",
+      "إلى المعرض",
+      "à la foire"
+    ],
+    "harika": [
+      "wonderful",
+      "замечательно",
+      "сонун",
+      "رائع",
+      "formidable"
+    ],
+    "kesinlikle": [
+      "definitely",
+      "обязательно",
+      "сөзсүз",
+      "بالتأكيد",
+      "certainement"
+    ],
+    "kusura": [
+      "fault (in apology)",
+      "вина (в извинении)",
+      "кемчилик (кечирим суроодо)",
+      "خطأ (في الاعتذار)",
+      "tort (dans une excuse)"
+    ],
+    "bakma": [
+      "don't look; forgive (in expression)",
+      "не смотри; извини",
+      "карабачы; кечир",
+      "لا تنظر؛ سامح",
+      "ne regarde pas ; excuse"
+    ],
+    "benimle": [
+      "with me",
+      "со мной",
+      "мени менен",
+      "معي",
+      "avec moi"
+    ],
+    "isterim": [
+      "I would like",
+      "я хотел бы",
+      "каалайм",
+      "أودّ",
+      "je voudrais"
+    ],
+    "işim": [
+      "my work; my task",
+      "моя работа; моё дело",
+      "менин ишим",
+      "عملي",
+      "mon travail"
+    ],
+    "gelir": [
+      "comes",
+      "приходит",
+      "келет",
+      "يأتي",
+      "vient"
+    ],
+    "başka": [
+      "other; another",
+      "другой; ещё",
+      "башка",
+      "آخر",
+      "autre"
+    ],
+    "teşekkür": [
+      "thanks",
+      "благодарность",
+      "ыраазычылык",
+      "شكر",
+      "remerciement"
+    ],
+    "ederim": [
+      "I do (auxiliary)",
+      "я делаю (вспомогательный глагол)",
+      "кылам (көмөкчү этиш)",
+      "أفعل (فعل مساعد)",
+      "je fais (auxiliaire)"
+    ],
+    "neden": [
+      "why; reason",
+      "почему; причина",
+      "эмне үчүн; себеп",
+      "لماذا؛ سبب",
+      "pourquoi ; raison"
+    ],
+    "olmasın": [
+      "let it not be; why not (phrase)",
+      "пусть не будет; почему бы и нет",
+      "болбосун; эмнеге болбосун",
+      "ليكن غير ذلك؛ لمَ لا",
+      "que ce ne soit pas ; pourquoi pas"
+    ],
+    "özür": [
+      "apology",
+      "извинение",
+      "кечирим",
+      "اعتذار",
+      "excuse"
+    ],
+    "dilerim": [
+      "I wish; I offer (apology)",
+      "желаю; приношу (извинения)",
+      "каалайм; суранам (кечирим)",
+      "أتمنى؛ أقدّم (اعتذارًا)",
+      "je souhaite ; je présente (des excuses)"
+    ],
+    "müsait": [
+      "available; free",
+      "свободный",
+      "бош",
+      "متفرغ",
+      "disponible"
+    ],
+    "seni": [
+      "you (object)",
+      "тебя",
+      "сени",
+      "إياك",
+      "te"
     ]
   },
   "phrases": {
@@ -6136,6 +6311,256 @@
         "Мен чакыруу алдым.",
         "تلقيت دعوة.",
         "J'ai reçu une invitation."
+      ]
+    },
+    "söz": {
+      "tr": "Söz vermek önemlidir.",
+      "values": [
+        "Keeping your word is important.",
+        "Важно держать слово.",
+        "Сөзгө туруу маанилүү.",
+        "من المهم الوفاء بالوعد.",
+        "Il est important de tenir parole."
+      ]
+    },
+    "varlığı": {
+      "tr": "Suyun varlığı hayat için gereklidir.",
+      "values": [
+        "The presence of water is essential for life.",
+        "Наличие воды необходимо для жизни.",
+        "Суунун болушу жашоо үчүн зарыл.",
+        "وجود الماء ضروري للحياة.",
+        "La présence d'eau est essentielle à la vie."
+      ]
+    },
+    "birer": {
+      "tr": "Herkese birer bilet verdim.",
+      "values": [
+        "I gave everyone one ticket each.",
+        "Я дал каждому по одному билету.",
+        "Баарына бирден билет бердим.",
+        "أعطيت كل شخص تذكرة واحدة.",
+        "J'ai donné un billet à chacun."
+      ]
+    },
+    "ifade": {
+      "tr": "Bu ifadeyi sık kullanıyoruz.",
+      "values": [
+        "We use this expression often.",
+        "Мы часто используем это выражение.",
+        "Бул туюнтманы көп колдонобуз.",
+        "نستخدم هذا التعبير كثيرًا.",
+        "Nous utilisons souvent cette expression."
+      ]
+    },
+    "seçin": {
+      "tr": "Bir film seçin.",
+      "values": [
+        "Choose a film.",
+        "Выберите фильм.",
+        "Бир тасма тандагыла.",
+        "اختاروا فيلمًا.",
+        "Choisissez un film."
+      ]
+    },
+    "kurun": {
+      "tr": "Bu kelimelerle cümle kurun.",
+      "values": [
+        "Make a sentence with these words.",
+        "Составьте предложение с этими словами.",
+        "Бул сөздөр менен сүйлөм түзгүлө.",
+        "كوّنوا جملة بهذه الكلمات.",
+        "Formez une phrase avec ces mots."
+      ]
+    },
+    "kitap": {
+      "tr": "Bu kitabı dün aldım.",
+      "values": [
+        "I bought this book yesterday.",
+        "Я купил эту книгу вчера.",
+        "Бул китепти кечээ сатып алдым.",
+        "اشتريت هذا الكتاب أمس.",
+        "J'ai acheté ce livre hier."
+      ]
+    },
+    "fuarına": {
+      "tr": "Kitap fuarına gidelim.",
+      "values": [
+        "Let's go to the book fair.",
+        "Пойдём на книжную ярмарку.",
+        "Китеп жарманкесине баралы.",
+        "لنذهب إلى معرض الكتاب.",
+        "Allons au salon du livre."
+      ]
+    },
+    "harika": {
+      "tr": "Harika bir fikir!",
+      "values": [
+        "What a wonderful idea!",
+        "Какая замечательная идея!",
+        "Кандай сонун ой!",
+        "يا لها من فكرة رائعة!",
+        "Quelle idée formidable !"
+      ]
+    },
+    "kesinlikle": {
+      "tr": "Kesinlikle geleceğim.",
+      "values": [
+        "I'll definitely come.",
+        "Я обязательно приду.",
+        "Мен сөзсүз келем.",
+        "سآتي بالتأكيد.",
+        "Je viendrai certainement."
+      ]
+    },
+    "kusura": {
+      "tr": "Kusura bakma, geç kaldım.",
+      "values": [
+        "Sorry, I'm late.",
+        "Извини, я опоздал.",
+        "Кечир, кечигип калдым.",
+        "آسف، لقد تأخرت.",
+        "Excuse-moi, je suis en retard."
+      ]
+    },
+    "bakma": {
+      "tr": "Kusura bakma, bugün gelemem.",
+      "values": [
+        "Sorry, I can't come today.",
+        "Извини, сегодня не смогу прийти.",
+        "Кечир, бүгүн келе албайм.",
+        "آسف، لا أستطيع المجيء اليوم.",
+        "Désolé, je ne peux pas venir aujourd'hui."
+      ]
+    },
+    "benimle": {
+      "tr": "Benimle gelir misin?",
+      "values": [
+        "Will you come with me?",
+        "Ты пойдёшь со мной?",
+        "Мени менен барасыңбы?",
+        "هل تأتي معي؟",
+        "Tu viens avec moi ?"
+      ]
+    },
+    "isterim": {
+      "tr": "Bir bardak su isterim.",
+      "values": [
+        "I'd like a glass of water.",
+        "Я хотел бы стакан воды.",
+        "Бир стакан суу каалайм.",
+        "أودّ كوبًا من الماء.",
+        "Je voudrais un verre d'eau."
+      ]
+    },
+    "işim": {
+      "tr": "Bugün çok işim var.",
+      "values": [
+        "I have a lot to do today.",
+        "У меня сегодня много дел.",
+        "Бүгүн ишим көп.",
+        "لدي عمل كثير اليوم.",
+        "J'ai beaucoup de choses à faire aujourd'hui."
+      ]
+    },
+    "gelir": {
+      "tr": "Otobüs saat sekizde gelir.",
+      "values": [
+        "The bus comes at eight.",
+        "Автобус приходит в восемь.",
+        "Автобус саат сегизде келет.",
+        "تأتي الحافلة الساعة الثامنة.",
+        "Le bus arrive à huit heures."
+      ]
+    },
+    "başka": {
+      "tr": "Başka bir gün buluşalım.",
+      "values": [
+        "Let's meet another day.",
+        "Давай встретимся в другой день.",
+        "Башка күнү жолугалы.",
+        "لنلتقِ في يوم آخر.",
+        "Retrouvons-nous un autre jour."
+      ]
+    },
+    "teşekkür": {
+      "tr": "Yardımın için teşekkür ederim.",
+      "values": [
+        "Thank you for your help.",
+        "Спасибо за помощь.",
+        "Жардамың үчүн рахмат.",
+        "شكرًا على مساعدتك.",
+        "Merci pour ton aide."
+      ]
+    },
+    "ederim": {
+      "tr": "Sana teşekkür ederim.",
+      "values": [
+        "I thank you.",
+        "Я благодарю тебя.",
+        "Сага ыраазычылык билдирем.",
+        "أشكرك.",
+        "Je te remercie."
+      ]
+    },
+    "neden": {
+      "tr": "Neden gelmedin?",
+      "values": [
+        "Why didn't you come?",
+        "Почему ты не пришёл?",
+        "Эмне үчүн келген жоксуң?",
+        "لماذا لم تأتِ؟",
+        "Pourquoi n'es-tu pas venu ?"
+      ]
+    },
+    "olmasın": {
+      "tr": "Neden olmasın? Ben de gelirim.",
+      "values": [
+        "Why not? I'll come too.",
+        "Почему бы и нет? Я тоже приду.",
+        "Эмнеге болбосун? Мен да барам.",
+        "لمَ لا؟ سآتي أيضًا.",
+        "Pourquoi pas ? Je viendrai aussi."
+      ]
+    },
+    "özür": {
+      "tr": "Özür dilerim, unuttum.",
+      "values": [
+        "I'm sorry, I forgot.",
+        "Извини, я забыл.",
+        "Кечир, унутуп калыпмын.",
+        "أعتذر، لقد نسيت.",
+        "Désolé, j'ai oublié."
+      ]
+    },
+    "dilerim": {
+      "tr": "Özür dilerim, geç kaldım.",
+      "values": [
+        "I'm sorry I'm late.",
+        "Извините, я опоздал.",
+        "Кечиресиз, кечигип калдым.",
+        "أعتذر عن التأخر.",
+        "Je suis désolé d'être en retard."
+      ]
+    },
+    "müsait": {
+      "tr": "Yarın müsait misin?",
+      "values": [
+        "Are you free tomorrow?",
+        "Ты завтра свободен?",
+        "Эртең бошсуңбу?",
+        "هل أنت متفرغ غدًا؟",
+        "Tu es disponible demain ?"
+      ]
+    },
+    "seni": {
+      "tr": "Seni yarın ararım.",
+      "values": [
+        "I'll call you tomorrow.",
+        "Я позвоню тебе завтра.",
+        "Сага эртең чалам.",
+        "سأتصل بك غدًا.",
+        "Je t'appellerai demain."
       ]
     }
   },
