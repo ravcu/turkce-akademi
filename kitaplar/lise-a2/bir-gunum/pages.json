@@ -742,6 +742,14 @@
     ],
     "phraseGroups": [
       {
+        "key": "aklında olsun",
+        "text": "Aklında Olsun",
+        "indices": [
+          42,
+          43
+        ]
+      },
+      {
         "key": "doktor randevusu",
         "text": "Doktor Randevusu",
         "indices": [
@@ -766,30 +774,6 @@
         ]
       },
       {
-        "key": "yapabilir misin",
-        "text": "Yapabilir misin?",
-        "indices": [
-          103,
-          104
-        ]
-      },
-      {
-        "key": "voleybol kursu",
-        "text": "Voleybol Kursu",
-        "indices": [
-          69,
-          70
-        ]
-      },
-      {
-        "key": "aklında olsun",
-        "text": "Aklında Olsun",
-        "indices": [
-          42,
-          43
-        ]
-      },
-      {
         "key": "öğleden sonra",
         "text": "ÖĞLEDEN SONRA",
         "indices": [
@@ -811,6 +795,38 @@
         "indices": [
           81,
           82
+        ]
+      },
+      {
+        "key": "voleybol kursu",
+        "text": "Voleybol Kursu",
+        "indices": [
+          69,
+          70
+        ]
+      },
+      {
+        "key": "yapabilir misin",
+        "text": "Yapabilir misin?",
+        "indices": [
+          103,
+          104
+        ]
+      },
+      {
+        "key": "ödevlerini yapma",
+        "text": "ÖDEVLERİNİ YAPMA",
+        "indices": [
+          85,
+          86
+        ]
+      },
+      {
+        "key": "arkadaşlarla buluşma",
+        "text": "Arkadaşlarla Buluşma",
+        "indices": [
+          94,
+          95
         ]
       }
     ]
@@ -1665,27 +1681,21 @@
         ]
       },
       {
-        "key": "yataktan kalkmak",
-        "text": "yataktan kalkmak",
+        "key": "öğle yemeği yemek",
+        "text": "öğle yemeği yemek",
         "indices": [
-          69,
-          70
+          77,
+          78,
+          79
         ]
       },
       {
-        "key": "uzay istasyonu",
-        "text": "uzay istasyonu",
+        "key": "akşam yemeği yemek",
+        "text": "akşam yemeği yemek",
         "indices": [
-          110,
-          111
-        ]
-      },
-      {
-        "key": "evden çıkmak",
-        "text": "evden çıkmak",
-        "indices": [
-          72,
-          73
+          65,
+          66,
+          67
         ]
       },
       {
@@ -1697,11 +1707,11 @@
         ]
       },
       {
-        "key": "ödev yapmak",
-        "text": "ödev yapmak",
+        "key": "uzay istasyonu",
+        "text": "uzay istasyonu",
         "indices": [
-          86,
-          87
+          110,
+          111
         ]
       },
       {
@@ -1710,6 +1720,38 @@
         "indices": [
           107,
           108
+        ]
+      },
+      {
+        "key": "yataktan kalkmak",
+        "text": "yataktan kalkmak",
+        "indices": [
+          69,
+          70
+        ]
+      },
+      {
+        "key": "evden çıkmak",
+        "text": "evden çıkmak",
+        "indices": [
+          72,
+          73
+        ]
+      },
+      {
+        "key": "ödev yapmak",
+        "text": "ödev yapmak",
+        "indices": [
+          86,
+          87
+        ]
+      },
+      {
+        "key": "kahvaltı etmek",
+        "text": "kahvaltı etmek",
+        "indices": [
+          81,
+          82
         ]
       }
     ]
@@ -4052,6 +4094,14 @@
           278,
           279
         ]
+      },
+      {
+        "key": "spor yapmak",
+        "text": "Spor yapmak,",
+        "indices": [
+          160,
+          161
+        ]
       }
     ],
     "wordGroups": [
@@ -5718,11 +5768,88 @@
     ],
     "phraseGroups": [
       {
+        "key": "e-postalarını kontrol etmek",
+        "text": "e-postalarını kontrol etmek",
+        "indices": [
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "key": "elini yüzünü silmek",
+        "text": "elini yüzünü silmek",
+        "indices": [
+          21,
+          22,
+          23
+        ]
+      },
+      {
+        "key": "öğle yemeği yemek",
+        "text": "öğle yemeği yemek",
+        "indices": [
+          25,
+          26,
+          27
+        ]
+      },
+      {
+        "key": "akşam yemeği yemek",
+        "text": "akşam yemeği yemek",
+        "indices": [
+          17,
+          18,
+          19
+        ]
+      },
+      {
+        "key": "yer çekimsiz ortam",
+        "text": "Yer çekimsiz ortam",
+        "indices": [
+          145,
+          146,
+          147
+        ]
+      },
+      {
         "key": "uzay istasyonu",
         "text": "Uzay istasyonu,",
         "indices": [
           136,
           137
+        ]
+      },
+      {
+        "key": "spor yapmak",
+        "text": "spor yapmak",
+        "indices": [
+          4,
+          5
+        ]
+      },
+      {
+        "key": "kahvaltı etmek",
+        "text": "kahvaltı etmek",
+        "indices": [
+          7,
+          8
+        ]
+      },
+      {
+        "key": "kitap okumak",
+        "text": "kitap okumak",
+        "indices": [
+          10,
+          11
+        ]
+      },
+      {
+        "key": "uyku tulumlarını",
+        "text": "uyku tulumlarını",
+        "indices": [
+          120,
+          121
         ]
       }
     ]
@@ -6826,7 +6953,16 @@
         "h": 0.013105
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "geniş zaman",
+        "text": "Geniş Zaman",
+        "indices": [
+          120,
+          121
+        ]
+      }
+    ]
   },
   {
     "page": 7,
@@ -8598,7 +8734,33 @@
         "h": 0.013174
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "gece yarısına kadar",
+        "text": "Gece yarısına kadar",
+        "indices": [
+          219,
+          220,
+          221
+        ]
+      },
+      {
+        "key": "bu yüzden",
+        "text": "Bu yüzden",
+        "indices": [
+          191,
+          192
+        ]
+      },
+      {
+        "key": "öğle arası",
+        "text": "öğle arası",
+        "indices": [
+          135,
+          136
+        ]
+      }
+    ]
   },
   {
     "page": 8,
@@ -10370,7 +10532,40 @@
         "h": 0.018046
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "spor yapmak",
+        "text": "spor yapmak",
+        "indices": [
+          43,
+          44
+        ]
+      },
+      {
+        "key": "öğle arası",
+        "text": "öğle arası",
+        "indices": [
+          104,
+          105
+        ]
+      },
+      {
+        "key": "hafta içi",
+        "text": "hafta içi",
+        "indices": [
+          52,
+          53
+        ]
+      },
+      {
+        "key": "hafta içi",
+        "text": "Hafta içi",
+        "indices": [
+          95,
+          96
+        ]
+      }
+    ]
   },
   {
     "page": 9,
@@ -11173,7 +11368,7 @@
         "t": "Hayatın",
         "x": 0.326247,
         "y": 0.089155,
-        "w": 0.059445,
+        "w": 0.059445000000000005,
         "h": 0.018073
       },
       {
@@ -11236,7 +11431,7 @@
         "t": "Sen",
         "x": 0.454183,
         "y": 0.417954,
-        "w": 0.026568,
+        "w": 0.026567999999999998,
         "h": 0.016368
       },
       {
@@ -11383,7 +11578,7 @@
         "t": "Sen",
         "x": 0.368363,
         "y": 0.482756,
-        "w": 0.026568,
+        "w": 0.026567999999999998,
         "h": 0.016368
       },
       {
@@ -11726,7 +11921,7 @@
         "t": "misin?",
         "x": 0.461242,
         "y": 0.206887,
-        "w": 0.04597,
+        "w": 0.04596999999999999,
         "h": 0.016368
       },
       {
@@ -11747,7 +11942,7 @@
         "t": "düzenli",
         "x": 0.351459,
         "y": 0.230843,
-        "w": 0.050374,
+        "w": 0.050373999999999995,
         "h": 0.016368
       },
       {
@@ -11803,14 +11998,14 @@
         "t": "yer",
         "x": 0.439599,
         "y": 0.2548,
-        "w": 0.021391,
+        "w": 0.021391000000000004,
         "h": 0.016368
       },
       {
         "t": "misin?",
         "x": 0.464877,
         "y": 0.2548,
-        "w": 0.04597,
+        "w": 0.04596999999999999,
         "h": 0.016368
       },
       {
@@ -11845,14 +12040,14 @@
         "t": "yer",
         "x": 0.456726,
         "y": 0.278757,
-        "w": 0.02139,
+        "w": 0.021390000000000003,
         "h": 0.016368
       },
       {
         "t": "misin?",
         "x": 0.482002,
         "y": 0.278757,
-        "w": 0.04597,
+        "w": 0.04596999999999999,
         "h": 0.016368
       },
       {
@@ -12076,7 +12271,7 @@
         "t": "Türkmen",
         "x": 0.29154,
         "y": 0.700843,
-        "w": 0.058534,
+        "w": 0.05853400000000001,
         "h": 0.01555
       },
       {
@@ -12104,7 +12299,7 @@
         "t": "Türkmen",
         "x": 0.29154,
         "y": 0.715645,
-        "w": 0.058534,
+        "w": 0.05853400000000001,
         "h": 0.01555
       },
       {
@@ -12125,7 +12320,7 @@
         "t": "allar",
         "x": 0.241321,
         "y": 0.745249,
-        "w": 0.028976,
+        "w": 0.028975999999999995,
         "h": 0.01555
       },
       {
@@ -12160,7 +12355,7 @@
         "t": "dağlar",
         "x": 0.265374,
         "y": 0.760051,
-        "w": 0.042085,
+        "w": 0.042085000000000004,
         "h": 0.01555
       },
       {
@@ -12216,7 +12411,7 @@
         "t": "Ayşe’m",
         "x": 0.254994,
         "y": 0.789654,
-        "w": 0.048441,
+        "w": 0.04844099999999999,
         "h": 0.01555
       },
       {
@@ -12258,7 +12453,7 @@
         "t": "Ayşe’m",
         "x": 0.341611,
         "y": 0.804456,
-        "w": 0.048445,
+        "w": 0.048444999999999995,
         "h": 0.01555
       },
       {
@@ -12335,7 +12530,7 @@
         "t": "Türkmen",
         "x": 0.512945,
         "y": 0.700843,
-        "w": 0.058532,
+        "w": 0.058531999999999994,
         "h": 0.01555
       },
       {
@@ -12363,7 +12558,7 @@
         "t": "Türkmen",
         "x": 0.512945,
         "y": 0.715645,
-        "w": 0.058532,
+        "w": 0.058531999999999994,
         "h": 0.01555
       },
       {
@@ -12384,7 +12579,7 @@
         "t": "allar",
         "x": 0.468828,
         "y": 0.745249,
-        "w": 0.028976,
+        "w": 0.028975999999999995,
         "h": 0.01555
       },
       {
@@ -12419,7 +12614,7 @@
         "t": "dağlar",
         "x": 0.492881,
         "y": 0.760051,
-        "w": 0.042085,
+        "w": 0.042085000000000004,
         "h": 0.01555
       },
       {
@@ -12475,7 +12670,7 @@
         "t": "Ayşe’m",
         "x": 0.482501,
         "y": 0.789654,
-        "w": 0.048441,
+        "w": 0.04844099999999999,
         "h": 0.01555
       },
       {
@@ -12517,7 +12712,7 @@
         "t": "Ayşe’m",
         "x": 0.569118,
         "y": 0.804456,
-        "w": 0.048445,
+        "w": 0.048444999999999995,
         "h": 0.01555
       },
       {
@@ -12643,7 +12838,7 @@
         "t": "allar",
         "x": 0.696336,
         "y": 0.745249,
-        "w": 0.028976,
+        "w": 0.028975999999999995,
         "h": 0.01555
       },
       {
@@ -12678,7 +12873,7 @@
         "t": "dağlar",
         "x": 0.720389,
         "y": 0.760051,
-        "w": 0.042085,
+        "w": 0.042085000000000004,
         "h": 0.01555
       },
       {
@@ -12734,7 +12929,7 @@
         "t": "Ayşe’m",
         "x": 0.710008,
         "y": 0.789654,
-        "w": 0.048441,
+        "w": 0.04844099999999999,
         "h": 0.01555
       },
       {
@@ -12776,7 +12971,7 @@
         "t": "Ayşe’m",
         "x": 0.796625,
         "y": 0.804456,
-        "w": 0.048445,
+        "w": 0.048444999999999995,
         "h": 0.01555
       },
       {
@@ -12822,24 +13017,45 @@
         "h": 0.014743
       },
       {
-        "t": "zaman/sık",
+        "t": "zaman",
         "x": 0.384477,
         "y": 0.546132,
-        "w": 0.058161,
+        "w": 0.03231166666666666,
         "h": 0.014743
       },
       {
-        "t": "sık/",
+        "t": "sık",
+        "x": 0.42325100000000004,
+        "y": 0.546132,
+        "w": 0.019387,
+        "h": 0.014743
+      },
+      {
+        "t": "sık",
         "x": 0.445743,
         "y": 0.546132,
-        "w": 0.021326,
+        "w": 0.015994500000000002,
         "h": 0.014743
       },
       {
-        "t": "genellikle/bazen/asla)",
+        "t": "genellikle",
         "x": 0.281755,
         "y": 0.557234,
-        "w": 0.123433,
+        "w": 0.05610590909090909,
+        "h": 0.014743
+      },
+      {
+        "t": "bazen",
+        "x": 0.3434715,
+        "y": 0.557234,
+        "w": 0.028052954545454544,
+        "h": 0.014743
+      },
+      {
+        "t": "asla)",
+        "x": 0.37713504545454546,
+        "y": 0.557234,
+        "w": 0.028052954545454544,
         "h": 0.014743
       },
       {
@@ -12997,7 +13213,34 @@
         "h": 0.013174
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "sık sık",
+        "text": "sık sık",
+        "indices": [
+          240,
+          241
+        ]
+      }
+    ],
+    "wordGroups": [
+      {
+        "key": "değiştirmeye",
+        "text": "değiştirmeye",
+        "indices": [
+          29,
+          30
+        ]
+      },
+      {
+        "key": "düzenleyebilirsin",
+        "text": "düzenleyebilirsin",
+        "indices": [
+          43,
+          44
+        ]
+      }
+    ]
   },
   {
     "page": 11,
@@ -14363,7 +14606,158 @@
         "h": 0.023002
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "öğle yemeği yemek",
+        "text": "Öğle Yemeği Yemek",
+        "indices": [
+          125,
+          126,
+          127
+        ]
+      },
+      {
+        "key": "öğle yemeği yemek",
+        "text": "Öğle Yemeği Yemek",
+        "indices": [
+          157,
+          158,
+          159
+        ]
+      },
+      {
+        "key": "akşam yemeği yemek",
+        "text": "Akşam Yemeği Yemek",
+        "indices": [
+          130,
+          131,
+          132
+        ]
+      },
+      {
+        "key": "akşam yemeği yemek",
+        "text": "Akşam Yemeği Yemek",
+        "indices": [
+          162,
+          163,
+          164
+        ]
+      },
+      {
+        "key": "spor yapmak",
+        "text": "Spor Yapmak",
+        "indices": [
+          121,
+          122
+        ]
+      },
+      {
+        "key": "spor yapmak",
+        "text": "Spor Yapmak",
+        "indices": [
+          153,
+          154
+        ]
+      },
+      {
+        "key": "kahvaltı etmek",
+        "text": "Kahvaltı Etmek",
+        "indices": [
+          123,
+          124
+        ]
+      },
+      {
+        "key": "kahvaltı etmek",
+        "text": "Kahvaltı Etmek",
+        "indices": [
+          155,
+          156
+        ]
+      },
+      {
+        "key": "kitap okumak",
+        "text": "Kitap Okumak",
+        "indices": [
+          133,
+          134
+        ]
+      },
+      {
+        "key": "kitap okumak",
+        "text": "Kitap Okumak",
+        "indices": [
+          165,
+          166
+        ]
+      },
+      {
+        "key": "hafta içi",
+        "text": "Hafta içi",
+        "indices": [
+          18,
+          19
+        ]
+      },
+      {
+        "key": "hiçbir zaman",
+        "text": "Hiçbir Zaman",
+        "indices": [
+          137,
+          138
+        ]
+      },
+      {
+        "key": "hiçbir zaman",
+        "text": "Hiçbir Zaman",
+        "indices": [
+          144,
+          145
+        ]
+      },
+      {
+        "key": "ders çalışmak",
+        "text": "Ders Çalışmak",
+        "indices": [
+          128,
+          129
+        ]
+      },
+      {
+        "key": "ders çalışmak",
+        "text": "Ders Çalışmak",
+        "indices": [
+          160,
+          161
+        ]
+      }
+    ],
+    "wordGroups": [
+      {
+        "key": "rutinlerini",
+        "text": "rutinlerini",
+        "indices": [
+          96,
+          97
+        ]
+      },
+      {
+        "key": "yapıyorsunuz",
+        "text": "yapıyorsunuz",
+        "indices": [
+          109,
+          110
+        ]
+      },
+      {
+        "key": "yapıyorsunuz",
+        "text": "yapıyorsunuz",
+        "indices": [
+          115,
+          116
+        ]
+      }
+    ]
   },
   {
     "page": 12,
@@ -15148,7 +15542,26 @@
         "h": 0.019761
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "hiçbir zaman",
+        "text": "Hiçbir Zaman",
+        "indices": [
+          48,
+          49
+        ]
+      }
+    ],
+    "wordGroups": [
+      {
+        "key": "listeleyin",
+        "text": "listeleyin",
+        "indices": [
+          93,
+          94
+        ]
+      }
+    ]
   },
   {
     "page": 13,
@@ -18083,7 +18496,64 @@
         "h": 0.013174
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "bozuk para",
+        "text": "bozuk para",
+        "indices": [
+          13,
+          14
+        ]
+      },
+      {
+        "key": "bozuk para",
+        "text": "bozuk para",
+        "indices": [
+          26,
+          27
+        ]
+      },
+      {
+        "key": "bozuk para",
+        "text": "bozuk para",
+        "indices": [
+          43,
+          44
+        ]
+      },
+      {
+        "key": "bozuk para",
+        "text": "bozuk para",
+        "indices": [
+          61,
+          62
+        ]
+      },
+      {
+        "key": "bozuk para",
+        "text": "bozuk para",
+        "indices": [
+          82,
+          83
+        ]
+      },
+      {
+        "key": "çizgi roman",
+        "text": "Çizgi roman",
+        "indices": [
+          260,
+          261
+        ]
+      },
+      {
+        "key": "film eleştirisi",
+        "text": "Film eleştirisi",
+        "indices": [
+          192,
+          193
+        ]
+      }
+    ]
   },
   {
     "page": 15,
@@ -19232,7 +19702,41 @@
         "h": 0.013105
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "müzik aleti çalmak",
+        "text": "müzik aleti çalmak",
+        "indices": [
+          135,
+          136,
+          137
+        ]
+      },
+      {
+        "key": "fotoğraf makinesi",
+        "text": "fotoğraf makinesi",
+        "indices": [
+          115,
+          116
+        ]
+      },
+      {
+        "key": "fotoğraf çekmek",
+        "text": "fotoğraf çekmek",
+        "indices": [
+          125,
+          126
+        ]
+      },
+      {
+        "key": "tenis oynamak",
+        "text": "tenis oynamak",
+        "indices": [
+          123,
+          124
+        ]
+      }
+    ]
   },
   {
     "page": 16,
@@ -22665,7 +23169,25 @@
         "h": 0.013174
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "müzik aleti çalmak",
+        "text": "Müzik Aleti Çalmak",
+        "indices": [
+          213,
+          214,
+          215
+        ]
+      },
+      {
+        "key": "fotoğraf çekmek",
+        "text": "Fotoğraf Çekmek",
+        "indices": [
+          206,
+          207
+        ]
+      }
+    ]
   },
   {
     "page": 19,
@@ -22711,7 +23233,7 @@
         "t": "Verilen",
         "x": 0.329733,
         "y": 0.853021,
-        "w": 0.046428,
+        "w": 0.04642799999999999,
         "h": 0.016405
       },
       {
@@ -22806,10 +23328,17 @@
         "h": 0.016405
       },
       {
-        "t": "karşılaştırın.karakterin",
+        "t": "karşılaştırın.",
         "x": 0.405563,
         "y": 0.93449,
-        "w": 0.150695,
+        "w": 0.08790541666666667,
+        "h": 0.016405
+      },
+      {
+        "t": "karakterin",
+        "x": 0.4934684166666667,
+        "y": 0.93449,
+        "w": 0.06278958333333333,
         "h": 0.016405
       },
       {
@@ -22893,7 +23422,7 @@
         "t": "ata",
         "x": 0.430921,
         "y": 0.19668,
-        "w": 0.021807,
+        "w": 0.021807000000000003,
         "h": 0.016368
       },
       {
@@ -22956,14 +23485,14 @@
         "t": "aleti",
         "x": 0.752771,
         "y": 0.19668,
-        "w": 0.028628,
+        "w": 0.028627999999999997,
         "h": 0.016368
       },
       {
         "t": "çalmak",
         "x": 0.784662,
         "y": 0.19668,
-        "w": 0.049358,
+        "w": 0.04935799999999999,
         "h": 0.016368
       },
       {
@@ -23005,7 +23534,7 @@
         "t": "yüzmek",
         "x": 0.332384,
         "y": 0.213949,
-        "w": 0.054384,
+        "w": 0.05438400000000001,
         "h": 0.016368
       },
       {
@@ -23082,7 +23611,7 @@
         "t": "bisiklete",
         "x": 0.726192,
         "y": 0.213949,
-        "w": 0.058427,
+        "w": 0.05842699999999999,
         "h": 0.016368
       },
       {
@@ -23411,7 +23940,7 @@
         "t": "yapabilir?",
         "x": 0.703874,
         "y": 0.901053,
-        "w": 0.061714,
+        "w": 0.061714000000000005,
         "h": 0.016368
       },
       {
@@ -23439,7 +23968,7 @@
         "t": "sever?",
         "x": 0.594031,
         "y": 0.884444,
-        "w": 0.041923,
+        "w": 0.04192300000000001,
         "h": 0.016368
       },
       {
@@ -23576,7 +24105,65 @@
         "h": 0.01643
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "müzik aleti çalmak",
+        "text": "müzik aleti çalmak",
+        "indices": [
+          40,
+          41,
+          42
+        ]
+      },
+      {
+        "key": "fotoğraf çekmek",
+        "text": "fotoğraf çekmek",
+        "indices": [
+          62,
+          63
+        ]
+      },
+      {
+        "key": "tenis oynamak",
+        "text": "tenis oynamak",
+        "indices": [
+          85,
+          86
+        ]
+      },
+      {
+        "key": "bisiklete binmek",
+        "text": "bisiklete binmek",
+        "indices": [
+          59,
+          60
+        ]
+      },
+      {
+        "key": "paten kaymak",
+        "text": "paten kaymak",
+        "indices": [
+          51,
+          52
+        ]
+      },
+      {
+        "key": "şarkı söylemek",
+        "text": "şarkı söylemek",
+        "indices": [
+          66,
+          67
+        ]
+      },
+      {
+        "key": "uçurtma uçurmak",
+        "text": "uçurtma uçurmak",
+        "indices": [
+          81,
+          82
+        ]
+      }
+    ]
   },
   {
     "page": 20,
@@ -23622,7 +24209,7 @@
         "t": "okuyun",
         "x": 0.531905,
         "y": 0.070315,
-        "w": 0.049857,
+        "w": 0.049857000000000005,
         "h": 0.016405
       },
       {
@@ -23790,7 +24377,7 @@
         "t": "Tura:",
         "x": 0.272935,
         "y": 0.251686,
-        "w": 0.030726,
+        "w": 0.030725999999999996,
         "h": 0.016294
       },
       {
@@ -23916,7 +24503,7 @@
         "t": "genellikle",
         "x": 0.572181,
         "y": 0.17002,
-        "w": 0.058005,
+        "w": 0.058004999999999994,
         "h": 0.016294
       },
       {
@@ -23941,10 +24528,17 @@
         "h": 0.016294
       },
       {
-        "t": "edersin?/Ge-",
+        "t": "edersin?",
         "x": 0.744779,
         "y": 0.17002,
-        "w": 0.079212,
+        "w": 0.052808,
+        "h": 0.016294
+      },
+      {
+        "t": "Ge-",
+        "x": 0.804188,
+        "y": 0.17002,
+        "w": 0.019803,
         "h": 0.016294
       },
       {
@@ -24196,14 +24790,14 @@
         "t": "BİRAZ",
         "x": 0.163507,
         "y": 0.599381,
-        "w": 0.05041,
+        "w": 0.050409999999999996,
         "h": 0.024593
       },
       {
         "t": "DİNLEN",
         "x": 0.161514,
         "y": 0.614252,
-        "w": 0.062181,
+        "w": 0.06218100000000001,
         "h": 0.026401
       },
       {
@@ -24399,7 +24993,7 @@
         "t": "RESİM",
         "x": 0.745324,
         "y": 0.799616,
-        "w": 0.029045,
+        "w": 0.029044999999999998,
         "h": 0.025389
       },
       {
@@ -24427,7 +25021,7 @@
         "t": "SATRANÇ",
         "x": 0.700729,
         "y": 0.676644,
-        "w": 0.045401,
+        "w": 0.04540099999999999,
         "h": 0.020441
       },
       {
@@ -24455,7 +25049,7 @@
         "t": "BAŞLANGIÇ",
         "x": 0.45515,
         "y": 0.387192,
-        "w": 0.059711,
+        "w": 0.05971099999999999,
         "h": 0.032478
       },
       {
@@ -24466,7 +25060,35 @@
         "h": 0.031085
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "müzik aleti çalmak",
+        "text": "MÜZİK ALETİ ÇALMAK",
+        "indices": [
+          114,
+          115,
+          116
+        ]
+      },
+      {
+        "key": "şarkı söylemek",
+        "text": "ŞARKI SÖYLEMEK",
+        "indices": [
+          110,
+          111
+        ]
+      }
+    ],
+    "wordGroups": [
+      {
+        "key": "genellikle",
+        "text": "Genellikle",
+        "indices": [
+          52,
+          53
+        ]
+      }
+    ]
   },
   {
     "page": 21,
@@ -24915,7 +25537,33 @@
         "h": 0.023002
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "müzik aleti çalmak",
+        "text": "müzik aleti çalmak",
+        "indices": [
+          13,
+          14,
+          15
+        ]
+      },
+      {
+        "key": "müzik aleti",
+        "text": "müzik aleti",
+        "indices": [
+          59,
+          60
+        ]
+      },
+      {
+        "key": "şarkı söylemek",
+        "text": "şarkı söylemek",
+        "indices": [
+          9,
+          10
+        ]
+      }
+    ]
   },
   {
     "page": 22,
@@ -26393,7 +27041,41 @@
         "h": 0.016294
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [],
+    "wordGroups": [
+      {
+        "key": "öğrencisiyim",
+        "text": "öğrencisiyim",
+        "indices": [
+          41,
+          42
+        ]
+      },
+      {
+        "key": "seviyorum",
+        "text": "seviyorum",
+        "indices": [
+          51,
+          52
+        ]
+      },
+      {
+        "key": "yapabiliyorum",
+        "text": "yapabiliyorum",
+        "indices": [
+          60,
+          61
+        ]
+      },
+      {
+        "key": "resimlerimi",
+        "text": "resimlerimi",
+        "indices": [
+          92,
+          93
+        ]
+      }
+    ]
   },
   {
     "page": 23,
@@ -27178,7 +27860,40 @@
         "h": 0.013174
       }
     ],
-    "phraseGroups": []
+    "phraseGroups": [
+      {
+        "key": "yamaç paraşütü",
+        "text": "yamaç paraşütü",
+        "indices": [
+          108,
+          109
+        ]
+      },
+      {
+        "key": "kaya tırmanışı",
+        "text": "kaya tırmanışı",
+        "indices": [
+          47,
+          48
+        ]
+      },
+      {
+        "key": "kaya tırmanışı",
+        "text": "kaya tırmanışı",
+        "indices": [
+          59,
+          60
+        ]
+      },
+      {
+        "key": "ölü deniz",
+        "text": "Ölü Deniz",
+        "indices": [
+          92,
+          93
+        ]
+      }
+    ]
   },
   {
     "page": 24,
@@ -28075,6 +28790,40 @@
         "indices": [
           119,
           120
+        ]
+      },
+      {
+        "key": "ilgi alanları",
+        "text": "İLGİ ALANLARI",
+        "indices": [
+          101,
+          102
+        ]
+      }
+    ],
+    "wordGroups": [
+      {
+        "key": "fotoğraflarınızı",
+        "text": "fotoğraflarınızı",
+        "indices": [
+          46,
+          47
+        ]
+      },
+      {
+        "key": "aklınıza",
+        "text": "aklınıza",
+        "indices": [
+          57,
+          58
+        ]
+      },
+      {
+        "key": "ekleyebilirsiniz",
+        "text": "ekleyebilirsiniz",
+        "indices": [
+          64,
+          65
         ]
       }
     ]
