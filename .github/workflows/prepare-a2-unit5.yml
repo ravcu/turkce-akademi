@@ -1,0 +1,31 @@
+name: Prepare A2 unit 5 word coordinates
+on:
+  push:
+    paths:
+      - 'tools/prepare_a2_unit5.py'
+      - '.github/workflows/prepare-a2-unit5.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: prepare-a2-unit5
+  cancel-in-progress: false
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install Turkish OCR
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr-tur python3-pil
+      - name: Build coordinates and coverage report
+        run: python3 tools/prepare_a2_unit5.py
+      - name: Save generated unit data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kitaplar/lise-a2/dedemin-meslegi/pages.json kitaplar/lise-a2/dedemin-meslegi/coverage.json
+          git diff --cached --quiet && exit 0
+          git commit -m "Generate A2 unit 5 Turkish word coordinates"
+          git push
