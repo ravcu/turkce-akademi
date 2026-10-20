@@ -34,3 +34,23 @@ for n in range(1,21):
 ROOT.joinpath("pages.json").write_text(json.dumps(pages,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
 ROOT.joinpath("coverage.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
 print(json.dumps(report,ensure_ascii=False,indent=2))
+
+# Reuse existing local editorial entries; retain only entries occurring in this unit.
+base={k:{} for k in ("words","forms","examples","phrases","lemmas")}
+for slug in ("ailem-ve-evim","bir-gunum","sehir-gezisi","bugun-hava-nasil","carsi-pazar","lise-a2/tatil-donusu","lise-a2/hafta-sonu-planin-ne","lise-a2/bir-gunum","lise-a2/simdi-haberler"):
+    path=Path("kitaplar")/slug/"translations.json"
+    if not path.exists():continue
+    old=json.loads(path.read_text())
+    for k in base:base[k].update(old.get(k,{}))
+source=json.loads(ROOT.joinpath("source-text.json").read_text())
+keys={norm(w) for text in source for w in text.replace("￾\\n","").split() if any(c.isalpha() for c in w)}
+keys.update(norm(w["t"]) for p in pages for w in p["words"])
+glossary={k:{key:value for key,value in base[k].items() if key in keys} for k in ("words","forms","examples","lemmas")}
+glossary["phrases"]={key:value for key,value in base["phrases"].items() if all(norm(w) in keys for w in key.split())}
+glossary["quizVocabulary"]=[k for k in glossary["words"] if len(k)>2 and k in keys]
+glossary["metadata"]={"unit":5,"source":"uploaded WebP + source PDF","editorialStatus":"in progress","languages":["en","ru","ky","ar","fr"]}
+ROOT.joinpath("translations.json").write_text(json.dumps(glossary,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+missing=sorted(k for k in keys if k and k not in glossary["words"] and k not in glossary["forms"])
+report["missingMeanings"]=missing
+report["uniqueEntries"]=len(keys)
+ROOT.joinpath("coverage.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
