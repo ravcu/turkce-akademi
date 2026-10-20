@@ -4423,6 +4423,20 @@
       "залына",
       "إلى الصالة",
       "à la salle"
+    ],
+    "arkadaşlarınıza": [
+      "to your friends",
+      "вашим друзьям",
+      "досторуңарга",
+      "لأصدقائكم",
+      "à vos amis"
+    ],
+    "kullanabilirsin": [
+      "you can use",
+      "ты можешь использовать",
+      "колдоно аласың",
+      "يمكنك استخدام",
+      "tu peux utiliser"
     ]
   },
   "phrases": {
@@ -12092,6 +12106,26 @@
         "Поезд бекетине баргым келет.",
         "أريد الذهاب إلى محطة القطار.",
         "Je veux aller à la gare."
+      ]
+    },
+    "arkadaşlarınıza": {
+      "tr": "Hafta sonu planınızı arkadaşlarınıza anlatın.",
+      "values": [
+        "Tell your friends about your weekend plans.",
+        "Расскажите друзьям о своих планах на выходные.",
+        "Дем алыш планыңарды досторуңарга айтып бергиле.",
+        "أخبروا أصدقاءكم بخططكم لعطلة نهاية الأسبوع.",
+        "Racontez vos projets du week-end à vos amis."
+      ]
+    },
+    "kullanabilirsin": {
+      "tr": "Yol tarif ederken bu ifadeleri kullanabilirsin.",
+      "values": [
+        "You can use these expressions when giving directions.",
+        "Ты можешь использовать эти выражения, объясняя дорогу.",
+        "Жол түшүндүргөндө бул туюнтмаларды колдоно аласың.",
+        "يمكنك استخدام هذه التعبيرات عند وصف الطريق.",
+        "Tu peux utiliser ces expressions pour indiquer le chemin."
       ]
     }
   },
