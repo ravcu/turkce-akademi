@@ -3779,6 +3779,916 @@
       "алар кайда?",
       "أين هم؟",
       "où sont-ils ?"
+    ],
+    "sırasında": [
+      "during",
+      "во время",
+      "учурунда",
+      "أثناء",
+      "pendant"
+    ],
+    "astronotum": [
+      "I am an astronaut",
+      "я космонавт",
+      "мен космонавтмын",
+      "أنا رائد فضاء",
+      "je suis astronaute"
+    ],
+    "aydır": [
+      "for months (after a number)",
+      "месяцев (о длительности)",
+      "айдан бери",
+      "منذ أشهر",
+      "depuis des mois"
+    ],
+    "epey": [
+      "quite a lot",
+      "довольно много",
+      "бир топ",
+      "كثيرًا",
+      "beaucoup"
+    ],
+    "fark": [
+      "difference",
+      "разница",
+      "айырма",
+      "فرق",
+      "différence"
+    ],
+    "sağlığımız": [
+      "our health",
+      "наше здоровье",
+      "ден соолугубуз",
+      "صحتنا",
+      "notre santé"
+    ],
+    "planlıdır": [
+      "is planned",
+      "запланирован",
+      "пландалган",
+      "مخطط له",
+      "est planifié"
+    ],
+    "çalışma": [
+      "work; study",
+      "работа; учёба",
+      "иш; окуу",
+      "عمل؛ دراسة",
+      "travail ; étude"
+    ],
+    "saatlerimiz": [
+      "our hours",
+      "наши часы",
+      "сааттарыбыз",
+      "ساعاتنا",
+      "nos horaires"
+    ],
+    "açısından": [
+      "in terms of",
+      "с точки зрения",
+      "жагынан",
+      "من حيث",
+      "du point de vue de"
+    ],
+    "planlanır": [
+      "is planned",
+      "планируется",
+      "пландалат",
+      "يُخطط له",
+      "est planifié"
+    ],
+    "astronotlar": [
+      "astronauts",
+      "космонавты",
+      "космонавттар",
+      "رواد الفضاء",
+      "astronautes"
+    ],
+    "uyuruz": [
+      "we sleep",
+      "мы спим",
+      "уктайбыз",
+      "ننام",
+      "nous dormons"
+    ],
+    "uyanırız": [
+      "we wake up",
+      "мы просыпаемся",
+      "ойгонобуз",
+      "نستيقظ",
+      "nous nous réveillons"
+    ],
+    "plastik": [
+      "plastic",
+      "пластиковый",
+      "пластик",
+      "بلاستيكي",
+      "plastique"
+    ],
+    "suyla": [
+      "with water",
+      "водой",
+      "суу менен",
+      "بالماء",
+      "avec de l’eau"
+    ],
+    "onunla": [
+      "with it; with him/her",
+      "с ним; с ней; им",
+      "аны менен",
+      "به؛ معه؛ معها",
+      "avec lui ; avec elle"
+    ],
+    "elimizi": [
+      "our hands",
+      "наши руки",
+      "колубузду",
+      "أيدينا",
+      "nos mains"
+    ],
+    "yüzümüzü": [
+      "our faces",
+      "наше лицо",
+      "бетибизди",
+      "وجوهنا",
+      "notre visage"
+    ],
+    "sileriz": [
+      "we wipe",
+      "мы вытираем",
+      "аарчыйбыз",
+      "نمسح",
+      "nous essuyons"
+    ],
+    "toplantı": [
+      "meeting",
+      "совещание",
+      "жыйын",
+      "اجتماع",
+      "réunion"
+    ],
+    "bazen": [
+      "sometimes",
+      "иногда",
+      "кээде",
+      "أحيانًا",
+      "parfois"
+    ],
+    "çalışırız": [
+      "we work",
+      "мы работаем",
+      "иштейбиз",
+      "نعمل",
+      "nous travaillons"
+    ],
+    "bozuk": [
+      "broken; faulty",
+      "сломанный; неисправный",
+      "бузук",
+      "معطل",
+      "en panne"
+    ],
+    "tamir": [
+      "repair",
+      "ремонт",
+      "оңдоо",
+      "تصليح",
+      "réparation"
+    ],
+    "mekiğinin": [
+      "of the shuttle",
+      "шаттла",
+      "чөлмөгүнүн",
+      "للمكوك",
+      "de la navette"
+    ],
+    "dünyadakinden": [
+      "than the one on Earth",
+      "чем на Земле",
+      "Жердегиден",
+      "مما على الأرض",
+      "que sur Terre"
+    ],
+    "farklıdır": [
+      "is different",
+      "отличается",
+      "айырмаланат",
+      "مختلف",
+      "est différent"
+    ],
+    "uzaydaki": [
+      "in space",
+      "находящийся в космосе",
+      "космостогу",
+      "الموجود في الفضاء",
+      "dans l’espace"
+    ],
+    "dünyadaki": [
+      "on Earth",
+      "находящийся на Земле",
+      "Жердеги",
+      "الموجود على الأرض",
+      "sur Terre"
+    ],
+    "poşetteki": [
+      "in the bag",
+      "находящийся в пакете",
+      "баштыктагы",
+      "الموجود في الكيس",
+      "dans le sac"
+    ],
+    "peçeteleri": [
+      "the napkins",
+      "салфетки",
+      "майлыктарды",
+      "المناديل",
+      "les serviettes"
+    ],
+    "ıslatırız": [
+      "we wet",
+      "мы смачиваем",
+      "нымдайбыз",
+      "نبلل",
+      "nous mouillons"
+    ],
+    "yiyeceklerimiz": [
+      "our food",
+      "наша еда",
+      "тамак-ашыбыз",
+      "طعامنا",
+      "nos aliments"
+    ],
+    "poşetlerin": [
+      "of the bags",
+      "пакетов",
+      "баштыктардын",
+      "للأكياس",
+      "des sacs"
+    ],
+    "içindedir": [
+      "is inside",
+      "находится внутри",
+      "ичинде",
+      "يوجد بالداخل",
+      "est à l’intérieur"
+    ],
+    "kahvaltıdan": [
+      "after/from breakfast",
+      "после завтрака",
+      "эртең мененки тамактан",
+      "من الفطور",
+      "du petit-déjeuner"
+    ],
+    "e-postalarımızı": [
+      "our emails",
+      "наши электронные письма",
+      "электрондук каттарыбызды",
+      "رسائل بريدنا الإلكتروني",
+      "nos courriels"
+    ],
+    "dünya’daki": [
+      "on Earth",
+      "на Земле",
+      "Жердеги",
+      "على الأرض",
+      "sur Terre"
+    ],
+    "ekibimizle": [
+      "with our team",
+      "с нашей командой",
+      "тобубуз менен",
+      "مع فريقنا",
+      "avec notre équipe"
+    ],
+    "toplantıda": [
+      "at the meeting",
+      "на совещании",
+      "жыйында",
+      "في الاجتماع",
+      "à la réunion"
+    ],
+    "planımızı": [
+      "our plan",
+      "наш план",
+      "планыбызды",
+      "خطتنا",
+      "notre plan"
+    ],
+    "toplantıdan": [
+      "from/after the meeting",
+      "после совещания",
+      "жыйындан",
+      "من الاجتماع",
+      "de la réunion"
+    ],
+    "çalışmalarımıza": [
+      "to our work",
+      "к нашей работе",
+      "иштерибизге",
+      "إلى أعمالنا",
+      "à nos travaux"
+    ],
+    "devam": [
+      "continuation",
+      "продолжение",
+      "улантуу",
+      "استمرار",
+      "suite"
+    ],
+    "laboratuvarda": [
+      "in the laboratory",
+      "в лаборатории",
+      "лабораторияда",
+      "في المختبر",
+      "au laboratoire"
+    ],
+    "istasyonun": [
+      "of the station",
+      "станции",
+      "станциянын",
+      "للمحطة",
+      "de la station"
+    ],
+    "parçalarını": [
+      "its parts",
+      "его детали",
+      "бөлүктөрүн",
+      "أجزاءه",
+      "ses pièces"
+    ],
+    "çıkar": [
+      "goes out",
+      "выходит",
+      "чыгат",
+      "يخرج",
+      "sort"
+    ],
+    "yemeğinden": [
+      "after/from the meal",
+      "после еды",
+      "тамактан",
+      "من الوجبة",
+      "du repas"
+    ],
+    "bilirsiniz": [
+      "you know",
+      "вы знаете",
+      "билесиз",
+      "تعرفون",
+      "vous savez"
+    ],
+    "yerçekimi": [
+      "gravity",
+      "гравитация",
+      "жердин тартылуу күчү",
+      "الجاذبية",
+      "gravité"
+    ],
+    "yoktur": [
+      "there is no",
+      "нет",
+      "жок",
+      "لا يوجد",
+      "il n’y a pas"
+    ],
+    "yerçekimsiz": [
+      "without gravity",
+      "невесомый",
+      "салмаксыз",
+      "عديم الجاذبية",
+      "sans gravité"
+    ],
+    "ortam": [
+      "environment",
+      "среда",
+      "чөйрө",
+      "بيئة",
+      "environnement"
+    ],
+    "kaslarımızı": [
+      "our muscles",
+      "наши мышцы",
+      "булчуңдарыбызды",
+      "عضلاتنا",
+      "nos muscles"
+    ],
+    "zayıflatır": [
+      "weakens",
+      "ослабляет",
+      "алсыратат",
+      "يضعف",
+      "affaiblit"
+    ],
+    "güçlendirir": [
+      "strengthens",
+      "укрепляет",
+      "чыңдайт",
+      "يقوي",
+      "renforce"
+    ],
+    "spordan": [
+      "after/from exercise",
+      "после спорта",
+      "спорттон",
+      "من الرياضة",
+      "du sport"
+    ],
+    "banyo": [
+      "bath; bathroom",
+      "ванна; ванная",
+      "жуунуу; жуунучу бөлмө",
+      "حمام؛ استحمام",
+      "bain ; salle de bains"
+    ],
+    "mekiğinde": [
+      "in the shuttle",
+      "в шаттле",
+      "чөлмөгүндө",
+      "في المكوك",
+      "dans la navette"
+    ],
+    "mekiğine": [
+      "to the shuttle",
+      "шаттлу",
+      "чөлмөгүнө",
+      "إلى المكوك",
+      "à la navette"
+    ],
+    "zarar": [
+      "damage; harm",
+      "вред",
+      "зыян",
+      "ضرر",
+      "dommage"
+    ],
+    "verebilir": [
+      "can give; may cause",
+      "может дать; может причинить",
+      "бере алат; келтириши мүмкүн",
+      "يمكن أن يعطي؛ قد يسبب",
+      "peut donner ; peut causer"
+    ],
+    "saçlarımızı": [
+      "our hair",
+      "наши волосы",
+      "чачыбызды",
+      "شعرنا",
+      "nos cheveux"
+    ],
+    "şampuanla": [
+      "with shampoo",
+      "шампунем",
+      "шампунь менен",
+      "بالشامبو",
+      "avec du shampooing"
+    ],
+    "yıkarız": [
+      "we wash",
+      "мы моем",
+      "жууйбуз",
+      "نغسل",
+      "nous lavons"
+    ],
+    "şampuan": [
+      "shampoo",
+      "шампунь",
+      "шампунь",
+      "شامبو",
+      "shampooing"
+    ],
+    "asla": [
+      "never",
+      "никогда",
+      "эч качан",
+      "أبدًا",
+      "jamais"
+    ],
+    "köpürmez": [
+      "does not foam",
+      "не пенится",
+      "көбүктөнбөйт",
+      "لا يرغي",
+      "ne mousse pas"
+    ],
+    "vücudumuzu": [
+      "our body",
+      "наше тело",
+      "денебизди",
+      "جسمنا",
+      "notre corps"
+    ],
+    "ıslak": [
+      "wet",
+      "мокрый",
+      "нымдуу",
+      "مبلل",
+      "mouillé"
+    ],
+    "sabunlu": [
+      "soapy",
+      "мыльный",
+      "самындуу",
+      "صابوني",
+      "savonneux"
+    ],
+    "havluyla": [
+      "with a towel",
+      "полотенцем",
+      "сүлгү менен",
+      "بمنشفة",
+      "avec une serviette"
+    ],
+    "dişlerimizi": [
+      "our teeth",
+      "наши зубы",
+      "тиштерибизди",
+      "أسناننا",
+      "nos dents"
+    ],
+    "macun": [
+      "paste",
+      "паста",
+      "паста",
+      "معجون",
+      "pâte"
+    ],
+    "fırçalarız": [
+      "we brush",
+      "мы чистим щёткой",
+      "щетка менен тазалайбыз",
+      "ننظف بالفرشاة",
+      "nous brossons"
+    ],
+    "fırçaladıktan": [
+      "after brushing",
+      "после чистки щёткой",
+      "щетка менен тазалагандан",
+      "بعد التنظيف بالفرشاة",
+      "après avoir brossé"
+    ],
+    "diş": [
+      "tooth",
+      "зуб",
+      "тиш",
+      "سن",
+      "dent"
+    ],
+    "macununu": [
+      "its paste",
+      "его пасту",
+      "пастасын",
+      "معجونه",
+      "sa pâte"
+    ],
+    "yutarız": [
+      "we swallow",
+      "мы проглатываем",
+      "жутабыз",
+      "نبتلع",
+      "nous avalons"
+    ],
+    "çamaşır": [
+      "laundry",
+      "бельё",
+      "кир",
+      "غسيل",
+      "linge"
+    ],
+    "tişörtlerimizi": [
+      "our T-shirts",
+      "наши футболки",
+      "футболкаларыбызды",
+      "قمصاننا القطنية",
+      "nos tee-shirts"
+    ],
+    "çoraplarımızı": [
+      "our socks",
+      "наши носки",
+      "байпактарыбызды",
+      "جواربنا",
+      "nos chaussettes"
+    ],
+    "pantolonlarımızı": [
+      "our trousers",
+      "наши брюки",
+      "шымдарыбызды",
+      "سراويلنا",
+      "nos pantalons"
+    ],
+    "kere": [
+      "time; occurrence",
+      "раз",
+      "жолу",
+      "مرة",
+      "fois"
+    ],
+    "değiştiririz": [
+      "we change",
+      "мы меняем",
+      "алмаштырабыз",
+      "نغير",
+      "nous changeons"
+    ],
+    "kıyafetlerimizi": [
+      "our clothes",
+      "нашу одежду",
+      "кийимдерибизди",
+      "ملابسنا",
+      "nos vêtements"
+    ],
+    "yıkamayız": [
+      "we do not wash",
+      "мы не стираем",
+      "жуубайбыз",
+      "لا نغسل",
+      "nous ne lavons pas"
+    ],
+    "giyer": [
+      "wears; puts on",
+      "надевает",
+      "киет",
+      "يرتدي",
+      "met ; porte"
+    ],
+    "çöpe": [
+      "into the rubbish",
+      "в мусор",
+      "таштандыга",
+      "في القمامة",
+      "à la poubelle"
+    ],
+    "atarız": [
+      "we throw",
+      "мы выбрасываем",
+      "ыргытабыз",
+      "نرمي",
+      "nous jetons"
+    ],
+    "yemekten": [
+      "after/from eating",
+      "после еды",
+      "тамактангандан",
+      "من الأكل",
+      "du repas"
+    ],
+    "okur": [
+      "reads",
+      "читает",
+      "окуйт",
+      "يقرأ",
+      "lit"
+    ],
+    "dinleriz": [
+      "we listen",
+      "мы слушаем",
+      "угабыз",
+      "نستمع",
+      "nous écoutons"
+    ],
+    "mekiğinden": [
+      "from the shuttle",
+      "из шаттла",
+      "чөлмөгүнөн",
+      "من المكوك",
+      "depuis la navette"
+    ],
+    "dünya’nın": [
+      "Earth’s",
+      "Земли",
+      "Жердин",
+      "للأرض",
+      "de la Terre"
+    ],
+    "görüntüsünü": [
+      "its view; its image",
+      "его вид; его изображение",
+      "көрүнүшүн",
+      "منظره؛ صورته",
+      "sa vue ; son image"
+    ],
+    "seyrederim": [
+      "I watch",
+      "я смотрю",
+      "көрөм",
+      "أشاهد",
+      "je regarde"
+    ],
+    "musunuz": [
+      "question particle: you (plural/polite)",
+      "вопросительная частица: вы",
+      "суроо бөлүкчөсү: сиз",
+      "أداة استفهام للمخاطب الجمع",
+      "particule interrogative : vous"
+    ],
+    "güneşin": [
+      "of the sun",
+      "солнца",
+      "күндүн",
+      "للشمس",
+      "du soleil"
+    ],
+    "doğuşunu": [
+      "its rising",
+      "его восход",
+      "чыгышын",
+      "شروقه",
+      "son lever"
+    ],
+    "batışını": [
+      "its setting",
+      "его заход",
+      "батышын",
+      "غروبه",
+      "son coucher"
+    ],
+    "seyredebiliriz": [
+      "we can watch",
+      "мы можем наблюдать",
+      "көрө алабыз",
+      "يمكننا مشاهدة",
+      "nous pouvons regarder"
+    ],
+    "çevresini": [
+      "around it; its surroundings",
+      "вокруг него; его окрестности",
+      "айланасын",
+      "محيطه",
+      "son pourtour ; ses environs"
+    ],
+    "yaklaşık": [
+      "approximately",
+      "примерно",
+      "болжол менен",
+      "حوالي",
+      "environ"
+    ],
+    "dakikada": [
+      "in a minute; per minute",
+      "за минуту; в минуту",
+      "мүнөттө",
+      "في الدقيقة",
+      "en une minute ; par minute"
+    ],
+    "dolaşır": [
+      "travels around",
+      "обходит; облетает",
+      "айланып чыгат",
+      "يدور حول",
+      "fait le tour"
+    ],
+    "erken": [
+      "early",
+      "рано",
+      "эрте",
+      "مبكرًا",
+      "tôt"
+    ],
+    "yatarız": [
+      "we go to bed",
+      "мы ложимся спать",
+      "жатабыз",
+      "ننام",
+      "nous nous couchons"
+    ],
+    "yoruluruz": [
+      "we get tired",
+      "мы устаём",
+      "чарчайбыз",
+      "نتعب",
+      "nous nous fatiguons"
+    ],
+    "yatmadan": [
+      "before going to bed; without lying down",
+      "перед сном; не ложась",
+      "жатардан мурун; жатпай",
+      "قبل النوم؛ دون الاستلقاء",
+      "avant de se coucher ; sans se coucher"
+    ],
+    "tulumlarımızı": [
+      "our sleeping bags",
+      "наши спальные мешки",
+      "уктоочу каптарыбызды",
+      "أكياس نومنا",
+      "nos sacs de couchage"
+    ],
+    "yerine": [
+      "to a place; instead of",
+      "к месту; вместо",
+      "ордуна",
+      "إلى مكانه؛ بدلًا من",
+      "à un endroit ; à la place de"
+    ],
+    "bağlarız": [
+      "we tie; attach",
+      "мы привязываем",
+      "байлайбыз",
+      "نربط",
+      "nous attachons"
+    ],
+    "tulumlarımızın": [
+      "of our sleeping bags",
+      "наших спальных мешков",
+      "уктоочу каптарыбыздын",
+      "لأكياس نومنا",
+      "de nos sacs de couchage"
+    ],
+    "içine": [
+      "into",
+      "внутрь",
+      "ичине",
+      "إلى داخل",
+      "à l’intérieur de"
+    ],
+    "girer": [
+      "enters",
+      "входит",
+      "кирет",
+      "يدخل",
+      "entre"
+    ],
+    "yaşayabilmemiz": [
+      "our being able to live",
+      "чтобы мы могли жить",
+      "жашай алышыбыз",
+      "تمكننا من العيش",
+      "le fait que nous puissions vivre"
+    ],
+    "önemlidir": [
+      "is important",
+      "важно",
+      "маанилүү",
+      "مهم",
+      "est important"
+    ],
+    "dünya’da": [
+      "on Earth",
+      "на Земле",
+      "Жерде",
+      "على الأرض",
+      "sur Terre"
+    ],
+    "tübitak": [
+      "Scientific and Technological Research Council of Türkiye",
+      "Совет по научно-техническим исследованиям Турции",
+      "Түркиянын илимий-технологиялык изилдөөлөр кеңеши",
+      "مجلس البحوث العلمية والتكنولوجية التركي",
+      "Conseil de la recherche scientifique et technologique de Turquie"
+    ],
+    "bilim": [
+      "science",
+      "наука",
+      "илим",
+      "علم",
+      "science"
+    ],
+    "çocuk": [
+      "child",
+      "ребёнок",
+      "бала",
+      "طفل",
+      "enfant"
+    ],
+    "dergisi": [
+      "magazine (in a compound)",
+      "журнал",
+      "журналы",
+      "مجلة",
+      "revue"
+    ],
+    "05.30’da": [
+      "at 05:30",
+      "в 05:30",
+      "саат 05:30да",
+      "الساعة 05:30",
+      "à 05:30"
+    ],
+    "06.30’da": [
+      "at 06:30",
+      "в 06:30",
+      "саат 06:30да",
+      "الساعة 06:30",
+      "à 06:30"
+    ],
+    "08.00’de": [
+      "at 08:00",
+      "в 08:00",
+      "саат 08:00да",
+      "الساعة 08:00",
+      "à 08:00"
+    ],
+    "18.00’de": [
+      "at 18:00",
+      "в 18:00",
+      "саат 18:00да",
+      "الساعة 18:00",
+      "à 18:00"
+    ],
+    "21.30’da": [
+      "at 21:30",
+      "в 21:30",
+      "саат 21:30да",
+      "الساعة 21:30",
+      "à 21:30"
     ]
   },
   "forms": {
@@ -4943,6 +5853,370 @@
         "Али үй тапшырмаларын кечки тамакка чейин бүтүрдү.",
         "أنهى علي واجباته المنزلية قبل العشاء.",
         "Ali a terminé ses devoirs avant le dîner."
+      ]
+    },
+    "astronotum": {
+      "lemma": "astronot",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "astronaut",
+        "космонавт",
+        "космонавт",
+        "رائد فضاء",
+        "astronaute"
+      ],
+      "formTranslations": [
+        "I am an astronaut",
+        "я космонавт",
+        "мен космонавтмын",
+        "أنا رائد فضاء",
+        "je suis astronaute"
+      ],
+      "exampleTr": "Ben bir astronotum ve uzayda çalışıyorum.",
+      "examples": [
+        "I am an astronaut and I work in space.",
+        "Я космонавт и работаю в космосе.",
+        "Мен космонавтмын жана космосто иштейм.",
+        "أنا رائد فضاء وأعمل في الفضاء.",
+        "Je suis astronaute et je travaille dans l’espace."
+      ]
+    },
+    "astronotlar": {
+      "lemma": "astronot",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "astronaut",
+        "космонавт",
+        "космонавт",
+        "رائد فضاء",
+        "astronaute"
+      ],
+      "formTranslations": [
+        "astronauts",
+        "космонавты",
+        "космонавттар",
+        "رواد الفضاء",
+        "astronautes"
+      ],
+      "exampleTr": "Astronotlar yolculuktan önce uzun süre eğitim alır.",
+      "examples": [
+        "Astronauts train for a long time before the journey.",
+        "Космонавты долго готовятся перед полётом.",
+        "Космонавттар сапарга чейин узак убакыт даярдыктан өтүшөт.",
+        "يتدرب رواد الفضاء مدة طويلة قبل الرحلة.",
+        "Les astronautes s’entraînent longtemps avant le voyage."
+      ]
+    },
+    "saatlerimiz": {
+      "lemma": "saat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hour; time",
+        "час; время",
+        "саат",
+        "ساعة؛ وقت",
+        "heure"
+      ],
+      "formTranslations": [
+        "our hours",
+        "наши часы",
+        "сааттарыбыз",
+        "ساعاتنا",
+        "nos horaires"
+      ],
+      "exampleTr": "Ders saatlerimiz pazartesi değişecek.",
+      "examples": [
+        "Our class hours will change on Monday.",
+        "В понедельник расписание наших уроков изменится.",
+        "Дүйшөмбүдө сабак сааттарыбыз өзгөрөт.",
+        "ستتغير مواعيد دروسنا يوم الاثنين.",
+        "Nos horaires de cours changeront lundi."
+      ]
+    },
+    "toplantıda": {
+      "lemma": "toplantı",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "meeting",
+        "совещание",
+        "жыйын",
+        "اجتماع",
+        "réunion"
+      ],
+      "formTranslations": [
+        "at the meeting",
+        "на совещании",
+        "жыйында",
+        "في الاجتماع",
+        "à la réunion"
+      ],
+      "exampleTr": "Toplantıda ekibimizle planımızı ve e-postalarımızı kontrol ederiz.",
+      "examples": [
+        "At the meeting, we check our plan and emails with our team.",
+        "На совещании мы с командой проверяем наш план и электронные письма.",
+        "Жыйында тобубуз менен планыбызды жана электрондук каттарыбызды текшеребиз.",
+        "في الاجتماع نراجع خطتنا ورسائل بريدنا الإلكتروني مع فريقنا.",
+        "À la réunion, nous vérifions notre plan et nos courriels avec notre équipe."
+      ]
+    },
+    "toplantıdan": {
+      "lemma": "toplantı",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "meeting",
+        "совещание",
+        "жыйын",
+        "اجتماع",
+        "réunion"
+      ],
+      "formTranslations": [
+        "from/after the meeting",
+        "после совещания",
+        "жыйындан",
+        "من الاجتماع",
+        "de la réunion"
+      ],
+      "exampleTr": "Toplantıdan sonra çalışmalarımıza devam ettik.",
+      "examples": [
+        "We continued our work after the meeting.",
+        "После совещания мы продолжили работу.",
+        "Жыйындан кийин иштерибизди уланттык.",
+        "واصلنا أعمالنا بعد الاجتماع.",
+        "Nous avons poursuivi nos travaux après la réunion."
+      ]
+    },
+    "şampuanla": {
+      "lemma": "şampuan",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "shampoo",
+        "шампунь",
+        "шампунь",
+        "شامبو",
+        "shampooing"
+      ],
+      "formTranslations": [
+        "with shampoo",
+        "шампунем",
+        "шампунь менен",
+        "بالشامبو",
+        "avec du shampooing"
+      ],
+      "exampleTr": "Saçlarımızı bu şampuanla yıkarız.",
+      "examples": [
+        "We wash our hair with this shampoo.",
+        "Мы моем волосы этим шампунем.",
+        "Чачыбызды ушул шампунь менен жууйбуз.",
+        "نغسل شعرنا بهذا الشامبو.",
+        "Nous nous lavons les cheveux avec ce shampooing."
+      ]
+    },
+    "dişlerimizi": {
+      "lemma": "diş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "tooth",
+        "зуб",
+        "тиш",
+        "سن",
+        "dent"
+      ],
+      "formTranslations": [
+        "our teeth",
+        "наши зубы",
+        "тиштерибизди",
+        "أسناننا",
+        "nos dents"
+      ],
+      "exampleTr": "Diş macununu fırçaya sürüp dişlerimizi fırçalarız.",
+      "examples": [
+        "We put toothpaste on the brush and brush our teeth.",
+        "Мы наносим пасту на щётку и чистим зубы.",
+        "Тиш пастасын щеткага сүйкөп, тиштерибизди тазалайбыз.",
+        "نضع معجون الأسنان على الفرشاة وننظف أسناننا.",
+        "Nous mettons du dentifrice sur la brosse et nous brossons les dents."
+      ]
+    },
+    "çıkar": {
+      "lemma": "çıkmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to leave; go out",
+        "выходить",
+        "чыгуу",
+        "أن يخرج",
+        "sortir"
+      ],
+      "formTranslations": [
+        "goes out",
+        "выходит",
+        "чыгат",
+        "يخرج",
+        "sort"
+      ],
+      "exampleTr": "Babam her akşam yürüyüşe çıkar.",
+      "examples": [
+        "My father goes for a walk every evening.",
+        "Мой отец каждый вечер выходит на прогулку.",
+        "Атам күн сайын кечинде сейилдөөгө чыгат.",
+        "يخرج أبي للمشي كل مساء.",
+        "Mon père sort se promener chaque soir."
+      ]
+    },
+    "yıkarız": {
+      "lemma": "yıkamak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wash",
+        "мыть",
+        "жуу",
+        "أن يغسل",
+        "laver"
+      ],
+      "formTranslations": [
+        "we wash",
+        "мы моем",
+        "жууйбуз",
+        "نغسل",
+        "nous lavons"
+      ],
+      "exampleTr": "Saçlarımızı bu şampuanla yıkarız.",
+      "examples": [
+        "We wash our hair with this shampoo.",
+        "Мы моем волосы этим шампунем.",
+        "Чачыбызды ушул шампунь менен жууйбуз.",
+        "نغسل شعرنا بهذا الشامبو.",
+        "Nous nous lavons les cheveux avec ce shampooing."
+      ]
+    },
+    "yıkamayız": {
+      "lemma": "yıkamak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wash",
+        "мыть",
+        "жуу",
+        "أن يغسل",
+        "laver"
+      ],
+      "formTranslations": [
+        "we do not wash",
+        "мы не стираем",
+        "жуубайбыз",
+        "لا نغسل",
+        "nous ne lavons pas"
+      ],
+      "exampleTr": "Renkli kıyafetleri beyazlarla birlikte yıkamayız.",
+      "examples": [
+        "We do not wash coloured clothes with whites.",
+        "Мы не стираем цветную одежду вместе с белой.",
+        "Түстүү кийимдерди ак кийимдер менен кошо жуубайбыз.",
+        "لا نغسل الملابس الملونة مع البيضاء.",
+        "Nous ne lavons pas les vêtements de couleur avec le blanc."
+      ]
+    },
+    "okur": {
+      "lemma": "okumak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to read",
+        "читать",
+        "окуу",
+        "قراءة",
+        "lire"
+      ],
+      "formTranslations": [
+        "reads",
+        "читает",
+        "окуйт",
+        "يقرأ",
+        "lit"
+      ],
+      "exampleTr": "Yemekten sonra babam kitap okur, biz müzik dinleriz.",
+      "examples": [
+        "After dinner, my father reads and we listen to music.",
+        "После ужина отец читает, а мы слушаем музыку.",
+        "Кечки тамактан кийин атам китеп окуйт, биз музыка угабыз.",
+        "بعد العشاء يقرأ أبي كتابًا ونستمع نحن إلى الموسيقى.",
+        "Après le dîner, mon père lit et nous écoutons de la musique."
+      ]
+    },
+    "yatarız": {
+      "lemma": "yatmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to go to bed",
+        "ложиться спать",
+        "уктоого жатуу",
+        "أن ينام",
+        "se coucher"
+      ],
+      "formTranslations": [
+        "we go to bed",
+        "мы ложимся спать",
+        "жатабыз",
+        "ننام",
+        "nous nous couchons"
+      ],
+      "exampleTr": "Çok yoruluruz, bu yüzden erken yatarız.",
+      "examples": [
+        "We get very tired, so we go to bed early.",
+        "Мы сильно устаём, поэтому рано ложимся спать.",
+        "Абдан чарчайбыз, ошондуктан эрте жатабыз.",
+        "نتعب كثيرًا، لذلك ننام مبكرًا.",
+        "Nous sommes très fatigués, alors nous nous couchons tôt."
+      ]
+    },
+    "yatmadan": {
+      "lemma": "yatmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to go to bed",
+        "ложиться спать",
+        "уктоого жатуу",
+        "أن ينام",
+        "se coucher"
+      ],
+      "formTranslations": [
+        "before going to bed; without lying down",
+        "перед сном; не ложась",
+        "жатардан мурун; жатпай",
+        "قبل النوم؛ دون الاستلقاء",
+        "avant de se coucher ; sans se coucher"
+      ],
+      "exampleTr": "Yatmadan önce çantamı hazırlarım.",
+      "examples": [
+        "I prepare my bag before going to bed.",
+        "Перед сном я собираю сумку.",
+        "Жатардан мурун сумкамды даярдайм.",
+        "أجهز حقيبتي قبل النوم.",
+        "Je prépare mon sac avant de me coucher."
+      ]
+    },
+    "girer": {
+      "lemma": "girmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to enter / attend",
+        "входить / посещать",
+        "кирүү / катышуу",
+        "يدخل / يحضر",
+        "entrer / assister à"
+      ],
+      "formTranslations": [
+        "enters",
+        "входит",
+        "кирет",
+        "يدخل",
+        "entre"
+      ],
+      "exampleTr": "Öğretmen sınıfa girer ve öğrencileri selamlar.",
+      "examples": [
+        "The teacher enters the classroom and greets the students.",
+        "Учитель входит в класс и приветствует учеников.",
+        "Мугалим класска кирип, окуучулар менен саламдашат.",
+        "يدخل المعلم الفصل ويحيي الطلاب.",
+        "Le professeur entre dans la classe et salue les élèves."
       ]
     }
   },
@@ -10125,6 +11399,1346 @@
         "Балдар кайда, бакчадабы?",
         "أين الأطفال، هل هم في الحديقة؟",
         "Où sont les enfants, dans le jardin ?"
+      ]
+    ],
+    "sırasında": [
+      "Toplantı sırasında telefonumu kapatırım.",
+      [
+        "I switch off my phone during meetings.",
+        "Во время совещания я выключаю телефон.",
+        "Жыйын учурунда телефонумду өчүрөм.",
+        "أغلق هاتفي أثناء الاجتماع.",
+        "J’éteins mon téléphone pendant les réunions."
+      ]
+    ],
+    "astronotum": [
+      "Ben bir astronotum ve uzayda çalışıyorum.",
+      [
+        "I am an astronaut and I work in space.",
+        "Я космонавт и работаю в космосе.",
+        "Мен космонавтмын жана космосто иштейм.",
+        "أنا رائد فضاء وأعمل في الفضاء.",
+        "Je suis astronaute et je travaille dans l’espace."
+      ]
+    ],
+    "aydır": [
+      "Üç aydır bu şehirde yaşıyorum.",
+      [
+        "I have been living in this city for three months.",
+        "Я живу в этом городе уже три месяца.",
+        "Үч айдан бери бул шаарда жашайм.",
+        "أعيش في هذه المدينة منذ ثلاثة أشهر.",
+        "J’habite dans cette ville depuis trois mois."
+      ]
+    ],
+    "epey": [
+      "Bugün epey yürüdük.",
+      [
+        "We walked quite a lot today.",
+        "Сегодня мы довольно много ходили.",
+        "Бүгүн бир топ жөө бастык.",
+        "مشينا كثيرًا اليوم.",
+        "Nous avons beaucoup marché aujourd’hui."
+      ]
+    ],
+    "fark": [
+      "İki bilet arasında fiyat farkı var.",
+      [
+        "There is a price difference between the two tickets.",
+        "Между двумя билетами есть разница в цене.",
+        "Эки билеттин баасында айырма бар.",
+        "هناك فرق في السعر بين التذكرتين.",
+        "Il y a une différence de prix entre les deux billets."
+      ]
+    ],
+    "sağlığımız": [
+      "Sağlığımız için her gün yürüyüş yaparız.",
+      [
+        "We take a walk every day for our health.",
+        "Ради здоровья мы каждый день гуляем.",
+        "Ден соолугубуз үчүн күн сайын сейилдейбиз.",
+        "نمشي كل يوم من أجل صحتنا.",
+        "Nous marchons chaque jour pour notre santé."
+      ]
+    ],
+    "planlıdır": [
+      "Gezinin her aşaması önceden planlıdır.",
+      [
+        "Every stage of the trip is planned in advance.",
+        "Каждый этап поездки заранее запланирован.",
+        "Сапардын ар бир этабы алдын ала пландалган.",
+        "كل مرحلة من الرحلة مخطط لها مسبقًا.",
+        "Chaque étape du voyage est planifiée à l’avance."
+      ]
+    ],
+    "çalışma": [
+      "Çalışma saatlerim bu hafta değişti.",
+      [
+        "My working hours changed this week.",
+        "На этой неделе мои рабочие часы изменились.",
+        "Бул жумада иштөө убактым өзгөрдү.",
+        "تغيرت ساعات عملي هذا الأسبوع.",
+        "Mes horaires de travail ont changé cette semaine."
+      ]
+    ],
+    "saatlerimiz": [
+      "Ders saatlerimiz pazartesi değişecek.",
+      [
+        "Our class hours will change on Monday.",
+        "В понедельник расписание наших уроков изменится.",
+        "Дүйшөмбүдө сабак сааттарыбыз өзгөрөт.",
+        "ستتغير مواعيد دروسنا يوم الاثنين.",
+        "Nos horaires de cours changeront lundi."
+      ]
+    ],
+    "açısından": [
+      "Bu ev ulaşım açısından çok uygun.",
+      [
+        "This house is very convenient in terms of transport.",
+        "Этот дом очень удобен с точки зрения транспорта.",
+        "Бул үй транспорт жагынан абдан ыңгайлуу.",
+        "هذا المنزل مناسب جدًا من حيث المواصلات.",
+        "Cette maison est très pratique du point de vue des transports."
+      ]
+    ],
+    "planlanır": [
+      "Haftalık işler cuma günü planlanır.",
+      [
+        "The week’s tasks are planned on Friday.",
+        "Дела на неделю планируются в пятницу.",
+        "Жумалык иштер жума күнү пландалат.",
+        "تُخطط أعمال الأسبوع يوم الجمعة.",
+        "Les tâches de la semaine sont planifiées le vendredi."
+      ]
+    ],
+    "astronotlar": [
+      "Astronotlar yolculuktan önce uzun süre eğitim alır.",
+      [
+        "Astronauts train for a long time before the journey.",
+        "Космонавты долго готовятся перед полётом.",
+        "Космонавттар сапарга чейин узак убакыт даярдыктан өтүшөт.",
+        "يتدرب رواد الفضاء مدة طويلة قبل الرحلة.",
+        "Les astronautes s’entraînent longtemps avant le voyage."
+      ]
+    ],
+    "uyuruz": [
+      "Hafta sonu biraz daha uzun uyuruz.",
+      [
+        "We sleep a little longer at the weekend.",
+        "По выходным мы спим немного дольше.",
+        "Дем алышта бир аз көбүрөөк уктайбыз.",
+        "ننام مدة أطول قليلًا في عطلة نهاية الأسبوع.",
+        "Nous dormons un peu plus longtemps le week-end."
+      ]
+    ],
+    "uyanırız": [
+      "Her sabah saat yedide uyanırız.",
+      [
+        "We wake up at seven every morning.",
+        "Каждое утро мы просыпаемся в семь.",
+        "Күн сайын эртең менен саат жетиде ойгонобуз.",
+        "نستيقظ كل صباح الساعة السابعة.",
+        "Nous nous réveillons à sept heures chaque matin."
+      ]
+    ],
+    "plastik": [
+      "Plastik şişeyi geri dönüşüm kutusuna attım.",
+      [
+        "I put the plastic bottle in the recycling bin.",
+        "Я выбросил пластиковую бутылку в контейнер для переработки.",
+        "Пластик бөтөлкөнү кайра иштетүүчү кутуга салдым.",
+        "وضعت الزجاجة البلاستيكية في حاوية إعادة التدوير.",
+        "J’ai mis la bouteille en plastique dans le bac de recyclage."
+      ]
+    ],
+    "suyla": [
+      "Sebzeleri bol suyla yıkadım.",
+      [
+        "I washed the vegetables with plenty of water.",
+        "Я промыл овощи большим количеством воды.",
+        "Жашылчаларды көп суу менен жуудум.",
+        "غسلت الخضروات بماء وفير.",
+        "J’ai lavé les légumes à grande eau."
+      ]
+    ],
+    "onunla": [
+      "Yeni komşumla tanıştım ve onunla sohbet ettim.",
+      [
+        "I met my new neighbour and chatted with them.",
+        "Я познакомился с новым соседом и побеседовал с ним.",
+        "Жаңы кошунам менен таанышып, аны менен сүйлөштүм.",
+        "تعرفت إلى جاري الجديد وتحدثت معه.",
+        "J’ai fait connaissance avec mon nouveau voisin et j’ai discuté avec lui."
+      ]
+    ],
+    "elimizi": [
+      "Yemekten önce elimizi yıkarız.",
+      [
+        "We wash our hands before eating.",
+        "Перед едой мы моем руки.",
+        "Тамактанардан мурун колубузду жууйбуз.",
+        "نغسل أيدينا قبل الأكل.",
+        "Nous nous lavons les mains avant de manger."
+      ]
+    ],
+    "yüzümüzü": [
+      "Sabah yüzümüzü soğuk suyla yıkarız.",
+      [
+        "We wash our faces with cold water in the morning.",
+        "Утром мы умываем лицо холодной водой.",
+        "Эртең менен бетибизди муздак суу менен жууйбуз.",
+        "نغسل وجوهنا بالماء البارد صباحًا.",
+        "Le matin, nous nous lavons le visage à l’eau froide."
+      ]
+    ],
+    "sileriz": [
+      "Yemekten sonra masayı sileriz.",
+      [
+        "We wipe the table after eating.",
+        "После еды мы вытираем стол.",
+        "Тамактангандан кийин үстөлдү аарчыйбыз.",
+        "نمسح الطاولة بعد الأكل.",
+        "Nous essuyons la table après le repas."
+      ]
+    ],
+    "toplantı": [
+      "Toplantı saat onda başlayacak.",
+      [
+        "The meeting will start at ten.",
+        "Совещание начнётся в десять.",
+        "Жыйын саат ондо башталат.",
+        "سيبدأ الاجتماع الساعة العاشرة.",
+        "La réunion commencera à dix heures."
+      ]
+    ],
+    "bazen": [
+      "Bazen işe yürüyerek giderim.",
+      [
+        "I sometimes walk to work.",
+        "Иногда я хожу на работу пешком.",
+        "Кээде жумушка жөө барам.",
+        "أذهب أحيانًا إلى العمل مشيًا.",
+        "Parfois, je vais au travail à pied."
+      ]
+    ],
+    "çalışırız": [
+      "Bu projede birlikte çalışırız.",
+      [
+        "We work together on this project.",
+        "Мы вместе работаем над этим проектом.",
+        "Бул долбоордо чогуу иштейбиз.",
+        "نعمل معًا في هذا المشروع.",
+        "Nous travaillons ensemble sur ce projet."
+      ]
+    ],
+    "bozuk": [
+      "Bozuk telefonu tamirciye götürdüm.",
+      [
+        "I took the broken phone to the repair shop.",
+        "Я отнёс сломанный телефон в ремонт.",
+        "Бузук телефонду оңдоочуга алып бардым.",
+        "أخذت الهاتف المعطل إلى محل التصليح.",
+        "J’ai apporté le téléphone en panne chez le réparateur."
+      ]
+    ],
+    "tamir": [
+      "Bisikletim tamir için dükkânda.",
+      [
+        "My bicycle is at the shop for repair.",
+        "Мой велосипед в мастерской на ремонте.",
+        "Велосипедим оңдоо үчүн устаканада.",
+        "دراجتي في المحل للتصليح.",
+        "Mon vélo est à l’atelier pour réparation."
+      ]
+    ],
+    "mekiğinin": [
+      "Astronot, uzay mekiğinin penceresinden Dünya’yı izliyor.",
+      [
+        "The astronaut is watching Earth through the space shuttle’s window.",
+        "Космонавт наблюдает Землю через окно космического шаттла.",
+        "Космонавт космос чөлмөгүнүн терезесинен Жерди карап жатат.",
+        "يشاهد رائد الفضاء الأرض من نافذة المكوك الفضائي.",
+        "L’astronaute regarde la Terre par la fenêtre de la navette spatiale."
+      ]
+    ],
+    "mekiğinde": [
+      "Astronot, uzay mekiğinin penceresinden Dünya’yı izliyor.",
+      [
+        "The astronaut is watching Earth through the space shuttle’s window.",
+        "Космонавт наблюдает Землю через окно космического шаттла.",
+        "Космонавт космос чөлмөгүнүн терезесинен Жерди карап жатат.",
+        "يشاهد رائد الفضاء الأرض من نافذة المكوك الفضائي.",
+        "L’astronaute regarde la Terre par la fenêtre de la navette spatiale."
+      ]
+    ],
+    "mekiğine": [
+      "Astronot, uzay mekiğinin penceresinden Dünya’yı izliyor.",
+      [
+        "The astronaut is watching Earth through the space shuttle’s window.",
+        "Космонавт наблюдает Землю через окно космического шаттла.",
+        "Космонавт космос чөлмөгүнүн терезесинен Жерди карап жатат.",
+        "يشاهد رائد الفضاء الأرض من نافذة المكوك الفضائي.",
+        "L’astronaute regarde la Terre par la fenêtre de la navette spatiale."
+      ]
+    ],
+    "mekiğinden": [
+      "Astronot, uzay mekiğinin penceresinden Dünya’yı izliyor.",
+      [
+        "The astronaut is watching Earth through the space shuttle’s window.",
+        "Космонавт наблюдает Землю через окно космического шаттла.",
+        "Космонавт космос чөлмөгүнүн терезесинен Жерди карап жатат.",
+        "يشاهد رائد الفضاء الأرض من نافذة المكوك الفضائي.",
+        "L’astronaute regarde la Terre par la fenêtre de la navette spatiale."
+      ]
+    ],
+    "dünyadakinden": [
+      "Uzaydaki yaşam dünyadakinden farklıdır.",
+      [
+        "Life in space is different from life on Earth.",
+        "Жизнь в космосе отличается от жизни на Земле.",
+        "Космостогу жашоо Жердегиден айырмаланат.",
+        "الحياة في الفضاء مختلفة عن الحياة على الأرض.",
+        "La vie dans l’espace est différente de celle sur Terre."
+      ]
+    ],
+    "uzaydaki": [
+      "Uzaydaki yaşam dünyadakinden farklıdır.",
+      [
+        "Life in space is different from life on Earth.",
+        "Жизнь в космосе отличается от жизни на Земле.",
+        "Космостогу жашоо Жердегиден айырмаланат.",
+        "الحياة في الفضاء مختلفة عن الحياة على الأرض.",
+        "La vie dans l’espace est différente de celle sur Terre."
+      ]
+    ],
+    "dünyadaki": [
+      "Uzaydaki yaşam dünyadakinden farklıdır.",
+      [
+        "Life in space is different from life on Earth.",
+        "Жизнь в космосе отличается от жизни на Земле.",
+        "Космостогу жашоо Жердегиден айырмаланат.",
+        "الحياة في الفضاء مختلفة عن الحياة على الأرض.",
+        "La vie dans l’espace est différente de celle sur Terre."
+      ]
+    ],
+    "farklıdır": [
+      "Uzaydaki yaşam dünyadakinden farklıdır.",
+      [
+        "Life in space is different from life on Earth.",
+        "Жизнь в космосе отличается от жизни на Земле.",
+        "Космостогу жашоо Жердегиден айырмаланат.",
+        "الحياة في الفضاء مختلفة عن الحياة على الأرض.",
+        "La vie dans l’espace est différente de celle sur Terre."
+      ]
+    ],
+    "poşetteki": [
+      "Poşetteki elmalar buzdolabının içindedir.",
+      [
+        "The apples in the bag are inside the refrigerator.",
+        "Яблоки в пакете находятся в холодильнике.",
+        "Баштыктагы алмалар муздаткычтын ичинде.",
+        "التفاح الموجود في الكيس داخل الثلاجة.",
+        "Les pommes dans le sac sont dans le réfrigérateur."
+      ]
+    ],
+    "poşetlerin": [
+      "Poşetteki elmalar buzdolabının içindedir.",
+      [
+        "The apples in the bag are inside the refrigerator.",
+        "Яблоки в пакете находятся в холодильнике.",
+        "Баштыктагы алмалар муздаткычтын ичинде.",
+        "التفاح الموجود في الكيس داخل الثلاجة.",
+        "Les pommes dans le sac sont dans le réfrigérateur."
+      ]
+    ],
+    "içindedir": [
+      "Poşetteki elmalar buzdolabının içindedir.",
+      [
+        "The apples in the bag are inside the refrigerator.",
+        "Яблоки в пакете находятся в холодильнике.",
+        "Баштыктагы алмалар муздаткычтын ичинде.",
+        "التفاح الموجود في الكيس داخل الثلاجة.",
+        "Les pommes dans le sac sont dans le réfrigérateur."
+      ]
+    ],
+    "peçeteleri": [
+      "Boyadan önce peçeteleri biraz ıslatırız.",
+      [
+        "We wet the napkins a little before painting.",
+        "Перед рисованием мы немного смачиваем салфетки.",
+        "Боёодон мурун майлыктарды бир аз нымдайбыз.",
+        "نبلل المناديل قليلًا قبل الرسم.",
+        "Nous mouillons un peu les serviettes avant de peindre."
+      ]
+    ],
+    "ıslatırız": [
+      "Boyadan önce peçeteleri biraz ıslatırız.",
+      [
+        "We wet the napkins a little before painting.",
+        "Перед рисованием мы немного смачиваем салфетки.",
+        "Боёодон мурун майлыктарды бир аз нымдайбыз.",
+        "نبلل المناديل قليلًا قبل الرسم.",
+        "Nous mouillons un peu les serviettes avant de peindre."
+      ]
+    ],
+    "yiyeceklerimiz": [
+      "Piknik için yiyeceklerimiz hazır.",
+      [
+        "Our food for the picnic is ready.",
+        "Наша еда для пикника готова.",
+        "Пикник үчүн тамак-ашыбыз даяр.",
+        "طعامنا للنزهة جاهز.",
+        "Nos aliments pour le pique-nique sont prêts."
+      ]
+    ],
+    "kahvaltıdan": [
+      "Kahvaltıdan sonra otobüse binerim.",
+      [
+        "I take the bus after breakfast.",
+        "После завтрака я сажусь на автобус.",
+        "Эртең мененки тамактан кийин автобуска түшөм.",
+        "أركب الحافلة بعد الفطور.",
+        "Je prends le bus après le petit-déjeuner."
+      ]
+    ],
+    "e-postalarımızı": [
+      "Toplantıda ekibimizle planımızı ve e-postalarımızı kontrol ederiz.",
+      [
+        "At the meeting, we check our plan and emails with our team.",
+        "На совещании мы с командой проверяем наш план и электронные письма.",
+        "Жыйында тобубуз менен планыбызды жана электрондук каттарыбызды текшеребиз.",
+        "في الاجتماع نراجع خطتنا ورسائل بريدنا الإلكتروني مع فريقنا.",
+        "À la réunion, nous vérifions notre plan et nos courriels avec notre équipe."
+      ]
+    ],
+    "ekibimizle": [
+      "Toplantıda ekibimizle planımızı ve e-postalarımızı kontrol ederiz.",
+      [
+        "At the meeting, we check our plan and emails with our team.",
+        "На совещании мы с командой проверяем наш план и электронные письма.",
+        "Жыйында тобубуз менен планыбызды жана электрондук каттарыбызды текшеребиз.",
+        "في الاجتماع نراجع خطتنا ورسائل بريدنا الإلكتروني مع فريقنا.",
+        "À la réunion, nous vérifions notre plan et nos courriels avec notre équipe."
+      ]
+    ],
+    "toplantıda": [
+      "Toplantıda ekibimizle planımızı ve e-postalarımızı kontrol ederiz.",
+      [
+        "At the meeting, we check our plan and emails with our team.",
+        "На совещании мы с командой проверяем наш план и электронные письма.",
+        "Жыйында тобубуз менен планыбызды жана электрондук каттарыбызды текшеребиз.",
+        "في الاجتماع نراجع خطتنا ورسائل بريدنا الإلكتروني مع فريقنا.",
+        "À la réunion, nous vérifions notre plan et nos courriels avec notre équipe."
+      ]
+    ],
+    "planımızı": [
+      "Toplantıda ekibimizle planımızı ve e-postalarımızı kontrol ederiz.",
+      [
+        "At the meeting, we check our plan and emails with our team.",
+        "На совещании мы с командой проверяем наш план и электронные письма.",
+        "Жыйында тобубуз менен планыбызды жана электрондук каттарыбызды текшеребиз.",
+        "في الاجتماع نراجع خطتنا ورسائل بريدنا الإلكتروني مع فريقنا.",
+        "À la réunion, nous vérifions notre plan et nos courriels avec notre équipe."
+      ]
+    ],
+    "toplantıdan": [
+      "Toplantıdan sonra çalışmalarımıza devam ettik.",
+      [
+        "We continued our work after the meeting.",
+        "После совещания мы продолжили работу.",
+        "Жыйындан кийин иштерибизди уланттык.",
+        "واصلنا أعمالنا بعد الاجتماع.",
+        "Nous avons poursuivi nos travaux après la réunion."
+      ]
+    ],
+    "çalışmalarımıza": [
+      "Toplantıdan sonra çalışmalarımıza devam ettik.",
+      [
+        "We continued our work after the meeting.",
+        "После совещания мы продолжили работу.",
+        "Жыйындан кийин иштерибизди уланттык.",
+        "واصلنا أعمالنا بعد الاجتماع.",
+        "Nous avons poursuivi nos travaux après la réunion."
+      ]
+    ],
+    "devam": [
+      "Toplantıdan sonra çalışmalarımıza devam ettik.",
+      [
+        "We continued our work after the meeting.",
+        "После совещания мы продолжили работу.",
+        "Жыйындан кийин иштерибизди уланттык.",
+        "واصلنا أعمالنا بعد الاجتماع.",
+        "Nous avons poursuivi nos travaux après la réunion."
+      ]
+    ],
+    "laboratuvarda": [
+      "Öğrenciler laboratuvarda basit bir deney yapıyor.",
+      [
+        "The students are doing a simple experiment in the laboratory.",
+        "Ученики проводят простой опыт в лаборатории.",
+        "Окуучулар лабораторияда жөнөкөй тажрыйба жасап жатышат.",
+        "يجري الطلاب تجربة بسيطة في المختبر.",
+        "Les élèves font une expérience simple au laboratoire."
+      ]
+    ],
+    "istasyonun": [
+      "İstasyonun kapısı saat altıda açılıyor.",
+      [
+        "The station’s door opens at six.",
+        "Дверь станции открывается в шесть.",
+        "Станциянын эшиги саат алтыда ачылат.",
+        "يفتح باب المحطة الساعة السادسة.",
+        "La porte de la station ouvre à six heures."
+      ]
+    ],
+    "parçalarını": [
+      "Usta, makinenin bozuk parçalarını değiştirdi.",
+      [
+        "The technician replaced the machine’s faulty parts.",
+        "Мастер заменил неисправные детали машины.",
+        "Уста машинанын бузук бөлүктөрүн алмаштырды.",
+        "استبدل الفني الأجزاء المعطلة من الآلة.",
+        "Le technicien a remplacé les pièces défectueuses de la machine."
+      ]
+    ],
+    "çıkar": [
+      "Babam her akşam yürüyüşe çıkar.",
+      [
+        "My father goes for a walk every evening.",
+        "Мой отец каждый вечер выходит на прогулку.",
+        "Атам күн сайын кечинде сейилдөөгө чыгат.",
+        "يخرج أبي للمشي كل مساء.",
+        "Mon père sort se promener chaque soir."
+      ]
+    ],
+    "yemeğinden": [
+      "Öğle yemeğinden sonra dinlenir, spordan sonra duş alırız.",
+      [
+        "We rest after lunch and take a shower after exercise.",
+        "После обеда мы отдыхаем, а после спорта принимаем душ.",
+        "Түшкү тамактан кийин эс алабыз, спорттон кийин душка түшөбүз.",
+        "نستريح بعد الغداء ونستحم بعد الرياضة.",
+        "Nous nous reposons après le déjeuner et prenons une douche après le sport."
+      ]
+    ],
+    "spordan": [
+      "Öğle yemeğinden sonra dinlenir, spordan sonra duş alırız.",
+      [
+        "We rest after lunch and take a shower after exercise.",
+        "После обеда мы отдыхаем, а после спорта принимаем душ.",
+        "Түшкү тамактан кийин эс алабыз, спорттон кийин душка түшөбүз.",
+        "نستريح بعد الغداء ونستحم بعد الرياضة.",
+        "Nous nous reposons après le déjeuner et prenons une douche après le sport."
+      ]
+    ],
+    "bilirsiniz": [
+      "Siz bu şehri benden daha iyi bilirsiniz.",
+      [
+        "You know this city better than I do.",
+        "Вы знаете этот город лучше меня.",
+        "Сиз бул шаарды менден жакшы билесиз.",
+        "أنتم تعرفون هذه المدينة أفضل مني.",
+        "Vous connaissez cette ville mieux que moi."
+      ]
+    ],
+    "yerçekimi": [
+      "Çocuklar müzede yerçekimsiz ortam deneyini izledi.",
+      [
+        "The children watched a zero-gravity demonstration at the museum.",
+        "Дети посмотрели в музее демонстрацию невесомости.",
+        "Балдар музейде салмаксыз чөйрөдөгү тажрыйбаны көрүштү.",
+        "شاهد الأطفال تجربة انعدام الجاذبية في المتحف.",
+        "Les enfants ont regardé une démonstration d’apesanteur au musée."
+      ]
+    ],
+    "yerçekimsiz": [
+      "Çocuklar müzede yerçekimsiz ortam deneyini izledi.",
+      [
+        "The children watched a zero-gravity demonstration at the museum.",
+        "Дети посмотрели в музее демонстрацию невесомости.",
+        "Балдар музейде салмаксыз чөйрөдөгү тажрыйбаны көрүштү.",
+        "شاهد الأطفال تجربة انعدام الجاذبية في المتحف.",
+        "Les enfants ont regardé une démonstration d’apesanteur au musée."
+      ]
+    ],
+    "ortam": [
+      "Çocuklar müzede yerçekimsiz ortam deneyini izledi.",
+      [
+        "The children watched a zero-gravity demonstration at the museum.",
+        "Дети посмотрели в музее демонстрацию невесомости.",
+        "Балдар музейде салмаксыз чөйрөдөгү тажрыйбаны көрүштү.",
+        "شاهد الأطفال تجربة انعدام الجاذبية في المتحف.",
+        "Les enfants ont regardé une démonstration d’apesanteur au musée."
+      ]
+    ],
+    "kaslarımızı": [
+      "Düzenli hareket kaslarımızı güçlendirir.",
+      [
+        "Regular physical activity strengthens our muscles.",
+        "Регулярная физическая активность укрепляет наши мышцы.",
+        "Үзгүлтүксүз кыймыл булчуңдарыбызды чыңдайт.",
+        "تقوي الحركة المنتظمة عضلاتنا.",
+        "Une activité physique régulière renforce nos muscles."
+      ]
+    ],
+    "güçlendirir": [
+      "Düzenli hareket kaslarımızı güçlendirir.",
+      [
+        "Regular physical activity strengthens our muscles.",
+        "Регулярная физическая активность укрепляет наши мышцы.",
+        "Үзгүлтүксүз кыймыл булчуңдарыбызды чыңдайт.",
+        "تقوي الحركة المنتظمة عضلاتنا.",
+        "Une activité physique régulière renforce nos muscles."
+      ]
+    ],
+    "zayıflatır": [
+      "Uzun süre hareketsiz kalmak kasları zayıflatır.",
+      [
+        "Being inactive for a long time weakens the muscles.",
+        "Длительная неподвижность ослабляет мышцы.",
+        "Узак убакыт кыймылсыз жүрүү булчуңдарды алсыратат.",
+        "يضعف البقاء دون حركة مدة طويلة العضلات.",
+        "Une longue période d’inactivité affaiblit les muscles."
+      ]
+    ],
+    "banyo": [
+      "Bu küçük evde ayrı bir banyo yoktur.",
+      [
+        "There is no separate bathroom in this small house.",
+        "В этом маленьком доме нет отдельной ванной комнаты.",
+        "Бул кичинекей үйдө өзүнчө жуунучу бөлмө жок.",
+        "لا يوجد حمام منفصل في هذا المنزل الصغير.",
+        "Il n’y a pas de salle de bains séparée dans cette petite maison."
+      ]
+    ],
+    "yoktur": [
+      "Bu küçük evde ayrı bir banyo yoktur.",
+      [
+        "There is no separate bathroom in this small house.",
+        "В этом маленьком доме нет отдельной ванной комнаты.",
+        "Бул кичинекей үйдө өзүнчө жуунучу бөлмө жок.",
+        "لا يوجد حمام منفصل في هذا المنزل الصغير.",
+        "Il n’y a pas de salle de bains séparée dans cette petite maison."
+      ]
+    ],
+    "zarar": [
+      "Sıcak su bu kumaşa zarar verebilir.",
+      [
+        "Hot water may damage this fabric.",
+        "Горячая вода может повредить эту ткань.",
+        "Ысык суу бул кездемеге зыян келтириши мүмкүн.",
+        "قد يضر الماء الساخن بهذا القماش.",
+        "L’eau chaude peut abîmer ce tissu."
+      ]
+    ],
+    "verebilir": [
+      "Sıcak su bu kumaşa zarar verebilir.",
+      [
+        "Hot water may damage this fabric.",
+        "Горячая вода может повредить эту ткань.",
+        "Ысык суу бул кездемеге зыян келтириши мүмкүн.",
+        "قد يضر الماء الساخن بهذا القماش.",
+        "L’eau chaude peut abîmer ce tissu."
+      ]
+    ],
+    "saçlarımızı": [
+      "Saçlarımızı bu şampuanla yıkarız.",
+      [
+        "We wash our hair with this shampoo.",
+        "Мы моем волосы этим шампунем.",
+        "Чачыбызды ушул шампунь менен жууйбуз.",
+        "نغسل شعرنا بهذا الشامبو.",
+        "Nous nous lavons les cheveux avec ce shampooing."
+      ]
+    ],
+    "şampuanla": [
+      "Saçlarımızı bu şampuanla yıkarız.",
+      [
+        "We wash our hair with this shampoo.",
+        "Мы моем волосы этим шампунем.",
+        "Чачыбызды ушул шампунь менен жууйбуз.",
+        "نغسل شعرنا بهذا الشامبو.",
+        "Nous nous lavons les cheveux avec ce shampooing."
+      ]
+    ],
+    "yıkarız": [
+      "Saçlarımızı bu şampuanla yıkarız.",
+      [
+        "We wash our hair with this shampoo.",
+        "Мы моем волосы этим шампунем.",
+        "Чачыбызды ушул шампунь менен жууйбуз.",
+        "نغسل شعرنا بهذا الشامبو.",
+        "Nous nous lavons les cheveux avec ce shampooing."
+      ]
+    ],
+    "şampuan": [
+      "Saçlarımızı bu şampuanla yıkarız.",
+      [
+        "We wash our hair with this shampoo.",
+        "Мы моем волосы этим шампунем.",
+        "Чачыбызды ушул шампунь менен жууйбуз.",
+        "نغسل شعرنا بهذا الشامبو.",
+        "Nous nous lavons les cheveux avec ce shampooing."
+      ]
+    ],
+    "asla": [
+      "Otobüste çantamı asla yalnız bırakmam.",
+      [
+        "I never leave my bag unattended on the bus.",
+        "Я никогда не оставляю сумку без присмотра в автобусе.",
+        "Автобуста сумкамды эч качан кароосуз калтырбайм.",
+        "لا أترك حقيبتي أبدًا دون مراقبة في الحافلة.",
+        "Je ne laisse jamais mon sac sans surveillance dans le bus."
+      ]
+    ],
+    "köpürmez": [
+      "Bu temizlik ürünü fazla köpürmez.",
+      [
+        "This cleaning product does not foam much.",
+        "Это чистящее средство не сильно пенится.",
+        "Бул тазалоочу каражат көп көбүктөнбөйт.",
+        "هذا المنظف لا يرغي كثيرًا.",
+        "Ce produit de nettoyage ne mousse pas beaucoup."
+      ]
+    ],
+    "vücudumuzu": [
+      "Vücudumuzu sabunlu suyla yıkar, temiz havluyla kurularız.",
+      [
+        "We wash our bodies with soapy water and dry ourselves with a clean towel.",
+        "Мы моем тело мыльной водой и вытираемся чистым полотенцем.",
+        "Денебизди самындуу суу менен жууп, таза сүлгү менен кургатабыз.",
+        "نغسل أجسامنا بالماء والصابون ونجففها بمنشفة نظيفة.",
+        "Nous nous lavons le corps à l’eau savonneuse et nous séchons avec une serviette propre."
+      ]
+    ],
+    "ıslak": [
+      "Islak ayakkabılarımı kapının yanında bıraktım.",
+      [
+        "I left my wet shoes by the door.",
+        "Я оставил мокрую обувь у двери.",
+        "Нымдуу бут кийимимди эшиктин жанына калтырдым.",
+        "تركت حذائي المبلل قرب الباب.",
+        "J’ai laissé mes chaussures mouillées près de la porte."
+      ]
+    ],
+    "sabunlu": [
+      "Vücudumuzu sabunlu suyla yıkar, temiz havluyla kurularız.",
+      [
+        "We wash our bodies with soapy water and dry ourselves with a clean towel.",
+        "Мы моем тело мыльной водой и вытираемся чистым полотенцем.",
+        "Денебизди самындуу суу менен жууп, таза сүлгү менен кургатабыз.",
+        "نغسل أجسامنا بالماء والصابون ونجففها بمنشفة نظيفة.",
+        "Nous nous lavons le corps à l’eau savonneuse et nous séchons avec une serviette propre."
+      ]
+    ],
+    "havluyla": [
+      "Vücudumuzu sabunlu suyla yıkar, temiz havluyla kurularız.",
+      [
+        "We wash our bodies with soapy water and dry ourselves with a clean towel.",
+        "Мы моем тело мыльной водой и вытираемся чистым полотенцем.",
+        "Денебизди самындуу суу менен жууп, таза сүлгү менен кургатабыз.",
+        "نغسل أجسامنا بالماء والصابون ونجففها بمنشفة نظيفة.",
+        "Nous nous lavons le corps à l’eau savonneuse et nous séchons avec une serviette propre."
+      ]
+    ],
+    "dişlerimizi": [
+      "Diş macununu fırçaya sürüp dişlerimizi fırçalarız.",
+      [
+        "We put toothpaste on the brush and brush our teeth.",
+        "Мы наносим пасту на щётку и чистим зубы.",
+        "Тиш пастасын щеткага сүйкөп, тиштерибизди тазалайбыз.",
+        "نضع معجون الأسنان على الفرشاة وننظف أسناننا.",
+        "Nous mettons du dentifrice sur la brosse et nous brossons les dents."
+      ]
+    ],
+    "macun": [
+      "Diş macununu fırçaya sürüp dişlerimizi fırçalarız.",
+      [
+        "We put toothpaste on the brush and brush our teeth.",
+        "Мы наносим пасту на щётку и чистим зубы.",
+        "Тиш пастасын щеткага сүйкөп, тиштерибизди тазалайбыз.",
+        "نضع معجون الأسنان على الفرشاة وننظف أسناننا.",
+        "Nous mettons du dentifrice sur la brosse et nous brossons les dents."
+      ]
+    ],
+    "fırçalarız": [
+      "Diş macununu fırçaya sürüp dişlerimizi fırçalarız.",
+      [
+        "We put toothpaste on the brush and brush our teeth.",
+        "Мы наносим пасту на щётку и чистим зубы.",
+        "Тиш пастасын щеткага сүйкөп, тиштерибизди тазалайбыз.",
+        "نضع معجون الأسنان على الفرشاة وننظف أسناننا.",
+        "Nous mettons du dentifrice sur la brosse et nous brossons les dents."
+      ]
+    ],
+    "diş": [
+      "Diş macununu fırçaya sürüp dişlerimizi fırçalarız.",
+      [
+        "We put toothpaste on the brush and brush our teeth.",
+        "Мы наносим пасту на щётку и чистим зубы.",
+        "Тиш пастасын щеткага сүйкөп, тиштерибизди тазалайбыз.",
+        "نضع معجون الأسنان على الفرشاة وننظف أسناننا.",
+        "Nous mettons du dentifrice sur la brosse et nous brossons les dents."
+      ]
+    ],
+    "macununu": [
+      "Diş macununu fırçaya sürüp dişlerimizi fırçalarız.",
+      [
+        "We put toothpaste on the brush and brush our teeth.",
+        "Мы наносим пасту на щётку и чистим зубы.",
+        "Тиш пастасын щеткага сүйкөп, тиштерибизди тазалайбыз.",
+        "نضع معجون الأسنان على الفرشاة وننظف أسناننا.",
+        "Nous mettons du dentifrice sur la brosse et nous brossons les dents."
+      ]
+    ],
+    "fırçaladıktan": [
+      "Dişlerini fırçaladıktan sonra banyodan çıktı.",
+      [
+        "He left the bathroom after brushing his teeth.",
+        "Почистив зубы, он вышел из ванной.",
+        "Тиштерин тазалагандан кийин жуунучу бөлмөдөн чыкты.",
+        "خرج من الحمام بعد تنظيف أسنانه.",
+        "Il est sorti de la salle de bains après s’être brossé les dents."
+      ]
+    ],
+    "yutarız": [
+      "Yiyecekleri iyice çiğnedikten sonra yutarız.",
+      [
+        "We swallow food after chewing it thoroughly.",
+        "Мы проглатываем пищу после тщательного пережёвывания.",
+        "Тамакты жакшылап чайнагандан кийин жутабыз.",
+        "نبتلع الطعام بعد مضغه جيدًا.",
+        "Nous avalons les aliments après les avoir bien mâchés."
+      ]
+    ],
+    "çamaşır": [
+      "Annem çamaşır makinesini çalıştırdı.",
+      [
+        "My mother switched on the washing machine.",
+        "Мама включила стиральную машину.",
+        "Апам кир жуучу машинаны иштетти.",
+        "شغلت أمي الغسالة.",
+        "Ma mère a mis la machine à laver en marche."
+      ]
+    ],
+    "tişörtlerimizi": [
+      "Tişörtlerimizi dolabın üst rafına koyduk.",
+      [
+        "We put our T-shirts on the top shelf of the wardrobe.",
+        "Мы положили футболки на верхнюю полку шкафа.",
+        "Футболкаларыбызды шкафтын үстүңкү текчесине койдук.",
+        "وضعنا قمصاننا القطنية على الرف العلوي للخزانة.",
+        "Nous avons mis nos tee-shirts sur l’étagère du haut de l’armoire."
+      ]
+    ],
+    "çoraplarımızı": [
+      "Çoraplarımızı kuruması için astık.",
+      [
+        "We hung up our socks to dry.",
+        "Мы повесили носки сушиться.",
+        "Байпактарыбызды кургатуу үчүн илип койдук.",
+        "نشرنا جواربنا لتجف.",
+        "Nous avons étendu nos chaussettes pour les faire sécher."
+      ]
+    ],
+    "pantolonlarımızı": [
+      "Pantolonlarımızı yarın terziye götüreceğiz.",
+      [
+        "We will take our trousers to the tailor tomorrow.",
+        "Завтра мы отнесём брюки портному.",
+        "Шымдарыбызды эртең тигүүчүгө алып барабыз.",
+        "سنأخذ سراويلنا إلى الخياط غدًا.",
+        "Nous apporterons nos pantalons chez le tailleur demain."
+      ]
+    ],
+    "kıyafetlerimizi": [
+      "Spor salonundan dönünce kıyafetlerimizi değiştiririz.",
+      [
+        "We change our clothes when we return from the gym.",
+        "Вернувшись из спортзала, мы меняем одежду.",
+        "Спорт залдан кайтканда кийимдерибизди алмаштырабыз.",
+        "نغير ملابسنا عند العودة من صالة الرياضة.",
+        "Nous changeons de vêtements en rentrant de la salle de sport."
+      ]
+    ],
+    "değiştiririz": [
+      "Spor salonundan dönünce kıyafetlerimizi değiştiririz.",
+      [
+        "We change our clothes when we return from the gym.",
+        "Вернувшись из спортзала, мы меняем одежду.",
+        "Спорт залдан кайтканда кийимдерибизди алмаштырабыз.",
+        "نغير ملابسنا عند العودة من صالة الرياضة.",
+        "Nous changeons de vêtements en rentrant de la salle de sport."
+      ]
+    ],
+    "kere": [
+      "Bu filmi iki kere izledim.",
+      [
+        "I have watched this film twice.",
+        "Я смотрел этот фильм два раза.",
+        "Бул тасманы эки жолу көрдүм.",
+        "شاهدت هذا الفيلم مرتين.",
+        "J’ai vu ce film deux fois."
+      ]
+    ],
+    "yıkamayız": [
+      "Renkli kıyafetleri beyazlarla birlikte yıkamayız.",
+      [
+        "We do not wash coloured clothes with whites.",
+        "Мы не стираем цветную одежду вместе с белой.",
+        "Түстүү кийимдерди ак кийимдер менен кошо жуубайбыз.",
+        "لا نغسل الملابس الملونة مع البيضاء.",
+        "Nous ne lavons pas les vêtements de couleur avec le blanc."
+      ]
+    ],
+    "giyer": [
+      "Kardeşim kışın kalın bir mont giyer.",
+      [
+        "My brother wears a thick coat in winter.",
+        "Зимой мой брат носит тёплую куртку.",
+        "Иним кышында калың күрмө киет.",
+        "يرتدي أخي معطفًا سميكًا في الشتاء.",
+        "Mon frère porte un manteau épais en hiver."
+      ]
+    ],
+    "çöpe": [
+      "Kullanılmış mendilleri çöpe atarız.",
+      [
+        "We throw used tissues in the bin.",
+        "Использованные салфетки мы выбрасываем в мусор.",
+        "Колдонулган майлыктарды таштандыга ыргытабыз.",
+        "نرمي المناديل المستعملة في القمامة.",
+        "Nous jetons les mouchoirs usagés à la poubelle."
+      ]
+    ],
+    "atarız": [
+      "Kullanılmış mendilleri çöpe atarız.",
+      [
+        "We throw used tissues in the bin.",
+        "Использованные салфетки мы выбрасываем в мусор.",
+        "Колдонулган майлыктарды таштандыга ыргытабыз.",
+        "نرمي المناديل المستعملة في القمامة.",
+        "Nous jetons les mouchoirs usagés à la poubelle."
+      ]
+    ],
+    "yemekten": [
+      "Yemekten sonra babam kitap okur, biz müzik dinleriz.",
+      [
+        "After dinner, my father reads and we listen to music.",
+        "После ужина отец читает, а мы слушаем музыку.",
+        "Кечки тамактан кийин атам китеп окуйт, биз музыка угабыз.",
+        "بعد العشاء يقرأ أبي كتابًا ونستمع نحن إلى الموسيقى.",
+        "Après le dîner, mon père lit et nous écoutons de la musique."
+      ]
+    ],
+    "okur": [
+      "Yemekten sonra babam kitap okur, biz müzik dinleriz.",
+      [
+        "After dinner, my father reads and we listen to music.",
+        "После ужина отец читает, а мы слушаем музыку.",
+        "Кечки тамактан кийин атам китеп окуйт, биз музыка угабыз.",
+        "بعد العشاء يقرأ أبي كتابًا ونستمع نحن إلى الموسيقى.",
+        "Après le dîner, mon père lit et nous écoutons de la musique."
+      ]
+    ],
+    "dinleriz": [
+      "Yemekten sonra babam kitap okur, biz müzik dinleriz.",
+      [
+        "After dinner, my father reads and we listen to music.",
+        "После ужина отец читает, а мы слушаем музыку.",
+        "Кечки тамактан кийин атам китеп окуйт, биз музыка угабыз.",
+        "بعد العشاء يقرأ أبي كتابًا ونستمع نحن إلى الموسيقى.",
+        "Après le dîner, mon père lit et nous écoutons de la musique."
+      ]
+    ],
+    "dünya’nın": [
+      "Belgeselde Dünya’nın uzaydan görüntüsünü seyrederim.",
+      [
+        "I watch a view of Earth from space in the documentary.",
+        "В документальном фильме я смотрю на Землю из космоса.",
+        "Даректүү тасмадан Жердин космостон көрүнүшүн көрөм.",
+        "أشاهد في الفيلم الوثائقي صورة الأرض من الفضاء.",
+        "Dans le documentaire, je regarde une vue de la Terre depuis l’espace."
+      ]
+    ],
+    "görüntüsünü": [
+      "Belgeselde Dünya’nın uzaydan görüntüsünü seyrederim.",
+      [
+        "I watch a view of Earth from space in the documentary.",
+        "В документальном фильме я смотрю на Землю из космоса.",
+        "Даректүү тасмадан Жердин космостон көрүнүшүн көрөм.",
+        "أشاهد في الفيلم الوثائقي صورة الأرض من الفضاء.",
+        "Dans le documentaire, je regarde une vue de la Terre depuis l’espace."
+      ]
+    ],
+    "seyrederim": [
+      "Belgeselde Dünya’nın uzaydan görüntüsünü seyrederim.",
+      [
+        "I watch a view of Earth from space in the documentary.",
+        "В документальном фильме я смотрю на Землю из космоса.",
+        "Даректүү тасмадан Жердин космостон көрүнүшүн көрөм.",
+        "أشاهد في الفيلم الوثائقي صورة الأرض من الفضاء.",
+        "Dans le documentaire, je regarde une vue de la Terre depuis l’espace."
+      ]
+    ],
+    "dünya’daki": [
+      "Dünya’daki farklı kültürleri tanımak istiyorum.",
+      [
+        "I want to learn about different cultures on Earth.",
+        "Я хочу познакомиться с разными культурами мира.",
+        "Жердеги ар түрдүү маданияттар менен таанышкым келет.",
+        "أريد التعرف إلى الثقافات المختلفة في العالم.",
+        "Je veux découvrir les différentes cultures du monde."
+      ]
+    ],
+    "dünya’da": [
+      "Dünya’da birçok farklı dil konuşuluyor.",
+      [
+        "Many different languages are spoken on Earth.",
+        "В мире говорят на множестве разных языков.",
+        "Жерде көптөгөн ар түрдүү тилдерде сүйлөшөт.",
+        "تُتحدث لغات مختلفة كثيرة في العالم.",
+        "On parle de nombreuses langues différentes dans le monde."
+      ]
+    ],
+    "musunuz": [
+      "Bu durakta otobüs bekliyor musunuz?",
+      [
+        "Are you waiting for a bus at this stop?",
+        "Вы ждёте автобус на этой остановке?",
+        "Бул аялдамада автобус күтүп жатасызбы?",
+        "هل تنتظرون الحافلة في هذا الموقف؟",
+        "Attendez-vous le bus à cet arrêt ?"
+      ]
+    ],
+    "güneşin": [
+      "Buradan güneşin doğuşunu ve batışını seyredebiliriz.",
+      [
+        "We can watch the sunrise and sunset from here.",
+        "Отсюда мы можем наблюдать восход и закат солнца.",
+        "Бул жерден күндүн чыгышын жана батышын көрө алабыз.",
+        "يمكننا مشاهدة شروق الشمس وغروبها من هنا.",
+        "D’ici, nous pouvons admirer le lever et le coucher du soleil."
+      ]
+    ],
+    "doğuşunu": [
+      "Buradan güneşin doğuşunu ve batışını seyredebiliriz.",
+      [
+        "We can watch the sunrise and sunset from here.",
+        "Отсюда мы можем наблюдать восход и закат солнца.",
+        "Бул жерден күндүн чыгышын жана батышын көрө алабыз.",
+        "يمكننا مشاهدة شروق الشمس وغروبها من هنا.",
+        "D’ici, nous pouvons admirer le lever et le coucher du soleil."
+      ]
+    ],
+    "batışını": [
+      "Buradan güneşin doğuşunu ve batışını seyredebiliriz.",
+      [
+        "We can watch the sunrise and sunset from here.",
+        "Отсюда мы можем наблюдать восход и закат солнца.",
+        "Бул жерден күндүн чыгышын жана батышын көрө алабыз.",
+        "يمكننا مشاهدة شروق الشمس وغروبها من هنا.",
+        "D’ici, nous pouvons admirer le lever et le coucher du soleil."
+      ]
+    ],
+    "seyredebiliriz": [
+      "Buradan güneşin doğuşunu ve batışını seyredebiliriz.",
+      [
+        "We can watch the sunrise and sunset from here.",
+        "Отсюда мы можем наблюдать восход и закат солнца.",
+        "Бул жерден күндүн чыгышын жана батышын көрө алабыз.",
+        "يمكننا مشاهدة شروق الشمس وغروبها من هنا.",
+        "D’ici, nous pouvons admirer le lever et le coucher du soleil."
+      ]
+    ],
+    "çevresini": [
+      "Bu otobüs şehrin çevresini yaklaşık kırk dakikada dolaşır.",
+      [
+        "This bus goes around the city in about forty minutes.",
+        "Этот автобус объезжает город примерно за сорок минут.",
+        "Бул автобус шаарды болжол менен кырк мүнөттө айланып чыгат.",
+        "تدور هذه الحافلة حول المدينة في نحو أربعين دقيقة.",
+        "Ce bus fait le tour de la ville en quarante minutes environ."
+      ]
+    ],
+    "yaklaşık": [
+      "Bu otobüs şehrin çevresini yaklaşık kırk dakikada dolaşır.",
+      [
+        "This bus goes around the city in about forty minutes.",
+        "Этот автобус объезжает город примерно за сорок минут.",
+        "Бул автобус шаарды болжол менен кырк мүнөттө айланып чыгат.",
+        "تدور هذه الحافلة حول المدينة في نحو أربعين دقيقة.",
+        "Ce bus fait le tour de la ville en quarante minutes environ."
+      ]
+    ],
+    "dakikada": [
+      "Bu otobüs şehrin çevresini yaklaşık kırk dakikada dolaşır.",
+      [
+        "This bus goes around the city in about forty minutes.",
+        "Этот автобус объезжает город примерно за сорок минут.",
+        "Бул автобус шаарды болжол менен кырк мүнөттө айланып чыгат.",
+        "تدور هذه الحافلة حول المدينة في نحو أربعين دقيقة.",
+        "Ce bus fait le tour de la ville en quarante minutes environ."
+      ]
+    ],
+    "dolaşır": [
+      "Bu otobüs şehrin çevresini yaklaşık kırk dakikada dolaşır.",
+      [
+        "This bus goes around the city in about forty minutes.",
+        "Этот автобус объезжает город примерно за сорок минут.",
+        "Бул автобус шаарды болжол менен кырк мүнөттө айланып чыгат.",
+        "تدور هذه الحافلة حول المدينة في نحو أربعين دقيقة.",
+        "Ce bus fait le tour de la ville en quarante minutes environ."
+      ]
+    ],
+    "erken": [
+      "Çok yoruluruz, bu yüzden erken yatarız.",
+      [
+        "We get very tired, so we go to bed early.",
+        "Мы сильно устаём, поэтому рано ложимся спать.",
+        "Абдан чарчайбыз, ошондуктан эрте жатабыз.",
+        "نتعب كثيرًا، لذلك ننام مبكرًا.",
+        "Nous sommes très fatigués, alors nous nous couchons tôt."
+      ]
+    ],
+    "yatarız": [
+      "Çok yoruluruz, bu yüzden erken yatarız.",
+      [
+        "We get very tired, so we go to bed early.",
+        "Мы сильно устаём, поэтому рано ложимся спать.",
+        "Абдан чарчайбыз, ошондуктан эрте жатабыз.",
+        "نتعب كثيرًا، لذلك ننام مبكرًا.",
+        "Nous sommes très fatigués, alors nous nous couchons tôt."
+      ]
+    ],
+    "yoruluruz": [
+      "Çok yoruluruz, bu yüzden erken yatarız.",
+      [
+        "We get very tired, so we go to bed early.",
+        "Мы сильно устаём, поэтому рано ложимся спать.",
+        "Абдан чарчайбыз, ошондуктан эрте жатабыз.",
+        "نتعب كثيرًا، لذلك ننام مبكرًا.",
+        "Nous sommes très fatigués, alors nous nous couchons tôt."
+      ]
+    ],
+    "yatmadan": [
+      "Yatmadan önce çantamı hazırlarım.",
+      [
+        "I prepare my bag before going to bed.",
+        "Перед сном я собираю сумку.",
+        "Жатардан мурун сумкамды даярдайм.",
+        "أجهز حقيبتي قبل النوم.",
+        "Je prépare mon sac avant de me coucher."
+      ]
+    ],
+    "tulumlarımızı": [
+      "Kamp yerine varınca uyku tulumlarımızı çadırın içine koyarız.",
+      [
+        "When we reach the campsite, we put our sleeping bags inside the tent.",
+        "Придя на место стоянки, мы кладём спальные мешки в палатку.",
+        "Лагерь турган жерге жеткенде уктоочу каптарыбызды чатырдын ичине коёбуз.",
+        "عندما نصل إلى المخيم نضع أكياس نومنا داخل الخيمة.",
+        "En arrivant au campement, nous mettons nos sacs de couchage dans la tente."
+      ]
+    ],
+    "tulumlarımızın": [
+      "Uyku tulumlarımızın fermuarlarını kapattık.",
+      [
+        "We closed the zips on our sleeping bags.",
+        "Мы застегнули молнии наших спальных мешков.",
+        "Уктоочу каптарыбыздын сыдырмаларын жаптык.",
+        "أغلقنا سحابات أكياس نومنا.",
+        "Nous avons fermé les fermetures de nos sacs de couchage."
+      ]
+    ],
+    "bağlarız": [
+      "Çadırı kurunca iplerini ağaçlara bağlarız.",
+      [
+        "After putting up the tent, we tie its ropes to trees.",
+        "Установив палатку, мы привязываем её верёвки к деревьям.",
+        "Чатырды тиккенде аркандарын бактарга байлайбыз.",
+        "بعد نصب الخيمة نربط حبالها بالأشجار.",
+        "Après avoir monté la tente, nous attachons ses cordes aux arbres."
+      ]
+    ],
+    "içine": [
+      "Kamp yerine varınca uyku tulumlarımızı çadırın içine koyarız.",
+      [
+        "When we reach the campsite, we put our sleeping bags inside the tent.",
+        "Придя на место стоянки, мы кладём спальные мешки в палатку.",
+        "Лагерь турган жерге жеткенде уктоочу каптарыбызды чатырдын ичине коёбуз.",
+        "عندما نصل إلى المخيم نضع أكياس نومنا داخل الخيمة.",
+        "En arrivant au campement, nous mettons nos sacs de couchage dans la tente."
+      ]
+    ],
+    "yerine": [
+      "Kitabı okuduktan sonra yerine koyarım.",
+      [
+        "I put the book back in its place after reading it.",
+        "Прочитав книгу, я ставлю её на место.",
+        "Китепти окугандан кийин ордуна коём.",
+        "أعيد الكتاب إلى مكانه بعد قراءته.",
+        "Je remets le livre à sa place après l’avoir lu."
+      ]
+    ],
+    "girer": [
+      "Öğretmen sınıfa girer ve öğrencileri selamlar.",
+      [
+        "The teacher enters the classroom and greets the students.",
+        "Учитель входит в класс и приветствует учеников.",
+        "Мугалим класска кирип, окуучулар менен саламдашат.",
+        "يدخل المعلم الفصل ويحيي الطلاب.",
+        "Le professeur entre dans la classe et salue les élèves."
+      ]
+    ],
+    "yaşayabilmemiz": [
+      "Birlikte yaşayabilmemiz için birbirimizi dinlememiz önemlidir.",
+      [
+        "It is important to listen to one another so we can live together.",
+        "Чтобы мы могли жить вместе, важно слушать друг друга.",
+        "Бирге жашай алышыбыз үчүн бири-бирибизди угушубуз маанилүү.",
+        "من المهم أن نستمع إلى بعضنا لكي نتمكن من العيش معًا.",
+        "Pour pouvoir vivre ensemble, il est important de nous écouter les uns les autres."
+      ]
+    ],
+    "önemlidir": [
+      "Birlikte yaşayabilmemiz için birbirimizi dinlememiz önemlidir.",
+      [
+        "It is important to listen to one another so we can live together.",
+        "Чтобы мы могли жить вместе, важно слушать друг друга.",
+        "Бирге жашай алышыбыз үчүн бири-бирибизди угушубуз маанилүү.",
+        "من المهم أن نستمع إلى بعضنا لكي نتمكن من العيش معًا.",
+        "Pour pouvoir vivre ensemble, il est important de nous écouter les uns les autres."
+      ]
+    ],
+    "bilim": [
+      "Kızım bilim dergisi okumayı seviyor.",
+      [
+        "My daughter likes reading science magazines.",
+        "Моя дочь любит читать научные журналы.",
+        "Кызым илимий журналдарды окуганды жакшы көрөт.",
+        "تحب ابنتي قراءة المجلات العلمية.",
+        "Ma fille aime lire des revues scientifiques."
+      ]
+    ],
+    "çocuk": [
+      "Kızım bilim dergisi okumayı seviyor.",
+      [
+        "My daughter likes reading science magazines.",
+        "Моя дочь любит читать научные журналы.",
+        "Кызым илимий журналдарды окуганды жакшы көрөт.",
+        "تحب ابنتي قراءة المجلات العلمية.",
+        "Ma fille aime lire des revues scientifiques."
+      ]
+    ],
+    "dergisi": [
+      "Kızım bilim dergisi okumayı seviyor.",
+      [
+        "My daughter likes reading science magazines.",
+        "Моя дочь любит читать научные журналы.",
+        "Кызым илимий журналдарды окуганды жакшы көрөт.",
+        "تحب ابنتي قراءة المجلات العلمية.",
+        "Ma fille aime lire des revues scientifiques."
+      ]
+    ],
+    "tübitak": [
+      "Okulumuzda TÜBİTAK yayınlarını inceliyoruz.",
+      [
+        "We look at TÜBİTAK publications at our school.",
+        "В нашей школе мы изучаем издания TÜBİTAK.",
+        "Мектебибизде TÜBİTAK басылмаларын карап чыгабыз.",
+        "نطالع منشورات توبيتاك في مدرستنا.",
+        "Dans notre école, nous consultons les publications de TÜBİTAK."
+      ]
+    ],
+    "altı": [
+      "Altı kişilik bir masa ayırttık.",
+      [
+        "We reserved a table for six people.",
+        "Мы забронировали стол на шесть человек.",
+        "Алты кишиге үстөл брондодук.",
+        "حجزنا طاولة لستة أشخاص.",
+        "Nous avons réservé une table pour six personnes."
+      ]
+    ],
+    "sekiz": [
+      "Otobüs sekiz dakika sonra gelecek.",
+      [
+        "The bus will arrive in eight minutes.",
+        "Автобус приедет через восемь минут.",
+        "Автобус сегиз мүнөттөн кийин келет.",
+        "ستصل الحافلة بعد ثماني دقائق.",
+        "Le bus arrivera dans huit minutes."
+      ]
+    ],
+    "yaşam": [
+      "Bu şehirde yaşam oldukça sakin.",
+      [
+        "Life in this city is quite peaceful.",
+        "Жизнь в этом городе довольно спокойная.",
+        "Бул шаарда жашоо бир топ тынч.",
+        "الحياة في هذه المدينة هادئة إلى حد كبير.",
+        "La vie dans cette ville est assez calme."
+      ]
+    ],
+    "bizim": [
+      "Bizim ev okula çok yakın.",
+      [
+        "Our house is very close to the school.",
+        "Наш дом очень близко к школе.",
+        "Биздин үй мектепке абдан жакын.",
+        "بيتنا قريب جدًا من المدرسة.",
+        "Notre maison est tout près de l’école."
+      ]
+    ],
+    "05.30’da": [
+      "Otobüs 05.30’da hareket edecek.",
+      [
+        "The bus will leave at 05:30.",
+        "Автобус отправится в 05:30.",
+        "Автобус саат 05:30да жөнөйт.",
+        "ستنطلق الحافلة الساعة 05:30.",
+        "Le bus partira à 05 h 30."
+      ]
+    ],
+    "06.30’da": [
+      "Her sabah 06.30’da uyanırım.",
+      [
+        "I wake up at 06:30 every morning.",
+        "Каждое утро я просыпаюсь в 06:30.",
+        "Күн сайын эртең менен саат 06:30да ойгоном.",
+        "أستيقظ كل صباح الساعة 06:30.",
+        "Je me réveille à 06 h 30 chaque matin."
+      ]
+    ],
+    "08.00’de": [
+      "İlk ders 08.00’de başlıyor.",
+      [
+        "The first lesson starts at 08:00.",
+        "Первый урок начинается в 08:00.",
+        "Биринчи сабак саат 08:00дө башталат.",
+        "يبدأ الدرس الأول الساعة 08:00.",
+        "Le premier cours commence à 08 h 00."
+      ]
+    ],
+    "18.00’de": [
+      "Bugün 18.00’de işten çıkacağım.",
+      [
+        "I will leave work at 18:00 today.",
+        "Сегодня я уйду с работы в 18:00.",
+        "Бүгүн жумуштан саат 18:00дө чыгам.",
+        "سأغادر العمل اليوم الساعة 18:00.",
+        "Aujourd’hui, je quitterai le travail à 18 h 00."
+      ]
+    ],
+    "21.30’da": [
+      "Film 21.30’da bitecek.",
+      [
+        "The film will end at 21:30.",
+        "Фильм закончится в 21:30.",
+        "Тасма саат 21:30да бүтөт.",
+        "سينتهي الفيلم الساعة 21:30.",
+        "Le film se terminera à 21 h 30."
       ]
     ]
   },
