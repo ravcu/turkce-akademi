@@ -119,6 +119,13 @@
       "أربعون",
       "quarante"
     ],
+    "41": [
+      "forty-one",
+      "сорок один",
+      "кырк бир",
+      "واحد وأربعون",
+      "quarante et un"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -4360,6 +4367,62 @@
       "дата",
       "تاريخ",
       "date"
+    ],
+    "emre’ye": [
+      "to Emre",
+      "Эмре",
+      "Эмреге",
+      "إلى إمرة",
+      "à Emre"
+    ],
+    "onlara": [
+      "to them",
+      "им",
+      "аларга",
+      "لهم",
+      "à eux"
+    ],
+    "yol": [
+      "road; way",
+      "дорога; путь",
+      "жол",
+      "طريق",
+      "route; chemin"
+    ],
+    "tren": [
+      "train",
+      "поезд",
+      "поезд",
+      "قطار",
+      "train"
+    ],
+    "istasyonuna": [
+      "to the station",
+      "на станцию",
+      "бекетине",
+      "إلى المحطة",
+      "à la gare"
+    ],
+    "eczaneye": [
+      "to the pharmacy",
+      "в аптеку",
+      "дарыканага",
+      "إلى الصيدلية",
+      "à la pharmacie"
+    ],
+    "spor": [
+      "sport; exercise",
+      "спорт",
+      "спорт",
+      "رياضة",
+      "sport"
+    ],
+    "salonuna": [
+      "to the hall; gym",
+      "в зал",
+      "залына",
+      "إلى الصالة",
+      "à la salle"
     ]
   },
   "phrases": {
@@ -5960,6 +6023,74 @@
         "أخبروا أصدقاءكم بخطتكم.",
         "Racontez votre programme à vos amis."
       ]
+    },
+    "tren istasyonuna": {
+      "translations": [
+        "to the train station",
+        "на железнодорожную станцию",
+        "поезд бекетине",
+        "إلى محطة القطار",
+        "à la gare"
+      ],
+      "exampleTr": "Tren istasyonuna gitmek istiyorum.",
+      "examples": [
+        "I want to go to the train station.",
+        "Я хочу добраться до железнодорожной станции.",
+        "Поезд бекетине баргым келет.",
+        "أريد الذهاب إلى محطة القطار.",
+        "Je veux aller à la gare."
+      ]
+    },
+    "spor salonuna": {
+      "translations": [
+        "to the gym",
+        "в спортзал",
+        "спорт залына",
+        "إلى الصالة الرياضية",
+        "à la salle de sport"
+      ],
+      "exampleTr": "Spor salonuna gitmek istiyorum.",
+      "examples": [
+        "I want to go to the gym.",
+        "Я хочу пойти в спортзал.",
+        "Спорт залына баргым келет.",
+        "أريد الذهاب إلى الصالة الرياضية.",
+        "Je veux aller à la salle de sport."
+      ]
+    },
+    "yolu tarif eder misin": {
+      "translations": [
+        "can you give me directions?",
+        "можешь объяснить дорогу?",
+        "жолду түшүндүрүп бере аласыңбы?",
+        "هل يمكنك أن تصف لي الطريق؟",
+        "peux-tu m'indiquer le chemin ?"
+      ],
+      "exampleTr": "Yolu tarif eder misin?",
+      "examples": [
+        "Can you give me directions?",
+        "Можешь объяснить дорогу?",
+        "Жолду түшүндүрүп бере аласыңбы?",
+        "هل يمكنك أن تصف لي الطريق؟",
+        "Peux-tu m'indiquer le chemin ?"
+      ]
+    },
+    "gitmek istiyorum": {
+      "translations": [
+        "I want to go",
+        "я хочу пойти",
+        "баргым келет",
+        "أريد أن أذهب",
+        "je veux aller"
+      ],
+      "exampleTr": "Eczaneye gitmek istiyorum.",
+      "examples": [
+        "I want to go to the pharmacy.",
+        "Я хочу пойти в аптеку.",
+        "Дарыканага баргым келет.",
+        "أريد الذهاب إلى الصيدلية.",
+        "Je veux aller à la pharmacie."
+      ]
     }
   },
   "examples": {
@@ -6131,6 +6262,16 @@
         "Кыркынчы бетти ач.",
         "افتح الصفحة الأربعين.",
         "Ouvre la page quarante."
+      ]
+    },
+    "41": {
+      "tr": "Kırk birinci sayfayı aç.",
+      "values": [
+        "Open page forty-one.",
+        "Открой сорок первую страницу.",
+        "Кырк биринчи бетти ач.",
+        "افتح الصفحة الحادية والأربعين.",
+        "Ouvre la page quarante et un."
       ]
     },
     "50": {
@@ -11861,6 +12002,96 @@
         "Датаны пландоочу дептерге жаз.",
         "اكتب التاريخ في المفكرة.",
         "Écris la date dans l'agenda."
+      ]
+    },
+    "emre’ye": {
+      "tr": "Emre'ye yolu tarif ettim.",
+      "values": [
+        "I gave Emre directions.",
+        "Я объяснил Эмре дорогу.",
+        "Эмреге жолду түшүндүрдүм.",
+        "شرحت الطريق لإمرة.",
+        "J'ai indiqué le chemin à Emre."
+      ]
+    },
+    "onlara": {
+      "tr": "Onlara adresi söyledim.",
+      "values": [
+        "I told them the address.",
+        "Я сказал им адрес.",
+        "Аларга даректи айттым.",
+        "أخبرتهم بالعنوان.",
+        "Je leur ai donné l'adresse."
+      ]
+    },
+    "yol": {
+      "tr": "Bu yol hastaneye gidiyor.",
+      "values": [
+        "This road leads to the hospital.",
+        "Эта дорога ведёт к больнице.",
+        "Бул жол ооруканага барат.",
+        "هذا الطريق يؤدي إلى المستشفى.",
+        "Cette route mène à l'hôpital."
+      ]
+    },
+    "tren": {
+      "tr": "Tren saat dokuzda kalkıyor.",
+      "values": [
+        "The train leaves at nine.",
+        "Поезд отправляется в девять.",
+        "Поезд саат тогузда жөнөйт.",
+        "ينطلق القطار الساعة التاسعة.",
+        "Le train part à neuf heures."
+      ]
+    },
+    "istasyonuna": {
+      "tr": "Tren istasyonuna nasıl giderim?",
+      "values": [
+        "How do I get to the train station?",
+        "Как добраться до железнодорожной станции?",
+        "Поезд бекетине кантип барсам болот?",
+        "كيف أصل إلى محطة القطار؟",
+        "Comment aller à la gare ?"
+      ]
+    },
+    "eczaneye": {
+      "tr": "Eczaneye ilaç almaya gidiyorum.",
+      "values": [
+        "I'm going to the pharmacy to buy medicine.",
+        "Я иду в аптеку за лекарством.",
+        "Дарыканага дары алганы бара жатам.",
+        "أذهب إلى الصيدلية لشراء دواء.",
+        "Je vais à la pharmacie acheter un médicament."
+      ]
+    },
+    "spor": {
+      "tr": "Her sabah spor yapıyorum.",
+      "values": [
+        "I exercise every morning.",
+        "Я занимаюсь спортом каждое утро.",
+        "Күн сайын эртең менен спорт менен машыгам.",
+        "أمارس الرياضة كل صباح.",
+        "Je fais du sport chaque matin."
+      ]
+    },
+    "salonuna": {
+      "tr": "Spor salonuna gidiyoruz.",
+      "values": [
+        "We're going to the gym.",
+        "Мы идём в спортзал.",
+        "Спорт залына бара жатабыз.",
+        "نذهب إلى الصالة الرياضية.",
+        "Nous allons à la salle de sport."
+      ]
+    },
+    "gitmek": {
+      "tr": "Tren istasyonuna gitmek istiyorum.",
+      "values": [
+        "I want to go to the train station.",
+        "Я хочу поехать на железнодорожную станцию.",
+        "Поезд бекетине баргым келет.",
+        "أريد الذهاب إلى محطة القطار.",
+        "Je veux aller à la gare."
       ]
     }
   },
