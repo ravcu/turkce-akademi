@@ -224,6 +224,13 @@
       "خمسون",
       "cinquante"
     ],
+    "51": [
+      "fifty-one",
+      "пятьдесят один",
+      "элүү бир",
+      "واحد وخمسون",
+      "cinquante et un"
+    ],
     "52": [
       "fifty-two",
       "пятьдесят два",
@@ -8042,6 +8049,153 @@
       "унутпагыла",
       "لا تنسوا",
       "n'oubliez pas"
+    ],
+    "video": [
+      "in the video",
+      "в видео",
+      "видеодогу",
+      "الموجود في الفيديو",
+      "dans la vidéo"
+    ],
+    "V.002": [
+      "video recording V.002",
+      "видеозапись V.002",
+      "V.002 видео жазуусу",
+      "تسجيل الفيديو V.002",
+      "vidéo V.002"
+    ],
+    "slogan": [
+      "its slogan; the slogan",
+      "его слоган; слоган",
+      "анын урааны",
+      "شعاره؛ الشعار",
+      "son slogan ; le slogan"
+    ],
+    "meydan": [
+      "in the square",
+      "на площади",
+      "аянтында",
+      "في الساحة",
+      "sur la place"
+    ],
+    "yapılmak": [
+      "was held; was done",
+      "проводился; был сделан",
+      "өткөрүлдү; жасалды",
+      "أُقيم؛ تمّ",
+      "a eu lieu ; a été fait"
+    ],
+    "sıklık": [
+      "how often; frequently",
+      "как часто; часто",
+      "канчалык көп; көп учурда",
+      "كم مرة؛ كثيرًا",
+      "à quelle fréquence ; souvent"
+    ],
+    "dikkat": [
+      "your attention",
+      "ваше внимание",
+      "көңүлүңүздү",
+      "انتباهكم",
+      "votre attention"
+    ],
+    "çekmek": [
+      "attracted; drew",
+      "привлёк",
+      "бурду; тартты",
+      "جذب؛ لفت",
+      "a attiré"
+    ],
+    "çadır": [
+      "tent",
+      "палатка",
+      "чатыр",
+      "خيمة",
+      "tente"
+    ],
+    "kurulmak": [
+      "was set up",
+      "был установлен",
+      "орнотулду; тигилди",
+      "نُصبت؛ أُنشئت",
+      "a été installé"
+    ],
+    "Avrasya": [
+      "Eurasia",
+      "Евразия",
+      "Евразия",
+      "أوراسيا",
+      "Eurasie"
+    ],
+    "gösteri": [
+      "performance; show",
+      "представление; показ",
+      "көрсөтүү; оюн-зоок",
+      "عرض",
+      "spectacle"
+    ],
+    "merkez": [
+      "at the centre",
+      "в центре",
+      "борборунда",
+      "في المركز",
+      "au centre"
+    ],
+    "biri": [
+      "one of them",
+      "один из них",
+      "алардын бирин",
+      "واحدًا منها",
+      "l'un d'eux"
+    ],
+    "at": [
+      "equestrian; on horseback",
+      "конный; верхом",
+      "атчан; ат үстүндөгү",
+      "فروسي؛ على ظهر الخيل",
+      "équestre ; à cheval"
+    ],
+    "saha": [
+      "on the field; at the arena",
+      "на поле; на арене",
+      "талаасында; аянтчасында",
+      "في الملعب؛ في الساحة",
+      "sur le terrain ; dans l'arène"
+    ],
+    "düzenlemek": [
+      "to organise",
+      "организовать",
+      "уюштуруу",
+      "تنظيم",
+      "organiser"
+    ],
+    "hayal": [
+      "imagination; dream",
+      "мечта; воображение",
+      "кыял; элес",
+      "خيال؛ حلم",
+      "rêve ; imagination"
+    ],
+    "düşünmek": [
+      "think (plural/polite imperative)",
+      "подумайте",
+      "ойлонгула",
+      "فكروا",
+      "réfléchissez"
+    ],
+    "beğenmek": [
+      "did you like; you liked",
+      "вам понравилось; вы оценили",
+      "сизге жактыбы; жактырдыңыз",
+      "هل أعجبكم؛ أعجبكم",
+      "avez-vous aimé ; vous avez aimé"
+    ],
+    "puan": [
+      "score; point",
+      "балл; оценка",
+      "упай; баа",
+      "نقطة؛ درجة",
+      "point ; note"
     ]
   },
   "phrases": {
@@ -10917,6 +11071,91 @@
         "سنلتقي في قاعة الأفراح الساعة الخامسة.",
         "Nous nous retrouverons à la salle de mariage à cinq heures."
       ]
+    },
+    "etnaspor festivali": {
+      "translations": [
+        "ethnosport festival",
+        "фестиваль этноспорта",
+        "этноспорт фестивалы",
+        "مهرجان الرياضات التراثية",
+        "festival d'ethnosport"
+      ],
+      "exampleTr": "Etnaspor Festivali'nde atlı oyunlar izledik.",
+      "examples": [
+        "We watched horseback games at the ethnosport festival.",
+        "На фестивале этноспорта мы смотрели конные игры.",
+        "Этноспорт фестивалында ат оюндарынын көрдүк.",
+        "شاهدنا ألعاب الفروسية في مهرجان الرياضات التراثية.",
+        "Nous avons assisté à des jeux équestres au festival d'ethnosport."
+      ]
+    },
+    "avrasya gösteri merkezi’nde": {
+      "translations": [
+        "at the Eurasia Performance Centre",
+        "в Евразийском выставочном центре",
+        "Евразия көрсөтүү борборунда",
+        "في مركز أوراسيا للعروض",
+        "au Centre des spectacles d'Eurasie"
+      ],
+      "exampleTr": "Avrasya Gösteri Merkezi'nde bir sergi açıldı.",
+      "examples": [
+        "An exhibition opened at the Eurasia Performance Centre.",
+        "В Евразийском выставочном центре открылась выставка.",
+        "Евразия көрсөтүү борборунда көргөзмө ачылды.",
+        "افتُتح معرض في مركز أوراسيا للعروض.",
+        "Une exposition a ouvert au Centre des spectacles d'Eurasie."
+      ]
+    },
+    "atlı spor": {
+      "translations": [
+        "equestrian sport",
+        "конный спорт",
+        "ат спорту",
+        "رياضة الفروسية",
+        "sport équestre"
+      ],
+      "exampleTr": "Atlı spor gösterilerini ailemle izledim.",
+      "examples": [
+        "I watched equestrian sports demonstrations with my family.",
+        "Я смотрел конные спортивные выступления с семьёй.",
+        "Ат спортунун көрсөтүүлөрүн үй-бүлөм менен көрдүм.",
+        "شاهدت عروض رياضة الفروسية مع عائلتي.",
+        "J'ai regardé des démonstrations de sports équestres avec ma famille."
+      ]
+    },
+    "spor sahasında": {
+      "translations": [
+        "on the sports field",
+        "на спортивной площадке",
+        "спорт аянтчасында",
+        "في الملعب الرياضي",
+        "sur le terrain de sport"
+      ],
+      "exampleTr": "Çocuklar spor sahasında oyun oynuyor.",
+      "examples": [
+        "Children are playing on the sports field.",
+        "Дети играют на спортивной площадке.",
+        "Балдар спорт аянтчасында ойноп жатышат.",
+        "يلعب الأطفال في الملعب الرياضي.",
+        "Les enfants jouent sur le terrain de sport."
+      ]
+    },
+    "dikkatinizi çekti": {
+      "translations": [
+        "caught your attention",
+        "привлекло ваше внимание",
+        "көңүлүңүздү бурду",
+        "لفت انتباهكم",
+        "a attiré votre attention"
+      ],
+      "exampleTr": "Festivalde en çok hangi gösteri dikkatinizi çekti?",
+      "examples": [
+        "Which performance caught your attention most at the festival?",
+        "Какое представление больше всего привлекло ваше внимание на фестивале?",
+        "Фестивалда кайсы көрсөтүү көңүлүңүздү көбүрөөк бурду?",
+        "أي عرض لفت انتباهكم أكثر في المهرجان؟",
+        "Quel spectacle a le plus attiré votre attention au festival ?"
+      ]
     }
   },
   "examples": {
@@ -11238,6 +11477,16 @@
         "Элүү метр бас.",
         "امشِ خمسين مترًا.",
         "Marche cinquante mètres."
+      ]
+    },
+    "51": {
+      "tr": "Kitabın elli birinci sayfasını açın.",
+      "values": [
+        "Open page fifty-one of the book.",
+        "Откройте пятьдесят первую страницу книги.",
+        "Китептин элүү биринчи бетин ачкыла.",
+        "افتحوا الصفحة الحادية والخمسين من الكتاب.",
+        "Ouvrez la page cinquante et un du livre."
       ]
     },
     "52": {
@@ -22119,6 +22368,246 @@
         "لا تنسوا كتابة التاريخ على بطاقة الدعوة.",
         "N'oubliez pas d'écrire la date sur l'invitation."
       ]
+    },
+    "izlemek": {
+      "tr": "İzleyeceğiniz video kısa ve eğlenceli.",
+      "values": [
+        "The video you will watch is short and entertaining.",
+        "Видео, которое вы посмотрите, короткое и интересное.",
+        "Сиз көрө турган видео кыска жана кызыктуу.",
+        "الفيديو الذي ستشاهدونه قصير وممتع.",
+        "La vidéo que vous allez regarder est courte et amusante."
+      ]
+    },
+    "video": {
+      "tr": "Videodaki çocuklar oyun oynuyor.",
+      "values": [
+        "The children in the video are playing.",
+        "Дети в видео играют.",
+        "Видеодогу балдар ойноп жатышат.",
+        "الأطفال في الفيديو يلعبون.",
+        "Les enfants dans la vidéo jouent."
+      ]
+    },
+    "festival": {
+      "tr": "Şehrimizde bir kültür festivali başladı.",
+      "values": [
+        "A cultural festival began in our city.",
+        "В нашем городе начался культурный фестиваль.",
+        "Шаарыбызда маданий фестиваль башталды.",
+        "بدأ مهرجان ثقافي في مدينتنا.",
+        "Un festival culturel a commencé dans notre ville."
+      ]
+    },
+    "V.002": {
+      "tr": "V.002 kodlu videoyu sınıfta izledik.",
+      "values": [
+        "We watched video V.002 in class.",
+        "Мы посмотрели видео V.002 на уроке.",
+        "Сабакта V.002 видеосун көрдүк.",
+        "شاهدنا الفيديو V.002 في الصف.",
+        "Nous avons regardé la vidéo V.002 en classe."
+      ]
+    },
+    "slogan": {
+      "tr": "Festivalin sloganı çok etkileyiciydi.",
+      "values": [
+        "The festival's slogan was very striking.",
+        "Слоган фестиваля был очень выразительным.",
+        "Фестивалдын урааны абдан таасирдүү болду.",
+        "كان شعار المهرجان مؤثرًا جدًا.",
+        "Le slogan du festival était très marquant."
+      ]
+    },
+    "meydan": {
+      "tr": "Şehrin meydanında konser düzenlendi.",
+      "values": [
+        "A concert was held in the city square.",
+        "На городской площади прошёл концерт.",
+        "Шаардын аянтында концерт өттү.",
+        "أُقيم حفل موسيقي في ساحة المدينة.",
+        "Un concert a eu lieu sur la place de la ville."
+      ]
+    },
+    "yapılmak": {
+      "tr": "Festival geçen yıl İstanbul'da yapıldı.",
+      "values": [
+        "The festival was held in Istanbul last year.",
+        "В прошлом году фестиваль проходил в Стамбуле.",
+        "Фестиваль былтыр Стамбулда өткөрүлдү.",
+        "أُقيم المهرجان العام الماضي في إسطنبول.",
+        "Le festival a eu lieu à Istanbul l'année dernière."
+      ]
+    },
+    "sıklık": {
+      "tr": "Bu festival hangi sıklıkla düzenleniyor?",
+      "values": [
+        "How often is this festival held?",
+        "Как часто проводится этот фестиваль?",
+        "Бул фестиваль канчалык көп өткөрүлөт?",
+        "كم مرة يُقام هذا المهرجان؟",
+        "À quelle fréquence ce festival est-il organisé ?"
+      ]
+    },
+    "dikkat": {
+      "tr": "Festivalde en çok ne dikkatinizi çekti?",
+      "values": [
+        "What caught your attention most at the festival?",
+        "Что больше всего привлекло ваше внимание на фестивале?",
+        "Фестивалда эмнеге көбүрөөк көңүл бурдуңуз?",
+        "ما أكثر شيء لفت انتباهكم في المهرجان؟",
+        "Qu'est-ce qui a le plus attiré votre attention au festival ?"
+      ]
+    },
+    "çekmek": {
+      "tr": "Renkli çadırlar dikkatimi çekti.",
+      "values": [
+        "The colourful tents caught my attention.",
+        "Разноцветные палатки привлекли моё внимание.",
+        "Түркүн түстүү чатырлар көңүлүмдү бурду.",
+        "لفتت الخيام الملونة انتباهي.",
+        "Les tentes colorées ont attiré mon attention."
+      ]
+    },
+    "çadır": {
+      "tr": "Festival alanına büyük bir çadır kurduk.",
+      "values": [
+        "We set up a large tent at the festival site.",
+        "Мы поставили большую палатку на территории фестиваля.",
+        "Фестивалдын аймагына чоң чатыр тиктик.",
+        "نصبنا خيمة كبيرة في موقع المهرجان.",
+        "Nous avons installé une grande tente sur le site du festival."
+      ]
+    },
+    "kurulmak": {
+      "tr": "Sahne sabah erkenden kuruldu.",
+      "values": [
+        "The stage was set up early in the morning.",
+        "Сцену установили рано утром.",
+        "Сахна эртең менен эрте орнотулду.",
+        "نُصبت المنصة في الصباح الباكر.",
+        "La scène a été installée tôt le matin."
+      ]
+    },
+    "Avrasya": {
+      "tr": "Avrasya farklı kültürleri bir araya getirir.",
+      "values": [
+        "Eurasia brings different cultures together.",
+        "Евразия объединяет разные культуры.",
+        "Евразия ар түрдүү маданияттарды бириктирет.",
+        "تجمع أوراسيا ثقافات مختلفة.",
+        "L'Eurasie rassemble différentes cultures."
+      ]
+    },
+    "gösteri": {
+      "tr": "Akşam geleneksel bir gösteri izledik.",
+      "values": [
+        "We watched a traditional performance in the evening.",
+        "Вечером мы посмотрели традиционное представление.",
+        "Кечинде салттуу көрсөтүүнү көрдүк.",
+        "شاهدنا عرضًا تقليديًا في المساء.",
+        "Le soir, nous avons assisté à un spectacle traditionnel."
+      ]
+    },
+    "merkez": {
+      "tr": "Etkinlik kültür merkezinde yapılacak.",
+      "values": [
+        "The event will take place at the cultural centre.",
+        "Мероприятие пройдёт в культурном центре.",
+        "Иш-чара маданият борборунда өтөт.",
+        "ستقام الفعالية في المركز الثقافي.",
+        "L'événement aura lieu au centre culturel."
+      ]
+    },
+    "biri": {
+      "tr": "Festivallerden birini seçip anlatın.",
+      "values": [
+        "Choose one of the festivals and describe it.",
+        "Выберите один из фестивалей и расскажите о нём.",
+        "Фестивалдардын бирин тандап айтып бергиле.",
+        "اختاروا أحد المهرجانات وتحدثوا عنه.",
+        "Choisissez l'un des festivals et présentez-le."
+      ]
+    },
+    "at": {
+      "tr": "Atlı sporları izlemek çok heyecanlı.",
+      "values": [
+        "Watching equestrian sports is very exciting.",
+        "Смотреть конные виды спорта очень интересно.",
+        "Ат оюндарынын көрүү абдан кызыктуу.",
+        "مشاهدة رياضات الفروسية ممتعة جدًا.",
+        "Regarder les sports équestres est passionnant."
+      ]
+    },
+    "saha": {
+      "tr": "Gösteri spor sahasında başladı.",
+      "values": [
+        "The performance started on the sports field.",
+        "Представление началось на спортивной площадке.",
+        "Көрсөтүү спорт аянтчасында башталды.",
+        "بدأ العرض في الملعب الرياضي.",
+        "Le spectacle a commencé sur le terrain de sport."
+      ]
+    },
+    "düzenlemek": {
+      "tr": "Okulda spor festivali düzenlemek istiyoruz.",
+      "values": [
+        "We want to organise a sports festival at school.",
+        "Мы хотим организовать спортивный фестиваль в школе.",
+        "Мектепте спорт фестивалын уюштургубуз келет.",
+        "نريد تنظيم مهرجان رياضي في المدرسة.",
+        "Nous voulons organiser un festival sportif à l'école."
+      ]
+    },
+    "istemek": {
+      "tr": "İsterseniz festivale birlikte gidebiliriz.",
+      "values": [
+        "If you like, we can go to the festival together.",
+        "Если хотите, можем пойти на фестиваль вместе.",
+        "Кааласаңыз, фестивалга чогуу барсак болот.",
+        "إذا أردتم يمكننا الذهاب إلى المهرجان معًا.",
+        "Si vous voulez, nous pouvons aller ensemble au festival."
+      ]
+    },
+    "hayal": {
+      "tr": "Bir festival hayal edin ve anlatın.",
+      "values": [
+        "Imagine a festival and describe it.",
+        "Представьте фестиваль и расскажите о нём.",
+        "Бир фестивалды элестетип айтып бергиле.",
+        "تخيلوا مهرجانًا وتحدثوا عنه.",
+        "Imaginez un festival et décrivez-le."
+      ]
+    },
+    "düşünmek": {
+      "tr": "Biraz düşünün, sonra cevap verin.",
+      "values": [
+        "Think for a moment, then answer.",
+        "Немного подумайте, затем ответьте.",
+        "Бир аз ойлонуп, анан жооп бергиле.",
+        "فكروا قليلًا ثم أجيبوا.",
+        "Réfléchissez un instant, puis répondez."
+      ]
+    },
+    "beğenmek": {
+      "tr": "Festivali beğendiniz mi?",
+      "values": [
+        "Did you enjoy the festival?",
+        "Вам понравился фестиваль?",
+        "Фестиваль сизге жактыбы?",
+        "هل أعجبكم المهرجان؟",
+        "Avez-vous aimé le festival ?"
+      ]
+    },
+    "puan": {
+      "tr": "Videoya beş üzerinden dört puan verdim.",
+      "values": [
+        "I gave the video four points out of five.",
+        "Я оценил видео на четыре балла из пяти.",
+        "Видеого бештен төрт упай бердим.",
+        "أعطيت الفيديو أربع نقاط من خمس.",
+        "J'ai donné quatre points sur cinq à la vidéo."
+      ]
     }
   },
   "forms": {
@@ -22146,6 +22635,32 @@
         "Китептин кырк тогузунчу бетин ачкыла.",
         "افتحوا الصفحة التاسعة والأربعين من الكتاب.",
         "Ouvrez la page quarante-neuf du livre."
+      ]
+    },
+    "51": {
+      "lemma": "51",
+      "lemmaTranslations": [
+        "fifty-one",
+        "пятьдесят один",
+        "элүү бир",
+        "واحد وخمسون",
+        "cinquante et un"
+      ],
+      "formTranslations": [
+        "fifty-one",
+        "пятьдесят один",
+        "элүү бир",
+        "واحد وخمسون",
+        "cinquante et un"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Kitabın elli birinci sayfasını açın.",
+      "examples": [
+        "Open page fifty-one of the book.",
+        "Откройте пятьдесят первую страницу книги.",
+        "Китептин элүү биринчи бетин ачкыла.",
+        "افتحوا الصفحة الحادية والخمسين من الكتاب.",
+        "Ouvrez la page cinquante et un du livre."
       ]
     },
     "planın": {
@@ -24772,6 +25287,942 @@
         "Менин атым Рейхан.",
         "اسمي ريحان.",
         "Je m'appelle Reyhan."
+      ]
+    },
+    "etnaspor": {
+      "lemma": "etnospor",
+      "lemmaTranslations": [
+        "ethnosport; traditional sports",
+        "этноспорт; традиционные виды спорта",
+        "этноспорт; салттуу спорт түрлөрү",
+        "الرياضات التراثية",
+        "ethnosport ; sports traditionnels"
+      ],
+      "formTranslations": [
+        "ethnosport",
+        "этноспорт",
+        "этноспорт",
+        "الرياضات التراثية",
+        "ethnosport"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Etnaspor festivalinde geleneksel oyunlar tanıtılıyor.",
+      "examples": [
+        "Traditional games are presented at the ethnosport festival.",
+        "На фестивале этноспорта представляют традиционные игры.",
+        "Этноспорт фестивалында салттуу оюндар көрсөтүлөт.",
+        "تُعرَض الألعاب التقليدية في مهرجان الرياضات التراثية.",
+        "Des jeux traditionnels sont présentés au festival d'ethnosport."
+      ]
+    },
+    "izleyeceğiniz": {
+      "lemma": "izlemek",
+      "lemmaTranslations": [
+        "to watch",
+        "смотреть",
+        "көрүү",
+        "مشاهدة",
+        "regarder"
+      ],
+      "formTranslations": [
+        "that you will watch",
+        "которое вы посмотрите",
+        "сиз көрө турган",
+        "الذي ستشاهدونه",
+        "que vous allez regarder"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "İzleyeceğiniz video kısa ve eğlenceli.",
+      "examples": [
+        "The video you will watch is short and entertaining.",
+        "Видео, которое вы посмотрите, короткое и интересное.",
+        "Сиз көрө турган видео кыска жана кызыктуу.",
+        "الفيديو الذي ستشاهدونه قصير وممتع.",
+        "La vidéo que vous allez regarder est courte et amusante."
+      ]
+    },
+    "videodaki": {
+      "lemma": "video",
+      "lemmaTranslations": [
+        "in the video",
+        "в видео",
+        "видеодогу",
+        "الموجود في الفيديو",
+        "dans la vidéo"
+      ],
+      "formTranslations": [
+        "in the video",
+        "в видео",
+        "видеодогу",
+        "الموجود في الفيديو",
+        "dans la vidéo"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Videodaki çocuklar oyun oynuyor.",
+      "examples": [
+        "The children in the video are playing.",
+        "Дети в видео играют.",
+        "Видеодогу балдар ойноп жатышат.",
+        "الأطفال في الفيديو يلعبون.",
+        "Les enfants dans la vidéo jouent."
+      ]
+    },
+    "festival": {
+      "lemma": "festival",
+      "lemmaTranslations": [
+        "festival",
+        "фестиваль",
+        "фестиваль",
+        "مهرجان",
+        "festival"
+      ],
+      "formTranslations": [
+        "festival",
+        "фестиваль",
+        "фестиваль",
+        "مهرجان",
+        "festival"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Şehrimizde bir kültür festivali başladı.",
+      "examples": [
+        "A cultural festival began in our city.",
+        "В нашем городе начался культурный фестиваль.",
+        "Шаарыбызда маданий фестиваль башталды.",
+        "بدأ مهرجان ثقافي في مدينتنا.",
+        "Un festival culturel a commencé dans notre ville."
+      ]
+    },
+    "hakkındadır": {
+      "lemma": "hakkında",
+      "lemmaTranslations": [
+        "about",
+        "о; насчёт",
+        "жөнүндө",
+        "عن",
+        "à propos de"
+      ],
+      "formTranslations": [
+        "is about",
+        "посвящён; рассказывает о",
+        "жөнүндө",
+        "يتحدث عن",
+        "porte sur"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu belgesel geleneksel sporlar hakkındadır.",
+      "examples": [
+        "This documentary is about traditional sports.",
+        "Этот документальный фильм посвящён традиционным видам спорта.",
+        "Бул даректүү тасма салттуу спорт түрлөрү жөнүндө.",
+        "يتحدث هذا الفيلم الوثائقي عن الرياضات التقليدية.",
+        "Ce documentaire porte sur les sports traditionnels."
+      ]
+    },
+    "v.002": {
+      "lemma": "V.002",
+      "lemmaTranslations": [
+        "video recording V.002",
+        "видеозапись V.002",
+        "V.002 видео жазуусу",
+        "تسجيل الفيديو V.002",
+        "vidéo V.002"
+      ],
+      "formTranslations": [
+        "video recording V.002",
+        "видеозапись V.002",
+        "V.002 видео жазуусу",
+        "تسجيل الفيديو V.002",
+        "vidéo V.002"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "V.002 kodlu videoyu sınıfta izledik.",
+      "examples": [
+        "We watched video V.002 in class.",
+        "Мы посмотрели видео V.002 на уроке.",
+        "Сабакта V.002 видеосун көрдүк.",
+        "شاهدنا الفيديو V.002 في الصف.",
+        "Nous avons regardé la vidéo V.002 en classe."
+      ]
+    },
+    "izlediğiniz": {
+      "lemma": "izlemek",
+      "lemmaTranslations": [
+        "to watch",
+        "смотреть",
+        "көрүү",
+        "مشاهدة",
+        "regarder"
+      ],
+      "formTranslations": [
+        "that you watched",
+        "которое вы посмотрели",
+        "сиз көргөн",
+        "الذي شاهدتموه",
+        "que vous avez regardé"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "İzlediğiniz filmi arkadaşınıza anlatın.",
+      "examples": [
+        "Tell your friend about the film you watched.",
+        "Расскажите другу о фильме, который вы посмотрели.",
+        "Көргөн тасмаңызды досуңузга айтып бериңиз.",
+        "أخبروا صديقكم عن الفيلم الذي شاهدتموه.",
+        "Racontez à votre ami le film que vous avez regardé."
+      ]
+    },
+    "videoya": {
+      "lemma": "video",
+      "lemmaTranslations": [
+        "in the video",
+        "в видео",
+        "видеодогу",
+        "الموجود في الفيديو",
+        "dans la vidéo"
+      ],
+      "formTranslations": [
+        "to the video",
+        "к видео",
+        "видеого",
+        "إلى الفيديو",
+        "à la vidéo"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Videoya kısa bir yorum yazdım.",
+      "examples": [
+        "I wrote a short comment on the video.",
+        "Я написал короткий комментарий к видео.",
+        "Видеого кыскача пикир жаздым.",
+        "كتبت تعليقًا قصيرًا على الفيديو.",
+        "J'ai écrit un court commentaire sur la vidéo."
+      ]
+    },
+    "festivalin": {
+      "lemma": "festival",
+      "lemmaTranslations": [
+        "festival",
+        "фестиваль",
+        "фестиваль",
+        "مهرجان",
+        "festival"
+      ],
+      "formTranslations": [
+        "of the festival",
+        "фестиваля",
+        "фестивалдын",
+        "للمهرجان",
+        "du festival"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festivalin programı internette yayımlandı.",
+      "examples": [
+        "The festival programme was published online.",
+        "Программу фестиваля опубликовали в интернете.",
+        "Фестивалдын программасы интернетке жарыяланды.",
+        "نُشر برنامج المهرجان على الإنترنت.",
+        "Le programme du festival a été publié sur Internet."
+      ]
+    },
+    "sloganı": {
+      "lemma": "slogan",
+      "lemmaTranslations": [
+        "its slogan; the slogan",
+        "его слоган; слоган",
+        "анын урааны",
+        "شعاره؛ الشعار",
+        "son slogan ; le slogan"
+      ],
+      "formTranslations": [
+        "its slogan; the slogan",
+        "его слоган; слоган",
+        "анын урааны",
+        "شعاره؛ الشعار",
+        "son slogan ; le slogan"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festivalin sloganı çok etkileyiciydi.",
+      "examples": [
+        "The festival's slogan was very striking.",
+        "Слоган фестиваля был очень выразительным.",
+        "Фестивалдын урааны абдан таасирдүү болду.",
+        "كان شعار المهرجان مؤثرًا جدًا.",
+        "Le slogan du festival était très marquant."
+      ]
+    },
+    "meydanında": {
+      "lemma": "meydan",
+      "lemmaTranslations": [
+        "in the square",
+        "на площади",
+        "аянтында",
+        "في الساحة",
+        "sur la place"
+      ],
+      "formTranslations": [
+        "in the square",
+        "на площади",
+        "аянтында",
+        "في الساحة",
+        "sur la place"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Şehrin meydanında konser düzenlendi.",
+      "examples": [
+        "A concert was held in the city square.",
+        "На городской площади прошёл концерт.",
+        "Шаардын аянтында концерт өттү.",
+        "أُقيم حفل موسيقي في ساحة المدينة.",
+        "Un concert a eu lieu sur la place de la ville."
+      ]
+    },
+    "yapıldı": {
+      "lemma": "yapılmak",
+      "lemmaTranslations": [
+        "was held; was done",
+        "проводился; был сделан",
+        "өткөрүлдү; жасалды",
+        "أُقيم؛ تمّ",
+        "a eu lieu ; a été fait"
+      ],
+      "formTranslations": [
+        "was held; was done",
+        "проводился; был сделан",
+        "өткөрүлдү; жасалды",
+        "أُقيم؛ تمّ",
+        "a eu lieu ; a été fait"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Festival geçen yıl İstanbul'da yapıldı.",
+      "examples": [
+        "The festival was held in Istanbul last year.",
+        "В прошлом году фестиваль проходил в Стамбуле.",
+        "Фестиваль былтыр Стамбулда өткөрүлдү.",
+        "أُقيم المهرجان العام الماضي في إسطنبول.",
+        "Le festival a eu lieu à Istanbul l'année dernière."
+      ]
+    },
+    "sıklıkla": {
+      "lemma": "sıklık",
+      "lemmaTranslations": [
+        "how often; frequently",
+        "как часто; часто",
+        "канчалык көп; көп учурда",
+        "كم مرة؛ كثيرًا",
+        "à quelle fréquence ; souvent"
+      ],
+      "formTranslations": [
+        "how often; frequently",
+        "как часто; часто",
+        "канчалык көп; көп учурда",
+        "كم مرة؛ كثيرًا",
+        "à quelle fréquence ; souvent"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu festival hangi sıklıkla düzenleniyor?",
+      "examples": [
+        "How often is this festival held?",
+        "Как часто проводится этот фестиваль?",
+        "Бул фестиваль канчалык көп өткөрүлөт?",
+        "كم مرة يُقام هذا المهرجان؟",
+        "À quelle fréquence ce festival est-il organisé ?"
+      ]
+    },
+    "yapılır": {
+      "lemma": "yapılmak",
+      "lemmaTranslations": [
+        "was held; was done",
+        "проводился; был сделан",
+        "өткөрүлдү; жасалды",
+        "أُقيم؛ تمّ",
+        "a eu lieu ; a été fait"
+      ],
+      "formTranslations": [
+        "is held; is done",
+        "проводится; делается",
+        "өткөрүлөт; жасалат",
+        "يُقام؛ يُفعل",
+        "a lieu ; se fait"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Bu şenlik her bahar yapılır.",
+      "examples": [
+        "This celebration is held every spring.",
+        "Этот праздник проводится каждую весну.",
+        "Бул майрам ар жазда өткөрүлөт.",
+        "يُقام هذا الاحتفال كل ربيع.",
+        "Cette fête a lieu chaque printemps."
+      ]
+    },
+    "festivalde": {
+      "lemma": "festival",
+      "lemmaTranslations": [
+        "festival",
+        "фестиваль",
+        "фестиваль",
+        "مهرجان",
+        "festival"
+      ],
+      "formTranslations": [
+        "at the festival",
+        "на фестивале",
+        "фестивалда",
+        "في المهرجان",
+        "au festival"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festivalde farklı ülkelerden misafirler vardı.",
+      "examples": [
+        "There were guests from different countries at the festival.",
+        "На фестивале были гости из разных стран.",
+        "Фестивалда ар кайсы өлкөлөрдөн коноктор болду.",
+        "كان في المهرجان ضيوف من دول مختلفة.",
+        "Il y avait des invités de différents pays au festival."
+      ]
+    },
+    "dikkatinizi": {
+      "lemma": "dikkat",
+      "lemmaTranslations": [
+        "your attention",
+        "ваше внимание",
+        "көңүлүңүздү",
+        "انتباهكم",
+        "votre attention"
+      ],
+      "formTranslations": [
+        "your attention",
+        "ваше внимание",
+        "көңүлүңүздү",
+        "انتباهكم",
+        "votre attention"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festivalde en çok ne dikkatinizi çekti?",
+      "examples": [
+        "What caught your attention most at the festival?",
+        "Что больше всего привлекло ваше внимание на фестивале?",
+        "Фестивалда эмнеге көбүрөөк көңүл бурдуңуз?",
+        "ما أكثر شيء لفت انتباهكم في المهرجان؟",
+        "Qu'est-ce qui a le plus attiré votre attention au festival ?"
+      ]
+    },
+    "çekti": {
+      "lemma": "çekmek",
+      "lemmaTranslations": [
+        "attracted; drew",
+        "привлёк",
+        "бурду; тартты",
+        "جذب؛ لفت",
+        "a attiré"
+      ],
+      "formTranslations": [
+        "attracted; drew",
+        "привлёк",
+        "бурду; тартты",
+        "جذب؛ لفت",
+        "a attiré"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Renkli çadırlar dikkatimi çekti.",
+      "examples": [
+        "The colourful tents caught my attention.",
+        "Разноцветные палатки привлекли моё внимание.",
+        "Түркүн түстүү чатырлар көңүлүмдү бурду.",
+        "لفتت الخيام الملونة انتباهي.",
+        "Les tentes colorées ont attiré mon attention."
+      ]
+    },
+    "çadır": {
+      "lemma": "çadır",
+      "lemmaTranslations": [
+        "tent",
+        "палатка",
+        "чатыр",
+        "خيمة",
+        "tente"
+      ],
+      "formTranslations": [
+        "tent",
+        "палатка",
+        "чатыр",
+        "خيمة",
+        "tente"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festival alanına büyük bir çadır kurduk.",
+      "examples": [
+        "We set up a large tent at the festival site.",
+        "Мы поставили большую палатку на территории фестиваля.",
+        "Фестивалдын аймагына чоң чатыр тиктик.",
+        "نصبنا خيمة كبيرة في موقع المهرجان.",
+        "Nous avons installé une grande tente sur le site du festival."
+      ]
+    },
+    "kuruldu": {
+      "lemma": "kurulmak",
+      "lemmaTranslations": [
+        "was set up",
+        "был установлен",
+        "орнотулду; тигилди",
+        "نُصبت؛ أُنشئت",
+        "a été installé"
+      ],
+      "formTranslations": [
+        "was set up",
+        "был установлен",
+        "орнотулду; тигилди",
+        "نُصبت؛ أُنشئت",
+        "a été installé"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Sahne sabah erkenden kuruldu.",
+      "examples": [
+        "The stage was set up early in the morning.",
+        "Сцену установили рано утром.",
+        "Сахна эртең менен эрте орнотулду.",
+        "نُصبت المنصة في الصباح الباكر.",
+        "La scène a été installée tôt le matin."
+      ]
+    },
+    "festivaller": {
+      "lemma": "festival",
+      "lemmaTranslations": [
+        "festival",
+        "фестиваль",
+        "фестиваль",
+        "مهرجان",
+        "festival"
+      ],
+      "formTranslations": [
+        "festivals",
+        "фестивали",
+        "фестивалдар",
+        "مهرجانات",
+        "festivals"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Yazın birçok şehirde festivaller düzenlenir.",
+      "examples": [
+        "Festivals are held in many cities in summer.",
+        "Летом во многих городах проходят фестивали.",
+        "Жайында көптөгөн шаарларда фестивалдар өтөт.",
+        "تُقام مهرجانات في مدن كثيرة صيفًا.",
+        "En été, des festivals ont lieu dans de nombreuses villes."
+      ]
+    },
+    "vardır": {
+      "lemma": "var",
+      "lemmaTranslations": [
+        "there is; have",
+        "есть; имеется",
+        "бар",
+        "يوجد؛ لديّ",
+        "il y a"
+      ],
+      "formTranslations": [
+        "there are; there is",
+        "есть; имеются",
+        "бар",
+        "يوجد",
+        "il y a"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Ülkemizde birçok geleneksel spor vardır.",
+      "examples": [
+        "There are many traditional sports in our country.",
+        "В нашей стране есть много традиционных видов спорта.",
+        "Өлкөбүздө көптөгөн салттуу спорт түрлөрү бар.",
+        "توجد رياضات تقليدية كثيرة في بلدنا.",
+        "Il existe de nombreux sports traditionnels dans notre pays."
+      ]
+    },
+    "avrasya": {
+      "lemma": "Avrasya",
+      "lemmaTranslations": [
+        "Eurasia",
+        "Евразия",
+        "Евразия",
+        "أوراسيا",
+        "Eurasie"
+      ],
+      "formTranslations": [
+        "Eurasia",
+        "Евразия",
+        "Евразия",
+        "أوراسيا",
+        "Eurasie"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Avrasya farklı kültürleri bir araya getirir.",
+      "examples": [
+        "Eurasia brings different cultures together.",
+        "Евразия объединяет разные культуры.",
+        "Евразия ар түрдүү маданияттарды бириктирет.",
+        "تجمع أوراسيا ثقافات مختلفة.",
+        "L'Eurasie rassemble différentes cultures."
+      ]
+    },
+    "gösteri": {
+      "lemma": "gösteri",
+      "lemmaTranslations": [
+        "performance; show",
+        "представление; показ",
+        "көрсөтүү; оюн-зоок",
+        "عرض",
+        "spectacle"
+      ],
+      "formTranslations": [
+        "performance; show",
+        "представление; показ",
+        "көрсөтүү; оюн-зоок",
+        "عرض",
+        "spectacle"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Akşam geleneksel bir gösteri izledik.",
+      "examples": [
+        "We watched a traditional performance in the evening.",
+        "Вечером мы посмотрели традиционное представление.",
+        "Кечинде салттуу көрсөтүүнү көрдүк.",
+        "شاهدنا عرضًا تقليديًا في المساء.",
+        "Le soir, nous avons assisté à un spectacle traditionnel."
+      ]
+    },
+    "merkezi’nde": {
+      "lemma": "merkez",
+      "lemmaTranslations": [
+        "at the centre",
+        "в центре",
+        "борборунда",
+        "في المركز",
+        "au centre"
+      ],
+      "formTranslations": [
+        "at the centre",
+        "в центре",
+        "борборунда",
+        "في المركز",
+        "au centre"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Etkinlik kültür merkezinde yapılacak.",
+      "examples": [
+        "The event will take place at the cultural centre.",
+        "Мероприятие пройдёт в культурном центре.",
+        "Иш-чара маданият борборунда өтөт.",
+        "ستقام الفعالية في المركز الثقافي.",
+        "L'événement aura lieu au centre culturel."
+      ]
+    },
+    "birini": {
+      "lemma": "biri",
+      "lemmaTranslations": [
+        "one of them",
+        "один из них",
+        "алардын бирин",
+        "واحدًا منها",
+        "l'un d'eux"
+      ],
+      "formTranslations": [
+        "one of them",
+        "один из них",
+        "алардын бирин",
+        "واحدًا منها",
+        "l'un d'eux"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festivallerden birini seçip anlatın.",
+      "examples": [
+        "Choose one of the festivals and describe it.",
+        "Выберите один из фестивалей и расскажите о нём.",
+        "Фестивалдардын бирин тандап айтып бергиле.",
+        "اختاروا أحد المهرجانات وتحدثوا عنه.",
+        "Choisissez l'un des festivals et présentez-le."
+      ]
+    },
+    "yapılıyor": {
+      "lemma": "yapılmak",
+      "lemmaTranslations": [
+        "was held; was done",
+        "проводился; был сделан",
+        "өткөрүлдү; жасалды",
+        "أُقيم؛ تمّ",
+        "a eu lieu ; a été fait"
+      ],
+      "formTranslations": [
+        "is being held; is being done",
+        "проводится; делается",
+        "өткөрүлүп жатат",
+        "يُقام الآن؛ يُنفّذ",
+        "est organisé ; se fait"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Meydanda bir konser yapılıyor.",
+      "examples": [
+        "A concert is taking place in the square.",
+        "На площади проходит концерт.",
+        "Аянтта концерт өтүп жатат.",
+        "تُقام حفلة موسيقية في الساحة.",
+        "Un concert est organisé sur la place."
+      ]
+    },
+    "atlı": {
+      "lemma": "at",
+      "lemmaTranslations": [
+        "equestrian; on horseback",
+        "конный; верхом",
+        "атчан; ат үстүндөгү",
+        "فروسي؛ على ظهر الخيل",
+        "équestre ; à cheval"
+      ],
+      "formTranslations": [
+        "equestrian; on horseback",
+        "конный; верхом",
+        "атчан; ат үстүндөгү",
+        "فروسي؛ على ظهر الخيل",
+        "équestre ; à cheval"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Atlı sporları izlemek çok heyecanlı.",
+      "examples": [
+        "Watching equestrian sports is very exciting.",
+        "Смотреть конные виды спорта очень интересно.",
+        "Ат оюндарынын көрүү абдан кызыктуу.",
+        "مشاهدة رياضات الفروسية ممتعة جدًا.",
+        "Regarder les sports équestres est passionnant."
+      ]
+    },
+    "sahasında": {
+      "lemma": "saha",
+      "lemmaTranslations": [
+        "on the field; at the arena",
+        "на поле; на арене",
+        "талаасында; аянтчасында",
+        "في الملعب؛ في الساحة",
+        "sur le terrain ; dans l'arène"
+      ],
+      "formTranslations": [
+        "on the field; at the arena",
+        "на поле; на арене",
+        "талаасында; аянтчасында",
+        "في الملعب؛ في الساحة",
+        "sur le terrain ; dans l'arène"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Gösteri spor sahasında başladı.",
+      "examples": [
+        "The performance started on the sports field.",
+        "Представление началось на спортивной площадке.",
+        "Көрсөтүү спорт аянтчасында башталды.",
+        "بدأ العرض في الملعب الرياضي.",
+        "Le spectacle a commencé sur le terrain de sport."
+      ]
+    },
+    "gösteriler": {
+      "lemma": "gösteri",
+      "lemmaTranslations": [
+        "performance; show",
+        "представление; показ",
+        "көрсөтүү; оюн-зоок",
+        "عرض",
+        "spectacle"
+      ],
+      "formTranslations": [
+        "performances; shows",
+        "представления",
+        "көрсөтүүлөр",
+        "عروض",
+        "spectacles"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Festivalde renkli gösteriler vardı.",
+      "examples": [
+        "There were colourful performances at the festival.",
+        "На фестивале были яркие представления.",
+        "Фестивалда кызыктуу көрсөтүүлөр болду.",
+        "كانت هناك عروض مبهجة في المهرجان.",
+        "Il y avait des spectacles hauts en couleur au festival."
+      ]
+    },
+    "düzenlemek": {
+      "lemma": "düzenlemek",
+      "lemmaTranslations": [
+        "to organise",
+        "организовать",
+        "уюштуруу",
+        "تنظيم",
+        "organiser"
+      ],
+      "formTranslations": [
+        "to organise",
+        "организовать",
+        "уюштуруу",
+        "تنظيم",
+        "organiser"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Okulda spor festivali düzenlemek istiyoruz.",
+      "examples": [
+        "We want to organise a sports festival at school.",
+        "Мы хотим организовать спортивный фестиваль в школе.",
+        "Мектепте спорт фестивалын уюштургубуз келет.",
+        "نريد تنظيم مهرجان رياضي في المدرسة.",
+        "Nous voulons organiser un festival sportif à l'école."
+      ]
+    },
+    "isterseniz": {
+      "lemma": "istemek",
+      "lemmaTranslations": [
+        "to request; want",
+        "просить; хотеть",
+        "суроо; каалоо",
+        "طلب",
+        "demander"
+      ],
+      "formTranslations": [
+        "if you want (plural/polite)",
+        "если хотите",
+        "кааласаңыз",
+        "إذا أردتم",
+        "si vous voulez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "İsterseniz festivale birlikte gidebiliriz.",
+      "examples": [
+        "If you like, we can go to the festival together.",
+        "Если хотите, можем пойти на фестиваль вместе.",
+        "Кааласаңыз, фестивалга чогуу барсак болот.",
+        "إذا أردتم يمكننا الذهاب إلى المهرجان معًا.",
+        "Si vous voulez, nous pouvons aller ensemble au festival."
+      ]
+    },
+    "hayal": {
+      "lemma": "hayal",
+      "lemmaTranslations": [
+        "imagination; dream",
+        "мечта; воображение",
+        "кыял; элес",
+        "خيال؛ حلم",
+        "rêve ; imagination"
+      ],
+      "formTranslations": [
+        "imagination; dream",
+        "мечта; воображение",
+        "кыял; элес",
+        "خيال؛ حلم",
+        "rêve ; imagination"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bir festival hayal edin ve anlatın.",
+      "examples": [
+        "Imagine a festival and describe it.",
+        "Представьте фестиваль и расскажите о нём.",
+        "Бир фестивалды элестетип айтып бергиле.",
+        "تخيلوا مهرجانًا وتحدثوا عنه.",
+        "Imaginez un festival et décrivez-le."
+      ]
+    },
+    "düşünün": {
+      "lemma": "düşünmek",
+      "lemmaTranslations": [
+        "think (plural/polite imperative)",
+        "подумайте",
+        "ойлонгула",
+        "فكروا",
+        "réfléchissez"
+      ],
+      "formTranslations": [
+        "think (plural/polite imperative)",
+        "подумайте",
+        "ойлонгула",
+        "فكروا",
+        "réfléchissez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Biraz düşünün, sonra cevap verin.",
+      "examples": [
+        "Think for a moment, then answer.",
+        "Немного подумайте, затем ответьте.",
+        "Бир аз ойлонуп, анан жооп бергиле.",
+        "فكروا قليلًا ثم أجيبوا.",
+        "Réfléchissez un instant, puis répondez."
+      ]
+    },
+    "videoyu": {
+      "lemma": "video",
+      "lemmaTranslations": [
+        "in the video",
+        "в видео",
+        "видеодогу",
+        "الموجود في الفيديو",
+        "dans la vidéo"
+      ],
+      "formTranslations": [
+        "the video (object)",
+        "видео (винительный падеж)",
+        "видеону",
+        "الفيديو (مفعول به)",
+        "la vidéo"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Videoyu akşam tekrar izledim.",
+      "examples": [
+        "I watched the video again in the evening.",
+        "Вечером я снова посмотрел видео.",
+        "Кечинде видеону кайра көрдүм.",
+        "شاهدت الفيديو مرة أخرى مساءً.",
+        "J'ai regardé la vidéo de nouveau le soir."
+      ]
+    },
+    "beğendiniz": {
+      "lemma": "beğenmek",
+      "lemmaTranslations": [
+        "did you like; you liked",
+        "вам понравилось; вы оценили",
+        "сизге жактыбы; жактырдыңыз",
+        "هل أعجبكم؛ أعجبكم",
+        "avez-vous aimé ; vous avez aimé"
+      ],
+      "formTranslations": [
+        "did you like; you liked",
+        "вам понравилось; вы оценили",
+        "сизге жактыбы; жактырдыңыз",
+        "هل أعجبكم؛ أعجبكم",
+        "avez-vous aimé ; vous avez aimé"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Festivali beğendiniz mi?",
+      "examples": [
+        "Did you enjoy the festival?",
+        "Вам понравился фестиваль?",
+        "Фестиваль сизге жактыбы?",
+        "هل أعجبكم المهرجان؟",
+        "Avez-vous aimé le festival ?"
+      ]
+    },
+    "puan": {
+      "lemma": "puan",
+      "lemmaTranslations": [
+        "score; point",
+        "балл; оценка",
+        "упай; баа",
+        "نقطة؛ درجة",
+        "point ; note"
+      ],
+      "formTranslations": [
+        "score; point",
+        "балл; оценка",
+        "упай; баа",
+        "نقطة؛ درجة",
+        "point ; note"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Videoya beş üzerinden dört puan verdim.",
+      "examples": [
+        "I gave the video four points out of five.",
+        "Я оценил видео на четыре балла из пяти.",
+        "Видеого бештен төрт упай бердим.",
+        "أعطيت الفيديو أربع نقاط من خمس.",
+        "J'ai donné quatre points sur cinq à la vidéo."
       ]
     }
   },
