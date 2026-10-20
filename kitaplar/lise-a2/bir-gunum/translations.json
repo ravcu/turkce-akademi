@@ -2930,7 +2930,7 @@
       "to read",
       "читать",
       "окуу",
-      "قراءة",
+      "القراءة",
       "lire"
     ],
     "günleri": [
@@ -4689,6 +4689,216 @@
       "саат 21:30да",
       "الساعة 21:30",
       "à 21:30"
+    ],
+    "uyanmak": [
+      "to wake up",
+      "просыпаться",
+      "ойгонуу",
+      "الاستيقاظ",
+      "se réveiller"
+    ],
+    "e-postalarını": [
+      "their emails",
+      "свои электронные письма",
+      "электрондук каттарын",
+      "رسائل بريدهم الإلكتروني",
+      "leurs courriels"
+    ],
+    "silmek": [
+      "to wipe",
+      "вытирать",
+      "аарчуу",
+      "المسح",
+      "essuyer"
+    ],
+    "uyumak": [
+      "to sleep",
+      "спать",
+      "уктоо",
+      "النوم",
+      "dormir"
+    ],
+    "uyanırlar": [
+      "they wake up",
+      "они просыпаются",
+      "алар ойгонушат",
+      "يستيقظون",
+      "ils se réveillent"
+    ],
+    "ettikten": [
+      "after doing (with sonra)",
+      "после того как сделали",
+      "кылгандан кийин",
+      "بعد القيام",
+      "après avoir fait"
+    ],
+    "birde": [
+      "at one o’clock",
+      "в час",
+      "саат бирде",
+      "الساعة الواحدة",
+      "à une heure"
+    ],
+    "altıda": [
+      "at six o’clock",
+      "в шесть",
+      "саат алтыда",
+      "الساعة السادسة",
+      "à six heures"
+    ],
+    "yapar": [
+      "does; makes",
+      "делает",
+      "жасайт",
+      "يفعل؛ يعمل",
+      "fait"
+    ],
+    "kez": [
+      "time; occasion",
+      "раз",
+      "жолу",
+      "مرة",
+      "fois"
+    ],
+    "uyur": [
+      "sleeps",
+      "спит",
+      "уктайт",
+      "ينام",
+      "dort"
+    ],
+    "tulumlarını": [
+      "their sleeping bags",
+      "свои спальные мешки",
+      "уктоочу каптарын",
+      "أكياس نومهم",
+      "leurs sacs de couchage"
+    ],
+    "bölümüne": [
+      "to a section of it",
+      "в его часть; в раздел",
+      "бөлүгүнө",
+      "إلى قسم منه",
+      "dans une partie de"
+    ],
+    "bağlar": [
+      "ties; attaches",
+      "привязывает",
+      "байлайт",
+      "يربط",
+      "attache"
+    ],
+    "yatak": [
+      "bed",
+      "кровать",
+      "керебет",
+      "سرير",
+      "lit"
+    ],
+    "çekimsiz": [
+      "without attraction; zero-gravity in context",
+      "без притяжения",
+      "тартылуусуз",
+      "بلا جاذبية",
+      "sans attraction ; sans gravité dans ce contexte"
+    ],
+    "astronotların": [
+      "of the astronauts",
+      "космонавтов",
+      "космонавттардын",
+      "لرواد الفضاء",
+      "des astronautes"
+    ],
+    "kaslarını": [
+      "their muscles",
+      "свои мышцы",
+      "булчуңдарын",
+      "عضلاتهم",
+      "leurs muscles"
+    ],
+    "nıçın": [
+      "why",
+      "почему",
+      "эмне үчүн",
+      "لماذا",
+      "pourquoi"
+    ],
+    "07.30’da": [
+      "at 07:30",
+      "в 07:30",
+      "саат 07:30да",
+      "الساعة 07:30",
+      "à 07 h 30"
+    ],
+    "uyanır": [
+      "wakes up",
+      "просыпается",
+      "ойгонот",
+      "يستيقظ",
+      "se réveille"
+    ],
+    "tablodaki": [
+      "in the table",
+      "в таблице",
+      "таблицадагы",
+      "الموجود في الجدول",
+      "dans le tableau"
+    ],
+    "rutinleri": [
+      "their routines; the routines",
+      "их привычные действия",
+      "күнүмдүк иштерин",
+      "أعمالهم الروتينية",
+      "leurs habitudes ; les habitudes"
+    ],
+    "saatleri": [
+      "the times; the hours",
+      "часы; время",
+      "сааттарды",
+      "الساعات؛ المواعيد",
+      "les heures ; les horaires"
+    ],
+    "işleri": [
+      "the tasks; their tasks",
+      "дела; свои дела",
+      "иштерин",
+      "الأعمال؛ أعمالهم",
+      "les tâches ; leurs tâches"
+    ],
+    "saatte": [
+      "at (a time); in an hour",
+      "в (час); за час",
+      "саатта",
+      "في الساعة؛ خلال ساعة",
+      "à (une heure) ; en une heure"
+    ],
+    "cevapları": [
+      "the answers",
+      "ответы",
+      "жоопторду",
+      "الإجابات",
+      "les réponses"
+    ],
+    "ederler": [
+      "they do (in compound verbs)",
+      "делают (в составных глаголах)",
+      "кылышат",
+      "يفعلون في الأفعال المركبة",
+      "font (dans un verbe composé)"
+    ],
+    "tulumlarının": [
+      "of their sleeping bags",
+      "своих спальных мешков",
+      "уктоочу каптарынын",
+      "لأكياس نومهم",
+      "de leurs sacs de couchage"
+    ],
+    "uyurlar": [
+      "they sleep",
+      "они спят",
+      "алар укташат",
+      "ينامون",
+      "ils dorment"
     ]
   },
   "forms": {
@@ -6217,6 +6427,474 @@
         "Мугалим класска кирип, окуучулар менен саламдашат.",
         "يدخل المعلم الفصل ويحيي الطلاب.",
         "Le professeur entre dans la classe et salue les élèves."
+      ]
+    },
+    "e-postalarını": {
+      "lemma": "e-posta",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "email",
+        "электронное письмо",
+        "электрондук кат",
+        "بريد إلكتروني",
+        "courriel"
+      ],
+      "formTranslations": [
+        "their emails",
+        "свои электронные письма",
+        "электрондук каттарын",
+        "رسائل بريدهم الإلكتروني",
+        "leurs courriels"
+      ],
+      "exampleTr": "Öğretmenler sabah e-postalarını kontrol eder.",
+      "examples": [
+        "The teachers check their emails in the morning.",
+        "Учителя проверяют свою электронную почту утром.",
+        "Мугалимдер эртең менен электрондук каттарын текшеришет.",
+        "يتحقق المعلمون من رسائل بريدهم الإلكتروني صباحًا.",
+        "Les enseignants consultent leurs courriels le matin."
+      ]
+    },
+    "uyanırlar": {
+      "lemma": "uyanmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wake up",
+        "просыпаться",
+        "ойгонуу",
+        "الاستيقاظ",
+        "se réveiller"
+      ],
+      "formTranslations": [
+        "they wake up",
+        "они просыпаются",
+        "алар ойгонушат",
+        "يستيقظون",
+        "ils se réveillent"
+      ],
+      "exampleTr": "Çocuklar hafta içi saat yedide uyanırlar.",
+      "examples": [
+        "The children wake up at seven on weekdays.",
+        "В будние дни дети просыпаются в семь.",
+        "Балдар иш күндөрү саат жетиде ойгонушат.",
+        "يستيقظ الأطفال الساعة السابعة في أيام الأسبوع.",
+        "Les enfants se réveillent à sept heures en semaine."
+      ]
+    },
+    "uyur": {
+      "lemma": "uyumak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to sleep",
+        "спать",
+        "уктоо",
+        "النوم",
+        "dormir"
+      ],
+      "formTranslations": [
+        "sleeps",
+        "спит",
+        "уктайт",
+        "ينام",
+        "dort"
+      ],
+      "exampleTr": "Kardeşim öğleden sonra bir saat uyur.",
+      "examples": [
+        "My sibling sleeps for an hour in the afternoon.",
+        "Мой младший брат спит час после обеда.",
+        "Иним түштөн кийин бир саат уктайт.",
+        "ينام أخي الصغير ساعة بعد الظهر.",
+        "Mon petit frère dort une heure l’après-midi."
+      ]
+    },
+    "uyurlar": {
+      "lemma": "uyumak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to sleep",
+        "спать",
+        "уктоо",
+        "النوم",
+        "dormir"
+      ],
+      "formTranslations": [
+        "they sleep",
+        "они спят",
+        "алар укташат",
+        "ينامون",
+        "ils dorment"
+      ],
+      "exampleTr": "Çocuklar yolculuk sırasında genellikle uyurlar.",
+      "examples": [
+        "The children usually sleep during the journey.",
+        "Дети обычно спят во время поездки.",
+        "Балдар сапар учурунда адатта укташат.",
+        "ينام الأطفال عادة أثناء الرحلة.",
+        "Les enfants dorment généralement pendant le voyage."
+      ]
+    },
+    "uyanır": {
+      "lemma": "uyanmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wake up",
+        "просыпаться",
+        "ойгонуу",
+        "الاستيقاظ",
+        "se réveiller"
+      ],
+      "formTranslations": [
+        "wakes up",
+        "просыпается",
+        "ойгонот",
+        "يستيقظ",
+        "se réveille"
+      ],
+      "exampleTr": "Annem genellikle benden önce uyanır.",
+      "examples": [
+        "My mother usually wakes up before me.",
+        "Мама обычно просыпается раньше меня.",
+        "Апам адатта менден мурун ойгонот.",
+        "تستيقظ أمي عادة قبلي.",
+        "Ma mère se réveille généralement avant moi."
+      ]
+    },
+    "bölümüne": {
+      "lemma": "bölüm",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "section",
+        "раздел",
+        "бөлүм",
+        "قسم",
+        "section"
+      ],
+      "formTranslations": [
+        "to a section of it",
+        "в его часть; в раздел",
+        "бөлүгүнө",
+        "إلى قسم منه",
+        "dans une partie de"
+      ],
+      "exampleTr": "Alışveriş merkezinin kitap bölümüne gittim.",
+      "examples": [
+        "I went to the book section of the shopping centre.",
+        "Я пошёл в книжный отдел торгового центра.",
+        "Соода борборунун китеп бөлүмүнө бардым.",
+        "ذهبت إلى قسم الكتب في مركز التسوق.",
+        "Je suis allé au rayon livres du centre commercial."
+      ]
+    },
+    "bağlar": {
+      "lemma": "bağlamak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to tie",
+        "привязывать",
+        "байлоо",
+        "الربط",
+        "attacher"
+      ],
+      "formTranslations": [
+        "ties; attaches",
+        "привязывает",
+        "байлайт",
+        "يربط",
+        "attache"
+      ],
+      "exampleTr": "Babam bahçedeki fidanı bir çubuğa bağlar.",
+      "examples": [
+        "My father ties the sapling in the garden to a stake.",
+        "Отец привязывает саженец в саду к колышку.",
+        "Атам бакчадагы көчөттү таякка байлайт.",
+        "يربط أبي الشتلة في الحديقة بعصا.",
+        "Mon père attache le jeune arbre du jardin à un tuteur."
+      ]
+    },
+    "astronotların": {
+      "lemma": "astronot",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "astronaut",
+        "космонавт",
+        "космонавт",
+        "رائد فضاء",
+        "astronaute"
+      ],
+      "formTranslations": [
+        "of the astronauts",
+        "космонавтов",
+        "космонавттардын",
+        "لرواد الفضاء",
+        "des astronautes"
+      ],
+      "exampleTr": "Astronotların günlük programını merak ediyorum.",
+      "examples": [
+        "I am curious about the astronauts’ daily schedule.",
+        "Мне интересно ежедневное расписание космонавтов.",
+        "Космонавттардын күнүмдүк тартибине кызыгам.",
+        "أود معرفة البرنامج اليومي لرواد الفضاء.",
+        "Je m’intéresse au programme quotidien des astronautes."
+      ]
+    },
+    "kaslarını": {
+      "lemma": "kas",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "muscle",
+        "мышца",
+        "булчуң",
+        "عضلة",
+        "muscle"
+      ],
+      "formTranslations": [
+        "their muscles",
+        "свои мышцы",
+        "булчуңдарын",
+        "عضلاتهم",
+        "leurs muscles"
+      ],
+      "exampleTr": "Sporcular antrenmandan önce kaslarını ısıtır.",
+      "examples": [
+        "Athletes warm up their muscles before training.",
+        "Спортсмены разогревают мышцы перед тренировкой.",
+        "Спортчулар машыгуудан мурун булчуңдарын ысытышат.",
+        "يسخن الرياضيون عضلاتهم قبل التدريب.",
+        "Les sportifs échauffent leurs muscles avant l’entraînement."
+      ]
+    },
+    "tablodaki": {
+      "lemma": "tablo",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "table",
+        "таблица",
+        "таблица",
+        "جدول",
+        "tableau"
+      ],
+      "formTranslations": [
+        "in the table",
+        "в таблице",
+        "таблицадагы",
+        "الموجود في الجدول",
+        "dans le tableau"
+      ],
+      "exampleTr": "Tablodaki saatleri birlikte kontrol ettik.",
+      "examples": [
+        "We checked the times in the table together.",
+        "Мы вместе проверили время в таблице.",
+        "Таблицадагы убакыттарды чогуу текшердик.",
+        "راجعنا الأوقات الموجودة في الجدول معًا.",
+        "Nous avons vérifié ensemble les horaires du tableau."
+      ]
+    },
+    "rutinleri": {
+      "lemma": "rutin",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "routine",
+        "привычное действие",
+        "күнүмдүк иш",
+        "عمل روتيني",
+        "habitude"
+      ],
+      "formTranslations": [
+        "their routines; the routines",
+        "их привычные действия",
+        "күнүмдүк иштерин",
+        "أعمالهم الروتينية",
+        "leurs habitudes ; les habitudes"
+      ],
+      "exampleTr": "Arkadaşım günlük rutinleri hakkında konuştu.",
+      "examples": [
+        "My friend talked about their daily routines.",
+        "Мой друг рассказал о своих ежедневных привычках.",
+        "Досум күнүмдүк иштери тууралуу сүйлөдү.",
+        "تحدث صديقي عن أعماله اليومية.",
+        "Mon ami a parlé de ses habitudes quotidiennes."
+      ]
+    },
+    "saatleri": {
+      "lemma": "saat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hour; time",
+        "час; время",
+        "саат",
+        "ساعة؛ وقت",
+        "heure"
+      ],
+      "formTranslations": [
+        "the times; the hours",
+        "часы; время",
+        "сааттарды",
+        "الساعات؛ المواعيد",
+        "les heures ; les horaires"
+      ],
+      "exampleTr": "Ders saatleri bu hafta değişti.",
+      "examples": [
+        "Class times changed this week.",
+        "На этой неделе расписание уроков изменилось.",
+        "Бул жумада сабак сааттары өзгөрдү.",
+        "تغيرت مواعيد الدروس هذا الأسبوع.",
+        "Les horaires des cours ont changé cette semaine."
+      ]
+    },
+    "saatte": {
+      "lemma": "saat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hour; time",
+        "час; время",
+        "саат",
+        "ساعة؛ وقت",
+        "heure"
+      ],
+      "formTranslations": [
+        "at (a time); in an hour",
+        "в (час); за час",
+        "саатта",
+        "في الساعة؛ خلال ساعة",
+        "à (une heure) ; en une heure"
+      ],
+      "exampleTr": "Toplantı hangi saatte başlayacak?",
+      "examples": [
+        "At what time will the meeting start?",
+        "В котором часу начнётся совещание?",
+        "Жыйын саат канчада башталат?",
+        "في أي ساعة سيبدأ الاجتماع؟",
+        "À quelle heure la réunion commencera-t-elle ?"
+      ]
+    },
+    "işleri": {
+      "lemma": "iş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "task; work",
+        "дело; работа",
+        "иш",
+        "عمل",
+        "tâche ; travail"
+      ],
+      "formTranslations": [
+        "the tasks; their tasks",
+        "дела; свои дела",
+        "иштерин",
+        "الأعمال؛ أعمالهم",
+        "les tâches ; leurs tâches"
+      ],
+      "exampleTr": "Bugünkü işleri öğlene kadar bitirdik.",
+      "examples": [
+        "We finished today’s tasks by noon.",
+        "Мы закончили сегодняшние дела к полудню.",
+        "Бүгүнкү иштерди түшкө чейин бүтүрдүк.",
+        "أنهينا أعمال اليوم بحلول الظهر.",
+        "Nous avons terminé les tâches du jour avant midi."
+      ]
+    },
+    "cevapları": {
+      "lemma": "cevap",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "answer",
+        "ответ",
+        "жооп",
+        "إجابة",
+        "réponse"
+      ],
+      "formTranslations": [
+        "the answers",
+        "ответы",
+        "жоопторду",
+        "الإجابات",
+        "les réponses"
+      ],
+      "exampleTr": "Soruların cevapları son sayfada.",
+      "examples": [
+        "The answers to the questions are on the last page.",
+        "Ответы на вопросы находятся на последней странице.",
+        "Суроолордун жооптору акыркы бетте.",
+        "إجابات الأسئلة في الصفحة الأخيرة.",
+        "Les réponses aux questions sont à la dernière page."
+      ]
+    },
+    "tulumlarını": {
+      "lemma": "uyku tulumu",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "sleeping bag",
+        "спальный мешок",
+        "уктоочу кап",
+        "كيس نوم",
+        "sac de couchage"
+      ],
+      "formTranslations": [
+        "their sleeping bags",
+        "свои спальные мешки",
+        "уктоочу каптарын",
+        "أكياس نومهم",
+        "leurs sacs de couchage"
+      ],
+      "exampleTr": "Kampçılar uyku tulumlarını çadıra taşıdı.",
+      "examples": [
+        "The campers carried their sleeping bags into the tent.",
+        "Туристы перенесли спальные мешки в палатку.",
+        "Лагердегилер уктоочу каптарын чатырга ташышты.",
+        "حمل المخيمون أكياس نومهم إلى الخيمة.",
+        "Les campeurs ont porté leurs sacs de couchage dans la tente."
+      ]
+    },
+    "tulumlarının": {
+      "lemma": "uyku tulumu",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "sleeping bag",
+        "спальный мешок",
+        "уктоочу кап",
+        "كيس نوم",
+        "sac de couchage"
+      ],
+      "formTranslations": [
+        "of their sleeping bags",
+        "своих спальных мешков",
+        "уктоочу каптарынын",
+        "لأكياس نومهم",
+        "de leurs sacs de couchage"
+      ],
+      "exampleTr": "Çocuklar uyku tulumlarının fermuarlarını kapattı.",
+      "examples": [
+        "The children closed the zips on their sleeping bags.",
+        "Дети застегнули молнии своих спальных мешков.",
+        "Балдар уктоочу каптарынын сыдырмаларын жапты.",
+        "أغلق الأطفال سحابات أكياس نومهم.",
+        "Les enfants ont fermé les fermetures de leurs sacs de couchage."
+      ]
+    },
+    "nıçın": {
+      "lemma": "niçin",
+      "lemmaType": "adverb",
+      "lemmaTranslations": [
+        "why",
+        "почему",
+        "эмне үчүн",
+        "لماذا",
+        "pourquoi"
+      ],
+      "formTranslations": [
+        "why",
+        "почему",
+        "эмне үчүн",
+        "لماذا",
+        "pourquoi"
+      ],
+      "exampleTr": "Bugün niçin geç kaldın?",
+      "examples": [
+        "Why were you late today?",
+        "Почему ты сегодня опоздал?",
+        "Бүгүн эмне үчүн кечиктиң?",
+        "لماذا تأخرت اليوم؟",
+        "Pourquoi es-tu arrivé en retard aujourd’hui ?"
       ]
     }
   },
@@ -8371,16 +9049,16 @@
         "Il y a des activités intéressantes à l'école."
       ]
     },
-    "niçin": {
-      "tr": "Niçin gelemiyorsun?",
-      "values": [
-        "Why are you late?",
-        "Почему ты опоздал?",
-        "Эмне үчүн кечиктиң?",
-        "لماذا تأخرت؟",
-        "Pourquoi es-tu en retard ?"
+    "niçin": [
+      "Bugün niçin geç kaldın?",
+      [
+        "Why were you late today?",
+        "Почему ты сегодня опоздал?",
+        "Бүгүн эмне үчүн кечиктиң?",
+        "لماذا تأخرت اليوم؟",
+        "Pourquoi es-tu arrivé en retard aujourd’hui ?"
       ]
-    },
+    ],
     "yerler": {
       "tr": "Bu yerler güzel.",
       "values": [
@@ -12739,6 +13417,316 @@
         "Тасма саат 21:30да бүтөт.",
         "سينتهي الفيلم الساعة 21:30.",
         "Le film se terminera à 21 h 30."
+      ]
+    ],
+    "uyanmak": [
+      "Sabah erken uyanmak için alarm kurdum.",
+      [
+        "I set an alarm to wake up early.",
+        "Я поставил будильник, чтобы проснуться рано.",
+        "Эртең менен эрте ойгонуу үчүн ойготкуч койдум.",
+        "ضبطت المنبه لأستيقظ مبكرًا.",
+        "J’ai mis un réveil pour me réveiller tôt."
+      ]
+    ],
+    "okumak": [
+      "Akşamları kitap okumak beni dinlendiriyor.",
+      [
+        "Reading books in the evenings helps me relax.",
+        "Чтение книг по вечерам помогает мне отдохнуть.",
+        "Кечинде китеп окуу мени эс алдырат.",
+        "تساعدني قراءة الكتب مساءً على الاسترخاء.",
+        "Lire le soir me détend."
+      ]
+    ],
+    "e-postalarını": [
+      "Öğretmenler sabah e-postalarını kontrol eder.",
+      [
+        "The teachers check their emails in the morning.",
+        "Учителя проверяют свою электронную почту утром.",
+        "Мугалимдер эртең менен электрондук каттарын текшеришет.",
+        "يتحقق المعلمون من رسائل بريدهم الإلكتروني صباحًا.",
+        "Les enseignants consultent leurs courriels le matin."
+      ]
+    ],
+    "silmek": [
+      "Masayı silmek için temiz bir bez aldım.",
+      [
+        "I took a clean cloth to wipe the table.",
+        "Я взял чистую тряпку, чтобы вытереть стол.",
+        "Үстөлдү аарчуу үчүн таза чүпүрөк алдым.",
+        "أخذت قطعة قماش نظيفة لمسح الطاولة.",
+        "J’ai pris un chiffon propre pour essuyer la table."
+      ]
+    ],
+    "uyumak": [
+      "Bu gece biraz daha erken uyumak istiyorum.",
+      [
+        "I want to go to sleep a little earlier tonight.",
+        "Сегодня я хочу уснуть немного раньше.",
+        "Бүгүн кечинде бир аз эртерээк уктагым келет.",
+        "أريد النوم أبكر قليلًا هذه الليلة.",
+        "Je veux m’endormir un peu plus tôt ce soir."
+      ]
+    ],
+    "uyanırlar": [
+      "Çocuklar hafta içi saat yedide uyanırlar.",
+      [
+        "The children wake up at seven on weekdays.",
+        "В будние дни дети просыпаются в семь.",
+        "Балдар иш күндөрү саат жетиде ойгонушат.",
+        "يستيقظ الأطفال الساعة السابعة في أيام الأسبوع.",
+        "Les enfants se réveillent à sept heures en semaine."
+      ]
+    ],
+    "ettikten": [
+      "Kahvaltı ettikten sonra evden çıktım.",
+      [
+        "I left home after having breakfast.",
+        "Позавтракав, я вышел из дома.",
+        "Эртең мененки тамакты ичкенден кийин үйдөн чыктым.",
+        "خرجت من المنزل بعد تناول الفطور.",
+        "Je suis parti de chez moi après avoir pris mon petit-déjeuner."
+      ]
+    ],
+    "birde": [
+      "Öğlen saat birde arkadaşlarımla buluşacağım.",
+      [
+        "I will meet my friends at one in the afternoon.",
+        "Я встречусь с друзьями в час дня.",
+        "Түшкү саат бирде досторум менен жолугушам.",
+        "سألتقي بأصدقائي الساعة الواحدة ظهرًا.",
+        "Je retrouverai mes amis à une heure de l’après-midi."
+      ]
+    ],
+    "altıda": [
+      "Akşam saat altıda işten çıkıyorum.",
+      [
+        "I leave work at six in the evening.",
+        "Я ухожу с работы в шесть вечера.",
+        "Кечки саат алтыда жумуштан чыгам.",
+        "أغادر العمل الساعة السادسة مساءً.",
+        "Je quitte le travail à six heures du soir."
+      ]
+    ],
+    "yapar": [
+      "Ablam her sabah spor yapar.",
+      [
+        "My older sister exercises every morning.",
+        "Моя старшая сестра каждое утро занимается спортом.",
+        "Эжем күн сайын эртең менен спорт менен машыгат.",
+        "تمارس أختي الكبرى الرياضة كل صباح.",
+        "Ma grande sœur fait du sport chaque matin."
+      ]
+    ],
+    "kez": [
+      "Bu müzeyi ilk kez ziyaret ediyorum.",
+      [
+        "I am visiting this museum for the first time.",
+        "Я впервые посещаю этот музей.",
+        "Бул музейге биринчи жолу келип жатам.",
+        "أزور هذا المتحف للمرة الأولى.",
+        "Je visite ce musée pour la première fois."
+      ]
+    ],
+    "uyur": [
+      "Kardeşim öğleden sonra bir saat uyur.",
+      [
+        "My sibling sleeps for an hour in the afternoon.",
+        "Мой младший брат спит час после обеда.",
+        "Иним түштөн кийин бир саат уктайт.",
+        "ينام أخي الصغير ساعة بعد الظهر.",
+        "Mon petit frère dort une heure l’après-midi."
+      ]
+    ],
+    "tulumlarını": [
+      "Kampçılar uyku tulumlarını çadıra taşıdı.",
+      [
+        "The campers carried their sleeping bags into the tent.",
+        "Туристы перенесли спальные мешки в палатку.",
+        "Лагердегилер уктоочу каптарын чатырга ташышты.",
+        "حمل المخيمون أكياس نومهم إلى الخيمة.",
+        "Les campeurs ont porté leurs sacs de couchage dans la tente."
+      ]
+    ],
+    "bölümüne": [
+      "Alışveriş merkezinin kitap bölümüne gittim.",
+      [
+        "I went to the book section of the shopping centre.",
+        "Я пошёл в книжный отдел торгового центра.",
+        "Соода борборунун китеп бөлүмүнө бардым.",
+        "ذهبت إلى قسم الكتب في مركز التسوق.",
+        "Je suis allé au rayon livres du centre commercial."
+      ]
+    ],
+    "bağlar": [
+      "Babam bahçedeki fidanı bir çubuğa bağlar.",
+      [
+        "My father ties the sapling in the garden to a stake.",
+        "Отец привязывает саженец в саду к колышку.",
+        "Атам бакчадагы көчөттү таякка байлайт.",
+        "يربط أبي الشتلة في الحديقة بعصا.",
+        "Mon père attache le jeune arbre du jardin à un tuteur."
+      ]
+    ],
+    "yatak": [
+      "Bu odada iki yatak var.",
+      [
+        "There are two beds in this room.",
+        "В этой комнате две кровати.",
+        "Бул бөлмөдө эки керебет бар.",
+        "يوجد سريران في هذه الغرفة.",
+        "Il y a deux lits dans cette chambre."
+      ]
+    ],
+    "çekimsiz": [
+      "Çocuklar yer çekimsiz ortamı anlatan bir video izledi.",
+      [
+        "The children watched a video about a zero-gravity environment.",
+        "Дети посмотрели видео о невесомости.",
+        "Балдар тартылуусуз чөйрө жөнүндө видео көрүштү.",
+        "شاهد الأطفال فيديو يشرح بيئة انعدام الجاذبية.",
+        "Les enfants ont regardé une vidéo sur un environnement sans gravité."
+      ]
+    ],
+    "astronotların": [
+      "Astronotların günlük programını merak ediyorum.",
+      [
+        "I am curious about the astronauts’ daily schedule.",
+        "Мне интересно ежедневное расписание космонавтов.",
+        "Космонавттардын күнүмдүк тартибине кызыгам.",
+        "أود معرفة البرنامج اليومي لرواد الفضاء.",
+        "Je m’intéresse au programme quotidien des astronautes."
+      ]
+    ],
+    "kaslarını": [
+      "Sporcular antrenmandan önce kaslarını ısıtır.",
+      [
+        "Athletes warm up their muscles before training.",
+        "Спортсмены разогревают мышцы перед тренировкой.",
+        "Спортчулар машыгуудан мурун булчуңдарын ысытышат.",
+        "يسخن الرياضيون عضلاتهم قبل التدريب.",
+        "Les sportifs échauffent leurs muscles avant l’entraînement."
+      ]
+    ],
+    "nıçın": [
+      "Bugün niçin geç kaldın?",
+      [
+        "Why were you late today?",
+        "Почему ты сегодня опоздал?",
+        "Бүгүн эмне үчүн кечиктиң?",
+        "لماذا تأخرت اليوم؟",
+        "Pourquoi es-tu arrivé en retard aujourd’hui ?"
+      ]
+    ],
+    "07.30’da": [
+      "Servis her sabah 07.30’da geliyor.",
+      [
+        "The shuttle bus arrives at 07:30 every morning.",
+        "Служебный автобус приезжает каждое утро в 07:30.",
+        "Кызматтык автобус күн сайын эртең менен саат 07:30да келет.",
+        "تصل حافلة النقل كل صباح الساعة 07:30.",
+        "La navette arrive chaque matin à 07 h 30."
+      ]
+    ],
+    "uyanır": [
+      "Annem genellikle benden önce uyanır.",
+      [
+        "My mother usually wakes up before me.",
+        "Мама обычно просыпается раньше меня.",
+        "Апам адатта менден мурун ойгонот.",
+        "تستيقظ أمي عادة قبلي.",
+        "Ma mère se réveille généralement avant moi."
+      ]
+    ],
+    "tablodaki": [
+      "Tablodaki saatleri birlikte kontrol ettik.",
+      [
+        "We checked the times in the table together.",
+        "Мы вместе проверили время в таблице.",
+        "Таблицадагы убакыттарды чогуу текшердик.",
+        "راجعنا الأوقات الموجودة في الجدول معًا.",
+        "Nous avons vérifié ensemble les horaires du tableau."
+      ]
+    ],
+    "rutinleri": [
+      "Arkadaşım günlük rutinleri hakkında konuştu.",
+      [
+        "My friend talked about their daily routines.",
+        "Мой друг рассказал о своих ежедневных привычках.",
+        "Досум күнүмдүк иштери тууралуу сүйлөдү.",
+        "تحدث صديقي عن أعماله اليومية.",
+        "Mon ami a parlé de ses habitudes quotidiennes."
+      ]
+    ],
+    "saatleri": [
+      "Ders saatleri bu hafta değişti.",
+      [
+        "Class times changed this week.",
+        "На этой неделе расписание уроков изменилось.",
+        "Бул жумада сабак сааттары өзгөрдү.",
+        "تغيرت مواعيد الدروس هذا الأسبوع.",
+        "Les horaires des cours ont changé cette semaine."
+      ]
+    ],
+    "işleri": [
+      "Bugünkü işleri öğlene kadar bitirdik.",
+      [
+        "We finished today’s tasks by noon.",
+        "Мы закончили сегодняшние дела к полудню.",
+        "Бүгүнкү иштерди түшкө чейин бүтүрдүк.",
+        "أنهينا أعمال اليوم بحلول الظهر.",
+        "Nous avons terminé les tâches du jour avant midi."
+      ]
+    ],
+    "saatte": [
+      "Toplantı hangi saatte başlayacak?",
+      [
+        "At what time will the meeting start?",
+        "В котором часу начнётся совещание?",
+        "Жыйын саат канчада башталат?",
+        "في أي ساعة سيبدأ الاجتماع؟",
+        "À quelle heure la réunion commencera-t-elle ?"
+      ]
+    ],
+    "cevapları": [
+      "Soruların cevapları son sayfada.",
+      [
+        "The answers to the questions are on the last page.",
+        "Ответы на вопросы находятся на последней странице.",
+        "Суроолордун жооптору акыркы бетте.",
+        "إجابات الأسئلة في الصفحة الأخيرة.",
+        "Les réponses aux questions sont à la dernière page."
+      ]
+    ],
+    "ederler": [
+      "Komşularımız her sabah kahvaltı ederler.",
+      [
+        "Our neighbours have breakfast every morning.",
+        "Наши соседи завтракают каждое утро.",
+        "Кошуналарыбыз күн сайын эртең менен тамактанышат.",
+        "يتناول جيراننا الفطور كل صباح.",
+        "Nos voisins prennent leur petit-déjeuner chaque matin."
+      ]
+    ],
+    "tulumlarının": [
+      "Çocuklar uyku tulumlarının fermuarlarını kapattı.",
+      [
+        "The children closed the zips on their sleeping bags.",
+        "Дети застегнули молнии своих спальных мешков.",
+        "Балдар уктоочу каптарынын сыдырмаларын жапты.",
+        "أغلق الأطفال سحابات أكياس نومهم.",
+        "Les enfants ont fermé les fermetures de leurs sacs de couchage."
+      ]
+    ],
+    "uyurlar": [
+      "Çocuklar yolculuk sırasında genellikle uyurlar.",
+      [
+        "The children usually sleep during the journey.",
+        "Дети обычно спят во время поездки.",
+        "Балдар сапар учурунда адатта укташат.",
+        "ينام الأطفال عادة أثناء الرحلة.",
+        "Les enfants dorment généralement pendant le voyage."
       ]
     ]
   },
