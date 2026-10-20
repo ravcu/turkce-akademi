@@ -13,8 +13,15 @@ def overlap(a,b):
 source=json.loads(ROOT.joinpath("source-text.json").read_text())
 source=[text.replace("￾\n","").replace("￾","").replace("￾","") for text in source]
 pages=[]
-report={"method":"tesseract tur, PSM 3 + supplementary PSM 11","reviewed":False,"pages":[]}
-for n in range(1,21):
+cache=ROOT/"pages.json"
+cache_report=ROOT/"coverage.json"
+if cache.exists() and cache_report.exists():
+    old_report=json.loads(cache_report.read_text())
+    if "PSM 6" in old_report.get("method",""):
+        cached=json.loads(cache.read_text())
+        if len(cached)==20 and all(p.get("words") for p in cached):pages=cached
+report={"method":"tesseract tur, PSM 3 + PSM 11 + PSM 6; PDF text filter","reviewed":False,"pages":[]}
+for n in ([] if pages else range(1,21)):
     allowed={norm(w).replace("’","'") for w in source[n-1].split()}
     allowed.update(norm(part).replace("’","'") for w in source[n-1].split() for part in w.split("/"))
     image=ROOT/"pages"/f"page-{n:03}.webp"
@@ -24,7 +31,7 @@ for n in range(1,21):
             png=Path(td)/"page.png"
             im.convert("RGB").save(png)
             words=[]
-            for psm in (3,11):
+            for psm in (3,11,6):
                 result=subprocess.run(["tesseract",str(png),"stdout","-l","tur","--psm",str(psm),"tsv"],capture_output=True,text=True,check=True)
                 for row in csv.DictReader(io.StringIO(result.stdout),delimiter="\t",quoting=csv.QUOTE_NONE):
                     text=(row.get("text") or "").strip()
@@ -34,11 +41,13 @@ for n in range(1,21):
                     if candidate not in allowed and not candidate.isdigit() and not re.fullmatch(r"[SMV]\.\d{3}",text):
                         continue
                     box={"t":text,"x":round(int(row["left"])/width,6),"y":round(int(row["top"])/height,6),"w":round(int(row["width"])/width,6),"h":round(int(row["height"])/height,6)}
-                    if psm==11 and any(overlap(box,b)>.55 for b in words):continue
+                    if psm!=3 and any(overlap(box,b)>.55 for b in words):continue
                     words.append(box)
     words.sort(key=lambda b:(round(b["y"]/0.008),b["x"]))
     pages.append({"page":n,"bookPage":98+n,"image":f"pages/page-{n:03}.webp","words":words,"phrases":[]})
     report["pages"].append({"page":n,"words":len(words),"width":width,"height":height,"coordinateReview":"pending"})
+if not report["pages"]:
+    report["pages"]=[{"page":p["page"],"words":len(p["words"]),"coordinateReview":"pending"} for p in pages]
 ROOT.joinpath("pages.json").write_text(json.dumps(pages,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
 ROOT.joinpath("coverage.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
 print(json.dumps(report,ensure_ascii=False,indent=2))
