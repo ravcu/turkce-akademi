@@ -2,7 +2,7 @@
 
 22 kitap sayfası (77–98), 3560 × 4504 piksel kayıpsız WebP görselleri.
 
-- 3.867 koordinatlı tıklama alanı.
+- 3.877 koordinatlı tıklama alanı.
 - 765 kök/mastar–metindeki biçim kaydı.
 - 169 birleşik ifade, 286 açık konum eşleştirmesi.
 - 31 satır sonu/dikey yazı birleştirmesi.
@@ -16,7 +16,7 @@
 
 `node tests/verify-lise-a2-unit4.cjs`
 
-22 sayfa, 17.070 seçim/dil denetimi ve 110 sayfa/dil PDF çıktısı denetimi: eksik kayıt yok.
+22 sayfa, 17.120 seçim/dil denetimi ve 110 sayfa/dil PDF çıktısı denetimi: eksik kayıt yok.
 Bu denetim alanların ve okuyucu davranışının tutarlılığını sınar; dilbilimsel incelemenin yerine geçmez.
 
 ## Henüz eklenmeyen kaynaklar
