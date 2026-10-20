@@ -7867,6 +7867,993 @@
       "Мавританияда",
       "في موريتانيا",
       "en Mauritanie"
+    ],
+    "gruptan": [
+      "from the group",
+      "из группы",
+      "топтон",
+      "من المجموعة",
+      "du groupe"
+    ],
+    "aldın": [
+      "you received",
+      "ты получил",
+      "алдың",
+      "أخذت",
+      "tu as reçu"
+    ],
+    "sanatlarla": [
+      "with the arts",
+      "искусствами",
+      "искусстволор менен",
+      "بالفنون",
+      "aux arts"
+    ],
+    "ilgilenmeyi": [
+      "taking an interest",
+      "интересоваться",
+      "кызыгууну",
+      "الاهتمام",
+      "le fait de s’intéresser"
+    ],
+    "alanında": [
+      "in the field",
+      "в области",
+      "тармагында",
+      "في مجال",
+      "dans le domaine"
+    ],
+    "hobiyle": [
+      "with a hobby",
+      "хобби",
+      "хобби менен",
+      "بهواية",
+      "à un loisir"
+    ],
+    "yukarıda": [
+      "above",
+      "выше",
+      "жогоруда",
+      "أعلاه",
+      "ci-dessus"
+    ],
+    "dosta": [
+      "to the friend; beloved",
+      "другу; любимому",
+      "доско; сүйгөнгө",
+      "للصديق؛ للحبيب",
+      "à l’ami ; à l’être aimé"
+    ],
+    "gönlümde": [
+      "in my heart",
+      "в моём сердце",
+      "жүрөгүмдө",
+      "في قلبي",
+      "dans mon cœur"
+    ],
+    "sensin": [
+      "it is you",
+      "это ты",
+      "сенсиң",
+      "أنت",
+      "c’est toi"
+    ],
+    "gönlünde": [
+      "in your heart",
+      "в твоём сердце",
+      "жүрөгүңдө",
+      "في قلبك",
+      "dans ton cœur"
+    ],
+    "ellerin": [
+      "of strangers (poetic el)",
+      "чужих",
+      "бөтөндөрдүн",
+      "للغرباء",
+      "des autres"
+    ],
+    "yari": [
+      "the beloved",
+      "любимого",
+      "сүйгөнүн",
+      "الحبيب",
+      "l’être aimé"
+    ],
+    "çürük": [
+      "rotten; weak",
+      "гнилой; непрочный",
+      "чирик; алсыз",
+      "فاسد؛ ضعيف",
+      "pourri ; fragile"
+    ],
+    "bellerin": [
+      "of waists",
+      "поясниц",
+      "белдердин",
+      "للخصور",
+      "des tailles"
+    ],
+    "bağı": [
+      "tie; belt",
+      "завязка; пояс",
+      "боосу",
+      "رباط",
+      "lien ; ceinture"
+    ],
+    "devran": [
+      "fortune; course of time",
+      "судьба; ход времени",
+      "тагдыр; заман",
+      "الدهر؛ الأحوال",
+      "sort ; cours du temps"
+    ],
+    "sararım": [
+      "I embrace; wrap",
+      "я обниму; оберну",
+      "кучактартам; оройм",
+      "أعانق؛ ألف",
+      "j’embrasse ; j’enveloppe"
+    ],
+    "kastel": [
+      "fountain (regional)",
+      "фонтан; родник (диал.)",
+      "булак (диалект)",
+      "سبيل ماء (لفظ محلي)",
+      "fontaine (régionalisme)"
+    ],
+    "akmıyor": [
+      "is not flowing",
+      "не течёт",
+      "акпай жатат",
+      "لا يجري",
+      "ne coule pas"
+    ],
+    "yar": [
+      "beloved",
+      "любимый",
+      "сүйгөн",
+      "حبيب",
+      "être aimé"
+    ],
+    "yüzüme": [
+      "at/to my face",
+      "мне в лицо",
+      "бетиме",
+      "إلى وجهي",
+      "mon visage"
+    ],
+    "bakmıyor": [
+      "does not look",
+      "не смотрит",
+      "карабайт",
+      "لا ينظر",
+      "ne regarde pas"
+    ],
+    "kokladım": [
+      "I smelled",
+      "я понюхал",
+      "жыттадым",
+      "شممت",
+      "j’ai senti"
+    ],
+    "yarim": [
+      "my beloved",
+      "мой любимый",
+      "сүйгөнүм",
+      "حبيبي",
+      "mon amour"
+    ],
+    "kokmuyor": [
+      "does not smell",
+      "не пахнет",
+      "жыттанбайт",
+      "لا تفوح منه رائحة",
+      "ne sent pas"
+    ],
+    "narlığa": [
+      "to the pomegranate orchard",
+      "в гранатовый сад",
+      "анар багына",
+      "إلى بستان الرمان",
+      "au verger de grenadiers"
+    ],
+    "güvenmeyin": [
+      "do not trust (plural/polite)",
+      "не доверяйте",
+      "ишенбеңиз",
+      "لا تثقوا",
+      "ne faites pas confiance"
+    ],
+    "varlığa": [
+      "to wealth; existence",
+      "богатству; существованию",
+      "байлыкка",
+      "بالثروة؛ بالوجود",
+      "à la richesse"
+    ],
+    "başın": [
+      "your head; your lot",
+      "твоя голова; твоя участь",
+      "башың",
+      "رأسك",
+      "ta tête ; ton sort"
+    ],
+    "düşer": [
+      "falls",
+      "падает",
+      "түшөт",
+      "يقع",
+      "tombe"
+    ],
+    "darlığa": [
+      "into hardship",
+      "в нужду",
+      "кыйынчылыкка",
+      "إلى ضيق",
+      "dans le besoin"
+    ],
+    "yazılım": [
+      "software",
+      "программное обеспечение",
+      "программалык камсыздоо",
+      "برمجيات",
+      "logiciel"
+    ],
+    "işleyen": [
+      "working; active",
+      "работающий",
+      "иштеген",
+      "العامل",
+      "qui travaille"
+    ],
+    "ışıldar": [
+      "shines",
+      "блестит",
+      "жаркырайт",
+      "يلمع",
+      "brille"
+    ],
+    "karakterlerden": [
+      "among the characters",
+      "из персонажей",
+      "каармандардан",
+      "من الشخصيات",
+      "parmi les personnages"
+    ],
+    "ikisini": [
+      "two of them",
+      "двоих из них",
+      "экөөнү",
+      "اثنين منهم",
+      "deux d’entre eux"
+    ],
+    "karakterin": [
+      "of the character",
+      "персонажа",
+      "каармандын",
+      "للشخصية",
+      "du personnage"
+    ],
+    "hobilerini": [
+      "their hobbies",
+      "его/её увлечения",
+      "хоббилерин",
+      "هواياته",
+      "ses loisirs"
+    ],
+    "karakter": [
+      "character",
+      "персонаж",
+      "каарман",
+      "شخصية",
+      "personnage"
+    ],
+    "paten": [
+      "skate",
+      "конёк",
+      "коньки",
+      "حذاء تزلج",
+      "patin"
+    ],
+    "bisiklete": [
+      "onto a bicycle",
+      "на велосипед",
+      "велосипедге",
+      "على الدراجة",
+      "à vélo"
+    ],
+    "şarkı": [
+      "song",
+      "песня",
+      "ыр",
+      "أغنية",
+      "chanson"
+    ],
+    "uçurmak": [
+      "to fly (a kite)",
+      "запускать",
+      "учуруу",
+      "تطيير",
+      "faire voler"
+    ],
+    "ece": [
+      "Ece (name)",
+      "Эдже",
+      "Эдже",
+      "إيجه",
+      "Ece"
+    ],
+    "oğuz": [
+      "Oğuz (name)",
+      "Огуз",
+      "Огуз",
+      "أوغوز",
+      "Oğuz"
+    ],
+    "oyunun": [
+      "of the game",
+      "игры",
+      "оюндун",
+      "للعبة",
+      "du jeu"
+    ],
+    "kuralları": [
+      "the rules",
+      "правила",
+      "эрежелери",
+      "القواعد",
+      "les règles"
+    ],
+    "durun": [
+      "stop; stand (plural/polite)",
+      "остановитесь",
+      "токтоңуз",
+      "قفوا",
+      "arrêtez-vous"
+    ],
+    "binmeyi": [
+      "riding; to ride",
+      "ездить",
+      "мингени",
+      "ركوب",
+      "le fait de monter"
+    ],
+    "binersin": [
+      "you ride",
+      "ты ездишь",
+      "минесиң",
+      "تركب",
+      "tu montes"
+    ],
+    "veremezse": [
+      "if he/she cannot give",
+      "если не сможет дать",
+      "бере албаса",
+      "إن لم يستطع إعطاء",
+      "s’il ne peut pas donner"
+    ],
+    "ulaşan": [
+      "who reaches",
+      "достигший",
+      "жеткен",
+      "الذي يصل",
+      "qui atteint"
+    ],
+    "dinlen": [
+      "rest",
+      "отдохни",
+      "эс ал",
+      "استرح",
+      "repose-toi"
+    ],
+    "karate": [
+      "karate",
+      "карате",
+      "каратэ",
+      "كاراتيه",
+      "karaté"
+    ],
+    "yapamazsınız": [
+      "you cannot do",
+      "вы не можете сделать",
+      "жасай албайсыз",
+      "لا تستطيعون فعل",
+      "vous ne pouvez pas faire"
+    ],
+    "söyleyebilirim": [
+      "I can sing; say",
+      "я могу спеть; сказать",
+      "ырдай алам; айта алам",
+      "يمكنني الغناء؛ القول",
+      "je peux chanter ; dire"
+    ],
+    "çalamam": [
+      "I cannot play (instrument)",
+      "я не могу играть (на инструменте)",
+      "аспапта ойной албайм",
+      "لا أستطيع العزف",
+      "je ne peux pas jouer d’un instrument"
+    ],
+    "bloğunu": [
+      "his/her blog",
+      "его/её блог",
+      "блогун",
+      "مدونته",
+      "son blog"
+    ],
+    "hazırladığı": [
+      "that he/she prepared",
+      "подготовленный им/ею",
+      "ал даярдаган",
+      "الذي أعده",
+      "qu’il a préparé"
+    ],
+    "cevaplar": [
+      "answers",
+      "ответы",
+      "жооптор",
+      "إجابات",
+      "réponses"
+    ],
+    "bloğunuzu": [
+      "your blog",
+      "ваш блог",
+      "блогуңузду",
+      "مدونتكم",
+      "votre blog"
+    ],
+    "metninizi": [
+      "your text",
+      "ваш текст",
+      "текстиңизди",
+      "نصكم",
+      "votre texte"
+    ],
+    "bloğu": [
+      "the blog; his/her blog",
+      "блог",
+      "блогу",
+      "المدونة",
+      "le blog"
+    ],
+    "www.maarif.elifinblogu.com": [
+      "Elif’s blog address (in the text)",
+      "адрес блога Элиф в тексте",
+      "тексттеги Элифтин блогунун дареги",
+      "عنوان مدونة إليف في النص",
+      "adresse du blog d’Elif dans le texte"
+    ],
+    "kuzgun": [
+      "Kuzgun (surname)",
+      "Кузгун (фамилия)",
+      "Кузгун (фамилия)",
+      "كوزغون (لقب)",
+      "Kuzgun (nom de famille)"
+    ],
+    "fen": [
+      "science",
+      "естественные науки",
+      "табигый илимдер",
+      "علوم",
+      "sciences"
+    ],
+    "sanatla": [
+      "with art",
+      "искусством",
+      "искусство менен",
+      "بالفن",
+      "à l’art"
+    ],
+    "portresini": [
+      "his/her portrait",
+      "его/её портрет",
+      "портретин",
+      "صورته الشخصية",
+      "son portrait"
+    ],
+    "sanatlar": [
+      "arts",
+      "искусства",
+      "искусстволор",
+      "فنون",
+      "arts"
+    ],
+    "fakültesinde": [
+      "at the faculty",
+      "на факультете",
+      "факультетинде",
+      "في كلية",
+      "à la faculté"
+    ],
+    "açtım": [
+      "I opened",
+      "я открыл",
+      "ачтым",
+      "فتحت",
+      "j’ai ouvert"
+    ],
+    "sizlerle": [
+      "with you",
+      "с вами",
+      "сиздер менен",
+      "معكم",
+      "avec vous"
+    ],
+    "paylaşacağım": [
+      "I will share",
+      "я поделюсь",
+      "бөлүшөм",
+      "سأشارك",
+      "je partagerai"
+    ],
+    "sanatı": [
+      "the art",
+      "искусство",
+      "искусствосу",
+      "الفن",
+      "l’art"
+    ],
+    "vereceğim": [
+      "I will give",
+      "я дам",
+      "берем",
+      "سأعطي",
+      "je donnerai"
+    ],
+    "bunun": [
+      "of this; for this",
+      "этого",
+      "мунун",
+      "لهذا",
+      "de ceci"
+    ],
+    "bloğumu": [
+      "my blog",
+      "мой блог",
+      "блогумду",
+      "مدونتي",
+      "mon blog"
+    ],
+    "beğenirsiniz": [
+      "you like; you will like",
+      "вам понравится",
+      "жактырасыз",
+      "سيعجبكم",
+      "vous aimerez"
+    ],
+    "alanlarınız": [
+      "your fields",
+      "ваши области",
+      "чөйрөлөрүңүз",
+      "مجالاتكم",
+      "vos domaines"
+    ],
+    "yapmaktan": [
+      "from doing; doing",
+      "от занятия; делать",
+      "жасоодон",
+      "من القيام",
+      "le fait de faire"
+    ],
+    "hoşlanırsınız": [
+      "you enjoy",
+      "вам нравится",
+      "жактырасыз",
+      "تستمتعون",
+      "vous aimez"
+    ],
+    "hobiniz": [
+      "your hobby",
+      "ваше хобби",
+      "хоббиңиз",
+      "هوايتكم",
+      "votre loisir"
+    ],
+    "yeteneğiniz": [
+      "your talent",
+      "ваша способность",
+      "жөндөмүңүз",
+      "موهبتكم",
+      "votre talent"
+    ],
+    "ilgilerinizden": [
+      "about your interests",
+      "о ваших интересах",
+      "кызыгууларыңыз жөнүндө",
+      "عن اهتماماتكم",
+      "de vos intérêts"
+    ],
+    "yeteneklerinizden": [
+      "about your talents",
+      "о ваших способностях",
+      "жөндөмдөрүңүз жөнүндө",
+      "عن مواهبكم",
+      "de vos talents"
+    ],
+    "bahsedin": [
+      "talk about; mention",
+      "расскажите",
+      "айтып бериңиз",
+      "تحدثوا عن",
+      "parlez de"
+    ],
+    "hobilerinizin": [
+      "of your hobbies",
+      "ваших увлечений",
+      "хоббилериңиздин",
+      "لهواياتكم",
+      "de vos loisirs"
+    ],
+    "alanlarınızın": [
+      "of your fields",
+      "ваших областей",
+      "чөйрөлөрүңүздүн",
+      "لمجالاتكم",
+      "de vos domaines"
+    ],
+    "olduğundan": [
+      "that it is; because it is",
+      "о том, что является; поскольку",
+      "экендигинен",
+      "عن كونه؛ لأنه",
+      "du fait qu’il est"
+    ],
+    "gelecekte": [
+      "in the future",
+      "в будущем",
+      "келечекте",
+      "في المستقبل",
+      "à l’avenir"
+    ],
+    "ilgilenmek": [
+      "to take an interest",
+      "интересоваться",
+      "кызыгуу",
+      "الاهتمام",
+      "s’intéresser"
+    ],
+    "istediğinizden": [
+      "what you want; because you want",
+      "о том, что вы хотите",
+      "каалаганыңыз жөнүндө",
+      "عما تريدون",
+      "de ce que vous souhaitez"
+    ],
+    "yazım": [
+      "spelling",
+      "правописание",
+      "жазуу эрежелери",
+      "إملاء",
+      "orthographe"
+    ],
+    "bilgisini": [
+      "knowledge; information (object)",
+      "знание; сведения",
+      "маалыматын",
+      "المعلومات",
+      "les connaissances"
+    ],
+    "giriş-gelişme-sonuç": [
+      "introduction-body-conclusion",
+      "введение — основная часть — заключение",
+      "киришүү — негизги бөлүк — жыйынтык",
+      "مقدمة وعرض وخاتمة",
+      "introduction-développement-conclusion"
+    ],
+    "öğrencisiyim": [
+      "I am a student",
+      "я ученик",
+      "мен окуучумун",
+      "أنا طالب",
+      "je suis élève"
+    ],
+    "yapabiliyorum": [
+      "I can do",
+      "я могу сделать",
+      "жасай алам",
+      "أستطيع فعل",
+      "je peux faire"
+    ],
+    "resimlerimi": [
+      "my pictures",
+      "мои рисунки",
+      "сүрөттөрүмдү",
+      "رسوماتي",
+      "mes dessins"
+    ],
+    "etkinliklerle": [
+      "with activities",
+      "с занятиями",
+      "иш-аракеттер менен",
+      "بالأنشطة",
+      "avec les activités"
+    ],
+    "etkinliklerde": [
+      "in activities",
+      "в занятиях",
+      "иш-аракеттерде",
+      "في الأنشطة",
+      "dans les activités"
+    ],
+    "yapabilirsin": [
+      "you can do",
+      "ты можешь сделать",
+      "жасай аласың",
+      "تستطيع فعل",
+      "tu peux faire"
+    ],
+    "yapamazsın": [
+      "you cannot do",
+      "ты не можешь сделать",
+      "жасай албайсың",
+      "لا تستطيع فعل",
+      "tu ne peux pas faire"
+    ],
+    "kaya": [
+      "rock",
+      "скала",
+      "аска",
+      "صخرة",
+      "rocher"
+    ],
+    "saklıkent": [
+      "Saklıkent (place name)",
+      "Саклыкент",
+      "Саклыкент",
+      "ساكليكنت",
+      "Saklıkent"
+    ],
+    "yapabildi": [
+      "managed to do",
+      "смог сделать",
+      "жасай алды",
+      "تمكن من فعل",
+      "a pu faire"
+    ],
+    "kampa": [
+      "to camp",
+      "в лагерь",
+      "лагерге",
+      "إلى المخيم",
+      "au camp"
+    ],
+    "sürerek": [
+      "by riding/driving",
+      "катаясь; за рулём",
+      "айдап",
+      "بالقيادة",
+      "en conduisant"
+    ],
+    "yedigöller": [
+      "Yedigöller (place name)",
+      "Едигёллер",
+      "Едигөлдөр",
+      "يديغولر",
+      "Yedigöller"
+    ],
+    "atladı": [
+      "jumped",
+      "прыгнул",
+      "секирди",
+      "قفز",
+      "a sauté"
+    ],
+    "ölü": [
+      "dead (Ölüdeniz is a place name)",
+      "мёртвый (в названии Олюдениз)",
+      "өлүк (Өлүдениз — жер аты)",
+      "ميت (ضمن اسم أولودينيز)",
+      "mort (dans le nom Ölüdeniz)"
+    ],
+    "dağcılık": [
+      "mountaineering",
+      "альпинизм",
+      "альпинизм",
+      "تسلق الجبال",
+      "alpinisme"
+    ],
+    "yamaç": [
+      "slope",
+      "склон",
+      "тоо боору",
+      "منحدر",
+      "versant"
+    ],
+    "paraşütü": [
+      "parachute (compound)",
+      "парашют",
+      "парашюту",
+      "مظلة",
+      "parachute"
+    ],
+    "hayatınız": [
+      "your life",
+      "ваша жизнь",
+      "жашооңуз",
+      "حياتكم",
+      "votre vie"
+    ],
+    "veren": [
+      "giving",
+      "дающий",
+      "берген",
+      "الذي يعطي",
+      "qui donne"
+    ],
+    "hayatım": [
+      "my life",
+      "моя жизнь",
+      "жашоом",
+      "حياتي",
+      "ma vie"
+    ],
+    "kartlarını": [
+      "the cards",
+      "карточки",
+      "карточкаларын",
+      "البطاقات",
+      "les cartes"
+    ],
+    "afişini": [
+      "your/his poster",
+      "твой/его плакат",
+      "афишаңызды",
+      "ملصقك",
+      "ton affiche"
+    ],
+    "oluştur": [
+      "create",
+      "создай",
+      "түз",
+      "أنشئ",
+      "crée"
+    ],
+    "eşyalarınızı": [
+      "your belongings",
+      "ваши вещи",
+      "буюмдарыңызды",
+      "أشياءكم",
+      "vos affaires"
+    ],
+    "anlatan": [
+      "describing",
+      "описывающий",
+      "баяндаган",
+      "الذي يصف",
+      "qui décrit"
+    ],
+    "afişinize": [
+      "to your poster",
+      "на ваш плакат",
+      "афишаңызга",
+      "إلى ملصقكم",
+      "à votre affiche"
+    ],
+    "arkadaşlarınızın": [
+      "of your friends",
+      "ваших друзей",
+      "досторуңуздун",
+      "لأصدقائكم",
+      "de vos amis"
+    ],
+    "eşyalarınızın": [
+      "of your belongings",
+      "ваших вещей",
+      "буюмдарыңыздын",
+      "لأشيائكم",
+      "de vos affaires"
+    ],
+    "ekleyin": [
+      "add",
+      "добавьте",
+      "кошуңуз",
+      "أضيفوا",
+      "ajoutez"
+    ],
+    "başlıkları": [
+      "the headings",
+      "заголовки",
+      "аталыштарды",
+      "العناوين",
+      "les titres"
+    ],
+    "şarkılar": [
+      "songs",
+      "песни",
+      "ырлар",
+      "أغان",
+      "chansons"
+    ],
+    "vb": [
+      "etc.",
+      "и т. д.",
+      "ж.б.",
+      "إلخ",
+      "etc."
+    ],
+    "metinlerinizi": [
+      "your texts",
+      "ваши тексты",
+      "тексттериңизди",
+      "نصوصكم",
+      "vos textes"
+    ],
+    "bilgilerim": [
+      "my information",
+      "мои сведения",
+      "маалыматтарым",
+      "معلوماتي",
+      "mes informations"
+    ],
+    "ettığı": [
+      "that he/she does (extracted ettiği)",
+      "который делает",
+      "ал кылган",
+      "الذي يقوم به",
+      "qu’il fait"
+    ],
+    "hobıler": [
+      "hobbies (extracted hobiler)",
+      "увлечения",
+      "хоббилер",
+      "هوايات",
+      "loisirs"
+    ],
+    "rutınler": [
+      "routines (extracted rutinler)",
+      "повседневные дела",
+      "күнүмдүк иштер",
+      "أعمال روتينية",
+      "habitudes"
+    ],
+    "rutın": [
+      "routine (extracted rutin)",
+      "рутина",
+      "күнүмдүк иш",
+      "روتين",
+      "habitude"
+    ],
+    "saatlerı": [
+      "the times (extracted saatleri)",
+      "часы",
+      "сааттары",
+      "المواعيد",
+      "les horaires"
+    ],
+    "etkınlıkler": [
+      "activities (extracted etkinlikler)",
+      "занятия",
+      "иш-чаралар",
+      "أنشطة",
+      "activités"
+    ],
+    "fotoğraflarınızı": [
+      "your photographs",
+      "ваши фотографии",
+      "сүрөттөрүңүздү",
+      "صوركم",
+      "vos photos"
+    ],
+    "aklınıza": [
+      "to your mind",
+      "вам в голову",
+      "оюңузга",
+      "إلى أذهانكم",
+      "à l’esprit"
+    ],
+    "ekleyebilirsiniz": [
+      "you can add",
+      "вы можете добавить",
+      "кошо аласыз",
+      "يمكنكم إضافة",
+      "vous pouvez ajouter"
+    ],
+    "sık": [
+      "frequent; often",
+      "частый; часто",
+      "тез-тез",
+      "متكرر؛ كثيرًا",
+      "fréquent ; souvent"
     ]
   },
   "forms": {
@@ -10363,6 +11350,206 @@
         "Жообуңду күтүп жатам.",
         "أنتظر إجابتك.",
         "J'attends ta réponse."
+      ]
+    },
+    "hobıler": {
+      "lemma": "hobiler",
+      "lemmaTranslations": [
+        "hobbies",
+        "хобби",
+        "хоббилер",
+        "هوايات",
+        "loisirs"
+      ],
+      "formTranslations": [
+        "hobbies (extracted hobiler)",
+        "увлечения",
+        "хоббилер",
+        "هوايات",
+        "loisirs"
+      ],
+      "exampleTr": "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      "examples": [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    },
+    "rutınler": {
+      "lemma": "rutinler",
+      "lemmaTranslations": [
+        "routines",
+        "привычные действия",
+        "күнүмдүк иштер",
+        "أعمال روتينية",
+        "habitudes"
+      ],
+      "formTranslations": [
+        "routines (extracted rutinler)",
+        "повседневные дела",
+        "күнүмдүк иштер",
+        "أعمال روتينية",
+        "habitudes"
+      ],
+      "exampleTr": "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      "examples": [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    },
+    "rutın": {
+      "lemma": "rutin",
+      "lemmaTranslations": [
+        "routine (extracted rutin)",
+        "рутина",
+        "күнүмдүк иш",
+        "روتين",
+        "habitude"
+      ],
+      "formTranslations": [
+        "routine (extracted rutin)",
+        "рутина",
+        "күнүмдүк иш",
+        "روتين",
+        "habitude"
+      ],
+      "exampleTr": "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      "examples": [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    },
+    "saatlerı": {
+      "lemma": "saatleri",
+      "lemmaTranslations": [
+        "the times; the hours",
+        "часы; время",
+        "сааттарды",
+        "الساعات؛ المواعيد",
+        "les heures ; les horaires"
+      ],
+      "formTranslations": [
+        "the times (extracted saatleri)",
+        "часы",
+        "сааттары",
+        "المواعيد",
+        "les horaires"
+      ],
+      "exampleTr": "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      "examples": [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    },
+    "etkınlıkler": {
+      "lemma": "etkinlikler",
+      "lemmaTranslations": [
+        "activities; events",
+        "мероприятия",
+        "иш-чаралар",
+        "أنشطة وفعاليات",
+        "activités; événements"
+      ],
+      "formTranslations": [
+        "activities (extracted etkinlikler)",
+        "занятия",
+        "иш-чаралар",
+        "أنشطة",
+        "activités"
+      ],
+      "exampleTr": "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      "examples": [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    },
+    "ettığı": {
+      "lemma": "ettiği",
+      "lemmaTranslations": [
+        "that he/she does (extracted ettiği)",
+        "который делает",
+        "ал кылган",
+        "الذي يقوم به",
+        "qu’il fait"
+      ],
+      "formTranslations": [
+        "that he/she does (extracted ettiği)",
+        "который делает",
+        "ал кылган",
+        "الذي يقوم به",
+        "qu’il fait"
+      ],
+      "exampleTr": "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      "examples": [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    },
+    "şaretleyin": {
+      "lemma": "işaretleyin",
+      "lemmaTranslations": [
+        "mark; tick",
+        "отметьте",
+        "белгилегиле",
+        "حدّدوا",
+        "cochez"
+      ],
+      "formTranslations": [
+        "mark (source extraction: işaretleyin)",
+        "отметьте",
+        "белгилеңиз",
+        "ضعوا علامة",
+        "cochez"
+      ],
+      "exampleTr": "Doğru cevabı işaretleyin.",
+      "examples": [
+        "Mark the correct answer.",
+        "Отметьте правильный ответ.",
+        "Туура жоопту белгилеңиз.",
+        "ضعوا علامة على الإجابة الصحيحة.",
+        "Cochez la bonne réponse."
+      ]
+    },
+    "bilginlendiriz": {
+      "lemma": "bilgilendirmek",
+      "lemmaTranslations": [
+        "we inform (source typo: bilgilendiririz)",
+        "мы информируем",
+        "маалымат беребиз",
+        "نُعلم",
+        "nous informons"
+      ],
+      "formTranslations": [
+        "we inform (source typo: bilgilendiririz)",
+        "мы информируем",
+        "маалымат беребиз",
+        "نُعلم",
+        "nous informons"
+      ],
+      "exampleTr": "Bu broşürle insanları yeni kurslar hakkında bilgilendiririz.",
+      "examples": [
+        "We inform people about new courses through this brochure.",
+        "Этой брошюрой мы информируем людей о новых курсах.",
+        "Бул китепче аркылуу адамдарга жаңы курстар жөнүндө маалымат беребиз.",
+        "نعلم الناس بالدورات الجديدة من خلال هذا الكتيب.",
+        "Cette brochure nous permet d’informer les gens des nouveaux cours."
       ]
     }
   },
@@ -18888,13 +20075,13 @@
       ]
     ],
     "sağlıksız": [
-      "Sağlıklı beslenmek için evde yemek hazırlıyorum.",
+      "Bu sağlıksız alışkanlığı bırakmak istiyorum.",
       [
-        "I prepare meals at home to eat healthily.",
-        "Я готовлю дома, чтобы правильно питаться.",
-        "Туура тамактануу үчүн үйдө тамак даярдайм.",
-        "أعد الطعام في المنزل لأتناول غذاءً صحيًا.",
-        "Je prépare mes repas chez moi pour manger sainement."
+        "I want to give up this unhealthy habit.",
+        "Я хочу отказаться от этой нездоровой привычки.",
+        "Бул зыяндуу адаттан арылгым келет.",
+        "أريد الإقلاع عن هذه العادة غير الصحية.",
+        "Je veux abandonner cette mauvaise habitude."
       ]
     ],
     "beslenmek": [
@@ -18908,13 +20095,13 @@
       ]
     ],
     "besleniyor": [
-      "Sağlıklı beslenmek için evde yemek hazırlıyorum.",
+      "Kardeşim okulda düzenli besleniyor.",
       [
-        "I prepare meals at home to eat healthily.",
-        "Я готовлю дома, чтобы правильно питаться.",
-        "Туура тамактануу үчүн үйдө тамак даярдайм.",
-        "أعد الطعام في المنزل لأتناول غذاءً صحيًا.",
-        "Je prépare mes repas chez moi pour manger sainement."
+        "My sibling eats regularly at school.",
+        "Мой брат регулярно питается в школе.",
+        "Иним мектепте үзгүлтүксүз тамактанат.",
+        "يتناول أخي الطعام بانتظام في المدرسة.",
+        "Mon frère mange régulièrement à l’école."
       ]
     ],
     "hareketsiz": [
@@ -18968,13 +20155,13 @@
       ]
     ],
     "ruhi’den": [
-      "Ruhi’nin kitabını yarın Ruhi’ye vereceğim.",
+      "Ruhi’den daha erken geliyorum.",
       [
-        "I will give Ruhi’s book to him tomorrow.",
-        "Завтра я отдам Рухи его книгу.",
-        "Рухинин китебин эртең өзүнө берем.",
-        "سأعطي كتاب روحي له غدًا.",
-        "Je donnerai demain son livre à Ruhi."
+        "I arrive earlier than Ruhi.",
+        "Я прихожу раньше Рухи.",
+        "Рухиден эртерээк келем.",
+        "أصل أبكر من روحي.",
+        "J’arrive plus tôt que Ruhi."
       ]
     ],
     "kendimi": [
@@ -19018,33 +20205,33 @@
       ]
     ],
     "insomniya": [
-      "Uykusuzluk şikâyetiyle doktora gittim.",
+      "Doktor, uyku sorununun insomniya olduğunu söyledi.",
       [
-        "I went to the doctor because I could not sleep.",
-        "Я обратился к врачу с жалобой на бессонницу.",
-        "Уйкусуздукка даттанып дарыгерге бардым.",
-        "ذهبت إلى الطبيب بسبب الأرق.",
-        "Je suis allé chez le médecin pour des insomnies."
+        "The doctor said the sleep problem was insomnia.",
+        "Врач сказал, что проблема со сном — бессонница.",
+        "Дарыгер уйку көйгөйү уйкусуздук экенин айтты.",
+        "قال الطبيب إن مشكلة النوم هي الأرق.",
+        "Le médecin a dit que le problème de sommeil était une insomnie."
       ]
     ],
     "teşhisi": [
-      "Uykusuzluk şikâyetiyle doktora gittim.",
+      "Doktorun koyduğu teşhisi aileme anlattım.",
       [
-        "I went to the doctor because I could not sleep.",
-        "Я обратился к врачу с жалобой на бессонницу.",
-        "Уйкусуздукка даттанып дарыгерге бардым.",
-        "ذهبت إلى الطبيب بسبب الأرق.",
-        "Je suis allé chez le médecin pour des insomnies."
+        "I told my family about the doctor’s diagnosis.",
+        "Я рассказал семье о диагнозе врача.",
+        "Дарыгер койгон диагнозду үй-бүлөмө айтып бердим.",
+        "أخبرت عائلتي بالتشخيص الذي وضعه الطبيب.",
+        "J’ai expliqué à ma famille le diagnostic du médecin."
       ]
     ],
     "koydu": [
-      "Uykusuzluk şikâyetiyle doktora gittim.",
+      "Annem anahtarları masaya koydu.",
       [
-        "I went to the doctor because I could not sleep.",
-        "Я обратился к врачу с жалобой на бессонницу.",
-        "Уйкусуздукка даттанып дарыгерге бардым.",
-        "ذهبت إلى الطبيب بسبب الأرق.",
-        "Je suis allé chez le médecin pour des insomnies."
+        "My mother put the keys on the table.",
+        "Мама положила ключи на стол.",
+        "Апам ачкычтарды үстөлгө койду.",
+        "وضعت أمي المفاتيح على الطاولة.",
+        "Ma mère a posé les clés sur la table."
       ]
     ],
     "uykusuzluk": [
@@ -19058,13 +20245,13 @@
       ]
     ],
     "hastalığı": [
-      "Uykusuzluk şikâyetiyle doktora gittim.",
+      "Dedemin hastalığı nedeniyle geziyi erteledik.",
       [
-        "I went to the doctor because I could not sleep.",
-        "Я обратился к врачу с жалобой на бессонницу.",
-        "Уйкусуздукка даттанып дарыгерге бардым.",
-        "ذهبت إلى الطبيب بسبب الأرق.",
-        "Je suis allé chez le médecin pour des insomnies."
+        "We postponed the trip because of my grandfather’s illness.",
+        "Мы отложили поездку из-за болезни дедушки.",
+        "Чоң атамдын оорусунан улам сапарды жылдырдык.",
+        "أجلنا الرحلة بسبب مرض جدي.",
+        "Nous avons reporté le voyage en raison de la maladie de mon grand-père."
       ]
     ],
     "bankada": [
@@ -19088,13 +20275,13 @@
       ]
     ],
     "kalkamıyorum": [
-      "Erken kalkmam gerekiyor ama geceleri uyuyamıyorum.",
+      "Çok geç yattığımda sabah erken kalkamıyorum.",
       [
-        "I need to get up early, but I cannot sleep at night.",
-        "Мне нужно рано вставать, но ночью я не могу уснуть.",
-        "Эрте турушум керек, бирок түнкүсүн уктай албайм.",
-        "يجب أن أنهض مبكرًا لكنني لا أستطيع النوم ليلًا.",
-        "Je dois me lever tôt, mais je n’arrive pas à dormir la nuit."
+        "When I go to bed very late, I cannot get up early.",
+        "Когда я очень поздно ложусь, не могу рано встать.",
+        "Өтө кеч жатсам, эртең менен эрте тура албайм.",
+        "عندما أنام متأخرًا جدًا لا أستطيع النهوض مبكرًا.",
+        "Quand je me couche très tard, je n’arrive pas à me lever tôt."
       ]
     ],
     "uyuyamıyorum": [
@@ -19118,13 +20305,13 @@
       ]
     ],
     "uyanıyorum": [
-      "Uyandıktan sonra yataktan kalkıyorum.",
+      "Alarm çalınca hemen uyanıyorum.",
       [
-        "After waking up, I get out of bed.",
-        "Проснувшись, я встаю с постели.",
-        "Ойгонгондон кийин төшөктөн турам.",
-        "بعد الاستيقاظ أنهض من السرير.",
-        "Après m’être réveillé, je me lève."
+        "I wake up immediately when the alarm rings.",
+        "Я сразу просыпаюсь, когда звонит будильник.",
+        "Ойготкуч чырылдаганда дароо ойгоном.",
+        "أستيقظ فور رنين المنبه.",
+        "Je me réveille dès que le réveil sonne."
       ]
     ],
     "kalkıyorum": [
@@ -19168,13 +20355,13 @@
       ]
     ],
     "stresli": [
-      "Bugünkü toplantı uzun ve sıkıcıydı.",
+      "Bugün işte stresli bir gün geçirdim.",
       [
-        "Today’s meeting was long and boring.",
-        "Сегодняшнее совещание было долгим и скучным.",
-        "Бүгүнкү жыйын узак жана кызыксыз болду.",
-        "كان اجتماع اليوم طويلًا ومملًا.",
-        "La réunion d’aujourd’hui était longue et ennuyeuse."
+        "I had a stressful day at work today.",
+        "Сегодня у меня был напряжённый день на работе.",
+        "Бүгүн жумушта стресстүү күн өткөрдүм.",
+        "قضيت يومًا مرهقًا في العمل اليوم.",
+        "J’ai passé une journée stressante au travail."
       ]
     ],
     "sıkıcı": [
@@ -19198,13 +20385,13 @@
       ]
     ],
     "vaktinde": [
-      "Mola veriyoruz; ben de bu sırada çay içiyorum.",
+      "Randevuma vaktinde geldim.",
       [
-        "We are taking a break, and I am drinking tea.",
-        "Мы делаем перерыв, а я пью чай.",
-        "Тыныгуу жасап жатабыз, мен чай ичип жатам.",
-        "نأخذ استراحة وأنا أشرب الشاي خلالها.",
-        "Nous faisons une pause et je bois du thé."
+        "I arrived for my appointment on time.",
+        "Я пришёл на приём вовремя.",
+        "Кабыл алууга өз убагында келдим.",
+        "وصلت إلى موعدي في الوقت المحدد.",
+        "Je suis arrivé à l’heure à mon rendez-vous."
       ]
     ],
     "içiyorum": [
@@ -19308,13 +20495,13 @@
       ]
     ],
     "hatta": [
-      "Kendime bir fotoğrafçı dükkânı açmak istiyorum.",
+      "Bugün çok yürüdüm, hatta eve de yürüyerek döndüm.",
       [
-        "I want to open a photography shop of my own.",
-        "Я хочу открыть собственную фотомастерскую.",
-        "Өзүмө фотосүрөтчү дүкөнүн ачкым келет.",
-        "أريد فتح محل تصوير خاص بي.",
-        "Je veux ouvrir ma propre boutique de photographie."
+        "I walked a lot today; I even walked home.",
+        "Сегодня я много ходил и даже вернулся домой пешком.",
+        "Бүгүн көп бастым, атүгүл үйгө да жөө кайттым.",
+        "مشيت كثيرًا اليوم بل عدت إلى المنزل مشيًا أيضًا.",
+        "J’ai beaucoup marché aujourd’hui et je suis même rentré à pied."
       ]
     ],
     "işlerimi": [
@@ -19578,13 +20765,13 @@
       ]
     ],
     "biliyorum": [
-      "Biraz kitap okuduktan sonra uyuyorum.",
+      "Bu sorunun cevabını biliyorum.",
       [
-        "I sleep after reading for a while.",
-        "Немного почитав, я засыпаю.",
-        "Бир аз китеп окугандан кийин уктайм.",
-        "أنام بعد قراءة كتاب قليلًا.",
-        "Je m’endors après avoir lu un moment."
+        "I know the answer to this question.",
+        "Я знаю ответ на этот вопрос.",
+        "Бул суроонун жообун билем.",
+        "أعرف إجابة هذا السؤال.",
+        "Je connais la réponse à cette question."
       ]
     ],
     "programlarını": [
@@ -19608,13 +20795,13 @@
       ]
     ],
     "programınızdan": [
-      "Tablolardan öğrencilerin programlarını kontrol edin.",
+      "Programınızdan bir etkinlik seçin.",
       [
-        "Check the students’ schedules using the tables.",
-        "Проверьте расписания учеников по таблицам.",
-        "Таблицалардан окуучулардын күн тартиптерин текшериңиз.",
-        "راجعوا برامج الطلاب من خلال الجداول.",
-        "Vérifiez les emplois du temps des élèves à partir des tableaux."
+        "Choose an activity from your schedule.",
+        "Выберите занятие из своего расписания.",
+        "Күн тартибиңизден бир иш-аракетти тандаңыз.",
+        "اختاروا نشاطًا من برنامجكم.",
+        "Choisissez une activité dans votre programme."
       ]
     ],
     "rutinleriniz": [
@@ -19648,13 +20835,13 @@
       ]
     ],
     "elif’ten": [
-      "Sizin rutinleriniz benim günlük rutinlerime benziyor.",
+      "Elif’ten bir kitap ödünç aldım.",
       [
-        "Your routines resemble my daily routines.",
-        "Ваши привычки похожи на мои ежедневные привычки.",
-        "Сиздин күнүмдүк иштериңиз меникине окшош.",
-        "أعمالكم الروتينية تشبه أعمالي اليومية.",
-        "Vos habitudes ressemblent à mes habitudes quotidiennes."
+        "I borrowed a book from Elif.",
+        "Я взял книгу у Элиф.",
+        "Элифтен китеп алдым.",
+        "استعرت كتابًا من إليف.",
+        "J’ai emprunté un livre à Elif."
       ]
     ],
     "09.00’da": [
@@ -20138,13 +21325,13 @@
       ]
     ],
     "yeterlilik": [
-      "Koleksiyon yapmak benim için eğlenceli bir hobi.",
+      "Bu derste yeterlilik bildiren cümleler kurduk.",
       [
-        "Collecting is a fun hobby for me.",
-        "Коллекционирование для меня — увлекательное хобби.",
-        "Коллекция чогултуу мен үчүн кызыктуу хобби.",
-        "جمع المقتنيات هواية ممتعة بالنسبة إلي.",
-        "Faire une collection est pour moi un loisir amusant."
+        "In this lesson, we formed sentences expressing ability.",
+        "На этом уроке мы составляли предложения, выражающие способность.",
+        "Бул сабакта жөндөмдүүлүктү билдирген сүйлөмдөрдү түздүк.",
+        "كونا في هذا الدرس جملًا تعبر عن القدرة.",
+        "Dans ce cours, nous avons construit des phrases exprimant la capacité."
       ]
     ],
     "hobi": [
@@ -20478,13 +21665,13 @@
       ]
     ],
     "araştırmacı": [
-      "Arkadaşlarım meraklı ve disiplinli insanlardır.",
+      "Araştırmacı yeni bir çalışma yayımladı.",
       [
-        "My friends are curious and disciplined people.",
-        "Мои друзья — любознательные и дисциплинированные люди.",
-        "Досторум кызыккан жана тартиптүү адамдар.",
-        "أصدقائي أشخاص فضوليون ومنضبطون.",
-        "Mes amis sont des personnes curieuses et disciplinées."
+        "The researcher published a new study.",
+        "Исследователь опубликовал новую работу.",
+        "Изилдөөчү жаңы эмгегин жарыялады.",
+        "نشر الباحث دراسة جديدة.",
+        "Le chercheur a publié une nouvelle étude."
       ]
     ],
     "insanlarız": [
@@ -20738,13 +21925,13 @@
       ]
     ],
     "konuşabiliriz": [
-      "Festivalde ünlü yönetmen ve oyuncuları görebiliriz.",
+      "Dersten sonra bu konuyu konuşabiliriz.",
       [
-        "We can see famous directors and actors at the festival.",
-        "На фестивале мы можем увидеть знаменитых режиссёров и актёров.",
-        "Фестивалда атактуу режиссёрлор менен актёрлорду көрө алабыз.",
-        "يمكننا رؤية مخرجين وممثلين مشهورين في المهرجان.",
-        "Au festival, nous pouvons voir des réalisateurs et des acteurs célèbres."
+        "We can discuss this topic after class.",
+        "Мы можем обсудить эту тему после урока.",
+        "Сабактан кийин бул теманы сүйлөшө алабыз.",
+        "يمكننا مناقشة هذا الموضوع بعد الدرس.",
+        "Nous pouvons parler de ce sujet après le cours."
       ]
     ],
     "jüri": [
@@ -20768,13 +21955,13 @@
       ]
     ],
     "saatlerce": [
-      "Film eleştirisi yazmadan önce filminizi izleyebilirim.",
+      "Otobüsü saatlerce bekledik.",
       [
-        "I can watch your film before writing a review.",
-        "Я могу посмотреть ваш фильм, прежде чем написать рецензию.",
-        "Сын-пикир жазардан мурун тасмаңызды көрө алам.",
-        "يمكنني مشاهدة فيلمكم قبل كتابة نقد له.",
-        "Je peux regarder votre film avant d’en écrire une critique."
+        "We waited for the bus for hours.",
+        "Мы ждали автобус несколько часов.",
+        "Автобусту сааттар бою күттүк.",
+        "انتظرنا الحافلة لساعات.",
+        "Nous avons attendu le bus pendant des heures."
       ]
     ],
     "izleyebilirim": [
@@ -20838,13 +22025,13 @@
       ]
     ],
     "ekonomiktir": [
-      "Bu etkinlik için küçük bir alana ihtiyacınız var.",
+      "Otobüsle seyahat etmek bu yol için daha ekonomiktir.",
       [
-        "You need a small space for this activity.",
-        "Для этого занятия вам нужно небольшое пространство.",
-        "Бул иш-аракет үчүн кичинекей аянт керек.",
-        "تحتاجون إلى مساحة صغيرة لهذا النشاط.",
-        "Vous avez besoin d’un petit espace pour cette activité."
+        "Travelling by bus is more economical for this journey.",
+        "Для этой поездки автобус экономичнее.",
+        "Бул сапар үчүн автобус менен баруу үнөмдүүрөөк.",
+        "السفر بالحافلة أوفر لهذه الرحلة.",
+        "Pour ce trajet, voyager en bus est plus économique."
       ]
     ],
     "tutkum": [
@@ -20868,43 +22055,43 @@
       ]
     ],
     "etkinliklerimiz": [
-      "Fotoğrafçılık benim için bir hobi değil, bir tutku.",
+      "Hafta sonu etkinliklerimiz çok eğlenceliydi.",
       [
-        "Photography is more than a hobby for me; it is a passion.",
-        "Фотография для меня не просто хобби, а страсть.",
-        "Фотосүрөтчүлүк мен үчүн жөн гана хобби эмес, кумар.",
-        "التصوير بالنسبة إلي ليس مجرد هواية بل شغف.",
-        "La photographie est pour moi plus qu’un loisir, c’est une passion."
+        "Our weekend activities were very enjoyable.",
+        "Наши занятия на выходных были очень интересными.",
+        "Дем алыштагы иш-чараларыбыз абдан кызыктуу болду.",
+        "كانت أنشطتنا في عطلة نهاية الأسبوع ممتعة جدًا.",
+        "Nos activités du week-end étaient très amusantes."
       ]
     ],
     "midir": [
-      "Fotoğrafçılık benim için bir hobi değil, bir tutku.",
+      "Bu kitap sizin midir?",
       [
-        "Photography is more than a hobby for me; it is a passion.",
-        "Фотография для меня не просто хобби, а страсть.",
-        "Фотосүрөтчүлүк мен үчүн жөн гана хобби эмес, кумар.",
-        "التصوير بالنسبة إلي ليس مجرد هواية بل شغف.",
-        "La photographie est pour moi plus qu’un loisir, c’est une passion."
+        "Is this book yours?",
+        "Эта книга ваша?",
+        "Бул китеп сиздикиби?",
+        "هل هذا الكتاب لكم؟",
+        "Ce livre est-il à vous ?"
       ]
     ],
     "yoksa": [
-      "Fotoğrafçılık benim için bir hobi değil, bir tutku.",
+      "Çay mı istersin, yoksa kahve mi?",
       [
-        "Photography is more than a hobby for me; it is a passion.",
-        "Фотография для меня не просто хобби, а страсть.",
-        "Фотосүрөтчүлүк мен үчүн жөн гана хобби эмес, кумар.",
-        "التصوير بالنسبة إلي ليس مجرد هواية بل شغف.",
-        "La photographie est pour moi plus qu’un loisir, c’est une passion."
+        "Would you like tea or coffee?",
+        "Ты хочешь чай или кофе?",
+        "Чай ичесиңби же кофеби?",
+        "أتريد الشاي أم القهوة؟",
+        "Tu veux du thé ou du café ?"
       ]
     ],
     "zamanlar": [
-      "Fotoğrafçılık benim için bir hobi değil, bir tutku.",
+      "O zamanlar bu sokakta yaşıyorduk.",
       [
-        "Photography is more than a hobby for me; it is a passion.",
-        "Фотография для меня не просто хобби, а страсть.",
-        "Фотосүрөтчүлүк мен үчүн жөн гана хобби эмес, кумар.",
-        "التصوير بالنسبة إلي ليس مجرد هواية بل شغف.",
-        "La photographie est pour moi plus qu’un loisir, c’est une passion."
+        "We lived on this street back then.",
+        "В те времена мы жили на этой улице.",
+        "Ошол убактарда бул көчөдө жашачубуз.",
+        "كنا نسكن في هذا الشارع آنذاك.",
+        "À cette époque, nous habitions dans cette rue."
       ]
     ],
     "ayırırız": [
@@ -20918,13 +22105,13 @@
       ]
     ],
     "sahibi": [
-      "Ortak bir hobiye zaman ayırırız.",
+      "Bu dükkânın sahibi çok güler yüzlü.",
       [
-        "We make time for a shared hobby.",
-        "Мы выделяем время общему увлечению.",
-        "Жалпы хоббиге убакыт бөлөбүз.",
-        "نخصص وقتًا لهواية مشتركة.",
-        "Nous consacrons du temps à un loisir commun."
+        "The owner of this shop is very friendly.",
+        "Хозяин этого магазина очень приветливый.",
+        "Бул дүкөндүн ээси абдан жылуу жүздүү.",
+        "صاحب هذا المحل بشوش جدًا.",
+        "Le propriétaire de cette boutique est très aimable."
       ]
     ],
     "ortak": [
@@ -20988,13 +22175,13 @@
       ]
     ],
     "mesleğidir": [
-      "Kardeşimin hobisi çizgi roman okumak.",
+      "Fotoğrafçılık onun mesleğidir.",
       [
-        "My brother’s hobby is reading comics.",
-        "Хобби моего брата — читать комиксы.",
-        "Инимдин хоббиси — комикс окуу.",
-        "هواية أخي قراءة القصص المصورة.",
-        "Le loisir de mon frère est de lire des bandes dessinées."
+        "Photography is her profession.",
+        "Фотография — её профессия.",
+        "Фотосүрөтчүлүк — анын кесиби.",
+        "التصوير مهنتها.",
+        "La photographie est son métier."
       ]
     ],
     "kelimelerin": [
@@ -21018,13 +22205,13 @@
       ]
     ],
     "şaretleyin": [
-      "Bilmediğiniz kelimelerin anlamlarını sözlükten bulun.",
+      "Doğru cevabı işaretleyin.",
       [
-        "Find the meanings of unfamiliar words in the dictionary.",
-        "Найдите значения незнакомых слов в словаре.",
-        "Билбеген сөздөрдүн маанилерин сөздүктөн табыңыз.",
-        "ابحثوا عن معاني الكلمات التي لا تعرفونها في القاموس.",
-        "Cherchez le sens des mots inconnus dans le dictionnaire."
+        "Mark the correct answer.",
+        "Отметьте правильный ответ.",
+        "Туура жоопту белгилеңиз.",
+        "ضعوا علامة على الإجابة الصحيحة.",
+        "Cochez la bonne réponse."
       ]
     ],
     "kutucuğunu": [
@@ -21128,13 +22315,13 @@
       ]
     ],
     "tuval": [
-      "Gitar bir müzik aleti, raket ise tenis için kullanılır.",
+      "Ressam tuval üzerine bir manzara çizdi.",
       [
-        "A guitar is a musical instrument, while a racket is used for tennis.",
-        "Гитара — музыкальный инструмент, а ракетка используется для тенниса.",
-        "Гитара — музыкалык аспап, ал эми ракетка теннис үчүн колдонулат.",
-        "الغيتار آلة موسيقية أما المضرب فيستخدم للتنس.",
-        "La guitare est un instrument de musique et la raquette sert à jouer au tennis."
+        "The painter painted a landscape on canvas.",
+        "Художник нарисовал пейзаж на холсте.",
+        "Сүрөтчү кенепке пейзаж тартты.",
+        "رسم الفنان منظرًا طبيعيًا على قماش الرسم.",
+        "Le peintre a peint un paysage sur une toile."
       ]
     ],
     "raket": [
@@ -21178,13 +22365,13 @@
       ]
     ],
     "dalış": [
-      "Gitar bir müzik aleti, raket ise tenis için kullanılır.",
+      "Yazın dalış kursuna katılmak istiyorum.",
       [
-        "A guitar is a musical instrument, while a racket is used for tennis.",
-        "Гитара — музыкальный инструмент, а ракетка используется для тенниса.",
-        "Гитара — музыкалык аспап, ал эми ракетка теннис үчүн колдонулат.",
-        "الغيتار آلة موسيقية أما المضرب فيستخدم للتنس.",
-        "La guitare est un instrument de musique et la raquette sert à jouer au tennis."
+        "I want to take a diving course in summer.",
+        "Летом я хочу пройти курс дайвинга.",
+        "Жайында сууга чумкуу курсуна катышкым келет.",
+        "أريد الالتحاق بدورة غوص في الصيف.",
+        "Je veux suivre un cours de plongée cet été."
       ]
     ],
     "abıl": [
@@ -21218,23 +22405,23 @@
       ]
     ],
     "petank": [
-      "Origami yapmak ve takı tasarlamak istiyorum.",
+      "Parkta arkadaşlarımla petank oynadım.",
       [
-        "I want to do origami and design jewellery.",
-        "Я хочу заниматься оригами и создавать украшения.",
-        "Оригами жасап, зер буюмдарды долбоорлогум келет.",
-        "أريد صنع الأوريغامي وتصميم الحلي.",
-        "Je veux faire de l’origami et créer des bijoux."
+        "I played pétanque with my friends in the park.",
+        "Я играл с друзьями в петанк в парке.",
+        "Паркта досторум менен петанк ойнодум.",
+        "لعبت البيتانك مع أصدقائي في الحديقة.",
+        "J’ai joué à la pétanque avec mes amis au parc."
       ]
     ],
     "judo": [
-      "Origami yapmak ve takı tasarlamak istiyorum.",
+      "Kardeşim haftada iki gün judo yapıyor.",
       [
-        "I want to do origami and design jewellery.",
-        "Я хочу заниматься оригами и создавать украшения.",
-        "Оригами жасап, зер буюмдарды долбоорлогум келет.",
-        "أريد صنع الأوريغامي وتصميم الحلي.",
-        "Je veux faire de l’origami et créer des bijoux."
+        "My sibling does judo twice a week.",
+        "Мой брат занимается дзюдо два раза в неделю.",
+        "Иним жумасына эки күн дзюдо менен машыгат.",
+        "يمارس أخي الجودو يومين في الأسبوع.",
+        "Mon frère fait du judo deux fois par semaine."
       ]
     ],
     "insanın": [
@@ -21278,13 +22465,13 @@
       ]
     ],
     "zamanlarında": [
-      "Teknolojiyle ilgilenmek, insanın kendini geliştirmek için yaptığı bir etkinliktir.",
+      "Çocuklar boş zamanlarında oyun oynar.",
       [
-        "Taking an interest in technology is an activity people do to develop themselves.",
-        "Интерес к технологиям — занятие, которым человек занимается для саморазвития.",
-        "Технологияга кызыгуу — адамдын өзүн өнүктүрүү үчүн жасаган иш-аракети.",
-        "الاهتمام بالتكنولوجيا نشاط يقوم به الإنسان لتطوير نفسه.",
-        "S’intéresser à la technologie est une activité qui permet de se développer."
+        "Children play games in their free time.",
+        "Дети играют в свободное время.",
+        "Балдар бош убактарында оюн ойношот.",
+        "يلعب الأطفال في أوقات فراغهم.",
+        "Les enfants jouent pendant leur temps libre."
       ]
     ],
     "teknoloji": [
@@ -21298,13 +22485,13 @@
       ]
     ],
     "ilgileniyor": [
-      "Programa katılan öğrencilere hobini anlat.",
+      "Annem bahçecilikle ilgileniyor.",
       [
-        "Tell the students taking part in the programme about your hobby.",
-        "Расскажи о своём хобби ученикам, участвующим в программе.",
-        "Программага катышкан окуучуларга хоббиңди айтып бер.",
-        "حدث الطلاب المشاركين في البرنامج عن هوايتك.",
-        "Présente ton loisir aux élèves qui participent au programme."
+        "My mother is interested in gardening.",
+        "Мама увлекается садоводством.",
+        "Апам багбанчылыкка кызыгат.",
+        "تهتم أمي بالبستنة.",
+        "Ma mère s’intéresse au jardinage."
       ]
     ],
     "programa": [
@@ -21348,23 +22535,23 @@
       ]
     ],
     "türkçenin": [
-      "Programa katılan öğrencilere hobini anlat.",
+      "Türkçenin seslerini dikkatle dinliyorum.",
       [
-        "Tell the students taking part in the programme about your hobby.",
-        "Расскажи о своём хобби ученикам, участвующим в программе.",
-        "Программага катышкан окуучуларга хоббиңди айтып бер.",
-        "حدث الطلاب المشاركين في البرنامج عن هوايتك.",
-        "Présente ton loisir aux élèves qui participent au programme."
+        "I listen carefully to the sounds of Turkish.",
+        "Я внимательно слушаю звуки турецкого языка.",
+        "Түрк тилинин тыбыштарын кунт коюп угам.",
+        "أستمع باهتمام إلى أصوات اللغة التركية.",
+        "J’écoute attentivement les sons du turc."
       ]
     ],
     "ilgisini": [
-      "Arkadaşım sınıfla konuşmak istediğini söyledi.",
+      "Fotoğraf sergisi kardeşimin ilgisini çekti.",
       [
-        "My friend said they wanted to speak to the class.",
-        "Мой друг сказал, что хочет поговорить с классом.",
-        "Досум класс менен сүйлөшкүсү келгенин айтты.",
-        "قال صديقي إنه يريد التحدث مع الصف.",
-        "Mon ami a dit qu’il voulait parler à la classe."
+        "The photography exhibition interested my sibling.",
+        "Фотовыставка заинтересовала моего брата.",
+        "Сүрөт көргөзмөсү инимдин кызыгуусун жаратты.",
+        "أثار معرض الصور اهتمام أخي.",
+        "L’exposition de photos a intéressé mon frère."
       ]
     ],
     "istedi": [
@@ -21398,13 +22585,13 @@
       ]
     ],
     "nerelidir": [
-      "Arkadaşım sınıfla konuşmak istediğini söyledi.",
+      "Yeni öğrencimiz nerelidir?",
       [
-        "My friend said they wanted to speak to the class.",
-        "Мой друг сказал, что хочет поговорить с классом.",
-        "Досум класс менен сүйлөшкүсү келгенин айтты.",
-        "قال صديقي إنه يريد التحدث مع الصف.",
-        "Mon ami a dit qu’il voulait parler à la classe."
+        "Where is our new student from?",
+        "Откуда наш новый ученик?",
+        "Жаңы окуучубуз кайсы жерден?",
+        "من أين طالبنا الجديد؟",
+        "D’où vient notre nouvel élève ?"
       ]
     ],
     "haruto": [
@@ -21438,13 +22625,13 @@
       ]
     ],
     "makedonya’da": [
-      "Haruto Japonya’da, Amina Moritanya’da yaşıyor.",
+      "Arkadaşım Makedonya’da yaşıyor.",
       [
-        "Haruto lives in Japan and Amina lives in Mauritania.",
-        "Харуто живёт в Японии, а Амина — в Мавритании.",
-        "Харуто Жапонияда, Амина Мавританияда жашайт.",
-        "يعيش هاروتو في اليابان وتعيش أمينة في موريتانيا.",
-        "Haruto vit au Japon et Amina en Mauritanie."
+        "My friend lives in Macedonia.",
+        "Мой друг живёт в Македонии.",
+        "Досум Македонияда жашайт.",
+        "يعيش صديقي في مقدونيا.",
+        "Mon ami vit en Macédoine."
       ]
     ],
     "moritanya’da": [
@@ -21455,6 +22642,1466 @@
         "Харуто Жапонияда, Амина Мавританияда жашайт.",
         "يعيش هاروتو في اليابان وتعيش أمينة في موريتانيا.",
         "Haruto vit au Japon et Amina en Mauritanie."
+      ]
+    ],
+    "gruptan": [
+      "Hangi gruptan daha çok puan aldın?",
+      [
+        "Which group did you get more points from?",
+        "В какой группе ты получил больше баллов?",
+        "Кайсы топтон көбүрөөк упай алдың?",
+        "من أي مجموعة حصلت على نقاط أكثر؟",
+        "Dans quel groupe as-tu obtenu le plus de points ?"
+      ]
+    ],
+    "aldın": [
+      "Hangi gruptan daha çok puan aldın?",
+      [
+        "Which group did you get more points from?",
+        "В какой группе ты получил больше баллов?",
+        "Кайсы топтон көбүрөөк упай алдың?",
+        "من أي مجموعة حصلت على نقاط أكثر؟",
+        "Dans quel groupe as-tu obtenu le plus de points ?"
+      ]
+    ],
+    "sanatlarla": [
+      "Yukarıda hangi sanatlarla ilgilenmeyi sevdiğimi yazdım.",
+      [
+        "Above, I wrote which arts I enjoy.",
+        "Выше я написал, какими искусствами люблю заниматься.",
+        "Жогоруда кайсы искусстволорго кызыгууну жактырарымды жаздым.",
+        "كتبت أعلاه الفنون التي أحب الاهتمام بها.",
+        "J’ai écrit ci-dessus quels arts m’intéressent."
+      ]
+    ],
+    "ilgilenmeyi": [
+      "Yukarıda hangi sanatlarla ilgilenmeyi sevdiğimi yazdım.",
+      [
+        "Above, I wrote which arts I enjoy.",
+        "Выше я написал, какими искусствами люблю заниматься.",
+        "Жогоруда кайсы искусстволорго кызыгууну жактырарымды жаздым.",
+        "كتبت أعلاه الفنون التي أحب الاهتمام بها.",
+        "J’ai écrit ci-dessus quels arts m’intéressent."
+      ]
+    ],
+    "alanında": [
+      "Yukarıda hangi sanatlarla ilgilenmeyi sevdiğimi yazdım.",
+      [
+        "Above, I wrote which arts I enjoy.",
+        "Выше я написал, какими искусствами люблю заниматься.",
+        "Жогоруда кайсы искусстволорго кызыгууну жактырарымды жаздым.",
+        "كتبت أعلاه الفنون التي أحب الاهتمام بها.",
+        "J’ai écrit ci-dessus quels arts m’intéressent."
+      ]
+    ],
+    "hobiyle": [
+      "Yeni bir hobiyle ilgilenmek istiyorum.",
+      [
+        "I want to take up a new hobby.",
+        "Я хочу заняться новым хобби.",
+        "Жаңы хоббиге кызыккым келет.",
+        "أريد ممارسة هواية جديدة.",
+        "Je veux me consacrer à un nouveau loisir."
+      ]
+    ],
+    "yukarıda": [
+      "Yukarıda hangi sanatlarla ilgilenmeyi sevdiğimi yazdım.",
+      [
+        "Above, I wrote which arts I enjoy.",
+        "Выше я написал, какими искусствами люблю заниматься.",
+        "Жогоруда кайсы искусстволорго кызыгууну жактырарымды жаздым.",
+        "كتبت أعلاه الفنون التي أحب الاهتمام بها.",
+        "J’ai écrit ci-dessus quels arts m’intéressent."
+      ]
+    ],
+    "dosta": [
+      "Gönlümde özel bir yeri olan dostuma mektup yazdım.",
+      [
+        "I wrote a letter to a friend who has a special place in my heart.",
+        "Я написал письмо другу, который занимает особое место в моём сердце.",
+        "Жүрөгүмдө өзгөчө орду бар досума кат жаздым.",
+        "كتبت رسالة إلى صديق له مكانة خاصة في قلبي.",
+        "J’ai écrit à un ami qui a une place particulière dans mon cœur."
+      ]
+    ],
+    "gönlümde": [
+      "Gönlümde özel bir yeri olan dostuma mektup yazdım.",
+      [
+        "I wrote a letter to a friend who has a special place in my heart.",
+        "Я написал письмо другу, который занимает особое место в моём сердце.",
+        "Жүрөгүмдө өзгөчө орду бар досума кат жаздым.",
+        "كتبت رسالة إلى صديق له مكانة خاصة في قلبي.",
+        "J’ai écrit à un ami qui a une place particulière dans mon cœur."
+      ]
+    ],
+    "sensin": [
+      "Bu yarışmanın kazananı sensin.",
+      [
+        "You are the winner of this competition.",
+        "Победитель этого конкурса — ты.",
+        "Бул сынактын жеңүүчүсү сенсиң.",
+        "أنت الفائز في هذه المسابقة.",
+        "C’est toi qui as gagné ce concours."
+      ]
+    ],
+    "gönlünde": [
+      "Herkesin gönlünde özel bir şehir vardır.",
+      [
+        "Everyone has a special city in their heart.",
+        "У каждого в сердце есть особенный город.",
+        "Ар кимдин жүрөгүндө өзгөчө шаар бар.",
+        "لكل شخص مدينة خاصة في قلبه.",
+        "Chacun a une ville particulière dans son cœur."
+      ]
+    ],
+    "ellerin": [
+      "Şair, sevdiği kişiye «yarim» diye sesleniyor.",
+      [
+        "The poet addresses the person they love as ‘my beloved’.",
+        "Поэт обращается к любимому человеку словами «мой любимый».",
+        "Акын сүйгөнүнө «сүйгөнүм» деп кайрылат.",
+        "ينادي الشاعر من يحب بلفظ «حبيبي».",
+        "Le poète s’adresse à l’être aimé en disant « mon amour »."
+      ]
+    ],
+    "yari": [
+      "Şair, sevdiği kişiye «yarim» diye sesleniyor.",
+      [
+        "The poet addresses the person they love as ‘my beloved’.",
+        "Поэт обращается к любимому человеку словами «мой любимый».",
+        "Акын сүйгөнүнө «сүйгөнүм» деп кайрылат.",
+        "ينادي الشاعر من يحب بلفظ «حبيبي».",
+        "Le poète s’adresse à l’être aimé en disant « mon amour »."
+      ]
+    ],
+    "yar": [
+      "Şair, sevdiği kişiye «yarim» diye sesleniyor.",
+      [
+        "The poet addresses the person they love as ‘my beloved’.",
+        "Поэт обращается к любимому человеку словами «мой любимый».",
+        "Акын сүйгөнүнө «сүйгөнүм» деп кайрылат.",
+        "ينادي الشاعر من يحب بلفظ «حبيبي».",
+        "Le poète s’adresse à l’être aimé en disant « mon amour »."
+      ]
+    ],
+    "yarim": [
+      "Şair, sevdiği kişiye «yarim» diye sesleniyor.",
+      [
+        "The poet addresses the person they love as ‘my beloved’.",
+        "Поэт обращается к любимому человеку словами «мой любимый».",
+        "Акын сүйгөнүнө «сүйгөнүм» деп кайрылат.",
+        "ينادي الشاعر من يحب بلفظ «حبيبي».",
+        "Le poète s’adresse à l’être aimé en disant « mon amour »."
+      ]
+    ],
+    "çürük": [
+      "Çantanın bağı çürük olduğu için koptu.",
+      [
+        "The bag’s strap broke because it was weak.",
+        "Завязка сумки порвалась, потому что была непрочной.",
+        "Сумканын боосу алсыз болгондуктан үзүлдү.",
+        "انقطع رباط الحقيبة لأنه كان ضعيفًا.",
+        "Le lien du sac s’est cassé parce qu’il était fragile."
+      ]
+    ],
+    "bellerin": [
+      "Çantanın bağı çürük olduğu için koptu.",
+      [
+        "The bag’s strap broke because it was weak.",
+        "Завязка сумки порвалась, потому что была непрочной.",
+        "Сумканын боосу алсыз болгондуктан үзүлдү.",
+        "انقطع رباط الحقيبة لأنه كان ضعيفًا.",
+        "Le lien du sac s’est cassé parce qu’il était fragile."
+      ]
+    ],
+    "bağı": [
+      "Çantanın bağı çürük olduğu için koptu.",
+      [
+        "The bag’s strap broke because it was weak.",
+        "Завязка сумки порвалась, потому что была непрочной.",
+        "Сумканын боосу алсыз болгондуктан үзүлдү.",
+        "انقطع رباط الحقيبة لأنه كان ضعيفًا.",
+        "Le lien du sac s’est cassé parce qu’il était fragile."
+      ]
+    ],
+    "devran": [
+      "Devran değişebilir; yalnızca varlığa güvenmeyin.",
+      [
+        "Fortunes can change; do not rely only on wealth.",
+        "Судьба может перемениться; не полагайтесь лишь на богатство.",
+        "Заман өзгөрүшү мүмкүн, жалгыз байлыкка ишенбеңиз.",
+        "قد تتغير الأحوال فلا تعتمدوا على الثروة وحدها.",
+        "La fortune peut changer ; ne comptez pas uniquement sur la richesse."
+      ]
+    ],
+    "düşer": [
+      "Devran değişebilir; yalnızca varlığa güvenmeyin.",
+      [
+        "Fortunes can change; do not rely only on wealth.",
+        "Судьба может перемениться; не полагайтесь лишь на богатство.",
+        "Заман өзгөрүшү мүмкүн, жалгыз байлыкка ишенбеңиз.",
+        "قد تتغير الأحوال فلا تعتمدوا على الثروة وحدها.",
+        "La fortune peut changer ; ne comptez pas uniquement sur la richesse."
+      ]
+    ],
+    "darlığa": [
+      "Aile zor bir dönemde maddi darlığa düştü.",
+      [
+        "The family faced financial hardship during a difficult period.",
+        "В трудное время семья оказалась в нужде.",
+        "Кыйын мезгилде үй-бүлө акча тартыштыгына туш болду.",
+        "وقعت الأسرة في ضائقة مالية خلال فترة صعبة.",
+        "La famille a connu des difficultés financières pendant une période difficile."
+      ]
+    ],
+    "varlığa": [
+      "Devran değişebilir; yalnızca varlığa güvenmeyin.",
+      [
+        "Fortunes can change; do not rely only on wealth.",
+        "Судьба может перемениться; не полагайтесь лишь на богатство.",
+        "Заман өзгөрүшү мүмкүн, жалгыз байлыкка ишенбеңиз.",
+        "قد تتغير الأحوال فلا تعتمدوا على الثروة وحدها.",
+        "La fortune peut changer ; ne comptez pas uniquement sur la richesse."
+      ]
+    ],
+    "güvenmeyin": [
+      "Devran değişebilir; yalnızca varlığa güvenmeyin.",
+      [
+        "Fortunes can change; do not rely only on wealth.",
+        "Судьба может перемениться; не полагайтесь лишь на богатство.",
+        "Заман өзгөрүшү мүмкүн, жалгыз байлыкка ишенбеңиз.",
+        "قد تتغير الأحوال فلا تعتمدوا على الثروة وحدها.",
+        "La fortune peut changer ; ne comptez pas uniquement sur la richesse."
+      ]
+    ],
+    "sararım": [
+      "Üşüyen çocuğu battaniyeye sararım.",
+      [
+        "I wrap the cold child in a blanket.",
+        "Я укутываю замёрзшего ребёнка одеялом.",
+        "Үшүгөн баланы жуурканга оройм.",
+        "ألف الطفل الذي يشعر بالبرد ببطانية.",
+        "J’enveloppe l’enfant qui a froid dans une couverture."
+      ]
+    ],
+    "kastel": [
+      "Eski kastelden artık su akmıyor.",
+      [
+        "Water no longer flows from the old fountain.",
+        "Из старого фонтана больше не течёт вода.",
+        "Эски булактан эми суу акпай жатат.",
+        "لم يعد الماء يجري من السبيل القديم.",
+        "L’eau ne coule plus de l’ancienne fontaine."
+      ]
+    ],
+    "akmıyor": [
+      "Eski kastelden artık su akmıyor.",
+      [
+        "Water no longer flows from the old fountain.",
+        "Из старого фонтана больше не течёт вода.",
+        "Эски булактан эми суу акпай жатат.",
+        "لم يعد الماء يجري من السبيل القديم.",
+        "L’eau ne coule plus de l’ancienne fontaine."
+      ]
+    ],
+    "yüzüme": [
+      "Küçük kardeşim utanıyor, yüzüme bakmıyor.",
+      [
+        "My little brother is shy and does not look at my face.",
+        "Мой младший брат стесняется и не смотрит мне в лицо.",
+        "Иним уялып, бетиме карабай жатат.",
+        "أخي الصغير خجول ولا ينظر إلى وجهي.",
+        "Mon petit frère est timide et ne me regarde pas en face."
+      ]
+    ],
+    "bakmıyor": [
+      "Küçük kardeşim utanıyor, yüzüme bakmıyor.",
+      [
+        "My little brother is shy and does not look at my face.",
+        "Мой младший брат стесняется и не смотрит мне в лицо.",
+        "Иним уялып, бетиме карабай жатат.",
+        "أخي الصغير خجول ولا ينظر إلى وجهي.",
+        "Mon petit frère est timide et ne me regarde pas en face."
+      ]
+    ],
+    "kokladım": [
+      "Çiçeği kokladım ama hiç kokmuyor.",
+      [
+        "I smelled the flower, but it has no scent.",
+        "Я понюхал цветок, но он совсем не пахнет.",
+        "Гүлдү жыттадым, бирок такыр жыты жок.",
+        "شممت الزهرة لكنها بلا رائحة.",
+        "J’ai senti la fleur, mais elle n’a aucune odeur."
+      ]
+    ],
+    "kokmuyor": [
+      "Çiçeği kokladım ama hiç kokmuyor.",
+      [
+        "I smelled the flower, but it has no scent.",
+        "Я понюхал цветок, но он совсем не пахнет.",
+        "Гүлдү жыттадым, бирок такыр жыты жок.",
+        "شممت الزهرة لكنها بلا رائحة.",
+        "J’ai senti la fleur, mais elle n’a aucune odeur."
+      ]
+    ],
+    "narlığa": [
+      "Dedemle narlığa gidip meyve topladık.",
+      [
+        "I went to the pomegranate orchard with my grandfather and picked fruit.",
+        "Мы с дедушкой пошли в гранатовый сад и собрали плоды.",
+        "Чоң атам менен анар багына барып мөмө тердик.",
+        "ذهبت مع جدي إلى بستان الرمان وقطفنا الثمار.",
+        "Je suis allé au verger de grenadiers avec mon grand-père et nous avons cueilli des fruits."
+      ]
+    ],
+    "başın": [
+      "Başın ağrıyorsa biraz dinlen.",
+      [
+        "If your head hurts, rest a little.",
+        "Если болит голова, немного отдохни.",
+        "Башың ооруса, бир аз эс ал.",
+        "إذا كان رأسك يؤلمك فاسترح قليلًا.",
+        "Si tu as mal à la tête, repose-toi un peu."
+      ]
+    ],
+    "yazılım": [
+      "Arkadaşım yeni bir yazılım geliştirdi.",
+      [
+        "My friend developed new software.",
+        "Мой друг разработал новую программу.",
+        "Досум жаңы программалык камсыздоо иштеп чыкты.",
+        "طور صديقي برنامجًا جديدًا.",
+        "Mon ami a développé un nouveau logiciel."
+      ]
+    ],
+    "işleyen": [
+      "Çalışan ve üreten insanın yeteneği zamanla ışıldar.",
+      [
+        "The talent of a person who works and creates shines with time.",
+        "Талант человека, который работает и творит, со временем раскрывается.",
+        "Иштеп, жараткан адамдын жөндөмү убакыт өткөн сайын жаркырайт.",
+        "تتألق موهبة الإنسان الذي يعمل وينتج مع الوقت.",
+        "Le talent d’une personne qui travaille et crée brille avec le temps."
+      ]
+    ],
+    "ışıldar": [
+      "Çalışan ve üreten insanın yeteneği zamanla ışıldar.",
+      [
+        "The talent of a person who works and creates shines with time.",
+        "Талант человека, который работает и творит, со временем раскрывается.",
+        "Иштеп, жараткан адамдын жөндөмү убакыт өткөн сайын жаркырайт.",
+        "تتألق موهبة الإنسان الذي يعمل وينتج مع الوقت.",
+        "Le talent d’une personne qui travaille et crée brille avec le temps."
+      ]
+    ],
+    "karakterlerden": [
+      "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    ],
+    "ikisini": [
+      "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    ],
+    "karakterin": [
+      "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    ],
+    "hobilerini": [
+      "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    ],
+    "karakter": [
+      "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    ],
+    "paten": [
+      "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    ],
+    "bisiklete": [
+      "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    ],
+    "binmeyi": [
+      "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    ],
+    "binersin": [
+      "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    ],
+    "şarkı": [
+      "Ece şarkı söylerken Oğuz uçurtma uçurmak istiyor.",
+      [
+        "While Ece sings, Oğuz wants to fly a kite.",
+        "Пока Эдже поёт, Огуз хочет запустить воздушного змея.",
+        "Эдже ырдап жатканда, Огуз батперек учургуcу келет.",
+        "بينما تغني إيجه يريد أوغوز تطيير طائرة ورقية.",
+        "Pendant qu’Ece chante, Oğuz veut faire voler un cerf-volant."
+      ]
+    ],
+    "uçurmak": [
+      "Ece şarkı söylerken Oğuz uçurtma uçurmak istiyor.",
+      [
+        "While Ece sings, Oğuz wants to fly a kite.",
+        "Пока Эдже поёт, Огуз хочет запустить воздушного змея.",
+        "Эдже ырдап жатканда, Огуз батперек учургуcу келет.",
+        "بينما تغني إيجه يريد أوغوز تطيير طائرة ورقية.",
+        "Pendant qu’Ece chante, Oğuz veut faire voler un cerf-volant."
+      ]
+    ],
+    "ece": [
+      "Ece şarkı söylerken Oğuz uçurtma uçurmak istiyor.",
+      [
+        "While Ece sings, Oğuz wants to fly a kite.",
+        "Пока Эдже поёт, Огуз хочет запустить воздушного змея.",
+        "Эдже ырдап жатканда, Огуз батперек учургуcу келет.",
+        "بينما تغني إيجه يريد أوغوز تطيير طائرة ورقية.",
+        "Pendant qu’Ece chante, Oğuz veut faire voler un cerf-volant."
+      ]
+    ],
+    "oğuz": [
+      "Ece şarkı söylerken Oğuz uçurtma uçurmak istiyor.",
+      [
+        "While Ece sings, Oğuz wants to fly a kite.",
+        "Пока Эдже поёт, Огуз хочет запустить воздушного змея.",
+        "Эдже ырдап жатканда, Огуз батперек учургуcу келет.",
+        "بينما تغني إيجه يريد أوغوز تطيير طائرة ورقية.",
+        "Pendant qu’Ece chante, Oğuz veut faire voler un cerf-volant."
+      ]
+    ],
+    "oyunun": [
+      "Oyunun kuralları için burada durun ve öğretmeni dinleyin.",
+      [
+        "Stop here and listen to the teacher for the rules of the game.",
+        "Остановитесь здесь и послушайте учителя о правилах игры.",
+        "Бул жерде токтоп, оюндун эрежелери тууралуу мугалимди угуңуз.",
+        "قفوا هنا واستمعوا إلى المعلم لمعرفة قواعد اللعبة.",
+        "Arrêtez-vous ici et écoutez le professeur expliquer les règles du jeu."
+      ]
+    ],
+    "kuralları": [
+      "Oyunun kuralları için burada durun ve öğretmeni dinleyin.",
+      [
+        "Stop here and listen to the teacher for the rules of the game.",
+        "Остановитесь здесь и послушайте учителя о правилах игры.",
+        "Бул жерде токтоп, оюндун эрежелери тууралуу мугалимди угуңуз.",
+        "قفوا هنا واستمعوا إلى المعلم لمعرفة قواعد اللعبة.",
+        "Arrêtez-vous ici et écoutez le professeur expliquer les règles du jeu."
+      ]
+    ],
+    "durun": [
+      "Oyunun kuralları için burada durun ve öğretmeni dinleyin.",
+      [
+        "Stop here and listen to the teacher for the rules of the game.",
+        "Остановитесь здесь и послушайте учителя о правилах игры.",
+        "Бул жерде токтоп, оюндун эрежелери тууралуу мугалимди угуңуз.",
+        "قفوا هنا واستمعوا إلى المعلم لمعرفة قواعد اللعبة.",
+        "Arrêtez-vous ici et écoutez le professeur expliquer les règles du jeu."
+      ]
+    ],
+    "veremezse": [
+      "Arkadaşın cevap veremezse ona bir ipucu ver.",
+      [
+        "If your friend cannot answer, give them a hint.",
+        "Если друг не сможет ответить, дай ему подсказку.",
+        "Досуң жооп бере албаса, ага багыт бер.",
+        "إذا لم يستطع صديقك الإجابة فأعطه تلميحًا.",
+        "Si ton ami ne peut pas répondre, donne-lui un indice."
+      ]
+    ],
+    "ulaşan": [
+      "Bitişe ilk ulaşan kazanır, sonra herkes dinlenir.",
+      [
+        "The first to reach the finish wins, then everyone rests.",
+        "Побеждает тот, кто первым достигает финиша, затем все отдыхают.",
+        "Марага биринчи жеткен жеңет, андан кийин баары эс алат.",
+        "يفوز أول من يصل إلى النهاية ثم يستريح الجميع.",
+        "Le premier qui atteint l’arrivée gagne, puis tout le monde se repose."
+      ]
+    ],
+    "dinlen": [
+      "Bitişe ilk ulaşan kazanır, sonra herkes dinlenir.",
+      [
+        "The first to reach the finish wins, then everyone rests.",
+        "Побеждает тот, кто первым достигает финиша, затем все отдыхают.",
+        "Марага биринчи жеткен жеңет, андан кийин баары эс алат.",
+        "يفوز أول من يصل إلى النهاية ثم يستريح الجميع.",
+        "Le premier qui atteint l’arrivée gagne, puis tout le monde se repose."
+      ]
+    ],
+    "karate": [
+      "Oğlum karate öğrenmek istiyor.",
+      [
+        "My son wants to learn karate.",
+        "Мой сын хочет научиться карате.",
+        "Уулум каратэни үйрөнгүсү келет.",
+        "يريد ابني تعلم الكاراتيه.",
+        "Mon fils veut apprendre le karaté."
+      ]
+    ],
+    "yapamazsınız": [
+      "Şarkı söyleyebilirim ama gitar çalamam.",
+      [
+        "I can sing, but I cannot play the guitar.",
+        "Я могу петь, но не умею играть на гитаре.",
+        "Ырдай алам, бирок гитарада ойной албайм.",
+        "أستطيع الغناء لكنني لا أستطيع العزف على الغيتار.",
+        "Je sais chanter, mais je ne sais pas jouer de la guitare."
+      ]
+    ],
+    "söyleyebilirim": [
+      "Şarkı söyleyebilirim ama gitar çalamam.",
+      [
+        "I can sing, but I cannot play the guitar.",
+        "Я могу петь, но не умею играть на гитаре.",
+        "Ырдай алам, бирок гитарада ойной албайм.",
+        "أستطيع الغناء لكنني لا أستطيع العزف على الغيتار.",
+        "Je sais chanter, mais je ne sais pas jouer de la guitare."
+      ]
+    ],
+    "çalamam": [
+      "Şarkı söyleyebilirim ama gitar çalamam.",
+      [
+        "I can sing, but I cannot play the guitar.",
+        "Я могу петь, но не умею играть на гитаре.",
+        "Ырдай алам, бирок гитарада ойной албайм.",
+        "أستطيع الغناء لكنني لا أستطيع العزف على الغيتار.",
+        "Je sais chanter, mais je ne sais pas jouer de la guitare."
+      ]
+    ],
+    "bloğunu": [
+      "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    ],
+    "hazırladığı": [
+      "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    ],
+    "cevaplar": [
+      "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    ],
+    "bloğunuzu": [
+      "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    ],
+    "bloğu": [
+      "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    ],
+    "metninizi": [
+      "Ben Elif Kuzgun, lise öğrencisiyim.",
+      [
+        "I am Elif Kuzgun, a high school student.",
+        "Я Элиф Кузгун, ученица старшей школы.",
+        "Мен Элиф Кузгунмун, лицейдин окуучусумун.",
+        "أنا إليف كوزغون، طالبة في المدرسة الثانوية.",
+        "Je suis Elif Kuzgun, lycéenne."
+      ]
+    ],
+    "kuzgun": [
+      "Ben Elif Kuzgun, lise öğrencisiyim.",
+      [
+        "I am Elif Kuzgun, a high school student.",
+        "Я Элиф Кузгун, ученица старшей школы.",
+        "Мен Элиф Кузгунмун, лицейдин окуучусумун.",
+        "أنا إليف كوزغون، طالبة في المدرسة الثانوية.",
+        "Je suis Elif Kuzgun, lycéenne."
+      ]
+    ],
+    "öğrencisiyim": [
+      "Ben Elif Kuzgun, lise öğrencisiyim.",
+      [
+        "I am Elif Kuzgun, a high school student.",
+        "Я Элиф Кузгун, ученица старшей школы.",
+        "Мен Элиф Кузгунмун, лицейдин окуучусумун.",
+        "أنا إليف كوزغون، طالبة في المدرسة الثانوية.",
+        "Je suis Elif Kuzgun, lycéenne."
+      ]
+    ],
+    "www.maarif.elifinblogu.com": [
+      "Metinde Elif’in blog adresi www.maarif.elifinblogu.com olarak verilmiş.",
+      [
+        "In the text, Elif’s blog address is given as www.maarif.elifinblogu.com.",
+        "В тексте адрес блога Элиф указан как www.maarif.elifinblogu.com.",
+        "Текстте Элифтин блогунун дареги www.maarif.elifinblogu.com деп берилген.",
+        "ورد في النص عنوان مدونة إليف www.maarif.elifinblogu.com.",
+        "Dans le texte, l’adresse du blog d’Elif est www.maarif.elifinblogu.com."
+      ]
+    ],
+    "fen": [
+      "Fen dersinde deney yaptık.",
+      [
+        "We did an experiment in science class.",
+        "На уроке естествознания мы провели опыт.",
+        "Табигый илимдер сабагында тажрыйба жасадык.",
+        "أجرينا تجربة في درس العلوم.",
+        "Nous avons fait une expérience en cours de sciences."
+      ]
+    ],
+    "sanatla": [
+      "Güzel sanatlar fakültesinde babamın portresini yaptım.",
+      [
+        "I painted my father’s portrait at the faculty of fine arts.",
+        "На факультете изящных искусств я нарисовал портрет отца.",
+        "Көркөм өнөр факультетинде атамдын портретин тарттым.",
+        "رسمت صورة أبي في كلية الفنون الجميلة.",
+        "J’ai peint le portrait de mon père à la faculté des beaux-arts."
+      ]
+    ],
+    "portresini": [
+      "Güzel sanatlar fakültesinde babamın portresini yaptım.",
+      [
+        "I painted my father’s portrait at the faculty of fine arts.",
+        "На факультете изящных искусств я нарисовал портрет отца.",
+        "Көркөм өнөр факультетинде атамдын портретин тарттым.",
+        "رسمت صورة أبي في كلية الفنون الجميلة.",
+        "J’ai peint le portrait de mon père à la faculté des beaux-arts."
+      ]
+    ],
+    "sanatlar": [
+      "Güzel sanatlar fakültesinde babamın portresini yaptım.",
+      [
+        "I painted my father’s portrait at the faculty of fine arts.",
+        "На факультете изящных искусств я нарисовал портрет отца.",
+        "Көркөм өнөр факультетинде атамдын портретин тарттым.",
+        "رسمت صورة أبي في كلية الفنون الجميلة.",
+        "J’ai peint le portrait de mon père à la faculté des beaux-arts."
+      ]
+    ],
+    "fakültesinde": [
+      "Güzel sanatlar fakültesinde babamın portresini yaptım.",
+      [
+        "I painted my father’s portrait at the faculty of fine arts.",
+        "На факультете изящных искусств я нарисовал портрет отца.",
+        "Көркөм өнөр факультетинде атамдын портретин тарттым.",
+        "رسمت صورة أبي في كلية الفنون الجميلة.",
+        "J’ai peint le portrait de mon père à la faculté des beaux-arts."
+      ]
+    ],
+    "açtım": [
+      "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    ],
+    "sizlerle": [
+      "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    ],
+    "paylaşacağım": [
+      "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    ],
+    "resimlerimi": [
+      "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    ],
+    "sanatı": [
+      "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    ],
+    "vereceğim": [
+      "Bloğumu beğenirsiniz umarım; yarın bunun hakkında bilgi vereceğim.",
+      [
+        "I hope you like my blog; tomorrow I will give you information about it.",
+        "Надеюсь, вам понравится мой блог; завтра я расскажу о нём.",
+        "Блогумду жактырасыз деп үмүттөнөм, эртең бул тууралуу маалымат берем.",
+        "آمل أن تعجبكم مدونتي؛ سأقدم معلومات عنها غدًا.",
+        "J’espère que mon blog vous plaira ; demain, je vous en parlerai."
+      ]
+    ],
+    "bunun": [
+      "Bloğumu beğenirsiniz umarım; yarın bunun hakkında bilgi vereceğim.",
+      [
+        "I hope you like my blog; tomorrow I will give you information about it.",
+        "Надеюсь, вам понравится мой блог; завтра я расскажу о нём.",
+        "Блогумду жактырасыз деп үмүттөнөм, эртең бул тууралуу маалымат берем.",
+        "آمل أن تعجبكم مدونتي؛ سأقدم معلومات عنها غدًا.",
+        "J’espère que mon blog vous plaira ; demain, je vous en parlerai."
+      ]
+    ],
+    "bloğumu": [
+      "Bloğumu beğenirsiniz umarım; yarın bunun hakkında bilgi vereceğim.",
+      [
+        "I hope you like my blog; tomorrow I will give you information about it.",
+        "Надеюсь, вам понравится мой блог; завтра я расскажу о нём.",
+        "Блогумду жактырасыз деп үмүттөнөм, эртең бул тууралуу маалымат берем.",
+        "آمل أن تعجبكم مدونتي؛ سأقدم معلومات عنها غدًا.",
+        "J’espère que mon blog vous plaira ; demain, je vous en parlerai."
+      ]
+    ],
+    "beğenirsiniz": [
+      "Bloğumu beğenirsiniz umarım; yarın bunun hakkında bilgi vereceğim.",
+      [
+        "I hope you like my blog; tomorrow I will give you information about it.",
+        "Надеюсь, вам понравится мой блог; завтра я расскажу о нём.",
+        "Блогумду жактырасыз деп үмүттөнөм, эртең бул тууралуу маалымат берем.",
+        "آمل أن تعجبكم مدونتي؛ سأقدم معلومات عنها غدًا.",
+        "J’espère que mon blog vous plaira ; demain, je vous en parlerai."
+      ]
+    ],
+    "alanlarınız": [
+      "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    ],
+    "yapmaktan": [
+      "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    ],
+    "hoşlanırsınız": [
+      "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    ],
+    "hobiniz": [
+      "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    ],
+    "yeteneğiniz": [
+      "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    ],
+    "yapabiliyorum": [
+      "Artık bu yemeği tek başıma yapabiliyorum.",
+      [
+        "I can now make this dish on my own.",
+        "Теперь я могу приготовить это блюдо самостоятельно.",
+        "Эми бул тамакты өзүм жасай алам.",
+        "أستطيع الآن إعداد هذا الطبق بمفردي.",
+        "Je peux maintenant préparer ce plat tout seul."
+      ]
+    ],
+    "ilgilerinizden": [
+      "İlgilerinizden ve yeteneklerinizden kısaca bahsedin.",
+      [
+        "Briefly talk about your interests and talents.",
+        "Кратко расскажите о своих интересах и способностях.",
+        "Кызыгууларыңыз жана жөндөмдөрүңүз жөнүндө кыскача айтып бериңиз.",
+        "تحدثوا باختصار عن اهتماماتكم ومواهبكم.",
+        "Parlez brièvement de vos intérêts et de vos talents."
+      ]
+    ],
+    "yeteneklerinizden": [
+      "İlgilerinizden ve yeteneklerinizden kısaca bahsedin.",
+      [
+        "Briefly talk about your interests and talents.",
+        "Кратко расскажите о своих интересах и способностях.",
+        "Кызыгууларыңыз жана жөндөмдөрүңүз жөнүндө кыскача айтып бериңиз.",
+        "تحدثوا باختصار عن اهتماماتكم ومواهبكم.",
+        "Parlez brièvement de vos intérêts et de vos talents."
+      ]
+    ],
+    "bahsedin": [
+      "İlgilerinizden ve yeteneklerinizden kısaca bahsedin.",
+      [
+        "Briefly talk about your interests and talents.",
+        "Кратко расскажите о своих интересах и способностях.",
+        "Кызыгууларыңыз жана жөндөмдөрүңүз жөнүндө кыскача айтып бериңиз.",
+        "تحدثوا باختصار عن اهتماماتكم ومواهبكم.",
+        "Parlez brièvement de vos intérêts et de vos talents."
+      ]
+    ],
+    "hobilerinizin": [
+      "İlgilerinizden ve yeteneklerinizden kısaca bahsedin.",
+      [
+        "Briefly talk about your interests and talents.",
+        "Кратко расскажите о своих интересах и способностях.",
+        "Кызыгууларыңыз жана жөндөмдөрүңүз жөнүндө кыскача айтып бериңиз.",
+        "تحدثوا باختصار عن اهتماماتكم ومواهبكم.",
+        "Parlez brièvement de vos intérêts et de vos talents."
+      ]
+    ],
+    "alanlarınızın": [
+      "İlgilerinizden ve yeteneklerinizden kısaca bahsedin.",
+      [
+        "Briefly talk about your interests and talents.",
+        "Кратко расскажите о своих интересах и способностях.",
+        "Кызыгууларыңыз жана жөндөмдөрүңүз жөнүндө кыскача айтып бериңиз.",
+        "تحدثوا باختصار عن اهتماماتكم ومواهبكم.",
+        "Parlez brièvement de vos intérêts et de vos talents."
+      ]
+    ],
+    "olduğundan": [
+      "Kursun hangi gün olduğundan bahset.",
+      [
+        "Mention which day the course takes place.",
+        "Расскажи, в какой день проходит курс.",
+        "Курс кайсы күнү экенин айтып бер.",
+        "اذكر اليوم الذي تقام فيه الدورة.",
+        "Précise quel jour le cours a lieu."
+      ]
+    ],
+    "gelecekte": [
+      "Gelecekte ilgilenmek istediğiniz hobilerden bahsedin.",
+      [
+        "Talk about the hobbies you would like to pursue in the future.",
+        "Расскажите об увлечениях, которыми хотите заниматься в будущем.",
+        "Келечекте кызыккыңыз келген хоббилер тууралуу айтып бериңиз.",
+        "تحدثوا عن الهوايات التي تريدون ممارستها في المستقبل.",
+        "Parlez des loisirs auxquels vous souhaitez vous consacrer à l’avenir."
+      ]
+    ],
+    "ilgilenmek": [
+      "Gelecekte ilgilenmek istediğiniz hobilerden bahsedin.",
+      [
+        "Talk about the hobbies you would like to pursue in the future.",
+        "Расскажите об увлечениях, которыми хотите заниматься в будущем.",
+        "Келечекте кызыккыңыз келген хоббилер тууралуу айтып бериңиз.",
+        "تحدثوا عن الهوايات التي تريدون ممارستها في المستقبل.",
+        "Parlez des loisirs auxquels vous souhaitez vous consacrer à l’avenir."
+      ]
+    ],
+    "istediğinizden": [
+      "Gelecekte ilgilenmek istediğiniz hobilerden bahsedin.",
+      [
+        "Talk about the hobbies you would like to pursue in the future.",
+        "Расскажите об увлечениях, которыми хотите заниматься в будущем.",
+        "Келечекте кызыккыңыз келген хоббилер тууралуу айтып бериңиз.",
+        "تحدثوا عن الهوايات التي تريدون ممارستها في المستقبل.",
+        "Parlez des loisirs auxquels vous souhaitez vous consacrer à l’avenir."
+      ]
+    ],
+    "yazım": [
+      "Metnin yazım ve dil bilgisini, giriş-gelişme-sonuç düzenini kontrol ettim.",
+      [
+        "I checked the text’s spelling, grammar and introduction-body-conclusion structure.",
+        "Я проверил правописание, грамматику и структуру текста: введение, основная часть, заключение.",
+        "Тексттин жазуу эрежелерин, грамматикасын жана киришүү, негизги бөлүк, жыйынтык түзүлүшүн текшердим.",
+        "راجعت إملاء النص وقواعده وتنظيمه إلى مقدمة وعرض وخاتمة.",
+        "J’ai vérifié l’orthographe, la grammaire et la structure introduction-développement-conclusion du texte."
+      ]
+    ],
+    "bilgisini": [
+      "Metnin yazım ve dil bilgisini, giriş-gelişme-sonuç düzenini kontrol ettim.",
+      [
+        "I checked the text’s spelling, grammar and introduction-body-conclusion structure.",
+        "Я проверил правописание, грамматику и структуру текста: введение, основная часть, заключение.",
+        "Тексттин жазуу эрежелерин, грамматикасын жана киришүү, негизги бөлүк, жыйынтык түзүлүшүн текшердим.",
+        "راجعت إملاء النص وقواعده وتنظيمه إلى مقدمة وعرض وخاتمة.",
+        "J’ai vérifié l’orthographe, la grammaire et la structure introduction-développement-conclusion du texte."
+      ]
+    ],
+    "giriş-gelişme-sonuç": [
+      "Metnin yazım ve dil bilgisini, giriş-gelişme-sonuç düzenini kontrol ettim.",
+      [
+        "I checked the text’s spelling, grammar and introduction-body-conclusion structure.",
+        "Я проверил правописание, грамматику и структуру текста: введение, основная часть, заключение.",
+        "Тексттин жазуу эрежелерин, грамматикасын жана киришүү, негизги бөлүк, жыйынтык түзүлүшүн текшердим.",
+        "راجعت إملاء النص وقواعده وتنظيمه إلى مقدمة وعرض وخاتمة.",
+        "J’ai vérifié l’orthographe, la grammaire et la structure introduction-développement-conclusion du texte."
+      ]
+    ],
+    "etkinliklerle": [
+      "Bu etkinliklerde yeni arkadaşlar edinebilirsin.",
+      [
+        "You can make new friends during these activities.",
+        "На этих занятиях ты можешь завести новых друзей.",
+        "Бул иш-чараларда жаңы досторду таба аласың.",
+        "يمكنك تكوين صداقات جديدة في هذه الأنشطة.",
+        "Tu peux te faire de nouveaux amis pendant ces activités."
+      ]
+    ],
+    "etkinliklerde": [
+      "Bu etkinliklerde yeni arkadaşlar edinebilirsin.",
+      [
+        "You can make new friends during these activities.",
+        "На этих занятиях ты можешь завести новых друзей.",
+        "Бул иш-чараларда жаңы досторду таба аласың.",
+        "يمكنك تكوين صداقات جديدة في هذه الأنشطة.",
+        "Tu peux te faire de nouveaux amis pendant ces activités."
+      ]
+    ],
+    "yapabilirsin": [
+      "Bu işi yardım almadan yapabilirsin.",
+      [
+        "You can do this task without help.",
+        "Ты можешь сделать эту работу без помощи.",
+        "Бул ишти жардамсыз жасай аласың.",
+        "تستطيع إنجاز هذا العمل دون مساعدة.",
+        "Tu peux faire ce travail sans aide."
+      ]
+    ],
+    "yapamazsın": [
+      "Bütün işleri aynı anda yapamazsın.",
+      [
+        "You cannot do all the tasks at once.",
+        "Ты не можешь делать все дела одновременно.",
+        "Бардык ишти бир убакта жасай албайсың.",
+        "لا تستطيع القيام بكل الأعمال في الوقت نفسه.",
+        "Tu ne peux pas tout faire en même temps."
+      ]
+    ],
+    "yapabildi": [
+      "Kardeşim yemeği tek başına yapabildi.",
+      [
+        "My sibling managed to cook the meal alone.",
+        "Мой брат смог приготовить еду самостоятельно.",
+        "Иним тамакты өзү жасай алды.",
+        "تمكن أخي من إعداد الطعام بمفرده.",
+        "Mon frère a réussi à préparer le repas tout seul."
+      ]
+    ],
+    "kaya": [
+      "Bisiklet sürerek kampa gittik.",
+      [
+        "We went to the campsite by bicycle.",
+        "Мы поехали в лагерь на велосипедах.",
+        "Лагерге велосипед айдап бардык.",
+        "ذهبنا إلى المخيم بالدراجات.",
+        "Nous sommes allés au camp à vélo."
+      ]
+    ],
+    "saklıkent": [
+      "Tatilimizde Saklıkent’i ziyaret ettik.",
+      [
+        "We visited Saklıkent during our holiday.",
+        "Во время отпуска мы посетили Саклыкент.",
+        "Эс алууда Саклыкентке бардык.",
+        "زرنا ساكليكنت في عطلتنا.",
+        "Nous avons visité Saklıkent pendant nos vacances."
+      ]
+    ],
+    "kampa": [
+      "Bisiklet sürerek kampa gittik.",
+      [
+        "We went to the campsite by bicycle.",
+        "Мы поехали в лагерь на велосипедах.",
+        "Лагерге велосипед айдап бардык.",
+        "ذهبنا إلى المخيم بالدراجات.",
+        "Nous sommes allés au camp à vélo."
+      ]
+    ],
+    "sürerek": [
+      "Bisiklet sürerek kampa gittik.",
+      [
+        "We went to the campsite by bicycle.",
+        "Мы поехали в лагерь на велосипедах.",
+        "Лагерге велосипед айдап бардык.",
+        "ذهبنا إلى المخيم بالدراجات.",
+        "Nous sommes allés au camp à vélo."
+      ]
+    ],
+    "yedigöller": [
+      "Yedigöller gezisi için çantamı hazırladım.",
+      [
+        "I packed my bag for the trip to Yedigöller.",
+        "Я собрал сумку для поездки в Едигёллер.",
+        "Едигөлдөргө сапар үчүн сумкамды даярдадым.",
+        "جهزت حقيبتي لرحلة يديغولر.",
+        "J’ai préparé mon sac pour le voyage à Yedigöller."
+      ]
+    ],
+    "atladı": [
+      "Arkadaşım Ölüdeniz’de yamaç paraşütü yaptı.",
+      [
+        "My friend went paragliding in Ölüdeniz.",
+        "Мой друг летал на параплане в Олюденизе.",
+        "Досум Өлүденизде параплан менен учту.",
+        "مارس صديقي الطيران الشراعي في أولودينيز.",
+        "Mon ami a fait du parapente à Ölüdeniz."
+      ]
+    ],
+    "ölü": [
+      "Arkadaşım Ölüdeniz’de yamaç paraşütü yaptı.",
+      [
+        "My friend went paragliding in Ölüdeniz.",
+        "Мой друг летал на параплане в Олюденизе.",
+        "Досум Өлүденизде параплан менен учту.",
+        "مارس صديقي الطيران الشراعي في أولودينيز.",
+        "Mon ami a fait du parapente à Ölüdeniz."
+      ]
+    ],
+    "dağcılık": [
+      "Üniversitede dağcılık kulübüne katıldım.",
+      [
+        "I joined the mountaineering club at university.",
+        "В университете я вступил в клуб альпинизма.",
+        "Университетте альпинизм клубуна кошулдум.",
+        "انضممت إلى نادي تسلق الجبال في الجامعة.",
+        "J’ai rejoint le club d’alpinisme à l’université."
+      ]
+    ],
+    "yamaç": [
+      "Arkadaşım Ölüdeniz’de yamaç paraşütü yaptı.",
+      [
+        "My friend went paragliding in Ölüdeniz.",
+        "Мой друг летал на параплане в Олюденизе.",
+        "Досум Өлүденизде параплан менен учту.",
+        "مارس صديقي الطيران الشراعي في أولودينيز.",
+        "Mon ami a fait du parapente à Ölüdeniz."
+      ]
+    ],
+    "paraşütü": [
+      "Arkadaşım Ölüdeniz’de yamaç paraşütü yaptı.",
+      [
+        "My friend went paragliding in Ölüdeniz.",
+        "Мой друг летал на параплане в Олюденизе.",
+        "Досум Өлүденизде параплан менен учту.",
+        "مارس صديقي الطيران الشراعي في أولودينيز.",
+        "Mon ami a fait du parapente à Ölüdeniz."
+      ]
+    ],
+    "hayatınız": [
+      "Hayatım hakkında bilgi veren kısa bir yazı hazırladım.",
+      [
+        "I prepared a short text giving information about my life.",
+        "Я подготовил короткий текст о своей жизни.",
+        "Жашоом тууралуу маалымат берген кыска текст даярдадым.",
+        "أعددت نصًا قصيرًا يقدم معلومات عن حياتي.",
+        "J’ai préparé un court texte donnant des informations sur ma vie."
+      ]
+    ],
+    "veren": [
+      "Hayatım hakkında bilgi veren kısa bir yazı hazırladım.",
+      [
+        "I prepared a short text giving information about my life.",
+        "Я подготовил короткий текст о своей жизни.",
+        "Жашоом тууралуу маалымат берген кыска текст даярдадым.",
+        "أعددت نصًا قصيرًا يقدم معلومات عن حياتي.",
+        "J’ai préparé un court texte donnant des informations sur ma vie."
+      ]
+    ],
+    "hayatım": [
+      "Hayatım hakkında bilgi veren kısa bir yazı hazırladım.",
+      [
+        "I prepared a short text giving information about my life.",
+        "Я подготовил короткий текст о своей жизни.",
+        "Жашоом тууралуу маалымат берген кыска текст даярдадым.",
+        "أعددت نصًا قصيرًا يقدم معلومات عن حياتي.",
+        "J’ai préparé un court texte donnant des informations sur ma vie."
+      ]
+    ],
+    "anlatan": [
+      "Şehrimizi anlatan bir afiş hazırladık.",
+      [
+        "We prepared a poster describing our city.",
+        "Мы подготовили плакат о нашем городе.",
+        "Шаарыбызды баяндаган афиша даярдадык.",
+        "أعددنا ملصقًا يصف مدينتنا.",
+        "Nous avons préparé une affiche présentant notre ville."
+      ]
+    ],
+    "kartlarını": [
+      "Bilgi kartlarını kullanarak afişini oluştur.",
+      [
+        "Create your poster using the information cards.",
+        "Создай свой плакат, используя информационные карточки.",
+        "Маалымат карточкаларын колдонуп афишаңызды түзүңүз.",
+        "أنشئ ملصقك باستخدام بطاقات المعلومات.",
+        "Crée ton affiche à l’aide des fiches d’information."
+      ]
+    ],
+    "afişini": [
+      "Bilgi kartlarını kullanarak afişini oluştur.",
+      [
+        "Create your poster using the information cards.",
+        "Создай свой плакат, используя информационные карточки.",
+        "Маалымат карточкаларын колдонуп афишаңызды түзүңүз.",
+        "أنشئ ملصقك باستخدام بطاقات المعلومات.",
+        "Crée ton affiche à l’aide des fiches d’information."
+      ]
+    ],
+    "oluştur": [
+      "Bilgi kartlarını kullanarak afişini oluştur.",
+      [
+        "Create your poster using the information cards.",
+        "Создай свой плакат, используя информационные карточки.",
+        "Маалымат карточкаларын колдонуп афишаңызды түзүңүз.",
+        "أنشئ ملصقك باستخدام بطاقات المعلومات.",
+        "Crée ton affiche à l’aide des fiches d’information."
+      ]
+    ],
+    "eşyalarınızı": [
+      "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    ],
+    "afişinize": [
+      "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    ],
+    "arkadaşlarınızın": [
+      "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    ],
+    "eşyalarınızın": [
+      "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    ],
+    "ekleyin": [
+      "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    ],
+    "fotoğraflarınızı": [
+      "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    ],
+    "başlıkları": [
+      "Metinlerinizi, başlıkları ve fotoğraflarınızı son kez kontrol edin.",
+      [
+        "Check your texts, headings and photos one last time.",
+        "Проверьте тексты, заголовки и фотографии в последний раз.",
+        "Тексттериңизди, аталыштарды жана сүрөттөрүңүздү акыркы жолу текшериңиз.",
+        "راجعوا نصوصكم وعناوينكم وصوركم للمرة الأخيرة.",
+        "Vérifiez une dernière fois vos textes, titres et photos."
+      ]
+    ],
+    "şarkılar": [
+      "Bu şarkılar bana çocukluğumu hatırlatıyor.",
+      [
+        "These songs remind me of my childhood.",
+        "Эти песни напоминают мне детство.",
+        "Бул ырлар бала чагымды эске салат.",
+        "تذكرني هذه الأغاني بطفولتي.",
+        "Ces chansons me rappellent mon enfance."
+      ]
+    ],
+    "vb": [
+      "Metinlerinizi, başlıkları ve fotoğraflarınızı son kez kontrol edin.",
+      [
+        "Check your texts, headings and photos one last time.",
+        "Проверьте тексты, заголовки и фотографии в последний раз.",
+        "Тексттериңизди, аталыштарды жана сүрөттөрүңүздү акыркы жолу текшериңиз.",
+        "راجعوا نصوصكم وعناوينكم وصوركم للمرة الأخيرة.",
+        "Vérifiez une dernière fois vos textes, titres et photos."
+      ]
+    ],
+    "metinlerinizi": [
+      "Metinlerinizi, başlıkları ve fotoğraflarınızı son kez kontrol edin.",
+      [
+        "Check your texts, headings and photos one last time.",
+        "Проверьте тексты, заголовки и фотографии в последний раз.",
+        "Тексттериңизди, аталыштарды жана сүрөттөрүңүздү акыркы жолу текшериңиз.",
+        "راجعوا نصوصكم وعناوينكم وصوركم للمرة الأخيرة.",
+        "Vérifiez une dernière fois vos textes, titres et photos."
+      ]
+    ],
+    "bilgilerim": [
+      "Kişisel bilgilerim bu formda yazıyor.",
+      [
+        "My personal information is written on this form.",
+        "Мои личные данные указаны в этой анкете.",
+        "Жеке маалыматтарым ушул бланкта жазылган.",
+        "معلوماتي الشخصية مكتوبة في هذا النموذج.",
+        "Mes informations personnelles figurent sur ce formulaire."
+      ]
+    ],
+    "ettığı": [
+      "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    ],
+    "hobıler": [
+      "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    ],
+    "rutınler": [
+      "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    ],
+    "rutın": [
+      "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    ],
+    "saatlerı": [
+      "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    ],
+    "etkınlıkler": [
+      "Haftalık programımda rutinler, hobiler ve etkinlikler var.",
+      [
+        "My weekly schedule includes routines, hobbies and activities.",
+        "В моём недельном расписании есть повседневные дела, хобби и мероприятия.",
+        "Жумалык күн тартибимде күнүмдүк иштер, хоббилер жана иш-чаралар бар.",
+        "يتضمن برنامجي الأسبوعي الأعمال الروتينية والهوايات والأنشطة.",
+        "Mon programme hebdomadaire comprend des habitudes, des loisirs et des activités."
+      ]
+    ],
+    "aklınıza": [
+      "Aklınıza gelen yeni fikirleri listeye ekleyebilirsiniz.",
+      [
+        "You can add new ideas that come to mind to the list.",
+        "Вы можете добавить в список новые идеи, которые приходят в голову.",
+        "Оюңузга келген жаңы идеяларды тизмеге кошо аласыз.",
+        "يمكنكم إضافة الأفكار الجديدة التي تخطر ببالكم إلى القائمة.",
+        "Vous pouvez ajouter à la liste les nouvelles idées qui vous viennent à l’esprit."
+      ]
+    ],
+    "ekleyebilirsiniz": [
+      "Aklınıza gelen yeni fikirleri listeye ekleyebilirsiniz.",
+      [
+        "You can add new ideas that come to mind to the list.",
+        "Вы можете добавить в список новые идеи, которые приходят в голову.",
+        "Оюңузга келген жаңы идеяларды тизмеге кошо аласыз.",
+        "يمكنكم إضافة الأفكار الجديدة التي تخطر ببالكم إلى القائمة.",
+        "Vous pouvez ajouter à la liste les nouvelles idées qui vous viennent à l’esprit."
+      ]
+    ],
+    "kırmızı": [
+      "Kırmızı çantamı evde unuttum.",
+      [
+        "I left my red bag at home.",
+        "Я забыл красную сумку дома.",
+        "Кызыл сумкамды үйдө унутуп калтырдым.",
+        "نسيت حقيبتي الحمراء في المنزل.",
+        "J’ai oublié mon sac rouge à la maison."
+      ]
+    ],
+    "on": [
+      "Sınıfımızda on öğrenci var.",
+      [
+        "There are ten students in our class.",
+        "В нашем классе десять учеников.",
+        "Классыбызда он окуучу бар.",
+        "في صفنا عشرة طلاب.",
+        "Il y a dix élèves dans notre classe."
+      ]
+    ],
+    "takip": [
+      "Yeni filmleri düzenli olarak takip ederim.",
+      [
+        "I regularly follow new film releases.",
+        "Я регулярно слежу за новыми фильмами.",
+        "Жаңы тасмаларды үзгүлтүксүз байкап турам.",
+        "أتابع الأفلام الجديدة بانتظام.",
+        "Je suis régulièrement les sorties de nouveaux films."
+      ]
+    ],
+    "kolay": [
+      "Bu sorunun cevabı çok kolay.",
+      [
+        "The answer to this question is very easy.",
+        "Ответ на этот вопрос очень простой.",
+        "Бул суроонун жообу абдан оңой.",
+        "إجابة هذا السؤال سهلة جدًا.",
+        "La réponse à cette question est très facile."
+      ]
+    ],
+    "çapa": [
+      "Çapa Fen Lisesinde okuyan bir arkadaşım var.",
+      [
+        "I have a friend who studies at Çapa Science High School.",
+        "У меня есть друг, который учится в естественно-научном лицее Чапа.",
+        "Чапа табигый илимдер лицейинде окуган досум бар.",
+        "لدي صديق يدرس في ثانوية تشابا للعلوم.",
+        "J’ai un ami qui étudie au lycée scientifique Çapa."
+      ]
+    ],
+    "sık": [
+      "Arkadaşımla sık sık buluşurum.",
+      [
+        "I often meet my friend.",
+        "Я часто встречаюсь с другом.",
+        "Досум менен тез-тез жолугам.",
+        "ألتقي بصديقي كثيرًا.",
+        "Je retrouve souvent mon ami."
       ]
     ]
   },
@@ -21713,6 +24360,618 @@
         "ذهبت إلى المغسلة لغسل يديّ.",
         "Je suis allé au lavabo pour me laver les mains."
       ]
+    },
+    "spor yapmak": {
+      "translations": [
+        "to exercise",
+        "заниматься спортом",
+        "спорт менен машыгуу",
+        "ممارسة الرياضة",
+        "faire du sport"
+      ],
+      "exampleTr": "Ablam her sabah spor yapar.",
+      "examples": [
+        "My older sister exercises every morning.",
+        "Моя старшая сестра каждое утро занимается спортом.",
+        "Эжем күн сайын эртең менен спорт менен машыгат.",
+        "تمارس أختي الكبرى الرياضة كل صباح.",
+        "Ma grande sœur fait du sport chaque matin."
+      ]
+    },
+    "kahvaltı etmek": {
+      "translations": [
+        "to have breakfast",
+        "завтракать",
+        "эртең мененки тамакты ичүү",
+        "تناول الفطور",
+        "prendre le petit-déjeuner"
+      ],
+      "exampleTr": "Kahvaltı ettikten sonra evden çıktım.",
+      "examples": [
+        "I left home after having breakfast.",
+        "Позавтракав, я вышел из дома.",
+        "Эртең мененки тамакты ичкенден кийин үйдөн чыктым.",
+        "خرجت من المنزل بعد تناول الفطور.",
+        "Je suis parti de chez moi après avoir pris mon petit-déjeuner."
+      ]
+    },
+    "kitap okumak": {
+      "translations": [
+        "to read a book",
+        "читать книгу",
+        "китеп окуу",
+        "قراءة كتاب",
+        "lire un livre"
+      ],
+      "exampleTr": "Akşamları kitap okumak beni dinlendiriyor.",
+      "examples": [
+        "Reading books in the evenings helps me relax.",
+        "Чтение книг по вечерам помогает мне отдохнуть.",
+        "Кечинде китеп окуу мени эс алдырат.",
+        "تساعدني قراءة الكتب مساءً على الاسترخاء.",
+        "Lire le soir me détend."
+      ]
+    },
+    "ödevlerini yapma": {
+      "translations": [
+        "doing one’s homework",
+        "выполнение домашних заданий",
+        "үй тапшырмаларын аткаруу",
+        "أداء الواجبات المنزلية",
+        "faire ses devoirs"
+      ],
+      "exampleTr": "Ali ödevlerini akşam yemeğinden önce bitirdi.",
+      "examples": [
+        "Ali finished his homework before dinner.",
+        "Али закончил домашние задания до ужина.",
+        "Али үй тапшырмаларын кечки тамакка чейин бүтүрдү.",
+        "أنهى علي واجباته المنزلية قبل العشاء.",
+        "Ali a terminé ses devoirs avant le dîner."
+      ]
+    },
+    "arkadaşlarla buluşma": {
+      "translations": [
+        "meeting friends",
+        "встреча с друзьями",
+        "достор менен жолугушуу",
+        "لقاء الأصدقاء",
+        "retrouver des amis"
+      ],
+      "exampleTr": "Cumartesi arkadaşlarımla evimde buluşuyorum.",
+      "examples": [
+        "I meet my friends at my home on Saturday.",
+        "В субботу я встречаюсь с друзьями у себя дома.",
+        "Ишембиде досторум менен үйүмдө жолугам.",
+        "ألتقي بأصدقائي في منزلي يوم السبت.",
+        "Samedi, je retrouve mes amis chez moi."
+      ]
+    },
+    "e-postalarını kontrol etmek": {
+      "translations": [
+        "to check one’s emails",
+        "проверять электронную почту",
+        "электрондук каттарын текшерүү",
+        "التحقق من البريد الإلكتروني",
+        "consulter ses courriels"
+      ],
+      "exampleTr": "Öğretmenler sabah e-postalarını kontrol eder.",
+      "examples": [
+        "The teachers check their emails in the morning.",
+        "Учителя проверяют свою электронную почту утром.",
+        "Мугалимдер эртең менен электрондук каттарын текшеришет.",
+        "يتحقق المعلمون من رسائل بريدهم الإلكتروني صباحًا.",
+        "Les enseignants consultent leurs courriels le matin."
+      ]
+    },
+    "elini yüzünü silmek": {
+      "translations": [
+        "to wipe one’s hands and face",
+        "вытирать руки и лицо",
+        "колун-бетин аарчуу",
+        "مسح اليدين والوجه",
+        "s’essuyer les mains et le visage"
+      ],
+      "exampleTr": "Yemekten sonra masayı sileriz.",
+      "examples": [
+        "We wipe the table after eating.",
+        "После еды мы вытираем стол.",
+        "Тамактангандан кийин үстөлдү аарчыйбыз.",
+        "نمسح الطاولة بعد الأكل.",
+        "Nous essuyons la table après le repas."
+      ]
+    },
+    "öğle yemeği yemek": {
+      "translations": [
+        "to have lunch",
+        "обедать",
+        "түшкү тамакты ичүү",
+        "تناول الغداء",
+        "déjeuner"
+      ],
+      "exampleTr": "Öğle yemeğinde çorba içtim.",
+      "examples": [
+        "I had soup for lunch.",
+        "На обед я ел суп.",
+        "Түшкү тамакта шорпо ичтим.",
+        "تناولت الحساء في الغداء.",
+        "J’ai pris de la soupe au déjeuner."
+      ]
+    },
+    "akşam yemeği yemek": {
+      "translations": [
+        "to have dinner",
+        "ужинать",
+        "кечки тамакты ичүү",
+        "تناول العشاء",
+        "dîner"
+      ],
+      "exampleTr": "Yemekten sonra babam kitap okur, biz müzik dinleriz.",
+      "examples": [
+        "After dinner, my father reads and we listen to music.",
+        "После ужина отец читает, а мы слушаем музыку.",
+        "Кечки тамактан кийин атам китеп окуйт, биз музыка угабыз.",
+        "بعد العشاء يقرأ أبي كتابًا ونستمع نحن إلى الموسيقى.",
+        "Après le dîner, mon père lit et nous écoutons de la musique."
+      ]
+    },
+    "bu yüzden": {
+      "translations": [
+        "therefore",
+        "поэтому",
+        "ошондуктан",
+        "لذلك",
+        "c’est pourquoi"
+      ],
+      "exampleTr": "İşlerimi bitiremiyorum, bu yüzden yardım istedim.",
+      "examples": [
+        "I cannot finish my tasks, so I asked for help.",
+        "Я не могу закончить дела, поэтому попросил помощи.",
+        "Иштеримди бүтүрө албай жатам, ошондуктан жардам сурадым.",
+        "لا أستطيع إنهاء أعمالي لذلك طلبت المساعدة.",
+        "Je n’arrive pas à terminer mes tâches, alors j’ai demandé de l’aide."
+      ]
+    },
+    "öğle arası": {
+      "translations": [
+        "lunch break",
+        "обеденный перерыв",
+        "түшкү тыныгуу",
+        "استراحة الغداء",
+        "pause déjeuner"
+      ],
+      "exampleTr": "Mola veriyoruz; ben de bu sırada çay içiyorum.",
+      "examples": [
+        "We are taking a break, and I am drinking tea.",
+        "Мы делаем перерыв, а я пью чай.",
+        "Тыныгуу жасап жатабыз, мен чай ичип жатам.",
+        "نأخذ استراحة وأنا أشرب الشاي خلالها.",
+        "Nous faisons une pause et je bois du thé."
+      ]
+    },
+    "gece yarısına kadar": {
+      "translations": [
+        "until midnight",
+        "до полуночи",
+        "түн ортосуна чейин",
+        "حتى منتصف الليل",
+        "jusqu’à minuit"
+      ],
+      "exampleTr": "Bazen gece yarısına kadar film seyrediyorum.",
+      "examples": [
+        "Sometimes I watch films until midnight.",
+        "Иногда я смотрю фильмы до полуночи.",
+        "Кээде түн ортосуна чейин тасма көрөм.",
+        "أحيانًا أشاهد الأفلام حتى منتصف الليل.",
+        "Parfois, je regarde des films jusqu’à minuit."
+      ]
+    },
+    "hafta içi": {
+      "translations": [
+        "on weekdays",
+        "в будние дни",
+        "иш күндөрү",
+        "في أيام الأسبوع",
+        "en semaine"
+      ],
+      "exampleTr": "Çocuklar hafta içi saat yedide uyanırlar.",
+      "examples": [
+        "The children wake up at seven on weekdays.",
+        "В будние дни дети просыпаются в семь.",
+        "Балдар иш күндөрү саат жетиде ойгонушат.",
+        "يستيقظ الأطفال الساعة السابعة في أيام الأسبوع.",
+        "Les enfants se réveillent à sept heures en semaine."
+      ]
+    },
+    "bozuk para": {
+      "translations": [
+        "coin",
+        "монета",
+        "тыйын",
+        "عملة معدنية",
+        "pièce de monnaie"
+      ],
+      "exampleTr": "Eski paraları ayırdım ve albümlere yerleştirdim.",
+      "examples": [
+        "I sorted the old coins and placed them in albums.",
+        "Я отобрал старые монеты и разместил их в альбомах.",
+        "Эски акчаларды бөлүп, альбомдорго жайгаштырдым.",
+        "فرزت النقود القديمة ووضعتها في الألبومات.",
+        "J’ai trié les anciennes pièces et les ai placées dans des albums."
+      ]
+    },
+    "kâğıt para": {
+      "translations": [
+        "banknote",
+        "банкнота",
+        "кагаз акча",
+        "ورقة نقدية",
+        "billet de banque"
+      ],
+      "exampleTr": "Eski paraları ayırdım ve albümlere yerleştirdim.",
+      "examples": [
+        "I sorted the old coins and placed them in albums.",
+        "Я отобрал старые монеты и разместил их в альбомах.",
+        "Эски акчаларды бөлүп, альбомдорго жайгаштырдым.",
+        "فرزت النقود القديمة ووضعتها في الألبومات.",
+        "J’ai trié les anciennes pièces et les ai placées dans des albums."
+      ]
+    },
+    "çizgi roman": {
+      "translations": [
+        "comic book",
+        "комикс",
+        "комикс",
+        "قصة مصورة",
+        "bande dessinée"
+      ],
+      "exampleTr": "Kardeşimin hobisi çizgi roman okumak.",
+      "examples": [
+        "My brother’s hobby is reading comics.",
+        "Хобби моего брата — читать комиксы.",
+        "Инимдин хоббиси — комикс окуу.",
+        "هواية أخي قراءة القصص المصورة.",
+        "Le loisir de mon frère est de lire des bandes dessinées."
+      ]
+    },
+    "film eleştirisi": {
+      "translations": [
+        "film review",
+        "рецензия на фильм",
+        "тасма тууралуу сын-пикир",
+        "نقد فيلم",
+        "critique de film"
+      ],
+      "exampleTr": "Film eleştirisi yazmadan önce filminizi izleyebilirim.",
+      "examples": [
+        "I can watch your film before writing a review.",
+        "Я могу посмотреть ваш фильм, прежде чем написать рецензию.",
+        "Сын-пикир жазардан мурун тасмаңызды көрө алам.",
+        "يمكنني مشاهدة فيلمكم قبل كتابة نقد له.",
+        "Je peux regarder votre film avant d’en écrire une critique."
+      ]
+    },
+    "ilgi alanları": {
+      "translations": [
+        "interests",
+        "сфера интересов",
+        "кызыгуу чөйрөлөрү",
+        "مجالات الاهتمام",
+        "centres d’intérêt"
+      ],
+      "exampleTr": "İlgi alanınız ile kişisel özellikleriniz arasında bir ilişki var mı?",
+      "examples": [
+        "Is there a link between your interests and your personal qualities?",
+        "Есть ли связь между вашими интересами и личными качествами?",
+        "Кызыгуу чөйрөңүз менен жеке өзгөчөлүктөрүңүздүн ортосунда байланыш барбы?",
+        "هل توجد علاقة بين مجال اهتمامكم وصفاتكم الشخصية؟",
+        "Y a-t-il un lien entre vos centres d’intérêt et vos qualités personnelles ?"
+      ]
+    },
+    "müzik aleti": {
+      "translations": [
+        "musical instrument",
+        "музыкальный инструмент",
+        "музыкалык аспап",
+        "آلة موسيقية",
+        "instrument de musique"
+      ],
+      "exampleTr": "Gitar bir müzik aleti, raket ise tenis için kullanılır.",
+      "examples": [
+        "A guitar is a musical instrument, while a racket is used for tennis.",
+        "Гитара — музыкальный инструмент, а ракетка используется для тенниса.",
+        "Гитара — музыкалык аспап, ал эми ракетка теннис үчүн колдонулат.",
+        "الغيتار آلة موسيقية أما المضرب فيستخدم للتنس.",
+        "La guitare est un instrument de musique et la raquette sert à jouer au tennis."
+      ]
+    },
+    "müzik aleti çalmak": {
+      "translations": [
+        "to play a musical instrument",
+        "играть на музыкальном инструменте",
+        "музыкалык аспапта ойноо",
+        "العزف على آلة موسيقية",
+        "jouer d’un instrument"
+      ],
+      "exampleTr": "Şarkı söyleyebilirim ama gitar çalamam.",
+      "examples": [
+        "I can sing, but I cannot play the guitar.",
+        "Я могу петь, но не умею играть на гитаре.",
+        "Ырдай алам, бирок гитарада ойной албайм.",
+        "أستطيع الغناء لكنني لا أستطيع العزف على الغيتار.",
+        "Je sais chanter, mais je ne sais pas jouer de la guitare."
+      ]
+    },
+    "fotoğraf makinesi": {
+      "translations": [
+        "camera",
+        "фотоаппарат",
+        "фотоаппарат",
+        "آلة تصوير",
+        "appareil photo"
+      ],
+      "exampleTr": "Kendime bir fotoğrafçı dükkânı açmak istiyorum.",
+      "examples": [
+        "I want to open a photography shop of my own.",
+        "Я хочу открыть собственную фотомастерскую.",
+        "Өзүмө фотосүрөтчү дүкөнүн ачкым келет.",
+        "أريد فتح محل تصوير خاص بي.",
+        "Je veux ouvrir ma propre boutique de photographie."
+      ]
+    },
+    "fotoğraf çekmek": {
+      "translations": [
+        "to take a photograph",
+        "фотографировать",
+        "сүрөткө тартуу",
+        "التقاط صورة",
+        "prendre une photo"
+      ],
+      "exampleTr": "Kendime bir fotoğrafçı dükkânı açmak istiyorum.",
+      "examples": [
+        "I want to open a photography shop of my own.",
+        "Я хочу открыть собственную фотомастерскую.",
+        "Өзүмө фотосүрөтчү дүкөнүн ачкым келет.",
+        "أريد فتح محل تصوير خاص بي.",
+        "Je veux ouvrir ma propre boutique de photographie."
+      ]
+    },
+    "tenis oynamak": {
+      "translations": [
+        "to play tennis",
+        "играть в теннис",
+        "теннис ойноо",
+        "لعب التنس",
+        "jouer au tennis"
+      ],
+      "exampleTr": "Gitar bir müzik aleti, raket ise tenis için kullanılır.",
+      "examples": [
+        "A guitar is a musical instrument, while a racket is used for tennis.",
+        "Гитара — музыкальный инструмент, а ракетка используется для тенниса.",
+        "Гитара — музыкалык аспап, ал эми ракетка теннис үчүн колдонулат.",
+        "الغيتار آلة موسيقية أما المضرب فيستخدم للتنس.",
+        "La guitare est un instrument de musique et la raquette sert à jouer au tennis."
+      ]
+    },
+    "bisiklete binmek": {
+      "translations": [
+        "to ride a bicycle",
+        "ездить на велосипеде",
+        "велосипед минүү",
+        "ركوب الدراجة",
+        "faire du vélo"
+      ],
+      "exampleTr": "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      "examples": [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    },
+    "paten kaymak": {
+      "translations": [
+        "to skate",
+        "кататься на роликах",
+        "коньки тебүү",
+        "التزلج",
+        "faire du patin"
+      ],
+      "exampleTr": "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      "examples": [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    },
+    "şarkı söylemek": {
+      "translations": [
+        "to sing a song",
+        "петь песню",
+        "ыр ырдоо",
+        "غناء أغنية",
+        "chanter une chanson"
+      ],
+      "exampleTr": "Şarkı söyleyebilirim ama gitar çalamam.",
+      "examples": [
+        "I can sing, but I cannot play the guitar.",
+        "Я могу петь, но не умею играть на гитаре.",
+        "Ырдай алам, бирок гитарада ойной албайм.",
+        "أستطيع الغناء لكنني لا أستطيع العزف على الغيتار.",
+        "Je sais chanter, mais je ne sais pas jouer de la guitare."
+      ]
+    },
+    "uçurtma uçurmak": {
+      "translations": [
+        "to fly a kite",
+        "запускать воздушного змея",
+        "батперек учуруу",
+        "تطيير طائرة ورقية",
+        "faire voler un cerf-volant"
+      ],
+      "exampleTr": "Ece şarkı söylerken Oğuz uçurtma uçurmak istiyor.",
+      "examples": [
+        "While Ece sings, Oğuz wants to fly a kite.",
+        "Пока Эдже поёт, Огуз хочет запустить воздушного змея.",
+        "Эдже ырдап жатканда, Огуз батперек учургуcу келет.",
+        "بينما تغني إيجه يريد أوغوز تطيير طائرة ورقية.",
+        "Pendant qu’Ece chante, Oğuz veut faire voler un cerf-volant."
+      ]
+    },
+    "yamaç paraşütü": {
+      "translations": [
+        "paragliding",
+        "парапланеризм",
+        "параплан менен учуу",
+        "الطيران الشراعي",
+        "parapente"
+      ],
+      "exampleTr": "Arkadaşım Ölüdeniz’de yamaç paraşütü yaptı.",
+      "examples": [
+        "My friend went paragliding in Ölüdeniz.",
+        "Мой друг летал на параплане в Олюденизе.",
+        "Досум Өлүденизде параплан менен учту.",
+        "مارس صديقي الطيران الشراعي في أولودينيز.",
+        "Mon ami a fait du parapente à Ölüdeniz."
+      ]
+    },
+    "kaya tırmanışı": {
+      "translations": [
+        "rock climbing",
+        "скалолазание",
+        "аскага чыгуу",
+        "تسلق الصخور",
+        "escalade"
+      ],
+      "exampleTr": "Üniversitede dağcılık kulübüne katıldım.",
+      "examples": [
+        "I joined the mountaineering club at university.",
+        "В университете я вступил в клуб альпинизма.",
+        "Университетте альпинизм клубуна кошулдум.",
+        "انضممت إلى نادي تسلق الجبال في الجامعة.",
+        "J’ai rejoint le club d’alpinisme à l’université."
+      ]
+    },
+    "ölü deniz": {
+      "translations": [
+        "Ölüdeniz (place name)",
+        "Олюдениз",
+        "Өлүдениз",
+        "أولودينيز",
+        "Ölüdeniz"
+      ],
+      "exampleTr": "Arkadaşım Ölüdeniz’de yamaç paraşütü yaptı.",
+      "examples": [
+        "My friend went paragliding in Ölüdeniz.",
+        "Мой друг летал на параплане в Олюденизе.",
+        "Досум Өлүденизде параплан менен учту.",
+        "مارس صديقي الطيران الشراعي في أولودينيز.",
+        "Mon ami a fait du parapente à Ölüdeniz."
+      ]
+    },
+    "geniş zaman": {
+      "translations": [
+        "Turkish aorist",
+        "настоящее-будущее время",
+        "жалпы учур чак",
+        "المضارع العام في التركية",
+        "aoriste turc"
+      ],
+      "exampleTr": "Her akşam kitap okur.",
+      "examples": [
+        "He reads every evening.",
+        "Он каждый вечер читает.",
+        "Ал күн сайын кечинде китеп окуйт.",
+        "يقرأ كل مساء.",
+        "Il lit chaque soir."
+      ]
+    },
+    "sık sık": {
+      "translations": [
+        "often",
+        "часто",
+        "тез-тез",
+        "كثيرًا",
+        "souvent"
+      ],
+      "exampleTr": "Arkadaşımla sık sık buluşurum.",
+      "examples": [
+        "I often meet my friend.",
+        "Я часто встречаюсь с другом.",
+        "Досум менен тез-тез жолугам.",
+        "ألتقي بصديقي كثيرًا.",
+        "Je retrouve souvent mon ami."
+      ]
+    },
+    "hiçbir zaman": {
+      "translations": [
+        "never",
+        "никогда",
+        "эч качан",
+        "أبدًا",
+        "jamais"
+      ],
+      "exampleTr": "Otobüste çantamı asla yalnız bırakmam.",
+      "examples": [
+        "I never leave my bag unattended on the bus.",
+        "Я никогда не оставляю сумку без присмотра в автобусе.",
+        "Автобуста сумкамды эч качан кароосуз калтырбайм.",
+        "لا أترك حقيبتي أبدًا دون مراقبة في الحافلة.",
+        "Je ne laisse jamais mon sac sans surveillance dans le bus."
+      ]
+    },
+    "ders çalışmak": {
+      "translations": [
+        "to study",
+        "заниматься",
+        "сабак окуу",
+        "الدراسة",
+        "étudier"
+      ],
+      "exampleTr": "Aşçı lokantada çalışıyor.",
+      "examples": [
+        "The cook works at a restaurant.",
+        "Повар работает в ресторане.",
+        "Ашпозчу тамактануучу жайда иштейт.",
+        "الطباخ يعمل في مطعم.",
+        "Le cuisinier travaille dans un restaurant."
+      ]
+    },
+    "uyku tulumlarını": {
+      "translations": [
+        "their sleeping bags",
+        "свои спальные мешки",
+        "уктоочу каптарын",
+        "أكياس نومهم",
+        "leurs sacs de couchage"
+      ],
+      "exampleTr": "Kampçılar uyku tulumlarını çadıra taşıdı.",
+      "examples": [
+        "The campers carried their sleeping bags into the tent.",
+        "Туристы перенесли спальные мешки в палатку.",
+        "Лагердегилер уктоочу каптарын чатырга ташышты.",
+        "حمل المخيمون أكياس نومهم إلى الخيمة.",
+        "Les campeurs ont porté leurs sacs de couchage dans la tente."
+      ]
+    },
+    "yer çekimsiz ortam": {
+      "translations": [
+        "zero-gravity environment",
+        "среда невесомости",
+        "салмаксыз чөйрө",
+        "بيئة انعدام الجاذبية",
+        "environnement sans gravité"
+      ],
+      "exampleTr": "Çocuklar yer çekimsiz ortamı anlatan bir video izledi.",
+      "examples": [
+        "The children watched a video about a zero-gravity environment.",
+        "Дети посмотрели видео о невесомости.",
+        "Балдар тартылуусуз чөйрө жөнүндө видео көрүштү.",
+        "شاهد الأطفال فيديو يشرح بيئة انعدام الجاذبية.",
+        "Les enfants ont regardé une vidéo sur un environnement sans gravité."
+      ]
     }
   },
   "quizVocabulary": [
@@ -21732,5 +24991,8 @@
     "buluşma",
     "uzayda",
     "hobilerim"
-  ]
+  ],
+  "sources": {
+    "kastel": "https://www.repertukul.com/KARANFIL-DESTE-GIDER-844"
+  }
 }
