@@ -63,6 +63,13 @@
       "أربعة وثلاثون",
       "trente-quatre"
     ],
+    "35": [
+      "thirty-five",
+      "тридцать пять",
+      "отуз беш",
+      "خمسة وثلاثون",
+      "trente-cinq"
+    ],
     "ünite": [
       "unit",
       "раздел",
@@ -2526,6 +2533,279 @@
       "сени",
       "إياك",
       "te"
+    ],
+    "bekleriz": [
+      "we wait; we'll wait",
+      "мы ждём; подождём",
+      "күтөбүз",
+      "ننتظر",
+      "nous attendons"
+    ],
+    "inşallah": [
+      "hopefully; God willing",
+      "дай Бог",
+      "Кудай буюрса",
+      "إن شاء الله",
+      "si Dieu le veut"
+    ],
+    "değilim": [
+      "I am not",
+      "я не",
+      "эмесмин",
+      "لستُ",
+      "je ne suis pas"
+    ],
+    "uygun": [
+      "suitable; convenient",
+      "подходящий; удобный",
+      "ылайыктуу; ыңгайлуу",
+      "مناسب",
+      "adapté; disponible"
+    ],
+    "cümlelerle": [
+      "with sentences",
+      "предложениями",
+      "сүйлөмдөр менен",
+      "بالجمل",
+      "avec des phrases"
+    ],
+    "doldurun": [
+      "fill in",
+      "заполните",
+      "толтургула",
+      "املؤوا",
+      "remplissez"
+    ],
+    "nereye": [
+      "where to",
+      "куда",
+      "кайда",
+      "إلى أين",
+      "où"
+    ],
+    "et": [
+      "do (imperative auxiliary)",
+      "сделай",
+      "кыл",
+      "افعل",
+      "fais"
+    ],
+    "reddet": [
+      "refuse; reject",
+      "откажись; отклони",
+      "баш тарт",
+      "ارفض",
+      "refuse"
+    ],
+    "konser": [
+      "concert",
+      "концерт",
+      "концерт",
+      "حفل موسيقي",
+      "concert"
+    ],
+    "konsere": [
+      "to the concert",
+      "на концерт",
+      "концертке",
+      "إلى الحفل الموسيقي",
+      "au concert"
+    ],
+    "piknik": [
+      "picnic",
+      "пикник",
+      "пикник",
+      "نزهة",
+      "pique-nique"
+    ],
+    "müze": [
+      "museum",
+      "музей",
+      "музей",
+      "متحف",
+      "musée"
+    ],
+    "alışveriş": [
+      "shopping",
+      "покупки",
+      "соода кылуу",
+      "تسوق",
+      "courses"
+    ],
+    "tiyatro": [
+      "theatre",
+      "театр",
+      "театр",
+      "مسرح",
+      "théâtre"
+    ],
+    "tablodan": [
+      "from the table",
+      "из таблицы",
+      "таблицадан",
+      "من الجدول",
+      "du tableau"
+    ],
+    "hareketle": [
+      "based on",
+      "исходя из",
+      "негизинде",
+      "انطلاقًا من",
+      "à partir de"
+    ],
+    "bakınız": [
+      "see; refer to",
+      "смотрите",
+      "караңыздар",
+      "انظروا",
+      "voir"
+    ],
+    "dil": [
+      "language",
+      "язык",
+      "тил",
+      "لغة",
+      "langue"
+    ],
+    "bilgisi": [
+      "knowledge; grammar (context)",
+      "знание; грамматика",
+      "билим; грамматика",
+      "معرفة؛ قواعد",
+      "connaissance ; grammaire"
+    ],
+    "telaffuz": [
+      "pronunciation",
+      "произношение",
+      "айтылыш",
+      "نطق",
+      "prononciation"
+    ],
+    "kitabı": [
+      "the book; his/her book",
+      "книгу; его книга",
+      "китепти; анын китеби",
+      "الكتاب؛ كتابه",
+      "le livre ; son livre"
+    ],
+    "bölümü": [
+      "section; chapter",
+      "раздел",
+      "бөлүмү",
+      "قسم",
+      "section"
+    ],
+    "acak/-ecek": [
+      "future-tense suffix",
+      "суффикс будущего времени",
+      "келер чактын мүчөсү",
+      "لاحقة زمن المستقبل",
+      "suffixe du futur"
+    ],
+    "dinleme": [
+      "listening",
+      "аудирование",
+      "угуп түшүнүү",
+      "استماع",
+      "compréhension orale"
+    ],
+    "kelimeleri": [
+      "the words",
+      "слова",
+      "сөздөрдү",
+      "الكلمات",
+      "les mots"
+    ],
+    "park": [
+      "park",
+      "парк",
+      "сейил бак",
+      "حديقة عامة",
+      "parc"
+    ],
+    "eczane": [
+      "pharmacy",
+      "аптека",
+      "дарыкана",
+      "صيدلية",
+      "pharmacie"
+    ],
+    "ç": [
+      "letter Ç",
+      "буква Ç",
+      "Ç тамгасы",
+      "الحرف Ç",
+      "lettre Ç"
+    ],
+    "kütüphane": [
+      "library",
+      "библиотека",
+      "китепкана",
+      "مكتبة",
+      "bibliothèque"
+    ],
+    "kafe": [
+      "café",
+      "кафе",
+      "кафе",
+      "مقهى",
+      "café"
+    ],
+    "restoran": [
+      "restaurant",
+      "ресторан",
+      "ресторан",
+      "مطعم",
+      "restaurant"
+    ],
+    "metro": [
+      "metro; subway",
+      "метро",
+      "метро",
+      "مترو",
+      "métro"
+    ],
+    "durağı": [
+      "stop; station",
+      "остановка",
+      "аялдамасы",
+      "محطة",
+      "arrêt"
+    ],
+    "g": [
+      "letter G",
+      "буква G",
+      "G тамгасы",
+      "الحرف G",
+      "lettre G"
+    ],
+    "h": [
+      "letter H",
+      "буква H",
+      "H тамгасы",
+      "الحرف H",
+      "lettre H"
+    ],
+    "cami": [
+      "mosque",
+      "мечеть",
+      "мечит",
+      "مسجد",
+      "mosquée"
+    ],
+    "ı": [
+      "letter dotless I",
+      "буква I без точки",
+      "чекитсиз I тамгасы",
+      "الحرف I بلا نقطة",
+      "lettre I sans point"
+    ],
+    "hastane": [
+      "hospital",
+      "больница",
+      "оорукана",
+      "مستشفى",
+      "hôpital"
     ]
   },
   "phrases": {
@@ -3401,6 +3681,16 @@
         "Китептин отуз төртүнчү бетин ачкыла.",
         "افتحوا الصفحة الرابعة والثلاثين من الكتاب.",
         "Ouvrez la page trente-quatre du livre."
+      ]
+    },
+    "35": {
+      "tr": "Otuz beşinci sayfayı aç.",
+      "values": [
+        "Open page thirty-five.",
+        "Откройте тридцать пятую страницу.",
+        "Отуз бешинчи бетти ачкыла.",
+        "افتحوا الصفحة الخامسة والثلاثين.",
+        "Ouvrez la page trente-cinq."
       ]
     },
     "ünite": {
@@ -6561,6 +6851,406 @@
         "Сага эртең чалам.",
         "سأتصل بك غدًا.",
         "Je t'appellerai demain."
+      ]
+    },
+    "bekleriz": {
+      "tr": "Seni kapıda bekleriz.",
+      "values": [
+        "We will wait for you at the entrance.",
+        "Мы подождём тебя у входа.",
+        "Сени кире бериште күтөбүз.",
+        "سننتظرك عند المدخل.",
+        "Nous t'attendrons à l'entrée."
+      ]
+    },
+    "inşallah": {
+      "tr": "İnşallah yarın görüşürüz.",
+      "values": [
+        "Hopefully, we'll meet tomorrow.",
+        "Дай Бог, увидимся завтра.",
+        "Кудай буюрса, эртең жолугабыз.",
+        "إن شاء الله نلتقي غدًا.",
+        "Si Dieu le veut, on se verra demain."
+      ]
+    },
+    "değilim": {
+      "tr": "Bugün müsait değilim.",
+      "values": [
+        "I'm not free today.",
+        "Сегодня я не свободен.",
+        "Мен бүгүн бош эмесмин.",
+        "لست متفرغًا اليوم.",
+        "Je ne suis pas disponible aujourd'hui."
+      ]
+    },
+    "uygun": {
+      "tr": "Yarın senin için uygun mu?",
+      "values": [
+        "Is tomorrow convenient for you?",
+        "Тебе удобно завтра?",
+        "Эртең сага ыңгайлуубу?",
+        "هل الغد مناسب لك؟",
+        "Est-ce que demain te convient ?"
+      ]
+    },
+    "cümlelerle": {
+      "tr": "Diyaloğu cümlelerle tamamlayın.",
+      "values": [
+        "Complete the dialogue with sentences.",
+        "Дополните диалог предложениями.",
+        "Диалогду сүйлөмдөр менен толуктагыла.",
+        "أكملوا الحوار بالجمل.",
+        "Complétez le dialogue avec des phrases."
+      ]
+    },
+    "doldurun": {
+      "tr": "Boşlukları doldurun.",
+      "values": [
+        "Fill in the blanks.",
+        "Заполните пропуски.",
+        "Бош орундарды толтургула.",
+        "املؤوا الفراغات.",
+        "Remplissez les blancs."
+      ]
+    },
+    "nereye": {
+      "tr": "Bugün nereye gideceğiz?",
+      "values": [
+        "Where are we going today?",
+        "Куда мы сегодня пойдём?",
+        "Бүгүн кайда барабыз?",
+        "إلى أين سنذهب اليوم؟",
+        "Où allons-nous aujourd'hui ?"
+      ]
+    },
+    "et": {
+      "tr": "Arkadaşını davet et.",
+      "values": [
+        "Invite your friend.",
+        "Пригласи своего друга.",
+        "Досуңду чакыр.",
+        "ادعُ صديقك.",
+        "Invite ton ami."
+      ]
+    },
+    "reddet": {
+      "tr": "Teklifi hemen reddetme.",
+      "values": [
+        "Don't reject the offer immediately.",
+        "Не отклоняй предложение сразу.",
+        "Сунуштан дароо баш тартпа.",
+        "لا ترفض العرض فورًا.",
+        "Ne refuse pas tout de suite la proposition."
+      ]
+    },
+    "konser": {
+      "tr": "Konser saat sekizde başlıyor.",
+      "values": [
+        "The concert starts at eight.",
+        "Концерт начинается в восемь.",
+        "Концерт саат сегизде башталат.",
+        "يبدأ الحفل الموسيقي في الثامنة.",
+        "Le concert commence à huit heures."
+      ]
+    },
+    "konsere": {
+      "tr": "Bu akşam konsere gidiyoruz.",
+      "values": [
+        "We're going to the concert tonight.",
+        "Мы идём на концерт сегодня вечером.",
+        "Бүгүн кечинде концертке барабыз.",
+        "سنذهب إلى الحفل الموسيقي هذا المساء.",
+        "Nous allons au concert ce soir."
+      ]
+    },
+    "piknik": {
+      "tr": "Pazar günü piknik yapalım.",
+      "values": [
+        "Let's have a picnic on Sunday.",
+        "Давай устроим пикник в воскресенье.",
+        "Жекшембиде пикникке чыгалы.",
+        "لنذهب في نزهة يوم الأحد.",
+        "Faisons un pique-nique dimanche."
+      ]
+    },
+    "müze": {
+      "tr": "Müze pazartesi kapalı.",
+      "values": [
+        "The museum is closed on Monday.",
+        "Музей закрыт в понедельник.",
+        "Музей дүйшөмбү күнү жабык.",
+        "المتحف مغلق يوم الاثنين.",
+        "Le musée est fermé le lundi."
+      ]
+    },
+    "alışveriş": {
+      "tr": "Dersten sonra alışveriş yapacağım.",
+      "values": [
+        "I'll go shopping after class.",
+        "После урока я пойду за покупками.",
+        "Сабактан кийин соода кылам.",
+        "سأذهب للتسوق بعد الدرس.",
+        "Je ferai les courses après le cours."
+      ]
+    },
+    "tiyatro": {
+      "tr": "Dün tiyatroya gittik.",
+      "values": [
+        "We went to the theatre yesterday.",
+        "Вчера мы ходили в театр.",
+        "Кечээ театрга бардык.",
+        "ذهبنا إلى المسرح أمس.",
+        "Nous sommes allés au théâtre hier."
+      ]
+    },
+    "tablodan": {
+      "tr": "Tablodan iki kelime seçin.",
+      "values": [
+        "Choose two words from the table.",
+        "Выберите два слова из таблицы.",
+        "Таблицадан эки сөз тандагыла.",
+        "اختاروا كلمتين من الجدول.",
+        "Choisissez deux mots dans le tableau."
+      ]
+    },
+    "hareketle": {
+      "tr": "Tablodan hareketle cümle kurun.",
+      "values": [
+        "Make sentences based on the table.",
+        "Составьте предложения по таблице.",
+        "Таблицанын негизинде сүйлөм түзгүлө.",
+        "كوّنوا جملًا انطلاقًا من الجدول.",
+        "Faites des phrases à partir du tableau."
+      ]
+    },
+    "bakınız": {
+      "tr": "Ayrıntılar için onuncu sayfaya bakınız.",
+      "values": [
+        "For details, see page ten.",
+        "Подробности смотрите на странице десять.",
+        "Кененирээк онунчу бетти караңыздар.",
+        "للتفاصيل، انظروا الصفحة العاشرة.",
+        "Pour les détails, voir page dix."
+      ]
+    },
+    "dil": {
+      "tr": "Yeni bir dil öğreniyorum.",
+      "values": [
+        "I'm learning a new language.",
+        "Я изучаю новый язык.",
+        "Мен жаңы тил үйрөнүп жатам.",
+        "أتعلم لغة جديدة.",
+        "J'apprends une nouvelle langue."
+      ]
+    },
+    "bilgisi": {
+      "tr": "Bugün dil bilgisi çalıştık.",
+      "values": [
+        "We studied grammar today.",
+        "Сегодня мы изучали грамматику.",
+        "Бүгүн грамматика өттүк.",
+        "درسنا القواعد اليوم.",
+        "Nous avons étudié la grammaire aujourd'hui."
+      ]
+    },
+    "telaffuz": {
+      "tr": "Bu kelimenin telaffuzu kolay.",
+      "values": [
+        "This word's pronunciation is easy.",
+        "Произношение этого слова лёгкое.",
+        "Бул сөздүн айтылышы оңой.",
+        "نطق هذه الكلمة سهل.",
+        "La prononciation de ce mot est facile."
+      ]
+    },
+    "kitabı": {
+      "tr": "Kitabı masaya koydum.",
+      "values": [
+        "I put the book on the table.",
+        "Я положил книгу на стол.",
+        "Китепти үстөлгө койдум.",
+        "وضعت الكتاب على الطاولة.",
+        "J'ai posé le livre sur la table."
+      ]
+    },
+    "bölümü": {
+      "tr": "Birinci bölümü okuyun.",
+      "values": [
+        "Read the first section.",
+        "Прочитайте первый раздел.",
+        "Биринчи бөлүмдү окугула.",
+        "اقرؤوا القسم الأول.",
+        "Lisez la première section."
+      ]
+    },
+    "acak/-ecek": {
+      "tr": "Gelecek zaman için -acak/-ecek kullanırız.",
+      "values": [
+        "We use -acak/-ecek for the future tense.",
+        "Мы используем -acak/-ecek для будущего времени.",
+        "Келер чак үчүн -acak/-ecek мүчөсүн колдонобуз.",
+        "نستخدم ‎-acak/-ecek للتعبير عن المستقبل.",
+        "Nous utilisons -acak/-ecek pour le futur."
+      ]
+    },
+    "dinleme": {
+      "tr": "Dinleme etkinliği şimdi başlıyor.",
+      "values": [
+        "The listening exercise begins now.",
+        "Упражнение на аудирование начинается сейчас.",
+        "Угуп түшүнүү көнүгүүсү азыр башталат.",
+        "يبدأ تمرين الاستماع الآن.",
+        "L'exercice de compréhension orale commence maintenant."
+      ]
+    },
+    "kelimeleri": {
+      "tr": "Kelimeleri defterinize yazın.",
+      "values": [
+        "Write the words in your notebook.",
+        "Запишите слова в тетрадь.",
+        "Сөздөрдү дептериңерге жазгыла.",
+        "اكتبوا الكلمات في دفاتركم.",
+        "Écrivez les mots dans votre cahier."
+      ]
+    },
+    "park": {
+      "tr": "Parkta buluşalım.",
+      "values": [
+        "Let's meet in the park.",
+        "Давай встретимся в парке.",
+        "Сейил бакта жолугалы.",
+        "لنلتقِ في الحديقة.",
+        "Retrouvons-nous au parc."
+      ]
+    },
+    "eczane": {
+      "tr": "Eczane hastanenin yanında.",
+      "values": [
+        "The pharmacy is next to the hospital.",
+        "Аптека рядом с больницей.",
+        "Дарыкана оорукананын жанында.",
+        "الصيدلية بجانب المستشفى.",
+        "La pharmacie est à côté de l'hôpital."
+      ]
+    },
+    "ç": {
+      "tr": "Çay kelimesi Ç harfiyle başlar.",
+      "values": [
+        "The word 'çay' begins with Ç.",
+        "Слово «çay» начинается с буквы Ç.",
+        "«Çay» сөзү Ç тамгасынан башталат.",
+        "تبدأ كلمة «çay» بالحرف Ç.",
+        "Le mot «çay» commence par Ç."
+      ]
+    },
+    "kütüphane": {
+      "tr": "Kütüphane bugün açık.",
+      "values": [
+        "The library is open today.",
+        "Библиотека сегодня открыта.",
+        "Китепкана бүгүн ачык.",
+        "المكتبة مفتوحة اليوم.",
+        "La bibliothèque est ouverte aujourd'hui."
+      ]
+    },
+    "kafe": {
+      "tr": "Bu sokakta bir kafe var.",
+      "values": [
+        "There's a café on this street.",
+        "На этой улице есть кафе.",
+        "Бул көчөдө кафе бар.",
+        "يوجد مقهى في هذا الشارع.",
+        "Il y a un café dans cette rue."
+      ]
+    },
+    "restoran": {
+      "tr": "Bu restoranda çorba var.",
+      "values": [
+        "This restaurant serves soup.",
+        "В этом ресторане подают суп.",
+        "Бул ресторанда шорпо беришет.",
+        "يقدم هذا المطعم الحساء.",
+        "Ce restaurant sert de la soupe."
+      ]
+    },
+    "metro": {
+      "tr": "Okula metroyla gidiyoruz.",
+      "values": [
+        "We go to school by metro.",
+        "Мы ездим в школу на метро.",
+        "Мектепке метро менен барабыз.",
+        "نذهب إلى المدرسة بالمترو.",
+        "Nous allons à l'école en métro."
+      ]
+    },
+    "durağı": {
+      "tr": "Otobüs durağı yakında.",
+      "values": [
+        "The bus stop is nearby.",
+        "Автобусная остановка рядом.",
+        "Автобус аялдамасы жакын.",
+        "موقف الحافلات قريب.",
+        "L'arrêt de bus est tout près."
+      ]
+    },
+    "g": {
+      "tr": "Gün kelimesi G ile başlar.",
+      "values": [
+        "The word 'gün' starts with G.",
+        "Слово «gün» начинается с G.",
+        "«Gün» сөзү G тамгасынан башталат.",
+        "تبدأ كلمة «gün» بالحرف G.",
+        "Le mot «gün» commence par G."
+      ]
+    },
+    "h": {
+      "tr": "Hava kelimesi H ile başlar.",
+      "values": [
+        "The word 'hava' starts with H.",
+        "Слово «hava» начинается с H.",
+        "«Hava» сөзү H тамгасынан башталат.",
+        "تبدأ كلمة «hava» بالحرف H.",
+        "Le mot «hava» commence par H."
+      ]
+    },
+    "cami": {
+      "tr": "Cami meydana yakın.",
+      "values": [
+        "The mosque is near the square.",
+        "Мечеть рядом с площадью.",
+        "Мечит аянтка жакын.",
+        "المسجد قريب من الساحة.",
+        "La mosquée est près de la place."
+      ]
+    },
+    "ı": {
+      "tr": "Işık kelimesi noktasız I ile başlar.",
+      "values": [
+        "The word 'ışık' begins with dotless I.",
+        "Слово «ışık» начинается с I без точки.",
+        "«Işık» сөзү чекитсиз I тамгасынан башталат.",
+        "تبدأ كلمة «ışık» بحرف I بلا نقطة.",
+        "Le mot «ışık» commence par un I sans point."
+      ]
+    },
+    "hastane": {
+      "tr": "Hastane solda.",
+      "values": [
+        "The hospital is on the left.",
+        "Больница слева.",
+        "Оорукана сол жакта.",
+        "المستشفى على اليسار.",
+        "L'hôpital est à gauche."
+      ]
+    },
+    "diyalog": {
+      "tr": "Diyaloğu sesli okuyun.",
+      "values": [
+        "Read the dialogue aloud.",
+        "Прочитайте диалог вслух.",
+        "Диалогду үн чыгарып окугула.",
+        "اقرؤوا الحوار بصوت عالٍ.",
+        "Lisez le dialogue à voix haute."
       ]
     }
   },
