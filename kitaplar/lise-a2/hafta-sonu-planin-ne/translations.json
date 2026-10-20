@@ -4767,6 +4767,125 @@
         "يمكنك استخدام هذه التعبيرات.",
         "Tu peux utiliser ces expressions."
       ]
+    },
+    "sağdan ikinci yola dön": {
+      "translations": [
+        "turn into the second road on the right",
+        "поверни на вторую дорогу справа",
+        "оң жактагы экинчи жолго бурул",
+        "انعطف إلى الطريق الثاني على اليمين",
+        "tourne dans la deuxième rue à droite"
+      ],
+      "exampleTr": "Sağdan ikinci yola dön.",
+      "examples": [
+        "Turn into the second road on the right.",
+        "Поверни на вторую дорогу справа.",
+        "Оң жактагы экинчи жолго бурул.",
+        "انعطف إلى الطريق الثاني على اليمين.",
+        "Tourne dans la deuxième rue à droite."
+      ]
+    },
+    "soldan üçüncü yola dön": {
+      "translations": [
+        "turn into the third road on the left",
+        "поверни на третью дорогу слева",
+        "сол жактагы үчүнчү жолго бурул",
+        "انعطف إلى الطريق الثالث على اليسار",
+        "tourne dans la troisième rue à gauche"
+      ],
+      "exampleTr": "Soldan üçüncü yola dön.",
+      "examples": [
+        "Turn into the third road on the left.",
+        "Поверни на третью дорогу слева.",
+        "Сол жактагы үчүнчү жолго бурул.",
+        "انعطف إلى الطريق الثالث على اليسار.",
+        "Tourne dans la troisième rue à gauche."
+      ]
+    },
+    "sol tarafta": {
+      "translations": [
+        "on the left side",
+        "с левой стороны",
+        "сол жакта",
+        "على الجانب الأيسر",
+        "du côté gauche"
+      ],
+      "exampleTr": "Hastane sol tarafta.",
+      "examples": [
+        "The hospital is on the left side.",
+        "Больница с левой стороны.",
+        "Оорукана сол жакта.",
+        "المستشفى على الجانب الأيسر.",
+        "L'hôpital est du côté gauche."
+      ]
+    },
+    "nasıl giderim": {
+      "translations": [
+        "how do I get there?",
+        "как мне добраться?",
+        "кантип барсам болот?",
+        "كيف أصل؟",
+        "comment puis-je y aller ?"
+      ],
+      "exampleTr": "Metroya nasıl giderim?",
+      "examples": [
+        "How do I get to the metro?",
+        "Как мне добраться до метро?",
+        "Метрого кантип барсам болот?",
+        "كيف أصل إلى المترو؟",
+        "Comment aller au métro ?"
+      ]
+    },
+    "ne yapmak istersin": {
+      "translations": [
+        "what would you like to do?",
+        "что ты хочешь делать?",
+        "эмне кылгың келет?",
+        "ماذا تود أن تفعل؟",
+        "que voudrais-tu faire ?"
+      ],
+      "exampleTr": "Ne yapmak istersin?",
+      "examples": [
+        "What would you like to do?",
+        "Что ты хочешь делать?",
+        "Эмне кылгың келет?",
+        "ماذا تود أن تفعل؟",
+        "Que voudrais-tu faire ?"
+      ]
+    },
+    "ne yapmayı seversin": {
+      "translations": [
+        "what do you like doing?",
+        "что ты любишь делать?",
+        "эмне кылганды жакшы көрөсүң?",
+        "ماذا تحب أن تفعل؟",
+        "qu'aimes-tu faire ?"
+      ],
+      "exampleTr": "Ne yapmayı seversin?",
+      "examples": [
+        "What do you like doing?",
+        "Что ты любишь делать?",
+        "Эмне кылганды жакшы көрөсүң?",
+        "ماذا تحب أن تفعل؟",
+        "Qu'aimes-tu faire ?"
+      ]
+    },
+    "plansız iş dümensiz gemiye benzer": {
+      "translations": [
+        "work without a plan is like a ship without a rudder",
+        "дело без плана — как корабль без руля",
+        "плансыз иш рулсуз кемеге окшош",
+        "العمل بلا خطة كسفينة بلا دفة",
+        "un travail sans plan ressemble à un navire sans gouvernail"
+      ],
+      "exampleTr": "Plansız iş, dümensiz gemiye benzer.",
+      "examples": [
+        "Work without a plan is like a ship without a rudder.",
+        "Дело без плана — как корабль без руля.",
+        "Плансыз иш рулсуз кемеге окшош.",
+        "العمل بلا خطة كسفينة بلا دفة.",
+        "Un travail sans plan ressemble à un navire sans gouvernail."
+      ]
     }
   },
   "examples": {
@@ -9658,6 +9777,16 @@
         "Кайсы тасманы жакшы көрөсүң?",
         "أي فيلم تحب؟",
         "Quel film aimes-tu ?"
+      ]
+    },
+    "yapmak": {
+      "tr": "Hafta sonu ne yapmak istersin?",
+      "values": [
+        "What would you like to do this weekend?",
+        "Что ты хочешь делать на выходных?",
+        "Дем алышта эмне кылгың келет?",
+        "ماذا تريد أن تفعل في عطلة نهاية الأسبوع؟",
+        "Que voudrais-tu faire ce week-end ?"
       ]
     }
   },
