@@ -1,0 +1,38 @@
+name: Repair A2 unit 5 illustrated text positions
+on:
+  push:
+    paths:
+      - 'tools/repair_a2_unit5_positions.py'
+      - '.github/workflows/repair-a2-unit5-positions.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: repair-a2-unit5-positions
+  cancel-in-progress: false
+jobs:
+  repair:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools
+            kitaplar/lise-a2/dedemin-meslegi
+      - name: Install OCR dependencies
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y tesseract-ocr-tur python3-pil
+      - name: Find source-confirmed candidates
+        run: |
+          git pull --ff-only origin main
+          python3 tools/repair_a2_unit5_positions.py
+      - name: Save position candidates and page previews
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kitaplar/lise-a2/dedemin-meslegi/position-candidates.json kitaplar/lise-a2/dedemin-meslegi/preview/
+          git diff --cached --quiet && exit 0
+          git commit -m "Prepare illustrated unit 5 word position candidates"
+          git pull --rebase -X theirs origin main
+          git push
