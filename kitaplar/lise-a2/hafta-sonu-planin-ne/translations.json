@@ -210,6 +210,13 @@
       "ثمانية وأربعون",
       "quarante-huit"
     ],
+    "49": [
+      "forty-nine",
+      "сорок девять",
+      "кырк тогуз",
+      "تسعة وأربعون",
+      "quarante-neuf"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -7867,6 +7874,62 @@
       "Хатиче (ысым)",
       "خديجة (اسم)",
       "Hatice (prénom)"
+    ],
+    "resim": [
+      "to the pictures",
+      "к картинкам",
+      "сүрөттөргө",
+      "إلى الصور",
+      "aux images"
+    ],
+    "kullanmak": [
+      "will use",
+      "будет использовать",
+      "колдонот",
+      "سيستخدم",
+      "utilisera"
+    ],
+    "abla": [
+      "to his/her older sister",
+      "своей старшей сестре",
+      "эжесине",
+      "إلى أخته الكبرى",
+      "à sa grande sœur"
+    ],
+    "demek": [
+      "will say",
+      "скажет",
+      "дейт",
+      "سيقول",
+      "dira"
+    ],
+    "örnek": [
+      "in the example",
+      "в примере",
+      "мисалдагы",
+      "الموجود في المثال",
+      "dans l'exemple"
+    ],
+    "gibi": [
+      "like; as",
+      "как; подобно",
+      "сыяктуу; өңдүү",
+      "مثل; كما",
+      "comme"
+    ],
+    "hazırlamak": [
+      "prepare (plural/polite imperative)",
+      "подготовьте",
+      "даярдагыла",
+      "حضّروا",
+      "préparez"
+    ],
+    "davetiye": [
+      "invitation card",
+      "пригласительная открытка",
+      "чакыруу баракчасы",
+      "بطاقة دعوة",
+      "carte d'invitation"
     ]
   },
   "phrases": {
@@ -10572,6 +10635,40 @@
         "للأسف لا أستطيع المجيء، سأزور عائلتي.",
         "Malheureusement, je ne peux pas venir, je vais voir ma famille."
       ]
+    },
+    "etkinlik planı": {
+      "translations": [
+        "event plan",
+        "план мероприятия",
+        "иш-чаранын планы",
+        "خطة فعالية",
+        "programme d'activité"
+      ],
+      "exampleTr": "Etkinlik planını birlikte hazırlayalım.",
+      "examples": [
+        "Let's prepare the event plan together.",
+        "Давайте вместе подготовим план мероприятия.",
+        "Иш-чаранын планын чогуу даярдайлы.",
+        "لنعدّ خطة الفعالية معًا.",
+        "Préparons ensemble le programme de l'activité."
+      ]
+    },
+    "davetiye hazırlamak": {
+      "translations": [
+        "to prepare an invitation",
+        "подготовить приглашение",
+        "чакыруу баракчасын даярдоо",
+        "إعداد بطاقة دعوة",
+        "préparer une invitation"
+      ],
+      "exampleTr": "Mezuniyet için davetiye hazırlamak istiyorum.",
+      "examples": [
+        "I want to prepare an invitation for graduation.",
+        "Я хочу подготовить приглашение на выпускной.",
+        "Бүтүрүү кечеси үчүн чакыруу даярдагым келет.",
+        "أريد إعداد بطاقة دعوة لحفل التخرج.",
+        "Je veux préparer une invitation pour la remise des diplômes."
+      ]
     }
   },
   "examples": {
@@ -10873,6 +10970,16 @@
         "Кырк сегизинчи бетти ачкыла.",
         "افتحوا الصفحة الثامنة والأربعين.",
         "Ouvrez la page quarante-huit."
+      ]
+    },
+    "49": {
+      "tr": "Kitabın kırk dokuzuncu sayfasını açın.",
+      "values": [
+        "Open page forty-nine of the book.",
+        "Откройте сорок девятую страницу книги.",
+        "Китептин кырк тогузунчу бетин ачкыла.",
+        "افتحوا الصفحة التاسعة والأربعين من الكتاب.",
+        "Ouvrez la page quarante-neuf du livre."
       ]
     },
     "50": {
@@ -21514,9 +21621,115 @@
         "ستزور خديجة جدها في عطلة نهاية الأسبوع.",
         "Hatice rendra visite à son grand-père ce week-end."
       ]
+    },
+    "resim": {
+      "tr": "Resimlere dikkatlice bakın.",
+      "values": [
+        "Look carefully at the pictures.",
+        "Внимательно посмотрите на картинки.",
+        "Сүрөттөрдү кунт коюп карагыла.",
+        "انظروا إلى الصور بعناية.",
+        "Regardez attentivement les images."
+      ]
+    },
+    "kullanmak": {
+      "tr": "Öğretmen derste yeni kelimeleri kullanacak.",
+      "values": [
+        "The teacher will use new words in class.",
+        "Учитель будет использовать новые слова на уроке.",
+        "Мугалим сабакта жаңы сөздөрдү колдонот.",
+        "سيستخدم المعلم كلمات جديدة في الدرس.",
+        "Le professeur utilisera de nouveaux mots en classe."
+      ]
+    },
+    "abla": {
+      "tr": "Hatice ablasına çiçek aldı.",
+      "values": [
+        "Hatice bought flowers for her older sister.",
+        "Хатидже купила цветы своей старшей сестре.",
+        "Хатиче эжесине гүл сатып алды.",
+        "اشترت خديجة زهورًا لأختها الكبرى.",
+        "Hatice a acheté des fleurs pour sa grande sœur."
+      ]
+    },
+    "demek": {
+      "tr": "Misafir gelince hoş geldiniz diyecek.",
+      "values": [
+        "When the guest arrives, she will say welcome.",
+        "Когда придёт гость, она скажет «Добро пожаловать».",
+        "Конок келгенде «Кош келиңиз» дейт.",
+        "عندما يصل الضيف ستقول «أهلًا وسهلًا».",
+        "Quand l'invité arrivera, elle lui souhaitera la bienvenue."
+      ]
+    },
+    "örnek": {
+      "tr": "Örnekteki gibi kısa bir diyalog yazın.",
+      "values": [
+        "Write a short dialogue like the one in the example.",
+        "Напишите короткий диалог, как в примере.",
+        "Мисалдагыдай кыска диалог жазгыла.",
+        "اكتبوا حوارًا قصيرًا كما في المثال.",
+        "Écrivez un court dialogue comme dans l'exemple."
+      ]
+    },
+    "gibi": {
+      "tr": "Senin gibi ben de tiyatroyu seviyorum.",
+      "values": [
+        "Like you, I also enjoy theatre.",
+        "Как и ты, я тоже люблю театр.",
+        "Сен сыяктуу мен да театрды жакшы көрөм.",
+        "مثلك أحب المسرح أيضًا.",
+        "Comme toi, j'aime aussi le théâtre."
+      ]
+    },
+    "hazırlamak": {
+      "tr": "Arkadaşlarınız için bir davetiye hazırlayın.",
+      "values": [
+        "Prepare an invitation for your friends.",
+        "Подготовьте приглашение для друзей.",
+        "Досторуңар үчүн чакыруу баракчасын даярдагыла.",
+        "حضّروا بطاقة دعوة لأصدقائكم.",
+        "Préparez une invitation pour vos amis."
+      ]
+    },
+    "davetiye": {
+      "tr": "Doğum günü için renkli bir davetiye hazırladım.",
+      "values": [
+        "I made a colourful invitation card for the birthday.",
+        "Я подготовил красочную открытку-приглашение на день рождения.",
+        "Туулган күнгө түстүү чакыруу баракчасын даярдадым.",
+        "أعددت بطاقة دعوة ملونة لعيد الميلاد.",
+        "J'ai préparé une carte d'invitation colorée pour l'anniversaire."
+      ]
     }
   },
   "forms": {
+    "49": {
+      "lemma": "49",
+      "lemmaTranslations": [
+        "forty-nine",
+        "сорок девять",
+        "кырк тогуз",
+        "تسعة وأربعون",
+        "quarante-neuf"
+      ],
+      "formTranslations": [
+        "forty-nine",
+        "сорок девять",
+        "кырк тогуз",
+        "تسعة وأربعون",
+        "quarante-neuf"
+      ],
+      "lemmaType": "number",
+      "exampleTr": "Kitabın kırk dokuzuncu sayfasını açın.",
+      "examples": [
+        "Open page forty-nine of the book.",
+        "Откройте сорок девятую страницу книги.",
+        "Китептин кырк тогузунчу бетин ачкыла.",
+        "افتحوا الصفحة التاسعة والأربعين من الكتاب.",
+        "Ouvrez la page quarante-neuf du livre."
+      ]
+    },
     "planın": {
       "lemma": "plan",
       "lemmaTranslations": [
@@ -22945,6 +23158,448 @@
         "Чогуу барсак болобу?",
         "هل يمكننا الذهاب معًا؟",
         "Pouvons-nous y aller ensemble ?"
+      ]
+    },
+    "resimlere": {
+      "lemma": "resim",
+      "lemmaTranslations": [
+        "to the pictures",
+        "к картинкам",
+        "сүрөттөргө",
+        "إلى الصور",
+        "aux images"
+      ],
+      "formTranslations": [
+        "to the pictures",
+        "к картинкам",
+        "сүрөттөргө",
+        "إلى الصور",
+        "aux images"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Resimlere dikkatlice bakın.",
+      "examples": [
+        "Look carefully at the pictures.",
+        "Внимательно посмотрите на картинки.",
+        "Сүрөттөрдү кунт коюп карагыла.",
+        "انظروا إلى الصور بعناية.",
+        "Regardez attentivement les images."
+      ]
+    },
+    "ziyaretlerde": {
+      "lemma": "ziyaret",
+      "lemmaTranslations": [
+        "visit",
+        "посещение",
+        "зыярат; баруу",
+        "زيارة",
+        "visite"
+      ],
+      "formTranslations": [
+        "during visits",
+        "во время визитов",
+        "зыяраттарда",
+        "أثناء الزيارات",
+        "lors des visites"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Aile ziyaretlerinde büyüklerimize hâl hatır sorarız.",
+      "examples": [
+        "During family visits, we ask our elders how they are.",
+        "Во время семейных визитов мы спрашиваем старших, как у них дела.",
+        "Үй-бүлөлүк зыяраттарда улуулардан ал-жайын сурайбыз.",
+        "أثناء الزيارات العائلية نسأل كبار السن عن أحوالهم.",
+        "Lors des visites familiales, nous prenons des nouvelles de nos aînés."
+      ]
+    },
+    "cümlesini": {
+      "lemma": "cümle",
+      "lemmaTranslations": [
+        "sentence",
+        "предложение",
+        "сүйлөм",
+        "جملة",
+        "phrase"
+      ],
+      "formTranslations": [
+        "the sentence (object form)",
+        "предложение (винительный падеж)",
+        "сүйлөмдү",
+        "الجملة (مفعول به)",
+        "la phrase (complément d’objet)"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu cümlesini değil, önceki cümlesini okuyalım.",
+      "examples": [
+        "Let's read the previous sentence, not this one of theirs.",
+        "Давайте прочитаем не это его предложение, а предыдущее.",
+        "Анын бул сүйлөмүн эмес, мурункусун окуйлу.",
+        "لنقرأ جملته السابقة لا هذه الجملة.",
+        "Lisons sa phrase précédente plutôt que celle-ci."
+      ]
+    },
+    "kullanacak": {
+      "lemma": "kullanmak",
+      "lemmaTranslations": [
+        "will use",
+        "будет использовать",
+        "колдонот",
+        "سيستخدم",
+        "utilisera"
+      ],
+      "formTranslations": [
+        "will use",
+        "будет использовать",
+        "колдонот",
+        "سيستخدم",
+        "utilisera"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Öğretmen derste yeni kelimeleri kullanacak.",
+      "examples": [
+        "The teacher will use new words in class.",
+        "Учитель будет использовать новые слова на уроке.",
+        "Мугалим сабакта жаңы сөздөрдү колдонот.",
+        "سيستخدم المعلم كلمات جديدة في الدرس.",
+        "Le professeur utilisera de nouveaux mots en classe."
+      ]
+    },
+    "ablasına": {
+      "lemma": "abla",
+      "lemmaTranslations": [
+        "to his/her older sister",
+        "своей старшей сестре",
+        "эжесине",
+        "إلى أخته الكبرى",
+        "à sa grande sœur"
+      ],
+      "formTranslations": [
+        "to his/her older sister",
+        "своей старшей сестре",
+        "эжесине",
+        "إلى أخته الكبرى",
+        "à sa grande sœur"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Hatice ablasına çiçek aldı.",
+      "examples": [
+        "Hatice bought flowers for her older sister.",
+        "Хатидже купила цветы своей старшей сестре.",
+        "Хатиче эжесине гүл сатып алды.",
+        "اشترت خديجة زهورًا لأختها الكبرى.",
+        "Hatice a acheté des fleurs pour sa grande sœur."
+      ]
+    },
+    "diyecek": {
+      "lemma": "demek",
+      "lemmaTranslations": [
+        "will say",
+        "скажет",
+        "дейт",
+        "سيقول",
+        "dira"
+      ],
+      "formTranslations": [
+        "will say",
+        "скажет",
+        "дейт",
+        "سيقول",
+        "dira"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Misafir gelince hoş geldiniz diyecek.",
+      "examples": [
+        "When the guest arrives, she will say welcome.",
+        "Когда придёт гость, она скажет «Добро пожаловать».",
+        "Конок келгенде «Кош келиңиз» дейт.",
+        "عندما يصل الضيف ستقول «أهلًا وسهلًا».",
+        "Quand l'invité arrivera, elle lui souhaitera la bienvenue."
+      ]
+    },
+    "örnekteki": {
+      "lemma": "örnek",
+      "lemmaTranslations": [
+        "in the example",
+        "в примере",
+        "мисалдагы",
+        "الموجود في المثال",
+        "dans l'exemple"
+      ],
+      "formTranslations": [
+        "in the example",
+        "в примере",
+        "мисалдагы",
+        "الموجود في المثال",
+        "dans l'exemple"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Örnekteki gibi kısa bir diyalog yazın.",
+      "examples": [
+        "Write a short dialogue like the one in the example.",
+        "Напишите короткий диалог, как в примере.",
+        "Мисалдагыдай кыска диалог жазгыла.",
+        "اكتبوا حوارًا قصيرًا كما في المثال.",
+        "Écrivez un court dialogue comme dans l'exemple."
+      ]
+    },
+    "gibi": {
+      "lemma": "gibi",
+      "lemmaTranslations": [
+        "like; as",
+        "как; подобно",
+        "сыяктуу; өңдүү",
+        "مثل; كما",
+        "comme"
+      ],
+      "formTranslations": [
+        "like; as",
+        "как; подобно",
+        "сыяктуу; өңдүү",
+        "مثل; كما",
+        "comme"
+      ],
+      "lemmaType": "postposition",
+      "exampleTr": "Senin gibi ben de tiyatroyu seviyorum.",
+      "examples": [
+        "Like you, I also enjoy theatre.",
+        "Как и ты, я тоже люблю театр.",
+        "Сен сыяктуу мен да театрды жакшы көрөм.",
+        "مثلك أحب المسرح أيضًا.",
+        "Comme toi, j'aime aussi le théâtre."
+      ]
+    },
+    "diyaloglar": {
+      "lemma": "diyalog",
+      "lemmaTranslations": [
+        "dialogue",
+        "диалог",
+        "диалог",
+        "حوار",
+        "dialogue"
+      ],
+      "formTranslations": [
+        "dialogues",
+        "диалоги",
+        "диалогдор",
+        "حوارات",
+        "dialogues"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Öğrenciler kısa diyaloglar hazırladı.",
+      "examples": [
+        "The students prepared short dialogues.",
+        "Ученики подготовили короткие диалоги.",
+        "Окуучулар кыска диалогдорду даярдашты.",
+        "أعدّ الطلاب حوارات قصيرة.",
+        "Les élèves ont préparé de courts dialogues."
+      ]
+    },
+    "tiyatroya": {
+      "lemma": "tiyatro",
+      "lemmaTranslations": [
+        "theatre",
+        "театр",
+        "театр",
+        "مسرح",
+        "théâtre"
+      ],
+      "formTranslations": [
+        "to the theatre",
+        "в театр",
+        "театрга",
+        "إلى المسرح",
+        "au théâtre"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Cumartesi akşamı tiyatroya gideceğiz.",
+      "examples": [
+        "We'll go to the theatre on Saturday evening.",
+        "В субботу вечером мы пойдём в театр.",
+        "Ишемби күнү кечинде театрга барабыз.",
+        "سنذهب إلى المسرح مساء السبت.",
+        "Nous irons au théâtre samedi soir."
+      ]
+    },
+    "gitmeyecek": {
+      "lemma": "gitmek",
+      "lemmaTranslations": [
+        "to go",
+        "идти; ехать",
+        "баруу",
+        "الذهاب",
+        "aller"
+      ],
+      "formTranslations": [
+        "will not go",
+        "не пойдёт",
+        "барбайт",
+        "لن يذهب",
+        "n'ira pas"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Azra bugün tiyatroya gitmeyecek.",
+      "examples": [
+        "Azra won't go to the theatre today.",
+        "Азра сегодня не пойдёт в театр.",
+        "Азра бүгүн театрга барбайт.",
+        "لن تذهب عذراء إلى المسرح اليوم.",
+        "Azra n'ira pas au théâtre aujourd'hui."
+      ]
+    },
+    "ziyarette": {
+      "lemma": "ziyaret",
+      "lemmaTranslations": [
+        "visit",
+        "посещение",
+        "зыярат; баруу",
+        "زيارة",
+        "visite"
+      ],
+      "formTranslations": [
+        "during the visit",
+        "во время визита",
+        "зыяратта",
+        "أثناء الزيارة",
+        "pendant la visite"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Bu ziyarette yeni doğan bebeği gördük.",
+      "examples": [
+        "We saw the newborn baby during this visit.",
+        "Во время этого визита мы увидели новорождённого.",
+        "Бул зыяратта жаңы төрөлгөн наристени көрдүк.",
+        "رأينا المولود الجديد أثناء هذه الزيارة.",
+        "Pendant cette visite, nous avons vu le nouveau-né."
+      ]
+    },
+    "deriz": {
+      "lemma": "demek",
+      "lemmaTranslations": [
+        "will say",
+        "скажет",
+        "дейт",
+        "سيقول",
+        "dira"
+      ],
+      "formTranslations": [
+        "we say",
+        "мы говорим",
+        "дейбиз",
+        "نقول",
+        "nous disons"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Birini tebrik ederken tebrik ederim deriz.",
+      "examples": [
+        "When congratulating someone, we say congratulations.",
+        "Поздравляя кого-то, мы говорим «Поздравляю».",
+        "Бирөөнү куттуктаганда «Куттуктайм» дейбиз.",
+        "عندما نهنئ شخصًا نقول «مبروك».",
+        "Pour féliciter quelqu'un, nous disons «Félicitations»."
+      ]
+    },
+    "hazırlayın": {
+      "lemma": "hazırlamak",
+      "lemmaTranslations": [
+        "prepare (plural/polite imperative)",
+        "подготовьте",
+        "даярдагыла",
+        "حضّروا",
+        "préparez"
+      ],
+      "formTranslations": [
+        "prepare (plural/polite imperative)",
+        "подготовьте",
+        "даярдагыла",
+        "حضّروا",
+        "préparez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Arkadaşlarınız için bir davetiye hazırlayın.",
+      "examples": [
+        "Prepare an invitation for your friends.",
+        "Подготовьте приглашение для друзей.",
+        "Досторуңар үчүн чакыруу баракчасын даярдагыла.",
+        "حضّروا بطاقة دعوة لأصدقائكم.",
+        "Préparez une invitation pour vos amis."
+      ]
+    },
+    "tarihi": {
+      "lemma": "tarih",
+      "lemmaTranslations": [
+        "date",
+        "дата",
+        "дата",
+        "تاريخ",
+        "date"
+      ],
+      "formTranslations": [
+        "its date; the date",
+        "его дата; дату",
+        "анын датасы; датаны",
+        "تاريخه؛ التاريخ",
+        "sa date ; la date"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Etkinliğin tarihi gelecek cuma.",
+      "examples": [
+        "The event date is next Friday.",
+        "Дата мероприятия — следующая пятница.",
+        "Иш-чаранын датасы — келерки жума күнү.",
+        "موعد الفعالية يوم الجمعة القادم.",
+        "La date de l'événement est vendredi prochain."
+      ]
+    },
+    "planınızdan": {
+      "lemma": "plan",
+      "lemmaTranslations": [
+        "plan",
+        "план",
+        "план",
+        "خطة",
+        "projet"
+      ],
+      "formTranslations": [
+        "based on your plan; from your plan",
+        "из вашего плана",
+        "планыңыздан",
+        "من خطتكم",
+        "à partir de votre projet"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Etkinlik planınızdan hareketle bir davetiye yazın.",
+      "examples": [
+        "Write an invitation based on your event plan.",
+        "Напишите приглашение на основе вашего плана мероприятия.",
+        "Иш-чара планыңыздын негизинде чакыруу жазыңыз.",
+        "اكتبوا دعوة انطلاقًا من خطة فعاليتكم.",
+        "Rédigez une invitation à partir de votre programme d'activité."
+      ]
+    },
+    "davetiye": {
+      "lemma": "davetiye",
+      "lemmaTranslations": [
+        "invitation card",
+        "пригласительная открытка",
+        "чакыруу баракчасы",
+        "بطاقة دعوة",
+        "carte d'invitation"
+      ],
+      "formTranslations": [
+        "invitation card",
+        "пригласительная открытка",
+        "чакыруу баракчасы",
+        "بطاقة دعوة",
+        "carte d'invitation"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Doğum günü için renkli bir davetiye hazırladım.",
+      "examples": [
+        "I made a colourful invitation card for the birthday.",
+        "Я подготовил красочную открытку-приглашение на день рождения.",
+        "Туулган күнгө түстүү чакыруу баракчасын даярдадым.",
+        "أعددت بطاقة دعوة ملونة لعيد الميلاد.",
+        "J'ai préparé une carte d'invitation colorée pour l'anniversaire."
       ]
     }
   },
