@@ -70,6 +70,34 @@
       "خمسة وثلاثون",
       "trente-cinq"
     ],
+    "36": [
+      "thirty-six",
+      "тридцать шесть",
+      "отуз алты",
+      "ستة وثلاثون",
+      "trente-six"
+    ],
+    "50": [
+      "fifty",
+      "пятьдесят",
+      "элүү",
+      "خمسون",
+      "cinquante"
+    ],
+    "100": [
+      "one hundred",
+      "сто",
+      "жүз",
+      "مئة",
+      "cent"
+    ],
+    "200": [
+      "two hundred",
+      "двести",
+      "эки жүз",
+      "مئتان",
+      "deux cents"
+    ],
     "ünite": [
       "unit",
       "раздел",
@@ -2806,6 +2834,286 @@
       "оорукана",
       "مستشفى",
       "hôpital"
+    ],
+    "mekânda": [
+      "at the place",
+      "в этом месте",
+      "бул жерде",
+      "في المكان",
+      "dans ce lieu"
+    ],
+    "yaparız": [
+      "we do; we make",
+      "мы делаем",
+      "биз жасайбыз",
+      "نفعل",
+      "nous faisons"
+    ],
+    "ilgili": [
+      "related to",
+      "связанный с",
+      "байланыштуу",
+      "متعلق بـ",
+      "lié à"
+    ],
+    "kelimeyle": [
+      "with the word",
+      "со словом",
+      "сөз менен",
+      "بالكلمة",
+      "avec le mot"
+    ],
+    "tamamlayın": [
+      "complete",
+      "дополните",
+      "толуктагыла",
+      "أكملوا",
+      "complétez"
+    ],
+    "kütüphanede": [
+      "at the library",
+      "в библиотеке",
+      "китепканада",
+      "في المكتبة",
+      "à la bibliothèque"
+    ],
+    "okuruz": [
+      "we read",
+      "мы читаем",
+      "биз окуйбуз",
+      "نقرأ",
+      "nous lisons"
+    ],
+    "yemek": [
+      "food; meal",
+      "еда",
+      "тамак",
+      "طعام",
+      "repas"
+    ],
+    "yeriz": [
+      "we eat",
+      "мы едим",
+      "биз жейбиз",
+      "نأكل",
+      "nous mangeons"
+    ],
+    "ibadet": [
+      "worship",
+      "богослужение; поклонение",
+      "ибадат",
+      "عبادة",
+      "prière; culte"
+    ],
+    "izleriz": [
+      "we watch",
+      "мы смотрим",
+      "биз көрөбүз",
+      "نشاهد",
+      "nous regardons"
+    ],
+    "ilaç": [
+      "medicine",
+      "лекарство",
+      "дары",
+      "دواء",
+      "médicament"
+    ],
+    "alırız": [
+      "we take; we buy",
+      "мы берём; покупаем",
+      "биз алабыз",
+      "نأخذ؛ نشتري",
+      "nous prenons ; achetons"
+    ],
+    "muayane": [
+      "medical examination (misspelling of muayene)",
+      "медицинский осмотр",
+      "медициналык кароо",
+      "فحص طبي",
+      "examen médical"
+    ],
+    "oluruz": [
+      "we become; we are",
+      "мы становимся; бываем",
+      "биз болобуз",
+      "نصبح",
+      "nous devenons"
+    ],
+    "ziyaret": [
+      "visit",
+      "посещение",
+      "зыярат; баруу",
+      "زيارة",
+      "visite"
+    ],
+    "dinleyin": [
+      "listen",
+      "послушайте",
+      "уккула",
+      "استمعوا",
+      "écoutez"
+    ],
+    "sahnesi": [
+      "its stage",
+      "его сцена",
+      "анын сахнасы",
+      "مسرحه",
+      "sa scène"
+    ],
+    "s.015": [
+      "recording S.015",
+      "запись S.015",
+      "S.015 аудиожазуусу",
+      "التسجيل S.015",
+      "enregistrement S.015"
+    ],
+    "neredesin": [
+      "where are you?",
+      "где ты?",
+      "сен кайдасың?",
+      "أين أنت؟",
+      "où es-tu ?"
+    ],
+    "metre": [
+      "metre",
+      "метр",
+      "метр",
+      "متر",
+      "mètre"
+    ],
+    "sahnesi’ne": [
+      "to its stage",
+      "к его сцене",
+      "анын сахнасына",
+      "إلى مسرحه",
+      "vers sa scène"
+    ],
+    "gitti": [
+      "went",
+      "пошёл; поехал",
+      "барды",
+      "ذهب",
+      "est allé"
+    ],
+    "dinlediğiniz": [
+      "that you listened to",
+      "которую вы прослушали",
+      "силер уккан",
+      "الذي استمعتم إليه",
+      "que vous avez écouté"
+    ],
+    "krokiye": [
+      "on the sketch map",
+      "на схему",
+      "схемага",
+      "على المخطط",
+      "sur le plan"
+    ],
+    "ifadeleri": [
+      "the expressions",
+      "выражения",
+      "туюнтмаларды",
+      "التعبيرات",
+      "les expressions"
+    ],
+    "kul": [
+      "use (first half of split kullanabilirsin)",
+      "используй",
+      "колдон",
+      "استخدم",
+      "utilise"
+    ],
+    "lanabilirsin": [
+      "you can use (split form)",
+      "ты можешь использовать",
+      "колдоно аласың",
+      "يمكنك استخدام",
+      "tu peux utiliser"
+    ],
+    "düz": [
+      "straight",
+      "прямо",
+      "түз",
+      "مستقيم",
+      "tout droit"
+    ],
+    "git": [
+      "go",
+      "иди",
+      "бар",
+      "اذهب",
+      "va"
+    ],
+    "karşısında": [
+      "opposite",
+      "напротив",
+      "маңдайында",
+      "مقابل",
+      "en face de"
+    ],
+    "sağa": [
+      "to the right",
+      "направо",
+      "оңго",
+      "إلى اليمين",
+      "à droite"
+    ],
+    "dön": [
+      "turn",
+      "поверни",
+      "бурул",
+      "انعطف",
+      "tourne"
+    ],
+    "geç": [
+      "cross; pass",
+      "перейди; пройди",
+      "өт",
+      "اعبر",
+      "traverse"
+    ],
+    "sağında": [
+      "on its right",
+      "справа от него",
+      "анын оң жагында",
+      "على يمينه",
+      "à sa droite"
+    ],
+    "yürü": [
+      "walk",
+      "иди пешком",
+      "жөө бас",
+      "امشِ",
+      "marche"
+    ],
+    "metronun": [
+      "of the metro",
+      "метро (родительный падеж)",
+      "метронун",
+      "للمترو",
+      "du métro"
+    ],
+    "ikinci": [
+      "second",
+      "второй",
+      "экинчи",
+      "الثاني",
+      "deuxième"
+    ],
+    "kapısından": [
+      "through its door",
+      "через его дверь",
+      "анын эшигинен",
+      "من بابه",
+      "par sa porte"
+    ],
+    "çık": [
+      "exit; go out",
+      "выйди",
+      "чык",
+      "اخرج",
+      "sors"
     ]
   },
   "phrases": {
@@ -3844,6 +4152,46 @@
         "Отуз бешинчи бетти ачкыла.",
         "افتحوا الصفحة الخامسة والثلاثين.",
         "Ouvrez la page trente-cinq."
+      ]
+    },
+    "36": {
+      "tr": "Otuz altıncı sayfayı aç.",
+      "values": [
+        "Open page thirty-six.",
+        "Открой тридцать шестую страницу.",
+        "Отуз алтынчы бетти ач.",
+        "افتح الصفحة السادسة والثلاثين.",
+        "Ouvre la page trente-six."
+      ]
+    },
+    "50": {
+      "tr": "Elli metre yürü.",
+      "values": [
+        "Walk fifty metres.",
+        "Пройди пятьдесят метров.",
+        "Элүү метр бас.",
+        "امشِ خمسين مترًا.",
+        "Marche cinquante mètres."
+      ]
+    },
+    "100": {
+      "tr": "Yüz metre düz git.",
+      "values": [
+        "Go straight for a hundred metres.",
+        "Иди прямо сто метров.",
+        "Жүз метр түз бас.",
+        "امشِ مستقيمًا مئة متر.",
+        "Va tout droit sur cent mètres."
+      ]
+    },
+    "200": {
+      "tr": "İki yüz metre düz git.",
+      "values": [
+        "Go straight for two hundred metres.",
+        "Иди прямо двести метров.",
+        "Эки жүз метр түз бас.",
+        "امشِ مستقيمًا مئتي متر.",
+        "Continue tout droit sur deux cents mètres."
       ]
     },
     "ünite": {
@@ -7404,6 +7752,406 @@
         "Диалогду үн чыгарып окугула.",
         "اقرؤوا الحوار بصوت عالٍ.",
         "Lisez le dialogue à voix haute."
+      ]
+    },
+    "mekânda": {
+      "tr": "Bu mekânda konser var.",
+      "values": [
+        "There's a concert at this venue.",
+        "В этом месте проходит концерт.",
+        "Бул жерде концерт болот.",
+        "هناك حفل موسيقي في هذا المكان.",
+        "Il y a un concert dans ce lieu."
+      ]
+    },
+    "yaparız": {
+      "tr": "Hafta sonu piknik yaparız.",
+      "values": [
+        "We have picnics on weekends.",
+        "По выходным мы устраиваем пикник.",
+        "Дем алышта пикник кылабыз.",
+        "نقوم بنزهة في عطلة نهاية الأسبوع.",
+        "Nous faisons un pique-nique le week-end."
+      ]
+    },
+    "ilgili": {
+      "tr": "Bu konuyla ilgili bir sorum var.",
+      "values": [
+        "I have a question about this topic.",
+        "У меня вопрос по этой теме.",
+        "Бул темага байланыштуу суроом бар.",
+        "لدي سؤال متعلق بهذا الموضوع.",
+        "J'ai une question sur ce sujet."
+      ]
+    },
+    "kelimeyle": {
+      "tr": "Bu kelimeyle cümle kur.",
+      "values": [
+        "Make a sentence with this word.",
+        "Составь предложение с этим словом.",
+        "Бул сөз менен сүйлөм түз.",
+        "كوّن جملة بهذه الكلمة.",
+        "Fais une phrase avec ce mot."
+      ]
+    },
+    "tamamlayın": {
+      "tr": "Boşlukları tamamlayın.",
+      "values": [
+        "Complete the blanks.",
+        "Заполните пропуски.",
+        "Боштуктарды толуктагыла.",
+        "أكملوا الفراغات.",
+        "Complétez les blancs."
+      ]
+    },
+    "kütüphanede": {
+      "tr": "Kütüphanede ders çalışıyorum.",
+      "values": [
+        "I'm studying at the library.",
+        "Я занимаюсь в библиотеке.",
+        "Китепканада сабак окуп жатам.",
+        "أدرس في المكتبة.",
+        "J'étudie à la bibliothèque."
+      ]
+    },
+    "okuruz": {
+      "tr": "Akşamları kitap okuruz.",
+      "values": [
+        "We read books in the evenings.",
+        "По вечерам мы читаем книги.",
+        "Кечинде китеп окуйбуз.",
+        "نقرأ الكتب في المساء.",
+        "Nous lisons des livres le soir."
+      ]
+    },
+    "yemek": {
+      "tr": "Akşam yemek yiyeceğiz.",
+      "values": [
+        "We'll have dinner tonight.",
+        "Сегодня вечером мы поужинаем.",
+        "Бүгүн кечинде тамак жейбиз.",
+        "سنتناول العشاء هذا المساء.",
+        "Nous dînerons ce soir."
+      ]
+    },
+    "yeriz": {
+      "tr": "Öğlen birlikte yemek yeriz.",
+      "values": [
+        "We eat lunch together.",
+        "Мы обедаем вместе.",
+        "Түштө чогуу тамак жейбиз.",
+        "نتناول الغداء معًا.",
+        "Nous déjeunons ensemble."
+      ]
+    },
+    "ibadet": {
+      "tr": "İbadet için camiye gittik.",
+      "values": [
+        "We went to the mosque to worship.",
+        "Мы пошли в мечеть для молитвы.",
+        "Ибадат кылуу үчүн мечитке бардык.",
+        "ذهبنا إلى المسجد للعبادة.",
+        "Nous sommes allés à la mosquée pour prier."
+      ]
+    },
+    "izleriz": {
+      "tr": "Bazen birlikte film izleriz.",
+      "values": [
+        "Sometimes we watch films together.",
+        "Иногда мы вместе смотрим фильмы.",
+        "Кээде чогуу тасма көрөбүз.",
+        "أحيانًا نشاهد الأفلام معًا.",
+        "Parfois, nous regardons des films ensemble."
+      ]
+    },
+    "ilaç": {
+      "tr": "Eczaneden ilaç aldım.",
+      "values": [
+        "I bought medicine at the pharmacy.",
+        "Я купил лекарство в аптеке.",
+        "Дарыканадан дары алдым.",
+        "اشتريت دواءً من الصيدلية.",
+        "J'ai acheté un médicament à la pharmacie."
+      ]
+    },
+    "alırız": {
+      "tr": "Biletleri gişeden alırız.",
+      "values": [
+        "We buy tickets at the ticket office.",
+        "Мы покупаем билеты в кассе.",
+        "Билеттерди кассадан алабыз.",
+        "نشتري التذاكر من شباك التذاكر.",
+        "Nous achetons les billets au guichet."
+      ]
+    },
+    "muayane": {
+      "tr": "Doktor hastayı muayene etti.",
+      "values": [
+        "The doctor examined the patient.",
+        "Врач осмотрел пациента.",
+        "Дарыгер бейтапты карады.",
+        "فحص الطبيب المريض.",
+        "Le médecin a examiné le patient."
+      ]
+    },
+    "oluruz": {
+      "tr": "Burada mutlu oluruz.",
+      "values": [
+        "We're happy here.",
+        "Здесь мы бываем счастливы.",
+        "Бул жерде бактылуу болобуз.",
+        "نكون سعداء هنا.",
+        "Nous sommes heureux ici."
+      ]
+    },
+    "ziyaret": {
+      "tr": "Yarın müzeyi ziyaret edeceğiz.",
+      "values": [
+        "We'll visit the museum tomorrow.",
+        "Завтра мы посетим музей.",
+        "Эртең музейге барабыз.",
+        "سنزور المتحف غدًا.",
+        "Nous visiterons le musée demain."
+      ]
+    },
+    "dinleyin": {
+      "tr": "Kaydı dikkatle dinleyin.",
+      "values": [
+        "Listen carefully to the recording.",
+        "Внимательно прослушайте запись.",
+        "Жазууну кунт коюп уккула.",
+        "استمعوا إلى التسجيل بعناية.",
+        "Écoutez attentivement l'enregistrement."
+      ]
+    },
+    "sahnesi": {
+      "tr": "Konserin sahnesi çok büyük.",
+      "values": [
+        "The concert stage is very large.",
+        "Сцена концерта очень большая.",
+        "Концерттин сахнасы абдан чоң.",
+        "مسرح الحفل كبير جدًا.",
+        "La scène du concert est très grande."
+      ]
+    },
+    "s.015": {
+      "tr": "S.015 kaydını dinleyin.",
+      "values": [
+        "Listen to recording S.015.",
+        "Прослушайте запись S.015.",
+        "S.015 аудиожазуусун уккула.",
+        "استمعوا إلى التسجيل S.015.",
+        "Écoutez l'enregistrement S.015."
+      ]
+    },
+    "neredesin": {
+      "tr": "Şimdi neredesin?",
+      "values": [
+        "Where are you now?",
+        "Где ты сейчас?",
+        "Азыр кайдасың?",
+        "أين أنت الآن؟",
+        "Où es-tu maintenant ?"
+      ]
+    },
+    "metre": {
+      "tr": "Yüz metre sonra dön.",
+      "values": [
+        "Turn after a hundred metres.",
+        "Поверни через сто метров.",
+        "Жүз метрден кийин бурул.",
+        "انعطف بعد مئة متر.",
+        "Tourne après cent mètres."
+      ]
+    },
+    "sahnesi’ne": {
+      "tr": "Açık hava sahnesine gidiyoruz.",
+      "values": [
+        "We're going to the open-air stage.",
+        "Мы идём к сцене под открытым небом.",
+        "Ачык асман алдындагы сахнага барабыз.",
+        "نذهب إلى المسرح المكشوف.",
+        "Nous allons à la scène en plein air."
+      ]
+    },
+    "gitti": {
+      "tr": "Ayşe dün kütüphaneye gitti.",
+      "values": [
+        "Ayşe went to the library yesterday.",
+        "Айше вчера пошла в библиотеку.",
+        "Айше кечээ китепканага барды.",
+        "ذهبت عائشة إلى المكتبة أمس.",
+        "Ayşe est allée à la bibliothèque hier."
+      ]
+    },
+    "dinlediğiniz": {
+      "tr": "Dinlediğiniz metni özetleyin.",
+      "values": [
+        "Summarize the text you listened to.",
+        "Перескажите прослушанный текст.",
+        "Уккан текстиңерди кыскача айтып бергиле.",
+        "لخصوا النص الذي استمعتم إليه.",
+        "Résumez le texte que vous avez écouté."
+      ]
+    },
+    "krokiye": {
+      "tr": "Yolu krokiye çizin.",
+      "values": [
+        "Draw the route on the sketch map.",
+        "Нарисуйте маршрут на схеме.",
+        "Жолду схемага чийгиле.",
+        "ارسموا الطريق على المخطط.",
+        "Dessinez le trajet sur le plan."
+      ]
+    },
+    "ifadeleri": {
+      "tr": "Bu ifadeleri tekrar edin.",
+      "values": [
+        "Repeat these expressions.",
+        "Повторите эти выражения.",
+        "Бул туюнтмаларды кайталагыла.",
+        "كرروا هذه التعبيرات.",
+        "Répétez ces expressions."
+      ]
+    },
+    "kul": {
+      "tr": "Bu kelimeyi kullan.",
+      "values": [
+        "Use this word.",
+        "Используй это слово.",
+        "Бул сөздү колдон.",
+        "استخدم هذه الكلمة.",
+        "Utilise ce mot."
+      ]
+    },
+    "lanabilirsin": {
+      "tr": "Bu ifadeyi kullanabilirsin.",
+      "values": [
+        "You can use this expression.",
+        "Ты можешь использовать это выражение.",
+        "Бул туюнтманы колдоно аласың.",
+        "يمكنك استخدام هذا التعبير.",
+        "Tu peux utiliser cette expression."
+      ]
+    },
+    "düz": {
+      "tr": "Düz devam et.",
+      "values": [
+        "Keep going straight.",
+        "Продолжай прямо.",
+        "Түз жүрө бер.",
+        "تابع السير مستقيمًا.",
+        "Continue tout droit."
+      ]
+    },
+    "git": {
+      "tr": "Düz git.",
+      "values": [
+        "Go straight.",
+        "Иди прямо.",
+        "Түз бар.",
+        "اذهب مستقيمًا.",
+        "Va tout droit."
+      ]
+    },
+    "karşısında": {
+      "tr": "Eczane okulun karşısında.",
+      "values": [
+        "The pharmacy is opposite the school.",
+        "Аптека напротив школы.",
+        "Дарыкана мектептин маңдайында.",
+        "الصيدلية مقابل المدرسة.",
+        "La pharmacie est en face de l'école."
+      ]
+    },
+    "sağa": {
+      "tr": "Sağa dön.",
+      "values": [
+        "Turn right.",
+        "Поверни направо.",
+        "Оңго бурул.",
+        "انعطف يمينًا.",
+        "Tourne à droite."
+      ]
+    },
+    "dön": {
+      "tr": "İkinci sokaktan dön.",
+      "values": [
+        "Turn at the second street.",
+        "Поверни на второй улице.",
+        "Экинчи көчөдөн бурул.",
+        "انعطف عند الشارع الثاني.",
+        "Tourne à la deuxième rue."
+      ]
+    },
+    "geç": {
+      "tr": "Karşıya geç.",
+      "values": [
+        "Cross to the other side.",
+        "Перейди на другую сторону.",
+        "Аркы бетке өт.",
+        "اعبر إلى الجهة الأخرى.",
+        "Traverse de l'autre côté."
+      ]
+    },
+    "sağında": {
+      "tr": "Kafe bankanın sağında.",
+      "values": [
+        "The café is to the right of the bank.",
+        "Кафе справа от банка.",
+        "Кафе банктын оң жагында.",
+        "المقهى على يمين البنك.",
+        "Le café est à droite de la banque."
+      ]
+    },
+    "yürü": {
+      "tr": "Biraz daha yürü.",
+      "values": [
+        "Walk a little farther.",
+        "Пройди ещё немного.",
+        "Дагы бир аз жөө бас.",
+        "امشِ قليلًا بعد.",
+        "Marche encore un peu."
+      ]
+    },
+    "metronun": {
+      "tr": "Metronun çıkışı solda.",
+      "values": [
+        "The metro exit is on the left.",
+        "Выход из метро слева.",
+        "Метронун чыгуусу сол жакта.",
+        "مخرج المترو على اليسار.",
+        "La sortie du métro est à gauche."
+      ]
+    },
+    "ikinci": {
+      "tr": "İkinci durakta in.",
+      "values": [
+        "Get off at the second stop.",
+        "Выходи на второй остановке.",
+        "Экинчи аялдамадан түш.",
+        "انزل في المحطة الثانية.",
+        "Descends au deuxième arrêt."
+      ]
+    },
+    "kapısından": {
+      "tr": "İkinci kapısından çık.",
+      "values": [
+        "Exit through its second door.",
+        "Выйди через вторую дверь.",
+        "Экинчи эшигинен чык.",
+        "اخرج من بابه الثاني.",
+        "Sors par sa deuxième porte."
+      ]
+    },
+    "çık": {
+      "tr": "Bu kapıdan çık.",
+      "values": [
+        "Exit through this door.",
+        "Выйди через эту дверь.",
+        "Бул эшиктен чык.",
+        "اخرج من هذا الباب.",
+        "Sors par cette porte."
       ]
     }
   },
