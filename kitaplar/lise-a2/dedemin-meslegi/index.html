@@ -123,7 +123,7 @@
     function showToast(text){const el=$('#toast');el.textContent=text;el.classList.add('show');setTimeout(()=>el.classList.remove('show'),2100)}
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,Number(localStorage.getItem('ta-a2-dedemin-meslegi-page')||0)))}catch{return 0}}
     function renderPage(){if(!pages.length)return;if(renderedPage!==current){window.speechSynthesis?.cancel();const player=$('#audioPlayer');player.pause();if(player.currentTime)player.currentTime=0;renderedPage=current}const p=pages[current];img.src='/turkce-akademi/kitaplar/lise-a2/dedemin-meslegi/'+p.image;img.alt=`Dedemin Mesleği Bana Göre mi? ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
-      hits.replaceChildren();for(const [index,w] of p.words.entries()){if(!normalize(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
+      hits.replaceChildren();for(const [index,w] of p.words.entries()){if(!normalize(w.t)||!/[\p{L}\p{N}]/u.test(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
       renderAudioCues(p);
       renderAnswerKey();document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-a2-dedemin-meslegi-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
     function renderAudioCues(page){const layer=$('#audioCues');layer.replaceChildren();for(const word of page.words){const code=word.t.match(/^(?:S|M)\.\d{3}$/)?.[0];if(!code)continue;const button=document.createElement('button');button.type='button';button.className='audio-cue';button.textContent='DİNLE';button.title=`${code} sesini dinle`;button.setAttribute('aria-label',`${code} dinleme kaydını oynat`);button.style.left=`${Math.min(word.x+word.w+.006,.91)*100}%`;button.style.top=`${Math.max(word.y-.004,0)*100}%`;if(glossary.audioFiles?.[code])button.addEventListener('click',()=>playAudio(code));else{button.disabled=true;button.title=code+' kaydı henüz eklenmedi';button.setAttribute('aria-label',button.title)}layer.append(button)}}
@@ -203,7 +203,7 @@
     function makeThumbs(){const rail=$('#thumbrail');pages.forEach((p,i)=>{const b=document.createElement('button');b.type='button';b.className='thumb';b.setAttribute('aria-label',`${i+1}. sayfaya git`);b.innerHTML=`<img src="${p.image}" loading="lazy" alt=""><span>${i+1}</span>`;b.onclick=()=>{current=i;renderPage()};rail.append(b)})}
     function phraseAt(index,words){
       const page=pages[current],clicked=words[index];if(!page||!clicked)return null;
-      const explicit=(page.phraseGroups||[]).find(group=>group.indices.includes(index));
+      const explicit=[...(page.phraseGroups||[])].sort((a,b)=>b.indices.length-a.indices.length).find(group=>group.indices.includes(index));
       if(explicit&&glossary.phrases[explicit.key])return {key:explicit.key,indices:explicit.indices,text:explicit.text};
       const joined=(page.wordGroups||[]).find(group=>group.indices.includes(index));
       return joined?{key:joined.key,indices:joined.indices,text:joined.text,single:true}:null;
@@ -255,7 +255,7 @@
       const synth=window.speechSynthesis;synth.cancel();
       const run=()=>{
         const voices=synth.getVoices(),voice=chooseSpeechVoice(voices,lang);
-        // Ses seçicisi dil için eşleşme döndürmese de tarayıcının dil yedeğiyle konuşmayı dene.
+        if(!voice){showToast(`${speechNames[lang]||lang} sesi bu cihazda yüklü değil. Cihazın konuşma dillerini kontrol edin.`);return}
         const u=new SpeechSynthesisUtterance(text);u.lang=voice?.lang||speechLanguages[lang]?.[0]||'tr-TR';u.rate=.88;if(voice)u.voice=voice;
         u.onerror=event=>{if(event.error!=='canceled')showToast(`${speechNames[lang]||lang} seslendirmesi kullanılamadı.`)};
         try{synth.speak(u)}catch{showToast(`${speechNames[lang]||lang} seslendirmesi kullanılamadı.`)}
