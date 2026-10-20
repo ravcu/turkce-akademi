@@ -5674,83 +5674,203 @@
     },
     "soruları": {
       "tr": "Soruları dikkatle okuyun.",
-      "values": []
+      "values": [
+        "Read the questions carefully.",
+        "Внимательно прочитайте вопросы.",
+        "Суроолорду кунт коюп окугула.",
+        "اقرؤوا الأسئلة بعناية.",
+        "Lisez attentivement les questions."
+      ]
     },
     "metne": {
       "tr": "Metne tekrar bakın.",
-      "values": []
+      "values": [
+        "Look at the text.",
+        "Посмотрите на текст.",
+        "Текстти карагыла.",
+        "انظروا إلى النص.",
+        "Regardez le texte."
+      ]
     },
     "göre": {
       "tr": "Metne göre cevap verin.",
-      "values": []
+      "values": [
+        "Answer according to the text.",
+        "Ответьте согласно тексту.",
+        "Текстке ылайык жооп бергиле.",
+        "أجيبوا وفقًا للنص.",
+        "Répondez d'après le texte."
+      ]
     },
     "cevaplayın": {
       "tr": "Soruları cevaplayın.",
-      "values": []
+      "values": [
+        "Answer the questions.",
+        "Ответьте на вопросы.",
+        "Суроолорго жооп бергиле.",
+        "أجيبوا عن الأسئلة.",
+        "Répondez aux questions."
+      ]
     },
     "d": {
       "tr": "D seçeneğini işaretleyin.",
-      "values": []
+      "values": [
+        "Write the letter D.",
+        "Напишите букву D.",
+        "D тамгасын жазгыла.",
+        "اكتبوا الحرف D.",
+        "Écrivez la lettre D."
+      ]
     },
     "festivaline": {
       "tr": "Film festivaline gideceğiz.",
-      "values": []
+      "values": [
+        "We're going to the film festival.",
+        "Мы пойдём на кинофестиваль.",
+        "Биз кинофестивалга барабыз.",
+        "سنذهب إلى مهرجان الأفلام.",
+        "Nous allons au festival de cinéma."
+      ]
     },
     "kimler": {
       "tr": "Kimler gelecek?",
-      "values": []
+      "values": [
+        "Who is coming to the party?",
+        "Кто придёт на праздник?",
+        "Майрамга кимдер келет?",
+        "من سيأتي إلى الحفلة؟",
+        "Qui viendra à la fête ?"
+      ]
     },
     "gidecek": {
       "tr": "Murat festivale gidecek.",
-      "values": []
+      "values": [
+        "My brother will go to the cinema tomorrow.",
+        "Мой брат завтра пойдёт в кино.",
+        "Агам эртең киного барат.",
+        "سيذهب أخي إلى السينما غدًا.",
+        "Mon frère ira au cinéma demain."
+      ]
     },
     "e": {
       "tr": "E seçeneğini seçin.",
-      "values": []
+      "values": [
+        "Choose option E.",
+        "Выберите вариант E.",
+        "E вариантын тандагыла.",
+        "اختاروا الخيار E.",
+        "Choisissez la réponse E."
+      ]
     },
     "seçtiler": {
       "tr": "İkinci seansı seçtiler.",
-      "values": []
+      "values": [
+        "They chose the evening session.",
+        "Они выбрали вечерний сеанс.",
+        "Алар кечки сеансты тандашты.",
+        "اختاروا العرض المسائي.",
+        "Ils ont choisi la séance du soir."
+      ]
     },
     "f": {
       "tr": "F seçeneğine bakın.",
-      "values": []
+      "values": [
+        "Mark the letter F.",
+        "Отметьте букву F.",
+        "F тамгасын белгилегиле.",
+        "ضعوا علامة على الحرف F.",
+        "Cochez la lettre F."
+      ]
     },
     "alacaklar": {
       "tr": "Biletleri gişeden alacaklar.",
-      "values": []
+      "values": [
+        "They will buy the tickets tomorrow.",
+        "Они купят билеты завтра.",
+        "Алар билеттерди эртең сатып алышат.",
+        "سيشترون التذاكر غدًا.",
+        "Ils achèteront les billets demain."
+      ]
     },
     "tabloyu": {
       "tr": "Tabloyu doldurun.",
-      "values": []
+      "values": [
+        "Fill in the table.",
+        "Заполните таблицу.",
+        "Таблицаны толтургула.",
+        "املؤوا الجدول.",
+        "Remplissez le tableau."
+      ]
     },
     "işaretleyin": {
       "tr": "Doğru cevabı işaretleyin.",
-      "values": []
+      "values": [
+        "Mark the correct answer.",
+        "Отметьте правильный ответ.",
+        "Туура жоопту белгилегиле.",
+        "ضعوا علامة على الإجابة الصحيحة.",
+        "Cochez la bonne réponse."
+      ]
     },
     "gitmeyi": {
       "tr": "Sinemaya gitmeyi seviyorum.",
-      "values": []
+      "values": [
+        "I want to go to the cinema.",
+        "Я хочу пойти в кино.",
+        "Мен киного баргым келет.",
+        "أريد الذهاب إلى السينما.",
+        "Je veux aller au cinéma."
+      ]
     },
     "kim": {
       "tr": "Bu filmi kim seçti?",
-      "values": []
+      "values": [
+        "Who is at the door?",
+        "Кто у двери?",
+        "Эшикте ким турат?",
+        "من عند الباب؟",
+        "Qui est à la porte ?"
+      ]
     },
     "katılacak": {
       "tr": "Elif festivale katılacak.",
-      "values": []
+      "values": [
+        "Elif will attend the event.",
+        "Элиф примет участие в мероприятии.",
+        "Элиф иш-чарага катышат.",
+        "ستشارك إليف في الفعالية.",
+        "Elif participera à l'activité."
+      ]
     },
     "katılmayacak": {
       "tr": "Emre festivale katılmayacak.",
-      "values": []
+      "values": [
+        "Murat won't attend the meeting.",
+        "Мурат не придёт на встречу.",
+        "Мурат жолугушууга катышпайт.",
+        "لن يشارك مراد في الاجتماع.",
+        "Murat ne participera pas à la réunion."
+      ]
     },
     "onlar": {
       "tr": "Onlar sinemaya gidiyor.",
-      "values": []
+      "values": [
+        "They are my friends.",
+        "Они мои друзья.",
+        "Алар менин досторум.",
+        "إنهم أصدقائي.",
+        "Ce sont mes amis."
+      ]
     },
     "niçin": {
       "tr": "Niçin gelemiyorsun?",
-      "values": []
+      "values": [
+        "Why are you late?",
+        "Почему ты опоздал?",
+        "Эмне үчүн кечиктиң?",
+        "لماذا تأخرت؟",
+        "Pourquoi es-tu en retard ?"
+      ]
     },
     "katılacaklar": {
       "tr": "Arkadaşlarım festivale katılacaklar.",
