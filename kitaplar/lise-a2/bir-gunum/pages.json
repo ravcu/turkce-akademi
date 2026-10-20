@@ -739,6 +739,80 @@
         "w": 0.081389,
         "h": 0.032761
       }
+    ],
+    "phraseGroups": [
+      {
+        "key": "doktor randevusu",
+        "text": "Doktor Randevusu",
+        "indices": [
+          72,
+          73
+        ]
+      },
+      {
+        "key": "haftalık program",
+        "text": "HAFTALIK PROGRAM",
+        "indices": [
+          76,
+          77
+        ]
+      },
+      {
+        "key": "haftalık program",
+        "text": "HAFTALIK PROGRAM",
+        "indices": [
+          78,
+          79
+        ]
+      },
+      {
+        "key": "yapabilir misin",
+        "text": "Yapabilir misin?",
+        "indices": [
+          103,
+          104
+        ]
+      },
+      {
+        "key": "voleybol kursu",
+        "text": "Voleybol Kursu",
+        "indices": [
+          69,
+          70
+        ]
+      },
+      {
+        "key": "aklında olsun",
+        "text": "Aklında Olsun",
+        "indices": [
+          42,
+          43
+        ]
+      },
+      {
+        "key": "öğleden sonra",
+        "text": "ÖĞLEDEN SONRA",
+        "indices": [
+          83,
+          84
+        ]
+      },
+      {
+        "key": "resim kursu",
+        "text": "Resim Kursu",
+        "indices": [
+          66,
+          67
+        ]
+      },
+      {
+        "key": "yüzme kursu",
+        "text": "Yüzme Kursu",
+        "indices": [
+          81,
+          82
+        ]
+      }
     ]
   },
   {
@@ -1578,6 +1652,65 @@
         "y": 0.926623,
         "w": 0.076971,
         "h": 0.016405
+      }
+    ],
+    "phraseGroups": [
+      {
+        "key": "elini yüzünü yıkamak",
+        "text": "elini yüzünü yıkamak",
+        "indices": [
+          97,
+          98,
+          99
+        ]
+      },
+      {
+        "key": "yataktan kalkmak",
+        "text": "yataktan kalkmak",
+        "indices": [
+          69,
+          70
+        ]
+      },
+      {
+        "key": "uzay istasyonu",
+        "text": "uzay istasyonu",
+        "indices": [
+          110,
+          111
+        ]
+      },
+      {
+        "key": "evden çıkmak",
+        "text": "evden çıkmak",
+        "indices": [
+          72,
+          73
+        ]
+      },
+      {
+        "key": "uzay mekiği",
+        "text": "uzay mekiği",
+        "indices": [
+          102,
+          103
+        ]
+      },
+      {
+        "key": "ödev yapmak",
+        "text": "ödev yapmak",
+        "indices": [
+          86,
+          87
+        ]
+      },
+      {
+        "key": "yer çekimi",
+        "text": "yer çekimi",
+        "indices": [
+          107,
+          108
+        ]
       }
     ]
   },
@@ -3910,6 +4043,16 @@
         "w": 0.03273,
         "h": 0.013174
       }
+    ],
+    "phraseGroups": [
+      {
+        "key": "uzay istasyonu",
+        "text": "uzay istasyonu,",
+        "indices": [
+          278,
+          279
+        ]
+      }
     ]
   },
   {
@@ -5506,6 +5649,16 @@
         "w": 0.051487,
         "h": 0.016368
       }
+    ],
+    "phraseGroups": [
+      {
+        "key": "uzay istasyonu",
+        "text": "Uzay istasyonu,",
+        "indices": [
+          136,
+          137
+        ]
+      }
     ]
   },
   {
@@ -5646,7 +5799,8 @@
         "w": 0.077812,
         "h": 0.023002
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 6,
@@ -6605,7 +6759,8 @@
         "w": 0.036938,
         "h": 0.013105
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 7,
@@ -8376,7 +8531,8 @@
         "w": 0.03273,
         "h": 0.013174
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 8,
@@ -10147,7 +10303,8 @@
         "w": 0.040694,
         "h": 0.018046
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 9,
@@ -10917,7 +11074,8 @@
         "w": 0.052417,
         "h": 0.016368
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 10,
@@ -12772,7 +12930,8 @@
         "w": 0.03584,
         "h": 0.013174
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 11,
@@ -14137,7 +14296,8 @@
         "w": 0.10305,
         "h": 0.023002
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 12,
@@ -14921,7 +15081,8 @@
         "w": 0.010846,
         "h": 0.019761
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 13,
@@ -15467,7 +15628,8 @@
         "w": 0.209481,
         "h": 0.016294
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 14,
@@ -17854,7 +18016,8 @@
         "w": 0.03273,
         "h": 0.013174
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 15,
@@ -19002,7 +19165,8 @@
         "w": 0.036939,
         "h": 0.013105
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 16,
@@ -19723,7 +19887,8 @@
         "w": 0.03273,
         "h": 0.013174
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 17,
@@ -20696,7 +20861,8 @@
         "w": 0.451804,
         "h": 0.016368
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 18,
@@ -22432,7 +22598,8 @@
         "w": 0.03584,
         "h": 0.013174
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 19,
@@ -23342,7 +23509,8 @@
         "w": 0.068962,
         "h": 0.01643
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 20,
@@ -24231,7 +24399,8 @@
         "w": 0.054187,
         "h": 0.031085
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 21,
@@ -24679,7 +24848,8 @@
         "w": 0.070698,
         "h": 0.023002
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 22,
@@ -26156,7 +26326,8 @@
         "w": 0.459298,
         "h": 0.016294
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 23,
@@ -26940,7 +27111,8 @@
         "w": 0.031621,
         "h": 0.013174
       }
-    ]
+    ],
+    "phraseGroups": []
   },
   {
     "page": 24,
@@ -27828,6 +28000,16 @@
         "y": 0.931877,
         "w": 0.092401,
         "h": 0.019686
+      }
+    ],
+    "phraseGroups": [
+      {
+        "key": "haftalık program",
+        "text": "HAFTALIK PROGRAM",
+        "indices": [
+          119,
+          120
+        ]
       }
     ]
   }
