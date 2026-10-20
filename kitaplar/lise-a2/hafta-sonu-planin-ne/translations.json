@@ -2356,7 +2356,7 @@
       "mark; tick",
       "отметьте",
       "белгилегиле",
-      "ضعوا علامة",
+      "حدّدوا",
       "cochez"
     ],
     "gitmeyi": [
@@ -8841,6 +8841,159 @@
         "رقم الهاتف مكتوب على الملصق.",
         "Le numéro de téléphone figure sur l'affiche."
       ]
+    },
+    "mangala oyunu": {
+      "translations": [
+        "mangala game",
+        "игра мангала",
+        "мангала оюну",
+        "لعبة مانغالا",
+        "jeu de mangala"
+      ],
+      "exampleTr": "Mangala oyununu arkadaşlarımla oynadım.",
+      "examples": [
+        "I played mangala with my friends.",
+        "Я играл в мангалу с друзьями.",
+        "Мангала оюнун досторум менен ойнодум.",
+        "لعبت المانغالا مع أصدقائي.",
+        "J'ai joué au mangala avec mes amis."
+      ]
+    },
+    "mevlana müzesi gezisi": {
+      "translations": [
+        "visit to the Mevlana Museum",
+        "экскурсия в музей Мевляны",
+        "Мевлана музейине экскурсия",
+        "زيارة متحف مولانا",
+        "visite du musée de Mevlana"
+      ],
+      "exampleTr": "Mevlana Müzesi gezisi çok güzeldi.",
+      "examples": [
+        "The visit to the Mevlana Museum was wonderful.",
+        "Экскурсия в музей Мевляны была замечательной.",
+        "Мевлана музейине экскурсия абдан сонун болду.",
+        "كانت زيارة متحف مولانا رائعة.",
+        "La visite du musée de Mevlana était formidable."
+      ]
+    },
+    "fidan dikme etkinliği": {
+      "translations": [
+        "tree-planting event",
+        "мероприятие по посадке деревьев",
+        "көчөт отургузуу иш-чарасы",
+        "فعالية غرس الأشجار",
+        "activité de plantation d'arbres"
+      ],
+      "exampleTr": "Fidan dikme etkinliğinde üç ağaç diktim.",
+      "examples": [
+        "I planted three trees at the tree-planting event.",
+        "На мероприятии по посадке деревьев я посадил три дерева.",
+        "Көчөт отургузуу иш-чарасында үч дарак тиктим.",
+        "زرعت ثلاث أشجار في فعالية غرس الأشجار.",
+        "J'ai planté trois arbres lors de l'activité de plantation."
+      ]
+    },
+    "halk oyunları gösterisi": {
+      "translations": [
+        "folk dance performance",
+        "выступление народных танцев",
+        "элдик бийлер көрсөтүүсү",
+        "عرض رقصات شعبية",
+        "spectacle de danses folkloriques"
+      ],
+      "exampleTr": "Halk oyunları gösterisini ailemle izledim.",
+      "examples": [
+        "I watched the folk dance performance with my family.",
+        "Я смотрел выступление народных танцев с семьёй.",
+        "Элдик бийлер көрсөтүүсүн үй-бүлөм менен көрдүм.",
+        "شاهدت عرض الرقصات الشعبية مع عائلتي.",
+        "J'ai regardé le spectacle de danses folkloriques avec ma famille."
+      ]
+    },
+    "okçuluk eğitimi": {
+      "translations": [
+        "archery training",
+        "обучение стрельбе из лука",
+        "жаа атуу боюнча машыгуу",
+        "تدريب على الرماية بالقوس",
+        "formation au tir à l'arc"
+      ],
+      "exampleTr": "Gelecek ay okçuluk eğitimi alacağım.",
+      "examples": [
+        "I'll take archery lessons next month.",
+        "В следующем месяце я начну учиться стрельбе из лука.",
+        "Кийинки айда жаа атуу боюнча машыгам.",
+        "سأتلقى تدريبًا على الرماية بالقوس الشهر القادم.",
+        "Je suivrai des cours de tir à l'arc le mois prochain."
+      ]
+    },
+    "ilgimi çekiyor": {
+      "translations": [
+        "interests me",
+        "меня интересует",
+        "мени кызыктырат",
+        "يثير اهتمامي",
+        "m'intéresse"
+      ],
+      "exampleTr": "Geleneksel sporlar ilgimi çekiyor.",
+      "examples": [
+        "Traditional sports interest me.",
+        "Меня интересуют традиционные виды спорта.",
+        "Салттуу спорт түрлөрү мени кызыктырат.",
+        "تثير الرياضات التقليدية اهتمامي.",
+        "Les sports traditionnels m'intéressent."
+      ]
+    },
+    "tavsiye edersiniz": {
+      "translations": [
+        "you recommend",
+        "вы рекомендуете",
+        "сунуштайсыздар",
+        "تنصحون",
+        "vous recommandez"
+      ],
+      "exampleTr": "Hangi festivali tavsiye edersiniz?",
+      "examples": [
+        "Which festival would you recommend?",
+        "Какой фестиваль вы посоветуете?",
+        "Кайсы фестивалды сунуштайсыздар?",
+        "أي مهرجان تنصحون به؟",
+        "Quel festival recommandez-vous ?"
+      ]
+    },
+    "yemek ikramı": {
+      "translations": [
+        "food served; refreshments",
+        "угощение едой",
+        "тамак берүү",
+        "تقديم الطعام",
+        "repas offert"
+      ],
+      "exampleTr": "Şenlikte yemek ikramı yapılacak.",
+      "examples": [
+        "Food will be served at the festival.",
+        "На празднике будут угощать едой.",
+        "Майрамда тамак берилет.",
+        "سيُقدَّم الطعام في المهرجان.",
+        "Un repas sera offert pendant la fête."
+      ]
+    },
+    "türk dünyası ata sporları şenliği": {
+      "translations": [
+        "Turkic World Traditional Sports Festival",
+        "фестиваль традиционных видов спорта тюркского мира",
+        "Түрк дүйнөсүнүн ата спорттору майрамы",
+        "مهرجان الرياضات التراثية للعالم التركي",
+        "festival des sports traditionnels du monde turcique"
+      ],
+      "exampleTr": "Türk Dünyası Ata Sporları Şenliği'nde okçuluk izledik.",
+      "examples": [
+        "We watched archery at the Turkic World Traditional Sports Festival.",
+        "Мы смотрели стрельбу из лука на фестивале традиционных видов спорта тюркского мира.",
+        "Түрк дүйнөсүнүн ата спорттору майрамында жаа атууну көрдүк.",
+        "شاهدنا الرماية بالقوس في مهرجان الرياضات التراثية للعالم التركي.",
+        "Nous avons regardé du tir à l'arc au festival des sports traditionnels du monde turcique."
+      ]
     }
   },
   "examples": {
@@ -11815,13 +11968,13 @@
       ]
     },
     "işaretleyin": {
-      "tr": "Doğru cevabı işaretleyin.",
+      "tr": "Doğru cevapları işaretleyin.",
       "values": [
-        "Mark the correct answer.",
-        "Отметьте правильный ответ.",
-        "Туура жоопту белгилегиле.",
-        "ضعوا علامة على الإجابة الصحيحة.",
-        "Cochez la bonne réponse."
+        "Mark the correct answers.",
+        "Отметьте правильные ответы.",
+        "Туура жоопторду белгилегиле.",
+        "حدّدوا الإجابات الصحيحة.",
+        "Cochez les bonnes réponses."
       ]
     },
     "gitmeyi": {
