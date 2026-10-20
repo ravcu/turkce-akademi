@@ -112,6 +112,13 @@
       "تسعة وثلاثون",
       "trente-neuf"
     ],
+    "40": [
+      "forty",
+      "сорок",
+      "кырк",
+      "أربعون",
+      "quarante"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -3982,6 +3989,377 @@
       "китеп дүкөнүнө",
       "إلى المكتبة التجارية",
       "à la librairie"
+    ],
+    "yazma": [
+      "writing",
+      "письмо",
+      "жазуу",
+      "كتابة",
+      "écriture"
+    ],
+    "murat’ın": [
+      "Murat's",
+      "Мурата",
+      "Мураттын",
+      "لمراد",
+      "de Murat"
+    ],
+    "planını": [
+      "your/his plan",
+      "твой/его план",
+      "планыңды; анын планын",
+      "خطتك؛ خطته",
+      "ton/son programme"
+    ],
+    "ajandayı": [
+      "the planner",
+      "ежедневник",
+      "пландоочу дептерди",
+      "المفكرة",
+      "l'agenda"
+    ],
+    "günleridir": [
+      "are the days",
+      "являются днями",
+      "күндөрү болуп саналат",
+      "هما يومان",
+      "sont les jours"
+    ],
+    "günlerde": [
+      "on the days",
+      "в эти дни",
+      "күндөрү",
+      "في الأيام",
+      "ces jours-là"
+    ],
+    "okullar": [
+      "schools",
+      "школы",
+      "мектептер",
+      "المدارس",
+      "écoles"
+    ],
+    "tatil": [
+      "holiday; break",
+      "каникулы; отдых",
+      "эс алуу; каникул",
+      "عطلة",
+      "vacances"
+    ],
+    "size": [
+      "to you (plural/polite)",
+      "вам",
+      "силерге; сизге",
+      "لكم",
+      "à vous"
+    ],
+    "basketbol": [
+      "basketball",
+      "баскетбол",
+      "баскетбол",
+      "كرة السلة",
+      "basket-ball"
+    ],
+    "kursu": [
+      "course; class",
+      "курс",
+      "курсу",
+      "دورة",
+      "cours"
+    ],
+    "önümüzdeki": [
+      "next; upcoming",
+      "следующий; предстоящий",
+      "келе жаткан",
+      "القادم",
+      "prochain"
+    ],
+    "planımı": [
+      "my plan (object)",
+      "мой план",
+      "менин планымды",
+      "خطتي",
+      "mon programme"
+    ],
+    "anlatacağım": [
+      "I will tell",
+      "я расскажу",
+      "айтып берем",
+      "سأحكي",
+      "je raconterai"
+    ],
+    "erkenden": [
+      "early",
+      "рано",
+      "эрте",
+      "مبكرًا",
+      "tôt"
+    ],
+    "kalkacağım": [
+      "I will get up",
+      "я встану",
+      "турам",
+      "سأستيقظ",
+      "je me lèverai"
+    ],
+    "öğleden": [
+      "from noon",
+      "после полудня",
+      "түштөн",
+      "بعد الظهر",
+      "de l'après-midi"
+    ],
+    "kursuna": [
+      "to the course",
+      "на курс",
+      "курсуна",
+      "إلى الدورة",
+      "au cours"
+    ],
+    "arkadaşlarla": [
+      "with friends",
+      "с друзьями",
+      "достор менен",
+      "مع الأصدقاء",
+      "avec des amis"
+    ],
+    "elif’in": [
+      "Elif's",
+      "Элиф",
+      "Элифтин",
+      "لإليف",
+      "d'Elif"
+    ],
+    "doğum": [
+      "birth",
+      "рождение",
+      "төрөлүү",
+      "ولادة",
+      "naissance"
+    ],
+    "gününü": [
+      "the day; your/his day",
+      "день",
+      "күнүн",
+      "يومه؛ يومك",
+      "son/ton jour"
+    ],
+    "kutlayacağız": [
+      "we will celebrate",
+      "мы отпразднуем",
+      "белгилейбиз",
+      "سنحتفل",
+      "nous fêterons"
+    ],
+    "akşam": [
+      "evening",
+      "вечер",
+      "кеч",
+      "مساء",
+      "soir"
+    ],
+    "ise": [
+      "whereas; as for",
+      "а; же",
+      "болсо",
+      "أما",
+      "quant à"
+    ],
+    "dedemle": [
+      "with my grandfather",
+      "с моим дедушкой",
+      "чоң атам менен",
+      "مع جدي",
+      "avec mon grand-père"
+    ],
+    "anneannemi": [
+      "my maternal grandmother (object)",
+      "мою бабушку по матери",
+      "таенемди",
+      "جدتي لأمي",
+      "ma grand-mère maternelle"
+    ],
+    "ziyarete": [
+      "for a visit",
+      "в гости",
+      "зыяратка",
+      "للزيارة",
+      "en visite"
+    ],
+    "ailemle": [
+      "with my family",
+      "с семьёй",
+      "үй-бүлөм менен",
+      "مع عائلتي",
+      "avec ma famille"
+    ],
+    "belgrad": [
+      "Belgrad (forest name); Belgrade",
+      "Белград",
+      "Белград",
+      "بلغراد",
+      "Belgrade"
+    ],
+    "ormanı’na": [
+      "to the forest",
+      "в лес",
+      "токойго",
+      "إلى الغابة",
+      "dans la forêt"
+    ],
+    "orada": [
+      "there",
+      "там",
+      "ал жерде",
+      "هناك",
+      "là-bas"
+    ],
+    "kahvaltı": [
+      "breakfast",
+      "завтрак",
+      "эртең мененки тамак",
+      "فطور",
+      "petit-déjeuner"
+    ],
+    "edeceğiz": [
+      "we will do",
+      "мы сделаем",
+      "кылабыз",
+      "سنفعل",
+      "nous ferons"
+    ],
+    "balık": [
+      "fish",
+      "рыба",
+      "балык",
+      "سمك",
+      "poisson"
+    ],
+    "tutmayı": [
+      "catching; holding",
+      "ловить; держать",
+      "кармоону",
+      "الإمساك؛ الصيد",
+      "attraper"
+    ],
+    "babamla": [
+      "with my father",
+      "с папой",
+      "атам менен",
+      "مع أبي",
+      "avec mon père"
+    ],
+    "galata": [
+      "Galata",
+      "Галата",
+      "Галата",
+      "غلطة",
+      "Galata"
+    ],
+    "köprüsü’nde": [
+      "on its bridge",
+      "на мосту",
+      "көпүрөсүндө",
+      "على الجسر",
+      "sur le pont"
+    ],
+    "tutacağız": [
+      "we will catch",
+      "мы поймаем",
+      "кармайбыз",
+      "سنصطاد",
+      "nous attraperons"
+    ],
+    "hep": [
+      "all; always",
+      "все; всегда",
+      "баары; дайыма",
+      "جميعًا؛ دائمًا",
+      "tous; toujours"
+    ],
+    "beraber": [
+      "together",
+      "вместе",
+      "чогуу",
+      "معًا",
+      "ensemble"
+    ],
+    "izleyeceğiz": [
+      "we will watch",
+      "мы посмотрим",
+      "көрөбүз",
+      "سنشاهد",
+      "nous regarderons"
+    ],
+    "senin": [
+      "your; yours",
+      "твой",
+      "сенин",
+      "لك؛ خاصتك",
+      "ton; le tien"
+    ],
+    "anlatır": [
+      "tells; narrates",
+      "рассказывает",
+      "айтып берет",
+      "يروي",
+      "raconte"
+    ],
+    "mısın": [
+      "are you?; would you?",
+      "ты?",
+      "-сыңбы?",
+      "هل أنت؟",
+      "es-tu ?"
+    ],
+    "siz": [
+      "you (plural/polite)",
+      "вы",
+      "сиз; силер",
+      "أنتم",
+      "vous"
+    ],
+    "kendi": [
+      "own; self",
+      "свой",
+      "өз",
+      "خاص",
+      "propre"
+    ],
+    "ajandaya": [
+      "in the planner",
+      "в ежедневник",
+      "пландоочу дептерге",
+      "في المفكرة",
+      "dans l'agenda"
+    ],
+    "sonunu": [
+      "the end of; your weekend's end",
+      "конец",
+      "аягын",
+      "نهايته",
+      "la fin"
+    ],
+    "arkadaşları": [
+      "friends; his friends",
+      "друзья",
+      "достор",
+      "الأصدقاء",
+      "les amis"
+    ],
+    "nıza": [
+      "to your (split suffix)",
+      "вашим (часть окончания)",
+      "силердин (мүчөнүн бөлүгү)",
+      "لكم (جزء من اللاحقة)",
+      "à vos (fragment de suffixe)"
+    ],
+    "tarih": [
+      "date",
+      "дата",
+      "дата",
+      "تاريخ",
+      "date"
     ]
   },
   "phrases": {
@@ -5505,6 +5883,16 @@
         "Отуз тогузунчу бетти ач.",
         "افتح الصفحة التاسعة والثلاثين.",
         "Ouvre la page trente-neuf."
+      ]
+    },
+    "40": {
+      "tr": "Kırkıncı sayfayı aç.",
+      "values": [
+        "Open page forty.",
+        "Открой сороковую страницу.",
+        "Кыркынчы бетти ач.",
+        "افتح الصفحة الأربعين.",
+        "Ouvre la page quarante."
       ]
     },
     "50": {
@@ -10705,6 +11093,536 @@
         "Китеп дүкөнүнө кирип чыгалы.",
         "لنمرّ على متجر الكتب.",
         "Passons à la librairie."
+      ]
+    },
+    "yazma": {
+      "tr": "Bugün yazma çalışması yapıyoruz.",
+      "values": [
+        "We are practising writing today.",
+        "Сегодня мы тренируем письмо.",
+        "Бүгүн жазууга машыгып жатабыз.",
+        "نتدرب على الكتابة اليوم.",
+        "Nous travaillons l'écriture aujourd'hui."
+      ]
+    },
+    "murat’ın": {
+      "tr": "Murat'ın planını okudum.",
+      "values": [
+        "I read Murat's plan.",
+        "Я прочитал план Мурата.",
+        "Мураттын планын окудум.",
+        "قرأت خطة مراد.",
+        "J'ai lu le programme de Murat."
+      ]
+    },
+    "planını": {
+      "tr": "Hafta sonu planını anlat.",
+      "values": [
+        "Tell me your weekend plan.",
+        "Расскажи о своём плане на выходные.",
+        "Дем алыш планыңды айтып бер.",
+        "أخبرني بخطتك لعطلة نهاية الأسبوع.",
+        "Raconte-moi ton programme du week-end."
+      ]
+    },
+    "ajandayı": {
+      "tr": "Ajandayı doldur.",
+      "values": [
+        "Fill in the planner.",
+        "Заполни ежедневник.",
+        "Пландоочу дептерди толтур.",
+        "املأ المفكرة.",
+        "Remplis l'agenda."
+      ]
+    },
+    "günleridir": {
+      "tr": "Cumartesi ve pazar tatil günleridir.",
+      "values": [
+        "Saturday and Sunday are days off.",
+        "Суббота и воскресенье — выходные дни.",
+        "Ишемби жана жекшемби эс алуу күндөрү.",
+        "السبت والأحد يومَا عطلة.",
+        "Le samedi et le dimanche sont des jours de repos."
+      ]
+    },
+    "günlerde": {
+      "tr": "Bu günlerde çok çalışıyorum.",
+      "values": [
+        "I'm working a lot these days.",
+        "В эти дни я много работаю.",
+        "Ушул күндөрү көп иштеп жатам.",
+        "أعمل كثيرًا هذه الأيام.",
+        "Je travaille beaucoup ces jours-ci."
+      ]
+    },
+    "okullar": {
+      "tr": "Pazar günü okullar kapalı.",
+      "values": [
+        "Schools are closed on Sunday.",
+        "В воскресенье школы закрыты.",
+        "Жекшембиде мектептер жабык.",
+        "المدارس مغلقة يوم الأحد.",
+        "Les écoles sont fermées le dimanche."
+      ]
+    },
+    "tatil": {
+      "tr": "Yarın tatil başlıyor.",
+      "values": [
+        "The holiday starts tomorrow.",
+        "Завтра начинаются каникулы.",
+        "Эртең каникул башталат.",
+        "تبدأ العطلة غدًا.",
+        "Les vacances commencent demain."
+      ]
+    },
+    "size": {
+      "tr": "Size bir şey anlatacağım.",
+      "values": [
+        "I'll tell you something.",
+        "Я вам кое-что расскажу.",
+        "Силерге бир нерсе айтып берем.",
+        "سأخبركم بشيء.",
+        "Je vais vous raconter quelque chose."
+      ]
+    },
+    "basketbol": {
+      "tr": "Basketbol oynamayı seviyorum.",
+      "values": [
+        "I like playing basketball.",
+        "Я люблю играть в баскетбол.",
+        "Баскетбол ойногонду жакшы көрөм.",
+        "أحب لعب كرة السلة.",
+        "J'aime jouer au basket-ball."
+      ]
+    },
+    "kursu": {
+      "tr": "Basketbol kursu saat onda.",
+      "values": [
+        "The basketball class is at ten.",
+        "Занятие по баскетболу в десять.",
+        "Баскетбол курсу саат ондо.",
+        "دورة كرة السلة في العاشرة.",
+        "Le cours de basket est à dix heures."
+      ]
+    },
+    "önümüzdeki": {
+      "tr": "Önümüzdeki hafta görüşelim.",
+      "values": [
+        "Let's meet next week.",
+        "Встретимся на следующей неделе.",
+        "Кийинки жумада жолугалы.",
+        "لنلتقِ الأسبوع القادم.",
+        "Retrouvons-nous la semaine prochaine."
+      ]
+    },
+    "planımı": {
+      "tr": "Planımı defterime yazdım.",
+      "values": [
+        "I wrote my plan in my notebook.",
+        "Я записал свой план в тетрадь.",
+        "Планымды дептериме жаздым.",
+        "كتبت خطتي في دفتري.",
+        "J'ai écrit mon programme dans mon cahier."
+      ]
+    },
+    "anlatacağım": {
+      "tr": "Sana bir hikâye anlatacağım.",
+      "values": [
+        "I'll tell you a story.",
+        "Я расскажу тебе историю.",
+        "Сага бир окуя айтып берем.",
+        "سأحكي لك قصة.",
+        "Je vais te raconter une histoire."
+      ]
+    },
+    "erkenden": {
+      "tr": "Yarın erkenden kalkacağım.",
+      "values": [
+        "I'll get up early tomorrow.",
+        "Завтра я встану рано.",
+        "Эртең эрте турам.",
+        "سأستيقظ مبكرًا غدًا.",
+        "Je me lèverai tôt demain."
+      ]
+    },
+    "kalkacağım": {
+      "tr": "Saat yedide kalkacağım.",
+      "values": [
+        "I'll get up at seven.",
+        "Я встану в семь.",
+        "Саат жетиде турам.",
+        "سأستيقظ الساعة السابعة.",
+        "Je me lèverai à sept heures."
+      ]
+    },
+    "öğleden": {
+      "tr": "Öğleden sonra dışarı çıkacağım.",
+      "values": [
+        "I'll go out in the afternoon.",
+        "После обеда я выйду.",
+        "Түштөн кийин сыртка чыгам.",
+        "سأخرج بعد الظهر.",
+        "Je sortirai l'après-midi."
+      ]
+    },
+    "kursuna": {
+      "tr": "Yarın yüzme kursuna gideceğim.",
+      "values": [
+        "I'll go to swimming class tomorrow.",
+        "Завтра я пойду на плавание.",
+        "Эртең сууда сүзүү курсуна барам.",
+        "سأذهب إلى دورة السباحة غدًا.",
+        "J'irai au cours de natation demain."
+      ]
+    },
+    "arkadaşlarla": {
+      "tr": "Arkadaşlarla buluşacağız.",
+      "values": [
+        "We'll meet up with friends.",
+        "Мы встретимся с друзьями.",
+        "Достор менен жолугабыз.",
+        "سنلتقي بالأصدقاء.",
+        "Nous retrouverons des amis."
+      ]
+    },
+    "elif’in": {
+      "tr": "Elif'in doğum günü yarın.",
+      "values": [
+        "Elif's birthday is tomorrow.",
+        "День рождения Элиф завтра.",
+        "Элифтин туулган күнү эртең.",
+        "عيد ميلاد إليف غدًا.",
+        "L'anniversaire d'Elif est demain."
+      ]
+    },
+    "doğum": {
+      "tr": "Doğum günü partisi var.",
+      "values": [
+        "There's a birthday party.",
+        "Будет день рождения.",
+        "Туулган күн кечеси болот.",
+        "هناك حفلة عيد ميلاد.",
+        "Il y a une fête d'anniversaire."
+      ]
+    },
+    "gününü": {
+      "tr": "Doğum gününü kutladık.",
+      "values": [
+        "We celebrated your birthday.",
+        "Мы отпраздновали твой день рождения.",
+        "Туулган күнүңдү белгиледик.",
+        "احتفلنا بعيد ميلادك.",
+        "Nous avons fêté ton anniversaire."
+      ]
+    },
+    "kutlayacağız": {
+      "tr": "Yarın doğum gününü kutlayacağız.",
+      "values": [
+        "We'll celebrate your birthday tomorrow.",
+        "Завтра мы отметим твой день рождения.",
+        "Эртең туулган күнүңдү белгилейбиз.",
+        "سنحتفل بعيد ميلادك غدًا.",
+        "Nous fêterons ton anniversaire demain."
+      ]
+    },
+    "akşam": {
+      "tr": "Akşam film izleyeceğiz.",
+      "values": [
+        "We'll watch a film tonight.",
+        "Вечером мы посмотрим фильм.",
+        "Кечинде тасма көрөбүз.",
+        "سنشاهد فيلمًا مساءً.",
+        "Nous regarderons un film ce soir."
+      ]
+    },
+    "ise": {
+      "tr": "Ben çay, kardeşim ise süt içiyor.",
+      "values": [
+        "I drink tea, whereas my sibling drinks milk.",
+        "Я пью чай, а мой брат пьёт молоко.",
+        "Мен чай ичем, бир тууганым болсо сүт ичет.",
+        "أنا أشرب الشاي، أما أخي فيشرب الحليب.",
+        "Je bois du thé, tandis que mon frère boit du lait."
+      ]
+    },
+    "dedemle": {
+      "tr": "Dedemle yürüyüşe çıktım.",
+      "values": [
+        "I went for a walk with my grandfather.",
+        "Я гулял с дедушкой.",
+        "Чоң атам менен сейилдедим.",
+        "خرجت في نزهة مع جدي.",
+        "Je me suis promené avec mon grand-père."
+      ]
+    },
+    "anneannemi": {
+      "tr": "Anneannemi ziyaret ettim.",
+      "values": [
+        "I visited my maternal grandmother.",
+        "Я навестил бабушку по матери.",
+        "Таенеме барып келдим.",
+        "زرت جدتي لأمي.",
+        "J'ai rendu visite à ma grand-mère maternelle."
+      ]
+    },
+    "ziyarete": {
+      "tr": "Yarın ziyarete gideceğiz.",
+      "values": [
+        "We'll go visiting tomorrow.",
+        "Завтра пойдём в гости.",
+        "Эртең конокко барабыз.",
+        "سنذهب للزيارة غدًا.",
+        "Nous irons rendre visite demain."
+      ]
+    },
+    "ailemle": {
+      "tr": "Ailemle pikniğe gidiyorum.",
+      "values": [
+        "I'm going on a picnic with my family.",
+        "Я иду на пикник с семьёй.",
+        "Үй-бүлөм менен пикникке барам.",
+        "سأذهب في نزهة مع عائلتي.",
+        "Je vais pique-niquer avec ma famille."
+      ]
+    },
+    "belgrad": {
+      "tr": "Belgrad Ormanı'nda yürüdük.",
+      "values": [
+        "We walked in Belgrad Forest.",
+        "Мы гуляли в Белградском лесу.",
+        "Белград токоюнда сейилдедик.",
+        "تمشينا في غابة بلغراد.",
+        "Nous nous sommes promenés dans la forêt de Belgrad."
+      ]
+    },
+    "ormanı’na": {
+      "tr": "Belgrad Ormanı'na gideceğiz.",
+      "values": [
+        "We'll go to Belgrad Forest.",
+        "Мы поедем в Белградский лес.",
+        "Белград токоюна барабыз.",
+        "سنذهب إلى غابة بلغراد.",
+        "Nous irons dans la forêt de Belgrad."
+      ]
+    },
+    "orada": {
+      "tr": "Orada kahvaltı yapacağız.",
+      "values": [
+        "We'll have breakfast there.",
+        "Мы позавтракаем там.",
+        "Ал жерде эртең мененки тамакты жейбиз.",
+        "سنتناول الفطور هناك.",
+        "Nous prendrons le petit-déjeuner là-bas."
+      ]
+    },
+    "kahvaltı": {
+      "tr": "Kahvaltı saat sekizde.",
+      "values": [
+        "Breakfast is at eight.",
+        "Завтрак в восемь.",
+        "Эртең мененки тамак саат сегизде.",
+        "الفطور الساعة الثامنة.",
+        "Le petit-déjeuner est à huit heures."
+      ]
+    },
+    "edeceğiz": {
+      "tr": "Orada kahvaltı edeceğiz.",
+      "values": [
+        "We'll have breakfast there.",
+        "Мы позавтракаем там.",
+        "Ал жерде эртең мененки тамактанабыз.",
+        "سنتناول الفطور هناك.",
+        "Nous prendrons le petit-déjeuner là-bas."
+      ]
+    },
+    "balık": {
+      "tr": "Balık tutmayı seviyorum.",
+      "values": [
+        "I like fishing.",
+        "Я люблю ловить рыбу.",
+        "Балык кармаганды жакшы көрөм.",
+        "أحب صيد السمك.",
+        "J'aime pêcher."
+      ]
+    },
+    "tutmayı": {
+      "tr": "Balık tutmayı öğreniyorum.",
+      "values": [
+        "I'm learning to fish.",
+        "Я учусь ловить рыбу.",
+        "Балык кармаганды үйрөнүп жатам.",
+        "أتعلم صيد السمك.",
+        "J'apprends à pêcher."
+      ]
+    },
+    "babamla": {
+      "tr": "Babamla parka gittim.",
+      "values": [
+        "I went to the park with my father.",
+        "Я ходил в парк с папой.",
+        "Атам менен сейил бакка бардым.",
+        "ذهبت إلى الحديقة مع أبي.",
+        "Je suis allé au parc avec mon père."
+      ]
+    },
+    "galata": {
+      "tr": "Galata Köprüsü'ne gittik.",
+      "values": [
+        "We went to Galata Bridge.",
+        "Мы пошли на Галатский мост.",
+        "Галата көпүрөсүнө бардык.",
+        "ذهبنا إلى جسر غلطة.",
+        "Nous sommes allés au pont de Galata."
+      ]
+    },
+    "köprüsü’nde": {
+      "tr": "Galata Köprüsü'nde yürüdük.",
+      "values": [
+        "We walked on Galata Bridge.",
+        "Мы гуляли по Галатскому мосту.",
+        "Галата көпүрөсүндө бастык.",
+        "مشينا على جسر غلطة.",
+        "Nous avons marché sur le pont de Galata."
+      ]
+    },
+    "tutacağız": {
+      "tr": "Yarın balık tutacağız.",
+      "values": [
+        "We'll go fishing tomorrow.",
+        "Завтра будем ловить рыбу.",
+        "Эртең балык кармайбыз.",
+        "سنصطاد السمك غدًا.",
+        "Nous irons pêcher demain."
+      ]
+    },
+    "hep": {
+      "tr": "Hep birlikte yürüyelim.",
+      "values": [
+        "Let's all walk together.",
+        "Давайте все пойдём вместе.",
+        "Баарыбыз чогуу басалы.",
+        "لنمشِ جميعًا معًا.",
+        "Marchons tous ensemble."
+      ]
+    },
+    "beraber": {
+      "tr": "Beraber film izleyelim.",
+      "values": [
+        "Let's watch a film together.",
+        "Давай посмотрим фильм вместе.",
+        "Чогуу тасма көрөлү.",
+        "لنشاهد فيلمًا معًا.",
+        "Regardons un film ensemble."
+      ]
+    },
+    "izleyeceğiz": {
+      "tr": "Akşam film izleyeceğiz.",
+      "values": [
+        "We'll watch a film tonight.",
+        "Вечером мы посмотрим фильм.",
+        "Кечинде тасма көрөбүз.",
+        "سنشاهد فيلمًا مساءً.",
+        "Nous regarderons un film ce soir."
+      ]
+    },
+    "senin": {
+      "tr": "Senin planın nedir?",
+      "values": [
+        "What's your plan?",
+        "Какой у тебя план?",
+        "Сенин планың кандай?",
+        "ما خطتك؟",
+        "Quel est ton programme ?"
+      ]
+    },
+    "anlatır": {
+      "tr": "Öğretmen hikâye anlatır.",
+      "values": [
+        "The teacher tells a story.",
+        "Учитель рассказывает историю.",
+        "Мугалим окуя айтып берет.",
+        "يروي المعلم قصة.",
+        "Le professeur raconte une histoire."
+      ]
+    },
+    "mısın": {
+      "tr": "Hazır mısın?",
+      "values": [
+        "Are you ready?",
+        "Ты готов?",
+        "Даярсыңбы?",
+        "هل أنت مستعد؟",
+        "Es-tu prêt ?"
+      ]
+    },
+    "siz": {
+      "tr": "Siz ne yapacaksınız?",
+      "values": [
+        "What will you do?",
+        "Что вы будете делать?",
+        "Силер эмне кыласыңар?",
+        "ماذا ستفعلون؟",
+        "Que ferez-vous ?"
+      ]
+    },
+    "kendi": {
+      "tr": "Kendi planını yaz.",
+      "values": [
+        "Write your own plan.",
+        "Напиши свой план.",
+        "Өз планыңды жаз.",
+        "اكتب خطتك الخاصة.",
+        "Écris ton propre programme."
+      ]
+    },
+    "ajandaya": {
+      "tr": "Planı ajandaya yaz.",
+      "values": [
+        "Write the plan in the planner.",
+        "Запиши план в ежедневник.",
+        "Планды пландоочу дептерге жаз.",
+        "اكتب الخطة في المفكرة.",
+        "Note le programme dans l'agenda."
+      ]
+    },
+    "sonunu": {
+      "tr": "Hafta sonunu anlat.",
+      "values": [
+        "Tell me about your weekend.",
+        "Расскажи о своих выходных.",
+        "Дем алышыңды айтып бер.",
+        "حدثني عن عطلة نهاية الأسبوع.",
+        "Raconte-moi ton week-end."
+      ]
+    },
+    "arkadaşları": {
+      "tr": "Arkadaşları onu bekliyor.",
+      "values": [
+        "His friends are waiting for him.",
+        "Друзья ждут его.",
+        "Достору аны күтүп жатышат.",
+        "أصدقاؤه ينتظرونه.",
+        "Ses amis l'attendent."
+      ]
+    },
+    "nıza": {
+      "tr": "Arkadaşlarınıza anlatın.",
+      "values": [
+        "Tell your friends.",
+        "Расскажите своим друзьям.",
+        "Досторуңарга айтып бергиле.",
+        "أخبروا أصدقاءكم.",
+        "Racontez à vos amis."
+      ]
+    },
+    "tarih": {
+      "tr": "Tarihi ajandaya yaz.",
+      "values": [
+        "Write the date in the planner.",
+        "Запиши дату в ежедневник.",
+        "Датаны пландоочу дептерге жаз.",
+        "اكتب التاريخ في المفكرة.",
+        "Écris la date dans l'agenda."
       ]
     }
   },
