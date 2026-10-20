@@ -5067,6 +5067,27 @@
       "саламдар",
       "تحيات",
       "salutations"
+    ],
+    "davetiyeyi": [
+      "the invitation card",
+      "приглашение",
+      "чакыруу кагазын",
+      "بطاقة الدعوة",
+      "le faire-part"
+    ],
+    "tebrik": [
+      "congratulations; congratulating",
+      "поздравление",
+      "куттуктoo",
+      "تهنئة",
+      "félicitations"
+    ],
+    "mutluluklar": [
+      "best wishes; happiness",
+      "пожелания счастья",
+      "бакыт каалоолор",
+      "أطيب تمنيات السعادة",
+      "vœux de bonheur"
     ]
   },
   "phrases": {
@@ -6523,13 +6544,13 @@
         "عيد ميلاد",
         "anniversaire"
       ],
-      "exampleTr": "Bugün Elif'in doğum günü.",
+      "exampleTr": "Doğum gününü birlikte kutlayalım.",
       "examples": [
-        "Today is Elif's birthday.",
-        "Сегодня день рождения Элиф.",
-        "Бүгүн Элифтин туулган күнү.",
-        "اليوم عيد ميلاد إليف.",
-        "C'est l'anniversaire d'Elif aujourd'hui."
+        "Let's celebrate your birthday together.",
+        "Давай отпразднуем твой день рождения вместе.",
+        "Туулган күнүңдү чогуу белгилейли.",
+        "لنحتفل بعيد ميلادك معًا.",
+        "Fêtons ton anniversaire ensemble."
       ]
     },
     "doğum gününü kutlayacağız": {
@@ -6734,6 +6755,261 @@
         "Дарыканага баргым келет.",
         "أريد الذهاب إلى الصيدلية.",
         "Je veux aller à la pharmacie."
+      ]
+    },
+    "düğün daveti": {
+      "translations": [
+        "wedding invitation",
+        "приглашение на свадьбу",
+        "тойго чакыруу",
+        "دعوة زفاف",
+        "invitation à un mariage"
+      ],
+      "exampleTr": "Düğün davetini bugün aldım.",
+      "examples": [
+        "I received the wedding invitation today.",
+        "Я сегодня получил приглашение на свадьбу.",
+        "Тойго чакырууну бүгүн алдым.",
+        "تلقيت دعوة الزفاف اليوم.",
+        "J'ai reçu l'invitation au mariage aujourd'hui."
+      ]
+    },
+    "nikâh töreni": {
+      "translations": [
+        "marriage ceremony",
+        "церемония бракосочетания",
+        "нике кыюу аземи",
+        "مراسم عقد القران",
+        "cérémonie de mariage"
+      ],
+      "exampleTr": "Nikâh töreni saat yedide.",
+      "examples": [
+        "The marriage ceremony is at seven.",
+        "Церемония бракосочетания в семь.",
+        "Нике кыюу аземи саат жетиде.",
+        "مراسم عقد القران الساعة السابعة.",
+        "La cérémonie de mariage est à sept heures."
+      ]
+    },
+    "nikâhın ardından": {
+      "translations": [
+        "after the marriage ceremony",
+        "после бракосочетания",
+        "нике кыюудан кийин",
+        "بعد عقد القران",
+        "après la cérémonie de mariage"
+      ],
+      "exampleTr": "Nikâhın ardından yemek yiyeceğiz.",
+      "examples": [
+        "We'll eat after the marriage ceremony.",
+        "После церемонии бракосочетания мы поедим.",
+        "Нике кыюудан кийин тамак жейбиз.",
+        "سنتناول الطعام بعد عقد القران.",
+        "Nous mangerons après la cérémonie de mariage."
+      ]
+    },
+    "yemek servisi": {
+      "translations": [
+        "meal service",
+        "подача еды",
+        "тамак берүү",
+        "تقديم الطعام",
+        "service du repas"
+      ],
+      "exampleTr": "Yemek servisi saat sekizde başlayacak.",
+      "examples": [
+        "The meal service starts at eight.",
+        "Подача еды начнётся в восемь.",
+        "Тамак берүү саат сегизде башталат.",
+        "سيبدأ تقديم الطعام الساعة الثامنة.",
+        "Le service du repas commencera à huit heures."
+      ]
+    },
+    "müzik eşliğinde": {
+      "translations": [
+        "to the accompaniment of music",
+        "под музыку",
+        "музыканын коштоосунда",
+        "على أنغام الموسيقى",
+        "au son de la musique"
+      ],
+      "exampleTr": "Müzik eşliğinde dans ettik.",
+      "examples": [
+        "We danced to music.",
+        "Мы танцевали под музыку.",
+        "Музыканын коштоосунда бийледик.",
+        "رقصنا على أنغام الموسيقى.",
+        "Nous avons dansé au son de la musique."
+      ]
+    },
+    "bol bol": {
+      "translations": [
+        "lots of; plenty",
+        "много; вдоволь",
+        "көп-көп",
+        "بكثرة",
+        "beaucoup"
+      ],
+      "exampleTr": "Düğünde bol bol fotoğraf çektirdik.",
+      "examples": [
+        "We took lots of photos at the wedding.",
+        "На свадьбе мы сделали много фотографий.",
+        "Тойдо көп сүрөткө түштүк.",
+        "التقطنا صورًا كثيرة في الزفاف.",
+        "Nous avons pris beaucoup de photos au mariage."
+      ]
+    },
+    "fotoğraf çektireceğiz": {
+      "translations": [
+        "we will have photos taken",
+        "мы сфотографируемся",
+        "сүрөткө түшөбүз",
+        "سنلتقط صورًا",
+        "nous nous ferons photographier"
+      ],
+      "exampleTr": "Ailece fotoğraf çektireceğiz.",
+      "examples": [
+        "We'll have a family photo taken.",
+        "Мы сфотографируемся всей семьёй.",
+        "Үй-бүлөбүз менен сүрөткө түшөбүз.",
+        "سنلتقط صورة عائلية.",
+        "Nous nous ferons photographier en famille."
+      ]
+    },
+    "bir yastıkta kocatsın": {
+      "translations": [
+        "may they grow old together",
+        "пусть они состарятся вместе",
+        "бир жаздыкта карытсын",
+        "ليشيخا معًا",
+        "qu'ils vieillissent ensemble"
+      ],
+      "exampleTr": "Allah onları bir yastıkta kocatsın.",
+      "examples": [
+        "May God let them grow old together.",
+        "Пусть Бог даст им состариться вместе.",
+        "Алла экөөнү бир жаздыкта карытсын.",
+        "أسأل الله أن يجعلهما يشيخان معًا.",
+        "Que Dieu leur permette de vieillir ensemble."
+      ]
+    },
+    "ömür boyu": {
+      "translations": [
+        "for a lifetime",
+        "всю жизнь",
+        "өмүр бою",
+        "مدى الحياة",
+        "toute la vie"
+      ],
+      "exampleTr": "Ömür boyu mutlu olun.",
+      "examples": [
+        "Be happy all your lives.",
+        "Будьте счастливы всю жизнь.",
+        "Өмүр бою бактылуу болгула.",
+        "كونوا سعداء مدى الحياة.",
+        "Soyez heureux toute votre vie."
+      ]
+    },
+    "şehir dışına": {
+      "translations": [
+        "out of town",
+        "за город",
+        "шаар сыртына",
+        "خارج المدينة",
+        "hors de la ville"
+      ],
+      "exampleTr": "Hafta sonu şehir dışına çıkacağız.",
+      "examples": [
+        "We're going out of town this weekend.",
+        "На выходных мы уедем за город.",
+        "Дем алышта шаар сыртына чыгабыз.",
+        "سنخرج من المدينة في عطلة نهاية الأسبوع.",
+        "Nous sortirons de la ville ce week-end."
+      ]
+    },
+    "düğüne katılamıyorum": {
+      "translations": [
+        "I can't attend the wedding",
+        "я не могу прийти на свадьбу",
+        "тойго катыша албайм",
+        "لا أستطيع حضور الزفاف",
+        "je ne peux pas assister au mariage"
+      ],
+      "exampleTr": "Üzgünüm, düğüne katılamıyorum.",
+      "examples": [
+        "I'm sorry, I can't attend the wedding.",
+        "Извини, я не могу прийти на свадьбу.",
+        "Кечир, тойго катыша албайм.",
+        "آسف، لا أستطيع حضور الزفاف.",
+        "Désolé, je ne peux pas assister au mariage."
+      ]
+    },
+    "tebrik ederim": {
+      "translations": [
+        "congratulations",
+        "поздравляю",
+        "куттуктайм",
+        "أهنئك",
+        "félicitations"
+      ],
+      "exampleTr": "Sizi tebrik ederim.",
+      "examples": [
+        "Congratulations to you.",
+        "Поздравляю вас.",
+        "Сизди куттуктайм.",
+        "أهنئك.",
+        "Je vous félicite."
+      ]
+    },
+    "teb rik ederim": {
+      "translations": [
+        "congratulations (line-break form)",
+        "поздравляю",
+        "куттуктайм",
+        "أهنئك",
+        "félicitations"
+      ],
+      "exampleTr": "Abini ve yengeni tebrik ederim.",
+      "examples": [
+        "I congratulate your brother and sister-in-law.",
+        "Поздравляю твоего брата и его жену.",
+        "Агаңды жана жеңеңди куттуктайм.",
+        "أهنئ أخاك وزوجته.",
+        "Je félicite ton frère et ta belle-sœur."
+      ]
+    },
+    "mutluluk lar": {
+      "translations": [
+        "happiness; best wishes (line-break form)",
+        "счастья",
+        "бакыт",
+        "السعادة",
+        "bonheur"
+      ],
+      "exampleTr": "Yeni evlilere mutluluklar dilerim.",
+      "examples": [
+        "I wish the newlyweds happiness.",
+        "Желаю молодожёнам счастья.",
+        "Жаңы үйлөнгөндөргө бакыт каалайм.",
+        "أتمنى السعادة للعروسين.",
+        "Je souhaite du bonheur aux mariés."
+      ]
+    },
+    "da vetiyeyi": {
+      "translations": [
+        "the invitation card (line-break form)",
+        "приглашение",
+        "чакыруу кагазын",
+        "بطاقة الدعوة",
+        "le faire-part"
+      ],
+      "exampleTr": "Davetiyeyi arkadaşlarıma gönderdim.",
+      "examples": [
+        "I sent the invitation to my friends.",
+        "Я отправил приглашение друзьям.",
+        "Чакыруу кагазын досторума жөнөттүм.",
+        "أرسلت بطاقة الدعوة إلى أصدقائي.",
+        "J'ai envoyé le faire-part à mes amis."
       ]
     }
   },
@@ -13656,6 +13932,36 @@
         "Үй-бүлөңө саламдар.",
         "تحياتي لعائلتك.",
         "Mes salutations à ta famille."
+      ]
+    },
+    "davetiyeyi": {
+      "tr": "Davetiyeyi sana gönderdim.",
+      "values": [
+        "I sent you the invitation card.",
+        "Я отправил тебе приглашение.",
+        "Чакыруу кагазын сага жөнөттүм.",
+        "أرسلت إليك بطاقة الدعوة.",
+        "Je t'ai envoyé le faire-part."
+      ]
+    },
+    "tebrik": {
+      "tr": "Yeni evlileri tebrik ettik.",
+      "values": [
+        "We congratulated the newlyweds.",
+        "Мы поздравили молодожёнов.",
+        "Жаңы үйлөнгөндөрдү куттуктадык.",
+        "هنأنا العروسين.",
+        "Nous avons félicité les mariés."
+      ]
+    },
+    "mutluluklar": {
+      "tr": "Size bir ömür boyu mutluluklar dilerim.",
+      "values": [
+        "I wish you a lifetime of happiness.",
+        "Желаю вам счастья на всю жизнь.",
+        "Сизге өмүр бою бакыт каалайм.",
+        "أتمنى لكم السعادة مدى الحياة.",
+        "Je vous souhaite une vie pleine de bonheur."
       ]
     }
   },
