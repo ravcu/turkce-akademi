@@ -27,5 +27,12 @@ for(let pi=0;pi<pages.length;pi++){
  for(const lang of langs){const content=harness.export(pi,lang);exportCount++;if(!content.includes('<tbody>')||content.includes('çeviri kontrol edilecek'))errors.push('export '+(pi+1)+':'+lang);}
 }
 for(const [key,f] of Object.entries(glossary.forms)){if(!Array.isArray(f.lemmaTranslations)||f.lemmaTranslations.length!==5)errors.push('root '+key);}
+// Regression cases where the same Turkish spelling has another sense in earlier units.
+if(glossary.words['mısır']?.[0]!=='Egypt (country)')errors.push('Egypt sense');
+if(glossary.forms['yer']||glossary.words['yer']?.[0]!=='place; space')errors.push('place sense');
+if(glossary.forms['kullanım']?.lemmaTranslations?.[0]!=='to use')errors.push('infinitive root');
+for(let pi=0;pi<pages.length;pi++)for(const group of pages[pi].phraseGroups)for(const i of group.indices){
+ if(harness.test(pi,i,'en').key!==group.key)errors.push('phrase consistency '+pi+':'+group.key);
+}
 const result={pages:pages.length,hotspots:pages.reduce((a,p)=>a+p.words.length,0),logicalSelections:selections.size,checked,exportChecks:exportCount,forms:Object.keys(glossary.forms).length,phraseEntries:Object.keys(glossary.phrases).length,phraseOccurrences:pages.reduce((a,p)=>a+p.phraseGroups.length,0),errors:[...new Set(errors)]};
 console.log(JSON.stringify(result,null,2));if(errors.length)process.exitCode=1;
