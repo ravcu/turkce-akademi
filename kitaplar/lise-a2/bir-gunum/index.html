@@ -174,7 +174,7 @@
         // first fragment, never again at the continuation hotspot.
         if(joined?.single&&joined.indices[0]!==i)continue;
         const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=normalize(word);
-        if(!key||seen.has(key))continue;
+        if(!key||seen.has(key)||!/[\p{L}\p{N}]/u.test(word))continue;
         seen.add(key);
         const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
         let meaning=translations?.[index];
