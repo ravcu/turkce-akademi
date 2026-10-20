@@ -20746,6 +20746,26 @@
         "ليمتلئ قلبكم نورًا.",
         "Que votre cœur soit rempli de lumière."
       ]
+    },
+    "etmek": {
+      "tr": "Arkadaşıma teşekkür etmek istiyorum.",
+      "values": [
+        "I want to thank my friend.",
+        "Я хочу поблагодарить друга.",
+        "Досума рахмат айткым келет.",
+        "أريد أن أشكر صديقي.",
+        "Je veux remercier mon ami."
+      ]
+    },
+    "son": {
+      "tr": "Etkinliğin son günü müzeye gittik.",
+      "values": [
+        "We went to the museum on the last day of the event.",
+        "В последний день мероприятия мы сходили в музей.",
+        "Иш-чаранын акыркы күнү музейге бардык.",
+        "ذهبنا إلى المتحف في اليوم الأخير من الفعالية.",
+        "Nous sommes allés au musée le dernier jour de l'événement."
+      ]
     }
   },
   "forms": {
