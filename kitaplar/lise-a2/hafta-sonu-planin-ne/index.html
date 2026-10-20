@@ -291,7 +291,7 @@
       body.querySelectorAll('[data-say]').forEach(b=>b.addEventListener('click',()=>{const type=b.dataset.say,speech=type==='tr'?ex.tr:type==='example'?ex.values[langIndex]:type==='base'?baseMeaning:meaning;speakText(speech,type==='tr'?'tr':targetLang)}));
       $('#saveWord').disabled=false;$('#saveWord').textContent=isSaved(activeSelection)?'✓ Defterimde':'＋ Kelime defterime ekle';updateLanguageTabs();requestAnimationFrame(alignStudyArea);
     }
-    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:normalize(word);const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase&&!phrase.single,indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
+    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:normalize(word);const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase&&(!phrase.single||!!glossary.phrases?.[key]),indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
     function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
     function numberToEnglish(value){
       if(!Number.isSafeInteger(value)||value<0)return String(value);
