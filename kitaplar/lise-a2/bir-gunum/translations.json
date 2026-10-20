@@ -1184,11 +1184,11 @@
       "samedi"
     ],
     "pazar": [
-      "Sunday; market",
-      "воскресенье; рынок",
-      "жекшемби; базар",
-      "الأحد؛ سوق",
-      "dimanche ; marché"
+      "Sunday",
+      "воскресенье",
+      "жекшемби",
+      "الأحد",
+      "dimanche"
     ],
     "kalın": [
       "stay (polite/plural); thick",
@@ -1681,11 +1681,11 @@
       "musique"
     ],
     "resim": [
-      "to the pictures",
-      "к картинкам",
-      "сүрөттөргө",
-      "إلى الصور",
-      "aux images"
+      "picture; painting",
+      "рисунок; рисование",
+      "сүрөт; сүрөт тартуу",
+      "صورة؛ رسم",
+      "image ; peinture"
     ],
     "genellikle": [
       "usually; generally",
@@ -4557,6 +4557,232 @@
         "أعطيت الفيديو أربع نقاط من خمس.",
         "J'ai donné quatre points sur cinq à la vidéo."
       ]
+    },
+    "yer": {
+      "lemma": "yemek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to eat",
+        "есть",
+        "жеш",
+        "أن يأكل",
+        "manger"
+      ],
+      "formTranslations": [
+        "eats",
+        "ест",
+        "жейт",
+        "يأكل",
+        "mange"
+      ],
+      "exampleTr": "Kardeşim her sabah bir yumurta yer.",
+      "examples": [
+        "My brother eats an egg every morning.",
+        "Мой брат каждое утро ест одно яйцо.",
+        "Иним күн сайын эртең менен бир жумуртка жейт.",
+        "يأكل أخي بيضة كل صباح.",
+        "Mon frère mange un œuf chaque matin."
+      ]
+    },
+    "yapıyor": {
+      "lemma": "yapmak",
+      "lemmaTranslations": [
+        "to do",
+        "делать",
+        "жасоо",
+        "أن يفعل",
+        "faire"
+      ],
+      "formTranslations": [
+        "is doing",
+        "делает",
+        "жасап жатат",
+        "يفعل",
+        "fait"
+      ],
+      "exampleTr": "Annem mutfakta kahvaltı yapıyor.",
+      "examples": [
+        "My mother is having breakfast in the kitchen.",
+        "Мама завтракает на кухне.",
+        "Апам ашканада эртең мененки тамакты ичип жатат.",
+        "أمي تتناول الفطور في المطبخ.",
+        "Ma mère prend son petit-déjeuner dans la cuisine."
+      ]
+    },
+    "yiyebilir": {
+      "lemma": "yemek",
+      "lemmaTranslations": [
+        "to eat",
+        "есть",
+        "жеш",
+        "أن يأكل",
+        "manger"
+      ],
+      "formTranslations": [
+        "can eat",
+        "может съесть",
+        "жей алат",
+        "يمكنه أن يأكل",
+        "peut manger"
+      ],
+      "exampleTr": "Kardeşim artık kendi başına yemek yiyebilir.",
+      "examples": [
+        "My sibling can now eat without help.",
+        "Мой младший брат теперь может есть самостоятельно.",
+        "Иним эми өз алдынча тамак жей алат.",
+        "أخي الصغير يستطيع الآن تناول الطعام بمفرده.",
+        "Mon petit frère peut maintenant manger tout seul."
+      ]
+    },
+    "hobilerim": {
+      "lemma": "hobi",
+      "lemmaTranslations": [
+        "hobby",
+        "увлечение",
+        "кызыгуу",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "my hobbies",
+        "мои увлечения",
+        "менин кызыгууларым",
+        "هواياتي",
+        "mes loisirs"
+      ],
+      "exampleTr": "Hobilerim arasında resim yapmak ve yüzmek var.",
+      "examples": [
+        "My hobbies include painting and swimming.",
+        "Среди моих увлечений — рисование и плавание.",
+        "Менин кызыгууларымдын арасында сүрөт тартуу жана сууда сүзүү бар.",
+        "من هواياتي الرسم والسباحة.",
+        "Mes loisirs comprennent la peinture et la natation."
+      ]
+    },
+    "uzayda": {
+      "lemma": "uzay",
+      "lemmaTranslations": [
+        "space",
+        "космос",
+        "космос",
+        "الفضاء",
+        "espace"
+      ],
+      "formTranslations": [
+        "in space",
+        "в космосе",
+        "космосто",
+        "في الفضاء",
+        "dans l’espace"
+      ],
+      "exampleTr": "Astronotlar uzayda araştırma yapıyor.",
+      "examples": [
+        "Astronauts are conducting research in space.",
+        "Космонавты проводят исследования в космосе.",
+        "Космонавттар космосто изилдөө жүргүзүп жатышат.",
+        "يجري رواد الفضاء أبحاثًا في الفضاء.",
+        "Les astronautes font des recherches dans l’espace."
+      ]
+    },
+    "pandalar": {
+      "lemma": "panda",
+      "lemmaTranslations": [
+        "panda",
+        "панда",
+        "панда",
+        "باندا",
+        "panda"
+      ],
+      "formTranslations": [
+        "pandas",
+        "панды",
+        "пандалар",
+        "حيوانات الباندا",
+        "les pandas"
+      ],
+      "exampleTr": "Çocuklar hayvanat bahçesinde pandaları izliyor.",
+      "examples": [
+        "The children are watching the pandas at the zoo.",
+        "Дети наблюдают за пандами в зоопарке.",
+        "Балдар зоопаркта пандаларды көрүп жатышат.",
+        "يشاهد الأطفال حيوانات الباندا في حديقة الحيوانات.",
+        "Les enfants regardent les pandas au zoo."
+      ]
+    },
+    "günlerinde": {
+      "lemma": "gün",
+      "lemmaTranslations": [
+        "day",
+        "день",
+        "күн",
+        "يوم",
+        "jour"
+      ],
+      "formTranslations": [
+        "on the days",
+        "в дни",
+        "күндөрүндө",
+        "في أيام",
+        "pendant les jours"
+      ],
+      "exampleTr": "Tatil günlerinde ailemle yürüyüşe çıkarım.",
+      "examples": [
+        "I go for walks with my family on holidays.",
+        "В выходные дни я гуляю с семьёй.",
+        "Эс алуу күндөрүндө үй-бүлөм менен сейилдейм.",
+        "أتنزه مع عائلتي في أيام العطلة.",
+        "Pendant les jours de congé, je me promène avec ma famille."
+      ]
+    },
+    "temada": {
+      "lemma": "tema",
+      "lemmaTranslations": [
+        "theme",
+        "тема",
+        "тема",
+        "موضوع",
+        "thème"
+      ],
+      "formTranslations": [
+        "in this theme",
+        "в этой теме",
+        "бул темада",
+        "في هذا الموضوع",
+        "dans ce thème"
+      ],
+      "exampleTr": "Bu temada günlük hayatımızı anlatacağız.",
+      "examples": [
+        "In this theme, we will talk about our daily lives.",
+        "В этой теме мы расскажем о повседневной жизни.",
+        "Бул темада күнүмдүк жашообуз тууралуу айтып беребиз.",
+        "في هذا الموضوع سنتحدث عن حياتنا اليومية.",
+        "Dans ce thème, nous parlerons de notre vie quotidienne."
+      ]
+    },
+    "ödevlerini": {
+      "lemma": "ödev",
+      "lemmaTranslations": [
+        "homework",
+        "домашнее задание",
+        "үй тапшырмасы",
+        "واجب منزلي",
+        "devoir"
+      ],
+      "formTranslations": [
+        "their homework",
+        "свои домашние задания",
+        "үй тапшырмаларын",
+        "واجباته المنزلية",
+        "ses devoirs"
+      ],
+      "exampleTr": "Ali ödevlerini akşam yemeğinden önce bitirdi.",
+      "examples": [
+        "Ali finished his homework before dinner.",
+        "Али закончил домашние задания до ужина.",
+        "Али үй тапшырмаларын кечки тамакка чейин бүтүрдү.",
+        "أنهى علي واجباته المنزلية قبل العشاء.",
+        "Ali a terminé ses devoirs avant le dîner."
+      ]
     }
   },
   "examples": {
@@ -6380,16 +6606,16 @@
         "La ville où vit Hasan est très grande."
       ]
     },
-    "yer": {
-      "tr": "Burası güzel bir yer.",
-      "values": [
-        "This is a nice place.",
-        "Это хорошее место.",
-        "Бул жакшы жер.",
-        "هذا مكان جميل.",
-        "C'est un bel endroit."
+    "yer": [
+      "Kardeşim her sabah bir yumurta yer.",
+      [
+        "My brother eats an egg every morning.",
+        "Мой брат каждое утро ест одно яйцо.",
+        "Иним күн сайын эртең менен бир жумуртка жейт.",
+        "يأكل أخي بيضة كل صباح.",
+        "Mon frère mange un œuf chaque matin."
       ]
-    },
+    ],
     "tanıtın": {
       "tr": "Arkadaşınızı sınıfa tanıtın.",
       "values": [
@@ -6600,16 +6826,16 @@
         "Nous avons écouté de la musique le soir."
       ]
     },
-    "resim": {
-      "tr": "Resimlere dikkatlice bakın.",
-      "values": [
-        "Look carefully at the pictures.",
-        "Внимательно посмотрите на картинки.",
-        "Сүрөттөрдү кунт коюп карагыла.",
-        "انظروا إلى الصور بعناية.",
-        "Regardez attentivement les images."
+    "resim": [
+      "Hafta sonu resim yapmayı seviyorum.",
+      [
+        "I like painting at the weekend.",
+        "Я люблю рисовать по выходным.",
+        "Дем алышта сүрөт тартканды жакшы көрөм.",
+        "أحب الرسم في عطلة نهاية الأسبوع.",
+        "J’aime peindre le week-end."
       ]
-    },
+    ],
     "sırasıyla": {
       "tr": "Bölümleri sırasıyla ziyaret ettik.",
       "values": [
@@ -9299,9 +9525,356 @@
         "ما أكثر شيء لفت انتباهكم في المهرجان؟",
         "Qu'est-ce qui a le plus attiré votre attention au festival ?"
       ]
+    },
+    "görseldeki": [
+      "Görseldeki çocuk kitap okuyor.",
+      [
+        "The child in the picture is reading a book.",
+        "Ребёнок на картинке читает книгу.",
+        "Сүрөттөгү бала китеп окуп жатат.",
+        "الطفل في الصورة يقرأ كتابًا.",
+        "L’enfant sur l’image lit un livre."
+      ]
+    ],
+    "yapıyor": [
+      "Annem mutfakta kahvaltı yapıyor.",
+      [
+        "My mother is having breakfast in the kitchen.",
+        "Мама завтракает на кухне.",
+        "Апам ашканада эртең мененки тамакты ичип жатат.",
+        "أمي تتناول الفطور في المطبخ.",
+        "Ma mère prend son petit-déjeuner dans la cuisine."
+      ]
+    ],
+    "günlerinde": [
+      "Tatil günlerinde ailemle yürüyüşe çıkarım.",
+      [
+        "I go for walks with my family on holidays.",
+        "В выходные дни я гуляю с семьёй.",
+        "Эс алуу күндөрүндө үй-бүлөм менен сейилдейм.",
+        "أتنزه مع عائلتي في أيام العطلة.",
+        "Pendant les jours de congé, je me promène avec ma famille."
+      ]
+    ],
+    "temada": [
+      "Bu temada günlük hayatımızı anlatacağız.",
+      [
+        "In this theme, we will talk about our daily lives.",
+        "В этой теме мы расскажем о повседневной жизни.",
+        "Бул темада күнүмдүк жашообуз тууралуу айтып беребиз.",
+        "في هذا الموضوع سنتحدث عن حياتنا اليومية.",
+        "Dans ce thème, nous parlerons de notre vie quotidienne."
+      ]
+    ],
+    "pandalar": [
+      "Çocuklar hayvanat bahçesinde pandaları izliyor.",
+      [
+        "The children are watching the pandas at the zoo.",
+        "Дети наблюдают за пандами в зоопарке.",
+        "Балдар зоопаркта пандаларды көрүп жатышат.",
+        "يشاهد الأطفال حيوانات الباندا في حديقة الحيوانات.",
+        "Les enfants regardent les pandas au zoo."
+      ]
+    ],
+    "kg": [
+      "Pazardan iki kg elma aldım.",
+      [
+        "I bought two kg of apples at the market.",
+        "Я купил на рынке два кг яблок.",
+        "Базардан эки кг алма сатып алдым.",
+        "اشتريت كيلوغرامين من التفاح من السوق.",
+        "J’ai acheté deux kg de pommes au marché."
+      ]
+    ],
+    "bambu": [
+      "Bu sandalyeler bambudan yapılmış.",
+      [
+        "These chairs are made of bamboo.",
+        "Эти стулья сделаны из бамбука.",
+        "Бул отургучтар бамбуктан жасалган.",
+        "هذه الكراسي مصنوعة من الخيزران.",
+        "Ces chaises sont faites en bambou."
+      ]
+    ],
+    "yiyebilir": [
+      "Kardeşim artık kendi başına yemek yiyebilir.",
+      [
+        "My sibling can now eat without help.",
+        "Мой младший брат теперь может есть самостоятельно.",
+        "Иним эми өз алдынча тамак жей алат.",
+        "أخي الصغير يستطيع الآن تناول الطعام بمفرده.",
+        "Mon petit frère peut maintenant manger tout seul."
+      ]
+    ],
+    "pazartesi": [
+      "Pazartesi yeni işime başlayacağım.",
+      [
+        "I will start my new job on Monday.",
+        "В понедельник я начну новую работу.",
+        "Дүйшөмбүдө жаңы жумушума киришем.",
+        "سأبدأ عملي الجديد يوم الاثنين.",
+        "Je commencerai mon nouveau travail lundi."
+      ]
+    ],
+    "salı": [
+      "Salı günü diş hekimine gideceğim.",
+      [
+        "I will go to the dentist on Tuesday.",
+        "Во вторник я пойду к стоматологу.",
+        "Шейшембиде тиш доктурга барам.",
+        "سأذهب إلى طبيب الأسنان يوم الثلاثاء.",
+        "J’irai chez le dentiste mardi."
+      ]
+    ],
+    "çarşamba": [
+      "Çarşamba akşamı arkadaşlarımla buluşacağım.",
+      [
+        "I will meet my friends on Wednesday evening.",
+        "В среду вечером я встречусь с друзьями.",
+        "Шаршемби күнү кечинде досторум менен жолугушам.",
+        "سألتقي بأصدقائي مساء الأربعاء.",
+        "Je retrouverai mes amis mercredi soir."
+      ]
+    ],
+    "doktor": [
+      "Doktor çocuğu muayene etti.",
+      [
+        "The doctor examined the child.",
+        "Врач осмотрел ребёнка.",
+        "Дарыгер баланы текшерди.",
+        "فحص الطبيب الطفل.",
+        "Le médecin a examiné l’enfant."
+      ]
+    ],
+    "randevusu": [
+      "Babamın yarın doktor randevusu var.",
+      [
+        "My father has a doctor’s appointment tomorrow.",
+        "У моего отца завтра приём у врача.",
+        "Атам эртең дарыгердин кабыл алуусуна барат.",
+        "لدى أبي موعد مع الطبيب غدًا.",
+        "Mon père a rendez-vous chez le médecin demain."
+      ]
+    ],
+    "haftalık": [
+      "Haftalık alışveriş listemi hazırladım.",
+      [
+        "I prepared my weekly shopping list.",
+        "Я составил список покупок на неделю.",
+        "Жумалык соода тизмемди даярдадым.",
+        "أعددت قائمة التسوق الأسبوعية.",
+        "J’ai préparé ma liste de courses pour la semaine."
+      ]
+    ],
+    "program": [
+      "Yarınki program biraz yoğun.",
+      [
+        "Tomorrow’s schedule is a little busy.",
+        "Завтрашнее расписание немного плотное.",
+        "Эртеңки күн тартиби бир аз тыгыз.",
+        "برنامج الغد مزدحم قليلًا.",
+        "Le programme de demain est un peu chargé."
+      ]
+    ],
+    "yüzme": [
+      "Kızım yüzme öğrenmek istiyor.",
+      [
+        "My daughter wants to learn to swim.",
+        "Моя дочь хочет научиться плавать.",
+        "Кызым сууда сүзгөндү үйрөнгүсү келет.",
+        "ابنتي تريد تعلم السباحة.",
+        "Ma fille veut apprendre à nager."
+      ]
+    ],
+    "ödevlerini": [
+      "Ali ödevlerini akşam yemeğinden önce bitirdi.",
+      [
+        "Ali finished his homework before dinner.",
+        "Али закончил домашние задания до ужина.",
+        "Али үй тапшырмаларын кечки тамакка чейин бүтүрдү.",
+        "أنهى علي واجباته المنزلية قبل العشاء.",
+        "Ali a terminé ses devoirs avant le dîner."
+      ]
+    ],
+    "yapma": [
+      "Ödev yapma saatimi değiştirdim.",
+      [
+        "I changed the time I do my homework.",
+        "Я изменил время выполнения домашних заданий.",
+        "Үй тапшырмасын аткаруу убактымды өзгөрттүм.",
+        "غيّرت وقت أداء واجباتي المنزلية.",
+        "J’ai changé l’heure à laquelle je fais mes devoirs."
+      ]
+    ],
+    "buluşma": [
+      "Buluşma saatini mesajla bildirdim.",
+      [
+        "I sent the meeting time by text.",
+        "Я сообщил время встречи сообщением.",
+        "Жолугушуу убактысын билдирүү аркылуу кабарладым.",
+        "أرسلت وقت اللقاء في رسالة.",
+        "J’ai communiqué l’heure du rendez-vous par message."
+      ]
+    ],
+    "uzayda": [
+      "Astronotlar uzayda araştırma yapıyor.",
+      [
+        "Astronauts are conducting research in space.",
+        "Космонавты проводят исследования в космосе.",
+        "Космонавттар космосто изилдөө жүргүзүп жатышат.",
+        "يجري رواد الفضاء أبحاثًا في الفضاء.",
+        "Les astronautes font des recherches dans l’espace."
+      ]
+    ],
+    "hobilerim": [
+      "Hobilerim arasında resim yapmak ve yüzmek var.",
+      [
+        "My hobbies include painting and swimming.",
+        "Среди моих увлечений — рисование и плавание.",
+        "Менин кызыгууларымдын арасында сүрөт тартуу жана сууда сүзүү бар.",
+        "من هواياتي الرسم والسباحة.",
+        "Mes loisirs comprennent la peinture et la natation."
+      ]
+    ]
+  },
+  "phrases": {
+    "aklında olsun": {
+      "translations": [
+        "keep in mind",
+        "имей в виду",
+        "эсиңде болсун",
+        "تذكّر",
+        "garde à l’esprit"
+      ],
+      "exampleTr": "Aklında olsun, yarın erken çıkacağız.",
+      "examples": [
+        "Keep in mind, we will leave early tomorrow.",
+        "Имей в виду, завтра мы выйдем рано.",
+        "Эсиңде болсун, эртең эрте чыгабыз.",
+        "تذكّر، سنخرج مبكرًا غدًا.",
+        "Garde à l’esprit que nous partirons tôt demain."
+      ]
+    },
+    "doktor randevusu": {
+      "translations": [
+        "doctor’s appointment",
+        "приём у врача",
+        "дарыгердин кабыл алуусу",
+        "موعد مع الطبيب",
+        "rendez-vous chez le médecin"
+      ],
+      "exampleTr": "Babamın yarın doktor randevusu var.",
+      "examples": [
+        "My father has a doctor’s appointment tomorrow.",
+        "У моего отца завтра приём у врача.",
+        "Атам эртең дарыгердин кабыл алуусуна барат.",
+        "لدى أبي موعد مع الطبيب غدًا.",
+        "Mon père a rendez-vous chez le médecin demain."
+      ]
+    },
+    "haftalık program": {
+      "translations": [
+        "weekly schedule",
+        "расписание на неделю",
+        "жумалык күн тартиби",
+        "البرنامج الأسبوعي",
+        "programme de la semaine"
+      ],
+      "exampleTr": "Haftalık programımı pazar akşamı hazırlıyorum.",
+      "examples": [
+        "I prepare my weekly schedule on Sunday evening.",
+        "Я составляю расписание на неделю в воскресенье вечером.",
+        "Жумалык күн тартибимди жекшемби күнү кечинде даярдайм.",
+        "أعد برنامجي الأسبوعي مساء الأحد.",
+        "Je prépare mon programme de la semaine le dimanche soir."
+      ]
+    },
+    "öğleden sonra": {
+      "translations": [
+        "in the afternoon",
+        "после обеда",
+        "түштөн кийин",
+        "بعد الظهر",
+        "l’après-midi"
+      ],
+      "exampleTr": "Öğleden sonra kütüphaneye gideceğim.",
+      "examples": [
+        "I will go to the library in the afternoon.",
+        "После обеда я пойду в библиотеку.",
+        "Түштөн кийин китепканага барам.",
+        "سأذهب إلى المكتبة بعد الظهر.",
+        "J’irai à la bibliothèque l’après-midi."
+      ]
+    },
+    "resim kursu": {
+      "translations": [
+        "painting class",
+        "курсы рисования",
+        "сүрөт тартуу курсу",
+        "دورة رسم",
+        "cours de peinture"
+      ],
+      "exampleTr": "Resim kursu pazartesi günü başlıyor.",
+      "examples": [
+        "The painting class starts on Monday.",
+        "Курсы рисования начинаются в понедельник.",
+        "Сүрөт тартуу курсу дүйшөмбүдө башталат.",
+        "تبدأ دورة الرسم يوم الاثنين.",
+        "Le cours de peinture commence lundi."
+      ]
+    },
+    "yüzme kursu": {
+      "translations": [
+        "swimming class",
+        "курсы плавания",
+        "сууда сүзүү курсу",
+        "دورة سباحة",
+        "cours de natation"
+      ],
+      "exampleTr": "Kızımı yüzme kursuna yazdırdım.",
+      "examples": [
+        "I enrolled my daughter in a swimming class.",
+        "Я записал дочь на курсы плавания.",
+        "Кызымды сууда сүзүү курсуна жаздырдым.",
+        "سجلت ابنتي في دورة سباحة.",
+        "J’ai inscrit ma fille à un cours de natation."
+      ]
+    },
+    "voleybol kursu": {
+      "translations": [
+        "volleyball class",
+        "курсы волейбола",
+        "волейбол курсу",
+        "دورة كرة الطائرة",
+        "cours de volley-ball"
+      ],
+      "exampleTr": "Voleybol kursu saat üçte bitiyor.",
+      "examples": [
+        "The volleyball class ends at three.",
+        "Курсы волейбола заканчиваются в три часа.",
+        "Волейбол курсу саат үчтө бүтөт.",
+        "تنتهي دورة كرة الطائرة الساعة الثالثة.",
+        "Le cours de volley-ball se termine à trois heures."
+      ]
+    },
+    "yapabilir misin": {
+      "translations": [
+        "can you do it?",
+        "ты можешь это сделать?",
+        "жасай аласыңбы?",
+        "هل تستطيع فعل ذلك؟",
+        "peux-tu le faire ?"
+      ],
+      "exampleTr": "Bu işi bugün yapabilir misin?",
+      "examples": [
+        "Can you do this job today?",
+        "Ты можешь сделать эту работу сегодня?",
+        "Бул ишти бүгүн жасай аласыңбы?",
+        "هل تستطيع إنجاز هذا العمل اليوم؟",
+        "Peux-tu faire ce travail aujourd’hui ?"
+      ]
     }
   },
-  "phrases": {},
   "quizVocabulary": [
     "yapıyor",
     "günlerinde",
