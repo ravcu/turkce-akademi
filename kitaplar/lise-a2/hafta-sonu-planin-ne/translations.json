@@ -5144,18 +5144,18 @@
     "nasıl giderim": {
       "translations": [
         "how do I get there?",
-        "как мне добраться?",
+        "как мне туда добраться?",
         "кантип барсам болот?",
-        "كيف أصل؟",
+        "كيف أصل إلى هناك؟",
         "comment puis-je y aller ?"
       ],
-      "exampleTr": "Metroya nasıl giderim?",
+      "exampleTr": "Kitapçıya nasıl giderim?",
       "examples": [
-        "How do I get to the metro?",
-        "Как мне добраться до метро?",
-        "Метрого кантип барсам болот?",
-        "كيف أصل إلى المترو؟",
-        "Comment aller au métro ?"
+        "How do I get to the bookshop?",
+        "Как мне добраться до книжного магазина?",
+        "Китеп дүкөнүнө кантип барсам болот?",
+        "كيف أصل إلى متجر الكتب؟",
+        "Comment aller à la librairie ?"
       ]
     },
     "ne yapmak istersin": {
@@ -5207,6 +5207,142 @@
         "Плансыз иш рулсуз кемеге окшош.",
         "العمل بلا خطة كسفينة بلا دفة.",
         "Un travail sans plan ressemble à un navire sans gouvernail."
+      ]
+    },
+    "şu anda": {
+      "translations": [
+        "right now",
+        "прямо сейчас",
+        "азыр",
+        "الآن",
+        "en ce moment"
+      ],
+      "exampleTr": "Şu anda zemin kattayım.",
+      "examples": [
+        "I'm on the ground floor right now.",
+        "Я сейчас на нижнем этаже.",
+        "Мен азыр жер кабаттамын.",
+        "أنا الآن في الطابق الأرضي.",
+        "Je suis au rez-de-chaussée en ce moment."
+      ]
+    },
+    "zemin kat": {
+      "translations": [
+        "ground floor",
+        "нулевой этаж; первый этаж",
+        "жер кабаты",
+        "الطابق الأرضي",
+        "rez-de-chaussée"
+      ],
+      "exampleTr": "Zemin katta buluşalım.",
+      "examples": [
+        "Let's meet on the ground floor.",
+        "Встретимся на нижнем этаже.",
+        "Жер кабатта жолугалы.",
+        "لنلتقِ في الطابق الأرضي.",
+        "Retrouvons-nous au rez-de-chaussée."
+      ]
+    },
+    "birinci kat": {
+      "translations": [
+        "first floor",
+        "первый этаж",
+        "биринчи кабат",
+        "الطابق الأول",
+        "premier étage"
+      ],
+      "exampleTr": "Birinci katta gözlükçü var.",
+      "examples": [
+        "There's an optician's on the first floor.",
+        "На первом этаже есть магазин оптики.",
+        "Биринчи кабатта көз айнек дүкөнү бар.",
+        "يوجد محل نظارات في الطابق الأول.",
+        "Il y a un opticien au premier étage."
+      ]
+    },
+    "yürüyen merdivenle": {
+      "translations": [
+        "by escalator",
+        "на эскалаторе",
+        "эскалатор менен",
+        "بالسلم المتحرك",
+        "par l'escalator"
+      ],
+      "exampleTr": "Yürüyen merdivenle üst kata çıkın.",
+      "examples": [
+        "Go upstairs by escalator.",
+        "Поднимитесь наверх на эскалаторе.",
+        "Эскалатор менен үстүнкү кабатка чыккыла.",
+        "اصعدوا إلى الطابق العلوي بالسلم المتحرك.",
+        "Montez à l'étage par l'escalator."
+      ]
+    },
+    "üst kata çıkın": {
+      "translations": [
+        "go up to the upper floor",
+        "поднимитесь на верхний этаж",
+        "үстүнкү кабатка чыккыла",
+        "اصعدوا إلى الطابق العلوي",
+        "montez à l'étage supérieur"
+      ],
+      "exampleTr": "Üst kata çıkın ve sağa dönün.",
+      "examples": [
+        "Go upstairs and turn right.",
+        "Поднимитесь наверх и поверните направо.",
+        "Үстүнкү кабатка чыгып, оңго бурулгула.",
+        "اصعدوا إلى الطابق العلوي ثم انعطفوا يمينًا.",
+        "Montez à l'étage et tournez à droite."
+      ]
+    },
+    "alışveriş merkezi": {
+      "translations": [
+        "shopping centre",
+        "торговый центр",
+        "соода борбору",
+        "مركز تسوق",
+        "centre commercial"
+      ],
+      "exampleTr": "Alışveriş merkezi saat onda açılıyor.",
+      "examples": [
+        "The shopping centre opens at ten.",
+        "Торговый центр открывается в десять.",
+        "Соода борбору саат ондо ачылат.",
+        "يفتح مركز التسوق الساعة العاشرة.",
+        "Le centre commercial ouvre à dix heures."
+      ]
+    },
+    "yardım eder misiniz": {
+      "translations": [
+        "could you help me?",
+        "не могли бы вы помочь?",
+        "жардам бере аласызбы?",
+        "هل يمكنكم مساعدتي؟",
+        "pourriez-vous m'aider ?"
+      ],
+      "exampleTr": "Bana yardım eder misiniz?",
+      "examples": [
+        "Could you help me?",
+        "Не могли бы вы мне помочь?",
+        "Мага жардам бере аласызбы?",
+        "هل يمكنكم مساعدتي؟",
+        "Pourriez-vous m'aider ?"
+      ]
+    },
+    "gökkuşağı giyim": {
+      "translations": [
+        "Gökkuşağı Clothing (shop name)",
+        "магазин одежды «Гёккушагы»",
+        "«Гөккушагы» кийим дүкөнү",
+        "متجر ملابس غوككوشاغي",
+        "magasin de vêtements Gökkuşağı"
+      ],
+      "exampleTr": "Gökkuşağı Giyim mağazasına gidiyorum.",
+      "examples": [
+        "I'm going to Gökkuşağı Clothing.",
+        "Я иду в магазин одежды «Гёккушагы».",
+        "«Гөккушагы» кийим дүкөнүнө бара жатам.",
+        "أنا ذاهب إلى متجر ملابس غوككوشاغي.",
+        "Je vais au magasin de vêtements Gökkuşağı."
       ]
     }
   },
