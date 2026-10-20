@@ -8002,6 +8002,193 @@
         "نريدكم بجانبنا في يومنا الخاص.",
         "Nous aimerions vous avoir à nos côtés en ce jour spécial."
       ]
+    },
+    "bayramınız mübarek olsun": {
+      "translations": [
+        "happy holiday; blessed Eid",
+        "с праздником; благословенного праздника",
+        "майрамыңыз кут болсун",
+        "عيدكم مبارك",
+        "bonne fête; aïd moubarak"
+      ],
+      "exampleTr": "Bayramınız mübarek olsun, ailenize selamlar.",
+      "examples": [
+        "Happy holiday; my regards to your family.",
+        "С праздником, передавайте привет семье.",
+        "Майрамыңыз кут болсун, үй-бүлөңүзгө салам.",
+        "عيدكم مبارك، تحياتي لعائلتكم.",
+        "Bonne fête, mes salutations à votre famille."
+      ]
+    },
+    "doğum günün kutlu olsun": {
+      "translations": [
+        "happy birthday",
+        "с днём рождения",
+        "туулган күнүң кут болсун",
+        "عيد ميلاد سعيد",
+        "joyeux anniversaire"
+      ],
+      "exampleTr": "Doğum günün kutlu olsun, nice mutlu yıllara!",
+      "examples": [
+        "Happy birthday, many happy returns!",
+        "С днём рождения, желаю много счастливых лет!",
+        "Туулган күнүң кут болсун, дагы көп бактылуу жылдарды каалайм!",
+        "عيد ميلاد سعيد، وعقبال سنوات سعيدة كثيرة!",
+        "Joyeux anniversaire, plein de belles années à venir !"
+      ]
+    },
+    "başarılarının devamını dilerim": {
+      "translations": [
+        "I wish you continued success",
+        "желаю дальнейших успехов",
+        "ийгиликтериңдин уланышын каалайм",
+        "أتمنى لك دوام النجاح",
+        "je te souhaite de continuer à réussir"
+      ],
+      "exampleTr": "Mezuniyetin kutlu olsun, başarılarının devamını dilerim.",
+      "examples": [
+        "Congratulations on graduating; I wish you continued success.",
+        "Поздравляю с окончанием учёбы, желаю дальнейших успехов.",
+        "Окууну бүтүрүшүң менен куттуктайм, ийгиликтериңдин уланышын каалайм.",
+        "مبارك تخرجك، أتمنى لك دوام النجاح.",
+        "Félicitations pour ton diplôme, je te souhaite encore beaucoup de succès."
+      ]
+    },
+    "allah analı babalı büyütsün": {
+      "translations": [
+        "may the child grow up with both parents",
+        "пусть ребёнок растёт с обоими родителями",
+        "Алла баланы ата-энеси менен чоңойтсун",
+        "أسأل الله أن ينشأ الطفل في كنف والديه",
+        "que l'enfant grandisse auprès de ses deux parents"
+      ],
+      "exampleTr": "Bebeğiniz hayırlı olsun, Allah analı babalı büyütsün.",
+      "examples": [
+        "Congratulations on your baby; may the child grow up with both parents.",
+        "Поздравляю с малышом, пусть он растёт с обоими родителями.",
+        "Наристеңиз кут болсун, Алла аны ата-энеси менен чоңойтсун.",
+        "مبارك مولودكم، أسأل الله أن ينشأ في كنف والديه.",
+        "Félicitations pour votre bébé, qu'il grandisse auprès de ses deux parents."
+      ]
+    },
+    "allah şifa versin": {
+      "translations": [
+        "may God grant healing",
+        "пусть Бог дарует исцеление",
+        "Алла шыпаа берсин",
+        "شفاك الله",
+        "que Dieu accorde la guérison"
+      ],
+      "exampleTr": "Geçmiş olsun, Allah şifa versin.",
+      "examples": [
+        "Get well soon, may God grant healing.",
+        "Выздоравливай, пусть Бог дарует исцеление.",
+        "Тез сакай, Алла шыпаа берсин.",
+        "سلامتك، شفاك الله.",
+        "Bon rétablissement, que Dieu t'accorde la guérison."
+      ]
+    },
+    "geçmiş olsun": {
+      "translations": [
+        "get well soon",
+        "выздоравливай",
+        "тез сакай",
+        "سلامتك",
+        "bon rétablissement"
+      ],
+      "exampleTr": "Geçmiş olsun, umarım çabuk iyileşirsin.",
+      "examples": [
+        "Get well soon, I hope you recover quickly.",
+        "Выздоравливай, надеюсь, ты скоро поправишься.",
+        "Тез сакай, бат айыгып кетесиң деп үмүттөнөм.",
+        "سلامتك، أتمنى أن تتعافى سريعًا.",
+        "Bon rétablissement, j'espère que tu guériras vite."
+      ]
+    },
+    "hoş geldiniz": {
+      "translations": [
+        "welcome",
+        "добро пожаловать",
+        "кош келиңиздер",
+        "أهلًا وسهلًا",
+        "bienvenue"
+      ],
+      "exampleTr": "Düğünümüze hoş geldiniz.",
+      "examples": [
+        "Welcome to our wedding.",
+        "Добро пожаловать на нашу свадьбу.",
+        "Тоюбузга кош келиңиздер.",
+        "أهلًا وسهلًا بكم في زفافنا.",
+        "Bienvenue à notre mariage."
+      ]
+    },
+    "hoş bulduk": {
+      "translations": [
+        "thank you for the welcome",
+        "спасибо за приём",
+        "кош көрдүк",
+        "أهلًا بكم أيضًا",
+        "merci de votre accueil"
+      ],
+      "exampleTr": "Hoş bulduk, davetiniz için teşekkürler.",
+      "examples": [
+        "Thank you for the welcome and the invitation.",
+        "Спасибо за тёплый приём и приглашение.",
+        "Кош көрдүк, чакырууңуз үчүн рахмат.",
+        "شكرًا على الترحيب والدعوة.",
+        "Merci pour votre accueil et votre invitation."
+      ]
+    },
+    "elini öpeyim": {
+      "translations": [
+        "let me kiss your hand",
+        "дай поцелую твою руку",
+        "колуңузду өбөйүн",
+        "دعني أقبّل يدك",
+        "laisse-moi embrasser ta main"
+      ],
+      "exampleTr": "Dedeciğim, elini öpeyim.",
+      "examples": [
+        "Grandpa, let me kiss your hand.",
+        "Дедушка, дай поцеловать твою руку.",
+        "Чоң атакем, колуңузду өбөйүн.",
+        "يا جدي، دعني أقبّل يدك.",
+        "Cher grand-père, laisse-moi embrasser ta main."
+      ]
+    },
+    "darısı başına": {
+      "translations": [
+        "may you be next",
+        "пусть и тебе так повезёт",
+        "сага да насип болсун",
+        "عقبالك",
+        "à ton tour"
+      ],
+      "exampleTr": "Teşekkür ederim, darısı başına!",
+      "examples": [
+        "Thank you, may you be next!",
+        "Спасибо, пусть и тебе так повезёт!",
+        "Рахмат, сага да насип болсун!",
+        "شكرًا، عقبالك!",
+        "Merci, à ton tour !"
+      ]
+    },
+    "mutlu mesut": {
+      "translations": [
+        "happily and contentedly",
+        "счастливо и благополучно",
+        "бактылуу жана бейпил",
+        "بسعادة وهناء",
+        "heureux et comblés"
+      ],
+      "exampleTr": "Yeni evliler mutlu mesut yaşasın.",
+      "examples": [
+        "May the newlyweds live happily.",
+        "Пусть молодожёны живут счастливо.",
+        "Жаңы үйлөнгөндөр бактылуу жашасын.",
+        "ليعش العروسان بسعادة وهناء.",
+        "Que les mariés vivent heureux et comblés."
+      ]
     }
   },
   "examples": {
