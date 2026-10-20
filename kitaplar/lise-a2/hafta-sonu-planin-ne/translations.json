@@ -4051,6 +4051,176 @@
         "محطة المترو هنا.",
         "La station de métro est ici."
       ]
+    },
+    "sağa dön": {
+      "translations": [
+        "turn right",
+        "поверни направо",
+        "оңго бурул",
+        "انعطف يمينًا",
+        "tourne à droite"
+      ],
+      "exampleTr": "Işıklardan sağa dön.",
+      "examples": [
+        "Turn right at the traffic lights.",
+        "Поверни направо на светофоре.",
+        "Светофордон оңго бурул.",
+        "انعطف يمينًا عند إشارة المرور.",
+        "Tourne à droite au feu."
+      ]
+    },
+    "düz git": {
+      "translations": [
+        "go straight",
+        "иди прямо",
+        "түз бар",
+        "اذهب مستقيمًا",
+        "va tout droit"
+      ],
+      "exampleTr": "İki yüz metre düz git.",
+      "examples": [
+        "Go straight for two hundred metres.",
+        "Иди прямо двести метров.",
+        "Эки жүз метр түз бар.",
+        "اذهب مستقيمًا مئتي متر.",
+        "Va tout droit sur deux cents mètres."
+      ]
+    },
+    "düz yürü": {
+      "translations": [
+        "walk straight",
+        "иди прямо пешком",
+        "түз бас",
+        "امشِ مستقيمًا",
+        "marche tout droit"
+      ],
+      "exampleTr": "Biraz düz yürü.",
+      "examples": [
+        "Walk straight for a while.",
+        "Пройди немного прямо.",
+        "Бир аз түз бас.",
+        "امشِ مستقيمًا قليلًا.",
+        "Marche tout droit un moment."
+      ]
+    },
+    "karşıya geç": {
+      "translations": [
+        "cross to the other side",
+        "перейди на другую сторону",
+        "аркы бетке өт",
+        "اعبر إلى الجهة الأخرى",
+        "traverse de l'autre côté"
+      ],
+      "exampleTr": "Yaya geçidinden karşıya geç.",
+      "examples": [
+        "Cross at the pedestrian crossing.",
+        "Перейди дорогу по пешеходному переходу.",
+        "Жөө адамдар өтүүчү жерден аркы бетке өт.",
+        "اعبر من ممر المشاة.",
+        "Traverse au passage piéton."
+      ]
+    },
+    "yemek yeriz": {
+      "translations": [
+        "we eat; we have a meal",
+        "мы едим",
+        "биз тамак жейбиз",
+        "نتناول الطعام",
+        "nous mangeons"
+      ],
+      "exampleTr": "Öğlen burada yemek yeriz.",
+      "examples": [
+        "We have lunch here.",
+        "Мы обедаем здесь.",
+        "Түштө бул жерден тамак жейбиз.",
+        "نتناول الغداء هنا.",
+        "Nous déjeunons ici."
+      ]
+    },
+    "kitap okuruz": {
+      "translations": [
+        "we read books",
+        "мы читаем книги",
+        "биз китеп окуйбуз",
+        "نقرأ الكتب",
+        "nous lisons des livres"
+      ],
+      "exampleTr": "Akşam kitap okuruz.",
+      "examples": [
+        "We read books in the evening.",
+        "Вечером мы читаем книги.",
+        "Кечинде китеп окуйбуз.",
+        "نقرأ الكتب في المساء.",
+        "Nous lisons des livres le soir."
+      ]
+    },
+    "ilaç alırız": {
+      "translations": [
+        "we buy medicine",
+        "мы покупаем лекарства",
+        "биз дары сатып алабыз",
+        "نشتري الدواء",
+        "nous achetons des médicaments"
+      ],
+      "exampleTr": "Eczaneden ilaç alırız.",
+      "examples": [
+        "We buy medicine at the pharmacy.",
+        "Мы покупаем лекарства в аптеке.",
+        "Дарыканадан дары сатып алабыз.",
+        "نشتري الدواء من الصيدلية.",
+        "Nous achetons des médicaments à la pharmacie."
+      ]
+    },
+    "muayane oluruz": {
+      "translations": [
+        "we get examined by a doctor",
+        "мы проходим медицинский осмотр",
+        "биз медициналык кароодон өтөбүз",
+        "نخضع لفحص طبي",
+        "nous passons un examen médical"
+      ],
+      "exampleTr": "Hastanede muayene oluruz.",
+      "examples": [
+        "We get examined at the hospital.",
+        "Мы проходим осмотр в больнице.",
+        "Ооруканада медициналык кароодон өтөбүз.",
+        "نخضع لفحص طبي في المستشفى.",
+        "Nous passons un examen médical à l'hôpital."
+      ]
+    },
+    "ziyaret ederiz": {
+      "translations": [
+        "we visit",
+        "мы посещаем",
+        "биз барып көрөбүз",
+        "نزور",
+        "nous visitons"
+      ],
+      "exampleTr": "Hafta sonu müzeyi ziyaret ederiz.",
+      "examples": [
+        "We visit the museum on weekends.",
+        "По выходным мы посещаем музей.",
+        "Дем алышта музейге барабыз.",
+        "نزور المتحف في عطلة نهاية الأسبوع.",
+        "Nous visitons le musée le week-end."
+      ]
+    },
+    "kullanabilirsin": {
+      "translations": [
+        "you can use",
+        "ты можешь использовать",
+        "колдоно аласың",
+        "يمكنك استخدام",
+        "tu peux utiliser"
+      ],
+      "exampleTr": "Bu ifadeleri kullanabilirsin.",
+      "examples": [
+        "You can use these expressions.",
+        "Ты можешь использовать эти выражения.",
+        "Бул туюнтмаларды колдоно аласың.",
+        "يمكنك استخدام هذه التعبيرات.",
+        "Tu peux utiliser ces expressions."
+      ]
     }
   },
   "examples": {
