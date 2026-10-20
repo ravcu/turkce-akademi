@@ -11,7 +11,7 @@ def overlap(a,b):
     iy=max(0,min(a["y"]+a["h"],b["y"]+b["h"])-max(a["y"],b["y"]))
     return ix*iy/max(1e-12,min(a["w"]*a["h"],b["w"]*b["h"]))
 source=json.loads(ROOT.joinpath("source-text.json").read_text())
-source=[text.replace("￾\\n","").replace("￾","").replace("￾","") for text in source]
+source=[text.replace("￾\n","").replace("￾","").replace("￾","") for text in source]
 pages=[]
 report={"method":"tesseract tur, PSM 3 + supplementary PSM 11","reviewed":False,"pages":[]}
 for n in range(1,21):
@@ -31,7 +31,7 @@ for n in range(1,21):
                     if not text or not any(c.isalnum() for c in text): continue
                     if float(row["conf"])<(35 if psm==3 else 65): continue
                     candidate=norm(text).replace("’","'")
-                    if candidate not in allowed and not candidate.isdigit() and not re.fullmatch(r"[SMV]\\.\\d{3}",text):
+                    if candidate not in allowed and not candidate.isdigit() and not re.fullmatch(r"[SMV]\.\d{3}",text):
                         continue
                     box={"t":text,"x":round(int(row["left"])/width,6),"y":round(int(row["top"])/height,6),"w":round(int(row["width"])/width,6),"h":round(int(row["height"])/height,6)}
                     if psm==11 and any(overlap(box,b)>.55 for b in words):continue
@@ -50,7 +50,7 @@ for slug in ("ailem-ve-evim","bir-gunum","sehir-gezisi","bugun-hava-nasil","cars
     if not path.exists():continue
     old=json.loads(path.read_text())
     for k in base:base[k].update(old.get(k,{}))
-keys={norm(w) for text in source for w in text.replace("￾\\n","").split() if any(c.isalpha() for c in w)}
+keys={norm(w) for text in source for w in text.replace("￾\n","").split() if any(c.isalpha() for c in w)}
 keys.update(norm(w["t"]) for p in pages for w in p["words"])
 glossary={k:{key:value for key,value in base[k].items() if key in keys} for k in ("words","forms","examples","lemmas")}
 glossary["phrases"]={key:value for key,value in base["phrases"].items() if all(norm(w) in keys for w in key.split())}
