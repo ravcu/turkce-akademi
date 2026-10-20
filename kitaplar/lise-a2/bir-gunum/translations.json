@@ -3618,6 +3618,167 @@
       "менин кызыгууларым",
       "هواياتي",
       "mes loisirs"
+    ],
+    "rutinler": [
+      "routines",
+      "привычные действия",
+      "күнүмдүк иштер",
+      "أعمال روتينية",
+      "habitudes"
+    ],
+    "beğenilerini": [
+      "their likes",
+      "свои предпочтения",
+      "жактырган нерселерин",
+      "ما يعجبه",
+      "ses goûts"
+    ],
+    "karşılaştırma": [
+      "comparison",
+      "сравнение",
+      "салыштыруу",
+      "مقارنة",
+      "comparaison"
+    ],
+    "yorumlama": [
+      "interpretation",
+      "интерпретация",
+      "чечмелөө",
+      "تفسير",
+      "interprétation"
+    ],
+    "günlük": [
+      "daily",
+      "ежедневный",
+      "күнүмдүк",
+      "يومي",
+      "quotidien"
+    ],
+    "rutinlerle": [
+      "with routines",
+      "с привычными действиями",
+      "күнүмдүк иштер менен",
+      "بالأعمال الروتينية",
+      "avec les habitudes"
+    ],
+    "rutinlerinizi": [
+      "your routines",
+      "ваши привычные действия",
+      "күнүмдүк иштериңизди",
+      "أعمالكم الروتينية",
+      "vos habitudes"
+    ],
+    "yataktan": [
+      "out of bed",
+      "с постели",
+      "төшөктөн",
+      "من السرير",
+      "du lit"
+    ],
+    "kalkmak": [
+      "to get up",
+      "вставать",
+      "туруу",
+      "أن ينهض",
+      "se lever"
+    ],
+    "evden": [
+      "from home",
+      "из дома",
+      "үйдөн",
+      "من المنزل",
+      "de la maison"
+    ],
+    "çıkmak": [
+      "to leave; go out",
+      "выходить",
+      "чыгуу",
+      "أن يخرج",
+      "sortir"
+    ],
+    "yatmak": [
+      "to go to bed",
+      "ложиться спать",
+      "уктоого жатуу",
+      "أن ينام",
+      "se coucher"
+    ],
+    "ödev": [
+      "homework",
+      "домашнее задание",
+      "үй тапшырмасы",
+      "واجب منزلي",
+      "devoir"
+    ],
+    "dersten": [
+      "from class; after class",
+      "с урока; после урока",
+      "сабактан",
+      "من الدرس",
+      "du cours"
+    ],
+    "giyinmek": [
+      "to get dressed",
+      "одеваться",
+      "кийинүү",
+      "أن يرتدي ملابسه",
+      "s’habiller"
+    ],
+    "yüzünü": [
+      "his/her face",
+      "своё лицо",
+      "бетин",
+      "وجهه",
+      "son visage"
+    ],
+    "yıkamak": [
+      "to wash",
+      "мыть",
+      "жуу",
+      "أن يغسل",
+      "laver"
+    ],
+    "uzay": [
+      "space",
+      "космос",
+      "космос",
+      "الفضاء",
+      "espace"
+    ],
+    "mekiği": [
+      "shuttle (in a compound)",
+      "шаттл",
+      "чөлмөгү",
+      "مكوك",
+      "navette"
+    ],
+    "astronot": [
+      "astronaut",
+      "космонавт",
+      "космонавт",
+      "رائد فضاء",
+      "astronaute"
+    ],
+    "çekimi": [
+      "attraction; pull",
+      "притяжение",
+      "тартылуу",
+      "جاذبية",
+      "attraction"
+    ],
+    "istasyonu": [
+      "station (in a compound)",
+      "станция",
+      "станциясы",
+      "محطة",
+      "station"
+    ],
+    "neredeler": [
+      "where are they?",
+      "где они?",
+      "алар кайда?",
+      "أين هم؟",
+      "où sont-ils ?"
     ]
   },
   "forms": {
@@ -9735,6 +9896,236 @@
         "من هواياتي الرسم والسباحة.",
         "Mes loisirs comprennent la peinture et la natation."
       ]
+    ],
+    "rutinler": [
+      "Sabah rutinlerim arasında yürüyüş yapmak var.",
+      [
+        "My morning routines include going for a walk.",
+        "В мои утренние привычки входит прогулка.",
+        "Эртең мененки күнүмдүк иштеримдин арасында сейилдөө бар.",
+        "من عاداتي الصباحية المشي.",
+        "Mes habitudes du matin comprennent une promenade."
+      ]
+    ],
+    "beğenilerini": [
+      "Arkadaşım beğenilerini açıkça ifade eder.",
+      [
+        "My friend expresses their likes clearly.",
+        "Мой друг ясно выражает свои предпочтения.",
+        "Досум жактырган нерселерин ачык айтат.",
+        "يعبّر صديقي بوضوح عما يعجبه.",
+        "Mon ami exprime clairement ses goûts."
+      ]
+    ],
+    "karşılaştırma": [
+      "Fiyat karşılaştırma sitelerini kullanıyorum.",
+      [
+        "I use price comparison websites.",
+        "Я пользуюсь сайтами сравнения цен.",
+        "Бааларды салыштыруу сайттарын колдоном.",
+        "أستخدم مواقع مقارنة الأسعار.",
+        "J’utilise des sites de comparaison de prix."
+      ]
+    ],
+    "yorumlama": [
+      "Bu derste grafik yorumlama çalışması yaptık.",
+      [
+        "We practised interpreting charts in this lesson.",
+        "На этом уроке мы учились интерпретировать графики.",
+        "Бул сабакта графиктерди чечмелөө боюнча иштедик.",
+        "تدربنا على تفسير الرسوم البيانية في هذا الدرس.",
+        "Nous avons travaillé sur l’interprétation des graphiques pendant ce cours."
+      ]
+    ],
+    "günlük": [
+      "Günlük işlerimi sabah planlarım.",
+      [
+        "I plan my daily tasks in the morning.",
+        "Я планирую ежедневные дела утром.",
+        "Күнүмдүк иштеримди эртең менен пландайм.",
+        "أخطط لأعمالي اليومية صباحًا.",
+        "Je planifie mes tâches quotidiennes le matin."
+      ]
+    ],
+    "rutinlerle": [
+      "Yeni rutinlerle hayatım daha düzenli oldu.",
+      [
+        "My life became more organised with new routines.",
+        "С новыми привычками моя жизнь стала более организованной.",
+        "Жаңы күнүмдүк иштер менен жашоом тартипке келди.",
+        "أصبحت حياتي أكثر تنظيمًا بفضل عادات جديدة.",
+        "Ma vie est devenue plus organisée grâce à de nouvelles habitudes."
+      ]
+    ],
+    "rutinlerinizi": [
+      "Günlük rutinlerinizi bir deftere yazın.",
+      [
+        "Write your daily routines in a notebook.",
+        "Запишите свои ежедневные привычки в тетрадь.",
+        "Күнүмдүк иштериңизди дептерге жазыңыз.",
+        "اكتبوا أعمالكم اليومية في دفتر.",
+        "Notez vos habitudes quotidiennes dans un cahier."
+      ]
+    ],
+    "yataktan": [
+      "Sabah yataktan erken kalktım.",
+      [
+        "I got out of bed early this morning.",
+        "Утром я рано встал с постели.",
+        "Эртең менен төшөктөн эрте турдум.",
+        "نهضت من السرير مبكرًا صباحًا.",
+        "Je me suis levé tôt ce matin."
+      ]
+    ],
+    "kalkmak": [
+      "Erken kalkmak için erken yatıyorum.",
+      [
+        "I go to bed early so I can get up early.",
+        "Я рано ложусь, чтобы рано вставать.",
+        "Эрте туруш үчүн эрте жатам.",
+        "أنام مبكرًا لكي أستيقظ مبكرًا.",
+        "Je me couche tôt pour me lever tôt."
+      ]
+    ],
+    "evden": [
+      "Bugün evden saat sekizde çıktım.",
+      [
+        "I left home at eight today.",
+        "Сегодня я вышел из дома в восемь.",
+        "Бүгүн үйдөн саат сегизде чыктым.",
+        "خرجت من المنزل اليوم الساعة الثامنة.",
+        "Aujourd’hui, je suis parti de chez moi à huit heures."
+      ]
+    ],
+    "çıkmak": [
+      "Akşam dışarı çıkmak istiyorum.",
+      [
+        "I want to go out this evening.",
+        "Вечером я хочу выйти.",
+        "Кечинде сыртка чыккым келет.",
+        "أريد الخروج مساءً.",
+        "Je veux sortir ce soir."
+      ]
+    ],
+    "yatmak": [
+      "Bu gece erken yatmak istiyorum.",
+      [
+        "I want to go to bed early tonight.",
+        "Сегодня я хочу лечь спать рано.",
+        "Бүгүн кечинде эрте жаткым келет.",
+        "أريد النوم مبكرًا الليلة.",
+        "Je veux me coucher tôt ce soir."
+      ]
+    ],
+    "ödev": [
+      "Bugün çok ödev var.",
+      [
+        "There is a lot of homework today.",
+        "Сегодня много домашних заданий.",
+        "Бүгүн үй тапшырмасы көп.",
+        "هناك واجبات منزلية كثيرة اليوم.",
+        "Il y a beaucoup de devoirs aujourd’hui."
+      ]
+    ],
+    "dersten": [
+      "Dersten sonra markete uğradım.",
+      [
+        "I stopped by the shop after class.",
+        "После урока я зашёл в магазин.",
+        "Сабактан кийин дүкөнгө кирдим.",
+        "مررت بالمتجر بعد الدرس.",
+        "Je suis passé au magasin après le cours."
+      ]
+    ],
+    "giyinmek": [
+      "Giyinmek için odama gittim.",
+      [
+        "I went to my room to get dressed.",
+        "Я пошёл в комнату, чтобы одеться.",
+        "Кийинүү үчүн бөлмөмө бардым.",
+        "ذهبت إلى غرفتي لارتداء ملابسي.",
+        "Je suis allé dans ma chambre pour m’habiller."
+      ]
+    ],
+    "yüzünü": [
+      "Çocuk sabah yüzünü yıkadı.",
+      [
+        "The child washed their face in the morning.",
+        "Ребёнок утром умыл лицо.",
+        "Бала эртең менен бетин жууду.",
+        "غسل الطفل وجهه صباحًا.",
+        "L’enfant s’est lavé le visage le matin."
+      ]
+    ],
+    "yıkamak": [
+      "Ellerimi yıkamak için lavaboya gittim.",
+      [
+        "I went to the sink to wash my hands.",
+        "Я подошёл к раковине, чтобы вымыть руки.",
+        "Колумду жууш үчүн жуунгучка бардым.",
+        "ذهبت إلى المغسلة لغسل يديّ.",
+        "Je suis allé au lavabo pour me laver les mains."
+      ]
+    ],
+    "uzay": [
+      "Kardeşim uzay hakkında kitap okuyor.",
+      [
+        "My brother is reading a book about space.",
+        "Мой брат читает книгу о космосе.",
+        "Иним космос жөнүндө китеп окуп жатат.",
+        "يقرأ أخي كتابًا عن الفضاء.",
+        "Mon frère lit un livre sur l’espace."
+      ]
+    ],
+    "mekiği": [
+      "Uzay mekiği başarıyla indi.",
+      [
+        "The space shuttle landed successfully.",
+        "Космический шаттл успешно приземлился.",
+        "Космос чөлмөгү ийгиликтүү конду.",
+        "هبط مكوك الفضاء بنجاح.",
+        "La navette spatiale a atterri avec succès."
+      ]
+    ],
+    "astronot": [
+      "Kızım astronot olmak istiyor.",
+      [
+        "My daughter wants to be an astronaut.",
+        "Моя дочь хочет стать космонавтом.",
+        "Кызым космонавт болгусу келет.",
+        "تريد ابنتي أن تصبح رائدة فضاء.",
+        "Ma fille veut devenir astronaute."
+      ]
+    ],
+    "çekimi": [
+      "Yer çekimi cisimleri yere doğru çeker.",
+      [
+        "Gravity pulls objects towards the ground.",
+        "Сила тяжести притягивает предметы к земле.",
+        "Жердин тартылуу күчү нерселерди жерге тартат.",
+        "تجذب الجاذبية الأجسام نحو الأرض.",
+        "La gravité attire les objets vers le sol."
+      ]
+    ],
+    "istasyonu": [
+      "Uzay istasyonu Dünya’nın çevresinde dönüyor.",
+      [
+        "The space station orbits Earth.",
+        "Космическая станция вращается вокруг Земли.",
+        "Космос станциясы Жерди айланып жүрөт.",
+        "تدور المحطة الفضائية حول الأرض.",
+        "La station spatiale tourne autour de la Terre."
+      ]
+    ],
+    "neredeler": [
+      "Çocuklar neredeler, bahçede mi?",
+      [
+        "Where are the children, in the garden?",
+        "Где дети, в саду?",
+        "Балдар кайда, бакчадабы?",
+        "أين الأطفال، هل هم في الحديقة؟",
+        "Où sont les enfants, dans le jardin ?"
+      ]
     ]
   },
   "phrases": {
@@ -9872,6 +10263,125 @@
         "Бул ишти бүгүн жасай аласыңбы?",
         "هل تستطيع إنجاز هذا العمل اليوم؟",
         "Peux-tu faire ce travail aujourd’hui ?"
+      ]
+    },
+    "uzay mekiği": {
+      "translations": [
+        "space shuttle",
+        "космический шаттл",
+        "космос чөлмөгү",
+        "مكوك فضاء",
+        "navette spatiale"
+      ],
+      "exampleTr": "Uzay mekiği başarıyla indi.",
+      "examples": [
+        "The space shuttle landed successfully.",
+        "Космический шаттл успешно приземлился.",
+        "Космос чөлмөгү ийгиликтүү конду.",
+        "هبط مكوك الفضاء بنجاح.",
+        "La navette spatiale a atterri avec succès."
+      ]
+    },
+    "uzay istasyonu": {
+      "translations": [
+        "space station",
+        "космическая станция",
+        "космос станциясы",
+        "محطة فضائية",
+        "station spatiale"
+      ],
+      "exampleTr": "Uzay istasyonu Dünya’nın çevresinde dönüyor.",
+      "examples": [
+        "The space station orbits Earth.",
+        "Космическая станция вращается вокруг Земли.",
+        "Космос станциясы Жерди айланып жүрөт.",
+        "تدور المحطة الفضائية حول الأرض.",
+        "La station spatiale tourne autour de la Terre."
+      ]
+    },
+    "yer çekimi": {
+      "translations": [
+        "gravity",
+        "сила тяжести",
+        "жердин тартылуу күчү",
+        "الجاذبية",
+        "gravité"
+      ],
+      "exampleTr": "Yer çekimi cisimleri yere doğru çeker.",
+      "examples": [
+        "Gravity pulls objects towards the ground.",
+        "Сила тяжести притягивает предметы к земле.",
+        "Жердин тартылуу күчү нерселерди жерге тартат.",
+        "تجذب الجاذبية الأجسام نحو الأرض.",
+        "La gravité attire les objets vers le sol."
+      ]
+    },
+    "yataktan kalkmak": {
+      "translations": [
+        "to get out of bed",
+        "вставать с постели",
+        "төшөктөн туруу",
+        "النهوض من السرير",
+        "se lever du lit"
+      ],
+      "exampleTr": "Sabah yataktan erken kalktım.",
+      "examples": [
+        "I got out of bed early this morning.",
+        "Утром я рано встал с постели.",
+        "Эртең менен төшөктөн эрте турдум.",
+        "نهضت من السرير مبكرًا صباحًا.",
+        "Je me suis levé tôt ce matin."
+      ]
+    },
+    "evden çıkmak": {
+      "translations": [
+        "to leave home",
+        "выходить из дома",
+        "үйдөн чыгуу",
+        "الخروج من المنزل",
+        "sortir de chez soi"
+      ],
+      "exampleTr": "Bugün evden saat sekizde çıktım.",
+      "examples": [
+        "I left home at eight today.",
+        "Сегодня я вышел из дома в восемь.",
+        "Бүгүн үйдөн саат сегизде чыктым.",
+        "خرجت من المنزل اليوم الساعة الثامنة.",
+        "Aujourd’hui, je suis parti de chez moi à huit heures."
+      ]
+    },
+    "ödev yapmak": {
+      "translations": [
+        "to do homework",
+        "делать домашнее задание",
+        "үй тапшырмасын аткаруу",
+        "أداء الواجب المنزلي",
+        "faire ses devoirs"
+      ],
+      "exampleTr": "Bugün çok ödev var.",
+      "examples": [
+        "There is a lot of homework today.",
+        "Сегодня много домашних заданий.",
+        "Бүгүн үй тапшырмасы көп.",
+        "هناك واجبات منزلية كثيرة اليوم.",
+        "Il y a beaucoup de devoirs aujourd’hui."
+      ]
+    },
+    "elini yüzünü yıkamak": {
+      "translations": [
+        "to wash one’s hands and face",
+        "мыть руки и лицо",
+        "колун-бетин жуу",
+        "غسل اليدين والوجه",
+        "se laver les mains et le visage"
+      ],
+      "exampleTr": "Ellerimi yıkamak için lavaboya gittim.",
+      "examples": [
+        "I went to the sink to wash my hands.",
+        "Я подошёл к раковине, чтобы вымыть руки.",
+        "Колумду жууш үчүн жуунгучка бардым.",
+        "ذهبت إلى المغسلة لغسل يديّ.",
+        "Je suis allé au lavabo pour me laver les mains."
       ]
     }
   },
