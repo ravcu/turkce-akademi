@@ -54,3 +54,49 @@ missing=sorted(k for k in keys if k and k not in glossary["words"] and k not in 
 report["missingMeanings"]=missing
 report["uniqueEntries"]=len(keys)
 ROOT.joinpath("coverage.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
+
+# Apply unit-specific editorial translations after inherited entries.
+editorial=ROOT/"editorial.json"
+if editorial.exists():
+    edits=json.loads(editorial.read_text())
+    for section in ("words","forms","examples","phrases"):
+        glossary.setdefault(section,{}).update(edits.get(section,{}))
+# Names retain their identity across languages. Inflected names need separate editorial review.
+names={"Rina","Habiba","Armin","Karima","Hiba","Adel","Amira","Nisa","Melik","Muhammad","Hayfa","Adim","Lili","Ayşa","Burak","Sema","Mustafa","Betül","Selin","Selçuk","Bayraktar","Mesut","Barış","Manço","Güngör","Robert","Sarıyer"}
+for name in names:
+    key=norm(name)
+    if key in keys and key not in glossary["words"]:glossary["words"][key]=[name]*5
+def token(s):
+    return norm(s).replace("’","'").replace("â","a").replace("î","i")
+phrase_keys=sorted(glossary["phrases"],key=lambda s:len(s.split()),reverse=True)
+for page in pages:
+    words=page["words"];groups=[];used=set()
+    for phrase in phrase_keys:
+        parts=[token(w) for w in phrase.split()]
+        if len(parts)<2:continue
+        for i,word in enumerate(words):
+            if i in used or token(word["t"])!=parts[0]:continue
+            indices=[i]
+            for part in parts[1:]:
+                last=words[indices[-1]]
+                candidates=[]
+                for j,other in enumerate(words):
+                    if j in indices or j in used or token(other["t"])!=part:continue
+                    same=abs(other["y"]-last["y"])<max(last["h"],other["h"])*.6 and 0<=other["x"]-(last["x"]+last["w"])<.075
+                    wrap=0<other["y"]-last["y"]<max(.045,last["h"]*2.2) and other["x"]<last["x"] and abs(other["y"]-last["y"])>last["h"]*.5
+                    if same or wrap:candidates.append((0 if same else 1,abs(other["y"]-last["y"])+abs(other["x"]-last["x"])*.1,j))
+                if not candidates:break
+                indices.append(min(candidates)[2])
+            if len(indices)==len(parts):
+                groups.append({"key":phrase,"text":" ".join(words[j]["t"] for j in indices),"indices":indices})
+                used.update(indices)
+    page["phraseGroups"]=groups
+    page.pop("phrases",None)
+# Preserve only vocabulary actually present; the quiz must not include another unit's words.
+glossary["quizVocabulary"]=sorted(k for k in keys if k in glossary["words"] and len(k)>2 and not k.isdigit() and k not in {norm(n) for n in names})
+ROOT.joinpath("pages.json").write_text(json.dumps(pages,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+ROOT.joinpath("translations.json").write_text(json.dumps(glossary,ensure_ascii=False,separators=(",",":")),encoding="utf-8")
+report["missingMeanings"]=sorted(k for k in keys if k and k not in glossary["words"] and k not in glossary["forms"])
+report["missingExamples"]=sorted(k for k in keys if k not in glossary["examples"] and not glossary["forms"].get(k,{}).get("exampleTr"))
+report["phraseGroups"]=sum(len(p.get("phraseGroups",[])) for p in pages)
+ROOT.joinpath("coverage.json").write_text(json.dumps(report,ensure_ascii=False,indent=2),encoding="utf-8")
