@@ -6353,7 +6353,7 @@
       "his/her life; the life",
       "его/её жизнь",
       "жашоосу",
-      "حياته؛ حياته",
+      "حياته؛ حياتها",
       "sa vie ; la vie"
     ],
     "çalışmaya": [
@@ -11550,6 +11550,2450 @@
         "Бул китепче аркылуу адамдарга жаңы курстар жөнүндө маалымат беребиз.",
         "نعلم الناس بالدورات الجديدة من خلال هذا الكتيب.",
         "Cette brochure nous permet d’informer les gens des nouveaux cours."
+      ]
+    },
+    "yedide": {
+      "lemma": "yedi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "seven",
+        "семь",
+        "жети",
+        "سبعة",
+        "sept"
+      ],
+      "formTranslations": [
+        "at seven",
+        "в семь",
+        "саат жетиде",
+        "الساعة السابعة",
+        "à sept heures"
+      ],
+      "exampleTr": "Yedide kahvaltı yaparım.",
+      "examples": [
+        "I have breakfast at seven.",
+        "Я завтракаю в семь.",
+        "Саат жетиде эртең мененки тамакты ичем.",
+        "أتناول الفطور الساعة السابعة.",
+        "Je prends mon petit-déjeuner à sept heures."
+      ]
+    },
+    "yaparsın": {
+      "lemma": "yapmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to do; to make",
+        "делать",
+        "жасоо",
+        "الفعل؛ الصنع",
+        "faire"
+      ],
+      "formTranslations": [
+        "you do",
+        "ты делаешь",
+        "сен жасайсың",
+        "تفعل",
+        "tu fais"
+      ],
+      "exampleTr": "Hafta sonu genellikle ne yaparsın?",
+      "examples": [
+        "What do you usually do at the weekend?",
+        "Что ты обычно делаешь по выходным?",
+        "Дем алышта адатта эмне кыласың?",
+        "ماذا تفعل عادة في عطلة نهاية الأسبوع؟",
+        "Que fais-tu généralement le week-end ?"
+      ]
+    },
+    "uyanırım": {
+      "lemma": "uyanmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wake up",
+        "просыпаться",
+        "ойгонуу",
+        "الاستيقاظ",
+        "se réveiller"
+      ],
+      "formTranslations": [
+        "I wake up",
+        "я просыпаюсь",
+        "ойгоном",
+        "أستيقظ",
+        "je me réveille"
+      ],
+      "exampleTr": "Her sabah erken uyanırım.",
+      "examples": [
+        "I wake up early every morning.",
+        "Я просыпаюсь рано каждое утро.",
+        "Күн сайын эртең менен эрте ойгоном.",
+        "أستيقظ مبكرًا كل صباح.",
+        "Je me réveille tôt chaque matin."
+      ]
+    },
+    "saatlere": {
+      "lemma": "saat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hour; time",
+        "час; время",
+        "саат",
+        "ساعة؛ وقت",
+        "heure"
+      ],
+      "formTranslations": [
+        "according to/to the times",
+        "по часам; к часам",
+        "сааттарга",
+        "إلى الساعات؛ حسب المواعيد",
+        "aux horaires"
+      ],
+      "exampleTr": "Saatlere göre günlük programını düzenle.",
+      "examples": [
+        "Arrange your daily schedule according to the times.",
+        "Составь распорядок дня по указанному времени.",
+        "Көрсөтүлгөн сааттарга ылайык күн тартибиңди түз.",
+        "نظّم برنامجك اليومي حسب المواعيد.",
+        "Organise ton programme quotidien en fonction des horaires."
+      ]
+    },
+    "görselin": {
+      "lemma": "görsel",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "image; visual",
+        "изображение",
+        "сүрөт",
+        "صورة",
+        "image"
+      ],
+      "formTranslations": [
+        "of the image",
+        "изображения",
+        "сүрөттүн",
+        "للصورة",
+        "de l’image"
+      ],
+      "exampleTr": "Görselin içerisindeki nesneleri sayın.",
+      "examples": [
+        "Count the objects in the image.",
+        "Посчитайте предметы на изображении.",
+        "Сүрөттүн ичиндеги буюмдарды санаңыз.",
+        "عدّوا الأشياء الموجودة في الصورة.",
+        "Comptez les objets dans l’image."
+      ]
+    },
+    "doktora": {
+      "lemma": "doktor",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "doctor",
+        "врач",
+        "дарыгер",
+        "طبيب",
+        "médecin"
+      ],
+      "formTranslations": [
+        "to the doctor",
+        "к врачу",
+        "дарыгерге",
+        "إلى الطبيب",
+        "chez le médecin"
+      ],
+      "exampleTr": "Uykusuzluk şikâyetiyle doktora gittim.",
+      "examples": [
+        "I went to the doctor because I could not sleep.",
+        "Я обратился к врачу с жалобой на бессонницу.",
+        "Уйкусуздукка даттанып дарыгерге бардым.",
+        "ذهبت إلى الطبيب بسبب الأرق.",
+        "Je suis allé chez le médecin pour des insomnies."
+      ]
+    },
+    "uyandıktan": {
+      "lemma": "uyanmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wake up",
+        "просыпаться",
+        "ойгонуу",
+        "الاستيقاظ",
+        "se réveiller"
+      ],
+      "formTranslations": [
+        "after waking up",
+        "после пробуждения",
+        "ойгонгондон",
+        "بعد الاستيقاظ",
+        "après s’être réveillé"
+      ],
+      "exampleTr": "Uyandıktan sonra yataktan kalkıyorum.",
+      "examples": [
+        "After waking up, I get out of bed.",
+        "Проснувшись, я встаю с постели.",
+        "Ойгонгондон кийин төшөктөн турам.",
+        "بعد الاستيقاظ أنهض من السرير.",
+        "Après m’être réveillé, je me lève."
+      ]
+    },
+    "çıkıyorum": {
+      "lemma": "çıkmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to leave; go out",
+        "выходить",
+        "чыгуу",
+        "أن يخرج",
+        "sortir"
+      ],
+      "formTranslations": [
+        "I go out; I leave",
+        "я выхожу",
+        "чыгып жатам",
+        "أخرج",
+        "je sors"
+      ],
+      "exampleTr": "Her sabah evden çıkıyorum ve işe yürüyorum.",
+      "examples": [
+        "Every morning I leave home and walk to work.",
+        "Каждое утро я выхожу из дома и иду на работу пешком.",
+        "Күн сайын эртең менен үйдөн чыгып, жумушка жөө барам.",
+        "أخرج من المنزل كل صباح وأمشي إلى العمل.",
+        "Chaque matin, je sors de chez moi et vais au travail à pied."
+      ]
+    },
+    "işten": {
+      "lemma": "iş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "work; task",
+        "работа; дело",
+        "иш",
+        "عمل",
+        "travail"
+      ],
+      "formTranslations": [
+        "from work",
+        "с работы",
+        "жумуштан",
+        "من العمل",
+        "du travail"
+      ],
+      "exampleTr": "İşten çıktıktan sonra evime dönüyorum.",
+      "examples": [
+        "I go home after leaving work.",
+        "После работы я возвращаюсь домой.",
+        "Жумуштан чыккандан кийин үйүмө кайтам.",
+        "أعود إلى منزلي بعد الخروج من العمل.",
+        "Je rentre chez moi après le travail."
+      ]
+    },
+    "çıktıktan": {
+      "lemma": "çıkmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to leave; go out",
+        "выходить",
+        "чыгуу",
+        "أن يخرج",
+        "sortir"
+      ],
+      "formTranslations": [
+        "after leaving",
+        "после выхода",
+        "чыккандан",
+        "بعد الخروج",
+        "après être sorti"
+      ],
+      "exampleTr": "İşten çıktıktan sonra evime dönüyorum.",
+      "examples": [
+        "I go home after leaving work.",
+        "После работы я возвращаюсь домой.",
+        "Жумуштан чыккандан кийин үйүмө кайтам.",
+        "أعود إلى منزلي بعد الخروج من العمل.",
+        "Je rentre chez moi après le travail."
+      ]
+    },
+    "kendime": {
+      "lemma": "kendi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "own; self",
+        "свой",
+        "өз",
+        "خاص",
+        "propre"
+      ],
+      "formTranslations": [
+        "to/for myself",
+        "себе",
+        "өзүмө",
+        "لنفسي",
+        "pour moi-même"
+      ],
+      "exampleTr": "Kendime bir fotoğrafçı dükkânı açmak istiyorum.",
+      "examples": [
+        "I want to open a photography shop of my own.",
+        "Я хочу открыть собственную фотомастерскую.",
+        "Өзүмө фотосүрөтчү дүкөнүн ачкым келет.",
+        "أريد فتح محل تصوير خاص بي.",
+        "Je veux ouvrir ma propre boutique de photographie."
+      ]
+    },
+    "işlerimi": {
+      "lemma": "iş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "work; task",
+        "работа; дело",
+        "иш",
+        "عمل",
+        "travail"
+      ],
+      "formTranslations": [
+        "my tasks",
+        "мои дела",
+        "иштеримди",
+        "أعمالي",
+        "mes tâches"
+      ],
+      "exampleTr": "İşlerimi bitiremiyorum, bu yüzden yardım istedim.",
+      "examples": [
+        "I cannot finish my tasks, so I asked for help.",
+        "Я не могу закончить дела, поэтому попросил помощи.",
+        "Иштеримди бүтүрө албай жатам, ошондуктан жардам сурадым.",
+        "لا أستطيع إنهاء أعمالي لذلك طلبت المساعدة.",
+        "Je n’arrive pas à terminer mes tâches, alors j’ai demandé de l’aide."
+      ]
+    },
+    "seyrediyorum": {
+      "lemma": "seyretmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "To watch",
+        "Смотреть",
+        "Көрүү",
+        "أن يشاهد",
+        "Regarder"
+      ],
+      "formTranslations": [
+        "I watch",
+        "я смотрю",
+        "көрүп жатам",
+        "أشاهد",
+        "je regarde"
+      ],
+      "exampleTr": "Bazen gece yarısına kadar film seyrediyorum.",
+      "examples": [
+        "Sometimes I watch films until midnight.",
+        "Иногда я смотрю фильмы до полуночи.",
+        "Кээде түн ортосуна чейин тасма көрөм.",
+        "أحيانًا أشاهد الأفلام حتى منتصف الليل.",
+        "Parfois, je regarde des films jusqu’à minuit."
+      ]
+    },
+    "çalışmaya": {
+      "lemma": "çalışmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "To work",
+        "Работать",
+        "Иштөө",
+        "أن يعمل",
+        "Travailler"
+      ],
+      "formTranslations": [
+        "to work; to working",
+        "работать; к работе",
+        "иштөөгө",
+        "للعمل",
+        "à travailler"
+      ],
+      "exampleTr": "Ben bir spor eğitmeniyim; burada çalışmaya yeni başladım.",
+      "examples": [
+        "I am a sports instructor; I have just started working here.",
+        "Я спортивный инструктор и недавно начал здесь работать.",
+        "Мен спорт машыктыруучусумун, бул жерде жаңы иштей баштадым.",
+        "أنا مدرب رياضي وقد بدأت العمل هنا حديثًا.",
+        "Je suis éducateur sportif et je viens de commencer à travailler ici."
+      ]
+    },
+    "sporun": {
+      "lemma": "spor",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "sport; exercise",
+        "спорт",
+        "спорт",
+        "رياضة",
+        "sport"
+      ],
+      "formTranslations": [
+        "of sport",
+        "спорта",
+        "спорттун",
+        "للرياضة",
+        "du sport"
+      ],
+      "exampleTr": "Öğrencilere sporun önemini anlatıyorum.",
+      "examples": [
+        "I explain the importance of sport to the students.",
+        "Я объясняю ученикам важность спорта.",
+        "Окуучуларга спорттун маанисин түшүндүрөм.",
+        "أشرح للطلاب أهمية الرياضة.",
+        "J’explique aux élèves l’importance du sport."
+      ]
+    },
+    "uyanıyorum": {
+      "lemma": "uyanmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to wake up",
+        "просыпаться",
+        "ойгонуу",
+        "الاستيقاظ",
+        "se réveiller"
+      ],
+      "formTranslations": [
+        "I wake up",
+        "я просыпаюсь",
+        "ойгонуп жатам",
+        "أستيقظ",
+        "je me réveille"
+      ],
+      "exampleTr": "Alarm çalınca hemen uyanıyorum.",
+      "examples": [
+        "I wake up immediately when the alarm rings.",
+        "Я сразу просыпаюсь, когда звонит будильник.",
+        "Ойготкуч чырылдаганда дароо ойгоном.",
+        "أستيقظ فور رنين المنبه.",
+        "Je me réveille dès que le réveil sonne."
+      ]
+    },
+    "kalkıyorum": {
+      "lemma": "kalkmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to get up",
+        "вставать",
+        "туруу",
+        "أن ينهض",
+        "se lever"
+      ],
+      "formTranslations": [
+        "I get up",
+        "я встаю",
+        "туруп жатам",
+        "أنهض",
+        "je me lève"
+      ],
+      "exampleTr": "Uyandıktan sonra yataktan kalkıyorum.",
+      "examples": [
+        "After waking up, I get out of bed.",
+        "Проснувшись, я встаю с постели.",
+        "Ойгонгондон кийин төшөктөн турам.",
+        "بعد الاستيقاظ أنهض من السرير.",
+        "Après m’être réveillé, je me lève."
+      ]
+    },
+    "işe": {
+      "lemma": "iş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "work; task",
+        "работа; дело",
+        "иш",
+        "عمل",
+        "travail"
+      ],
+      "formTranslations": [
+        "to work",
+        "на работу",
+        "жумушка",
+        "إلى العمل",
+        "au travail"
+      ],
+      "exampleTr": "Her sabah evden çıkıyorum ve işe yürüyorum.",
+      "examples": [
+        "Every morning I leave home and walk to work.",
+        "Каждое утро я выхожу из дома и иду на работу пешком.",
+        "Күн сайын эртең менен үйдөн чыгып, жумушка жөө барам.",
+        "أخرج من المنزل كل صباح وأمشي إلى العمل.",
+        "Chaque matin, je sors de chez moi et vais au travail à pied."
+      ]
+    },
+    "yemeğinde": {
+      "lemma": "yemek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "food; meal",
+        "еда",
+        "тамак",
+        "طعام",
+        "repas"
+      ],
+      "formTranslations": [
+        "at the meal",
+        "за едой",
+        "тамакта",
+        "في الوجبة",
+        "au repas"
+      ],
+      "exampleTr": "Öğle yemeğinde çorba içtim.",
+      "examples": [
+        "I had soup for lunch.",
+        "На обед я ел суп.",
+        "Түшкү тамакта шорпо ичтим.",
+        "تناولت الحساء في الغداء.",
+        "J’ai pris de la soupe au déjeuner."
+      ]
+    },
+    "okuduktan": {
+      "lemma": "okumak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to read",
+        "читать",
+        "окуу",
+        "القراءة",
+        "lire"
+      ],
+      "formTranslations": [
+        "after reading",
+        "после чтения",
+        "окуган соң",
+        "بعد القراءة",
+        "après avoir lu"
+      ],
+      "exampleTr": "Biraz kitap okuduktan sonra uyuyorum.",
+      "examples": [
+        "I sleep after reading for a while.",
+        "Немного почитав, я засыпаю.",
+        "Бир аз китеп окугандан кийин уктайм.",
+        "أنام بعد قراءة كتاب قليلًا.",
+        "Je m’endors après avoir lu un moment."
+      ]
+    },
+    "uyuyorum": {
+      "lemma": "uyumak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to sleep",
+        "спать",
+        "уктоо",
+        "النوم",
+        "dormir"
+      ],
+      "formTranslations": [
+        "I sleep",
+        "я сплю",
+        "уктап жатам",
+        "أنام",
+        "je dors"
+      ],
+      "exampleTr": "Biraz kitap okuduktan sonra uyuyorum.",
+      "examples": [
+        "I sleep after reading for a while.",
+        "Немного почитав, я засыпаю.",
+        "Бир аз китеп окугандан кийин уктайм.",
+        "أنام بعد قراءة كتاب قليلًا.",
+        "Je m’endors après avoir lu un moment."
+      ]
+    },
+    "programlarını": {
+      "lemma": "program",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "schedule",
+        "расписание",
+        "күн тартиби",
+        "برنامج",
+        "programme"
+      ],
+      "formTranslations": [
+        "their schedules",
+        "их расписания",
+        "күн тартиптерин",
+        "برامجهم",
+        "leurs programmes"
+      ],
+      "exampleTr": "Tablolardan öğrencilerin programlarını kontrol edin.",
+      "examples": [
+        "Check the students’ schedules using the tables.",
+        "Проверьте расписания учеников по таблицам.",
+        "Таблицалардан окуучулардын күн тартиптерин текшериңиз.",
+        "راجعوا برامج الطلاب من خلال الجداول.",
+        "Vérifiez les emplois du temps des élèves à partir des tableaux."
+      ]
+    },
+    "programınızdan": {
+      "lemma": "program",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "schedule",
+        "расписание",
+        "күн тартиби",
+        "برنامج",
+        "programme"
+      ],
+      "formTranslations": [
+        "from your schedule",
+        "из вашего расписания",
+        "күн тартибиңизден",
+        "من برنامجكم",
+        "de votre programme"
+      ],
+      "exampleTr": "Programınızdan bir etkinlik seçin.",
+      "examples": [
+        "Choose an activity from your schedule.",
+        "Выберите занятие из своего расписания.",
+        "Күн тартибиңизден бир иш-аракетти тандаңыз.",
+        "اختاروا نشاطًا من برنامجكم.",
+        "Choisissez une activité dans votre programme."
+      ]
+    },
+    "besleniyor": {
+      "lemma": "beslenmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to eat; to nourish oneself",
+        "питаться",
+        "тамактануу",
+        "التغذي",
+        "se nourrir"
+      ],
+      "formTranslations": [
+        "eats; is nourished",
+        "питается",
+        "тамактанат",
+        "يتغذى",
+        "se nourrit"
+      ],
+      "exampleTr": "Kardeşim okulda düzenli besleniyor.",
+      "examples": [
+        "My sibling eats regularly at school.",
+        "Мой брат регулярно питается в школе.",
+        "Иним мектепте үзгүлтүксүз тамактанат.",
+        "يتناول أخي الطعام بانتظام في المدرسة.",
+        "Mon frère mange régulièrement à l’école."
+      ]
+    },
+    "ruhi’nin": {
+      "lemma": "ruhi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Ruhi (given name)",
+        "Рухи (имя)",
+        "Рухи (ысым)",
+        "روحي (اسم)",
+        "Ruhi (prénom)"
+      ],
+      "formTranslations": [
+        "Ruhi’s",
+        "Рухи",
+        "Рухинин",
+        "لروحي",
+        "de Ruhi"
+      ],
+      "exampleTr": "Ruhi’nin kitabını yarın Ruhi’ye vereceğim.",
+      "examples": [
+        "I will give Ruhi’s book to him tomorrow.",
+        "Завтра я отдам Рухи его книгу.",
+        "Рухинин китебин эртең өзүнө берем.",
+        "سأعطي كتاب روحي له غدًا.",
+        "Je donnerai demain son livre à Ruhi."
+      ]
+    },
+    "ruhi’den": {
+      "lemma": "ruhi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Ruhi (given name)",
+        "Рухи (имя)",
+        "Рухи (ысым)",
+        "روحي (اسم)",
+        "Ruhi (prénom)"
+      ],
+      "formTranslations": [
+        "than/from Ruhi",
+        "чем Рухи; от Рухи",
+        "Рухиден",
+        "من روحي",
+        "que Ruhi ; de Ruhi"
+      ],
+      "exampleTr": "Ruhi’den daha erken geliyorum.",
+      "examples": [
+        "I arrive earlier than Ruhi.",
+        "Я прихожу раньше Рухи.",
+        "Рухиден эртерээк келем.",
+        "أصل أبكر من روحي.",
+        "J’arrive plus tôt que Ruhi."
+      ]
+    },
+    "elif’ten": {
+      "lemma": "elif",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Elif (name)",
+        "Элиф (имя)",
+        "Элиф (ысым)",
+        "إليف (اسم)",
+        "Elif (prénom)"
+      ],
+      "formTranslations": [
+        "than/from Elif",
+        "чем Элиф; от Элиф",
+        "Элифтен",
+        "من إليف",
+        "qu’Elif ; d’Elif"
+      ],
+      "exampleTr": "Elif’ten bir kitap ödünç aldım.",
+      "examples": [
+        "I borrowed a book from Elif.",
+        "Я взял книгу у Элиф.",
+        "Элифтен китеп алдым.",
+        "استعرت كتابًا من إليف.",
+        "J’ai emprunté un livre à Elif."
+      ]
+    },
+    "hayatın": {
+      "lemma": "hayat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "life",
+        "жизнь",
+        "жашоо",
+        "حياة",
+        "vie"
+      ],
+      "formTranslations": [
+        "your life",
+        "твоя жизнь",
+        "сенин жашооң",
+        "حياتك",
+        "ta vie"
+      ],
+      "exampleTr": "Sen sabırlı bir insansın; hayatın hakkında daha çok şey öğrenmek isterim.",
+      "examples": [
+        "You are a patient person; I would like to learn more about your life.",
+        "Ты терпеливый человек; я хотел бы узнать больше о твоей жизни.",
+        "Сен сабырдуу адамсың, жашооң жөнүндө көбүрөөк билгим келет.",
+        "أنت شخص صبور وأود معرفة المزيد عن حياتك.",
+        "Tu es une personne patiente ; j’aimerais en savoir davantage sur ta vie."
+      ]
+    },
+    "sağlığına": {
+      "lemma": "sağlık",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Health",
+        "Здоровье",
+        "Ден соолук",
+        "صحة",
+        "Santé"
+      ],
+      "formTranslations": [
+        "to your health",
+        "твоему здоровью",
+        "ден соолугуңа",
+        "لصحتك",
+        "à ta santé"
+      ],
+      "exampleTr": "Sağlığına dikkat ediyorsun; sağlığın senin için önemli.",
+      "examples": [
+        "You take care of your health; it matters to you.",
+        "Ты заботишься о здоровье; оно важно для тебя.",
+        "Ден соолугуңа кам көрөсүң, ал сен үчүн маанилүү.",
+        "أنت تهتم بصحتك فهي مهمة لك.",
+        "Tu prends soin de ta santé, car elle compte pour toi."
+      ]
+    },
+    "sağlığın": {
+      "lemma": "sağlık",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Health",
+        "Здоровье",
+        "Ден соолук",
+        "صحة",
+        "Santé"
+      ],
+      "formTranslations": [
+        "your health",
+        "твоё здоровье",
+        "ден соолугуң",
+        "صحتك",
+        "ta santé"
+      ],
+      "exampleTr": "Sağlığına dikkat ediyorsun; sağlığın senin için önemli.",
+      "examples": [
+        "You take care of your health; it matters to you.",
+        "Ты заботишься о здоровье; оно важно для тебя.",
+        "Ден соолугуңа кам көрөсүң, ал сен үчүн маанилүү.",
+        "أنت تهتم بصحتك فهي مهمة لك.",
+        "Tu prends soin de ta santé, car elle compte pour toi."
+      ]
+    },
+    "işlere": {
+      "lemma": "iş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "work; task",
+        "работа; дело",
+        "иш",
+        "عمل",
+        "travail"
+      ],
+      "formTranslations": [
+        "to activities; tasks",
+        "делам",
+        "иштерге",
+        "للأعمال",
+        "aux activités"
+      ],
+      "exampleTr": "Ablam sevdiği işlere her gün zaman ayırır.",
+      "examples": [
+        "My sister makes time for activities she enjoys every day.",
+        "Моя сестра каждый день выделяет время любимым занятиям.",
+        "Эжем күн сайын жактырган иштерге убакыт бөлөт.",
+        "تخصص أختي وقتًا كل يوم للأعمال التي تحبها.",
+        "Ma sœur consacre chaque jour du temps aux activités qu’elle aime."
+      ]
+    },
+    "ifadelerinin": {
+      "lemma": "ifade",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "expression",
+        "выражение",
+        "туюнтма",
+        "تعبير",
+        "expression"
+      ],
+      "formTranslations": [
+        "of the expressions",
+        "выражений",
+        "сөз айкаштарынын",
+        "للتعبيرات",
+        "des expressions"
+      ],
+      "exampleTr": "Zaman ifadelerinin anlamlarını birlikte inceledik.",
+      "examples": [
+        "We examined the meanings of time expressions together.",
+        "Мы вместе рассмотрели значения выражений времени.",
+        "Убакытты билдирген сөз айкаштарынын маанилерин чогуу карадык.",
+        "درسنا معاني تعبيرات الزمن معًا.",
+        "Nous avons étudié ensemble le sens des expressions de temps."
+      ]
+    },
+    "yapıyorsunuz": {
+      "lemma": "yapmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to do; to make",
+        "делать",
+        "жасоо",
+        "الفعل؛ الصنع",
+        "faire"
+      ],
+      "formTranslations": [
+        "you do (plural/polite)",
+        "вы делаете",
+        "сиз кыласыз",
+        "تفعلون",
+        "vous faites"
+      ],
+      "exampleTr": "Bu hafta sonu neler yapıyorsunuz?",
+      "examples": [
+        "What are you doing this weekend?",
+        "Что вы делаете в эти выходные?",
+        "Бул дем алышта эмне кыласыз?",
+        "ماذا تفعلون في عطلة نهاية هذا الأسبوع؟",
+        "Que faites-vous ce week-end ?"
+      ]
+    },
+    "yediye": {
+      "lemma": "yedi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "seven",
+        "семь",
+        "жети",
+        "سبعة",
+        "sept"
+      ],
+      "formTranslations": [
+        "to seven",
+        "до семи",
+        "жетиге",
+        "إلى السابعة",
+        "à sept heures"
+      ],
+      "exampleTr": "Nadiren yediye kadar uyurum.",
+      "examples": [
+        "I rarely sleep until seven.",
+        "Я редко сплю до семи.",
+        "Сейрек учурда жетиге чейин уктайм.",
+        "نادرًا ما أنام حتى السابعة.",
+        "Je dors rarement jusqu’à sept heures."
+      ]
+    },
+    "grafikten": {
+      "lemma": "grafik",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "chart",
+        "график",
+        "график",
+        "رسم بياني",
+        "graphique"
+      ],
+      "formTranslations": [
+        "from the chart",
+        "по графику",
+        "графиктен",
+        "من الرسم البياني",
+        "à partir du graphique"
+      ],
+      "exampleTr": "İşlerinizi listeleyin ve bir grafik hazırlayın.",
+      "examples": [
+        "List your tasks and prepare a chart.",
+        "Перечислите свои дела и составьте график.",
+        "Иштериңизди тизмектеп, график түзүңүз.",
+        "عدّدوا أعمالكم وأعدوا رسمًا بيانيًا.",
+        "Énumérez vos tâches et préparez un graphique."
+      ]
+    },
+    "koleksiyonerim": {
+      "lemma": "koleksiyoner",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "collector",
+        "коллекционер",
+        "коллекционер",
+        "جامع مقتنيات",
+        "collectionneur"
+      ],
+      "formTranslations": [
+        "I am a collector",
+        "я коллекционер",
+        "мен коллекционермин",
+        "أنا جامع مقتنيات",
+        "je suis collectionneur"
+      ],
+      "exampleTr": "Koleksiyonerlik sayesinde farklı ülkeleri tanıdım.",
+      "examples": [
+        "Collecting helped me learn about different countries.",
+        "Благодаря коллекционированию я узнал о разных странах.",
+        "Коллекция чогултуунун аркасында ар түрдүү өлкөлөрдү тааныдым.",
+        "تعرفت إلى بلدان مختلفة بفضل جمع المقتنيات.",
+        "La collection m’a permis de découvrir différents pays."
+      ]
+    },
+    "ilgim": {
+      "lemma": "ilgi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Relation / interest",
+        "Отношение / интерес",
+        "Байланыш / кызыгуу",
+        "علاقة / اهتمام",
+        "Relation / intérêt"
+      ],
+      "formTranslations": [
+        "my interest",
+        "мой интерес",
+        "кызыгуум",
+        "اهتمامي",
+        "mon intérêt"
+      ],
+      "exampleTr": "Çocukluğumda resim yapmaya başladım; bu ilgim hâlâ sürüyor.",
+      "examples": [
+        "I started painting in childhood, and this interest continues.",
+        "Я начал рисовать в детстве, и этот интерес сохранился.",
+        "Бала чагымда сүрөт тарта баштагам, бул кызыгуум дагы эле уланууда.",
+        "بدأت الرسم في طفولتي ولا يزال هذا الاهتمام مستمرًا.",
+        "J’ai commencé à peindre dans mon enfance et cet intérêt se poursuit."
+      ]
+    },
+    "koleksiyonuma": {
+      "lemma": "koleksiyon",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "collection",
+        "коллекция",
+        "коллекция",
+        "مجموعة مقتنيات",
+        "collection"
+      ],
+      "formTranslations": [
+        "to my collection",
+        "к моей коллекции",
+        "коллекцияма",
+        "إلى مجموعتي",
+        "à ma collection"
+      ],
+      "exampleTr": "Şimdilerde koleksiyonuma yeni bir pul çeşidi ekliyorum.",
+      "examples": [
+        "These days I am adding a new type of stamp to my collection.",
+        "Сейчас я добавляю в коллекцию новый вид марок.",
+        "Азыркы учурда коллекцияма жаңы түрдөгү марканы кошуп жатам.",
+        "أضيف هذه الأيام نوعًا جديدًا من الطوابع إلى مجموعتي.",
+        "Ces temps-ci, j’ajoute un nouveau type de timbre à ma collection."
+      ]
+    },
+    "çıktım": {
+      "lemma": "çıkmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to leave; go out",
+        "выходить",
+        "чыгуу",
+        "أن يخرج",
+        "sortir"
+      ],
+      "formTranslations": [
+        "I went out",
+        "я вышел",
+        "чыктым",
+        "خرجت",
+        "je suis sorti"
+      ],
+      "exampleTr": "Eski paraları ayırdım ve albümlere yerleştirdim.",
+      "examples": [
+        "I sorted the old coins and placed them in albums.",
+        "Я отобрал старые монеты и разместил их в альбомах.",
+        "Эски акчаларды бөлүп, альбомдорго жайгаштырдым.",
+        "فرزت النقود القديمة ووضعتها في الألبومات.",
+        "J’ai trié les anciennes pièces et les ai placées dans des albums."
+      ]
+    },
+    "koleksiyonumda": {
+      "lemma": "koleksiyon",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "collection",
+        "коллекция",
+        "коллекция",
+        "مجموعة مقتنيات",
+        "collection"
+      ],
+      "formTranslations": [
+        "in my collection",
+        "в моей коллекции",
+        "коллекциямда",
+        "في مجموعتي",
+        "dans ma collection"
+      ],
+      "exampleTr": "Şimdilerde koleksiyonuma yeni bir pul çeşidi ekliyorum.",
+      "examples": [
+        "These days I am adding a new type of stamp to my collection.",
+        "Сейчас я добавляю в коллекцию новый вид марок.",
+        "Азыркы учурда коллекцияма жаңы түрдөгү марканы кошуп жатам.",
+        "أضيف هذه الأيام نوعًا جديدًا من الطوابع إلى مجموعتي.",
+        "Ces temps-ci, j’ajoute un nouveau type de timbre à ma collection."
+      ]
+    },
+    "hobidir": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "is a hobby",
+        "является хобби",
+        "хобби болуп саналат",
+        "هواية",
+        "est un loisir"
+      ],
+      "exampleTr": "Resim yapmak beni rahatlatır ve fazla masraflı değildir.",
+      "examples": [
+        "Painting relaxes me and is not very expensive.",
+        "Рисование меня расслабляет и не требует больших затрат.",
+        "Сүрөт тартуу мени эс алдырат жана көп чыгым талап кылбайт.",
+        "يريحني الرسم وليس مكلفًا كثيرًا.",
+        "Peindre me détend et ne coûte pas très cher."
+      ]
+    },
+    "koleksiyoncular": {
+      "lemma": "koleksiyoner",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "collector",
+        "коллекционер",
+        "коллекционер",
+        "جامع مقتنيات",
+        "collectionneur"
+      ],
+      "formTranslations": [
+        "collectors",
+        "коллекционеры",
+        "коллекционерлер",
+        "جامعو المقتنيات",
+        "collectionneurs"
+      ],
+      "exampleTr": "Koleksiyonerlik sayesinde farklı ülkeleri tanıdım.",
+      "examples": [
+        "Collecting helped me learn about different countries.",
+        "Благодаря коллекционированию я узнал о разных странах.",
+        "Коллекция чогултуунун аркасында ар түрдүү өлкөлөрдү тааныдым.",
+        "تعرفت إلى بلدان مختلفة بفضل جمع المقتنيات.",
+        "La collection m’a permis de découvrir différents pays."
+      ]
+    },
+    "sinefilim": {
+      "lemma": "sinefil",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "film enthusiast; cinephile",
+        "киноман",
+        "киносүйүүчү",
+        "عاشق السينما",
+        "cinéphile"
+      ],
+      "formTranslations": [
+        "I am a cinephile",
+        "я киноман",
+        "мен киносүйүүчүмүн",
+        "أنا عاشق للسينما",
+        "je suis cinéphile"
+      ],
+      "exampleTr": "Sinefil arkadaşım bana yeni bir film önerdi.",
+      "examples": [
+        "My film-loving friend recommended a new film.",
+        "Мой друг-киноман посоветовал новый фильм.",
+        "Киносту сүйгөн досум мага жаңы тасма сунуштады.",
+        "اقترح علي صديقي عاشق السينما فيلمًا جديدًا.",
+        "Mon ami cinéphile m’a recommandé un nouveau film."
+      ]
+    },
+    "kişilere": {
+      "lemma": "kişi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "person",
+        "человек",
+        "киши",
+        "شخص",
+        "personne"
+      ],
+      "formTranslations": [
+        "to people",
+        "людям",
+        "кишилерге",
+        "للأشخاص",
+        "aux personnes"
+      ],
+      "exampleTr": "Filmlere çok ilgi duyan kişilere sinefil denir.",
+      "examples": [
+        "People who are very interested in films are called cinephiles.",
+        "Людей, сильно интересующихся кино, называют киноманами.",
+        "Киного абдан кызыккан кишилер киносүйүүчүлөр деп аталат.",
+        "يسمى الأشخاص شديدو الاهتمام بالأفلام عشاق السينما.",
+        "On appelle cinéphiles les personnes très intéressées par le cinéma."
+      ]
+    },
+    "filmlerle": {
+      "lemma": "film",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "film; movie",
+        "фильм",
+        "тасма; фильм",
+        "فيلم",
+        "film"
+      ],
+      "formTranslations": [
+        "with/about films",
+        "с фильмами; о фильмах",
+        "тасмалар менен",
+        "بالأفلام",
+        "avec des films"
+      ],
+      "exampleTr": "İzlediğimiz filmlerle ilgili kısa yazılar yazarız.",
+      "examples": [
+        "We write short texts about the films we watch.",
+        "Мы пишем короткие тексты о просмотренных фильмах.",
+        "Биз көргөн тасмалар тууралуу кыска тексттерди жазабыз.",
+        "نكتب نصوصًا قصيرة عن الأفلام التي نشاهدها.",
+        "Nous écrivons de courts textes sur les films que nous regardons."
+      ]
+    },
+    "yazılar": {
+      "lemma": "yazı",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "writing; text",
+        "текст; письмо",
+        "жазуу; текст",
+        "كتابة؛ نص",
+        "texte; écriture"
+      ],
+      "formTranslations": [
+        "texts; articles",
+        "тексты; статьи",
+        "тексттер; макалалар",
+        "نصوص؛ مقالات",
+        "textes ; articles"
+      ],
+      "exampleTr": "İzlediğimiz filmlerle ilgili kısa yazılar yazarız.",
+      "examples": [
+        "We write short texts about the films we watch.",
+        "Мы пишем короткие тексты о просмотренных фильмах.",
+        "Биз көргөн тасмалар тууралуу кыска тексттерди жазабыз.",
+        "نكتب نصوصًا قصيرة عن الأفلام التي نشاهدها.",
+        "Nous écrivons de courts textes sur les films que nous regardons."
+      ]
+    },
+    "yazarız": {
+      "lemma": "yazmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "To write",
+        "Писать",
+        "Жазуу",
+        "أن يكتب",
+        "Écrire"
+      ],
+      "formTranslations": [
+        "we write",
+        "мы пишем",
+        "жазабыз",
+        "نكتب",
+        "nous écrivons"
+      ],
+      "exampleTr": "İzlediğimiz filmlerle ilgili kısa yazılar yazarız.",
+      "examples": [
+        "We write short texts about the films we watch.",
+        "Мы пишем короткие тексты о просмотренных фильмах.",
+        "Биз көргөн тасмалар тууралуу кыска тексттерди жазабыз.",
+        "نكتب نصوصًا قصيرة عن الأفلام التي نشاهدها.",
+        "Nous écrivons de courts textes sur les films que nous regardons."
+      ]
+    },
+    "filmleri": {
+      "lemma": "film",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "film; movie",
+        "фильм",
+        "тасма; фильм",
+        "فيلم",
+        "film"
+      ],
+      "formTranslations": [
+        "the films",
+        "фильмы",
+        "тасмаларды",
+        "الأفلام",
+        "les films"
+      ],
+      "exampleTr": "İzlediğimiz filmlerle ilgili kısa yazılar yazarız.",
+      "examples": [
+        "We write short texts about the films we watch.",
+        "Мы пишем короткие тексты о просмотренных фильмах.",
+        "Биз көргөн тасмалар тууралуу кыска тексттерди жазабыз.",
+        "نكتب نصوصًا قصيرة عن الأفلام التي نشاهدها.",
+        "Nous écrivons de courts textes sur les films que nous regardons."
+      ]
+    },
+    "sinefiller": {
+      "lemma": "sinefil",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "film enthusiast; cinephile",
+        "киноман",
+        "киносүйүүчү",
+        "عاشق السينما",
+        "cinéphile"
+      ],
+      "formTranslations": [
+        "cinephiles",
+        "киноманы",
+        "киносүйүүчүлөр",
+        "عشاق السينما",
+        "cinéphiles"
+      ],
+      "exampleTr": "Sinefil arkadaşım bana yeni bir film önerdi.",
+      "examples": [
+        "My film-loving friend recommended a new film.",
+        "Мой друг-киноман посоветовал новый фильм.",
+        "Киносту сүйгөн досум мага жаңы тасма сунуштады.",
+        "اقترح علي صديقي عاشق السينما فيلمًا جديدًا.",
+        "Mon ami cinéphile m’a recommandé un nouveau film."
+      ]
+    },
+    "olurum": {
+      "lemma": "olmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to be; become",
+        "быть; стать",
+        "болуу",
+        "أن يكون؛ أن يصبح",
+        "être; devenir"
+      ],
+      "formTranslations": [
+        "I become; I am",
+        "я становлюсь",
+        "болом",
+        "أكون",
+        "je deviens"
+      ],
+      "exampleTr": "Okuldaki resim yarışmasında jüri üyesi oldum.",
+      "examples": [
+        "I was a jury member in the school’s art competition.",
+        "Я был членом жюри школьного конкурса рисунков.",
+        "Мектептеги сүрөт сынагында калыстар тобунун мүчөсү болдум.",
+        "كنت عضوًا في لجنة تحكيم مسابقة الرسم في المدرسة.",
+        "J’ai fait partie du jury du concours de dessin de l’école."
+      ]
+    },
+    "filminizi": {
+      "lemma": "film",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "film; movie",
+        "фильм",
+        "тасма; фильм",
+        "فيلم",
+        "film"
+      ],
+      "formTranslations": [
+        "your film",
+        "ваш фильм",
+        "тасмаңызды",
+        "فيلمكم",
+        "votre film"
+      ],
+      "exampleTr": "Film eleştirisi yazmadan önce filminizi izleyebilirim.",
+      "examples": [
+        "I can watch your film before writing a review.",
+        "Я могу посмотреть ваш фильм, прежде чем написать рецензию.",
+        "Сын-пикир жазардан мурун тасмаңызды көрө алам.",
+        "يمكنني مشاهدة فيلمكم قبل كتابة نقد له.",
+        "Je peux regarder votre film avant d’en écrire une critique."
+      ]
+    },
+    "seyredebilirsiniz": {
+      "lemma": "seyretmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "To watch",
+        "Смотреть",
+        "Көрүү",
+        "أن يشاهد",
+        "Regarder"
+      ],
+      "formTranslations": [
+        "you can watch",
+        "вы можете посмотреть",
+        "көрө аласыз",
+        "يمكنكم مشاهدة",
+        "vous pouvez regarder"
+      ],
+      "exampleTr": "Film eleştirisi yazmadan önce filminizi izleyebilirim.",
+      "examples": [
+        "I can watch your film before writing a review.",
+        "Я могу посмотреть ваш фильм, прежде чем написать рецензию.",
+        "Сын-пикир жазардан мурун тасмаңызды көрө алам.",
+        "يمكنني مشاهدة فيلمكم قبل كتابة نقد له.",
+        "Je peux regarder votre film avant d’en écrire une critique."
+      ]
+    },
+    "hobilerimiz": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "our hobbies",
+        "наши хобби",
+        "хоббилерибиз",
+        "هواياتنا",
+        "nos loisirs"
+      ],
+      "exampleTr": "Fotoğrafçılık benim için bir hobi değil, bir tutku.",
+      "examples": [
+        "Photography is more than a hobby for me; it is a passion.",
+        "Фотография для меня не просто хобби, а страсть.",
+        "Фотосүрөтчүлүк мен үчүн жөн гана хобби эмес, кумар.",
+        "التصوير بالنسبة إلي ليس مجرد هواية بل شغف.",
+        "La photographie est pour moi plus qu’un loisir, c’est une passion."
+      ]
+    },
+    "zamanlar": {
+      "lemma": "zaman",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "time",
+        "время",
+        "убакыт",
+        "وقت",
+        "temps"
+      ],
+      "formTranslations": [
+        "times",
+        "времена",
+        "убакыттар",
+        "أوقات",
+        "moments"
+      ],
+      "exampleTr": "O zamanlar bu sokakta yaşıyorduk.",
+      "examples": [
+        "We lived on this street back then.",
+        "В те времена мы жили на этой улице.",
+        "Ошол убактарда бул көчөдө жашачубуз.",
+        "كنا نسكن في هذا الشارع آنذاك.",
+        "À cette époque, nous habitions dans cette rue."
+      ]
+    },
+    "seyreder": {
+      "lemma": "seyretmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "To watch",
+        "Смотреть",
+        "Көрүү",
+        "أن يشاهد",
+        "Regarder"
+      ],
+      "formTranslations": [
+        "watches",
+        "смотрит",
+        "көрөт",
+        "يشاهد",
+        "regarde"
+      ],
+      "exampleTr": "Kardeşimin hobisi çizgi roman okumak.",
+      "examples": [
+        "My brother’s hobby is reading comics.",
+        "Хобби моего брата — читать комиксы.",
+        "Инимдин хоббиси — комикс окуу.",
+        "هواية أخي قراءة القصص المصورة.",
+        "Le loisir de mon frère est de lire des bandes dessinées."
+      ]
+    },
+    "hobisi": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "his/her hobby",
+        "его/её хобби",
+        "хоббиси",
+        "هوايته",
+        "son loisir"
+      ],
+      "exampleTr": "Kardeşimin hobisi çizgi roman okumak.",
+      "examples": [
+        "My brother’s hobby is reading comics.",
+        "Хобби моего брата — читать комиксы.",
+        "Инимдин хоббиси — комикс окуу.",
+        "هواية أخي قراءة القصص المصورة.",
+        "Le loisir de mon frère est de lire des bandes dessinées."
+      ]
+    },
+    "ilgilenmeye": {
+      "lemma": "ilgilenmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to take an interest",
+        "интересоваться",
+        "кызыгуу",
+        "الاهتمام",
+        "s’intéresser"
+      ],
+      "formTranslations": [
+        "to take an interest",
+        "интересоваться",
+        "кызыгууга",
+        "للاهتمام",
+        "à s’intéresser"
+      ],
+      "exampleTr": "Kardeşimin hobisi çizgi roman okumak.",
+      "examples": [
+        "My brother’s hobby is reading comics.",
+        "Хобби моего брата — читать комиксы.",
+        "Инимдин хоббиси — комикс окуу.",
+        "هواية أخي قراءة القصص المصورة.",
+        "Le loisir de mon frère est de lire des bandes dessinées."
+      ]
+    },
+    "hobisiyle": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "with his/her hobby",
+        "своим хобби",
+        "хоббиси менен",
+        "بهوايته",
+        "à son loisir"
+      ],
+      "exampleTr": "Film izleyen arkadaşım okuduğunuz kitabı da merak ediyor.",
+      "examples": [
+        "My friend who watches films is also curious about the book you read.",
+        "Мой друг, который смотрит фильмы, интересуется и книгой, которую вы прочитали.",
+        "Тасма көргөн досум сиз окуган китепке да кызыгат.",
+        "صديقي الذي يشاهد الأفلام مهتم أيضًا بالكتاب الذي قرأتموه.",
+        "Mon ami qui regarde des films s’intéresse aussi au livre que vous avez lu."
+      ]
+    },
+    "ilgilenir": {
+      "lemma": "ilgilenmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to take an interest",
+        "интересоваться",
+        "кызыгуу",
+        "الاهتمام",
+        "s’intéresser"
+      ],
+      "formTranslations": [
+        "takes an interest",
+        "интересуется",
+        "кызыгат",
+        "يهتم",
+        "s’intéresse"
+      ],
+      "exampleTr": "Film izleyen arkadaşım okuduğunuz kitabı da merak ediyor.",
+      "examples": [
+        "My friend who watches films is also curious about the book you read.",
+        "Мой друг, который смотрит фильмы, интересуется и книгой, которую вы прочитали.",
+        "Тасма көргөн досум сиз окуган китепке да кызыгат.",
+        "صديقي الذي يشاهد الأفلام مهتم أيضًا بالكتاب الذي قرأتموه.",
+        "Mon ami qui regarde des films s’intéresse aussi au livre que vous avez lu."
+      ]
+    },
+    "izlemeye": {
+      "lemma": "izlemek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to watch",
+        "смотреть",
+        "көрүү",
+        "مشاهدة",
+        "regarder"
+      ],
+      "formTranslations": [
+        "to watch",
+        "смотреть",
+        "көрүүгө",
+        "لمشاهدة",
+        "à regarder"
+      ],
+      "exampleTr": "Film izleyen arkadaşım okuduğunuz kitabı da merak ediyor.",
+      "examples": [
+        "My friend who watches films is also curious about the book you read.",
+        "Мой друг, который смотрит фильмы, интересуется и книгой, которую вы прочитали.",
+        "Тасма көргөн досум сиз окуган китепке да кызыгат.",
+        "صديقي الذي يشاهد الأفلام مهتم أيضًا بالكتاب الذي قرأتموه.",
+        "Mon ami qui regarde des films s’intéresse aussi au livre que vous avez lu."
+      ]
+    },
+    "okuduğunuz": {
+      "lemma": "okumak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to read",
+        "читать",
+        "окуу",
+        "القراءة",
+        "lire"
+      ],
+      "formTranslations": [
+        "that you read",
+        "который вы прочитали",
+        "сиз окуган",
+        "الذي قرأتموه",
+        "que vous avez lu"
+      ],
+      "exampleTr": "Film izleyen arkadaşım okuduğunuz kitabı da merak ediyor.",
+      "examples": [
+        "My friend who watches films is also curious about the book you read.",
+        "Мой друг, который смотрит фильмы, интересуется и книгой, которую вы прочитали.",
+        "Тасма көргөн досум сиз окуган китепке да кызыгат.",
+        "صديقي الذي يشاهد الأفلام مهتم أيضًا بالكتاب الذي قرأتموه.",
+        "Mon ami qui regarde des films s’intéresse aussi au livre que vous avez lu."
+      ]
+    },
+    "hobilerden": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "from/among the hobbies",
+        "из увлечений",
+        "хоббилерден",
+        "من الهوايات",
+        "parmi les loisirs"
+      ],
+      "exampleTr": "İlgi alanınız ile kişisel özellikleriniz arasında bir ilişki var mı?",
+      "examples": [
+        "Is there a link between your interests and your personal qualities?",
+        "Есть ли связь между вашими интересами и личными качествами?",
+        "Кызыгуу чөйрөңүз менен жеке өзгөчөлүктөрүңүздүн ортосунда байланыш барбы?",
+        "هل توجد علاقة بين مجال اهتمامكم وصفاتكم الشخصية؟",
+        "Y a-t-il un lien entre vos centres d’intérêt et vos qualités personnelles ?"
+      ]
+    },
+    "özellikleriniz": {
+      "lemma": "özellik",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "feature; characteristic",
+        "особенность",
+        "өзгөчөлүк",
+        "ميزة",
+        "caractéristique"
+      ],
+      "formTranslations": [
+        "your qualities",
+        "ваши качества",
+        "өзгөчөлүктөрүңүз",
+        "صفاتكم",
+        "vos qualités"
+      ],
+      "exampleTr": "İlgi alanınız ile kişisel özellikleriniz arasında bir ilişki var mı?",
+      "examples": [
+        "Is there a link between your interests and your personal qualities?",
+        "Есть ли связь между вашими интересами и личными качествами?",
+        "Кызыгуу чөйрөңүз менен жеке өзгөчөлүктөрүңүздүн ортосунда байланыш барбы?",
+        "هل توجد علاقة بين مجال اهتمامكم وصفاتكم الشخصية؟",
+        "Y a-t-il un lien entre vos centres d’intérêt et vos qualités personnelles ?"
+      ]
+    },
+    "zamanlarında": {
+      "lemma": "zaman",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "time",
+        "время",
+        "убакыт",
+        "وقت",
+        "temps"
+      ],
+      "formTranslations": [
+        "in their free times",
+        "в их свободное время",
+        "бош убактарында",
+        "في أوقاتهم",
+        "pendant leur temps"
+      ],
+      "exampleTr": "Çocuklar boş zamanlarında oyun oynar.",
+      "examples": [
+        "Children play games in their free time.",
+        "Дети играют в свободное время.",
+        "Балдар бош убактарында оюн ойношот.",
+        "يلعب الأطفال في أوقات فراغهم.",
+        "Les enfants jouent pendant leur temps libre."
+      ]
+    },
+    "ilgileniyor": {
+      "lemma": "ilgilenmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to take an interest",
+        "интересоваться",
+        "кызыгуу",
+        "الاهتمام",
+        "s’intéresser"
+      ],
+      "formTranslations": [
+        "is interested in",
+        "интересуется",
+        "кызыгып жатат",
+        "يهتم",
+        "s’intéresse"
+      ],
+      "exampleTr": "Annem bahçecilikle ilgileniyor.",
+      "examples": [
+        "My mother is interested in gardening.",
+        "Мама увлекается садоводством.",
+        "Апам багбанчылыкка кызыгат.",
+        "تهتم أمي بالبستنة.",
+        "Ma mère s’intéresse au jardinage."
+      ]
+    },
+    "programa": {
+      "lemma": "program",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "schedule",
+        "расписание",
+        "күн тартиби",
+        "برنامج",
+        "programme"
+      ],
+      "formTranslations": [
+        "to the programme",
+        "в программу",
+        "программага",
+        "إلى البرنامج",
+        "au programme"
+      ],
+      "exampleTr": "Programa katılan öğrencilere hobini anlat.",
+      "examples": [
+        "Tell the students taking part in the programme about your hobby.",
+        "Расскажи о своём хобби ученикам, участвующим в программе.",
+        "Программага катышкан окуучуларга хоббиңди айтып бер.",
+        "حدث الطلاب المشاركين في البرنامج عن هوايتك.",
+        "Présente ton loisir aux élèves qui participent au programme."
+      ]
+    },
+    "hobini": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "your hobby",
+        "твоё хобби",
+        "хоббиңди",
+        "هوايتك",
+        "ton loisir"
+      ],
+      "exampleTr": "Programa katılan öğrencilere hobini anlat.",
+      "examples": [
+        "Tell the students taking part in the programme about your hobby.",
+        "Расскажи о своём хобби ученикам, участвующим в программе.",
+        "Программага катышкан окуучуларга хоббиңди айтып бер.",
+        "حدث الطلاب المشاركين في البرنامج عن هوايتك.",
+        "Présente ton loisir aux élèves qui participent au programme."
+      ]
+    },
+    "ilgisini": {
+      "lemma": "ilgi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Relation / interest",
+        "Отношение / интерес",
+        "Байланыш / кызыгуу",
+        "علاقة / اهتمام",
+        "Relation / intérêt"
+      ],
+      "formTranslations": [
+        "his/her interest",
+        "его/её интерес",
+        "кызыгуусун",
+        "اهتمامه",
+        "son intérêt"
+      ],
+      "exampleTr": "Fotoğraf sergisi kardeşimin ilgisini çekti.",
+      "examples": [
+        "The photography exhibition interested my sibling.",
+        "Фотовыставка заинтересовала моего брата.",
+        "Сүрөт көргөзмөсү инимдин кызыгуусун жаратты.",
+        "أثار معرض الصور اهتمام أخي.",
+        "L’exposition de photos a intéressé mon frère."
+      ]
+    },
+    "söyledi": {
+      "lemma": "söylemek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to say; sing",
+        "говорить; петь",
+        "айтуу; ырдоо",
+        "قول؛ غناء",
+        "dire; chanter"
+      ],
+      "formTranslations": [
+        "said",
+        "сказал",
+        "айтты",
+        "قال",
+        "a dit"
+      ],
+      "exampleTr": "Arkadaşım sınıfla konuşmak istediğini söyledi.",
+      "examples": [
+        "My friend said they wanted to speak to the class.",
+        "Мой друг сказал, что хочет поговорить с классом.",
+        "Досум класс менен сүйлөшкүсү келгенин айтты.",
+        "قال صديقي إنه يريد التحدث مع الصف.",
+        "Mon ami a dit qu’il voulait parler à la classe."
+      ]
+    },
+    "sanatlarla": {
+      "lemma": "sanat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "art",
+        "искусство",
+        "искусство",
+        "فن",
+        "art"
+      ],
+      "formTranslations": [
+        "with the arts",
+        "искусствами",
+        "искусстволор менен",
+        "بالفنون",
+        "aux arts"
+      ],
+      "exampleTr": "Yukarıda hangi sanatlarla ilgilenmeyi sevdiğimi yazdım.",
+      "examples": [
+        "Above, I wrote which arts I enjoy.",
+        "Выше я написал, какими искусствами люблю заниматься.",
+        "Жогоруда кайсы искусстволорго кызыгууну жактырарымды жаздым.",
+        "كتبت أعلاه الفنون التي أحب الاهتمام بها.",
+        "J’ai écrit ci-dessus quels arts m’intéressent."
+      ]
+    },
+    "ilgilenmeyi": {
+      "lemma": "ilgilenmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to take an interest",
+        "интересоваться",
+        "кызыгуу",
+        "الاهتمام",
+        "s’intéresser"
+      ],
+      "formTranslations": [
+        "taking an interest",
+        "интересоваться",
+        "кызыгууну",
+        "الاهتمام",
+        "le fait de s’intéresser"
+      ],
+      "exampleTr": "Yukarıda hangi sanatlarla ilgilenmeyi sevdiğimi yazdım.",
+      "examples": [
+        "Above, I wrote which arts I enjoy.",
+        "Выше я написал, какими искусствами люблю заниматься.",
+        "Жогоруда кайсы искусстволорго кызыгууну жактырарымды жаздым.",
+        "كتبت أعلاه الفنون التي أحب الاهتمام بها.",
+        "J’ai écrit ci-dessus quels arts m’intéressent."
+      ]
+    },
+    "hobiyle": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "with a hobby",
+        "хобби",
+        "хобби менен",
+        "بهواية",
+        "à un loisir"
+      ],
+      "exampleTr": "Yeni bir hobiyle ilgilenmek istiyorum.",
+      "examples": [
+        "I want to take up a new hobby.",
+        "Я хочу заняться новым хобби.",
+        "Жаңы хоббиге кызыккым келет.",
+        "أريد ممارسة هواية جديدة.",
+        "Je veux me consacrer à un nouveau loisir."
+      ]
+    },
+    "karakterlerden": {
+      "lemma": "karakter",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "character",
+        "персонаж",
+        "каарман",
+        "شخصية",
+        "personnage"
+      ],
+      "formTranslations": [
+        "among the characters",
+        "из персонажей",
+        "каармандардан",
+        "من الشخصيات",
+        "parmi les personnages"
+      ],
+      "exampleTr": "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      "examples": [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    },
+    "karakterin": {
+      "lemma": "karakter",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "character",
+        "персонаж",
+        "каарман",
+        "شخصية",
+        "personnage"
+      ],
+      "formTranslations": [
+        "of the character",
+        "персонажа",
+        "каармандын",
+        "للشخصية",
+        "du personnage"
+      ],
+      "exampleTr": "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      "examples": [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    },
+    "hobilerini": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "their hobbies",
+        "его/её увлечения",
+        "хоббилерин",
+        "هواياته",
+        "ses loisirs"
+      ],
+      "exampleTr": "Karakterlerden ikisini seçip hobilerini karşılaştırdık.",
+      "examples": [
+        "We chose two characters and compared their hobbies.",
+        "Мы выбрали двух персонажей и сравнили их увлечения.",
+        "Каармандардан экөөнү тандап, хоббилерин салыштырдык.",
+        "اخترنا شخصيتين وقارنا هواياتهما.",
+        "Nous avons choisi deux personnages et comparé leurs loisirs."
+      ]
+    },
+    "bisiklete": {
+      "lemma": "bisiklet",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "bicycle",
+        "велосипед",
+        "велосипед",
+        "دراجة هوائية",
+        "vélo"
+      ],
+      "formTranslations": [
+        "onto a bicycle",
+        "на велосипед",
+        "велосипедге",
+        "على الدراجة",
+        "à vélo"
+      ],
+      "exampleTr": "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      "examples": [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    },
+    "oyunun": {
+      "lemma": "oyun",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "game; dance",
+        "игра; танец",
+        "оюн; бий",
+        "لعبة؛ رقصة",
+        "jeu ; danse"
+      ],
+      "formTranslations": [
+        "of the game",
+        "игры",
+        "оюндун",
+        "للعبة",
+        "du jeu"
+      ],
+      "exampleTr": "Oyunun kuralları için burada durun ve öğretmeni dinleyin.",
+      "examples": [
+        "Stop here and listen to the teacher for the rules of the game.",
+        "Остановитесь здесь и послушайте учителя о правилах игры.",
+        "Бул жерде токтоп, оюндун эрежелери тууралуу мугалимди угуңуз.",
+        "قفوا هنا واستمعوا إلى المعلم لمعرفة قواعد اللعبة.",
+        "Arrêtez-vous ici et écoutez le professeur expliquer les règles du jeu."
+      ]
+    },
+    "binmeyi": {
+      "lemma": "binmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to ride; get on",
+        "садиться на; ездить",
+        "минүү",
+        "ركوب",
+        "monter"
+      ],
+      "formTranslations": [
+        "riding; to ride",
+        "ездить",
+        "мингени",
+        "ركوب",
+        "le fait de monter"
+      ],
+      "exampleTr": "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      "examples": [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    },
+    "binersin": {
+      "lemma": "binmek",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to ride; get on",
+        "садиться на; ездить",
+        "минүү",
+        "ركوب",
+        "monter"
+      ],
+      "formTranslations": [
+        "you ride",
+        "ты ездишь",
+        "минесиң",
+        "تركب",
+        "tu montes"
+      ],
+      "exampleTr": "Bisiklete binmeyi ve paten kaymayı seviyorum.",
+      "examples": [
+        "I like cycling and skating.",
+        "Мне нравится кататься на велосипеде и на роликах.",
+        "Велосипед мингенди жана коньки тепкенди жактырам.",
+        "أحب ركوب الدراجة والتزلج.",
+        "J’aime faire du vélo et du patin."
+      ]
+    },
+    "şarkılar": {
+      "lemma": "şarkı",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "song",
+        "песня",
+        "ыр",
+        "أغنية",
+        "chanson"
+      ],
+      "formTranslations": [
+        "songs",
+        "песни",
+        "ырлар",
+        "أغان",
+        "chansons"
+      ],
+      "exampleTr": "Bu şarkılar bana çocukluğumu hatırlatıyor.",
+      "examples": [
+        "These songs remind me of my childhood.",
+        "Эти песни напоминают мне детство.",
+        "Бул ырлар бала чагымды эске салат.",
+        "تذكرني هذه الأغاني بطفولتي.",
+        "Ces chansons me rappellent mon enfance."
+      ]
+    },
+    "afişinize": {
+      "lemma": "afiş",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "poster",
+        "афиша",
+        "афиша; жарнама плакаты",
+        "ملصق إعلاني",
+        "affiche"
+      ],
+      "formTranslations": [
+        "to your poster",
+        "на ваш плакат",
+        "афишаңызга",
+        "إلى ملصقكم",
+        "à votre affiche"
+      ],
+      "exampleTr": "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      "examples": [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    },
+    "fotoğraflarınızı": {
+      "lemma": "fotoğraf",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "photograph",
+        "фотография",
+        "сүрөт",
+        "صورة",
+        "photo"
+      ],
+      "formTranslations": [
+        "your photographs",
+        "ваши фотографии",
+        "сүрөттөрүңүздү",
+        "صوركم",
+        "vos photos"
+      ],
+      "exampleTr": "Afişinize arkadaşlarınızın ve eşyalarınızın fotoğraflarını ekleyin.",
+      "examples": [
+        "Add photos of your friends and belongings to your poster.",
+        "Добавьте на плакат фотографии друзей и своих вещей.",
+        "Афишаңызга досторуңуздун жана буюмдарыңыздын сүрөттөрүн кошуңуз.",
+        "أضيفوا صور أصدقائكم وأشيائكم إلى ملصقكم.",
+        "Ajoutez à votre affiche des photos de vos amis et de vos affaires."
+      ]
+    },
+    "bloğunu": {
+      "lemma": "blog",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Blog",
+        "Блог",
+        "Блог",
+        "مدونة",
+        "Blog"
+      ],
+      "formTranslations": [
+        "his/her blog",
+        "его/её блог",
+        "блогун",
+        "مدونته",
+        "son blog"
+      ],
+      "exampleTr": "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      "examples": [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    },
+    "bloğunuzu": {
+      "lemma": "blog",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Blog",
+        "Блог",
+        "Блог",
+        "مدونة",
+        "Blog"
+      ],
+      "formTranslations": [
+        "your blog",
+        "ваш блог",
+        "блогуңузду",
+        "مدونتكم",
+        "votre blog"
+      ],
+      "exampleTr": "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      "examples": [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    },
+    "bloğu": {
+      "lemma": "blog",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Blog",
+        "Блог",
+        "Блог",
+        "مدونة",
+        "Blog"
+      ],
+      "formTranslations": [
+        "the blog; his/her blog",
+        "блог",
+        "блогу",
+        "المدونة",
+        "le blog"
+      ],
+      "exampleTr": "Arkadaşımın hazırladığı bloğu okuyup sorularına cevaplar yazdım.",
+      "examples": [
+        "I read the blog my friend prepared and wrote answers to their questions.",
+        "Я прочитал блог друга и написал ответы на его вопросы.",
+        "Досум даярдаган блогду окуп, суроолоруна жоопторду жаздым.",
+        "قرأت المدونة التي أعدها صديقي وكتبت إجابات عن أسئلته.",
+        "J’ai lu le blog préparé par mon ami et répondu à ses questions."
+      ]
+    },
+    "sanatlar": {
+      "lemma": "sanat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "art",
+        "искусство",
+        "искусство",
+        "فن",
+        "art"
+      ],
+      "formTranslations": [
+        "arts",
+        "искусства",
+        "искусстволор",
+        "فنون",
+        "arts"
+      ],
+      "exampleTr": "Güzel sanatlar fakültesinde babamın portresini yaptım.",
+      "examples": [
+        "I painted my father’s portrait at the faculty of fine arts.",
+        "На факультете изящных искусств я нарисовал портрет отца.",
+        "Көркөм өнөр факультетинде атамдын портретин тарттым.",
+        "رسمت صورة أبي في كلية الفنون الجميلة.",
+        "J’ai peint le portrait de mon père à la faculté des beaux-arts."
+      ]
+    },
+    "açtım": {
+      "lemma": "açmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to open",
+        "открывать",
+        "ачуу",
+        "الفتح",
+        "ouvrir"
+      ],
+      "formTranslations": [
+        "I opened",
+        "я открыл",
+        "ачтым",
+        "فتحت",
+        "j’ai ouvert"
+      ],
+      "exampleTr": "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      "examples": [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    },
+    "bloğumu": {
+      "lemma": "blog",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "Blog",
+        "Блог",
+        "Блог",
+        "مدونة",
+        "Blog"
+      ],
+      "formTranslations": [
+        "my blog",
+        "мой блог",
+        "блогумду",
+        "مدونتي",
+        "mon blog"
+      ],
+      "exampleTr": "Bloğumu beğenirsiniz umarım; yarın bunun hakkında bilgi vereceğim.",
+      "examples": [
+        "I hope you like my blog; tomorrow I will give you information about it.",
+        "Надеюсь, вам понравится мой блог; завтра я расскажу о нём.",
+        "Блогумду жактырасыз деп үмүттөнөм, эртең бул тууралуу маалымат берем.",
+        "آمل أن تعجبكم مدونتي؛ سأقدم معلومات عنها غدًا.",
+        "J’espère que mon blog vous plaira ; demain, je vous en parlerai."
+      ]
+    },
+    "hobiniz": {
+      "lemma": "hobi",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "hobby",
+        "хобби",
+        "хобби",
+        "هواية",
+        "loisir"
+      ],
+      "formTranslations": [
+        "your hobby",
+        "ваше хобби",
+        "хоббиңиз",
+        "هوايتكم",
+        "votre loisir"
+      ],
+      "exampleTr": "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      "examples": [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    },
+    "yapmaktan": {
+      "lemma": "yapmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to do; to make",
+        "делать",
+        "жасоо",
+        "الفعل؛ الصنع",
+        "faire"
+      ],
+      "formTranslations": [
+        "from doing; doing",
+        "от занятия; делать",
+        "жасоодон",
+        "من القيام",
+        "le fait de faire"
+      ],
+      "exampleTr": "Neler yapmaktan hoşlanırsınız, özel bir yeteneğiniz var mı?",
+      "examples": [
+        "What do you enjoy doing, and do you have a special talent?",
+        "Что вам нравится делать и есть ли у вас особый талант?",
+        "Эмне жасаганды жактырасыз, өзгөчө жөндөмүңүз барбы?",
+        "ماذا تستمتعون بفعله وهل لديكم موهبة خاصة؟",
+        "Qu’aimez-vous faire et avez-vous un talent particulier ?"
+      ]
+    },
+    "resimlerimi": {
+      "lemma": "resim",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "picture; painting",
+        "рисунок; рисование",
+        "сүрөт; сүрөт тартуу",
+        "صورة؛ رسم",
+        "image ; peinture"
+      ],
+      "formTranslations": [
+        "my pictures",
+        "мои рисунки",
+        "сүрөттөрүмдү",
+        "رسوماتي",
+        "mes dessins"
+      ],
+      "exampleTr": "Yeni bir blog açtım, resimlerimi sizlerle paylaşacağım.",
+      "examples": [
+        "I started a new blog and will share my pictures with you.",
+        "Я открыл новый блог и поделюсь с вами рисунками.",
+        "Жаңы блог ачтым, сүрөттөрүмдү сиздер менен бөлүшөм.",
+        "فتحت مدونة جديدة وسأشارككم رسوماتي.",
+        "J’ai créé un nouveau blog et partagerai mes dessins avec vous."
+      ]
+    },
+    "kampa": {
+      "lemma": "kamp",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "camping / camp",
+        "кемпинг / лагерь",
+        "лагерь / кемпинг",
+        "تخييم / مخيم",
+        "camping / camp"
+      ],
+      "formTranslations": [
+        "to camp",
+        "в лагерь",
+        "лагерге",
+        "إلى المخيم",
+        "au camp"
+      ],
+      "exampleTr": "Bisiklet sürerek kampa gittik.",
+      "examples": [
+        "We went to the campsite by bicycle.",
+        "Мы поехали в лагерь на велосипедах.",
+        "Лагерге велосипед айдап бардык.",
+        "ذهبنا إلى المخيم بالدراجات.",
+        "Nous sommes allés au camp à vélo."
+      ]
+    },
+    "hayatınız": {
+      "lemma": "hayat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "life",
+        "жизнь",
+        "жашоо",
+        "حياة",
+        "vie"
+      ],
+      "formTranslations": [
+        "your life",
+        "ваша жизнь",
+        "жашооңуз",
+        "حياتكم",
+        "votre vie"
+      ],
+      "exampleTr": "Hayatım hakkında bilgi veren kısa bir yazı hazırladım.",
+      "examples": [
+        "I prepared a short text giving information about my life.",
+        "Я подготовил короткий текст о своей жизни.",
+        "Жашоом тууралуу маалымат берген кыска текст даярдадым.",
+        "أعددت نصًا قصيرًا يقدم معلومات عن حياتي.",
+        "J’ai préparé un court texte donnant des informations sur ma vie."
+      ]
+    },
+    "hayatım": {
+      "lemma": "hayat",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "life",
+        "жизнь",
+        "жашоо",
+        "حياة",
+        "vie"
+      ],
+      "formTranslations": [
+        "my life",
+        "моя жизнь",
+        "жашоом",
+        "حياتي",
+        "ma vie"
+      ],
+      "exampleTr": "Hayatım hakkında bilgi veren kısa bir yazı hazırladım.",
+      "examples": [
+        "I prepared a short text giving information about my life.",
+        "Я подготовил короткий текст о своей жизни.",
+        "Жашоом тууралуу маалымат берген кыска текст даярдадым.",
+        "أعددت نصًا قصيرًا يقدم معلومات عن حياتي.",
+        "J’ai préparé un court texte donnant des informations sur ma vie."
       ]
     }
   },
@@ -21325,13 +23769,13 @@
       ]
     ],
     "yeterlilik": [
-      "Bu derste yeterlilik bildiren cümleler kurduk.",
+      "Yüzebilirim cümlesi yeterlilik bildirir.",
       [
-        "In this lesson, we formed sentences expressing ability.",
-        "На этом уроке мы составляли предложения, выражающие способность.",
-        "Бул сабакта жөндөмдүүлүктү билдирген сүйлөмдөрдү түздүк.",
-        "كونا في هذا الدرس جملًا تعبر عن القدرة.",
-        "Dans ce cours, nous avons construit des phrases exprimant la capacité."
+        "The sentence ‘I can swim’ expresses ability.",
+        "Предложение «Я умею плавать» выражает способность.",
+        "«Сүзө алам» деген сүйлөм жөндөмдүүлүктү билдирет.",
+        "تعبر جملة «أستطيع السباحة» عن القدرة.",
+        "La phrase « Je peux nager » exprime une capacité."
       ]
     ],
     "hobi": [
@@ -21575,13 +24019,13 @@
       ]
     ],
     "eğlendirir": [
-      "Resim yapmak beni rahatlatır ve fazla masraflı değildir.",
+      "Bu oyun çocukları eğlendirir.",
       [
-        "Painting relaxes me and is not very expensive.",
-        "Рисование меня расслабляет и не требует больших затрат.",
-        "Сүрөт тартуу мени эс алдырат жана көп чыгым талап кылбайт.",
-        "يريحني الرسم وليس مكلفًا كثيرًا.",
-        "Peindre me détend et ne coûte pas très cher."
+        "This game entertains the children.",
+        "Эта игра развлекает детей.",
+        "Бул оюн балдардын көңүлүн ачат.",
+        "تسلي هذه اللعبة الأطفال.",
+        "Ce jeu amuse les enfants."
       ]
     ],
     "rahatlatır": [
@@ -22105,13 +24549,13 @@
       ]
     ],
     "sahibi": [
-      "Bu dükkânın sahibi çok güler yüzlü.",
+      "Köpeğin sahibi parkta bekliyor.",
       [
-        "The owner of this shop is very friendly.",
-        "Хозяин этого магазина очень приветливый.",
-        "Бул дүкөндүн ээси абдан жылуу жүздүү.",
-        "صاحب هذا المحل بشوش جدًا.",
-        "Le propriétaire de cette boutique est très aimable."
+        "The dog’s owner is waiting in the park.",
+        "Хозяин собаки ждёт в парке.",
+        "Иттин ээси паркта күтүп жатат.",
+        "صاحب الكلب ينتظر في الحديقة.",
+        "Le propriétaire du chien attend au parc."
       ]
     ],
     "ortak": [
@@ -22365,13 +24809,13 @@
       ]
     ],
     "dalış": [
-      "Yazın dalış kursuna katılmak istiyorum.",
+      "Yazın dalış yapmak istiyorum.",
       [
-        "I want to take a diving course in summer.",
-        "Летом я хочу пройти курс дайвинга.",
-        "Жайында сууга чумкуу курсуна катышкым келет.",
-        "أريد الالتحاق بدورة غوص في الصيف.",
-        "Je veux suivre un cours de plongée cet été."
+        "I want to go diving in summer.",
+        "Летом я хочу заняться дайвингом.",
+        "Жайында сууга чумкугум келет.",
+        "أريد ممارسة الغوص في الصيف.",
+        "Je veux faire de la plongée cet été."
       ]
     ],
     "abıl": [
@@ -22755,13 +25199,13 @@
       ]
     ],
     "ellerin": [
-      "Şair, sevdiği kişiye «yarim» diye sesleniyor.",
+      "Eski şiirde «ellerin» sözü başkalarını anlatıyor.",
       [
-        "The poet addresses the person they love as ‘my beloved’.",
-        "Поэт обращается к любимому человеку словами «мой любимый».",
-        "Акын сүйгөнүнө «сүйгөнүм» деп кайрылат.",
-        "ينادي الشاعر من يحب بلفظ «حبيبي».",
-        "Le poète s’adresse à l’être aimé en disant « mon amour »."
+        "In the old poem, the word ‘ellerin’ refers to other people.",
+        "В старом стихотворении слово «ellerin» означает чужих людей.",
+        "Эски ырда «ellerin» деген сөз бөтөн адамдарды билдирет.",
+        "في القصيدة القديمة تشير كلمة «ellerin» إلى الآخرين.",
+        "Dans le vieux poème, le mot « ellerin » désigne les autres."
       ]
     ],
     "yari": [
@@ -22805,13 +25249,13 @@
       ]
     ],
     "bellerin": [
-      "Çantanın bağı çürük olduğu için koptu.",
+      "Dansçılar, bellerin etrafına renkli kuşaklar bağladı.",
       [
-        "The bag’s strap broke because it was weak.",
-        "Завязка сумки порвалась, потому что была непрочной.",
-        "Сумканын боосу алсыз болгондуктан үзүлдү.",
-        "انقطع رباط الحقيبة لأنه كان ضعيفًا.",
-        "Le lien du sac s’est cassé parce qu’il était fragile."
+        "The dancers tied colourful sashes around their waists.",
+        "Танцоры повязали разноцветные пояса вокруг талий.",
+        "Бийчилер белдерине түркүн түстүү курларды байлашты.",
+        "ربط الراقصون أحزمة ملونة حول خصورهم.",
+        "Les danseurs ont noué des ceintures colorées autour de leurs tailles."
       ]
     ],
     "bağı": [
@@ -23175,13 +25619,13 @@
       ]
     ],
     "dinlen": [
-      "Bitişe ilk ulaşan kazanır, sonra herkes dinlenir.",
+      "Yorulduysan biraz dinlen.",
       [
-        "The first to reach the finish wins, then everyone rests.",
-        "Побеждает тот, кто первым достигает финиша, затем все отдыхают.",
-        "Марага биринчи жеткен жеңет, андан кийин баары эс алат.",
-        "يفوز أول من يصل إلى النهاية ثم يستريح الجميع.",
-        "Le premier qui atteint l’arrivée gagne, puis tout le monde se repose."
+        "Rest a little if you are tired.",
+        "Если устал, немного отдохни.",
+        "Чарчасаң, бир аз эс ал.",
+        "استرح قليلًا إن كنت متعبًا.",
+        "Si tu es fatigué, repose-toi un peu."
       ]
     ],
     "karate": [
@@ -23195,13 +25639,13 @@
       ]
     ],
     "yapamazsınız": [
-      "Şarkı söyleyebilirim ama gitar çalamam.",
+      "Bu kadar ağır bir işi tek başınıza yapamazsınız.",
       [
-        "I can sing, but I cannot play the guitar.",
-        "Я могу петь, но не умею играть на гитаре.",
-        "Ырдай алам, бирок гитарада ойной албайм.",
-        "أستطيع الغناء لكنني لا أستطيع العزف على الغيتار.",
-        "Je sais chanter, mais je ne sais pas jouer de la guitare."
+        "You cannot do such a demanding job on your own.",
+        "Вы не можете сделать такую тяжёлую работу в одиночку.",
+        "Мындай оор ишти жалгыз жасай албайсыз.",
+        "لا تستطيعون القيام بهذا العمل الشاق بمفردكم.",
+        "Vous ne pouvez pas faire un travail aussi difficile tout seul."
       ]
     ],
     "söyleyebilirim": [
@@ -23275,13 +25719,13 @@
       ]
     ],
     "metninizi": [
-      "Ben Elif Kuzgun, lise öğrencisiyim.",
+      "Metninizi arkadaşınıza okutun.",
       [
-        "I am Elif Kuzgun, a high school student.",
-        "Я Элиф Кузгун, ученица старшей школы.",
-        "Мен Элиф Кузгунмун, лицейдин окуучусумун.",
-        "أنا إليف كوزغون، طالبة في المدرسة الثانوية.",
-        "Je suis Elif Kuzgun, lycéenne."
+        "Ask your friend to read your text.",
+        "Попросите друга прочитать ваш текст.",
+        "Текстиңизди досуңузга окутуңуз.",
+        "اطلبوا من صديقكم قراءة نصكم.",
+        "Faites lire votre texte à votre ami."
       ]
     ],
     "kuzgun": [
@@ -24709,13 +27153,13 @@
         "آلة تصوير",
         "appareil photo"
       ],
-      "exampleTr": "Kendime bir fotoğrafçı dükkânı açmak istiyorum.",
+      "exampleTr": "Fotoğraf makinesiyle ailemin fotoğrafını çektim.",
       "examples": [
-        "I want to open a photography shop of my own.",
-        "Я хочу открыть собственную фотомастерскую.",
-        "Өзүмө фотосүрөтчү дүкөнүн ачкым келет.",
-        "أريد فتح محل تصوير خاص بي.",
-        "Je veux ouvrir ma propre boutique de photographie."
+        "I took a picture of my family with the camera.",
+        "Я сфотографировал семью фотоаппаратом.",
+        "Фотоаппарат менен үй-бүлөмдү сүрөткө тарттым.",
+        "التقطت صورة لعائلتي بآلة التصوير.",
+        "J’ai pris ma famille en photo avec l’appareil."
       ]
     },
     "fotoğraf çekmek": {
