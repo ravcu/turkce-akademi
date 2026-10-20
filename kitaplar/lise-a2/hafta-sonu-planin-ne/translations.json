@@ -196,6 +196,13 @@
       "ستة وأربعون",
       "quarante-six"
     ],
+    "47": [
+      "forty-seven",
+      "сорок семь",
+      "кырк жети",
+      "سبعة وأربعون",
+      "quarante-sept"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -7433,6 +7440,230 @@
       "сизби?",
       "هل أنتم؟",
       "êtes-vous ?"
+    ],
+    "türkü": [
+      "Turkish folk song",
+      "турецкая народная песня",
+      "түрк элдик ыры",
+      "أغنية شعبية تركية",
+      "chanson folklorique turque"
+    ],
+    "zamanı": [
+      "time; its time",
+      "время",
+      "убактысы",
+      "وقت",
+      "moment"
+    ],
+    "eşlik": [
+      "accompaniment",
+      "сопровождение",
+      "коштоп ырдоо",
+      "مرافقة",
+      "accompagnement"
+    ],
+    "m.001": [
+      "music recording M.001",
+      "музыкальная запись M.001",
+      "M.001 музыкалык жазуусу",
+      "التسجيل الموسيقي M.001",
+      "enregistrement musical M.001"
+    ],
+    "seher": [
+      "dawn; early morning",
+      "рассвет",
+      "таң заар",
+      "السحر؛ الفجر",
+      "aube"
+    ],
+    "vakti": [
+      "time; moment",
+      "время; пора",
+      "убактысы",
+      "وقت",
+      "moment"
+    ],
+    "çıktık": [
+      "we went out; set off",
+      "мы вышли; отправились",
+      "чыктык; жөнөдүк",
+      "خرجنا؛ انطلقنا",
+      "nous sommes sortis; partis"
+    ],
+    "direk": [
+      "pole; pillar",
+      "столб; опора",
+      "тирөөч; мамы",
+      "عمود",
+      "poteau; pilier"
+    ],
+    "ayağında": [
+      "on his/her foot",
+      "на его/её ноге",
+      "бутунда",
+      "في قدمه",
+      "à son pied"
+    ],
+    "sedef": [
+      "mother-of-pearl",
+      "перламутр",
+      "седеп; бермет кабык",
+      "صدف",
+      "nacre"
+    ],
+    "nalın": [
+      "wooden clog",
+      "деревянный башмак",
+      "жыгач кепич",
+      "قبقاب خشبي",
+      "sabot en bois"
+    ],
+    "selam": [
+      "greeting; hello",
+      "привет",
+      "салам",
+      "سلام؛ تحية",
+      "salut; salutation"
+    ],
+    "verdik": [
+      "we gave",
+      "мы дали",
+      "бердик",
+      "أعطينا",
+      "nous avons donné"
+    ],
+    "söylemeye": [
+      "to say; to sing",
+      "говорить; петь",
+      "айтууга; ырдоого",
+      "للقول؛ للغناء",
+      "à dire; à chanter"
+    ],
+    "yürek": [
+      "heart; courage",
+      "сердце; смелость",
+      "жүрөк; кайрат",
+      "قلب؛ شجاعة",
+      "cœur; courage"
+    ],
+    "beyim": [
+      "my lord; sir (traditional)",
+      "мой господин",
+      "мырзам",
+      "سيدي",
+      "mon seigneur; monsieur"
+    ],
+    "köşkünde": [
+      "in your/his mansion",
+      "в твоём/его особняке",
+      "сарайыңда; сарайында",
+      "في قصرك؛ قصره",
+      "dans ton/son pavillon"
+    ],
+    "salın": [
+      "sway; move gracefully (imperative)",
+      "покачивайся; прогуливайся",
+      "термел; кериле бас",
+      "تمايل",
+      "balance-toi; pavane-toi"
+    ],
+    "ramazan-ı": [
+      "of Ramadan (Ottoman expression)",
+      "Рамадана (устаревшая форма)",
+      "Рамазандын (эски форма)",
+      "رمضان (صيغة عثمانية)",
+      "de Ramadan (forme ancienne)"
+    ],
+    "şerifiniz": [
+      "your noble/blessed (in Ramadan greeting)",
+      "ваш благословенный",
+      "сиздин ыйык",
+      "شريفكم؛ المبارك",
+      "votre noble; béni"
+    ],
+    "karnım": [
+      "my stomach",
+      "мой живот",
+      "курсагым",
+      "بطني",
+      "mon ventre"
+    ],
+    "toktur": [
+      "is full; not hungry",
+      "сыт",
+      "ток",
+      "شبعان",
+      "est rassasié"
+    ],
+    "bahşiş": [
+      "tip; gratuity",
+      "чаевые",
+      "чайпул",
+      "بقشيش؛ إكرامية",
+      "pourboire"
+    ],
+    "aldık": [
+      "we took; received",
+      "мы взяли; получили",
+      "алдык",
+      "أخذنا؛ تلقينا",
+      "nous avons pris; reçu"
+    ],
+    "gidiyoruz": [
+      "we are going",
+      "мы идём; едем",
+      "бара жатабыз",
+      "نذهب",
+      "nous allons"
+    ],
+    "ola": [
+      "may it be (archaic wish)",
+      "да будет (устар.)",
+      "болсун (эски тил)",
+      "ليكن (صيغة قديمة)",
+      "que ce soit (archaïque)"
+    ],
+    "börek": [
+      "savory filled pastry",
+      "бёрек; пирог",
+      "бөрөк",
+      "بورك؛ فطيرة محشوة",
+      "börek; feuilleté salé"
+    ],
+    "safa": [
+      "pleasure; well-being (in expression)",
+      "радость; благополучие",
+      "ырахат; бакубаттык",
+      "صفاء؛ سرور",
+      "plaisir; bien-être"
+    ],
+    "kalın": [
+      "stay (polite/plural); thick",
+      "оставайтесь; толстый",
+      "калыңыздар; калың",
+      "ابقوا؛ سميك",
+      "restez; épais"
+    ],
+    "kalbiniz": [
+      "your heart",
+      "ваше сердце",
+      "жүрөгүңүз",
+      "قلبكم",
+      "votre cœur"
+    ],
+    "nur": [
+      "light; divine radiance",
+      "свет; сияние",
+      "нур; жарык",
+      "نور",
+      "lumière; clarté"
+    ],
+    "dola": [
+      "may it fill; let it be filled",
+      "пусть наполнится",
+      "толсун",
+      "ليمتلئ",
+      "qu'il se remplisse"
     ]
   },
   "phrases": {
@@ -10164,6 +10395,16 @@
         "Кырк алтынчы бетти ачкыла.",
         "افتحوا الصفحة السادسة والأربعين.",
         "Ouvrez la page quarante-six."
+      ]
+    },
+    "47": {
+      "tr": "Kırk yedinci sayfayı açın.",
+      "values": [
+        "Open page forty-seven.",
+        "Откройте сорок седьмую страницу.",
+        "Кырк жетинчи бетти ачкыла.",
+        "افتحوا الصفحة السابعة والأربعين.",
+        "Ouvrez la page quarante-sept."
       ]
     },
     "50": {
@@ -20184,6 +20425,326 @@
         "Иш-чарага катышасызбы?",
         "هل ستحضرون الفعالية؟",
         "Participerez-vous à l'événement ?"
+      ]
+    },
+    "türkü": {
+      "tr": "Dedem eski bir türkü söyledi.",
+      "values": [
+        "My grandfather sang an old folk song.",
+        "Дедушка спел старую народную песню.",
+        "Чоң атам эски элдик ырды ырдады.",
+        "غنّى جدي أغنية شعبية قديمة.",
+        "Mon grand-père a chanté une vieille chanson folklorique."
+      ]
+    },
+    "zamanı": {
+      "tr": "Şimdi türkü zamanı.",
+      "values": [
+        "It's time for a folk song.",
+        "Сейчас время народной песни.",
+        "Азыр элдик ырдын убактысы.",
+        "حان وقت الأغنية الشعبية.",
+        "C'est l'heure de la chanson folklorique."
+      ]
+    },
+    "eşlik": {
+      "tr": "Şarkıya hep birlikte eşlik ettik.",
+      "values": [
+        "We all sang along with the song.",
+        "Мы все подпевали песне.",
+        "Баарыбыз ырга кошулуп ырдадык.",
+        "رافقنا الأغنية بالغناء جميعًا.",
+        "Nous avons tous chanté avec la chanson."
+      ]
+    },
+    "m.001": {
+      "tr": "M.001 kaydını dinleyin.",
+      "values": [
+        "Listen to recording M.001.",
+        "Прослушайте запись M.001.",
+        "M.001 жазуусун уккула.",
+        "استمعوا إلى التسجيل M.001.",
+        "Écoutez l'enregistrement M.001."
+      ]
+    },
+    "seher": {
+      "tr": "Seher vakti yola çıktık.",
+      "values": [
+        "We set off at dawn.",
+        "Мы отправились в путь на рассвете.",
+        "Таң заарда жолго чыктык.",
+        "انطلقنا عند الفجر.",
+        "Nous sommes partis à l'aube."
+      ]
+    },
+    "vakti": {
+      "tr": "Seher vakti hava serindi.",
+      "values": [
+        "It was cool at dawn.",
+        "На рассвете было прохладно.",
+        "Таң заарда аба салкын болчу.",
+        "كان الجو باردًا عند الفجر.",
+        "Il faisait frais à l'aube."
+      ]
+    },
+    "çıktık": {
+      "tr": "Sabah erkenden yola çıktık.",
+      "values": [
+        "We set off early in the morning.",
+        "Мы отправились в путь рано утром.",
+        "Эртең менен эрте жолго чыктык.",
+        "انطلقنا في الصباح الباكر.",
+        "Nous sommes partis tôt le matin."
+      ]
+    },
+    "direk": {
+      "tr": "Bahçeye yeni bir direk diktiler.",
+      "values": [
+        "They put up a new pole in the garden.",
+        "Во дворе установили новый столб.",
+        "Бакчага жаңы мамы орнотушту.",
+        "نصبوا عمودًا جديدًا في الحديقة.",
+        "Ils ont installé un nouveau poteau dans le jardin."
+      ]
+    },
+    "ayağında": {
+      "tr": "Ayağında yeni ayakkabılar var.",
+      "values": [
+        "He has new shoes on.",
+        "На нём новая обувь.",
+        "Бутунда жаңы бут кийим бар.",
+        "يرتدي حذاءً جديدًا.",
+        "Il porte de nouvelles chaussures."
+      ]
+    },
+    "sedef": {
+      "tr": "Kutunun üzerinde sedef süsler var.",
+      "values": [
+        "There are mother-of-pearl decorations on the box.",
+        "На коробке есть перламутровые украшения.",
+        "Кутунун үстүндө седеп кооздуктар бар.",
+        "توجد زخارف من الصدف على الصندوق.",
+        "Il y a des décorations en nacre sur la boîte."
+      ]
+    },
+    "nalın": {
+      "tr": "Müzede eski nalınlar gördüm.",
+      "values": [
+        "I saw old wooden clogs in the museum.",
+        "Я увидел старые деревянные башмаки в музее.",
+        "Музейден эски жыгач кепичтерди көрдүм.",
+        "رأيت قباقيب خشبية قديمة في المتحف.",
+        "J'ai vu de vieux sabots en bois au musée."
+      ]
+    },
+    "selam": {
+      "tr": "Komşuma selam verdim.",
+      "values": [
+        "I greeted my neighbor.",
+        "Я поздоровался с соседом.",
+        "Кошунама салам бердим.",
+        "سلّمت على جاري.",
+        "J'ai salué mon voisin."
+      ]
+    },
+    "verdik": {
+      "tr": "Herkese selam verdik.",
+      "values": [
+        "We greeted everyone.",
+        "Мы со всеми поздоровались.",
+        "Баарына салам бердик.",
+        "سلّمنا على الجميع.",
+        "Nous avons salué tout le monde."
+      ]
+    },
+    "söylemeye": {
+      "tr": "Yeni bir türkü söylemeye başladık.",
+      "values": [
+        "We started singing a new folk song.",
+        "Мы начали петь новую народную песню.",
+        "Жаңы элдик ырды ырдай баштадык.",
+        "بدأنا نغني أغنية شعبية جديدة.",
+        "Nous avons commencé à chanter une nouvelle chanson folklorique."
+      ]
+    },
+    "yürek": {
+      "tr": "Bu işi yapmak yürek ister.",
+      "values": [
+        "This takes courage.",
+        "Для этого нужна смелость.",
+        "Бул ишке кайрат керек.",
+        "هذا العمل يحتاج إلى شجاعة.",
+        "Il faut du courage pour faire cela."
+      ]
+    },
+    "beyim": {
+      "tr": "Beyim, buyurun içeri.",
+      "values": [
+        "Sir, please come in.",
+        "Господин, проходите.",
+        "Мырзам, ичкери кириңиз.",
+        "تفضل بالدخول يا سيدي.",
+        "Monsieur, entrez, je vous prie."
+      ]
+    },
+    "köşkünde": {
+      "tr": "Eski köşkünde misafirlerini ağırlıyor.",
+      "values": [
+        "He welcomes guests in his old mansion.",
+        "Он принимает гостей в своём старом особняке.",
+        "Эски сарайында конокторун тосот.",
+        "يستقبل ضيوفه في قصره القديم.",
+        "Il reçoit ses invités dans son ancien pavillon."
+      ]
+    },
+    "salın": {
+      "tr": "Rüzgârda hafifçe salın.",
+      "values": [
+        "Sway gently in the wind.",
+        "Слегка покачивайся на ветру.",
+        "Шамалда акырын термел.",
+        "تمايل برفق مع الريح.",
+        "Balance-toi doucement dans le vent."
+      ]
+    },
+    "ramazan-ı": {
+      "tr": "Ramazan-ı şerifiniz mübarek olsun.",
+      "values": [
+        "Blessed Ramadan to you.",
+        "Благословенного вам Рамадана.",
+        "Ыйык Рамазаныңыз кут болсун.",
+        "رمضانكم مبارك.",
+        "Que votre Ramadan soit béni."
+      ]
+    },
+    "şerifiniz": {
+      "tr": "Ramazan-ı şerifiniz mübarek olsun.",
+      "values": [
+        "May your holy Ramadan be blessed.",
+        "Пусть ваш священный Рамадан будет благословенным.",
+        "Ыйык Рамазаныңыз кут болсун.",
+        "رمضانكم المبارك، تقبّل الله منكم.",
+        "Que votre saint Ramadan soit béni."
+      ]
+    },
+    "karnım": {
+      "tr": "Karnım tok, teşekkür ederim.",
+      "values": [
+        "I'm full, thank you.",
+        "Я сыт, спасибо.",
+        "Курсагым ток, рахмат.",
+        "أنا شبعان، شكرًا.",
+        "Je n'ai plus faim, merci."
+      ]
+    },
+    "toktur": {
+      "tr": "Karnım toktur, yemek istemiyorum.",
+      "values": [
+        "I'm full, I don't want to eat.",
+        "Я сыт, не хочу есть.",
+        "Курсагым ток, тамак жегим келбейт.",
+        "أنا شبعان، لا أريد الطعام.",
+        "Je suis rassasié, je ne veux pas manger."
+      ]
+    },
+    "bahşiş": {
+      "tr": "Garsona bahşiş bıraktık.",
+      "values": [
+        "We left a tip for the waiter.",
+        "Мы оставили официанту чаевые.",
+        "Официантка чайпул калтырдык.",
+        "تركنا بقشيشًا للنادل.",
+        "Nous avons laissé un pourboire au serveur."
+      ]
+    },
+    "aldık": {
+      "tr": "Biletleri gişeden aldık.",
+      "values": [
+        "We bought the tickets at the counter.",
+        "Мы купили билеты в кассе.",
+        "Билеттерди кассадан алдык.",
+        "اشترينا التذاكر من الشباك.",
+        "Nous avons acheté les billets au guichet."
+      ]
+    },
+    "gidiyoruz": {
+      "tr": "Şimdi eve gidiyoruz.",
+      "values": [
+        "We're going home now.",
+        "Сейчас мы идём домой.",
+        "Азыр үйгө бара жатабыз.",
+        "نذهب إلى البيت الآن.",
+        "Nous rentrons à la maison maintenant."
+      ]
+    },
+    "ola": {
+      "tr": "Bayramınız mübarek ola.",
+      "values": [
+        "May your holiday be blessed.",
+        "Да будет благословен ваш праздник.",
+        "Майрамыңыз кут болсун.",
+        "ليكن عيدكم مباركًا.",
+        "Que votre fête soit bénie."
+      ]
+    },
+    "börek": {
+      "tr": "Annem peynirli börek yaptı.",
+      "values": [
+        "My mother made cheese börek.",
+        "Мама приготовила бёрек с сыром.",
+        "Апам сыр кошулган бөрөк жасады.",
+        "أعدّت أمي بورك بالجبن.",
+        "Ma mère a préparé des böreks au fromage."
+      ]
+    },
+    "safa": {
+      "tr": "Safa ile hoşça kalın.",
+      "values": [
+        "Farewell with joy and peace.",
+        "Прощайте с радостью и миром.",
+        "Аман-эсен, көңүлдүү калыңыздар.",
+        "ابقوا في سرور وسلام.",
+        "Restez dans la joie et la paix."
+      ]
+    },
+    "kalın": {
+      "tr": "Hoşça kalın, yine görüşürüz.",
+      "values": [
+        "Goodbye, see you again.",
+        "До свидания, ещё увидимся.",
+        "Кош калыңыздар, дагы көрүшөбүз.",
+        "ابقوا بخير، نلتقي مجددًا.",
+        "Au revoir, à bientôt."
+      ]
+    },
+    "kalbiniz": {
+      "tr": "Kalbiniz sevgiyle dolsun.",
+      "values": [
+        "May your heart be full of love.",
+        "Пусть ваше сердце будет полно любви.",
+        "Жүрөгүңүз сүйүүгө толсун.",
+        "ليمتلئ قلبكم بالحب.",
+        "Que votre cœur soit rempli d'amour."
+      ]
+    },
+    "nur": {
+      "tr": "Eviniz nurla dolsun.",
+      "values": [
+        "May your home be filled with light.",
+        "Пусть ваш дом наполнится светом.",
+        "Үйүңүз нурга толсун.",
+        "ليمتلئ بيتكم نورًا.",
+        "Que votre maison soit remplie de lumière."
+      ]
+    },
+    "dola": {
+      "tr": "Kalbiniz nur ile dola.",
+      "values": [
+        "May your heart be filled with light.",
+        "Пусть ваше сердце наполнится светом.",
+        "Жүрөгүңүз нурга толсун.",
+        "ليمتلئ قلبكم نورًا.",
+        "Que votre cœur soit rempli de lumière."
       ]
     }
   },
