@@ -7930,6 +7930,118 @@
       "чакыруу баракчасы",
       "بطاقة دعوة",
       "carte d'invitation"
+    ],
+    "duyuru": [
+      "the announcement",
+      "объявление",
+      "кулактандырууну",
+      "الإعلان",
+      "l'annonce"
+    ],
+    "Reyhan": [
+      "Reyhan (name)",
+      "Рейхан (имя)",
+      "Рейхан (ысым)",
+      "ريحان (اسم)",
+      "Reyhan (prénom)"
+    ],
+    "Hüseyin": [
+      "Hüseyin (name)",
+      "Хюсейн (имя)",
+      "Хүсейин (ысым)",
+      "حسين (اسم)",
+      "Hüseyin (prénom)"
+    ],
+    "evlenmek": [
+      "we will get married",
+      "мы поженимся",
+      "биз үйлөнөбүз",
+      "سنتزوج",
+      "nous allons nous marier"
+    ],
+    "akraba": [
+      "our relatives (object)",
+      "наших родственников",
+      "туугандарыбызды",
+      "أقاربنا",
+      "nos proches"
+    ],
+    "birbiri": [
+      "to each other",
+      "друг другу",
+      "бири-бириңерге",
+      "لبعضكم بعضًا",
+      "l'un à l'autre"
+    ],
+    "metin": [
+      "your text",
+      "ваш текст",
+      "текстиңиз",
+      "نصكم",
+      "votre texte"
+    ],
+    "soru": [
+      "questions",
+      "вопросы",
+      "суроолор",
+      "أسئلة",
+      "questions"
+    ],
+    "öğrenci": [
+      "student",
+      "ученик",
+      "окуучу",
+      "طالب",
+      "élève"
+    ],
+    "Beşiktaş": [
+      "in Beşiktaş",
+      "в Бешикташе",
+      "Бешикташта",
+      "في بشكتاش",
+      "à Beşiktaş"
+    ],
+    "kişi": [
+      "person",
+      "человек",
+      "киши",
+      "شخص",
+      "personne"
+    ],
+    "oyun": [
+      "game; dance",
+      "игра; танец",
+      "оюн; бий",
+      "لعبة؛ رقصة",
+      "jeu ; danse"
+    ],
+    "kart": [
+      "the card (object); his/her card",
+      "карточку; его/её карточка",
+      "картаны; анын картасы",
+      "البطاقة",
+      "la carte"
+    ],
+    "oluşturmak": [
+      "create (plural/polite imperative)",
+      "создайте",
+      "түзгүлө",
+      "أنشئوا",
+      "créez"
+    ],
+    "kutlama": [
+      "to the celebration",
+      "на празднование",
+      "майрамдоого",
+      "إلى الاحتفال",
+      "à la fête"
+    ],
+    "unutmak": [
+      "don't forget (plural/polite)",
+      "не забывайте",
+      "унутпагыла",
+      "لا تنسوا",
+      "n'oubliez pas"
     ]
   },
   "phrases": {
@@ -10668,6 +10780,91 @@
         "Бүтүрүү кечеси үчүн чакыруу даярдагым келет.",
         "أريد إعداد بطاقة دعوة لحفل التخرج.",
         "Je veux préparer une invitation pour la remise des diplômes."
+      ]
+    },
+    "düğün salonu": {
+      "translations": [
+        "wedding hall",
+        "свадебный зал",
+        "тойкана",
+        "قاعة أفراح",
+        "salle de mariage"
+      ],
+      "exampleTr": "Düğün salonunu önceden ayırttık.",
+      "examples": [
+        "We booked the wedding hall in advance.",
+        "Мы заранее забронировали свадебный зал.",
+        "Тойкананы алдын ала ээлеп койдук.",
+        "حجزنا قاعة الأفراح مسبقًا.",
+        "Nous avons réservé la salle de mariage à l'avance."
+      ]
+    },
+    "yemek yemek": {
+      "translations": [
+        "to eat",
+        "есть",
+        "тамак жеш",
+        "تناول الطعام",
+        "manger"
+      ],
+      "exampleTr": "Düğünde birlikte yemek yiyeceğiz.",
+      "examples": [
+        "We'll eat together at the wedding.",
+        "На свадьбе мы будем есть вместе.",
+        "Тойдо чогуу тамак жейбиз.",
+        "سنتناول الطعام معًا في حفل الزفاف.",
+        "Nous mangerons ensemble au mariage."
+      ]
+    },
+    "oyun oynamak": {
+      "translations": [
+        "to play a game; to dance (at a wedding)",
+        "играть; танцевать (на свадьбе)",
+        "оюн ойноо; тойдо бийлөө",
+        "اللعب؛ الرقص في حفل الزفاف",
+        "jouer ; danser (à un mariage)"
+      ],
+      "exampleTr": "Düğünde arkadaşlarımızla oyun oynayacağız.",
+      "examples": [
+        "We'll dance with our friends at the wedding.",
+        "На свадьбе мы будем танцевать с друзьями.",
+        "Тойдо досторубуз менен бийлейбиз.",
+        "سنرقص مع أصدقائنا في حفل الزفاف.",
+        "Nous danserons avec nos amis au mariage."
+      ]
+    },
+    "tebrik kartı": {
+      "translations": [
+        "greeting card",
+        "поздравительная открытка",
+        "куттуктоо баракчасы",
+        "بطاقة تهنئة",
+        "carte de félicitations"
+      ],
+      "exampleTr": "Arkadaşıma bir tebrik kartı yazdım.",
+      "examples": [
+        "I wrote a greeting card for my friend.",
+        "Я написал поздравительную открытку другу.",
+        "Досума куттуктоо баракчасын жаздым.",
+        "كتبت بطاقة تهنئة لصديقي.",
+        "J'ai écrit une carte de félicitations à mon ami."
+      ]
+    },
+    "yıldızlar düğün salonu": {
+      "translations": [
+        "Yıldızlar Wedding Hall",
+        "свадебный зал «Йылдызлар»",
+        "«Йылдызлар» тойканасы",
+        "قاعة يلدزلار للأفراح",
+        "salle des fêtes Yıldızlar"
+      ],
+      "exampleTr": "Düğün Yıldızlar Düğün Salonu'nda olacak.",
+      "examples": [
+        "The wedding will be at Yıldızlar Wedding Hall.",
+        "Свадьба будет в зале «Йылдызлар».",
+        "Үйлөнүү тою «Йылдызлар» тойканасында болот.",
+        "سيقام الزفاف في قاعة يلدزلار للأفراح.",
+        "Le mariage aura lieu à la salle Yıldızlar."
       ]
     }
   },
@@ -21701,6 +21898,176 @@
         "أعددت بطاقة دعوة ملونة لعيد الميلاد.",
         "J'ai préparé une carte d'invitation colorée pour l'anniversaire."
       ]
+    },
+    "duyuru": {
+      "tr": "Duyuruyu sınıf grubunda paylaştım.",
+      "values": [
+        "I shared the announcement in the class group.",
+        "Я поделился объявлением в группе класса.",
+        "Кулактандырууну класстын тайпасына жөнөттүм.",
+        "شاركت الإعلان في مجموعة الصف.",
+        "J'ai partagé l'annonce dans le groupe de la classe."
+      ]
+    },
+    "Reyhan": {
+      "tr": "Reyhan düğün davetiyelerini hazırlıyor.",
+      "values": [
+        "Reyhan is preparing the wedding invitations.",
+        "Рейхан готовит свадебные приглашения.",
+        "Рейхан үйлөнүү тойго чакырууларды даярдап жатат.",
+        "تجهز ريحان دعوات الزفاف.",
+        "Reyhan prépare les invitations au mariage."
+      ]
+    },
+    "Hüseyin": {
+      "tr": "Hüseyin arkadaşlarını düğüne davet etti.",
+      "values": [
+        "Hüseyin invited his friends to the wedding.",
+        "Хюсейн пригласил друзей на свадьбу.",
+        "Хүсейин досторун үйлөнүү тойго чакырды.",
+        "دعا حسين أصدقاءه إلى حفل الزفاف.",
+        "Hüseyin a invité ses amis au mariage."
+      ]
+    },
+    "evlenmek": {
+      "tr": "Eylül ayında evleneceğiz.",
+      "values": [
+        "We will get married in September.",
+        "Мы поженимся в сентябре.",
+        "Сентябрь айында үйлөнөбүз.",
+        "سنتزوج في شهر سبتمبر.",
+        "Nous allons nous marier en septembre."
+      ]
+    },
+    "yıldız": {
+      "tr": "Düğünümüz Yıldız Düğün Salonu'nda olacak.",
+      "values": [
+        "Our wedding will be at Yıldız Wedding Hall.",
+        "Наша свадьба будет в свадебном зале «Йылдыз».",
+        "Үйлөнүү тоюбуз «Йылдыз» тойканасында болот.",
+        "سيقام حفل زفافنا في قاعة يلدز للأفراح.",
+        "Notre mariage aura lieu à la salle des fêtes Yıldız."
+      ]
+    },
+    "akraba": {
+      "tr": "Akrabalarımızı bayramda ziyaret ettik.",
+      "values": [
+        "We visited our relatives during the holiday.",
+        "Мы навестили родственников в праздник.",
+        "Майрамда туугандарыбызды көрүп келдик.",
+        "زرنا أقاربنا في العيد.",
+        "Nous avons rendu visite à nos proches pendant la fête."
+      ]
+    },
+    "birbiri": {
+      "tr": "Birbirinize sorular sorun.",
+      "values": [
+        "Ask each other questions.",
+        "Задавайте друг другу вопросы.",
+        "Бири-бириңерге суроо бергиле.",
+        "اطرحوا الأسئلة بعضكم على بعض.",
+        "Posez-vous des questions les uns aux autres."
+      ]
+    },
+    "metin": {
+      "tr": "Metniniz çok anlaşılır olmuş.",
+      "values": [
+        "Your text is very clear.",
+        "Ваш текст получился очень понятным.",
+        "Текстиңиз абдан түшүнүктүү болуптур.",
+        "نصكم واضح جدًا.",
+        "Votre texte est très clair."
+      ]
+    },
+    "soru": {
+      "tr": "Öğretmene üç soru sorduk.",
+      "values": [
+        "We asked the teacher three questions.",
+        "Мы задали учителю три вопроса.",
+        "Мугалимге үч суроо бердик.",
+        "طرحنا ثلاثة أسئلة على المعلم.",
+        "Nous avons posé trois questions au professeur."
+      ]
+    },
+    "öğrenci": {
+      "tr": "Öğrenci davetiyeyi okudu.",
+      "values": [
+        "The student read the invitation.",
+        "Ученик прочитал приглашение.",
+        "Окуучу чакырууну окуду.",
+        "قرأ الطالب بطاقة الدعوة.",
+        "L'élève a lu l'invitation."
+      ]
+    },
+    "Beşiktaş": {
+      "tr": "Düğün Beşiktaş'ta yapılacak.",
+      "values": [
+        "The wedding will be held in Beşiktaş.",
+        "Свадьба состоится в Бешикташе.",
+        "Үйлөнүү тою Бешикташта болот.",
+        "سيقام حفل الزفاف في بشكتاش.",
+        "Le mariage aura lieu à Beşiktaş."
+      ]
+    },
+    "kişi": {
+      "tr": "Toplantıya yirmi kişi geldi.",
+      "values": [
+        "Twenty people came to the meeting.",
+        "На собрание пришли двадцать человек.",
+        "Жыйынга жыйырма киши келди.",
+        "حضر الاجتماع عشرون شخصًا.",
+        "Vingt personnes sont venues à la réunion."
+      ]
+    },
+    "oyun": {
+      "tr": "Düğünde geleneksel oyun oynadık.",
+      "values": [
+        "We danced a traditional dance at the wedding.",
+        "На свадьбе мы исполнили традиционный танец.",
+        "Тойдо салттуу бий бийледик.",
+        "أدينا رقصة تقليدية في حفل الزفاف.",
+        "Nous avons dansé une danse traditionnelle au mariage."
+      ]
+    },
+    "kart": {
+      "tr": "Tebrik kartını arkadaşına verdi.",
+      "values": [
+        "She gave the greeting card to her friend.",
+        "Она передала поздравительную открытку подруге.",
+        "Ал куттуктоо баракчасын курбусуна берди.",
+        "أعطت بطاقة التهنئة لصديقتها.",
+        "Elle a donné la carte de vœux à son amie."
+      ]
+    },
+    "oluşturmak": {
+      "tr": "Grupça bir davetiye oluşturun.",
+      "values": [
+        "Create an invitation as a group.",
+        "Создайте приглашение всей группой.",
+        "Топ болуп чакыруу баракчасын түзгүлө.",
+        "أنشئوا بطاقة دعوة ضمن المجموعة.",
+        "Créez une invitation en groupe."
+      ]
+    },
+    "kutlama": {
+      "tr": "Kutlamaya bütün arkadaşlarım geldi.",
+      "values": [
+        "All my friends came to the celebration.",
+        "На праздник пришли все мои друзья.",
+        "Майрамдоого бардык досторум келди.",
+        "حضر جميع أصدقائي الاحتفال.",
+        "Tous mes amis sont venus à la fête."
+      ]
+    },
+    "unutmak": {
+      "tr": "Davetiyeye tarihi yazmayı unutmayın.",
+      "values": [
+        "Don't forget to write the date on the invitation.",
+        "Не забудьте написать дату на приглашении.",
+        "Чакыруу баракчасына датаны жазууну унутпагыла.",
+        "لا تنسوا كتابة التاريخ على بطاقة الدعوة.",
+        "N'oubliez pas d'écrire la date sur l'invitation."
+      ]
     }
   },
   "forms": {
@@ -23600,6 +23967,734 @@
         "Туулган күнгө түстүү чакыруу баракчасын даярдадым.",
         "أعددت بطاقة دعوة ملونة لعيد الميلاد.",
         "J'ai préparé une carte d'invitation colorée pour l'anniversaire."
+      ]
+    },
+    "duyuruyu": {
+      "lemma": "duyuru",
+      "lemmaTranslations": [
+        "the announcement",
+        "объявление",
+        "кулактандырууну",
+        "الإعلان",
+        "l'annonce"
+      ],
+      "formTranslations": [
+        "the announcement",
+        "объявление",
+        "кулактандырууну",
+        "الإعلان",
+        "l'annonce"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Duyuruyu sınıf grubunda paylaştım.",
+      "examples": [
+        "I shared the announcement in the class group.",
+        "Я поделился объявлением в группе класса.",
+        "Кулактандырууну класстын тайпасына жөнөттүм.",
+        "شاركت الإعلان في مجموعة الصف.",
+        "J'ai partagé l'annonce dans le groupe de la classe."
+      ]
+    },
+    "etkinliğinizle": {
+      "lemma": "etkinlik",
+      "lemmaTranslations": [
+        "activity; event",
+        "мероприятие",
+        "иш-чара",
+        "نشاط؛ فعالية",
+        "activité; événement"
+      ],
+      "formTranslations": [
+        "about your event",
+        "о вашем мероприятии",
+        "иш-чараңыз тууралуу",
+        "عن فعاليتكم",
+        "au sujet de votre événement"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Etkinliğinizle ilgili bilgi verir misiniz?",
+      "examples": [
+        "Pourriez-vous donner des informations sur votre événement ?",
+        "Не могли бы вы рассказать о вашем мероприятии?",
+        "Иш-чараңыз тууралуу маалымат бересизби?",
+        "هل يمكنكم تقديم معلومات عن فعاليتكم؟",
+        "Pourriez-vous donner des informations sur votre événement ?"
+      ]
+    },
+    "duyuru": {
+      "lemma": "duyuru",
+      "lemmaTranslations": [
+        "the announcement",
+        "объявление",
+        "кулактандырууну",
+        "الإعلان",
+        "l'annonce"
+      ],
+      "formTranslations": [
+        "announcement",
+        "объявление",
+        "кулактандыруу",
+        "إعلان",
+        "annonce"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Okul panosuna bir duyuru astık.",
+      "examples": [
+        "We put an announcement on the school noticeboard.",
+        "Мы повесили объявление на школьную доску.",
+        "Мектептин тактасына кулактандыруу илдик.",
+        "علّقنا إعلانًا على لوحة المدرسة.",
+        "Nous avons affiché une annonce au tableau de l'école."
+      ]
+    },
+    "reyhan": {
+      "lemma": "Reyhan",
+      "lemmaTranslations": [
+        "Reyhan (name)",
+        "Рейхан (имя)",
+        "Рейхан (ысым)",
+        "ريحان (اسم)",
+        "Reyhan (prénom)"
+      ],
+      "formTranslations": [
+        "Reyhan (name)",
+        "Рейхан (имя)",
+        "Рейхан (ысым)",
+        "ريحان (اسم)",
+        "Reyhan (prénom)"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Reyhan düğün davetiyelerini hazırlıyor.",
+      "examples": [
+        "Reyhan is preparing the wedding invitations.",
+        "Рейхан готовит свадебные приглашения.",
+        "Рейхан үйлөнүү тойго чакырууларды даярдап жатат.",
+        "تجهز ريحان دعوات الزفاف.",
+        "Reyhan prépare les invitations au mariage."
+      ]
+    },
+    "hüseyin": {
+      "lemma": "Hüseyin",
+      "lemmaTranslations": [
+        "Hüseyin (name)",
+        "Хюсейн (имя)",
+        "Хүсейин (ысым)",
+        "حسين (اسم)",
+        "Hüseyin (prénom)"
+      ],
+      "formTranslations": [
+        "Hüseyin (name)",
+        "Хюсейн (имя)",
+        "Хүсейин (ысым)",
+        "حسين (اسم)",
+        "Hüseyin (prénom)"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Hüseyin arkadaşlarını düğüne davet etti.",
+      "examples": [
+        "Hüseyin invited his friends to the wedding.",
+        "Хюсейн пригласил друзей на свадьбу.",
+        "Хүсейин досторун үйлөнүү тойго чакырды.",
+        "دعا حسين أصدقاءه إلى حفل الزفاف.",
+        "Hüseyin a invité ses amis au mariage."
+      ]
+    },
+    "evleneceğiz": {
+      "lemma": "evlenmek",
+      "lemmaTranslations": [
+        "we will get married",
+        "мы поженимся",
+        "биз үйлөнөбүз",
+        "سنتزوج",
+        "nous allons nous marier"
+      ],
+      "formTranslations": [
+        "we will get married",
+        "мы поженимся",
+        "биз үйлөнөбүз",
+        "سنتزوج",
+        "nous allons nous marier"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Eylül ayında evleneceğiz.",
+      "examples": [
+        "We will get married in September.",
+        "Мы поженимся в сентябре.",
+        "Сентябрь айында үйлөнөбүз.",
+        "سنتزوج في شهر سبتمبر.",
+        "Nous allons nous marier en septembre."
+      ]
+    },
+    "düğünümüz": {
+      "lemma": "düğün",
+      "lemmaTranslations": [
+        "wedding",
+        "свадьба",
+        "үйлөнүү той",
+        "حفل زفاف",
+        "mariage"
+      ],
+      "formTranslations": [
+        "our wedding",
+        "наша свадьба",
+        "биздин үйлөнүү тоюбуз",
+        "حفل زفافنا",
+        "notre mariage"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Düğünümüz pazar günü yapılacak.",
+      "examples": [
+        "Our wedding will take place on Sunday.",
+        "Наша свадьба состоится в воскресенье.",
+        "Үйлөнүү тоюбуз жекшембиде болот.",
+        "سيقام حفل زفافنا يوم الأحد.",
+        "Notre mariage aura lieu dimanche."
+      ]
+    },
+    "yıldız": {
+      "lemma": "yıldız",
+      "lemmaTranslations": [
+        "star",
+        "звезда",
+        "жылдыз",
+        "نجمة",
+        "étoile"
+      ],
+      "formTranslations": [
+        "star; Yıldız (proper name)",
+        "звезда; Йылдыз (имя)",
+        "жылдыз; Йылдыз (аталыш)",
+        "نجمة؛ يلدز (اسم)",
+        "étoile ; Yıldız (nom propre)"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Düğünümüz Yıldız Düğün Salonu'nda olacak.",
+      "examples": [
+        "Our wedding will be at Yıldız Wedding Hall.",
+        "Наша свадьба будет в свадебном зале «Йылдыз».",
+        "Үйлөнүү тоюбуз «Йылдыз» тойканасында болот.",
+        "سيقام حفل زفافنا في قاعة يلدز للأفراح.",
+        "Notre mariage aura lieu à la salle des fêtes Yıldız."
+      ]
+    },
+    "salonu’nda": {
+      "lemma": "salon",
+      "lemmaTranslations": [
+        "hall; room",
+        "зал",
+        "зал",
+        "قاعة",
+        "salle"
+      ],
+      "formTranslations": [
+        "at the hall",
+        "в зале",
+        "залда",
+        "في القاعة",
+        "dans la salle"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Tören okulun konferans salonunda yapılacak.",
+      "examples": [
+        "The ceremony will take place in the school auditorium.",
+        "Церемония пройдёт в актовом зале школы.",
+        "Салтанат мектептин жыйындар залында өтөт.",
+        "سيقام الحفل في قاعة المدرسة.",
+        "La cérémonie aura lieu dans la salle de conférence de l'école."
+      ]
+    },
+    "akrabalarımızı": {
+      "lemma": "akraba",
+      "lemmaTranslations": [
+        "our relatives (object)",
+        "наших родственников",
+        "туугандарыбызды",
+        "أقاربنا",
+        "nos proches"
+      ],
+      "formTranslations": [
+        "our relatives (object)",
+        "наших родственников",
+        "туугандарыбызды",
+        "أقاربنا",
+        "nos proches"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Akrabalarımızı bayramda ziyaret ettik.",
+      "examples": [
+        "We visited our relatives during the holiday.",
+        "Мы навестили родственников в праздник.",
+        "Майрамда туугандарыбызды көрүп келдик.",
+        "زرنا أقاربنا في العيد.",
+        "Nous avons rendu visite à nos proches pendant la fête."
+      ]
+    },
+    "arkadaşlarımızı": {
+      "lemma": "arkadaş",
+      "lemmaTranslations": [
+        "friend",
+        "друг",
+        "дос",
+        "صديق",
+        "ami"
+      ],
+      "formTranslations": [
+        "our friends (object)",
+        "наших друзей",
+        "досторубузду",
+        "أصدقاءنا",
+        "nos amis"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Arkadaşlarımızı pikniğe çağırdık.",
+      "examples": [
+        "We invited our friends to a picnic.",
+        "Мы пригласили друзей на пикник.",
+        "Досторубузду сейилдөөгө чакырдык.",
+        "دعونا أصدقاءنا إلى نزهة.",
+        "Nous avons invité nos amis à un pique-nique."
+      ]
+    },
+    "birbirinize": {
+      "lemma": "birbiri",
+      "lemmaTranslations": [
+        "to each other",
+        "друг другу",
+        "бири-бириңерге",
+        "لبعضكم بعضًا",
+        "l'un à l'autre"
+      ],
+      "formTranslations": [
+        "to each other",
+        "друг другу",
+        "бири-бириңерге",
+        "لبعضكم بعضًا",
+        "l'un à l'autre"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Birbirinize sorular sorun.",
+      "examples": [
+        "Ask each other questions.",
+        "Задавайте друг другу вопросы.",
+        "Бири-бириңерге суроо бергиле.",
+        "اطرحوا الأسئلة بعضكم على بعض.",
+        "Posez-vous des questions les uns aux autres."
+      ]
+    },
+    "metniniz": {
+      "lemma": "metin",
+      "lemmaTranslations": [
+        "your text",
+        "ваш текст",
+        "текстиңиз",
+        "نصكم",
+        "votre texte"
+      ],
+      "formTranslations": [
+        "your text",
+        "ваш текст",
+        "текстиңиз",
+        "نصكم",
+        "votre texte"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Metniniz çok anlaşılır olmuş.",
+      "examples": [
+        "Your text is very clear.",
+        "Ваш текст получился очень понятным.",
+        "Текстиңиз абдан түшүнүктүү болуптур.",
+        "نصكم واضح جدًا.",
+        "Votre texte est très clair."
+      ]
+    },
+    "sorular": {
+      "lemma": "soru",
+      "lemmaTranslations": [
+        "questions",
+        "вопросы",
+        "суроолор",
+        "أسئلة",
+        "questions"
+      ],
+      "formTranslations": [
+        "questions",
+        "вопросы",
+        "суроолор",
+        "أسئلة",
+        "questions"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Öğretmene üç soru sorduk.",
+      "examples": [
+        "We asked the teacher three questions.",
+        "Мы задали учителю три вопроса.",
+        "Мугалимге үч суроо бердик.",
+        "طرحنا ثلاثة أسئلة على المعلم.",
+        "Nous avons posé trois questions au professeur."
+      ]
+    },
+    "öğrenci": {
+      "lemma": "öğrenci",
+      "lemmaTranslations": [
+        "student",
+        "ученик",
+        "окуучу",
+        "طالب",
+        "élève"
+      ],
+      "formTranslations": [
+        "student",
+        "ученик",
+        "окуучу",
+        "طالب",
+        "élève"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Öğrenci davetiyeyi okudu.",
+      "examples": [
+        "The student read the invitation.",
+        "Ученик прочитал приглашение.",
+        "Окуучу чакырууну окуду.",
+        "قرأ الطالب بطاقة الدعوة.",
+        "L'élève a lu l'invitation."
+      ]
+    },
+    "beşiktaş’ta": {
+      "lemma": "Beşiktaş",
+      "lemmaTranslations": [
+        "in Beşiktaş",
+        "в Бешикташе",
+        "Бешикташта",
+        "في بشكتاش",
+        "à Beşiktaş"
+      ],
+      "formTranslations": [
+        "in Beşiktaş",
+        "в Бешикташе",
+        "Бешикташта",
+        "في بشكتاش",
+        "à Beşiktaş"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Düğün Beşiktaş'ta yapılacak.",
+      "examples": [
+        "The wedding will be held in Beşiktaş.",
+        "Свадьба состоится в Бешикташе.",
+        "Үйлөнүү тою Бешикташта болот.",
+        "سيقام حفل الزفاف في بشكتاش.",
+        "Le mariage aura lieu à Beşiktaş."
+      ]
+    },
+    "kişi": {
+      "lemma": "kişi",
+      "lemmaTranslations": [
+        "person",
+        "человек",
+        "киши",
+        "شخص",
+        "personne"
+      ],
+      "formTranslations": [
+        "person",
+        "человек",
+        "киши",
+        "شخص",
+        "personne"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Toplantıya yirmi kişi geldi.",
+      "examples": [
+        "Twenty people came to the meeting.",
+        "На собрание пришли двадцать человек.",
+        "Жыйынга жыйырма киши келди.",
+        "حضر الاجتماع عشرون شخصًا.",
+        "Vingt personnes sont venues à la réunion."
+      ]
+    },
+    "yapacağız": {
+      "lemma": "yapmak",
+      "lemmaTranslations": [
+        "to do; to make",
+        "делать",
+        "жасоо",
+        "الفعل؛ الصنع",
+        "faire"
+      ],
+      "formTranslations": [
+        "we will do; we will make",
+        "мы сделаем",
+        "биз жасайбыз",
+        "سنفعل؛ سنصنع",
+        "nous allons faire"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Hafta sonu birlikte yemek yapacağız.",
+      "examples": [
+        "We'll cook together this weekend.",
+        "На выходных мы вместе приготовим еду.",
+        "Дем алышта чогуу тамак жасайбыз.",
+        "سنطبخ معًا في عطلة نهاية الأسبوع.",
+        "Nous allons cuisiner ensemble ce week-end."
+      ]
+    },
+    "yiyeceğiz": {
+      "lemma": "yemek",
+      "lemmaTranslations": [
+        "food; meal",
+        "еда",
+        "тамак",
+        "طعام",
+        "repas"
+      ],
+      "formTranslations": [
+        "we will eat",
+        "мы будем есть",
+        "биз жейбиз",
+        "سنأكل",
+        "nous mangerons"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Düğünden sonra pasta yiyeceğiz.",
+      "examples": [
+        "We'll eat cake after the wedding.",
+        "После свадьбы мы будем есть торт.",
+        "Тойдон кийин торт жейбиз.",
+        "سنأكل الكعكة بعد حفل الزفاف.",
+        "Nous mangerons du gâteau après le mariage."
+      ]
+    },
+    "oyun": {
+      "lemma": "oyun",
+      "lemmaTranslations": [
+        "game; dance",
+        "игра; танец",
+        "оюн; бий",
+        "لعبة؛ رقصة",
+        "jeu ; danse"
+      ],
+      "formTranslations": [
+        "game; dance",
+        "игра; танец",
+        "оюн; бий",
+        "لعبة؛ رقصة",
+        "jeu ; danse"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Düğünde geleneksel oyun oynadık.",
+      "examples": [
+        "We danced a traditional dance at the wedding.",
+        "На свадьбе мы исполнили традиционный танец.",
+        "Тойдо салттуу бий бийледик.",
+        "أدينا رقصة تقليدية في حفل الزفاف.",
+        "Nous avons dansé une danse traditionnelle au mariage."
+      ]
+    },
+    "kartı": {
+      "lemma": "kart",
+      "lemmaTranslations": [
+        "the card (object); his/her card",
+        "карточку; его/её карточка",
+        "картаны; анын картасы",
+        "البطاقة",
+        "la carte"
+      ],
+      "formTranslations": [
+        "the card (object); his/her card",
+        "карточку; его/её карточка",
+        "картаны; анын картасы",
+        "البطاقة",
+        "la carte"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Tebrik kartını arkadaşına verdi.",
+      "examples": [
+        "She gave the greeting card to her friend.",
+        "Она передала поздравительную открытку подруге.",
+        "Ал куттуктоо баракчасын курбусуна берди.",
+        "أعطت بطاقة التهنئة لصديقتها.",
+        "Elle a donné la carte de vœux à son amie."
+      ]
+    },
+    "oluşturun": {
+      "lemma": "oluşturmak",
+      "lemmaTranslations": [
+        "create (plural/polite imperative)",
+        "создайте",
+        "түзгүлө",
+        "أنشئوا",
+        "créez"
+      ],
+      "formTranslations": [
+        "create (plural/polite imperative)",
+        "создайте",
+        "түзгүлө",
+        "أنشئوا",
+        "créez"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Grupça bir davetiye oluşturun.",
+      "examples": [
+        "Create an invitation as a group.",
+        "Создайте приглашение всей группой.",
+        "Топ болуп чакыруу баракчасын түзгүлө.",
+        "أنشئوا بطاقة دعوة ضمن المجموعة.",
+        "Créez une invitation en groupe."
+      ]
+    },
+    "kutlamaya": {
+      "lemma": "kutlama",
+      "lemmaTranslations": [
+        "to the celebration",
+        "на празднование",
+        "майрамдоого",
+        "إلى الاحتفال",
+        "à la fête"
+      ],
+      "formTranslations": [
+        "to the celebration",
+        "на празднование",
+        "майрамдоого",
+        "إلى الاحتفال",
+        "à la fête"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Kutlamaya bütün arkadaşlarım geldi.",
+      "examples": [
+        "All my friends came to the celebration.",
+        "На праздник пришли все мои друзья.",
+        "Майрамдоого бардык досторум келди.",
+        "حضر جميع أصدقائي الاحتفال.",
+        "Tous mes amis sont venus à la fête."
+      ]
+    },
+    "katılmadınız": {
+      "lemma": "katılmak",
+      "lemmaTranslations": [
+        "to attend; participate",
+        "участвовать",
+        "катышуу",
+        "المشاركة",
+        "participer"
+      ],
+      "formTranslations": [
+        "you did not attend",
+        "вы не пришли; не участвовали",
+        "сиз катышкан жоксуз",
+        "لم تحضروا",
+        "vous n'avez pas participé"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Dünkü kutlamaya neden katılmadınız?",
+      "examples": [
+        "Why didn't you attend yesterday's celebration?",
+        "Почему вы не пришли на вчерашний праздник?",
+        "Эмне үчүн кечээги майрамга катышкан жоксуз?",
+        "لماذا لم تحضروا احتفال الأمس؟",
+        "Pourquoi n'avez-vous pas assisté à la fête d'hier ?"
+      ]
+    },
+    "nedenini": {
+      "lemma": "neden",
+      "lemmaTranslations": [
+        "why; reason",
+        "почему; причина",
+        "эмне үчүн; себеп",
+        "لماذا؛ سبب",
+        "pourquoi ; raison"
+      ],
+      "formTranslations": [
+        "the reason (object)",
+        "причину",
+        "себебин",
+        "السبب",
+        "la raison"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Gelemediğinin nedenini açıkladı.",
+      "examples": [
+        "She explained why she couldn't come.",
+        "Она объяснила причину своего отсутствия.",
+        "Ал эмне үчүн келе албаганын түшүндүрдү.",
+        "شرحت سبب عدم تمكنها من الحضور.",
+        "Elle a expliqué pourquoi elle n'avait pas pu venir."
+      ]
+    },
+    "cümlelerini": {
+      "lemma": "cümle",
+      "lemmaTranslations": [
+        "sentence",
+        "предложение",
+        "сүйлөм",
+        "جملة",
+        "phrase"
+      ],
+      "formTranslations": [
+        "the sentences (object/possessive)",
+        "предложения (винительный падеж)",
+        "сүйлөмдөрдү",
+        "الجمل",
+        "les phrases"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Tebrik cümlelerini defterinize yazın.",
+      "examples": [
+        "Write the congratulatory phrases in your notebook.",
+        "Запишите поздравительные фразы в тетрадь.",
+        "Куттуктоо сүйлөмдөрүн дептериңерге жазгыла.",
+        "اكتبوا عبارات التهنئة في دفاتركم.",
+        "Écrivez les phrases de félicitations dans votre cahier."
+      ]
+    },
+    "kullanmayı": {
+      "lemma": "kullanmak",
+      "lemmaTranslations": [
+        "will use",
+        "будет использовать",
+        "колдонот",
+        "سيستخدم",
+        "utilisera"
+      ],
+      "formTranslations": [
+        "using (object form)",
+        "использование (винительный падеж)",
+        "колдонууну",
+        "استخدام",
+        "l'utilisation"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Yeni kelimeleri kullanmayı unutmayın.",
+      "examples": [
+        "Don't forget to use the new words.",
+        "Не забывайте использовать новые слова.",
+        "Жаңы сөздөрдү колдонууну унутпагыла.",
+        "لا تنسوا استخدام الكلمات الجديدة.",
+        "N'oubliez pas d'utiliser les nouveaux mots."
+      ]
+    },
+    "unutmayın": {
+      "lemma": "unutmak",
+      "lemmaTranslations": [
+        "don't forget (plural/polite)",
+        "не забывайте",
+        "унутпагыла",
+        "لا تنسوا",
+        "n'oubliez pas"
+      ],
+      "formTranslations": [
+        "don't forget (plural/polite)",
+        "не забывайте",
+        "унутпагыла",
+        "لا تنسوا",
+        "n'oubliez pas"
+      ],
+      "lemmaType": "verb",
+      "exampleTr": "Davetiyeye tarihi yazmayı unutmayın.",
+      "examples": [
+        "Don't forget to write the date on the invitation.",
+        "Не забудьте написать дату на приглашении.",
+        "Чакыруу баракчасына датаны жазууну унутпагыла.",
+        "لا تنسوا كتابة التاريخ على بطاقة الدعوة.",
+        "N'oubliez pas d'écrire la date sur l'invitation."
       ]
     }
   },
