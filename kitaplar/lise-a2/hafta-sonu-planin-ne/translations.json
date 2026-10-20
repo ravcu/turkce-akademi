@@ -8441,6 +8441,91 @@
         "ليعش العروسان بسعادة وهناء.",
         "Que les mariés vivent heureux et comblés."
       ]
+    },
+    "türk dünyası": {
+      "translations": [
+        "Turkic world",
+        "тюркский мир",
+        "түрк дүйнөсү",
+        "العالم التركي",
+        "monde turcique"
+      ],
+      "exampleTr": "Türk dünyası festivaline katıldık.",
+      "examples": [
+        "We attended the Turkic world festival.",
+        "Мы побывали на фестивале тюркского мира.",
+        "Түрк дүйнөсү фестивалына катыштык.",
+        "شاركنا في مهرجان العالم التركي.",
+        "Nous avons participé au festival du monde turcique."
+      ]
+    },
+    "ata sporları": {
+      "translations": [
+        "traditional ancestral sports",
+        "традиционные национальные виды спорта",
+        "ата-бабалардын спорт түрлөрү",
+        "الرياضات التراثية",
+        "sports traditionnels ancestraux"
+      ],
+      "exampleTr": "Ata sporları festivalinde okçuluk gösterisi vardı.",
+      "examples": [
+        "There was an archery demonstration at the traditional sports festival.",
+        "На фестивале традиционных видов спорта показали стрельбу из лука.",
+        "Ата спорлору фестивалында жаа атуу көрсөтүлдү.",
+        "كان هناك عرض للرماية بالقوس في مهرجان الرياضات التراثية.",
+        "Il y avait une démonstration de tir à l'arc au festival des sports traditionnels."
+      ]
+    },
+    "imam hatip okulu": {
+      "translations": [
+        "imam-hatip school (religious vocational school)",
+        "школа имам-хатип",
+        "имам-хатип мектеби",
+        "مدرسة الإمام والخطيب",
+        "école imam-hatip"
+      ],
+      "exampleTr": "İmam hatip okulu fidan dikme etkinliği düzenledi.",
+      "examples": [
+        "The imam-hatip school organized a tree-planting event.",
+        "Школа имам-хатип организовала посадку деревьев.",
+        "Имам-хатип мектеби көчөт отургузуу иш-чарасын уюштурду.",
+        "نظمت مدرسة الإمام والخطيب فعالية لغرس الأشجار.",
+        "L'école imam-hatip a organisé une plantation d'arbres."
+      ]
+    },
+    "fidan dikme şenliği": {
+      "translations": [
+        "sapling-planting festival",
+        "праздник посадки саженцев",
+        "көчөт отургузуу майрамы",
+        "مهرجان غرس الشتلات",
+        "fête de plantation d'arbres"
+      ],
+      "exampleTr": "Fidan dikme şenliğinde on ağaç diktik.",
+      "examples": [
+        "We planted ten trees at the tree-planting festival.",
+        "На празднике посадки деревьев мы посадили десять деревьев.",
+        "Көчөт отургузуу майрамында он дарак тиктик.",
+        "زرعنا عشر أشجار في مهرجان غرس الشتلات.",
+        "Nous avons planté dix arbres pendant la fête de plantation."
+      ]
+    },
+    "telefon no": {
+      "translations": [
+        "phone number",
+        "номер телефона",
+        "телефон номери",
+        "رقم الهاتف",
+        "numéro de téléphone"
+      ],
+      "exampleTr": "Afişte telefon numarası yazıyor.",
+      "examples": [
+        "The phone number is on the poster.",
+        "На афише указан номер телефона.",
+        "Афишада телефон номери жазылган.",
+        "رقم الهاتف مكتوب على الملصق.",
+        "Le numéro de téléphone figure sur l'affiche."
+      ]
     }
   },
   "examples": {
