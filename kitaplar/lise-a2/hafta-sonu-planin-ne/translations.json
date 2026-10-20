@@ -203,6 +203,13 @@
       "سبعة وأربعون",
       "quarante-sept"
     ],
+    "48": [
+      "forty-eight",
+      "сорок восемь",
+      "кырк сегиз",
+      "ثمانية وأربعون",
+      "quarante-huit"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -7664,6 +7671,202 @@
       "толсун",
       "ليمتلئ",
       "qu'il se remplisse"
+    ],
+    "boşlukları": [
+      "the blanks",
+      "пропуски",
+      "бош орундарды",
+      "الفراغات",
+      "les blancs"
+    ],
+    "yapacaksınız": [
+      "you will do (polite/plural)",
+      "вы будете делать",
+      "кыласыздар",
+      "ستفعلون",
+      "vous allez faire"
+    ],
+    "kutlaması": [
+      "celebration",
+      "празднование",
+      "майрамдоо",
+      "احتفال",
+      "célébration"
+    ],
+    "ziyareti": [
+      "visit",
+      "посещение; визит",
+      "зыярат; барып көрүү",
+      "زيارة",
+      "visite"
+    ],
+    "görmeye": [
+      "to see; to visit",
+      "посмотреть; повидать",
+      "көрүүгө",
+      "لرؤية",
+      "pour voir"
+    ],
+    "mezuniyet": [
+      "graduation",
+      "выпускной; окончание учёбы",
+      "бүтүрүү кечеси",
+      "تخرّج",
+      "remise des diplômes"
+    ],
+    "azra": [
+      "Azra (given name)",
+      "Азра (имя)",
+      "Азра (ысым)",
+      "عذراء (اسم)",
+      "Azra (prénom)"
+    ],
+    "tey": [
+      "aunt (split fragment of teyzemin)",
+      "тётя (часть слова)",
+      "таеже (сөздүн бөлүгү)",
+      "خالتي (جزء كلمة)",
+      "tante (fragment de mot)"
+    ],
+    "haf": [
+      "week (split fragment of hafta)",
+      "неделя (часть слова)",
+      "жума (сөздүн бөлүгү)",
+      "أسبوع (جزء كلمة)",
+      "semaine (fragment de mot)"
+    ],
+    "doğdu": [
+      "was born",
+      "родился; родилась",
+      "төрөлдү",
+      "وُلِد",
+      "est né"
+    ],
+    "gör": [
+      "see (imperative); split fragment",
+      "смотри; увидь",
+      "көр",
+      "انظر؛ شاهد",
+      "vois; regarde"
+    ],
+    "ta": [
+      "week (split fragment of hafta)",
+      "неделя (часть слова)",
+      "жума (сөздүн бөлүгү)",
+      "أسبوع (جزء كلمة)",
+      "semaine (fragment de mot)"
+    ],
+    "dedemin": [
+      "my grandfather's",
+      "моего дедушки",
+      "чоң атамдын",
+      "لجدي",
+      "de mon grand-père"
+    ],
+    "evine": [
+      "to his/her home",
+      "к нему/ней домой",
+      "анын үйүнө",
+      "إلى بيته؛ بيتها",
+      "chez lui; chez elle"
+    ],
+    "meye": [
+      "to (split infinitive ending)",
+      "часть инфинитива",
+      "этиш мүчөсүнүн бөлүгү",
+      "جزء من صيغة المصدر",
+      "fragment de l'infinitif"
+    ],
+    "şeyma": [
+      "Şeyma (given name)",
+      "Шейма (имя)",
+      "Шейма (ысым)",
+      "شيما (اسم)",
+      "Şeyma (prénom)"
+    ],
+    "anıl": [
+      "Anıl (given name)",
+      "Аныл (имя)",
+      "Аныл (ысым)",
+      "أنيل (اسم)",
+      "Anıl (prénom)"
+    ],
+    "gele": [
+      "come (split fragment of gelemeyeceğim)",
+      "прийти (часть слова)",
+      "келүү (сөздүн бөлүгү)",
+      "آتي (جزء كلمة)",
+      "venir (fragment de mot)"
+    ],
+    "gelemeyeceğim": [
+      "I will not be able to come",
+      "я не смогу прийти",
+      "келе албайм",
+      "لن أتمكن من المجيء",
+      "je ne pourrai pas venir"
+    ],
+    "meyeceğim": [
+      "I will not (split suffix)",
+      "не смогу (часть слова)",
+      "-байм (сөздүн бөлүгү)",
+      "لن (جزء كلمة)",
+      "ne pourrai pas (fragment)"
+    ],
+    "amcam": [
+      "my uncle (father's brother)",
+      "мой дядя (брат отца)",
+      "атамдын бир тууган агасы/иниси",
+      "عمي",
+      "mon oncle paternel"
+    ],
+    "arkadaşımın": [
+      "my friend's",
+      "моего друга; моей подруги",
+      "досумдун",
+      "لصديقي",
+      "de mon ami"
+    ],
+    "sümeyye": [
+      "Sümeyye (given name)",
+      "Сюмейе (имя)",
+      "Сүмеййе (ысым)",
+      "سمية (اسم)",
+      "Sümeyye (prénom)"
+    ],
+    "ibrahim": [
+      "İbrahim (given name)",
+      "Ибрагим (имя)",
+      "Ибрахим (ысым)",
+      "إبراهيم (اسم)",
+      "İbrahim (prénom)"
+    ],
+    "ablamın": [
+      "my older sister's",
+      "моей старшей сестры",
+      "эжемдин",
+      "لأختي الكبرى",
+      "de ma grande sœur"
+    ],
+    "komşumuzun": [
+      "our neighbor's",
+      "нашего соседа; нашей соседки",
+      "кошунабыздын",
+      "لجارنا",
+      "de notre voisin"
+    ],
+    "gideceğim.kusura": [
+      "I'll go. Sorry (joined PDF text)",
+      "я пойду. Извини (слитый текст PDF)",
+      "барам. Кечир (PDFде бириккен текст)",
+      "سأذهب. عذرًا (نص مدمج)",
+      "j'irai. Excuse-moi (texte fusionné)"
+    ],
+    "hatice": [
+      "Hatice (given name)",
+      "Хатидже (имя)",
+      "Хатиче (ысым)",
+      "خديجة (اسم)",
+      "Hatice (prénom)"
     ]
   },
   "phrases": {
@@ -10558,6 +10761,16 @@
         "Кырк жетинчи бетти ачкыла.",
         "افتحوا الصفحة السابعة والأربعين.",
         "Ouvrez la page quarante-sept."
+      ]
+    },
+    "48": {
+      "tr": "Kırk sekizinci sayfayı açın.",
+      "values": [
+        "Open page forty-eight.",
+        "Откройте сорок восьмую страницу.",
+        "Кырк сегизинчи бетти ачкыла.",
+        "افتحوا الصفحة الثامنة والأربعين.",
+        "Ouvrez la page quarante-huit."
       ]
     },
     "50": {
@@ -20918,6 +21131,286 @@
         "Иш-чаранын акыркы күнү музейге бардык.",
         "ذهبنا إلى المتحف في اليوم الأخير من الفعالية.",
         "Nous sommes allés au musée le dernier jour de l'événement."
+      ]
+    },
+    "boşlukları": {
+      "tr": "Cümlelerdeki boşlukları doldurun.",
+      "values": [
+        "Fill in the blanks in the sentences.",
+        "Заполните пропуски в предложениях.",
+        "Сүйлөмдөрдөгү бош орундарды толтургула.",
+        "املؤوا الفراغات في الجمل.",
+        "Complétez les blancs dans les phrases."
+      ]
+    },
+    "yapacaksınız": {
+      "tr": "Hafta sonu ne yapacaksınız?",
+      "values": [
+        "What are you going to do this weekend?",
+        "Что вы будете делать на выходных?",
+        "Дем алышта эмне кыласыздар?",
+        "ماذا ستفعلون في عطلة نهاية الأسبوع؟",
+        "Qu'allez-vous faire ce week-end ?"
+      ]
+    },
+    "kutlaması": {
+      "tr": "Doğum günü kutlaması yarın.",
+      "values": [
+        "The birthday celebration is tomorrow.",
+        "Празднование дня рождения завтра.",
+        "Туулган күндү майрамдоо эртең.",
+        "الاحتفال بعيد الميلاد غدًا.",
+        "La fête d'anniversaire aura lieu demain."
+      ]
+    },
+    "ziyareti": {
+      "tr": "Hasta ziyareti için hastaneye gittik.",
+      "values": [
+        "We went to the hospital to visit someone who was ill.",
+        "Мы пошли в больницу навестить больного.",
+        "Оорулууну көрүү үчүн ооруканага бардык.",
+        "ذهبنا إلى المستشفى لزيارة مريض.",
+        "Nous sommes allés à l'hôpital rendre visite à un malade."
+      ]
+    },
+    "görmeye": {
+      "tr": "Yeni doğan bebeği görmeye gittik.",
+      "values": [
+        "We went to see the newborn baby.",
+        "Мы пошли посмотреть на новорождённого.",
+        "Жаңы төрөлгөн наристени көрүүгө бардык.",
+        "ذهبنا لرؤية المولود الجديد.",
+        "Nous sommes allés voir le nouveau-né."
+      ]
+    },
+    "mezuniyet": {
+      "tr": "Mezuniyet törenine ailem de gelecek.",
+      "values": [
+        "My family will also come to the graduation ceremony.",
+        "Моя семья тоже придёт на выпускной.",
+        "Бүтүрүү аземине үй-бүлөм да келет.",
+        "ستحضر عائلتي أيضًا حفل التخرج.",
+        "Ma famille viendra aussi à la cérémonie de remise des diplômes."
+      ]
+    },
+    "azra": {
+      "tr": "Azra bizi kitap fuarına davet etti.",
+      "values": [
+        "Azra invited us to the book fair.",
+        "Азра пригласила нас на книжную ярмарку.",
+        "Азра бизди китеп жарманкесине чакырды.",
+        "دعتنا عذراء إلى معرض الكتاب.",
+        "Azra nous a invités au salon du livre."
+      ]
+    },
+    "tey": {
+      "tr": "Teyzemin bebeği doğdu.",
+      "values": [
+        "My aunt had a baby.",
+        "У моей тёти родился ребёнок.",
+        "Таежемдин баласы төрөлдү.",
+        "أنجبت خالتي طفلًا.",
+        "Ma tante a eu un bébé."
+      ]
+    },
+    "haf": {
+      "tr": "Hafta sonu evde olacağım.",
+      "values": [
+        "I'll be home this weekend.",
+        "На выходных я буду дома.",
+        "Дем алышта үйдө болом.",
+        "سأكون في المنزل في عطلة نهاية الأسبوع.",
+        "Je serai à la maison ce week-end."
+      ]
+    },
+    "doğdu": {
+      "tr": "Teyzemin bebeği dün doğdu.",
+      "values": [
+        "My aunt's baby was born yesterday.",
+        "У моей тёти вчера родился ребёнок.",
+        "Таежемдин баласы кечээ төрөлдү.",
+        "وُلِد طفل خالتي أمس.",
+        "Le bébé de ma tante est né hier."
+      ]
+    },
+    "gör": {
+      "tr": "Yeni doğan bebeği görmeye gidiyorum.",
+      "values": [
+        "I'm going to see the newborn baby.",
+        "Я иду посмотреть на новорождённого.",
+        "Жаңы төрөлгөн наристени көргөнү бара жатам.",
+        "سأذهب لرؤية المولود الجديد.",
+        "Je vais voir le nouveau-né."
+      ]
+    },
+    "ta": {
+      "tr": "Hafta sonu dedemi ziyaret edeceğim.",
+      "values": [
+        "I'll visit my grandfather this weekend.",
+        "На выходных я навещу дедушку.",
+        "Дем алышта чоң атама барам.",
+        "سأزور جدي في عطلة نهاية الأسبوع.",
+        "Je rendrai visite à mon grand-père ce week-end."
+      ]
+    },
+    "dedemin": {
+      "tr": "Dedemin evine gideceğim.",
+      "values": [
+        "I'm going to my grandfather's house.",
+        "Я пойду к дедушке домой.",
+        "Чоң атамдын үйүнө барам.",
+        "سأذهب إلى بيت جدي.",
+        "Je vais chez mon grand-père."
+      ]
+    },
+    "evine": {
+      "tr": "Akşam dedemin evine gideceğim.",
+      "values": [
+        "I'll go to my grandfather's house this evening.",
+        "Вечером я пойду к дедушке домой.",
+        "Кечинде чоң атамдын үйүнө барам.",
+        "سأذهب إلى بيت جدي مساءً.",
+        "J'irai chez mon grand-père ce soir."
+      ]
+    },
+    "meye": {
+      "tr": "Bebeği görmeye gideceğim.",
+      "values": [
+        "I'll go to see the baby.",
+        "Я пойду посмотреть на малыша.",
+        "Наристени көргөнү барам.",
+        "سأذهب لرؤية الطفل.",
+        "J'irai voir le bébé."
+      ]
+    },
+    "şeyma": {
+      "tr": "Şeyma hafta sonu ailesini ziyaret edecek.",
+      "values": [
+        "Şeyma will visit her family this weekend.",
+        "Шейма на выходных навестит семью.",
+        "Шейма дем алышта үй-бүлөсүнө барат.",
+        "ستزور شيما عائلتها في عطلة نهاية الأسبوع.",
+        "Şeyma rendra visite à sa famille ce week-end."
+      ]
+    },
+    "anıl": {
+      "tr": "Anıl kitap fuarına gelemeyecek.",
+      "values": [
+        "Anıl won't be able to come to the book fair.",
+        "Аныл не сможет прийти на книжную ярмарку.",
+        "Аныл китеп жарманкесине келе албайт.",
+        "لن يتمكن أنيل من الحضور إلى معرض الكتاب.",
+        "Anıl ne pourra pas venir au salon du livre."
+      ]
+    },
+    "gele": {
+      "tr": "Üzgünüm, yarın gelemeyeceğim.",
+      "values": [
+        "Sorry, I won't be able to come tomorrow.",
+        "Извини, завтра я не смогу прийти.",
+        "Кечир, эртең келе албайм.",
+        "آسف، لن أتمكن من المجيء غدًا.",
+        "Désolé, je ne pourrai pas venir demain."
+      ]
+    },
+    "gelemeyeceğim": {
+      "tr": "Maalesef toplantıya gelemeyeceğim.",
+      "values": [
+        "Unfortunately, I won't be able to come to the meeting.",
+        "К сожалению, я не смогу прийти на встречу.",
+        "Тилекке каршы, жыйынга келе албайм.",
+        "للأسف، لن أتمكن من حضور الاجتماع.",
+        "Malheureusement, je ne pourrai pas venir à la réunion."
+      ]
+    },
+    "meyeceğim": {
+      "tr": "Kusura bakma, gelemeyeceğim.",
+      "values": [
+        "Sorry, I won't be able to come.",
+        "Извини, я не смогу прийти.",
+        "Кечир, келе албайм.",
+        "سامحني، لن أتمكن من المجيء.",
+        "Excuse-moi, je ne pourrai pas venir."
+      ]
+    },
+    "amcam": {
+      "tr": "Amcam bugün hasta.",
+      "values": [
+        "My uncle is ill today.",
+        "Мой дядя сегодня болен.",
+        "Атамдын бир тууганы бүгүн ооруп жатат.",
+        "عمي مريض اليوم.",
+        "Mon oncle paternel est malade aujourd'hui."
+      ]
+    },
+    "arkadaşımın": {
+      "tr": "Arkadaşımın doğum günü yarın.",
+      "values": [
+        "My friend's birthday is tomorrow.",
+        "У моего друга завтра день рождения.",
+        "Досумдун туулган күнү эртең.",
+        "عيد ميلاد صديقي غدًا.",
+        "L'anniversaire de mon ami est demain."
+      ]
+    },
+    "sümeyye": {
+      "tr": "Sümeyye hafta sonu düğüne gidecek.",
+      "values": [
+        "Sümeyye is going to a wedding this weekend.",
+        "Сюмейе пойдёт на свадьбу на выходных.",
+        "Сүмеййе дем алышта тойго барат.",
+        "ستذهب سمية إلى حفل زفاف في عطلة نهاية الأسبوع.",
+        "Sümeyye ira à un mariage ce week-end."
+      ]
+    },
+    "ibrahim": {
+      "tr": "İbrahim hasta arkadaşını ziyaret edecek.",
+      "values": [
+        "İbrahim will visit his sick friend.",
+        "Ибрагим навестит больного друга.",
+        "Ибрахим ооруп жаткан досуна барат.",
+        "سيزور إبراهيم صديقه المريض.",
+        "İbrahim rendra visite à son ami malade."
+      ]
+    },
+    "ablamın": {
+      "tr": "Ablamın mezuniyet töreni cumartesi.",
+      "values": [
+        "My older sister's graduation is on Saturday.",
+        "Выпускной моей старшей сестры в субботу.",
+        "Эжемдин бүтүрүү аземи ишембиде.",
+        "حفل تخرج أختي الكبرى يوم السبت.",
+        "La remise des diplômes de ma grande sœur a lieu samedi."
+      ]
+    },
+    "komşumuzun": {
+      "tr": "Komşumuzun düğünü pazar günü.",
+      "values": [
+        "Our neighbor's wedding is on Sunday.",
+        "Свадьба нашего соседа в воскресенье.",
+        "Кошунабыздын тою жекшембиде.",
+        "حفل زفاف جارنا يوم الأحد.",
+        "Le mariage de notre voisin a lieu dimanche."
+      ]
+    },
+    "gideceğim.kusura": {
+      "tr": "Düğüne gideceğim. Kusura bakma, geç kalabilirim.",
+      "values": [
+        "I'll go to the wedding. Sorry, I might be late.",
+        "Я пойду на свадьбу. Извини, возможно, опоздаю.",
+        "Тойго барам. Кечир, кечигип калышым мүмкүн.",
+        "سأذهب إلى الزفاف. عذرًا، قد أتأخر.",
+        "J'irai au mariage. Excuse-moi, je risque d'être en retard."
+      ]
+    },
+    "hatice": {
+      "tr": "Hatice hafta sonu dedesini ziyaret edecek.",
+      "values": [
+        "Hatice will visit her grandfather this weekend.",
+        "Хатидже на выходных навестит дедушку.",
+        "Хатиче дем алышта чоң атасына барат.",
+        "ستزور خديجة جدها في عطلة نهاية الأسبوع.",
+        "Hatice rendra visite à son grand-père ce week-end."
       ]
     }
   },
