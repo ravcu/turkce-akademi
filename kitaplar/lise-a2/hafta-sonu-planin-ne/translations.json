@@ -91,6 +91,13 @@
       "ستة وثلاثون",
       "trente-six"
     ],
+    "37": [
+      "thirty-seven",
+      "тридцать семь",
+      "отуз жети",
+      "سبعة وثلاثون",
+      "trente-sept"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -3282,6 +3289,181 @@
       "айткыла",
       "قولوا",
       "dites"
+    ],
+    "kütüphaneden": [
+      "from the library",
+      "из библиотеки",
+      "китепканадан",
+      "من المكتبة",
+      "de la bibliothèque"
+    ],
+    "karşıya": [
+      "to the other side",
+      "на другую сторону",
+      "аркы бетке",
+      "إلى الجهة الأخرى",
+      "de l'autre côté"
+    ],
+    "süpermarketin": [
+      "of the supermarket",
+      "супермаркета",
+      "супермаркеттин",
+      "للسوبرماركت",
+      "du supermarché"
+    ],
+    "önünden": [
+      "past; in front of",
+      "мимо; перед",
+      "алдынан",
+      "من أمام",
+      "devant"
+    ],
+    "parkın": [
+      "of the park",
+      "парка",
+      "сейил бактын",
+      "للحديقة",
+      "du parc"
+    ],
+    "sola": [
+      "to the left",
+      "налево",
+      "солго",
+      "إلى اليسار",
+      "à gauche"
+    ],
+    "okul": [
+      "school",
+      "школа",
+      "мектеп",
+      "مدرسة",
+      "école"
+    ],
+    "solda": [
+      "on the left",
+      "слева",
+      "сол жакта",
+      "على اليسار",
+      "à gauche"
+    ],
+    "otoparkın": [
+      "of the car park",
+      "парковки",
+      "унаа токтотуучу жайдын",
+      "لموقف السيارات",
+      "du parking"
+    ],
+    "görseli": [
+      "the image",
+      "изображение",
+      "сүрөттү",
+      "الصورة",
+      "l'image"
+    ],
+    "inceleyin": [
+      "examine",
+      "изучите",
+      "карап чыккыла",
+      "تفحصوا",
+      "examinez"
+    ],
+    "altında": [
+      "under",
+      "под",
+      "астында",
+      "تحت",
+      "sous"
+    ],
+    "arkasında": [
+      "behind",
+      "за",
+      "артында",
+      "خلف",
+      "derrière"
+    ],
+    "içinde": [
+      "inside",
+      "внутри",
+      "ичинде",
+      "داخل",
+      "dans"
+    ],
+    "üzerinde": [
+      "on",
+      "на",
+      "үстүндө",
+      "على",
+      "sur"
+    ],
+    "dışında": [
+      "outside",
+      "снаружи",
+      "сыртында",
+      "خارج",
+      "à l'extérieur de"
+    ],
+    "solunda": [
+      "to its left",
+      "слева от",
+      "сол жагында",
+      "على يسار",
+      "à gauche de"
+    ],
+    "üstünde": [
+      "on top of",
+      "наверху; на",
+      "үстүндө",
+      "فوق",
+      "sur"
+    ],
+    "önünde": [
+      "in front of",
+      "перед",
+      "алдында",
+      "أمام",
+      "devant"
+    ],
+    "ilişkili": [
+      "related",
+      "связанный",
+      "байланыштуу",
+      "مرتبط",
+      "lié"
+    ],
+    "olan": [
+      "which is",
+      "который",
+      "болгон",
+      "الذي",
+      "qui est"
+    ],
+    "cümle": [
+      "sentence",
+      "предложение",
+      "сүйлөм",
+      "جملة",
+      "phrase"
+    ],
+    "x": [
+      "letter X",
+      "буква X",
+      "X тамгасы",
+      "الحرف X",
+      "lettre X"
+    ],
+    "fındık": [
+      "hazelnut",
+      "фундук",
+      "фундук",
+      "بندق",
+      "noisette"
+    ],
+    "sincabın": [
+      "of the squirrel",
+      "белки",
+      "тыйын чычкандын",
+      "للسنجاب",
+      "de l'écureuil"
     ]
   },
   "phrases": {
@@ -4520,6 +4702,16 @@
         "Отуз алтынчы бетти ач.",
         "افتح الصفحة السادسة والثلاثين.",
         "Ouvre la page trente-six."
+      ]
+    },
+    "37": {
+      "tr": "Otuz yedinci sayfayı aç.",
+      "values": [
+        "Open page thirty-seven.",
+        "Открой тридцать седьмую страницу.",
+        "Отуз жетинчи бетти ач.",
+        "افتح الصفحة السابعة والثلاثين.",
+        "Ouvre la page trente-sept."
       ]
     },
     "50": {
@@ -8730,6 +8922,266 @@
         "Жоопту айткыла.",
         "قولوا الإجابة.",
         "Dites la réponse."
+      ]
+    },
+    "kütüphaneden": {
+      "tr": "Kütüphaneden çıktım.",
+      "values": [
+        "I left the library.",
+        "Я вышел из библиотеки.",
+        "Китепканадан чыктым.",
+        "خرجت من المكتبة.",
+        "Je suis sorti de la bibliothèque."
+      ]
+    },
+    "karşıya": {
+      "tr": "Karşıya geç.",
+      "values": [
+        "Cross to the other side.",
+        "Перейди на другую сторону.",
+        "Аркы бетке өт.",
+        "اعبر إلى الجهة الأخرى.",
+        "Traverse de l'autre côté."
+      ]
+    },
+    "süpermarketin": {
+      "tr": "Süpermarketin önünde bekle.",
+      "values": [
+        "Wait in front of the supermarket.",
+        "Подожди перед супермаркетом.",
+        "Супермаркеттин алдында күт.",
+        "انتظر أمام السوبرماركت.",
+        "Attends devant le supermarché."
+      ]
+    },
+    "önünden": {
+      "tr": "Okulun önünden geç.",
+      "values": [
+        "Go past the school.",
+        "Пройди мимо школы.",
+        "Мектептин алдынан өт.",
+        "مرّ من أمام المدرسة.",
+        "Passe devant l'école."
+      ]
+    },
+    "parkın": {
+      "tr": "Parkın yanında kafe var.",
+      "values": [
+        "There's a café next to the park.",
+        "Рядом с парком есть кафе.",
+        "Сейил бактын жанында кафе бар.",
+        "يوجد مقهى بجانب الحديقة.",
+        "Il y a un café à côté du parc."
+      ]
+    },
+    "sola": {
+      "tr": "Sola dön.",
+      "values": [
+        "Turn left.",
+        "Поверни налево.",
+        "Солго бурул.",
+        "انعطف يسارًا.",
+        "Tourne à gauche."
+      ]
+    },
+    "okul": {
+      "tr": "Okul bugün açık.",
+      "values": [
+        "The school is open today.",
+        "Школа сегодня открыта.",
+        "Мектеп бүгүн ачык.",
+        "المدرسة مفتوحة اليوم.",
+        "L'école est ouverte aujourd'hui."
+      ]
+    },
+    "solda": {
+      "tr": "Eczane solda.",
+      "values": [
+        "The pharmacy is on the left.",
+        "Аптека слева.",
+        "Дарыкана сол жакта.",
+        "الصيدلية على اليسار.",
+        "La pharmacie est à gauche."
+      ]
+    },
+    "otoparkın": {
+      "tr": "Otoparkın karşısında bekle.",
+      "values": [
+        "Wait opposite the car park.",
+        "Подожди напротив парковки.",
+        "Унаа токтотуучу жайдын маңдайында күт.",
+        "انتظر مقابل موقف السيارات.",
+        "Attends en face du parking."
+      ]
+    },
+    "görseli": {
+      "tr": "Görseli inceleyin.",
+      "values": [
+        "Look closely at the image.",
+        "Рассмотрите изображение.",
+        "Сүрөттү карап чыккыла.",
+        "تفحصوا الصورة.",
+        "Observez l'image."
+      ]
+    },
+    "inceleyin": {
+      "tr": "Haritayı inceleyin.",
+      "values": [
+        "Study the map.",
+        "Изучите карту.",
+        "Картаны карап чыккыла.",
+        "تفحصوا الخريطة.",
+        "Examinez la carte."
+      ]
+    },
+    "altında": {
+      "tr": "Kedi masanın altında.",
+      "values": [
+        "The cat is under the table.",
+        "Кошка под столом.",
+        "Мышык үстөлдүн астында.",
+        "القطة تحت الطاولة.",
+        "Le chat est sous la table."
+      ]
+    },
+    "arkasında": {
+      "tr": "Park okulun arkasında.",
+      "values": [
+        "The park is behind the school.",
+        "Парк за школой.",
+        "Сейил бак мектептин артында.",
+        "الحديقة خلف المدرسة.",
+        "Le parc est derrière l'école."
+      ]
+    },
+    "içinde": {
+      "tr": "Anahtar çantanın içinde.",
+      "values": [
+        "The key is inside the bag.",
+        "Ключ в сумке.",
+        "Ачкыч сумканын ичинде.",
+        "المفتاح داخل الحقيبة.",
+        "La clé est dans le sac."
+      ]
+    },
+    "üzerinde": {
+      "tr": "Kitap masanın üzerinde.",
+      "values": [
+        "The book is on the table.",
+        "Книга на столе.",
+        "Китеп үстөлдүн үстүндө.",
+        "الكتاب على الطاولة.",
+        "Le livre est sur la table."
+      ]
+    },
+    "dışında": {
+      "tr": "Çocuk evin dışında.",
+      "values": [
+        "The child is outside the house.",
+        "Ребёнок снаружи дома.",
+        "Бала үйдүн сыртында.",
+        "الطفل خارج المنزل.",
+        "L'enfant est à l'extérieur de la maison."
+      ]
+    },
+    "solunda": {
+      "tr": "Banka okulun solunda.",
+      "values": [
+        "The bank is to the left of the school.",
+        "Банк слева от школы.",
+        "Банк мектептин сол жагында.",
+        "البنك على يسار المدرسة.",
+        "La banque est à gauche de l'école."
+      ]
+    },
+    "üstünde": {
+      "tr": "Telefon kitabın üstünde.",
+      "values": [
+        "The phone is on the book.",
+        "Телефон на книге.",
+        "Телефон китептин үстүндө.",
+        "الهاتف فوق الكتاب.",
+        "Le téléphone est sur le livre."
+      ]
+    },
+    "önünde": {
+      "tr": "Otobüs okulun önünde.",
+      "values": [
+        "The bus is in front of the school.",
+        "Автобус перед школой.",
+        "Автобус мектептин алдында.",
+        "الحافلة أمام المدرسة.",
+        "Le bus est devant l'école."
+      ]
+    },
+    "ilişkili": {
+      "tr": "İlişkili kelimeleri bulun.",
+      "values": [
+        "Find related words.",
+        "Найдите связанные слова.",
+        "Байланыштуу сөздөрдү тапкыла.",
+        "اعثروا على الكلمات المرتبطة.",
+        "Trouvez les mots associés."
+      ]
+    },
+    "olan": {
+      "tr": "Boş olan sandalyeye otur.",
+      "values": [
+        "Sit on the empty chair.",
+        "Сядь на свободный стул.",
+        "Бош болгон отургучка отур.",
+        "اجلس على الكرسي الفارغ.",
+        "Assieds-toi sur la chaise libre."
+      ]
+    },
+    "cümle": {
+      "tr": "Bir cümle yaz.",
+      "values": [
+        "Write a sentence.",
+        "Напиши предложение.",
+        "Бир сүйлөм жаз.",
+        "اكتب جملة.",
+        "Écris une phrase."
+      ]
+    },
+    "x": {
+      "tr": "Kutuya X koy.",
+      "values": [
+        "Put an X in the box.",
+        "Поставь X в клетке.",
+        "Уячага X белгисин кой.",
+        "ضع علامة X في المربع.",
+        "Mets un X dans la case."
+      ]
+    },
+    "fındık": {
+      "tr": "Sincap fındık yiyor.",
+      "values": [
+        "The squirrel is eating a hazelnut.",
+        "Белка ест фундук.",
+        "Тыйын чычкан фундук жеп жатат.",
+        "يأكل السنجاب حبة بندق.",
+        "L'écureuil mange une noisette."
+      ]
+    },
+    "sincabın": {
+      "tr": "Sincabın kuyruğu uzun.",
+      "values": [
+        "The squirrel's tail is long.",
+        "У белки длинный хвост.",
+        "Тыйын чычкандын куйругу узун.",
+        "ذيل السنجاب طويل.",
+        "La queue de l'écureuil est longue."
+      ]
+    },
+    "yer": {
+      "tr": "Burası güzel bir yer.",
+      "values": [
+        "This is a nice place.",
+        "Это хорошее место.",
+        "Бул жакшы жер.",
+        "هذا مكان جميل.",
+        "C'est un bel endroit."
       ]
     }
   },
