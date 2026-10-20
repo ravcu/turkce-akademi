@@ -140,6 +140,13 @@
       "اثنان وأربعون",
       "quarante-deux"
     ],
+    "43": [
+      "forty-three",
+      "сорок три",
+      "кырк үч",
+      "ثلاثة وأربعون",
+      "quarante-trois"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -5088,6 +5095,272 @@
       "бакыт каалоолор",
       "أطيب تمنيات السعادة",
       "vœux de bonheur"
+    ],
+    "selamünaleyküm": [
+      "peace be upon you (greeting)",
+      "мир вам (приветствие)",
+      "ассалому алейкум (саламдашуу)",
+      "السلام عليكم",
+      "que la paix soit sur vous"
+    ],
+    "düğününüz": [
+      "your wedding",
+      "ваша свадьба",
+      "сиздин тоюңуз",
+      "حفل زفافكم",
+      "votre mariage"
+    ],
+    "hayırlı": [
+      "auspicious; blessed",
+      "благополучный; добрый",
+      "куттуу; кайырлуу",
+      "مبارك؛ خير",
+      "heureux; béni"
+    ],
+    "davetiyesi": [
+      "invitation card",
+      "пригласительная открытка",
+      "чакыруу кагазы",
+      "بطاقة الدعوة",
+      "faire-part"
+    ],
+    "dü": [
+      "wedding (split fragment)",
+      "свадьба (часть слова)",
+      "той (сөздүн бөлүгү)",
+      "زفاف (جزء كلمة)",
+      "mariage (fragment)"
+    ],
+    "maşallah": [
+      "what God has willed (admiration)",
+      "машаллах (выражение восхищения)",
+      "машаллах (суктануу сөзү)",
+      "ما شاء الله",
+      "machallah (admiration)"
+    ],
+    "eşine": [
+      "to his/her spouse",
+      "его/её супругу",
+      "жубайына",
+      "إلى زوجه أو زوجته",
+      "à son conjoint"
+    ],
+    "ğüne": [
+      "to the wedding (split fragment)",
+      "на свадьбу (часть слова)",
+      "тойго (сөздүн бөлүгү)",
+      "إلى الزفاف (جزء كلمة)",
+      "au mariage (fragment)"
+    ],
+    "katılamayacağım": [
+      "I will not be able to attend",
+      "я не смогу присутствовать",
+      "катыша албайм",
+      "لن أتمكن من الحضور",
+      "je ne pourrai pas assister"
+    ],
+    "dedem": [
+      "my grandfather",
+      "мой дедушка",
+      "чоң атам",
+      "جدي",
+      "mon grand-père"
+    ],
+    "hasta": [
+      "ill; sick",
+      "больной",
+      "оорулуу",
+      "مريض",
+      "malade"
+    ],
+    "huzurlu": [
+      "peaceful",
+      "спокойный; умиротворённый",
+      "тынч; бейпил",
+      "هادئ؛ مطمئن",
+      "paisible"
+    ],
+    "hayat": [
+      "life",
+      "жизнь",
+      "жашоо",
+      "حياة",
+      "vie"
+    ],
+    "nasip": [
+      "destined share; blessing",
+      "удел; дар судьбы",
+      "насип; буюрган ырыскы",
+      "نصيب",
+      "part accordée par le destin"
+    ],
+    "etsin": [
+      "may he/she do; let it be",
+      "пусть сделает",
+      "кылсын",
+      "ليجعل؛ ليفعل",
+      "qu'il fasse"
+    ],
+    "abiyi": [
+      "the older brother (object)",
+      "старшего брата",
+      "аганы",
+      "الأخ الأكبر",
+      "le grand frère"
+    ],
+    "uzun": [
+      "long",
+      "длинный; долгий",
+      "узун",
+      "طويل",
+      "long"
+    ],
+    "zamandır": [
+      "for a while; for a long time",
+      "уже некоторое время",
+      "көптөн бери",
+      "منذ مدة",
+      "depuis longtemps"
+    ],
+    "görmedim": [
+      "I didn't see; haven't seen",
+      "я не видел",
+      "көргөн жокмун",
+      "لم أرَ",
+      "je n'ai pas vu"
+    ],
+    "selamımı": [
+      "my regards",
+      "мой привет",
+      "саламымды",
+      "تحياتي",
+      "mes salutations"
+    ],
+    "söyle": [
+      "say; tell",
+      "скажи",
+      "айт",
+      "قل",
+      "dis"
+    ],
+    "in": [
+      "hopefully (split fragment of inşallah)",
+      "дай Бог (часть слова)",
+      "буюрса (сөздүн бөлүгү)",
+      "إن شاء الله (جزء كلمة)",
+      "si Dieu le veut (fragment)"
+    ],
+    "gelmeyi": [
+      "coming (as object)",
+      "приходить",
+      "келүүнү",
+      "المجيء",
+      "venir"
+    ],
+    "türk": [
+      "Turkish",
+      "турецкий",
+      "түрк",
+      "تركي",
+      "turc"
+    ],
+    "düğünü": [
+      "the wedding; his/her wedding",
+      "свадьбу; его свадьба",
+      "тойду; анын тою",
+      "الزفاف",
+      "le mariage"
+    ],
+    "şallah": [
+      "God willing (split fragment)",
+      "дай Бог (часть слова)",
+      "буюрса (сөздүн бөлүгү)",
+      "إن شاء الله (جزء كلمة)",
+      "si Dieu le veut (fragment)"
+    ],
+    "allaha": [
+      "to God",
+      "Богу",
+      "Аллага",
+      "إلى الله",
+      "à Dieu"
+    ],
+    "emanet": [
+      "entrusted; in safekeeping",
+      "на хранение; вверенный",
+      "аманат",
+      "أمانة",
+      "confié; dépôt"
+    ],
+    "davete": [
+      "to the invitation; event",
+      "на приглашение; на приём",
+      "чакырууга",
+      "إلى الدعوة",
+      "à l'invitation"
+    ],
+    "katılamayacak": [
+      "will not be able to attend",
+      "не сможет присутствовать",
+      "катыша албайт",
+      "لن يتمكن من الحضور",
+      "ne pourra pas assister"
+    ],
+    "metindeki": [
+      "in the text",
+      "в тексте",
+      "тексттеги",
+      "في النص",
+      "dans le texte"
+    ],
+    "evleniyor": [
+      "is getting married",
+      "женится; выходит замуж",
+      "үйлөнүп жатат; турмушка чыгып жатат",
+      "يتزوج",
+      "se marie"
+    ],
+    "davetli": [
+      "invited; guest",
+      "приглашённый; гость",
+      "чакырылган; конок",
+      "مدعوّ",
+      "invité"
+    ],
+    "söylüyor": [
+      "says; tells",
+      "говорит",
+      "айтып жатат",
+      "يقول",
+      "dit"
+    ],
+    "özel": [
+      "special",
+      "особенный",
+      "өзгөчө",
+      "خاص",
+      "spécial"
+    ],
+    "sizleri": [
+      "you all (object)",
+      "вас всех",
+      "баарыңыздарды",
+      "جميعكم",
+      "vous tous"
+    ],
+    "yanımızda": [
+      "beside us; with us",
+      "рядом с нами",
+      "жаныбызда",
+      "بجانبنا",
+      "à nos côtés"
+    ],
+    "istiyoruz": [
+      "we want",
+      "мы хотим",
+      "каалайбыз",
+      "نريد",
+      "nous voulons"
     ]
   },
   "phrases": {
@@ -7212,6 +7485,16 @@
         "Кырк экинчи бетти ачкыла.",
         "افتحوا الصفحة الثانية والأربعين.",
         "Ouvrez la page quarante-deux."
+      ]
+    },
+    "43": {
+      "tr": "Kırk üçüncü sayfayı aç.",
+      "values": [
+        "Open page forty-three.",
+        "Открой сорок третью страницу.",
+        "Кырк үчүнчү бетти ач.",
+        "افتح الصفحة الثالثة والأربعين.",
+        "Ouvre la page quarante-trois."
       ]
     },
     "50": {
@@ -13962,6 +14245,386 @@
         "Сизге өмүр бою бакыт каалайм.",
         "أتمنى لكم السعادة مدى الحياة.",
         "Je vous souhaite une vie pleine de bonheur."
+      ]
+    },
+    "selamünaleyküm": {
+      "tr": "Selamünaleyküm, nasılsınız?",
+      "values": [
+        "Peace be upon you, how are you?",
+        "Мир вам, как поживаете?",
+        "Ассалому алейкум, кандайсыз?",
+        "السلام عليكم، كيف حالكم؟",
+        "Que la paix soit sur vous, comment allez-vous ?"
+      ]
+    },
+    "düğününüz": {
+      "tr": "Düğününüz ne zaman?",
+      "values": [
+        "When is your wedding?",
+        "Когда ваша свадьба?",
+        "Тоюңуз качан?",
+        "متى حفل زفافكم؟",
+        "Quand a lieu votre mariage ?"
+      ]
+    },
+    "hayırlı": {
+      "tr": "Hayırlı yolculuklar dilerim.",
+      "values": [
+        "Have a safe trip.",
+        "Желаю счастливого пути.",
+        "Ак жол каалайм.",
+        "أتمنى لك رحلة موفقة.",
+        "Je te souhaite un bon voyage."
+      ]
+    },
+    "davetiyesi": {
+      "tr": "Düğün davetiyesi çok güzel.",
+      "values": [
+        "The wedding invitation is lovely.",
+        "Приглашение на свадьбу очень красивое.",
+        "Тойго чакыруу кагазы абдан кооз.",
+        "بطاقة دعوة الزفاف جميلة جدًا.",
+        "Le faire-part de mariage est très joli."
+      ]
+    },
+    "dü": {
+      "tr": "Düğüne ailemle gideceğim.",
+      "values": [
+        "I'll go to the wedding with my family.",
+        "Я пойду на свадьбу с семьёй.",
+        "Тойго үй-бүлөм менен барам.",
+        "سأذهب إلى الزفاف مع عائلتي.",
+        "J'irai au mariage avec ma famille."
+      ]
+    },
+    "maşallah": {
+      "tr": "Maşallah, çok güzel bir haber!",
+      "values": [
+        "Mashallah, that's wonderful news!",
+        "Машаллах, какая прекрасная новость!",
+        "Машаллах, кандай сонун кабар!",
+        "ما شاء الله، يا له من خبر جميل!",
+        "Machallah, quelle bonne nouvelle !"
+      ]
+    },
+    "eşine": {
+      "tr": "Abine ve eşine mutluluk diliyorum.",
+      "values": [
+        "I wish your brother and his spouse happiness.",
+        "Желаю счастья твоему брату и его супруге.",
+        "Агаңа жана жубайына бакыт каалайм.",
+        "أتمنى السعادة لأخيك وزوجته.",
+        "Je souhaite du bonheur à ton frère et à sa femme."
+      ]
+    },
+    "ğüne": {
+      "tr": "Düğüne yarın gideceğiz.",
+      "values": [
+        "We'll go to the wedding tomorrow.",
+        "Завтра мы пойдём на свадьбу.",
+        "Эртең тойго барабыз.",
+        "سنذهب إلى الزفاف غدًا.",
+        "Nous irons au mariage demain."
+      ]
+    },
+    "katılamayacağım": {
+      "tr": "Üzgünüm, toplantıya katılamayacağım.",
+      "values": [
+        "Sorry, I won't be able to attend the meeting.",
+        "Извини, я не смогу прийти на собрание.",
+        "Кечир, жыйынга катыша албайм.",
+        "آسف، لن أتمكن من حضور الاجتماع.",
+        "Désolé, je ne pourrai pas assister à la réunion."
+      ]
+    },
+    "dedem": {
+      "tr": "Dedem bugün bizi ziyaret etti.",
+      "values": [
+        "My grandfather visited us today.",
+        "Мой дедушка сегодня нас навестил.",
+        "Чоң атам бүгүн бизге келди.",
+        "زارنا جدي اليوم.",
+        "Mon grand-père nous a rendu visite aujourd'hui."
+      ]
+    },
+    "hasta": {
+      "tr": "Dedem hasta olduğu için evde.",
+      "values": [
+        "My grandfather is at home because he's ill.",
+        "Мой дедушка дома, потому что болеет.",
+        "Чоң атам ооруп калгандыктан үйдө.",
+        "جدي في البيت لأنه مريض.",
+        "Mon grand-père est à la maison parce qu'il est malade."
+      ]
+    },
+    "huzurlu": {
+      "tr": "Size huzurlu bir hayat diliyorum.",
+      "values": [
+        "I wish you a peaceful life.",
+        "Желаю вам спокойной жизни.",
+        "Сизге бейпил жашоо каалайм.",
+        "أتمنى لكم حياة هادئة.",
+        "Je vous souhaite une vie paisible."
+      ]
+    },
+    "hayat": {
+      "tr": "Sağlıklı bir hayat yaşamak istiyorum.",
+      "values": [
+        "I want to live a healthy life.",
+        "Я хочу вести здоровый образ жизни.",
+        "Ден соолукта жашагым келет.",
+        "أريد أن أعيش حياة صحية.",
+        "Je veux mener une vie saine."
+      ]
+    },
+    "nasip": {
+      "tr": "Allah size güzel günler nasip etsin.",
+      "values": [
+        "May God grant you happy days.",
+        "Пусть Бог подарит вам счастливые дни.",
+        "Алла сизге жакшы күндөрдү насип кылсын.",
+        "رزقكم الله أيامًا جميلة.",
+        "Que Dieu vous accorde de beaux jours."
+      ]
+    },
+    "etsin": {
+      "tr": "Allah yardım etsin.",
+      "values": [
+        "May God help.",
+        "Пусть Бог поможет.",
+        "Алла жардам берсин.",
+        "ليُعِنِ الله.",
+        "Que Dieu aide."
+      ]
+    },
+    "abiyi": {
+      "tr": "Yakup abiyi uzun zamandır görmedim.",
+      "values": [
+        "I haven't seen Yakup, the older brother, in a long time.",
+        "Я давно не видел старшего брата Якупа.",
+        "Жакып аганы көптөн бери көрө элекмин.",
+        "لم أرَ الأخ الأكبر يعقوب منذ مدة طويلة.",
+        "Je n'ai pas vu Yakup depuis longtemps."
+      ]
+    },
+    "uzun": {
+      "tr": "Uzun zamandır görüşmedik.",
+      "values": [
+        "We haven't seen each other in a long time.",
+        "Мы давно не виделись.",
+        "Көптөн бери көрүшкөн жокпуз.",
+        "لم نلتقِ منذ مدة طويلة.",
+        "Cela fait longtemps que nous ne nous sommes pas vus."
+      ]
+    },
+    "zamandır": {
+      "tr": "Uzun zamandır seni görmedim.",
+      "values": [
+        "I haven't seen you in a long time.",
+        "Я давно тебя не видел.",
+        "Сени көптөн бери көрө элекмин.",
+        "لم أرك منذ مدة طويلة.",
+        "Je ne t'ai pas vu depuis longtemps."
+      ]
+    },
+    "görmedim": {
+      "tr": "Dün seni okulda görmedim.",
+      "values": [
+        "I didn't see you at school yesterday.",
+        "Вчера я не видел тебя в школе.",
+        "Кечээ сени мектептен көргөн жокмун.",
+        "لم أرك في المدرسة أمس.",
+        "Je ne t'ai pas vu à l'école hier."
+      ]
+    },
+    "selamımı": {
+      "tr": "Annene selamımı söyle.",
+      "values": [
+        "Give my regards to your mother.",
+        "Передай привет своей маме.",
+        "Апаңа саламымды айт.",
+        "بلّغ سلامي لأمك.",
+        "Passe le bonjour à ta mère de ma part."
+      ]
+    },
+    "söyle": {
+      "tr": "Lütfen bana adresi söyle.",
+      "values": [
+        "Please tell me the address.",
+        "Пожалуйста, скажи мне адрес.",
+        "Мага даректи айтып берчи.",
+        "من فضلك أخبرني بالعنوان.",
+        "Dis-moi l'adresse, s'il te plaît."
+      ]
+    },
+    "in": {
+      "tr": "İnşallah yarın görüşürüz.",
+      "values": [
+        "Hopefully we'll meet tomorrow.",
+        "Дай Бог, увидимся завтра.",
+        "Буюрса, эртең көрүшөбүз.",
+        "إن شاء الله نلتقي غدًا.",
+        "Si Dieu le veut, nous nous verrons demain."
+      ]
+    },
+    "gelmeyi": {
+      "tr": "Düğüne gelmeyi çok istiyorum.",
+      "values": [
+        "I really want to come to the wedding.",
+        "Я очень хочу прийти на свадьбу.",
+        "Тойго келүүнү абдан каалайм.",
+        "أريد كثيرًا أن آتي إلى الزفاف.",
+        "J'ai très envie de venir au mariage."
+      ]
+    },
+    "türk": {
+      "tr": "Türk düğününe ilk kez gidiyorum.",
+      "values": [
+        "I'm going to a Turkish wedding for the first time.",
+        "Я впервые иду на турецкую свадьбу.",
+        "Түрк тоюна биринчи жолу бара жатам.",
+        "سأحضر زفافًا تركيًا لأول مرة.",
+        "Je vais à un mariage turc pour la première fois."
+      ]
+    },
+    "düğünü": {
+      "tr": "Türk düğünü çok eğlenceliydi.",
+      "values": [
+        "The Turkish wedding was great fun.",
+        "Турецкая свадьба была очень весёлой.",
+        "Түрк тою абдан көңүлдүү болду.",
+        "كان الزفاف التركي ممتعًا جدًا.",
+        "Le mariage turc était très joyeux."
+      ]
+    },
+    "şallah": {
+      "tr": "İnşallah düğüne geleceğiz.",
+      "values": [
+        "God willing, we'll come to the wedding.",
+        "Дай Бог, мы придём на свадьбу.",
+        "Буюрса, тойго келебиз.",
+        "إن شاء الله سنحضر الزفاف.",
+        "Si Dieu le veut, nous viendrons au mariage."
+      ]
+    },
+    "allaha": {
+      "tr": "Seni Allah'a emanet ediyorum.",
+      "values": [
+        "I entrust you to God.",
+        "Вверяю тебя Богу.",
+        "Сени Аллага аманат кылам.",
+        "أستودعك الله.",
+        "Je te confie à Dieu."
+      ]
+    },
+    "emanet": {
+      "tr": "Çantan bana emanet.",
+      "values": [
+        "I'll look after your bag.",
+        "Я присмотрю за твоей сумкой.",
+        "Сумкаң мага аманат.",
+        "حقيبتك أمانة عندي.",
+        "Je garde ton sac pour toi."
+      ]
+    },
+    "davete": {
+      "tr": "Davete katılacağım.",
+      "values": [
+        "I'll attend the event.",
+        "Я приду на мероприятие.",
+        "Чакырууга барам.",
+        "سأحضر المناسبة.",
+        "J'assisterai à l'événement."
+      ]
+    },
+    "katılamayacak": {
+      "tr": "Hasan düğüne katılamayacak.",
+      "values": [
+        "Hasan won't be able to attend the wedding.",
+        "Хасан не сможет прийти на свадьбу.",
+        "Хасан тойго катыша албайт.",
+        "لن يتمكن حسن من حضور الزفاف.",
+        "Hasan ne pourra pas assister au mariage."
+      ]
+    },
+    "metindeki": {
+      "tr": "Metindeki soruları cevapla.",
+      "values": [
+        "Answer the questions in the text.",
+        "Ответь на вопросы по тексту.",
+        "Тексттеги суроолорго жооп бер.",
+        "أجب عن الأسئلة الواردة في النص.",
+        "Réponds aux questions du texte."
+      ]
+    },
+    "evleniyor": {
+      "tr": "Ablam gelecek hafta evleniyor.",
+      "values": [
+        "My older sister is getting married next week.",
+        "Моя старшая сестра выходит замуж на следующей неделе.",
+        "Эжем кийинки жумада турмушка чыгат.",
+        "ستتزوج أختي الكبرى الأسبوع القادم.",
+        "Ma grande sœur se marie la semaine prochaine."
+      ]
+    },
+    "davetli": {
+      "tr": "Düğüne kaç kişi davetli?",
+      "values": [
+        "How many people are invited to the wedding?",
+        "Сколько человек приглашено на свадьбу?",
+        "Тойго канча киши чакырылган?",
+        "كم شخصًا مدعوًّا إلى الزفاف؟",
+        "Combien de personnes sont invitées au mariage ?"
+      ]
+    },
+    "söylüyor": {
+      "tr": "Aycan ne söylüyor?",
+      "values": [
+        "What is Aycan saying?",
+        "Что говорит Айджан?",
+        "Айжан эмне деп жатат?",
+        "ماذا تقول أيجان؟",
+        "Que dit Aycan ?"
+      ]
+    },
+    "özel": {
+      "tr": "Bugün bizim için özel bir gün.",
+      "values": [
+        "Today is a special day for us.",
+        "Сегодня для нас особенный день.",
+        "Бүгүн биз үчүн өзгөчө күн.",
+        "اليوم يوم خاص بالنسبة إلينا.",
+        "Aujourd'hui est un jour spécial pour nous."
+      ]
+    },
+    "sizleri": {
+      "tr": "Sizleri düğünümüzde görmek istiyoruz.",
+      "values": [
+        "We'd like to see you all at our wedding.",
+        "Мы хотим видеть вас всех на нашей свадьбе.",
+        "Баарыңыздарды тоюбузда көргүбүз келет.",
+        "نود رؤيتكم جميعًا في زفافنا.",
+        "Nous aimerions vous voir tous à notre mariage."
+      ]
+    },
+    "yanımızda": {
+      "tr": "Bu güzel günde yanımızda olun.",
+      "values": [
+        "Be with us on this special day.",
+        "Будьте рядом с нами в этот прекрасный день.",
+        "Ушул сонун күнү жаныбызда болгула.",
+        "كونوا إلى جانبنا في هذا اليوم الجميل.",
+        "Soyez à nos côtés en ce beau jour."
+      ]
+    },
+    "istiyoruz": {
+      "tr": "Sizi düğüne davet etmek istiyoruz.",
+      "values": [
+        "We want to invite you to the wedding.",
+        "Мы хотим пригласить вас на свадьбу.",
+        "Сизди тойго чакыргыбыз келет.",
+        "نريد دعوتكم إلى الزفاف.",
+        "Nous voulons vous inviter au mariage."
       ]
     }
   },
