@@ -10866,6 +10866,57 @@
         "سيقام الزفاف في قاعة يلدزلار للأفراح.",
         "Le mariage aura lieu à la salle Yıldızlar."
       ]
+    },
+    "yemek yiyeceğiz": {
+      "translations": [
+        "we will eat",
+        "мы будем есть",
+        "биз тамак жейбиз",
+        "سنتناول الطعام",
+        "nous mangerons"
+      ],
+      "exampleTr": "Düğünde birlikte yemek yiyeceğiz.",
+      "examples": [
+        "We'll eat together at the wedding.",
+        "На свадьбе мы будем есть вместе.",
+        "Тойдо чогуу тамак жейбиз.",
+        "سنتناول الطعام معًا في حفل الزفاف.",
+        "Nous mangerons ensemble au mariage."
+      ]
+    },
+    "oyun oynayacağız": {
+      "translations": [
+        "we will play; we will dance",
+        "мы будем играть; танцевать",
+        "биз оюн ойнойбуз; бийлейбиз",
+        "سنلعب؛ سنرقص",
+        "nous jouerons ; nous danserons"
+      ],
+      "exampleTr": "Düğünde arkadaşlarımızla oyun oynayacağız.",
+      "examples": [
+        "We'll dance with our friends at the wedding.",
+        "На свадьбе мы будем танцевать с друзьями.",
+        "Тойдо досторубуз менен бийлейбиз.",
+        "سنرقص مع أصدقائنا في حفل الزفاف.",
+        "Nous danserons avec nos amis au mariage."
+      ]
+    },
+    "düğün salonu’nda": {
+      "translations": [
+        "at the wedding hall",
+        "в свадебном зале",
+        "тойканада",
+        "في قاعة الأفراح",
+        "dans la salle de mariage"
+      ],
+      "exampleTr": "Düğün salonunda saat beşte buluşacağız.",
+      "examples": [
+        "We'll meet at the wedding hall at five.",
+        "Встретимся в свадебном зале в пять.",
+        "Саат беште тойканада жолугабыз.",
+        "سنلتقي في قاعة الأفراح الساعة الخامسة.",
+        "Nous nous retrouverons à la salle de mariage à cinq heures."
+      ]
     }
   },
   "examples": {
