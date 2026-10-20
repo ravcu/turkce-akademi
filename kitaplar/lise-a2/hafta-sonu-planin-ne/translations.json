@@ -42,6 +42,20 @@
       "ستة",
       "six"
     ],
+    "10": [
+      "ten",
+      "десять",
+      "он",
+      "عشرة",
+      "dix"
+    ],
+    "15": [
+      "fifteen",
+      "пятнадцать",
+      "он беш",
+      "خمسة عشر",
+      "quinze"
+    ],
     "32": [
       "thirty-two",
       "тридцать два",
@@ -3114,6 +3128,160 @@
       "чык",
       "اخرج",
       "sors"
+    ],
+    "metnindeki": [
+      "in the text",
+      "в тексте",
+      "тексттеги",
+      "في النص",
+      "dans le texte"
+    ],
+    "anonsları": [
+      "announcements",
+      "объявления",
+      "кулактандыруулар",
+      "الإعلانات الصوتية",
+      "annonces"
+    ],
+    "tekrar": [
+      "again",
+      "снова",
+      "кайра",
+      "مرة أخرى",
+      "encore"
+    ],
+    "s.016": [
+      "recording S.016",
+      "запись S.016",
+      "S.016 жазуусу",
+      "التسجيل S.016",
+      "enregistrement S.016"
+    ],
+    "durakta": [
+      "at the stop",
+      "на остановке",
+      "аялдамада",
+      "في المحطة",
+      "à l'arrêt"
+    ],
+    "inecek": [
+      "will get off",
+      "выйдет",
+      "түшөт",
+      "سينزل",
+      "descendra"
+    ],
+    "anons": [
+      "announcement",
+      "объявление",
+      "кулактандыруу",
+      "إعلان",
+      "annonce"
+    ],
+    "taksim": [
+      "Taksim",
+      "Таксим",
+      "Таксим",
+      "تقسيم",
+      "Taksim"
+    ],
+    "yenikapı": [
+      "Yenikapı",
+      "Еникапы",
+      "Йеникапы",
+      "يني كابي",
+      "Yenikapı"
+    ],
+    "beşiktaş": [
+      "Beşiktaş",
+      "Бешикташ",
+      "Бешикташ",
+      "بشكتاش",
+      "Beşiktaş"
+    ],
+    "kaç": [
+      "how many",
+      "сколько",
+      "канча",
+      "كم",
+      "combien"
+    ],
+    "dakika": [
+      "minute",
+      "минута",
+      "мүнөт",
+      "دقيقة",
+      "minute"
+    ],
+    "sonra": [
+      "after",
+      "после",
+      "кийин",
+      "بعد",
+      "après"
+    ],
+    "başlayacak": [
+      "will start",
+      "начнётся",
+      "башталат",
+      "سيبدأ",
+      "commencera"
+    ],
+    "haritaya": [
+      "to the map",
+      "на карту",
+      "картага",
+      "إلى الخريطة",
+      "sur la carte"
+    ],
+    "iki": [
+      "two",
+      "два",
+      "эки",
+      "اثنان",
+      "deux"
+    ],
+    "seçtiğiniz": [
+      "you selected",
+      "выбранный вами",
+      "силер тандаган",
+      "الذي اخترتموه",
+      "que vous avez choisi"
+    ],
+    "yerler": [
+      "places",
+      "места",
+      "жерлер",
+      "أماكن",
+      "lieux"
+    ],
+    "arasında": [
+      "between",
+      "между",
+      "ортосунда",
+      "بين",
+      "entre"
+    ],
+    "adres": [
+      "address",
+      "адрес",
+      "дарек",
+      "عنوان",
+      "adresse"
+    ],
+    "tarifi": [
+      "directions",
+      "описание пути",
+      "жолдун багыты",
+      "وصف الطريق",
+      "indications"
+    ],
+    "söyleyin": [
+      "tell",
+      "скажите",
+      "айткыла",
+      "قولوا",
+      "dites"
     ]
   },
   "phrases": {
@@ -4282,6 +4450,26 @@
         "Алты билет сатып алдык.",
         "اشترينا ست تذاكر.",
         "Nous avons acheté six billets."
+      ]
+    },
+    "10": {
+      "tr": "On dakika bekle.",
+      "values": [
+        "Wait ten minutes.",
+        "Подожди десять минут.",
+        "Он мүнөт күт.",
+        "انتظر عشر دقائق.",
+        "Attends dix minutes."
+      ]
+    },
+    "15": {
+      "tr": "On beş dakika sonra gel.",
+      "values": [
+        "Come in fifteen minutes.",
+        "Приходи через пятнадцать минут.",
+        "Он беш мүнөттөн кийин кел.",
+        "تعال بعد خمس عشرة دقيقة.",
+        "Viens dans quinze minutes."
       ]
     },
     "32": {
@@ -8322,6 +8510,226 @@
         "Бул эшиктен чык.",
         "اخرج من هذا الباب.",
         "Sors par cette porte."
+      ]
+    },
+    "metnindeki": {
+      "tr": "Metnindeki kelimeleri bul.",
+      "values": [
+        "Find the words in the text.",
+        "Найди слова в тексте.",
+        "Тексттеги сөздөрдү тап.",
+        "اعثر على الكلمات في النص.",
+        "Trouve les mots dans le texte."
+      ]
+    },
+    "anonsları": {
+      "tr": "Anonsları dinleyin.",
+      "values": [
+        "Listen to the announcements.",
+        "Слушайте объявления.",
+        "Кулактандырууларды уккула.",
+        "استمعوا إلى الإعلانات.",
+        "Écoutez les annonces."
+      ]
+    },
+    "tekrar": {
+      "tr": "Tekrar söyle.",
+      "values": [
+        "Say it again.",
+        "Повтори.",
+        "Кайра айт.",
+        "قلها مرة أخرى.",
+        "Répète."
+      ]
+    },
+    "s.016": {
+      "tr": "S.016 kaydını dinle.",
+      "values": [
+        "Listen to recording S.016.",
+        "Послушай запись S.016.",
+        "S.016 жазуусун ук.",
+        "استمع إلى التسجيل S.016.",
+        "Écoute l'enregistrement S.016."
+      ]
+    },
+    "durakta": {
+      "tr": "Durakta bekliyorum.",
+      "values": [
+        "I'm waiting at the stop.",
+        "Я жду на остановке.",
+        "Аялдамада күтүп жатам.",
+        "أنتظر في المحطة.",
+        "J'attends à l'arrêt."
+      ]
+    },
+    "inecek": {
+      "tr": "Bir sonraki durakta inecek.",
+      "values": [
+        "He will get off at the next stop.",
+        "Он выйдет на следующей остановке.",
+        "Ал кийинки аялдамадан түшөт.",
+        "سينزل في المحطة القادمة.",
+        "Il descendra au prochain arrêt."
+      ]
+    },
+    "anons": {
+      "tr": "Metroda anons var.",
+      "values": [
+        "There's an announcement on the metro.",
+        "В метро объявление.",
+        "Метродо кулактандыруу бар.",
+        "هناك إعلان في المترو.",
+        "Il y a une annonce dans le métro."
+      ]
+    },
+    "taksim": {
+      "tr": "Taksim'de buluşalım.",
+      "values": [
+        "Let's meet in Taksim.",
+        "Встретимся на Таксиме.",
+        "Таксимде жолугалы.",
+        "لنلتقِ في تقسيم.",
+        "Retrouvons-nous à Taksim."
+      ]
+    },
+    "yenikapı": {
+      "tr": "Yenikapı'da inelim.",
+      "values": [
+        "Let's get off at Yenikapı.",
+        "Выйдем в Еникапы.",
+        "Йеникапыда түшөлү.",
+        "لننزل في يني كابي.",
+        "Descendons à Yenikapı."
+      ]
+    },
+    "beşiktaş": {
+      "tr": "Beşiktaş'a gidelim.",
+      "values": [
+        "Let's go to Beşiktaş.",
+        "Пойдём в Бешикташ.",
+        "Бешикташка баралы.",
+        "لنذهب إلى بشكتاش.",
+        "Allons à Beşiktaş."
+      ]
+    },
+    "kaç": {
+      "tr": "Kaç dakika kaldı?",
+      "values": [
+        "How many minutes are left?",
+        "Сколько минут осталось?",
+        "Канча мүнөт калды?",
+        "كم دقيقة بقيت؟",
+        "Combien de minutes reste-t-il ?"
+      ]
+    },
+    "dakika": {
+      "tr": "Beş dakika bekle.",
+      "values": [
+        "Wait five minutes.",
+        "Подожди пять минут.",
+        "Беш мүнөт күт.",
+        "انتظر خمس دقائق.",
+        "Attends cinq minutes."
+      ]
+    },
+    "sonra": {
+      "tr": "Dersten sonra gel.",
+      "values": [
+        "Come after class.",
+        "Приходи после урока.",
+        "Сабактан кийин кел.",
+        "تعال بعد الدرس.",
+        "Viens après le cours."
+      ]
+    },
+    "başlayacak": {
+      "tr": "Film başlayacak.",
+      "values": [
+        "The film will start.",
+        "Фильм начнётся.",
+        "Тасма башталат.",
+        "سيبدأ الفيلم.",
+        "Le film commencera."
+      ]
+    },
+    "haritaya": {
+      "tr": "Haritaya bak.",
+      "values": [
+        "Look at the map.",
+        "Посмотри на карту.",
+        "Картаны кара.",
+        "انظر إلى الخريطة.",
+        "Regarde la carte."
+      ]
+    },
+    "iki": {
+      "tr": "İki bilet aldım.",
+      "values": [
+        "I bought two tickets.",
+        "Я купил два билета.",
+        "Эки билет алдым.",
+        "اشتريت تذكرتين.",
+        "J'ai acheté deux billets."
+      ]
+    },
+    "seçtiğiniz": {
+      "tr": "Seçtiğiniz yeri anlatın.",
+      "values": [
+        "Describe the place you chose.",
+        "Опишите выбранное место.",
+        "Тандаган жериңерди айтып бергиле.",
+        "صفوا المكان الذي اخترتموه.",
+        "Décrivez le lieu choisi."
+      ]
+    },
+    "yerler": {
+      "tr": "Bu yerler güzel.",
+      "values": [
+        "These places are beautiful.",
+        "Эти места красивые.",
+        "Бул жерлер кооз.",
+        "هذه الأماكن جميلة.",
+        "Ces lieux sont beaux."
+      ]
+    },
+    "arasında": {
+      "tr": "Kafe iki bina arasında.",
+      "values": [
+        "The café is between two buildings.",
+        "Кафе между двумя зданиями.",
+        "Кафе эки имараттын ортосунда.",
+        "المقهى بين مبنيين.",
+        "Le café est entre deux bâtiments."
+      ]
+    },
+    "adres": {
+      "tr": "Adresini yaz.",
+      "values": [
+        "Write your address.",
+        "Напиши свой адрес.",
+        "Дарегиңди жаз.",
+        "اكتب عنوانك.",
+        "Écris ton adresse."
+      ]
+    },
+    "tarifi": {
+      "tr": "Yol tarifini dinle.",
+      "values": [
+        "Listen to the directions.",
+        "Послушай объяснение пути.",
+        "Жолдун багытын ук.",
+        "استمع إلى وصف الطريق.",
+        "Écoute les indications."
+      ]
+    },
+    "söyleyin": {
+      "tr": "Cevabı söyleyin.",
+      "values": [
+        "Say the answer.",
+        "Скажите ответ.",
+        "Жоопту айткыла.",
+        "قولوا الإجابة.",
+        "Dites la réponse."
       ]
     }
   },
