@@ -202,6 +202,8 @@
       // A phrase is selected in full regardless of which constituent word was clicked.
       const phrases=Object.keys(glossary.phrases||{}).sort((a,b)=>b.split(/\s+/).length-a.split(/\s+/).length);
       const clicked=words[index];if(!clicked)return null;
+      const joined=(pages[current].wordGroups||[]).find(group=>group.indices.includes(index));
+      if(joined)return {key:joined.key,indices:joined.indices,text:joined.text,single:true};
       const explicit=(pages[current].phraseGroups||[]).find(group=>group.indices.includes(index));
       if(explicit&&glossary.phrases[explicit.key])return {key:explicit.key,indices:explicit.indices,text:explicit.text};
       // PDF line-wrap fragments are separate visual hotspots. Rejoin them without
