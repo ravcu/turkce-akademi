@@ -56,6 +56,13 @@
       "خمسة عشر",
       "quinze"
     ],
+    "26": [
+      "twenty-six",
+      "двадцать шесть",
+      "жыйырма алты",
+      "ستة وعشرون",
+      "vingt-six"
+    ],
     "32": [
       "thirty-two",
       "тридцать два",
@@ -146,6 +153,13 @@
       "эки жүз",
       "مئتان",
       "deux cents"
+    ],
+    "2020": [
+      "2020",
+      "2020",
+      "2020",
+      "٢٠٢٠",
+      "2020"
     ],
     "ünite": [
       "unit",
@@ -4437,6 +4451,321 @@
       "колдоно аласың",
       "يمكنك استخدام",
       "tu peux utiliser"
+    ],
+    "kutlama/tebrik": [
+      "celebration/congratulations",
+      "празднование/поздравление",
+      "майрамдоо/куттуктoo",
+      "احتفال/تهنئة",
+      "célébration/félicitations"
+    ],
+    "düğünlerde": [
+      "at weddings",
+      "на свадьбах",
+      "үйлөнүү тойлордо",
+      "في حفلات الزفاف",
+      "aux mariages"
+    ],
+    "en": [
+      "most",
+      "самый",
+      "эң",
+      "الأكثر",
+      "le plus"
+    ],
+    "neyi": [
+      "what (object)",
+      "что",
+      "эмнени",
+      "ماذا",
+      "quoi"
+    ],
+    "metinleri": [
+      "the texts",
+      "тексты",
+      "тексттерди",
+      "النصوص",
+      "les textes"
+    ],
+    "düğün": [
+      "wedding",
+      "свадьба",
+      "үйлөнүү той",
+      "حفل زفاف",
+      "mariage"
+    ],
+    "davetini": [
+      "your/his invitation",
+      "твоё/его приглашение",
+      "чакырууңду; чакыруусун",
+      "دعوتك؛ دعوته",
+      "ton/son invitation"
+    ],
+    "edenler": [
+      "those who do",
+      "те, кто делает",
+      "кылгандар",
+      "الذين يفعلون",
+      "ceux qui font"
+    ],
+    "etmeyenler": [
+      "those who do not",
+      "те, кто не делает",
+      "кылбагандар",
+      "الذين لا يفعلون",
+      "ceux qui ne font pas"
+    ],
+    "ifadesini": [
+      "the expression",
+      "выражение",
+      "туюнтманы",
+      "العبارة",
+      "l'expression"
+    ],
+    "çizin": [
+      "draw; mark",
+      "нарисуйте; отметьте",
+      "чийгиле; белгилегиле",
+      "ارسموا؛ ضعوا علامة",
+      "dessinez; tracez"
+    ],
+    "s.017": [
+      "audio recording S.017",
+      "аудиозапись S.017",
+      "S.017 аудио жазуусу",
+      "التسجيل الصوتي S.017",
+      "enregistrement audio S.017"
+    ],
+    "kübra": [
+      "Kübra (name)",
+      "Кюбра",
+      "Күбра",
+      "كُبرى",
+      "Kübra"
+    ],
+    "kime": [
+      "to whom",
+      "кому",
+      "кимге",
+      "لمن",
+      "à qui"
+    ],
+    "yakup": [
+      "Yakup (name)",
+      "Якуп",
+      "Жакып",
+      "يعقوب",
+      "Yakup"
+    ],
+    "kimden": [
+      "from whom",
+      "от кого",
+      "кимден",
+      "ممن",
+      "de qui"
+    ],
+    "konu": [
+      "subject; topic",
+      "тема",
+      "тема",
+      "موضوع",
+      "sujet"
+    ],
+    "daveti": [
+      "invitation",
+      "приглашение",
+      "чакыруу",
+      "دعوة",
+      "invitation"
+    ],
+    "sevdik": [
+      "we loved; liked",
+      "мы любили; понравилось",
+      "жактырдык; сүйдүк",
+      "أحببنا",
+      "nous avons aimé"
+    ],
+    "seviyoruz": [
+      "we love; like",
+      "мы любим",
+      "жакшы көрөбүз",
+      "نحب",
+      "nous aimons"
+    ],
+    "allah’tan": [
+      "from God",
+      "от Бога",
+      "Алладан",
+      "من الله",
+      "de Dieu"
+    ],
+    "mutluluk": [
+      "happiness",
+      "счастье",
+      "бакыт",
+      "سعادة",
+      "bonheur"
+    ],
+    "diliyoruz": [
+      "we wish",
+      "мы желаем",
+      "каалайбыз; тилейбиз",
+      "نتمنى",
+      "nous souhaitons"
+    ],
+    "mutlu": [
+      "happy",
+      "счастливый",
+      "бактылуу",
+      "سعيد",
+      "heureux"
+    ],
+    "abim": [
+      "my older brother",
+      "мой старший брат",
+      "агам",
+      "أخي الأكبر",
+      "mon grand frère"
+    ],
+    "evlenecek": [
+      "will get married",
+      "женится; выйдет замуж",
+      "үйлөнөт; турмушка чыгат",
+      "سيتزوج",
+      "va se marier"
+    ],
+    "günümüzde": [
+      "on our day; in our time",
+      "в наш день; в наше время",
+      "күнүбүздө; азыркы учурда",
+      "في يومنا؛ في عصرنا",
+      "de nos jours; lors de notre journée"
+    ],
+    "19:00’da": [
+      "at 19:00",
+      "в 19:00",
+      "саат 19:00дө",
+      "الساعة 19:00",
+      "à 19 h"
+    ],
+    "23.00’te": [
+      "at 23:00",
+      "в 23:00",
+      "саат 23:00дө",
+      "الساعة 23:00",
+      "à 23 h"
+    ],
+    "bitecek": [
+      "will end",
+      "закончится",
+      "бүтөт",
+      "سينتهي",
+      "se terminera"
+    ],
+    "nikâh": [
+      "marriage ceremony",
+      "бракосочетание",
+      "нике кыюу",
+      "عقد القران",
+      "cérémonie de mariage"
+    ],
+    "dostlarımızı": [
+      "our friends (object)",
+      "наших друзей",
+      "досторубузду",
+      "أصدقاءنا",
+      "nos amis"
+    ],
+    "bekliyoruz": [
+      "we are waiting; expecting",
+      "мы ждём",
+      "күтүп жатабыз",
+      "ننتظر",
+      "nous attendons"
+    ],
+    "töreni": [
+      "the ceremony",
+      "церемонию; церемония",
+      "аземи",
+      "المراسم",
+      "la cérémonie"
+    ],
+    "ile": [
+      "with; and",
+      "с; и",
+      "менен",
+      "مع؛ و",
+      "avec; et"
+    ],
+    "nikâhın": [
+      "of the marriage ceremony",
+      "бракосочетания",
+      "нике кыюунун",
+      "لعقد القران",
+      "de la cérémonie de mariage"
+    ],
+    "ardından": [
+      "after; following",
+      "после",
+      "андан кийин",
+      "بعد",
+      "après"
+    ],
+    "servisi": [
+      "service; serving",
+      "подача; обслуживание",
+      "тейлөө",
+      "تقديم الطعام؛ خدمة",
+      "service"
+    ],
+    "eylül": [
+      "September",
+      "сентябрь",
+      "сентябрь",
+      "سبتمبر",
+      "septembre"
+    ],
+    "hediye": [
+      "gift",
+      "подарок",
+      "белек",
+      "هدية",
+      "cadeau"
+    ],
+    "olacak": [
+      "will be; will happen",
+      "будет",
+      "болот",
+      "سيكون",
+      "sera"
+    ],
+    "müzik": [
+      "music",
+      "музыка",
+      "музыка",
+      "موسيقى",
+      "musique"
+    ],
+    "eşliğinde": [
+      "accompanied by",
+      "под сопровождение",
+      "коштолушунда",
+      "على أنغام؛ بمرافقة",
+      "au son de; accompagné de"
+    ],
+    "oyunlar": [
+      "games; dances",
+      "игры; танцы",
+      "оюндар; бийлер",
+      "ألعاب؛ رقصات",
+      "jeux; danses"
+    ],
+    "oynayacağız": [
+      "we will play; dance",
+      "мы будем играть; танцевать",
+      "ойнойбуз; бийлейбиз",
+      "سنلعب؛ سنرقص",
+      "nous jouerons; nous danserons"
     ]
   },
   "phrases": {
@@ -6188,6 +6517,16 @@
         "Viens dans quinze minutes."
       ]
     },
+    "26": {
+      "tr": "Düğün 26 Eylül'de.",
+      "values": [
+        "The wedding is on September 26.",
+        "Свадьба 26 сентября.",
+        "Той 26-сентябрда.",
+        "الزفاف يوم 26 سبتمبر.",
+        "Le mariage a lieu le 26 septembre."
+      ]
+    },
     "32": {
       "tr": "Kitabın otuz ikinci sayfasını aç.",
       "values": [
@@ -6316,6 +6655,16 @@
         "Эки жүз метр түз бас.",
         "امشِ مستقيمًا مئتي متر.",
         "Continue tout droit sur deux cents mètres."
+      ]
+    },
+    "2020": {
+      "tr": "Bu fotoğraf 2020 yılında çekildi.",
+      "values": [
+        "This photo was taken in 2020.",
+        "Это фото было сделано в 2020 году.",
+        "Бул сүрөт 2020-жылы тартылган.",
+        "التُقطت هذه الصورة عام 2020.",
+        "Cette photo a été prise en 2020."
       ]
     },
     "ünite": {
@@ -12126,6 +12475,456 @@
         "Жол түшүндүргөндө бул туюнтмаларды колдоно аласың.",
         "يمكنك استخدام هذه التعبيرات عند وصف الطريق.",
         "Tu peux utiliser ces expressions pour indiquer le chemin."
+      ]
+    },
+    "kutlama/tebrik": {
+      "tr": "Doğum gününde arkadaşımı tebrik ettim.",
+      "values": [
+        "I congratulated my friend on their birthday.",
+        "Я поздравил друга с днём рождения.",
+        "Досумду туулган күнү менен куттуктадым.",
+        "هنأت صديقي بعيد ميلاده.",
+        "J'ai félicité mon ami pour son anniversaire."
+      ]
+    },
+    "düğünlerde": {
+      "tr": "Düğünlerde ailemle dans ederim.",
+      "values": [
+        "I dance with my family at weddings.",
+        "На свадьбах я танцую с семьёй.",
+        "Үйлөнүү тойлордо үй-бүлөм менен бийлейм.",
+        "أرقص مع عائلتي في حفلات الزفاف.",
+        "Je danse avec ma famille aux mariages."
+      ]
+    },
+    "en": {
+      "tr": "En çok müzik dinlemeyi severim.",
+      "values": [
+        "I like listening to music most.",
+        "Больше всего я люблю слушать музыку.",
+        "Мен эң көп музыка укканды жакшы көрөм.",
+        "أحب الاستماع إلى الموسيقى أكثر شيء.",
+        "Ce que j'aime le plus, c'est écouter de la musique."
+      ]
+    },
+    "neyi": {
+      "tr": "Düğünde en çok neyi seversin?",
+      "values": [
+        "What do you like most at weddings?",
+        "Что тебе больше всего нравится на свадьбах?",
+        "Тойдо эмнени эң жакшы көрөсүң?",
+        "ما أكثر شيء تحبه في حفلات الزفاف؟",
+        "Qu'aimes-tu le plus aux mariages ?"
+      ]
+    },
+    "metinleri": {
+      "tr": "Metinleri evde okuyun.",
+      "values": [
+        "Read the texts at home.",
+        "Прочитайте тексты дома.",
+        "Тексттерди үйдөн окугула.",
+        "اقرؤوا النصوص في البيت.",
+        "Lisez les textes à la maison."
+      ]
+    },
+    "düğün": {
+      "tr": "Düğün cumartesi günü.",
+      "values": [
+        "The wedding is on Saturday.",
+        "Свадьба в субботу.",
+        "Үйлөнүү той ишембиде.",
+        "حفل الزفاف يوم السبت.",
+        "Le mariage a lieu samedi."
+      ]
+    },
+    "davetini": {
+      "tr": "Davetini dün aldım.",
+      "values": [
+        "I received your invitation yesterday.",
+        "Я вчера получил твоё приглашение.",
+        "Чакырууңду кечээ алдым.",
+        "تلقيت دعوتك أمس.",
+        "J'ai reçu ton invitation hier."
+      ]
+    },
+    "edenler": {
+      "tr": "Yardım edenler çok sağ olsun.",
+      "values": [
+        "Thanks to everyone who helped.",
+        "Спасибо всем, кто помог.",
+        "Жардам бергендерге чоң рахмат.",
+        "شكرًا لكل من ساعد.",
+        "Merci à tous ceux qui ont aidé."
+      ]
+    },
+    "etmeyenler": {
+      "tr": "Katılmayanlar bize haber versin.",
+      "values": [
+        "Those who aren't attending should let us know.",
+        "Те, кто не придёт, пусть сообщат нам.",
+        "Келбегендер бизге кабар берсин.",
+        "ليخبرنا من لن يحضر.",
+        "Que ceux qui ne viennent pas nous préviennent."
+      ]
+    },
+    "ifadesini": {
+      "tr": "Doğru ifadeyi seçin.",
+      "values": [
+        "Choose the correct expression.",
+        "Выберите правильное выражение.",
+        "Туура туюнтманы тандагыла.",
+        "اختاروا العبارة الصحيحة.",
+        "Choisissez la bonne expression."
+      ]
+    },
+    "çizin": {
+      "tr": "Doğru cevabın altını çizin.",
+      "values": [
+        "Underline the correct answer.",
+        "Подчеркните правильный ответ.",
+        "Туура жооптун астын сызгыла.",
+        "ضعوا خطًا تحت الإجابة الصحيحة.",
+        "Soulignez la bonne réponse."
+      ]
+    },
+    "s.017": {
+      "tr": "S.017 kaydını dinleyin.",
+      "values": [
+        "Listen to recording S.017.",
+        "Прослушайте запись S.017.",
+        "S.017 жазуусун уккула.",
+        "استمعوا إلى التسجيل S.017.",
+        "Écoutez l'enregistrement S.017."
+      ]
+    },
+    "kübra": {
+      "tr": "Kübra bugün bize gelecek.",
+      "values": [
+        "Kübra is coming to visit us today.",
+        "Кюбра сегодня придёт к нам.",
+        "Күбра бүгүн бизге келет.",
+        "ستزورنا كبرى اليوم.",
+        "Kübra vient chez nous aujourd'hui."
+      ]
+    },
+    "kime": {
+      "tr": "Bu mesajı kime göndereyim?",
+      "values": [
+        "Who should I send this message to?",
+        "Кому отправить это сообщение?",
+        "Бул билдирүүнү кимге жөнөтөйүн?",
+        "إلى من أرسل هذه الرسالة؟",
+        "À qui dois-je envoyer ce message ?"
+      ]
+    },
+    "yakup": {
+      "tr": "Yakup yarın düğüne geliyor.",
+      "values": [
+        "Yakup is coming to the wedding tomorrow.",
+        "Якуп завтра придёт на свадьбу.",
+        "Жакып эртең тойго келет.",
+        "سيأتي يعقوب إلى الزفاف غدًا.",
+        "Yakup vient au mariage demain."
+      ]
+    },
+    "kimden": {
+      "tr": "Bu davetiye kimden geldi?",
+      "values": [
+        "Who sent this invitation?",
+        "От кого пришло это приглашение?",
+        "Бул чакыруу кимден келди?",
+        "ممن جاءت هذه الدعوة؟",
+        "De qui vient cette invitation ?"
+      ]
+    },
+    "konu": {
+      "tr": "Mesajın konusu düğün daveti.",
+      "values": [
+        "The message is about a wedding invitation.",
+        "Тема сообщения — приглашение на свадьбу.",
+        "Билдирүүнүн темасы — тойго чакыруу.",
+        "موضوع الرسالة دعوة إلى حفل زفاف.",
+        "Le sujet du message est une invitation au mariage."
+      ]
+    },
+    "daveti": {
+      "tr": "Düğün daveti aldım.",
+      "values": [
+        "I received a wedding invitation.",
+        "Я получил приглашение на свадьбу.",
+        "Тойго чакыруу алдым.",
+        "تلقيت دعوة لحضور زفاف.",
+        "J'ai reçu une invitation à un mariage."
+      ]
+    },
+    "sevdik": {
+      "tr": "Bu filmi çok sevdik.",
+      "values": [
+        "We really liked this film.",
+        "Нам очень понравился этот фильм.",
+        "Бул тасманы абдан жактырдык.",
+        "أحببنا هذا الفيلم كثيرًا.",
+        "Nous avons beaucoup aimé ce film."
+      ]
+    },
+    "seviyoruz": {
+      "tr": "Ailece piknik yapmayı seviyoruz.",
+      "values": [
+        "We love having family picnics.",
+        "Мы любим ходить на пикник всей семьёй.",
+        "Үй-бүлөбүз менен пикникке чыкканды жакшы көрөбүз.",
+        "نحب التنزه مع العائلة.",
+        "Nous aimons pique-niquer en famille."
+      ]
+    },
+    "allah’tan": {
+      "tr": "Allah'tan sağlık diliyorum.",
+      "values": [
+        "I pray to God for good health.",
+        "Я прошу у Бога здоровья.",
+        "Алладан ден соолук тилейм.",
+        "أسأل الله الصحة.",
+        "Je demande à Dieu de nous accorder la santé."
+      ]
+    },
+    "mutluluk": {
+      "tr": "Size mutluluk diliyorum.",
+      "values": [
+        "I wish you happiness.",
+        "Желаю вам счастья.",
+        "Силерге бакыт каалайм.",
+        "أتمنى لكم السعادة.",
+        "Je vous souhaite du bonheur."
+      ]
+    },
+    "diliyoruz": {
+      "tr": "Yeni evlilere mutluluk diliyoruz.",
+      "values": [
+        "We wish the newlyweds happiness.",
+        "Желаем молодожёнам счастья.",
+        "Жаңы үйлөнгөндөргө бакыт каалайбыз.",
+        "نتمنى للعروسين السعادة.",
+        "Nous souhaitons du bonheur aux mariés."
+      ]
+    },
+    "mutlu": {
+      "tr": "Bugün çok mutluyum.",
+      "values": [
+        "I'm very happy today.",
+        "Сегодня я очень счастлив.",
+        "Бүгүн абдан бактылуумун.",
+        "أنا سعيد جدًا اليوم.",
+        "Je suis très heureux aujourd'hui."
+      ]
+    },
+    "abim": {
+      "tr": "Abim cumartesi evleniyor.",
+      "values": [
+        "My older brother is getting married on Saturday.",
+        "Мой старший брат женится в субботу.",
+        "Агам ишембиде үйлөнөт.",
+        "سيتزوج أخي الأكبر يوم السبت.",
+        "Mon grand frère se marie samedi."
+      ]
+    },
+    "evlenecek": {
+      "tr": "Abim gelecek ay evlenecek.",
+      "values": [
+        "My brother is getting married next month.",
+        "Мой брат женится в следующем месяце.",
+        "Агам кийинки айда үйлөнөт.",
+        "سيتزوج أخي الشهر القادم.",
+        "Mon frère va se marier le mois prochain."
+      ]
+    },
+    "günümüzde": {
+      "tr": "Düğün günümüzde hava güzeldi.",
+      "values": [
+        "The weather was nice on our wedding day.",
+        "В день нашей свадьбы была хорошая погода.",
+        "Той күнүбүздө аба ырайы жакшы болду.",
+        "كان الطقس جميلًا يوم زفافنا.",
+        "Il faisait beau le jour de notre mariage."
+      ]
+    },
+    "19:00’da": {
+      "tr": "Düğün 19.00'da başlayacak.",
+      "values": [
+        "The wedding will start at 7 p.m.",
+        "Свадьба начнётся в 19:00.",
+        "Той саат 19:00дө башталат.",
+        "سيبدأ الزفاف الساعة السابعة مساءً.",
+        "Le mariage commencera à 19 h."
+      ]
+    },
+    "23.00’te": {
+      "tr": "Düğün 23.00'te bitecek.",
+      "values": [
+        "The wedding will end at 11 p.m.",
+        "Свадьба закончится в 23:00.",
+        "Той саат 23:00дө бүтөт.",
+        "سينتهي الزفاف الساعة الحادية عشرة مساءً.",
+        "Le mariage se terminera à 23 h."
+      ]
+    },
+    "bitecek": {
+      "tr": "Toplantı birazdan bitecek.",
+      "values": [
+        "The meeting will end soon.",
+        "Собрание скоро закончится.",
+        "Жыйын жакында бүтөт.",
+        "سينتهي الاجتماع قريبًا.",
+        "La réunion se terminera bientôt."
+      ]
+    },
+    "nikâh": {
+      "tr": "Nikâh töreni saat altıda.",
+      "values": [
+        "The marriage ceremony is at six.",
+        "Церемония бракосочетания в шесть.",
+        "Нике кыюу аземи саат алтыда.",
+        "مراسم عقد القران الساعة السادسة.",
+        "La cérémonie de mariage est à six heures."
+      ]
+    },
+    "dostlarımızı": {
+      "tr": "Dostlarımızı düğüne davet ettik.",
+      "values": [
+        "We invited our friends to the wedding.",
+        "Мы пригласили друзей на свадьбу.",
+        "Досторубузду тойго чакырдык.",
+        "دعونا أصدقاءنا إلى الزفاف.",
+        "Nous avons invité nos amis au mariage."
+      ]
+    },
+    "bekliyoruz": {
+      "tr": "Sizi saat yedide bekliyoruz.",
+      "values": [
+        "We're expecting you at seven.",
+        "Мы ждём вас в семь.",
+        "Силерди саат жетиде күтөбүз.",
+        "ننتظركم الساعة السابعة.",
+        "Nous vous attendons à sept heures."
+      ]
+    },
+    "töreni": {
+      "tr": "Nikâh töreni çok güzeldi.",
+      "values": [
+        "The wedding ceremony was lovely.",
+        "Церемония бракосочетания была красивой.",
+        "Нике кыюу аземи абдан сонун болду.",
+        "كانت مراسم عقد القران جميلة.",
+        "La cérémonie de mariage était très belle."
+      ]
+    },
+    "ile": {
+      "tr": "Ailem ile düğüne gideceğim.",
+      "values": [
+        "I'll go to the wedding with my family.",
+        "Я пойду на свадьбу с семьёй.",
+        "Үй-бүлөм менен тойго барам.",
+        "سأذهب إلى الزفاف مع عائلتي.",
+        "J'irai au mariage avec ma famille."
+      ]
+    },
+    "nikâhın": {
+      "tr": "Nikâhın ardından yemek var.",
+      "values": [
+        "There's a meal after the ceremony.",
+        "После бракосочетания будет угощение.",
+        "Нике кыюудан кийин тамак берилет.",
+        "ستُقدَّم وجبة بعد عقد القران.",
+        "Un repas est prévu après la cérémonie."
+      ]
+    },
+    "ardından": {
+      "tr": "Törenin ardından yemek yedik.",
+      "values": [
+        "We ate after the ceremony.",
+        "После церемонии мы поели.",
+        "Аземден кийин тамак жедик.",
+        "تناولنا الطعام بعد المراسم.",
+        "Nous avons mangé après la cérémonie."
+      ]
+    },
+    "servisi": {
+      "tr": "Yemek servisi sekizde başlayacak.",
+      "values": [
+        "Food service starts at eight.",
+        "Подача еды начнётся в восемь.",
+        "Тамак берүү саат сегизде башталат.",
+        "سيبدأ تقديم الطعام الساعة الثامنة.",
+        "Le service du repas commencera à huit heures."
+      ]
+    },
+    "eylül": {
+      "tr": "Eylül ayında okullar açılır.",
+      "values": [
+        "Schools open in September.",
+        "В сентябре открываются школы.",
+        "Сентябрда мектептер ачылат.",
+        "تفتح المدارس في سبتمبر.",
+        "Les écoles ouvrent en septembre."
+      ]
+    },
+    "hediye": {
+      "tr": "Arkadaşıma hediye aldım.",
+      "values": [
+        "I bought a gift for my friend.",
+        "Я купил подарок другу.",
+        "Досума белек сатып алдым.",
+        "اشتريت هدية لصديقي.",
+        "J'ai acheté un cadeau pour mon ami."
+      ]
+    },
+    "olacak": {
+      "tr": "Düğünde müzik olacak.",
+      "values": [
+        "There will be music at the wedding.",
+        "На свадьбе будет музыка.",
+        "Тойдо музыка болот.",
+        "ستكون هناك موسيقى في الزفاف.",
+        "Il y aura de la musique au mariage."
+      ]
+    },
+    "müzik": {
+      "tr": "Akşam müzik dinledik.",
+      "values": [
+        "We listened to music in the evening.",
+        "Вечером мы слушали музыку.",
+        "Кечинде музыка уктук.",
+        "استمعنا إلى الموسيقى مساءً.",
+        "Nous avons écouté de la musique le soir."
+      ]
+    },
+    "eşliğinde": {
+      "tr": "Müzik eşliğinde dans ettik.",
+      "values": [
+        "We danced to music.",
+        "Мы танцевали под музыку.",
+        "Музыканын коштоосунда бийледик.",
+        "رقصنا على أنغام الموسيقى.",
+        "Nous avons dansé au son de la musique."
+      ]
+    },
+    "oyunlar": {
+      "tr": "Düğünde geleneksel oyunlar oynadık.",
+      "values": [
+        "We danced traditional dances at the wedding.",
+        "На свадьбе мы танцевали народные танцы.",
+        "Тойдо салттуу бийлерди бийледик.",
+        "رقصنا رقصات تقليدية في الزفاف.",
+        "Nous avons dansé des danses traditionnelles au mariage."
+      ]
+    },
+    "oynayacağız": {
+      "tr": "Düğünde halay oynayacağız.",
+      "values": [
+        "We'll dance the halay at the wedding.",
+        "На свадьбе мы будем танцевать халай.",
+        "Тойдо халай бийин бийлейбиз.",
+        "سنرقص رقصة الهالاي في الزفاف.",
+        "Nous danserons le halay au mariage."
       ]
     }
   },
