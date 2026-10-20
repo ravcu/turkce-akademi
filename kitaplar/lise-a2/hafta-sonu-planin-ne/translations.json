@@ -2647,9 +2647,9 @@
       "nous attendons"
     ],
     "inşallah": [
-      "hopefully; God willing",
-      "дай Бог",
-      "Кудай буюрса",
+      "God willing; hopefully",
+      "дай Бог; если Бог даст",
+      "буюрса",
       "إن شاء الله",
       "si Dieu le veut"
     ],
@@ -7152,7 +7152,7 @@
     "bir yastıkta kocatsın": {
       "translations": [
         "may they grow old together",
-        "пусть они состарятся вместе",
+        "пусть состарятся вместе",
         "бир жаздыкта карытсын",
         "ليشيخا معًا",
         "qu'ils vieillissent ensemble"
@@ -7283,6 +7283,108 @@
         "Чакыруу кагазын досторума жөнөттүм.",
         "أرسلت بطاقة الدعوة إلى أصدقائي.",
         "J'ai envoyé le faire-part à mes amis."
+      ]
+    },
+    "düğününüz hayırlı olsun": {
+      "translations": [
+        "best wishes for your wedding",
+        "поздравляю со свадьбой",
+        "тоюңуз кут болсун",
+        "بارك الله في زواجكم",
+        "tous mes vœux pour votre mariage"
+      ],
+      "exampleTr": "Düğününüz hayırlı olsun, mutluluklar dilerim.",
+      "examples": [
+        "Best wishes for your wedding; I wish you happiness.",
+        "Поздравляю со свадьбой, желаю счастья.",
+        "Тоюңуз кут болсун, бакыт каалайм.",
+        "بارك الله في زواجكم وأتمنى لكم السعادة.",
+        "Tous mes vœux pour votre mariage, je vous souhaite du bonheur."
+      ]
+    },
+    "uzun zamandır": {
+      "translations": [
+        "for a long time",
+        "давно",
+        "көптөн бери",
+        "منذ مدة طويلة",
+        "depuis longtemps"
+      ],
+      "exampleTr": "Seni uzun zamandır görmedim.",
+      "examples": [
+        "I haven't seen you in a long time.",
+        "Я давно тебя не видел.",
+        "Сени көптөн бери көрө элекмин.",
+        "لم أرك منذ مدة طويلة.",
+        "Je ne t'ai pas vu depuis longtemps."
+      ]
+    },
+    "selamımı söyle": {
+      "translations": [
+        "give my regards",
+        "передай привет",
+        "саламымды айт",
+        "بلّغ سلامي",
+        "passe le bonjour de ma part"
+      ],
+      "exampleTr": "Yakup abiye selamımı söyle.",
+      "examples": [
+        "Give my regards to Yakup.",
+        "Передай привет Якупу.",
+        "Жакып агага саламымды айт.",
+        "بلّغ سلامي إلى يعقوب.",
+        "Passe le bonjour à Yakup de ma part."
+      ]
+    },
+    "türk düğünü": {
+      "translations": [
+        "Turkish wedding",
+        "турецкая свадьба",
+        "түрк тою",
+        "زفاف تركي",
+        "mariage turc"
+      ],
+      "exampleTr": "İlk kez Türk düğününe gittim.",
+      "examples": [
+        "I went to a Turkish wedding for the first time.",
+        "Я впервые побывал на турецкой свадьбе.",
+        "Түрк тоюна биринчи жолу бардым.",
+        "حضرت زفافًا تركيًا لأول مرة.",
+        "Je suis allé à un mariage turc pour la première fois."
+      ]
+    },
+    "allaha emanet olsun": {
+      "translations": [
+        "may God protect them",
+        "да хранит их Бог",
+        "Аллага аманат болсун",
+        "في حفظ الله",
+        "que Dieu les protège"
+      ],
+      "exampleTr": "Ailen Allah'a emanet olsun.",
+      "examples": [
+        "May God protect your family.",
+        "Пусть Бог хранит твою семью.",
+        "Үй-бүлөң Аллага аманат болсун.",
+        "عائلتك في حفظ الله.",
+        "Que Dieu protège ta famille."
+      ]
+    },
+    "özel günümüzde": {
+      "translations": [
+        "on our special day",
+        "в наш особенный день",
+        "өзгөчө күнүбүздө",
+        "في يومنا الخاص",
+        "en ce jour spécial pour nous"
+      ],
+      "exampleTr": "Özel günümüzde sizi yanımızda görmek istiyoruz.",
+      "examples": [
+        "We want you with us on our special day.",
+        "Мы хотим, чтобы вы были рядом в наш особенный день.",
+        "Өзгөчө күнүбүздө сизди жаныбызда көргүбүз келет.",
+        "نريدكم بجانبنا في يومنا الخاص.",
+        "Nous aimerions vous avoir à nos côtés en ce jour spécial."
       ]
     }
   },
@@ -10710,11 +10812,11 @@
     "inşallah": {
       "tr": "İnşallah yarın görüşürüz.",
       "values": [
-        "Hopefully, we'll meet tomorrow.",
+        "Hopefully we'll meet tomorrow.",
         "Дай Бог, увидимся завтра.",
-        "Кудай буюрса, эртең жолугабыз.",
+        "Буюрса, эртең көрүшөбүз.",
         "إن شاء الله نلتقي غدًا.",
-        "Si Dieu le veut, on se verra demain."
+        "Si Dieu le veut, nous nous verrons demain."
       ]
     },
     "değilim": {
