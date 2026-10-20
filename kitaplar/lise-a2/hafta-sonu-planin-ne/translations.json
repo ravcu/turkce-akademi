@@ -5722,6 +5722,244 @@
         "أنا ذاهب إلى متجر ملابس غوككوشاغي.",
         "Je vais au magasin de vêtements Gökkuşağı."
       ]
+    },
+    "hafta sonu planı": {
+      "translations": [
+        "weekend plan",
+        "план на выходные",
+        "дем алыш планы",
+        "خطة عطلة نهاية الأسبوع",
+        "programme du week-end"
+      ],
+      "exampleTr": "Hafta sonu planımı yazdım.",
+      "examples": [
+        "I wrote my weekend plan.",
+        "Я записал план на выходные.",
+        "Дем алыш планымды жаздым.",
+        "كتبت خطتي لعطلة نهاية الأسبوع.",
+        "J'ai écrit mon programme du week-end."
+      ]
+    },
+    "basketbol kursu": {
+      "translations": [
+        "basketball class",
+        "занятия по баскетболу",
+        "баскетбол курсу",
+        "دورة كرة السلة",
+        "cours de basket-ball"
+      ],
+      "exampleTr": "Basketbol kursu cumartesi başlıyor.",
+      "examples": [
+        "Basketball class starts on Saturday.",
+        "Занятия по баскетболу начинаются в субботу.",
+        "Баскетбол курсу ишембиде башталат.",
+        "تبدأ دورة كرة السلة يوم السبت.",
+        "Le cours de basket commence samedi."
+      ]
+    },
+    "önümüzdeki hafta sonu": {
+      "translations": [
+        "next weekend",
+        "в следующие выходные",
+        "келерки дем алышта",
+        "عطلة نهاية الأسبوع القادمة",
+        "le week-end prochain"
+      ],
+      "exampleTr": "Önümüzdeki hafta sonu pikniğe gideceğiz.",
+      "examples": [
+        "We'll go on a picnic next weekend.",
+        "В следующие выходные мы пойдём на пикник.",
+        "Келерки дем алышта пикникке барабыз.",
+        "سنذهب في نزهة في عطلة نهاية الأسبوع القادمة.",
+        "Nous ferons un pique-nique le week-end prochain."
+      ]
+    },
+    "öğleden önce": {
+      "translations": [
+        "before noon",
+        "до полудня",
+        "түшкө чейин",
+        "قبل الظهر",
+        "avant midi"
+      ],
+      "exampleTr": "Öğleden önce dersim var.",
+      "examples": [
+        "I have class before noon.",
+        "У меня занятие до полудня.",
+        "Түшкө чейин сабагым бар.",
+        "لدي درس قبل الظهر.",
+        "J'ai cours avant midi."
+      ]
+    },
+    "öğleden sonra": {
+      "translations": [
+        "in the afternoon",
+        "после полудня",
+        "түштөн кийин",
+        "بعد الظهر",
+        "l'après-midi"
+      ],
+      "exampleTr": "Öğleden sonra arkadaşlarımla buluşacağım.",
+      "examples": [
+        "I'll meet my friends in the afternoon.",
+        "После обеда я встречусь с друзьями.",
+        "Түштөн кийин досторум менен жолугам.",
+        "سألتقي بأصدقائي بعد الظهر.",
+        "Je retrouverai mes amis l'après-midi."
+      ]
+    },
+    "doğum günü": {
+      "translations": [
+        "birthday",
+        "день рождения",
+        "туулган күн",
+        "عيد ميلاد",
+        "anniversaire"
+      ],
+      "exampleTr": "Bugün Elif'in doğum günü.",
+      "examples": [
+        "Today is Elif's birthday.",
+        "Сегодня день рождения Элиф.",
+        "Бүгүн Элифтин туулган күнү.",
+        "اليوم عيد ميلاد إليف.",
+        "C'est l'anniversaire d'Elif aujourd'hui."
+      ]
+    },
+    "doğum gününü kutlayacağız": {
+      "translations": [
+        "we will celebrate the birthday",
+        "мы отметим день рождения",
+        "туулган күнүн белгилейбиз",
+        "سنحتفل بعيد الميلاد",
+        "nous fêterons l'anniversaire"
+      ],
+      "exampleTr": "Elif'in doğum gününü kutlayacağız.",
+      "examples": [
+        "We'll celebrate Elif's birthday.",
+        "Мы отметим день рождения Элиф.",
+        "Элифтин туулган күнүн белгилейбиз.",
+        "سنحتفل بعيد ميلاد إليف.",
+        "Nous fêterons l'anniversaire d'Elif."
+      ]
+    },
+    "belgrad ormanı’na": {
+      "translations": [
+        "to Belgrad Forest",
+        "в Белградский лес",
+        "Белград токоюна",
+        "إلى غابة بلغراد",
+        "dans la forêt de Belgrad"
+      ],
+      "exampleTr": "Pazar günü Belgrad Ormanı'na gideceğiz.",
+      "examples": [
+        "We'll go to Belgrad Forest on Sunday.",
+        "В воскресенье мы поедем в Белградский лес.",
+        "Жекшембиде Белград токоюна барабыз.",
+        "سنذهب إلى غابة بلغراد يوم الأحد.",
+        "Nous irons dans la forêt de Belgrad dimanche."
+      ]
+    },
+    "galata köprüsü’nde": {
+      "translations": [
+        "on Galata Bridge",
+        "на Галатском мосту",
+        "Галата көпүрөсүндө",
+        "على جسر غلطة",
+        "sur le pont de Galata"
+      ],
+      "exampleTr": "Galata Köprüsü'nde balık tutacağız.",
+      "examples": [
+        "We'll fish on Galata Bridge.",
+        "Мы будем ловить рыбу на Галатском мосту.",
+        "Галата көпүрөсүндө балык кармайбыз.",
+        "سنصطاد السمك على جسر غلطة.",
+        "Nous pêcherons sur le pont de Galata."
+      ]
+    },
+    "balık tutmayı": {
+      "translations": [
+        "fishing (as an activity)",
+        "ловить рыбу",
+        "балык кармоону",
+        "صيد السمك",
+        "pêcher"
+      ],
+      "exampleTr": "Balık tutmayı çok severim.",
+      "examples": [
+        "I really like fishing.",
+        "Я очень люблю ловить рыбу.",
+        "Балык кармаганды абдан жакшы көрөм.",
+        "أحب صيد السمك كثيرًا.",
+        "J'aime beaucoup pêcher."
+      ]
+    },
+    "balık tutacağız": {
+      "translations": [
+        "we will go fishing",
+        "мы будем ловить рыбу",
+        "балык кармайбыз",
+        "سنصطاد السمك",
+        "nous irons pêcher"
+      ],
+      "exampleTr": "Yarın balık tutacağız.",
+      "examples": [
+        "We'll go fishing tomorrow.",
+        "Завтра мы будем ловить рыбу.",
+        "Эртең балык кармайбыз.",
+        "سنصطاد السمك غدًا.",
+        "Nous irons pêcher demain."
+      ]
+    },
+    "hep beraber": {
+      "translations": [
+        "all together",
+        "все вместе",
+        "баарыбыз чогуу",
+        "جميعًا معًا",
+        "tous ensemble"
+      ],
+      "exampleTr": "Hep beraber film izleyeceğiz.",
+      "examples": [
+        "We'll all watch a film together.",
+        "Мы все вместе посмотрим фильм.",
+        "Баарыбыз чогуу тасма көрөбүз.",
+        "سنشاهد فيلمًا جميعًا معًا.",
+        "Nous regarderons tous un film ensemble."
+      ]
+    },
+    "anlatır mısın": {
+      "translations": [
+        "could you tell me?",
+        "можешь рассказать?",
+        "айтып бере аласыңбы?",
+        "هل يمكنك أن تحكي؟",
+        "peux-tu raconter ?"
+      ],
+      "exampleTr": "Hafta sonu planını anlatır mısın?",
+      "examples": [
+        "Could you tell me your weekend plan?",
+        "Можешь рассказать о своём плане на выходные?",
+        "Дем алыш планыңды айтып бере аласыңбы?",
+        "هل يمكنك أن تخبرني بخطتك لعطلة نهاية الأسبوع؟",
+        "Peux-tu me raconter ton programme du week-end ?"
+      ]
+    },
+    "arkadaşları nıza": {
+      "translations": [
+        "to your friends (line-break fragment)",
+        "вашим друзьям",
+        "досторуңарга",
+        "لأصدقائكم",
+        "à vos amis"
+      ],
+      "exampleTr": "Planınızı arkadaşlarınıza anlatın.",
+      "examples": [
+        "Tell your friends about your plan.",
+        "Расскажите друзьям о своём плане.",
+        "Планыңарды досторуңарга айтып бергиле.",
+        "أخبروا أصدقاءكم بخطتكم.",
+        "Racontez votre programme à vos amis."
+      ]
     }
   },
   "examples": {
