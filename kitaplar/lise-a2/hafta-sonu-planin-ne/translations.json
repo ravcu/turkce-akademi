@@ -273,6 +273,13 @@
       "٢٠٢٠",
       "2020"
     ],
+    "2021": [
+      "2021",
+      "2021",
+      "2021",
+      "٢٠٢١",
+      "2021"
+    ],
     "ünite": [
       "unit",
       "раздел",
@@ -6544,6 +6551,888 @@
       "өткөрүлүүдө; жасалууда",
       "يُقام؛ يُنفَّذ",
       "est organisé; se fait"
+    ],
+    "iletişim": [
+      "communication",
+      "общение; связь",
+      "байланыш",
+      "تواصل",
+      "communication"
+    ],
+    "yolunu": [
+      "the way; method (object)",
+      "способ; путь",
+      "жолун",
+      "الطريقة",
+      "la manière"
+    ],
+    "mektup": [
+      "letter",
+      "письмо",
+      "кат",
+      "رسالة ورقية",
+      "lettre"
+    ],
+    "mu": [
+      "question particle",
+      "вопросительная частица",
+      "суроо мүчөсү",
+      "أداة استفهام",
+      "particule interrogative"
+    ],
+    "e-ileti": [
+      "email; electronic message",
+      "электронное письмо",
+      "электрондук кат",
+      "بريد إلكتروني",
+      "courriel"
+    ],
+    "arkadaşlarınızla": [
+      "with your friends",
+      "с вашими друзьями",
+      "досторуңуздар менен",
+      "مع أصدقائكم",
+      "avec vos amis"
+    ],
+    "kurarsınız": [
+      "you establish; make",
+      "вы устанавливаете",
+      "түзөсүздөр",
+      "تقيمون",
+      "vous établissez"
+    ],
+    "aşağıda": [
+      "below",
+      "ниже",
+      "төмөндө",
+      "أدناه",
+      "ci-dessous"
+    ],
+    "seçenek": [
+      "option; choice",
+      "вариант",
+      "тандоо; вариант",
+      "خيار",
+      "option; choix"
+    ],
+    "hangisi": [
+      "which one",
+      "который из них",
+      "кайсынысы",
+      "أيّها",
+      "lequel"
+    ],
+    "aranızda": [
+      "among you",
+      "среди вас",
+      "араңарда",
+      "بينكم",
+      "parmi vous"
+    ],
+    "mektubu": [
+      "the letter (object)",
+      "письмо",
+      "катты",
+      "الرسالة",
+      "la lettre"
+    ],
+    "işaretleyen": [
+      "who marked; selecting",
+      "отметивший",
+      "белгилеген",
+      "الذي وضع علامة",
+      "qui a coché"
+    ],
+    "sanırım": [
+      "I think; I suppose",
+      "думаю; кажется",
+      "менимче",
+      "أظن",
+      "je pense"
+    ],
+    "artık": [
+      "now; no longer",
+      "теперь; больше не",
+      "эми; мындан ары",
+      "الآن؛ لم يعد",
+      "désormais; ne... plus"
+    ],
+    "insanlar": [
+      "people",
+      "люди",
+      "адамдар",
+      "الناس",
+      "les gens"
+    ],
+    "birbirlerine": [
+      "to each other",
+      "друг другу",
+      "бири-бирине",
+      "لبعضهم بعضًا",
+      "les uns aux autres"
+    ],
+    "yazmıyor": [
+      "does not write",
+      "не пишет",
+      "жазбайт",
+      "لا يكتب",
+      "n'écrit pas"
+    ],
+    "arasındaki": [
+      "between; among",
+      "между",
+      "ортосундагы",
+      "بين",
+      "entre"
+    ],
+    "farkları": [
+      "differences",
+      "различия",
+      "айырмачылыктар",
+      "اختلافات",
+      "différences"
+    ],
+    "haydi": [
+      "come on; let's",
+      "давай; ну же",
+      "кана; кел",
+      "هيا",
+      "allez; allons"
+    ],
+    "okuyalım": [
+      "let's read",
+      "давайте прочитаем",
+      "окуйлу",
+      "لنقرأ",
+      "lisons"
+    ],
+    "mektubun": [
+      "of the letter",
+      "письма",
+      "каттын",
+      "للرسالة",
+      "de la lettre"
+    ],
+    "malzemesi": [
+      "material; supplies",
+      "материал; принадлежности",
+      "материалы; керектүү буюмдары",
+      "المواد؛ الأدوات",
+      "matériel; fournitures"
+    ],
+    "kalem": [
+      "pen; pencil",
+      "ручка; карандаш",
+      "калем",
+      "قلم",
+      "stylo; crayon"
+    ],
+    "kâğıt": [
+      "paper",
+      "бумага",
+      "кагаз",
+      "ورق",
+      "papier"
+    ],
+    "zarftır": [
+      "is an envelope",
+      "это конверт",
+      "конверт болот",
+      "هو ظرف",
+      "est une enveloppe"
+    ],
+    "mektupta": [
+      "in the letter",
+      "в письме",
+      "катта",
+      "في الرسالة",
+      "dans la lettre"
+    ],
+    "metinler": [
+      "texts",
+      "тексты",
+      "тексттер",
+      "نصوص",
+      "textes"
+    ],
+    "genellikle": [
+      "usually; generally",
+      "обычно",
+      "көбүнчө",
+      "عادةً",
+      "généralement"
+    ],
+    "uzundur": [
+      "is long",
+      "длинный",
+      "узун болот",
+      "طويل",
+      "est long"
+    ],
+    "e-iletide": [
+      "in an email",
+      "в электронном письме",
+      "электрондук катта",
+      "في البريد الإلكتروني",
+      "dans un courriel"
+    ],
+    "ileti": [
+      "message; electronic message",
+      "сообщение",
+      "билдирүү",
+      "رسالة إلكترونية",
+      "message"
+    ],
+    "göndermek": [
+      "to send",
+      "отправлять",
+      "жөнөтүү",
+      "إرسال",
+      "envoyer"
+    ],
+    "bilgisayar": [
+      "computer",
+      "компьютер",
+      "компьютер",
+      "حاسوب",
+      "ordinateur"
+    ],
+    "kısadır": [
+      "is short",
+      "короткий",
+      "кыска",
+      "قصير",
+      "est court"
+    ],
+    "kullanırız": [
+      "we use",
+      "мы используем",
+      "колдонобуз",
+      "نستخدم",
+      "nous utilisons"
+    ],
+    "görürüz": [
+      "we see",
+      "мы видим",
+      "көрөбүз",
+      "نرى",
+      "nous voyons"
+    ],
+    "koklarız": [
+      "we smell",
+      "мы нюхаем",
+      "жыттайбыз",
+      "نشمّ",
+      "nous sentons"
+    ],
+    "kâğıdına": [
+      "to the paper; its paper",
+      "на бумагу",
+      "кагазына",
+      "إلى ورقه",
+      "sur le papier"
+    ],
+    "alıcıya": [
+      "to the recipient",
+      "получателю",
+      "алуучуга",
+      "إلى المستلم",
+      "au destinataire"
+    ],
+    "birkaç": [
+      "a few; several",
+      "несколько",
+      "бир нече",
+      "بضعة",
+      "quelques"
+    ],
+    "günde": [
+      "in a day; per day",
+      "за день; в день",
+      "күндө; күндө бир",
+      "في يوم",
+      "en un jour; par jour"
+    ],
+    "ulaşır": [
+      "reaches; arrives",
+      "доходит; прибывает",
+      "жетет",
+      "يصل",
+      "arrive; parvient"
+    ],
+    "dokunuruz": [
+      "we touch",
+      "мы трогаем",
+      "тийебиз; кармайбыз",
+      "نلمس",
+      "nous touchons"
+    ],
+    "sadece": [
+      "only",
+      "только",
+      "гана",
+      "فقط",
+      "seulement"
+    ],
+    "hızlıdır": [
+      "is fast",
+      "быстрый",
+      "тез",
+      "سريع",
+      "est rapide"
+    ],
+    "saniyede": [
+      "in a second; per second",
+      "за секунду",
+      "секундда",
+      "في ثانية",
+      "en une seconde"
+    ],
+    "soruyorum": [
+      "I'm asking",
+      "я спрашиваю",
+      "сурап жатам",
+      "أسأل",
+      "je demande"
+    ],
+    "hangisini": [
+      "which one (object)",
+      "который из них",
+      "кайсынысын",
+      "أيّها",
+      "lequel"
+    ],
+    "edersi": [
+      "you do (split fragment)",
+      "вы делаете (часть слова)",
+      "кыласыз (сөздүн бөлүгү)",
+      "تفعل (جزء كلمة)",
+      "vous faites (fragment)"
+    ],
+    "niz": [
+      "you (polite plural suffix fragment)",
+      "вы (часть слова)",
+      "сиз (сөздүн бөлүгү)",
+      "أنتم (جزء كلمة)",
+      "vous (fragment)"
+    ],
+    "internet": [
+      "internet",
+      "интернет",
+      "интернет",
+      "إنترنت",
+      "Internet"
+    ],
+    "yeterlidir": [
+      "is sufficient",
+      "достаточно",
+      "жетиштүү",
+      "كافٍ",
+      "est suffisant"
+    ],
+    "emel": [
+      "Emel (name)",
+      "Эмель",
+      "Эмел",
+      "إميل",
+      "Emel"
+    ],
+    "türkiye’den": [
+      "from Turkey",
+      "из Турции",
+      "Түркиядан",
+      "من تركيا",
+      "de Turquie"
+    ],
+    "yazdı": [
+      "wrote",
+      "написал",
+      "жазды",
+      "كتب",
+      "a écrit"
+    ],
+    "yazılır": [
+      "is written",
+      "пишется",
+      "жазылат",
+      "يُكتب",
+      "s'écrit"
+    ],
+    "istanbul": [
+      "Istanbul",
+      "Стамбул",
+      "Стамбул",
+      "إسطنبول",
+      "Istanbul"
+    ],
+    "hitap": [
+      "form of address; salutation",
+      "обращение",
+      "кайрылуу",
+      "صيغة المخاطبة",
+      "formule d'appel"
+    ],
+    "cümlesi": [
+      "sentence; its sentence",
+      "предложение",
+      "сүйлөмү",
+      "جملة",
+      "phrase"
+    ],
+    "başla": [
+      "start",
+      "начни",
+      "башта",
+      "ابدأ",
+      "commence"
+    ],
+    "sevgili": [
+      "dear; beloved",
+      "дорогой; любимый",
+      "кымбаттуу; сүйүктүү",
+      "عزيز؛ حبيب",
+      "cher; bien-aimé"
+    ],
+    "sayın": [
+      "esteemed; dear (formal)",
+      "уважаемый",
+      "урматтуу",
+      "السيد المحترم",
+      "cher; honorable"
+    ],
+    "hocam": [
+      "my teacher; teacher (address)",
+      "мой учитель",
+      "агайым; эжейим",
+      "أستاذي",
+      "mon professeur"
+    ],
+    "arkadaşım": [
+      "my friend",
+      "мой друг",
+      "досум",
+      "صديقي",
+      "mon ami"
+    ],
+    "adım": [
+      "my name",
+      "меня зовут",
+      "менин атым",
+      "اسمي",
+      "je m'appelle"
+    ],
+    "türkiyeliyim": [
+      "I am from Turkey",
+      "я из Турции",
+      "мен Түркияданмын",
+      "أنا من تركيا",
+      "je viens de Turquie"
+    ],
+    "bursa’da": [
+      "in Bursa",
+      "в Бурсе",
+      "Бурсада",
+      "في بورصة",
+      "à Bursa"
+    ],
+    "yaşı": [
+      "age; part of split yaşı-yorum",
+      "возраст; часть слова «живу»",
+      "жашы; «жашайм» сөзүнүн бөлүгү",
+      "العمر؛ جزء من «أعيش»",
+      "âge; fragment de « j'habite »"
+    ],
+    "kıymetli": [
+      "valuable; dear",
+      "ценный; дорогой",
+      "баалуу; кымбаттуу",
+      "قيّم؛ عزيز",
+      "précieux; cher"
+    ],
+    "dostum": [
+      "my friend",
+      "мой друг",
+      "досум",
+      "صديقي",
+      "mon ami"
+    ],
+    "yorum": [
+      "comment; split fragment of yaşıyorum",
+      "комментарий; часть слова «живу»",
+      "пикир; «жашайм» сөзүнүн бөлүгү",
+      "تعليق؛ جزء من «أعيش»",
+      "commentaire; fragment de « j'habite »"
+    ],
+    "lise": [
+      "high school",
+      "лицей; старшая школа",
+      "лицей; орто мектеп",
+      "مدرسة ثانوية",
+      "lycée"
+    ],
+    "sınıfta": [
+      "in class; in grade",
+      "в классе",
+      "класста",
+      "في الصف",
+      "en classe"
+    ],
+    "okuyorum": [
+      "I study; I read",
+      "я учусь; читаю",
+      "окуйм",
+      "أدرس؛ أقرأ",
+      "j'étudie; je lis"
+    ],
+    "amacını": [
+      "its purpose; your purpose",
+      "цель",
+      "максатын",
+      "هدفه؛ هدفك",
+      "son objectif; ton objectif"
+    ],
+    "duygu": [
+      "feeling; emotion",
+      "чувство",
+      "сезим",
+      "شعور",
+      "sentiment"
+    ],
+    "türkiye’ye": [
+      "to Turkey",
+      "в Турцию",
+      "Түркияга",
+      "إلى تركيا",
+      "en Turquie"
+    ],
+    "yazıyorum": [
+      "I am writing",
+      "я пишу",
+      "жазып жатам",
+      "أكتب",
+      "j'écris"
+    ],
+    "düşüncelerini": [
+      "your thoughts; their thoughts",
+      "твои мысли; их мысли",
+      "ойлоруңду; алардын ойлорун",
+      "أفكارك؛ أفكارهم",
+      "tes pensées; leurs idées"
+    ],
+    "anlat": [
+      "tell; explain",
+      "расскажи",
+      "айтып бер",
+      "احكِ؛ اشرح",
+      "raconte; explique"
+    ],
+    "türkiye’deki": [
+      "in Turkey; Turkey's",
+      "в Турции",
+      "Түркиядагы",
+      "في تركيا",
+      "en Turquie"
+    ],
+    "liselerle": [
+      "with high schools",
+      "с лицеями",
+      "лицейлер менен",
+      "مع المدارس الثانوية",
+      "avec les lycées"
+    ],
+    "maarif": [
+      "education; Maarif (institution name)",
+      "образование; Маариф",
+      "агартуу; Маариф",
+      "معارف",
+      "enseignement; Maarif"
+    ],
+    "vakfı": [
+      "foundation (in name)",
+      "фонд",
+      "фонду",
+      "مؤسسة",
+      "fondation"
+    ],
+    "öğrencileri": [
+      "students",
+      "ученики",
+      "окуучулар",
+      "الطلاب",
+      "élèves"
+    ],
+    "günüm": [
+      "my day",
+      "мой день",
+      "менин күнүм",
+      "يومي",
+      "ma journée"
+    ],
+    "eğlenceliydi": [
+      "was fun",
+      "было весело",
+      "кызыктуу болду",
+      "كان ممتعًا",
+      "était amusant"
+    ],
+    "te": [
+      "thanks (split fragment)",
+      "спасибо (часть слова)",
+      "рахмат (сөздүн бөлүгү)",
+      "شكرًا (جزء كلمة)",
+      "merci (fragment)"
+    ],
+    "tanışma": [
+      "getting acquainted; introduction",
+      "знакомство",
+      "таанышуу",
+      "تعارف",
+      "rencontre; prise de contact"
+    ],
+    "düzenleyeceğiz": [
+      "we will organize",
+      "мы организуем",
+      "уюштурабыз",
+      "سننظم",
+      "nous organiserons"
+    ],
+    "etkin": [
+      "active; split fragment of etkinlik",
+      "активный; часть слова",
+      "активдүү; сөздүн бөлүгү",
+      "نشط؛ جزء كلمة",
+      "actif; fragment de mot"
+    ],
+    "şekkür": [
+      "thanks (split fragment)",
+      "спасибо (часть слова)",
+      "рахмат (сөздүн бөлүгү)",
+      "شكرًا (جزء كلمة)",
+      "merci (fragment)"
+    ],
+    "lik": [
+      "event (split fragment)",
+      "мероприятие (часть слова)",
+      "иш-чара (сөздүн бөлүгү)",
+      "فعالية (جزء كلمة)",
+      "événement (fragment)"
+    ],
+    "1-5": [
+      "1–5",
+      "1–5",
+      "1–5",
+      "١–٥",
+      "1–5"
+    ],
+    "haftasında": [
+      "during the week of",
+      "на неделе",
+      "жумасында",
+      "خلال أسبوع",
+      "pendant la semaine de"
+    ],
+    "etkinlikte": [
+      "at the event",
+      "на мероприятии",
+      "иш-чарада",
+      "في الفعالية",
+      "à l'événement"
+    ],
+    "kültürleri": [
+      "cultures (object)",
+      "культуры",
+      "маданияттарды",
+      "الثقافات",
+      "les cultures"
+    ],
+    "tanıyacak": [
+      "will get to know",
+      "познакомится",
+      "тааныйт",
+      "سيتعرف إلى",
+      "fera connaissance avec"
+    ],
+    "geçi": [
+      "spend (split fragment)",
+      "провести (часть слова)",
+      "өткөрүү (сөздүн бөлүгү)",
+      "قضاء (جزء كلمة)",
+      "passer (fragment)"
+    ],
+    "dilek": [
+      "wish",
+      "пожелание",
+      "каалоо",
+      "أمنية",
+      "souhait"
+    ],
+    "temenni": [
+      "wish; hope",
+      "пожелание",
+      "тилек; каалоо",
+      "تمنٍّ",
+      "vœu; souhait"
+    ],
+    "veda": [
+      "farewell",
+      "прощание",
+      "коштошуу",
+      "وداع",
+      "adieu; au revoir"
+    ],
+    "selamlama": [
+      "greeting; salutation",
+      "приветствие",
+      "саламдашуу",
+      "تحية",
+      "salutation"
+    ],
+    "receğiz": [
+      "we will (split fragment)",
+      "мы будем (часть слова)",
+      "-быз (сөздүн бөлүгү)",
+      "سنفعل (جزء كلمة)",
+      "nous allons (fragment)"
+    ],
+    "tamamla": [
+      "complete; finish",
+      "закончи",
+      "бүтүр",
+      "أكمل",
+      "termine"
+    ],
+    "sevgiler": [
+      "with love; best wishes",
+      "с любовью; с наилучшими пожеланиями",
+      "сүйүү менен; жакшы тилектер менен",
+      "مع المحبة",
+      "affectueusement"
+    ],
+    "allah’a": [
+      "to God",
+      "Богу",
+      "Аллага",
+      "إلى الله",
+      "à Dieu"
+    ],
+    "hepiniz": [
+      "all of you",
+      "вы все",
+      "баарыңар",
+      "جميعكم",
+      "vous tous"
+    ],
+    "davetlisiniz": [
+      "you are invited",
+      "вы приглашены",
+      "чакырылдыңыздар",
+      "أنتم مدعوون",
+      "vous êtes invités"
+    ],
+    "tanışmak": [
+      "to meet; get acquainted",
+      "познакомиться",
+      "таанышуу",
+      "التعارف",
+      "faire connaissance"
+    ],
+    "arkadaş": [
+      "friend",
+      "друг",
+      "дос",
+      "صديق",
+      "ami"
+    ],
+    "olmak": [
+      "to be; become",
+      "быть; стать",
+      "болуу",
+      "أن يكون؛ أن يصبح",
+      "être; devenir"
+    ],
+    "bursa’ya": [
+      "to Bursa",
+      "в Бурсу",
+      "Бурсага",
+      "إلى بورصة",
+      "à Bursa"
+    ],
+    "ediyo": [
+      "invite (split fragment of ediyoruz)",
+      "приглашаем (часть слова)",
+      "чакырабыз (сөздүн бөлүгү)",
+      "ندعو (جزء كلمة)",
+      "invitons (fragment)"
+    ],
+    "ruz": [
+      "we (split fragment of ediyoruz)",
+      "мы (часть слова)",
+      "-быз (сөздүн бөлүгү)",
+      "نحن (جزء كلمة)",
+      "nous (fragment)"
+    ],
+    "katılınız": [
+      "please attend; participate",
+      "примите участие",
+      "катышыңыздар",
+      "شاركوا",
+      "participez"
+    ],
+    "açıkgöz": [
+      "Açıkgöz (surname); alert",
+      "Ачыкгёз (фамилия)",
+      "Ачыгөз (фамилия)",
+      "أجيكغوز (اسم عائلة)",
+      "Açıkgöz (nom de famille)"
+    ],
+    "defterinize": [
+      "in your notebook",
+      "в вашей тетради",
+      "дептериңизге",
+      "في دفاتركم",
+      "dans votre cahier"
+    ],
+    "emel’in": [
+      "Emel's",
+      "Эмель (родительный падеж)",
+      "Эмелдин",
+      "لإميل",
+      "d'Emel"
+    ],
+    "na": [
+      "to (split suffix)",
+      "к (часть суффикса)",
+      "-га (мүчөнүн бөлүгү)",
+      "إلى (جزء لاحقة)",
+      "à (fragment)"
+    ],
+    "mektubunuzda": [
+      "in your letter",
+      "в вашем письме",
+      "катыңызда",
+      "في رسالتكم",
+      "dans votre lettre"
+    ],
+    "soruların": [
+      "of the questions",
+      "вопросов",
+      "суроолордун",
+      "للأسئلة",
+      "des questions"
+    ],
+    "cevabı": [
+      "the answer",
+      "ответ",
+      "жообу",
+      "الإجابة",
+      "la réponse"
+    ],
+    "mısınız": [
+      "are you? (polite/plural)",
+      "вы? (вопрос)",
+      "сизби?",
+      "هل أنتم؟",
+      "êtes-vous ?"
     ]
   },
   "phrases": {
@@ -9385,6 +10274,16 @@
         "Бул сүрөт 2020-жылы тартылган.",
         "التُقطت هذه الصورة عام 2020.",
         "Cette photo a été prise en 2020."
+      ]
+    },
+    "2021": {
+      "tr": "Mektubun tarihi 2021.",
+      "values": [
+        "The letter is dated 2021.",
+        "Письмо датировано 2021 годом.",
+        "Кат 2021-жылы жазылган.",
+        "تاريخ الرسالة عام ٢٠٢١.",
+        "La lettre date de 2021."
       ]
     },
     "ünite": {
@@ -18025,6 +18924,1266 @@
         "Бул майрам жыл сайын өткөрүлөт.",
         "يُقام هذا المهرجان كل عام.",
         "Ce festival est organisé chaque année."
+      ]
+    },
+    "iletişim": {
+      "tr": "Arkadaşlarımla iletişim kuruyorum.",
+      "values": [
+        "I communicate with my friends.",
+        "Я общаюсь с друзьями.",
+        "Досторум менен байланышам.",
+        "أتواصل مع أصدقائي.",
+        "Je communique avec mes amis."
+      ]
+    },
+    "yolunu": {
+      "tr": "En kolay iletişim yolunu seçtim.",
+      "values": [
+        "I chose the easiest way to communicate.",
+        "Я выбрал самый простой способ общения.",
+        "Байланышуунун эң оңой жолун тандадым.",
+        "اخترت أسهل طريقة للتواصل.",
+        "J'ai choisi le moyen de communication le plus simple."
+      ]
+    },
+    "mektup": {
+      "tr": "Arkadaşıma mektup yazdım.",
+      "values": [
+        "I wrote a letter to my friend.",
+        "Я написал письмо другу.",
+        "Досума кат жаздым.",
+        "كتبت رسالة إلى صديقي.",
+        "J'ai écrit une lettre à mon ami."
+      ]
+    },
+    "mu": {
+      "tr": "Mektup mu yazacaksın?",
+      "values": [
+        "Are you going to write a letter?",
+        "Ты будешь писать письмо?",
+        "Кат жазасыңбы?",
+        "هل ستكتب رسالة؟",
+        "Vas-tu écrire une lettre ?"
+      ]
+    },
+    "e-ileti": {
+      "tr": "Öğretmenime e-ileti gönderdim.",
+      "values": [
+        "I sent my teacher an email.",
+        "Я отправил учителю электронное письмо.",
+        "Мугалиме электрондук кат жөнөттүм.",
+        "أرسلت بريدًا إلكترونيًا إلى معلمي.",
+        "J'ai envoyé un courriel à mon professeur."
+      ]
+    },
+    "arkadaşlarınızla": {
+      "tr": "Arkadaşlarınızla nasıl görüşüyorsunuz?",
+      "values": [
+        "How do you keep in touch with your friends?",
+        "Как вы общаетесь с друзьями?",
+        "Досторуңуздар менен кантип байланышасыздар?",
+        "كيف تتواصلون مع أصدقائكم؟",
+        "Comment restez-vous en contact avec vos amis ?"
+      ]
+    },
+    "kurarsınız": {
+      "tr": "Ailenizle nasıl iletişim kurarsınız?",
+      "values": [
+        "How do you communicate with your family?",
+        "Как вы общаетесь с семьёй?",
+        "Үй-бүлөңүз менен кантип байланышасыз?",
+        "كيف تتواصلون مع عائلاتكم؟",
+        "Comment communiquez-vous avec votre famille ?"
+      ]
+    },
+    "aşağıda": {
+      "tr": "Aşağıda iki seçenek var.",
+      "values": [
+        "There are two options below.",
+        "Ниже два варианта.",
+        "Төмөндө эки вариант бар.",
+        "يوجد خياران أدناه.",
+        "Il y a deux options ci-dessous."
+      ]
+    },
+    "seçenek": {
+      "tr": "İki seçenek arasından birini seç.",
+      "values": [
+        "Choose one of the two options.",
+        "Выбери один из двух вариантов.",
+        "Эки варианттын бирин танда.",
+        "اختر أحد الخيارين.",
+        "Choisis l'une des deux options."
+      ]
+    },
+    "hangisi": {
+      "tr": "Hangisi sana daha uygun?",
+      "values": [
+        "Which one suits you better?",
+        "Какой тебе больше подходит?",
+        "Кайсынысы сага көбүрөөк ылайыктуу?",
+        "أيّها أنسب لك؟",
+        "Lequel te convient le mieux ?"
+      ]
+    },
+    "aranızda": {
+      "tr": "Aranızda mektup yazan var mı?",
+      "values": [
+        "Does anyone among you write letters?",
+        "Среди вас кто-нибудь пишет письма?",
+        "Араңарда кат жазгандар барбы?",
+        "هل يكتب أحد منكم رسائل؟",
+        "Est-ce que quelqu'un parmi vous écrit des lettres ?"
+      ]
+    },
+    "mektubu": {
+      "tr": "Mektubu dün okudum.",
+      "values": [
+        "I read the letter yesterday.",
+        "Я вчера прочитал письмо.",
+        "Катты кечээ окудум.",
+        "قرأت الرسالة أمس.",
+        "J'ai lu la lettre hier."
+      ]
+    },
+    "işaretleyen": {
+      "tr": "Mektubu işaretleyen var mı?",
+      "values": [
+        "Did anyone select the letter option?",
+        "Кто-нибудь отметил вариант «письмо»?",
+        "Кат вариантын белгилеген барбы?",
+        "هل اختار أحد خيار الرسالة؟",
+        "Quelqu'un a-t-il coché l'option « lettre » ?"
+      ]
+    },
+    "sanırım": {
+      "tr": "Sanırım bugün yağmur yağacak.",
+      "values": [
+        "I think it will rain today.",
+        "Думаю, сегодня будет дождь.",
+        "Менимче, бүгүн жамгыр жаайт.",
+        "أظن أن المطر سيهطل اليوم.",
+        "Je pense qu'il va pleuvoir aujourd'hui."
+      ]
+    },
+    "artık": {
+      "tr": "Artık mektup yazmıyorum.",
+      "values": [
+        "I don't write letters anymore.",
+        "Я больше не пишу писем.",
+        "Эми кат жазбайм.",
+        "لم أعد أكتب رسائل ورقية.",
+        "Je n'écris plus de lettres."
+      ]
+    },
+    "insanlar": {
+      "tr": "İnsanlar telefonla haberleşiyor.",
+      "values": [
+        "People communicate by phone.",
+        "Люди общаются по телефону.",
+        "Адамдар телефон менен байланышат.",
+        "يتواصل الناس عبر الهاتف.",
+        "Les gens communiquent par téléphone."
+      ]
+    },
+    "birbirlerine": {
+      "tr": "Arkadaşlar birbirlerine mesaj gönderiyor.",
+      "values": [
+        "Friends send messages to each other.",
+        "Друзья отправляют друг другу сообщения.",
+        "Достор бири-бирине билдирүү жөнөтүшөт.",
+        "يرسل الأصدقاء رسائل بعضهم إلى بعض.",
+        "Les amis s'envoient des messages."
+      ]
+    },
+    "yazmıyor": {
+      "tr": "Kardeşim artık mektup yazmıyor.",
+      "values": [
+        "My sibling no longer writes letters.",
+        "Мой брат больше не пишет письма.",
+        "Бир тууганым эми кат жазбайт.",
+        "لم يعد أخي يكتب رسائل.",
+        "Mon frère n'écrit plus de lettres."
+      ]
+    },
+    "arasındaki": {
+      "tr": "İki iletişim yolu arasındaki fark nedir?",
+      "values": [
+        "What's the difference between the two ways of communicating?",
+        "В чём разница между двумя способами общения?",
+        "Эки байланыш ыкмасынын ортосундагы айырма эмнеде?",
+        "ما الفرق بين طريقتَي التواصل؟",
+        "Quelle est la différence entre ces deux moyens de communication ?"
+      ]
+    },
+    "farkları": {
+      "tr": "Mektup ile e-iletinin farklarını anlattım.",
+      "values": [
+        "I explained the differences between letters and emails.",
+        "Я объяснил различия между письмами и электронными сообщениями.",
+        "Кат менен электрондук каттын айырмачылыктарын түшүндүрдүм.",
+        "شرحت الفروق بين الرسائل الورقية والإلكترونية.",
+        "J'ai expliqué les différences entre une lettre et un courriel."
+      ]
+    },
+    "haydi": {
+      "tr": "Haydi birlikte okuyalım.",
+      "values": [
+        "Come on, let's read together.",
+        "Давай читать вместе.",
+        "Кана, чогуу окуйлу.",
+        "هيا نقرأ معًا.",
+        "Allez, lisons ensemble."
+      ]
+    },
+    "okuyalım": {
+      "tr": "Bu mektubu birlikte okuyalım.",
+      "values": [
+        "Let's read this letter together.",
+        "Давайте прочитаем это письмо вместе.",
+        "Бул катты чогуу окуйлу.",
+        "لنقرأ هذه الرسالة معًا.",
+        "Lisons cette lettre ensemble."
+      ]
+    },
+    "mektubun": {
+      "tr": "Mektubun sonunda imza var.",
+      "values": [
+        "There's a signature at the end of the letter.",
+        "В конце письма есть подпись.",
+        "Каттын аягында кол тамга бар.",
+        "يوجد توقيع في نهاية الرسالة.",
+        "Il y a une signature à la fin de la lettre."
+      ]
+    },
+    "malzemesi": {
+      "tr": "Mektubun malzemesi kâğıt ve kalemdir.",
+      "values": [
+        "A letter requires paper and a pen.",
+        "Для письма нужны бумага и ручка.",
+        "Кат жазууга кагаз менен калем керек.",
+        "تحتاج الرسالة الورقية إلى ورق وقلم.",
+        "Pour écrire une lettre, il faut du papier et un stylo."
+      ]
+    },
+    "kalem": {
+      "tr": "Mektubu mavi kalemle yazdım.",
+      "values": [
+        "I wrote the letter with a blue pen.",
+        "Я написал письмо синей ручкой.",
+        "Катты көк калем менен жаздым.",
+        "كتبت الرسالة بقلم أزرق.",
+        "J'ai écrit la lettre avec un stylo bleu."
+      ]
+    },
+    "kâğıt": {
+      "tr": "Bana bir kâğıt verir misin?",
+      "values": [
+        "Could you give me a sheet of paper?",
+        "Дашь мне лист бумаги?",
+        "Мага бир барак кагаз бересиңби?",
+        "هل تعطيني ورقة؟",
+        "Tu peux me donner une feuille de papier ?"
+      ]
+    },
+    "zarftır": {
+      "tr": "Masadaki beyaz şey bir zarftır.",
+      "values": [
+        "The white thing on the table is an envelope.",
+        "Белый предмет на столе — конверт.",
+        "Столдогу ак нерсе — конверт.",
+        "الشيء الأبيض على الطاولة ظرف.",
+        "L'objet blanc sur la table est une enveloppe."
+      ]
+    },
+    "mektupta": {
+      "tr": "Mektupta güzel haberler vardı.",
+      "values": [
+        "There was good news in the letter.",
+        "В письме были хорошие новости.",
+        "Катта жакшы кабарлар бар эле.",
+        "كانت في الرسالة أخبار سارة.",
+        "Il y avait de bonnes nouvelles dans la lettre."
+      ]
+    },
+    "metinler": {
+      "tr": "Bu kitaptaki metinler kısa.",
+      "values": [
+        "The texts in this book are short.",
+        "Тексты в этой книге короткие.",
+        "Бул китептеги тексттер кыска.",
+        "النصوص في هذا الكتاب قصيرة.",
+        "Les textes de ce livre sont courts."
+      ]
+    },
+    "genellikle": {
+      "tr": "Genellikle e-posta gönderirim.",
+      "values": [
+        "I usually send emails.",
+        "Обычно я отправляю электронные письма.",
+        "Көбүнчө электрондук кат жөнөтөм.",
+        "عادةً أرسل بريدًا إلكترونيًا.",
+        "J'envoie généralement des courriels."
+      ]
+    },
+    "uzundur": {
+      "tr": "Bu mektup biraz uzundur.",
+      "values": [
+        "This letter is a bit long.",
+        "Это письмо немного длинное.",
+        "Бул кат бир аз узун.",
+        "هذه الرسالة طويلة قليلًا.",
+        "Cette lettre est un peu longue."
+      ]
+    },
+    "e-iletide": {
+      "tr": "E-iletide toplantı saati yazıyor.",
+      "values": [
+        "The meeting time is in the email.",
+        "В электронном письме указано время встречи.",
+        "Электрондук катта жыйындын убактысы жазылган.",
+        "وقت الاجتماع مذكور في البريد الإلكتروني.",
+        "L'heure de la réunion est indiquée dans le courriel."
+      ]
+    },
+    "ileti": {
+      "tr": "Öğretmenime kısa bir ileti gönderdim.",
+      "values": [
+        "I sent a short message to my teacher.",
+        "Я отправил учителю короткое сообщение.",
+        "Мугалиме кыска билдирүү жөнөттүм.",
+        "أرسلت رسالة قصيرة إلى معلمي.",
+        "J'ai envoyé un court message à mon professeur."
+      ]
+    },
+    "göndermek": {
+      "tr": "Arkadaşıma fotoğraf göndermek istiyorum.",
+      "values": [
+        "I want to send my friend a photo.",
+        "Я хочу отправить другу фотографию.",
+        "Досума сүрөт жөнөткүм келет.",
+        "أريد إرسال صورة إلى صديقي.",
+        "Je veux envoyer une photo à mon ami."
+      ]
+    },
+    "bilgisayar": {
+      "tr": "Bilgisayardan e-posta gönderdim.",
+      "values": [
+        "I sent an email from my computer.",
+        "Я отправил письмо с компьютера.",
+        "Компьютерден электрондук кат жөнөттүм.",
+        "أرسلت بريدًا إلكترونيًا من الحاسوب.",
+        "J'ai envoyé un courriel depuis mon ordinateur."
+      ]
+    },
+    "kısadır": {
+      "tr": "Bu e-posta çok kısadır.",
+      "values": [
+        "This email is very short.",
+        "Это электронное письмо очень короткое.",
+        "Бул электрондук кат абдан кыска.",
+        "هذا البريد الإلكتروني قصير جدًا.",
+        "Ce courriel est très court."
+      ]
+    },
+    "kullanırız": {
+      "tr": "İletişim için telefon kullanırız.",
+      "values": [
+        "We use phones to communicate.",
+        "Мы используем телефоны для общения.",
+        "Байланыш үчүн телефон колдонобуз.",
+        "نستخدم الهاتف للتواصل.",
+        "Nous utilisons le téléphone pour communiquer."
+      ]
+    },
+    "görürüz": {
+      "tr": "Mesajı ekranda görürüz.",
+      "values": [
+        "We see the message on the screen.",
+        "Мы видим сообщение на экране.",
+        "Билдирүүнү экрандан көрөбүз.",
+        "نرى الرسالة على الشاشة.",
+        "Nous voyons le message à l'écran."
+      ]
+    },
+    "koklarız": {
+      "tr": "Çiçekleri koklarız.",
+      "values": [
+        "We smell the flowers.",
+        "Мы нюхаем цветы.",
+        "Гүлдөрдү жыттайбыз.",
+        "نشمّ الزهور.",
+        "Nous sentons les fleurs."
+      ]
+    },
+    "kâğıdına": {
+      "tr": "Mektup kâğıdına adresimi yazdım.",
+      "values": [
+        "I wrote my address on the letter paper.",
+        "Я написал адрес на почтовой бумаге.",
+        "Кат кагазына дарегимди жаздым.",
+        "كتبت عنواني على ورق الرسالة.",
+        "J'ai écrit mon adresse sur le papier à lettres."
+      ]
+    },
+    "alıcıya": {
+      "tr": "Mektup alıcıya ulaştı.",
+      "values": [
+        "The letter reached the recipient.",
+        "Письмо дошло до получателя.",
+        "Кат алуучуга жетти.",
+        "وصلت الرسالة إلى المستلم.",
+        "La lettre est arrivée au destinataire."
+      ]
+    },
+    "birkaç": {
+      "tr": "Mektup birkaç günde ulaştı.",
+      "values": [
+        "The letter arrived in a few days.",
+        "Письмо дошло за несколько дней.",
+        "Кат бир нече күндө жетти.",
+        "وصلت الرسالة خلال بضعة أيام.",
+        "La lettre est arrivée en quelques jours."
+      ]
+    },
+    "günde": {
+      "tr": "Mektup üç günde geldi.",
+      "values": [
+        "The letter arrived in three days.",
+        "Письмо пришло за три дня.",
+        "Кат үч күндө келди.",
+        "وصلت الرسالة خلال ثلاثة أيام.",
+        "La lettre est arrivée en trois jours."
+      ]
+    },
+    "ulaşır": {
+      "tr": "E-posta birkaç saniyede ulaşır.",
+      "values": [
+        "An email arrives in a few seconds.",
+        "Электронное письмо доходит за несколько секунд.",
+        "Электрондук кат бир нече секундда жетет.",
+        "يصل البريد الإلكتروني خلال ثوانٍ.",
+        "Un courriel arrive en quelques secondes."
+      ]
+    },
+    "dokunuruz": {
+      "tr": "Mektup kâğıdına dokunuruz.",
+      "values": [
+        "We touch the letter paper.",
+        "Мы трогаем бумагу письма.",
+        "Каттын кагазын кармайбыз.",
+        "نلمس ورق الرسالة.",
+        "Nous touchons le papier de la lettre."
+      ]
+    },
+    "sadece": {
+      "tr": "Sadece bir sorum var.",
+      "values": [
+        "I only have one question.",
+        "У меня только один вопрос.",
+        "Менин бир гана суроом бар.",
+        "لدي سؤال واحد فقط.",
+        "J'ai seulement une question."
+      ]
+    },
+    "hızlıdır": {
+      "tr": "E-posta çok hızlıdır.",
+      "values": [
+        "Email is very fast.",
+        "Электронная почта очень быстрая.",
+        "Электрондук почта абдан тез.",
+        "البريد الإلكتروني سريع جدًا.",
+        "Le courriel est très rapide."
+      ]
+    },
+    "saniyede": {
+      "tr": "Mesaj bir saniyede ulaştı.",
+      "values": [
+        "The message arrived in one second.",
+        "Сообщение дошло за секунду.",
+        "Билдирүү бир секундда жетти.",
+        "وصلت الرسالة في ثانية واحدة.",
+        "Le message est arrivé en une seconde."
+      ]
+    },
+    "soruyorum": {
+      "tr": "Size bir soru soruyorum.",
+      "values": [
+        "I'm asking you a question.",
+        "Я задаю вам вопрос.",
+        "Сизге бир суроо берип жатам.",
+        "أطرح عليكم سؤالًا.",
+        "Je vous pose une question."
+      ]
+    },
+    "hangisini": {
+      "tr": "Hangisini tercih edersin?",
+      "values": [
+        "Which one do you prefer?",
+        "Какой из них ты предпочитаешь?",
+        "Кайсынысын тандайсың?",
+        "أيّها تفضّل؟",
+        "Lequel préfères-tu ?"
+      ]
+    },
+    "edersi": {
+      "tr": "Hangisini tercih edersiniz?",
+      "values": [
+        "Which do you prefer?",
+        "Что вы предпочитаете?",
+        "Кайсынысын тандайсыз?",
+        "أيّها تفضّلون؟",
+        "Lequel préférez-vous ?"
+      ]
+    },
+    "niz": {
+      "tr": "Hangisini tercih edersiniz?",
+      "values": [
+        "Which do you prefer?",
+        "Что вы предпочитаете?",
+        "Кайсынысын тандайсыз?",
+        "أيّها تفضّلون؟",
+        "Lequel préférez-vous ?"
+      ]
+    },
+    "internet": {
+      "tr": "İnternet bugün çok yavaş.",
+      "values": [
+        "The internet is very slow today.",
+        "Сегодня интернет очень медленный.",
+        "Бүгүн интернет абдан жай.",
+        "الإنترنت بطيء جدًا اليوم.",
+        "Internet est très lent aujourd'hui."
+      ]
+    },
+    "yeterlidir": {
+      "tr": "Mesaj göndermek için telefon yeterlidir.",
+      "values": [
+        "A phone is enough to send a message.",
+        "Для отправки сообщения достаточно телефона.",
+        "Билдирүү жөнөтүүгө телефон жетиштүү.",
+        "الهاتف كافٍ لإرسال رسالة.",
+        "Un téléphone suffit pour envoyer un message."
+      ]
+    },
+    "emel": {
+      "tr": "Emel bize mektup yazdı.",
+      "values": [
+        "Emel wrote us a letter.",
+        "Эмель написала нам письмо.",
+        "Эмел бизге кат жазды.",
+        "كتبت إميل رسالة إلينا.",
+        "Emel nous a écrit une lettre."
+      ]
+    },
+    "türkiye’den": {
+      "tr": "Türkiye'den bir mektup geldi.",
+      "values": [
+        "A letter arrived from Turkey.",
+        "Пришло письмо из Турции.",
+        "Түркиядан кат келди.",
+        "وصلت رسالة من تركيا.",
+        "Une lettre est arrivée de Turquie."
+      ]
+    },
+    "yazdı": {
+      "tr": "Arkadaşım bana mektup yazdı.",
+      "values": [
+        "My friend wrote me a letter.",
+        "Мой друг написал мне письмо.",
+        "Досум мага кат жазды.",
+        "كتب لي صديقي رسالة.",
+        "Mon ami m'a écrit une lettre."
+      ]
+    },
+    "yazılır": {
+      "tr": "Mektubun başına tarih yazılır.",
+      "values": [
+        "The date is written at the top of the letter.",
+        "В начале письма пишут дату.",
+        "Каттын башына дата жазылат.",
+        "يُكتب التاريخ في بداية الرسالة.",
+        "On écrit la date au début de la lettre."
+      ]
+    },
+    "istanbul": {
+      "tr": "İstanbul'a yazın gideceğim.",
+      "values": [
+        "I'll go to Istanbul in summer.",
+        "Летом я поеду в Стамбул.",
+        "Жайында Стамбулга барам.",
+        "سأذهب إلى إسطنبول صيفًا.",
+        "J'irai à Istanbul cet été."
+      ]
+    },
+    "hitap": {
+      "tr": "Mektuba bir hitap cümlesiyle başla.",
+      "values": [
+        "Start the letter with a greeting.",
+        "Начни письмо с обращения.",
+        "Катты кайрылуу сүйлөмү менен башта.",
+        "ابدأ الرسالة بعبارة تحية.",
+        "Commence la lettre par une formule d'appel."
+      ]
+    },
+    "cümlesi": {
+      "tr": "Hitap cümlesi yazmayı unutma.",
+      "values": [
+        "Don't forget to write a greeting.",
+        "Не забудь написать обращение.",
+        "Кайрылуу сүйлөмүн жазууну унутпа.",
+        "لا تنسَ كتابة جملة التحية.",
+        "N'oublie pas d'écrire la formule d'appel."
+      ]
+    },
+    "başla": {
+      "tr": "Mektuba 'Sevgili arkadaşım' diye başla.",
+      "values": [
+        "Start the letter with 'Dear friend'.",
+        "Начни письмо словами «Дорогой друг».",
+        "Катты «Кымбаттуу досум» деп башта.",
+        "ابدأ الرسالة بعبارة «صديقي العزيز».",
+        "Commence la lettre par « Cher ami »."
+      ]
+    },
+    "sevgili": {
+      "tr": "Sevgili arkadaşım, nasılsın?",
+      "values": [
+        "Dear friend, how are you?",
+        "Дорогой друг, как дела?",
+        "Кымбаттуу досум, кандайсың?",
+        "صديقي العزيز، كيف حالك؟",
+        "Cher ami, comment vas-tu ?"
+      ]
+    },
+    "sayın": {
+      "tr": "Sayın Hocam, size bir sorum var.",
+      "values": [
+        "Dear Teacher, I have a question.",
+        "Уважаемый учитель, у меня к вам вопрос.",
+        "Урматтуу агай, сизге суроом бар.",
+        "أستاذي المحترم، لدي سؤال لكم.",
+        "Cher professeur, j'ai une question."
+      ]
+    },
+    "hocam": {
+      "tr": "Hocam, bir soru sorabilir miyim?",
+      "values": [
+        "Teacher, may I ask a question?",
+        "Учитель, можно задать вопрос?",
+        "Агай, суроо берсем болобу?",
+        "أستاذي، هل يمكنني طرح سؤال؟",
+        "Professeur, puis-je poser une question ?"
+      ]
+    },
+    "arkadaşım": {
+      "tr": "Sevgili arkadaşım, seni özledim.",
+      "values": [
+        "Dear friend, I miss you.",
+        "Дорогой друг, я скучаю по тебе.",
+        "Кымбаттуу досум, сени сагындым.",
+        "صديقي العزيز، اشتقت إليك.",
+        "Cher ami, tu me manques."
+      ]
+    },
+    "adım": {
+      "tr": "Benim adım Emel.",
+      "values": [
+        "My name is Emel.",
+        "Меня зовут Эмель.",
+        "Менин атым Эмел.",
+        "اسمي إميل.",
+        "Je m'appelle Emel."
+      ]
+    },
+    "türkiyeliyim": {
+      "tr": "Türkiyeliyim, Bursa'da yaşıyorum.",
+      "values": [
+        "I'm from Turkey and I live in Bursa.",
+        "Я из Турции и живу в Бурсе.",
+        "Мен Түркияданмын, Бурсада жашайм.",
+        "أنا من تركيا وأعيش في بورصة.",
+        "Je viens de Turquie et j'habite à Bursa."
+      ]
+    },
+    "bursa’da": {
+      "tr": "Bursa'da ikinci sınıfta okuyorum.",
+      "values": [
+        "I'm in my second year of high school in Bursa.",
+        "Я учусь во втором классе лицея в Бурсе.",
+        "Бурсада лицейдин экинчи классында окуйм.",
+        "أدرس في الصف الثاني الثانوي في بورصة.",
+        "Je suis en deuxième année de lycée à Bursa."
+      ]
+    },
+    "yaşı": {
+      "tr": "Bursa'da yaşıyorum.",
+      "values": [
+        "I live in Bursa.",
+        "Я живу в Бурсе.",
+        "Мен Бурсада жашайм.",
+        "أعيش في بورصة.",
+        "J'habite à Bursa."
+      ]
+    },
+    "kıymetli": {
+      "tr": "Kıymetli dostum, sana yazıyorum.",
+      "values": [
+        "Dear friend, I'm writing to you.",
+        "Дорогой друг, я пишу тебе.",
+        "Кымбаттуу досум, сага жазып жатам.",
+        "صديقي العزيز، أكتب إليك.",
+        "Mon cher ami, je t'écris."
+      ]
+    },
+    "dostum": {
+      "tr": "Dostum, seni uzun zamandır görmedim.",
+      "values": [
+        "My friend, I haven't seen you in a long time.",
+        "Друг мой, я давно тебя не видел.",
+        "Досум, сени көптөн бери көрө элекмин.",
+        "يا صديقي، لم أرك منذ مدة طويلة.",
+        "Mon ami, cela fait longtemps que je ne t'ai pas vu."
+      ]
+    },
+    "yorum": {
+      "tr": "Bursa'da yaşıyorum.",
+      "values": [
+        "I live in Bursa.",
+        "Я живу в Бурсе.",
+        "Мен Бурсада жашайм.",
+        "أعيش في بورصة.",
+        "J'habite à Bursa."
+      ]
+    },
+    "lise": {
+      "tr": "Lise öğrencisiyim.",
+      "values": [
+        "I'm a high school student.",
+        "Я учусь в лицее.",
+        "Мен лицейде окуйм.",
+        "أنا طالب في المدرسة الثانوية.",
+        "Je suis lycéen."
+      ]
+    },
+    "sınıfta": {
+      "tr": "İkinci sınıfta okuyorum.",
+      "values": [
+        "I'm in the second grade.",
+        "Я учусь во втором классе.",
+        "Экинчи класста окуйм.",
+        "أدرس في الصف الثاني.",
+        "Je suis en deuxième année."
+      ]
+    },
+    "okuyorum": {
+      "tr": "Lisede okuyorum.",
+      "values": [
+        "I study at a high school.",
+        "Я учусь в лицее.",
+        "Лицейде окуйм.",
+        "أدرس في مدرسة ثانوية.",
+        "J'étudie au lycée."
+      ]
+    },
+    "amacını": {
+      "tr": "Mektubun amacını açıkça yaz.",
+      "values": [
+        "Write the purpose of the letter clearly.",
+        "Чётко напиши цель письма.",
+        "Каттын максатын так жаз.",
+        "اكتب هدف الرسالة بوضوح.",
+        "Écris clairement le but de la lettre."
+      ]
+    },
+    "duygu": {
+      "tr": "Duygu ve düşüncelerini anlat.",
+      "values": [
+        "Express your feelings and thoughts.",
+        "Расскажи о своих чувствах и мыслях.",
+        "Сезимдериңди жана ойлоруңду айт.",
+        "عبّر عن مشاعرك وأفكارك.",
+        "Exprime tes sentiments et tes pensées."
+      ]
+    },
+    "türkiye’ye": {
+      "tr": "Sizi Türkiye'ye davet ediyorum.",
+      "values": [
+        "I'm inviting you to Turkey.",
+        "Я приглашаю вас в Турцию.",
+        "Сизди Түркияга чакырам.",
+        "أدعوكم إلى تركيا.",
+        "Je vous invite en Turquie."
+      ]
+    },
+    "yazıyorum": {
+      "tr": "Sana bir mektup yazıyorum.",
+      "values": [
+        "I'm writing you a letter.",
+        "Я пишу тебе письмо.",
+        "Сага кат жазып жатам.",
+        "أكتب لك رسالة.",
+        "Je t'écris une lettre."
+      ]
+    },
+    "düşüncelerini": {
+      "tr": "Düşüncelerini benimle paylaş.",
+      "values": [
+        "Share your thoughts with me.",
+        "Поделись со мной своими мыслями.",
+        "Ойлоруңду мени менен бөлүш.",
+        "شارك أفكارك معي.",
+        "Partage tes idées avec moi."
+      ]
+    },
+    "anlat": {
+      "tr": "Bana okulunu anlat.",
+      "values": [
+        "Tell me about your school.",
+        "Расскажи мне о своей школе.",
+        "Мага мектебиң жөнүндө айтып бер.",
+        "حدثني عن مدرستك.",
+        "Parle-moi de ton école."
+      ]
+    },
+    "türkiye’deki": {
+      "tr": "Türkiye'deki okulları tanıyacağız.",
+      "values": [
+        "We'll get to know schools in Turkey.",
+        "Мы познакомимся со школами Турции.",
+        "Түркиядагы мектептер менен таанышабыз.",
+        "سنتعرف إلى المدارس في تركيا.",
+        "Nous découvrirons les écoles de Turquie."
+      ]
+    },
+    "liselerle": {
+      "tr": "Türkiye'deki liselerle tanışacağız.",
+      "values": [
+        "We'll meet students from high schools in Turkey.",
+        "Мы познакомимся с лицеями Турции.",
+        "Түркиядагы лицейлер менен таанышабыз.",
+        "سنتعرف إلى المدارس الثانوية في تركيا.",
+        "Nous ferons connaissance avec des lycées de Turquie."
+      ]
+    },
+    "maarif": {
+      "tr": "Maarif Vakfı öğrencileri buluşacak.",
+      "values": [
+        "Maarif Foundation students will meet.",
+        "Ученики Фонда Маариф встретятся.",
+        "Маариф фондунун окуучулары жолугушат.",
+        "سيلتقي طلاب مؤسسة المعارف.",
+        "Les élèves de la Fondation Maarif se rencontreront."
+      ]
+    },
+    "vakfı": {
+      "tr": "Maarif Vakfı bir etkinlik düzenliyor.",
+      "values": [
+        "The Maarif Foundation is organizing an event.",
+        "Фонд Маариф организует мероприятие.",
+        "Маариф фонду иш-чара уюштуруп жатат.",
+        "تنظم مؤسسة المعارف فعالية.",
+        "La Fondation Maarif organise un événement."
+      ]
+    },
+    "öğrencileri": {
+      "tr": "Okulun öğrencileri geziye katılacak.",
+      "values": [
+        "The school's students will join the trip.",
+        "Ученики школы поедут на экскурсию.",
+        "Мектептин окуучулары экскурсияга катышат.",
+        "سيشارك طلاب المدرسة في الرحلة.",
+        "Les élèves de l'école participeront à l'excursion."
+      ]
+    },
+    "günüm": {
+      "tr": "Doğum günüm çok eğlenceliydi.",
+      "values": [
+        "My birthday was great fun.",
+        "Мой день рождения был очень весёлым.",
+        "Туулган күнүм абдан көңүлдүү өттү.",
+        "كان عيد ميلادي ممتعًا جدًا.",
+        "Mon anniversaire était très amusant."
+      ]
+    },
+    "eğlenceliydi": {
+      "tr": "Dünkü etkinlik çok eğlenceliydi.",
+      "values": [
+        "Yesterday's event was great fun.",
+        "Вчерашнее мероприятие было очень весёлым.",
+        "Кечээги иш-чара абдан кызыктуу болду.",
+        "كانت فعالية الأمس ممتعة جدًا.",
+        "L'événement d'hier était très amusant."
+      ]
+    },
+    "te": {
+      "tr": "Davetin için teşekkür ederim.",
+      "values": [
+        "Thank you for the invitation.",
+        "Спасибо за приглашение.",
+        "Чакырууң үчүн рахмат.",
+        "شكرًا على الدعوة.",
+        "Merci pour ton invitation."
+      ]
+    },
+    "tanışma": {
+      "tr": "Okulda tanışma etkinliği var.",
+      "values": [
+        "There's a meet-and-greet event at school.",
+        "В школе проходит мероприятие для знакомства.",
+        "Мектепте таанышуу иш-чарасы бар.",
+        "توجد فعالية تعارف في المدرسة.",
+        "Il y a une rencontre de présentation à l'école."
+      ]
+    },
+    "düzenleyeceğiz": {
+      "tr": "Bursa'da bir etkinlik düzenleyeceğiz.",
+      "values": [
+        "We'll organize an event in Bursa.",
+        "Мы организуем мероприятие в Бурсе.",
+        "Бурсада иш-чара уюштурабыз.",
+        "سننظم فعالية في بورصة.",
+        "Nous organiserons un événement à Bursa."
+      ]
+    },
+    "etkin": {
+      "tr": "Etkinlik eylül ayında olacak.",
+      "values": [
+        "The event will take place in September.",
+        "Мероприятие пройдёт в сентябре.",
+        "Иш-чара сентябрда өтөт.",
+        "ستقام الفعالية في سبتمبر.",
+        "L'événement aura lieu en septembre."
+      ]
+    },
+    "şekkür": {
+      "tr": "Yardımın için teşekkür ederim.",
+      "values": [
+        "Thank you for your help.",
+        "Спасибо за помощь.",
+        "Жардамың үчүн рахмат.",
+        "شكرًا لمساعدتك.",
+        "Merci pour ton aide."
+      ]
+    },
+    "lik": {
+      "tr": "Tanışma etkinliği yarın.",
+      "values": [
+        "The meet-and-greet event is tomorrow.",
+        "Мероприятие для знакомства завтра.",
+        "Таанышуу иш-чарасы эртең.",
+        "فعالية التعارف غدًا.",
+        "La rencontre de présentation a lieu demain."
+      ]
+    },
+    "1-5": {
+      "tr": "Etkinlik 1-5 Eylül arasında yapılacak.",
+      "values": [
+        "The event will be held September 1–5.",
+        "Мероприятие пройдёт с 1 по 5 сентября.",
+        "Иш-чара 1–5-сентябрда өтөт.",
+        "ستُقام الفعالية من 1 إلى 5 سبتمبر.",
+        "L'événement aura lieu du 1er au 5 septembre."
+      ]
+    },
+    "haftasında": {
+      "tr": "Eylülün ilk haftasında görüşeceğiz.",
+      "values": [
+        "We'll meet in the first week of September.",
+        "Мы встретимся в первую неделю сентября.",
+        "Сентябрдын биринчи жумасында жолугабыз.",
+        "سنلتقي في الأسبوع الأول من سبتمبر.",
+        "Nous nous verrons la première semaine de septembre."
+      ]
+    },
+    "etkinlikte": {
+      "tr": "Etkinlikte yeni arkadaşlar edindim.",
+      "values": [
+        "I made new friends at the event.",
+        "На мероприятии я завёл новых друзей.",
+        "Иш-чарада жаңы досторду таптым.",
+        "تعرفت إلى أصدقاء جدد في الفعالية.",
+        "Je me suis fait de nouveaux amis à l'événement."
+      ]
+    },
+    "kültürleri": {
+      "tr": "Farklı kültürleri tanımak istiyorum.",
+      "values": [
+        "I want to discover different cultures.",
+        "Я хочу познакомиться с разными культурами.",
+        "Ар түрдүү маданияттарды тааныгым келет.",
+        "أريد التعرف إلى ثقافات مختلفة.",
+        "Je veux découvrir différentes cultures."
+      ]
+    },
+    "tanıyacak": {
+      "tr": "Etkinlikte yeni arkadaşlar tanıyacak.",
+      "values": [
+        "He'll meet new friends at the event.",
+        "На мероприятии он познакомится с новыми друзьями.",
+        "Иш-чарада жаңы достор менен таанышат.",
+        "سيتعرف إلى أصدقاء جدد في الفعالية.",
+        "Il fera connaissance avec de nouveaux amis à l'événement."
+      ]
+    },
+    "geçi": {
+      "tr": "Arkadaşlarla güzel zaman geçireceğiz.",
+      "values": [
+        "We'll have a good time with friends.",
+        "Мы хорошо проведём время с друзьями.",
+        "Достор менен жакшы убакыт өткөрөбүз.",
+        "سنقضي وقتًا جميلًا مع الأصدقاء.",
+        "Nous passerons un bon moment avec nos amis."
+      ]
+    },
+    "dilek": {
+      "tr": "Mektubun sonuna güzel bir dilek yaz.",
+      "values": [
+        "Write a nice wish at the end of the letter.",
+        "Напиши доброе пожелание в конце письма.",
+        "Каттын аягына жакшы каалоо жаз.",
+        "اكتب أمنية جميلة في نهاية الرسالة.",
+        "Écris un beau souhait à la fin de la lettre."
+      ]
+    },
+    "temenni": {
+      "tr": "Arkadaşıma iyi dilek ve temennilerimi ilettim.",
+      "values": [
+        "I sent my friend my best wishes.",
+        "Я передал другу добрые пожелания.",
+        "Досума жакшы тилектеримди айттым.",
+        "أرسلت أطيب تمنياتي إلى صديقي.",
+        "J'ai transmis mes meilleurs vœux à mon ami."
+      ]
+    },
+    "veda": {
+      "tr": "Mektubun sonunda veda cümlesi yazdım.",
+      "values": [
+        "I wrote a farewell line at the end of the letter.",
+        "В конце письма я написал прощальные слова.",
+        "Каттын аягына коштошуу сүйлөмүн жаздым.",
+        "كتبت عبارة وداع في نهاية الرسالة.",
+        "J'ai écrit une formule d'au revoir à la fin de la lettre."
+      ]
+    },
+    "selamlama": {
+      "tr": "Mektuba selamlama cümlesiyle başladım.",
+      "values": [
+        "I started the letter with a greeting.",
+        "Я начал письмо с приветствия.",
+        "Катты саламдашуу менен баштадым.",
+        "بدأت الرسالة بعبارة تحية.",
+        "J'ai commencé la lettre par une formule de salutation."
+      ]
+    },
+    "receğiz": {
+      "tr": "Yarın arkadaşlarımızla görüşeceğiz.",
+      "values": [
+        "We'll meet our friends tomorrow.",
+        "Завтра мы встретимся с друзьями.",
+        "Эртең досторубуз менен жолугабыз.",
+        "سنلتقي بأصدقائنا غدًا.",
+        "Nous verrons nos amis demain."
+      ]
+    },
+    "tamamla": {
+      "tr": "Mektubunu güzel bir dilekle tamamla.",
+      "values": [
+        "Finish your letter with a nice wish.",
+        "Закончи письмо добрым пожеланием.",
+        "Катыңды жакшы тилек менен бүтүр.",
+        "اختم رسالتك بأمنية جميلة.",
+        "Termine ta lettre par un beau souhait."
+      ]
+    },
+    "sevgiler": {
+      "tr": "Mektubumu 'Sevgiler' diyerek bitirdim.",
+      "values": [
+        "I ended my letter with 'Best wishes'.",
+        "Я закончил письмо словами «С наилучшими пожеланиями».",
+        "Катымды «Жакшы тилектер менен» деп бүтүрдүм.",
+        "أنهيت رسالتي بعبارة «مع المحبة».",
+        "J'ai terminé ma lettre par « Affectueusement »."
+      ]
+    },
+    "allah’a": {
+      "tr": "Seni Allah'a emanet ediyorum.",
+      "values": [
+        "I entrust you to God.",
+        "Вверяю тебя Богу.",
+        "Сени Аллага аманат кылам.",
+        "أستودعك الله.",
+        "Je te confie à Dieu."
+      ]
+    },
+    "hepiniz": {
+      "tr": "Hepiniz etkinliğe davetlisiniz.",
+      "values": [
+        "You're all invited to the event.",
+        "Вы все приглашены на мероприятие.",
+        "Баарыңар иш-чарага чакырылдыңар.",
+        "جميعكم مدعوون إلى الفعالية.",
+        "Vous êtes tous invités à l'événement."
+      ]
+    },
+    "davetlisiniz": {
+      "tr": "Hepiniz Bursa'ya davetlisiniz.",
+      "values": [
+        "You're all invited to Bursa.",
+        "Вы все приглашены в Бурсу.",
+        "Баарыңар Бурсага чакырылдыңар.",
+        "جميعكم مدعوون إلى بورصة.",
+        "Vous êtes tous invités à Bursa."
+      ]
+    },
+    "tanışmak": {
+      "tr": "Sizinle tanışmak istiyorum.",
+      "values": [
+        "I'd like to meet you.",
+        "Я хочу с вами познакомиться.",
+        "Сиз менен таанышкым келет.",
+        "أريد التعرف إليكم.",
+        "J'aimerais faire votre connaissance."
+      ]
+    },
+    "arkadaş": {
+      "tr": "Yeni bir arkadaş edindim.",
+      "values": [
+        "I made a new friend.",
+        "Я завёл нового друга.",
+        "Жаңы дос таптым.",
+        "تعرّفت إلى صديق جديد.",
+        "Je me suis fait un nouvel ami."
+      ]
+    },
+    "olmak": {
+      "tr": "Seninle arkadaş olmak istiyorum.",
+      "values": [
+        "I want to be friends with you.",
+        "Я хочу с тобой дружить.",
+        "Сени менен дос болгум келет.",
+        "أريد أن أكون صديقًا لك.",
+        "Je veux être ton ami."
+      ]
+    },
+    "bursa’ya": {
+      "tr": "Sizi Bursa'ya davet ediyoruz.",
+      "values": [
+        "We're inviting you to Bursa.",
+        "Мы приглашаем вас в Бурсу.",
+        "Сизди Бурсага чакырабыз.",
+        "ندعوكم إلى بورصة.",
+        "Nous vous invitons à Bursa."
+      ]
+    },
+    "ediyo": {
+      "tr": "Sizi etkinliğe davet ediyoruz.",
+      "values": [
+        "We're inviting you to the event.",
+        "Мы приглашаем вас на мероприятие.",
+        "Сизди иш-чарага чакырабыз.",
+        "ندعوكم إلى الفعالية.",
+        "Nous vous invitons à l'événement."
+      ]
+    },
+    "ruz": {
+      "tr": "Sizi Bursa'ya davet ediyoruz.",
+      "values": [
+        "We're inviting you to Bursa.",
+        "Мы приглашаем вас в Бурсу.",
+        "Сизди Бурсага чакырабыз.",
+        "ندعوكم إلى بورصة.",
+        "Nous vous invitons à Bursa."
+      ]
+    },
+    "katılınız": {
+      "tr": "Lütfen etkinliğe katılınız.",
+      "values": [
+        "Please attend the event.",
+        "Пожалуйста, примите участие в мероприятии.",
+        "Сураныч, иш-чарага катышыңыздар.",
+        "يرجى المشاركة في الفعالية.",
+        "Veuillez participer à l'événement."
+      ]
+    },
+    "açıkgöz": {
+      "tr": "Emel Açıkgöz mektubu imzaladı.",
+      "values": [
+        "Emel Açıkgöz signed the letter.",
+        "Эмель Ачыкгёз подписала письмо.",
+        "Эмел Ачыгөз катка кол койду.",
+        "وقّعت إميل أجيكغوز الرسالة.",
+        "Emel Açıkgöz a signé la lettre."
+      ]
+    },
+    "defterinize": {
+      "tr": "Cevabı defterinize yazın.",
+      "values": [
+        "Write the answer in your notebook.",
+        "Запишите ответ в тетрадь.",
+        "Жоопту дептериңизге жазыңыз.",
+        "اكتبوا الإجابة في دفاتركم.",
+        "Écrivez la réponse dans votre cahier."
+      ]
+    },
+    "emel’in": {
+      "tr": "Emel'in mektubunu okudum.",
+      "values": [
+        "I read Emel's letter.",
+        "Я прочитал письмо Эмель.",
+        "Эмелдин катын окудум.",
+        "قرأت رسالة إميل.",
+        "J'ai lu la lettre d'Emel."
+      ]
+    },
+    "na": {
+      "tr": "Emel'in mektubuna cevap yazdım.",
+      "values": [
+        "I replied to Emel's letter.",
+        "Я ответил на письмо Эмель.",
+        "Эмелдин катына жооп жаздым.",
+        "رددت على رسالة إميل.",
+        "J'ai répondu à la lettre d'Emel."
+      ]
+    },
+    "mektubunuzda": {
+      "tr": "Mektubunuzda kendinizi tanıtın.",
+      "values": [
+        "Introduce yourself in your letter.",
+        "Представьтесь в своём письме.",
+        "Катыңызда өзүңүздү тааныштырыңыз.",
+        "عرّفوا بأنفسكم في رسالتكم.",
+        "Présentez-vous dans votre lettre."
+      ]
+    },
+    "soruların": {
+      "tr": "Soruların cevaplarını yaz.",
+      "values": [
+        "Write the answers to the questions.",
+        "Напиши ответы на вопросы.",
+        "Суроолордун жоопторун жаз.",
+        "اكتب إجابات الأسئلة.",
+        "Écris les réponses aux questions."
+      ]
+    },
+    "cevabı": {
+      "tr": "Bu sorunun cevabı nedir?",
+      "values": [
+        "What's the answer to this question?",
+        "Какой ответ на этот вопрос?",
+        "Бул суроонун жообу кандай?",
+        "ما إجابة هذا السؤال؟",
+        "Quelle est la réponse à cette question ?"
+      ]
+    },
+    "mısınız": {
+      "tr": "Davete katılacak mısınız?",
+      "values": [
+        "Will you attend the event?",
+        "Вы придёте на мероприятие?",
+        "Иш-чарага катышасызбы?",
+        "هل ستحضرون الفعالية؟",
+        "Participerez-vous à l'événement ?"
       ]
     }
   },
