@@ -105,6 +105,13 @@
       "ثمانية وثلاثون",
       "trente-huit"
     ],
+    "39": [
+      "thirty-nine",
+      "тридцать девять",
+      "отуз тогуз",
+      "تسعة وثلاثون",
+      "trente-neuf"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -3660,6 +3667,321 @@
       "жакшы көрөсүң",
       "تحب",
       "tu aimes"
+    ],
+    "konuşma": [
+      "speaking",
+      "говорение",
+      "сүйлөө",
+      "محادثة",
+      "expression orale"
+    ],
+    "diyaloğu": [
+      "the dialogue",
+      "диалог",
+      "диалогду",
+      "الحوار",
+      "le dialogue"
+    ],
+    "krokiyi": [
+      "the sketch map",
+      "схему",
+      "схеманы",
+      "المخطط",
+      "le plan"
+    ],
+    "gözlükçü": [
+      "optician's",
+      "магазин оптики",
+      "көз айнек дүкөнү",
+      "محل النظارات",
+      "opticien"
+    ],
+    "şu": [
+      "this; that",
+      "этот; тот",
+      "бул; тиги",
+      "هذا؛ ذلك",
+      "ce; cette"
+    ],
+    "anda": [
+      "at the moment",
+      "в данный момент",
+      "учурда",
+      "في هذه اللحظة",
+      "à ce moment"
+    ],
+    "zemin": [
+      "ground; ground floor",
+      "нижний; первый этаж",
+      "жер; жер кабаты",
+      "أرضي",
+      "rez-de-chaussée"
+    ],
+    "kattasınız": [
+      "you are on the floor",
+      "вы на этаже",
+      "силер кабаттасыңар",
+      "أنتم في الطابق",
+      "vous êtes à l'étage"
+    ],
+    "oraya": [
+      "there; to that place",
+      "туда",
+      "ал жакка",
+      "إلى هناك",
+      "là-bas"
+    ],
+    "birinci": [
+      "first",
+      "первый",
+      "биринчи",
+      "الأول",
+      "premier"
+    ],
+    "katta": [
+      "on the floor",
+      "на этаже",
+      "кабатта",
+      "في الطابق",
+      "à l'étage"
+    ],
+    "kafenin": [
+      "of the café",
+      "кафе",
+      "кафенин",
+      "للمقهى",
+      "du café"
+    ],
+    "yanından": [
+      "beside; past",
+      "рядом; мимо",
+      "жанынан",
+      "بجانب",
+      "à côté de"
+    ],
+    "yürüyen": [
+      "moving; walking",
+      "движущийся",
+      "жүрүүчү",
+      "متحرك",
+      "mobile"
+    ],
+    "merdivenle": [
+      "by stairs; with a staircase",
+      "по лестнице",
+      "тепкич менен",
+      "بالدرج",
+      "par l'escalier"
+    ],
+    "üst": [
+      "upper; top",
+      "верхний",
+      "үстүңкү",
+      "علوي",
+      "supérieur"
+    ],
+    "kata": [
+      "to the floor",
+      "на этаж",
+      "кабатка",
+      "إلى الطابق",
+      "à l'étage"
+    ],
+    "çıkın": [
+      "go up; exit",
+      "поднимитесь; выйдите",
+      "чыккыла",
+      "اصعدوا؛ اخرجوا",
+      "montez; sortez"
+    ],
+    "dönün": [
+      "turn",
+      "поверните",
+      "бурулгула",
+      "انعطفوا",
+      "tournez"
+    ],
+    "ortadaki": [
+      "in the middle",
+      "посередине",
+      "ортодогу",
+      "في الوسط",
+      "au milieu"
+    ],
+    "havuzun": [
+      "of the pool",
+      "бассейна; фонтана",
+      "бассейндин",
+      "للحوض",
+      "du bassin"
+    ],
+    "dümdüz": [
+      "straight ahead",
+      "прямо",
+      "түптүз",
+      "مباشرة إلى الأمام",
+      "tout droit"
+    ],
+    "gidin": [
+      "go",
+      "идите",
+      "баргыла",
+      "اذهبوا",
+      "allez"
+    ],
+    "göz": [
+      "eye",
+      "глаз",
+      "көз",
+      "عين",
+      "œil"
+    ],
+    "lükçü": [
+      "optician (split word)",
+      "оптик",
+      "көз айнек сатуучу",
+      "بائع النظارات",
+      "opticien"
+    ],
+    "yolun": [
+      "of the road",
+      "дороги",
+      "жолдун",
+      "للطريق",
+      "de la route"
+    ],
+    "sonunda": [
+      "at the end",
+      "в конце",
+      "аягында",
+      "في النهاية",
+      "au bout"
+    ],
+    "marketin": [
+      "of the market",
+      "магазина",
+      "дүкөндүн",
+      "للمتجر",
+      "du magasin"
+    ],
+    "merkezi": [
+      "centre",
+      "центр",
+      "борбору",
+      "مركز",
+      "centre"
+    ],
+    "giriş": [
+      "entrance",
+      "вход",
+      "кире бериш",
+      "مدخل",
+      "entrée"
+    ],
+    "kat": [
+      "floor; storey",
+      "этаж",
+      "кабат",
+      "طابق",
+      "étage"
+    ],
+    "aycan’a": [
+      "to Aycan",
+      "Айджан",
+      "Айжанга",
+      "إلى أيجان",
+      "à Aycan"
+    ],
+    "kattaki": [
+      "on the floor",
+      "на этаже",
+      "кабаттагы",
+      "في الطابق",
+      "à l'étage"
+    ],
+    "oyuncakçıdayım": [
+      "I'm at the toy shop",
+      "я в магазине игрушек",
+      "мен оюнчук дүкөнүндөмүн",
+      "أنا في متجر الألعاب",
+      "je suis au magasin de jouets"
+    ],
+    "baklavacıya": [
+      "to the baklava shop",
+      "в магазин пахлавы",
+      "баклава дүкөнүнө",
+      "إلى محل البقلاوة",
+      "à la pâtisserie de baklavas"
+    ],
+    "gideceğim": [
+      "I will go",
+      "я пойду",
+      "мен барам",
+      "سأذهب",
+      "j'irai"
+    ],
+    "bana": [
+      "to me",
+      "мне",
+      "мага",
+      "لي",
+      "à moi"
+    ],
+    "eder": [
+      "does; makes",
+      "делает",
+      "кылат",
+      "يفعل",
+      "fait"
+    ],
+    "misiniz": [
+      "are you?; would you?",
+      "вы?",
+      "сизби?",
+      "هل أنتم؟",
+      "êtes-vous ?"
+    ],
+    "krokiden": [
+      "from the sketch map",
+      "по схеме",
+      "схемадан",
+      "من المخطط",
+      "à partir du plan"
+    ],
+    "mekân": [
+      "place; venue",
+      "место; помещение",
+      "жай; орун",
+      "مكان",
+      "lieu"
+    ],
+    "gökkuşağı": [
+      "rainbow",
+      "радуга",
+      "асан-үсөн",
+      "قوس قزح",
+      "arc-en-ciel"
+    ],
+    "giyim": [
+      "clothing",
+      "одежда",
+      "кийим",
+      "ملابس",
+      "vêtements"
+    ],
+    "mağazasından": [
+      "from the store",
+      "из магазина",
+      "дүкөнүнөн",
+      "من المتجر",
+      "du magasin"
+    ],
+    "kitapçıya": [
+      "to the bookshop",
+      "в книжный магазин",
+      "китеп дүкөнүнө",
+      "إلى المكتبة التجارية",
+      "à la librairie"
     ]
   },
   "phrases": {
@@ -5037,6 +5359,16 @@
         "Отуз сегизинчи бетти ач.",
         "افتح الصفحة الثامنة والثلاثين.",
         "Ouvre la page trente-huit."
+      ]
+    },
+    "39": {
+      "tr": "Otuz dokuzuncu sayfayı aç.",
+      "values": [
+        "Open page thirty-nine.",
+        "Открой тридцать девятую страницу.",
+        "Отуз тогузунчу бетти ач.",
+        "افتح الصفحة التاسعة والثلاثين.",
+        "Ouvre la page trente-neuf."
       ]
     },
     "50": {
@@ -9787,6 +10119,456 @@
         "Дем алышта эмне кылгың келет?",
         "ماذا تريد أن تفعل في عطلة نهاية الأسبوع؟",
         "Que voudrais-tu faire ce week-end ?"
+      ]
+    },
+    "konuşma": {
+      "tr": "Konuşma çalışması yapıyoruz.",
+      "values": [
+        "We are practising speaking.",
+        "Мы тренируем устную речь.",
+        "Биз сүйлөөгө машыгып жатабыз.",
+        "نتدرب على المحادثة.",
+        "Nous nous entraînons à parler."
+      ]
+    },
+    "diyaloğu": {
+      "tr": "Diyaloğu okuyun.",
+      "values": [
+        "Read the dialogue.",
+        "Прочитайте диалог.",
+        "Диалогду окугула.",
+        "اقرؤوا الحوار.",
+        "Lisez le dialogue."
+      ]
+    },
+    "krokiyi": {
+      "tr": "Krokiyi inceleyin.",
+      "values": [
+        "Study the sketch map.",
+        "Изучите схему.",
+        "Схеманы карап чыккыла.",
+        "تفحصوا المخطط.",
+        "Examinez le plan."
+      ]
+    },
+    "gözlükçü": {
+      "tr": "Gözlükçü birinci katta.",
+      "values": [
+        "The optician's is on the first floor.",
+        "Магазин оптики на первом этаже.",
+        "Көз айнек дүкөнү биринчи кабатта.",
+        "محل النظارات في الطابق الأول.",
+        "L'opticien est au premier étage."
+      ]
+    },
+    "şu": {
+      "tr": "Şu mağazaya bakalım.",
+      "values": [
+        "Let's look at that shop.",
+        "Давай посмотрим на тот магазин.",
+        "Тиги дүкөндү карап көрөлү.",
+        "لننظر إلى ذلك المتجر.",
+        "Regardons ce magasin-là."
+      ]
+    },
+    "anda": {
+      "tr": "Şu anda evdeyim.",
+      "values": [
+        "I'm at home right now.",
+        "Я сейчас дома.",
+        "Мен азыр үйдөмүн.",
+        "أنا في البيت الآن.",
+        "Je suis chez moi en ce moment."
+      ]
+    },
+    "zemin": {
+      "tr": "Zemin kata inelim.",
+      "values": [
+        "Let's go down to the ground floor.",
+        "Спустимся на нижний этаж.",
+        "Жер кабатына түшөлү.",
+        "لننزل إلى الطابق الأرضي.",
+        "Descendons au rez-de-chaussée."
+      ]
+    },
+    "kattasınız": {
+      "tr": "Şimdi zemin kattasınız.",
+      "values": [
+        "You are now on the ground floor.",
+        "Сейчас вы на нижнем этаже.",
+        "Азыр силер жер кабаттасыңар.",
+        "أنتم الآن في الطابق الأرضي.",
+        "Vous êtes maintenant au rez-de-chaussée."
+      ]
+    },
+    "oraya": {
+      "tr": "Oraya nasıl giderim?",
+      "values": [
+        "How do I get there?",
+        "Как мне туда добраться?",
+        "Ал жакка кантип барсам болот?",
+        "كيف أصل إلى هناك؟",
+        "Comment puis-je y aller ?"
+      ]
+    },
+    "birinci": {
+      "tr": "Birinci katta buluşalım.",
+      "values": [
+        "Let's meet on the first floor.",
+        "Встретимся на первом этаже.",
+        "Биринчи кабатта жолугалы.",
+        "لنلتقِ في الطابق الأول.",
+        "Retrouvons-nous au premier étage."
+      ]
+    },
+    "katta": {
+      "tr": "Kafe üst katta.",
+      "values": [
+        "The café is upstairs.",
+        "Кафе на верхнем этаже.",
+        "Кафе үстүнкү кабатта.",
+        "المقهى في الطابق العلوي.",
+        "Le café est à l'étage supérieur."
+      ]
+    },
+    "kafenin": {
+      "tr": "Kafenin yanından geç.",
+      "values": [
+        "Go past the café.",
+        "Пройди мимо кафе.",
+        "Кафенин жанынан өт.",
+        "مرّ بجانب المقهى.",
+        "Passe à côté du café."
+      ]
+    },
+    "yanından": {
+      "tr": "Bankanın yanından yürü.",
+      "values": [
+        "Walk past the bank.",
+        "Пройди мимо банка.",
+        "Банктын жанынан бас.",
+        "امشِ بجانب البنك.",
+        "Passe à côté de la banque."
+      ]
+    },
+    "yürüyen": {
+      "tr": "Yürüyen merdivene bin.",
+      "values": [
+        "Take the escalator.",
+        "Встань на эскалатор.",
+        "Эскалаторго түш.",
+        "اصعد السلم المتحرك.",
+        "Prends l'escalator."
+      ]
+    },
+    "merdivenle": {
+      "tr": "Merdivenle yukarı çık.",
+      "values": [
+        "Go upstairs using the stairs.",
+        "Поднимись по лестнице.",
+        "Тепкич менен өйдө чык.",
+        "اصعد الدرج.",
+        "Monte par l'escalier."
+      ]
+    },
+    "üst": {
+      "tr": "Üst kata çık.",
+      "values": [
+        "Go to the upper floor.",
+        "Поднимись на верхний этаж.",
+        "Үстүнкү кабатка чык.",
+        "اصعد إلى الطابق العلوي.",
+        "Monte à l'étage supérieur."
+      ]
+    },
+    "kata": {
+      "tr": "İkinci kata çık.",
+      "values": [
+        "Go up to the second floor.",
+        "Поднимись на второй этаж.",
+        "Экинчи кабатка чык.",
+        "اصعد إلى الطابق الثاني.",
+        "Monte au deuxième étage."
+      ]
+    },
+    "çıkın": {
+      "tr": "Üst kata çıkın.",
+      "values": [
+        "Go up to the upper floor.",
+        "Поднимитесь на верхний этаж.",
+        "Үстүнкү кабатка чыккыла.",
+        "اصعدوا إلى الطابق العلوي.",
+        "Montez à l'étage supérieur."
+      ]
+    },
+    "dönün": {
+      "tr": "Sağa dönün.",
+      "values": [
+        "Turn right.",
+        "Поверните направо.",
+        "Оңго бурулгула.",
+        "انعطفوا يمينًا.",
+        "Tournez à droite."
+      ]
+    },
+    "ortadaki": {
+      "tr": "Ortadaki masaya oturun.",
+      "values": [
+        "Sit at the table in the middle.",
+        "Садитесь за стол посередине.",
+        "Ортодогу үстөлгө отургула.",
+        "اجلسوا إلى الطاولة في الوسط.",
+        "Asseyez-vous à la table du milieu."
+      ]
+    },
+    "havuzun": {
+      "tr": "Havuzun önünde bekle.",
+      "values": [
+        "Wait in front of the pool.",
+        "Подожди перед бассейном.",
+        "Бассейндин алдында күт.",
+        "انتظر أمام الحوض.",
+        "Attends devant le bassin."
+      ]
+    },
+    "dümdüz": {
+      "tr": "Dümdüz gidin.",
+      "values": [
+        "Go straight ahead.",
+        "Идите прямо.",
+        "Түптүз баргыла.",
+        "امضوا مباشرة إلى الأمام.",
+        "Allez tout droit."
+      ]
+    },
+    "gidin": {
+      "tr": "Dümdüz gidin.",
+      "values": [
+        "Go straight ahead.",
+        "Идите прямо.",
+        "Түптүз баргыла.",
+        "اذهبوا مباشرة إلى الأمام.",
+        "Allez tout droit."
+      ]
+    },
+    "göz": {
+      "tr": "Göz muayenesi oldum.",
+      "values": [
+        "I had an eye examination.",
+        "Я прошёл осмотр глаз.",
+        "Көзүмдү текшерттим.",
+        "أجريت فحصًا للعين.",
+        "J'ai passé un examen des yeux."
+      ]
+    },
+    "lükçü": {
+      "tr": "Gözlükçü sağda.",
+      "values": [
+        "The optician's is on the right.",
+        "Магазин оптики справа.",
+        "Көз айнек дүкөнү оң жакта.",
+        "محل النظارات على اليمين.",
+        "L'opticien est à droite."
+      ]
+    },
+    "yolun": {
+      "tr": "Yolun sonunda dön.",
+      "values": [
+        "Turn at the end of the road.",
+        "Поверни в конце дороги.",
+        "Жолдун аягында бурул.",
+        "انعطف عند نهاية الطريق.",
+        "Tourne au bout de la route."
+      ]
+    },
+    "sonunda": {
+      "tr": "Yolun sonunda kafe var.",
+      "values": [
+        "There's a café at the end of the road.",
+        "В конце дороги есть кафе.",
+        "Жолдун аягында кафе бар.",
+        "يوجد مقهى في نهاية الطريق.",
+        "Il y a un café au bout de la rue."
+      ]
+    },
+    "marketin": {
+      "tr": "Marketin karşısında dur.",
+      "values": [
+        "Stop opposite the market.",
+        "Остановись напротив магазина.",
+        "Дүкөндүн маңдайында токто.",
+        "توقف مقابل المتجر.",
+        "Arrête-toi en face du magasin."
+      ]
+    },
+    "merkezi": {
+      "tr": "Alışveriş merkezi yakında.",
+      "values": [
+        "The shopping centre is nearby.",
+        "Торговый центр рядом.",
+        "Соода борбору жакын.",
+        "مركز التسوق قريب.",
+        "Le centre commercial est proche."
+      ]
+    },
+    "giriş": {
+      "tr": "Giriş solda.",
+      "values": [
+        "The entrance is on the left.",
+        "Вход слева.",
+        "Кире бериш сол жакта.",
+        "المدخل على اليسار.",
+        "L'entrée est à gauche."
+      ]
+    },
+    "kat": {
+      "tr": "Bu katta kafe var.",
+      "values": [
+        "There's a café on this floor.",
+        "На этом этаже есть кафе.",
+        "Бул кабатта кафе бар.",
+        "يوجد مقهى في هذا الطابق.",
+        "Il y a un café à cet étage."
+      ]
+    },
+    "aycan’a": {
+      "tr": "Aycan'a mesaj gönder.",
+      "values": [
+        "Send a message to Aycan.",
+        "Отправь сообщение Айджан.",
+        "Айжанга билдирүү жөнөт.",
+        "أرسل رسالة إلى أيجان.",
+        "Envoie un message à Aycan."
+      ]
+    },
+    "kattaki": {
+      "tr": "Üst kattaki mağaza açık.",
+      "values": [
+        "The shop upstairs is open.",
+        "Магазин на верхнем этаже открыт.",
+        "Үстүнкү кабаттагы дүкөн ачык.",
+        "المتجر في الطابق العلوي مفتوح.",
+        "Le magasin à l'étage est ouvert."
+      ]
+    },
+    "oyuncakçıdayım": {
+      "tr": "Şimdi oyuncakçıdayım.",
+      "values": [
+        "I'm at the toy shop now.",
+        "Я сейчас в магазине игрушек.",
+        "Азыр оюнчук дүкөнүндөмүн.",
+        "أنا الآن في متجر الألعاب.",
+        "Je suis au magasin de jouets maintenant."
+      ]
+    },
+    "baklavacıya": {
+      "tr": "Baklavacıya gidiyorum.",
+      "values": [
+        "I'm going to the baklava shop.",
+        "Я иду в магазин пахлавы.",
+        "Баклава дүкөнүнө бара жатам.",
+        "أنا ذاهب إلى محل البقلاوة.",
+        "Je vais à la pâtisserie de baklavas."
+      ]
+    },
+    "gideceğim": {
+      "tr": "Yarın müzeye gideceğim.",
+      "values": [
+        "I'll go to the museum tomorrow.",
+        "Завтра я пойду в музей.",
+        "Эртең музейге барам.",
+        "سأذهب إلى المتحف غدًا.",
+        "J'irai au musée demain."
+      ]
+    },
+    "bana": {
+      "tr": "Bana yardım eder misin?",
+      "values": [
+        "Can you help me?",
+        "Ты можешь мне помочь?",
+        "Мага жардам бере аласыңбы?",
+        "هل يمكنك مساعدتي؟",
+        "Peux-tu m'aider ?"
+      ]
+    },
+    "eder": {
+      "tr": "Babam her gün spor yapar.",
+      "values": [
+        "My father exercises every day.",
+        "Мой отец занимается спортом каждый день.",
+        "Атам күн сайын спорт менен машыгат.",
+        "يمارس أبي الرياضة كل يوم.",
+        "Mon père fait du sport chaque jour."
+      ]
+    },
+    "misiniz": {
+      "tr": "Müsait misiniz?",
+      "values": [
+        "Are you available?",
+        "Вы свободны?",
+        "Бошсузбу?",
+        "هل أنتم متفرغون؟",
+        "Êtes-vous disponible ?"
+      ]
+    },
+    "krokiden": {
+      "tr": "Krokiden yolu bul.",
+      "values": [
+        "Find the route on the sketch map.",
+        "Найди дорогу по схеме.",
+        "Схемадан жолду тап.",
+        "اعثر على الطريق في المخطط.",
+        "Trouve le chemin sur le plan."
+      ]
+    },
+    "mekân": {
+      "tr": "Bu mekân çok sakin.",
+      "values": [
+        "This place is very quiet.",
+        "Здесь очень спокойно.",
+        "Бул жер абдан тынч.",
+        "هذا المكان هادئ جدًا.",
+        "Cet endroit est très calme."
+      ]
+    },
+    "gökkuşağı": {
+      "tr": "Yağmurdan sonra gökkuşağı çıktı.",
+      "values": [
+        "A rainbow appeared after the rain.",
+        "После дождя появилась радуга.",
+        "Жамгырдан кийин асан-үсөн чыкты.",
+        "ظهر قوس قزح بعد المطر.",
+        "Un arc-en-ciel est apparu après la pluie."
+      ]
+    },
+    "giyim": {
+      "tr": "Giyim mağazası burada.",
+      "values": [
+        "The clothing store is here.",
+        "Магазин одежды здесь.",
+        "Кийим дүкөнү ушул жерде.",
+        "متجر الملابس هنا.",
+        "Le magasin de vêtements est ici."
+      ]
+    },
+    "mağazasından": {
+      "tr": "Mağazasından bir gömlek aldım.",
+      "values": [
+        "I bought a shirt from his shop.",
+        "Я купил рубашку в его магазине.",
+        "Анын дүкөнүнөн көйнөк сатып алдым.",
+        "اشتريت قميصًا من متجره.",
+        "J'ai acheté une chemise dans son magasin."
+      ]
+    },
+    "kitapçıya": {
+      "tr": "Kitapçıya uğrayalım.",
+      "values": [
+        "Let's stop by the bookshop.",
+        "Давай зайдём в книжный магазин.",
+        "Китеп дүкөнүнө кирип чыгалы.",
+        "لنمرّ على متجر الكتب.",
+        "Passons à la librairie."
       ]
     }
   },
