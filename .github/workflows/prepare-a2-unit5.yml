@@ -28,4 +28,5 @@ jobs:
           git add kitaplar/lise-a2/dedemin-meslegi/pages.json kitaplar/lise-a2/dedemin-meslegi/coverage.json kitaplar/lise-a2/dedemin-meslegi/translations.json
           git diff --cached --quiet && exit 0
           git commit -m "Generate A2 unit 5 Turkish word coordinates"
+          git pull --rebase origin main
           git push
