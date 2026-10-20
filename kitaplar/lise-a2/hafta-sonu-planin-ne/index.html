@@ -140,7 +140,7 @@
       if(Array.isArray(data.links)&&data.links.length){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('class','answer-links');svg.setAttribute('viewBox','0 0 950 1202');svg.setAttribute('preserveAspectRatio','none');svg.innerHTML='<defs><marker id="answerArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#087f83"></path></marker></defs>';data.links.forEach(link=>{const line=document.createElementNS('http://www.w3.org/2000/svg','line');line.setAttribute('x1',link.x1*950);line.setAttribute('y1',link.y1*1202);line.setAttribute('x2',link.x2*950);line.setAttribute('y2',link.y2*1202);svg.append(line)});overlay.append(svg)}
       const pageWords=pages[current]?.words||[];
       const collides=(x,y,w,h)=>pageWords.some(word=>{
-        if(!word.t||!/[\\p{L}\\p{N}]/u.test(word.t))return false;
+        if(!word.t||!/[\p{L}\p{N}]/u.test(word.t))return false;
         const padX=.003,padY=.002;
         return x<word.x+word.w-padX&&x+w>word.x+padX&&y<word.y+word.h-padY&&y+h>word.y+padY;
       });
@@ -230,11 +230,11 @@
           return {key:normalize(whole),indices:[li,ri],text:whole,single:true};
         }
       }
-      const token=w=>normalize(w.t).replace(/[’']/g,"'").replace(/^[^\\p{L}\\p{N}]+|[^\\p{L}\\p{N}]+$/gu,'');
+      const token=w=>normalize(typeof w==='string'?w:w.t).replace(/[’']/g,"'").replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu,'');
       // PDF extraction sometimes joins two independent expressions in one hotspot,
       // e.g. "kocatsın./Allah" or "olsun./Allah". A phrase may occupy part of
       // that hotspot; retain the whole clickable hotspot for the selection.
-      const phraseParts=w=>String(w.t).split(/(?<=[.!?])\\s*\\/(?=[\\p{L}])/u).map(token).filter(Boolean);
+      const phraseParts=w=>String(w.t).split(/(?<=[.!?])\s*\/(?=[\p{L}])/u).map(token).filter(Boolean);
       const phraseMatches=(w,part)=>phraseParts(w).includes(part)||token(w)===part;
       // Explicit phrase matching by neighboring PDF hotspots. This also works
       // when the source PDF extraction order differs from visual reading order.
