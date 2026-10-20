@@ -8366,18 +8366,18 @@
     },
     "hoşça kal": {
       "translations": [
-        "goodbye (said to someone leaving)",
+        "goodbye (to one person staying)",
         "пока; до свидания",
-        "жакшы кал",
-        "مع السلامة",
+        "кош бол",
+        "وداعًا",
         "au revoir"
       ],
       "exampleTr": "Hoşça kal, yarın görüşürüz.",
       "examples": [
         "Goodbye, see you tomorrow.",
         "Пока, увидимся завтра.",
-        "Жакшы кал, эртең көрүшөбүз.",
-        "مع السلامة، أراك غدًا.",
+        "Кош бол, эртең көрүшөбүз.",
+        "وداعًا، نلتقي غدًا.",
         "Au revoir, à demain."
       ]
     },
@@ -10113,6 +10113,159 @@
         "Түрк дүйнөсүнүн ата спорттору майрамында жаа атууну көрдүк.",
         "شاهدنا الرماية بالقوس في مهرجان الرياضات التراثية للعالم التركي.",
         "Nous avons regardé du tir à l'arc au festival des sports traditionnels du monde turcique."
+      ]
+    },
+    "iletişim kurmak": {
+      "translations": [
+        "to communicate",
+        "общаться",
+        "байланыш түзүү",
+        "التواصل",
+        "communiquer"
+      ],
+      "exampleTr": "Arkadaşlarımla her gün iletişim kuruyorum.",
+      "examples": [
+        "I communicate with my friends every day.",
+        "Я общаюсь с друзьями каждый день.",
+        "Досторум менен күн сайын байланышам.",
+        "أتواصل مع أصدقائي كل يوم.",
+        "Je communique avec mes amis chaque jour."
+      ]
+    },
+    "e-ileti göndermek": {
+      "translations": [
+        "to send an email",
+        "отправить электронное письмо",
+        "электрондук кат жөнөтүү",
+        "إرسال بريد إلكتروني",
+        "envoyer un courriel"
+      ],
+      "exampleTr": "Öğretmenime e-ileti göndermek istiyorum.",
+      "examples": [
+        "I want to send an email to my teacher.",
+        "Я хочу отправить учителю электронное письмо.",
+        "Мугалиме электрондук кат жөнөткүм келет.",
+        "أريد إرسال بريد إلكتروني إلى معلمي.",
+        "Je veux envoyer un courriel à mon professeur."
+      ]
+    },
+    "sevgili arkadaşlar": {
+      "translations": [
+        "dear friends",
+        "дорогие друзья",
+        "кымбаттуу достор",
+        "أصدقائي الأعزاء",
+        "chers amis"
+      ],
+      "exampleTr": "Sevgili arkadaşlar, sizi etkinliğe davet ediyorum.",
+      "examples": [
+        "Dear friends, I invite you to the event.",
+        "Дорогие друзья, приглашаю вас на мероприятие.",
+        "Кымбаттуу достор, силерди иш-чарага чакырам.",
+        "أصدقائي الأعزاء، أدعوكم إلى الفعالية.",
+        "Chers amis, je vous invite à l'événement."
+      ]
+    },
+    "sayın hocam": {
+      "translations": [
+        "dear teacher (formal)",
+        "уважаемый учитель",
+        "урматтуу агайым",
+        "أستاذي المحترم",
+        "cher professeur"
+      ],
+      "exampleTr": "Sayın Hocam, size bir sorum var.",
+      "examples": [
+        "Dear Teacher, I have a question.",
+        "Уважаемый учитель, у меня к вам вопрос.",
+        "Урматтуу агайым, сизге суроом бар.",
+        "أستاذي المحترم، لدي سؤال لكم.",
+        "Cher professeur, j'ai une question."
+      ]
+    },
+    "sevgili arkadaşım": {
+      "translations": [
+        "dear friend",
+        "дорогой друг",
+        "кымбаттуу досум",
+        "صديقي العزيز",
+        "cher ami"
+      ],
+      "exampleTr": "Sevgili arkadaşım, nasılsın?",
+      "examples": [
+        "Dear friend, how are you?",
+        "Дорогой друг, как дела?",
+        "Кымбаттуу досум, кандайсың?",
+        "صديقي العزيز، كيف حالك؟",
+        "Cher ami, comment vas-tu ?"
+      ]
+    },
+    "kıymetli dostum": {
+      "translations": [
+        "my dear friend",
+        "мой дорогой друг",
+        "кадырлуу досум",
+        "صديقي الغالي",
+        "mon cher ami"
+      ],
+      "exampleTr": "Kıymetli dostum, seni Bursa'ya davet ediyorum.",
+      "examples": [
+        "My dear friend, I'm inviting you to Bursa.",
+        "Дорогой друг, приглашаю тебя в Бурсу.",
+        "Кадырлуу досум, сени Бурсага чакырам.",
+        "صديقي الغالي، أدعوك إلى بورصة.",
+        "Mon cher ami, je t'invite à Bursa."
+      ]
+    },
+    "tanışma etkinliği": {
+      "translations": [
+        "meet-and-greet event",
+        "мероприятие для знакомства",
+        "таанышуу иш-чарасы",
+        "فعالية تعارف",
+        "rencontre de présentation"
+      ],
+      "exampleTr": "Okulda tanışma etkinliği düzenliyoruz.",
+      "examples": [
+        "We're organizing a meet-and-greet at school.",
+        "Мы организуем встречу для знакомства в школе.",
+        "Мектепте таанышуу иш-чарасын уюштурабыз.",
+        "ننظم فعالية تعارف في المدرسة.",
+        "Nous organisons une rencontre de présentation à l'école."
+      ]
+    },
+    "allah'a emanet ol": {
+      "translations": [
+        "may God protect you",
+        "да хранит тебя Бог",
+        "Аллага аманат бол",
+        "في أمان الله",
+        "que Dieu te protège"
+      ],
+      "exampleTr": "Allah'a emanet ol, kendine dikkat et.",
+      "examples": [
+        "May God protect you, take care.",
+        "Да хранит тебя Бог, береги себя.",
+        "Аллага аманат бол, өзүңдү кара.",
+        "في أمان الله، اعتنِ بنفسك.",
+        "Que Dieu te protège, prends soin de toi."
+      ]
+    },
+    "ramazan-ı şerifiniz mübarek ola": {
+      "translations": [
+        "may your holy Ramadan be blessed",
+        "да будет благословен ваш священный Рамадан",
+        "ыйык Рамазаныңыз кут болсун",
+        "رمضانكم المبارك",
+        "que votre saint Ramadan soit béni"
+      ],
+      "exampleTr": "Ramazan-ı şerifiniz mübarek ola.",
+      "examples": [
+        "May your holy Ramadan be blessed.",
+        "Да будет благословен ваш священный Рамадан.",
+        "Ыйык Рамазаныңыз кут болсун.",
+        "رمضانكم مبارك.",
+        "Que votre saint Ramadan soit béni."
       ]
     }
   },
