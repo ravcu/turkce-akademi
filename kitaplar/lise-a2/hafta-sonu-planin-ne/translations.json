@@ -133,6 +133,13 @@
       "واحد وأربعون",
       "quarante et un"
     ],
+    "42": [
+      "forty-two",
+      "сорок два",
+      "кырк эки",
+      "اثنان وأربعون",
+      "quarante-deux"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -4766,6 +4773,300 @@
       "ойнойбуз; бийлейбиз",
       "سنلعب؛ سنرقص",
       "nous jouerons; nous danserons"
+    ],
+    "bol": [
+      "plenty; abundant",
+      "много; обильно",
+      "мол; көп",
+      "كثير؛ وفير",
+      "abondant; beaucoup"
+    ],
+    "fotoğraf": [
+      "photograph",
+      "фотография",
+      "сүрөт",
+      "صورة",
+      "photo"
+    ],
+    "çektireceğiz": [
+      "we will have taken (photos)",
+      "мы сфотографируемся",
+      "сүрөткө түшөбүз",
+      "سنلتقط صورًا",
+      "nous nous ferons photographier"
+    ],
+    "aynur": [
+      "Aynur (name)",
+      "Айнур",
+      "Айнур",
+      "أينور",
+      "Aynur"
+    ],
+    "yılmaz": [
+      "Yılmaz (name)",
+      "Йылмаз",
+      "Йылмаз",
+      "يلماز",
+      "Yılmaz"
+    ],
+    "hepinizi": [
+      "all of you (object)",
+      "вас всех",
+      "баарыңарды",
+      "جميعكم",
+      "vous tous"
+    ],
+    "düğünümüze": [
+      "to our wedding",
+      "на нашу свадьбу",
+      "тоюбузга",
+      "إلى حفل زفافنا",
+      "à notre mariage"
+    ],
+    "ayrıca": [
+      "also; besides",
+      "кроме того",
+      "мындан тышкары",
+      "بالإضافة إلى ذلك",
+      "de plus"
+    ],
+    "nurten": [
+      "Nurten (name)",
+      "Нуртен",
+      "Нуртен",
+      "نورتن",
+      "Nurten"
+    ],
+    "karaca": [
+      "Karaca (surname)",
+      "Караджа",
+      "Каража",
+      "كاراجا",
+      "Karaca"
+    ],
+    "orhan": [
+      "Orhan (name)",
+      "Орхан",
+      "Орхан",
+      "أورهان",
+      "Orhan"
+    ],
+    "vetiyeyi": [
+      "invitation (split word)",
+      "приглашение",
+      "чакыруу кагазын",
+      "بطاقة الدعوة",
+      "l'invitation"
+    ],
+    "gönderiyorum": [
+      "I am sending",
+      "я отправляю",
+      "жөнөтүп жатам",
+      "أرسل",
+      "j'envoie"
+    ],
+    "batmaz": [
+      "Batmaz (surname); does not sink",
+      "Батмаз (фамилия); не тонет",
+      "Батмаз (фамилия); чөкпөйт",
+      "باتماز (اسم عائلة)؛ لا يغرق",
+      "Batmaz (nom); ne coule pas"
+    ],
+    "gönder": [
+      "send",
+      "отправь",
+      "жөнөт",
+      "أرسل",
+      "envoie"
+    ],
+    "19.00": [
+      "7 p.m.",
+      "19:00",
+      "19:00",
+      "الساعة السابعة مساءً",
+      "19 h"
+    ],
+    "23.00": [
+      "11 p.m.",
+      "23:00",
+      "23:00",
+      "الساعة الحادية عشرة مساءً",
+      "23 h"
+    ],
+    "davetiyeni": [
+      "your invitation card",
+      "твоё приглашение",
+      "сенин чакыруу кагазыңды",
+      "بطاقة دعوتك",
+      "ton faire-part"
+    ],
+    "bugün": [
+      "today",
+      "сегодня",
+      "бүгүн",
+      "اليوم",
+      "aujourd'hui"
+    ],
+    "aldım": [
+      "I received; bought",
+      "я получил; купил",
+      "алдым",
+      "تلقيت؛ اشتريت",
+      "j'ai reçu; acheté"
+    ],
+    "sevindim": [
+      "I was happy; glad",
+      "я обрадовался",
+      "сүйүндүм",
+      "فرحت",
+      "j'étais content"
+    ],
+    "abini": [
+      "your older brother (object)",
+      "твоего старшего брата",
+      "агаңды",
+      "أخاك الأكبر",
+      "ton grand frère"
+    ],
+    "yengeni": [
+      "your sister-in-law (object)",
+      "твою невестку",
+      "жеңеңди",
+      "زوجة أخيك",
+      "ta belle-sœur"
+    ],
+    "teb": [
+      "congratulate (split fragment)",
+      "поздравлять (часть слова)",
+      "куттуктoo (сөздүн бөлүгү)",
+      "تهنئة (جزء من كلمة)",
+      "féliciter (fragment)"
+    ],
+    "rik": [
+      "congratulate (split fragment)",
+      "поздравлять (часть слова)",
+      "куттуктoo (сөздүн бөлүгү)",
+      "تهنئة (جزء من كلمة)",
+      "féliciter (fragment)"
+    ],
+    "allah": [
+      "God; Allah",
+      "Бог; Аллах",
+      "Алла",
+      "الله",
+      "Dieu; Allah"
+    ],
+    "onları": [
+      "them (object)",
+      "их",
+      "аларды",
+      "إياهم",
+      "les"
+    ],
+    "yastıkta": [
+      "on the pillow",
+      "на подушке",
+      "жаздыкта",
+      "على الوسادة",
+      "sur l'oreiller"
+    ],
+    "kocatsın": [
+      "may they grow old together",
+      "пусть состарятся вместе",
+      "чогуу карышсын",
+      "ليشيخا معًا",
+      "qu'ils vieillissent ensemble"
+    ],
+    "düğüne": [
+      "to the wedding",
+      "на свадьбу",
+      "тойго",
+      "إلى الزفاف",
+      "au mariage"
+    ],
+    "katılamıyorum": [
+      "I cannot attend",
+      "я не могу присутствовать",
+      "катыша албайм",
+      "لا أستطيع الحضور",
+      "je ne peux pas participer"
+    ],
+    "annem": [
+      "my mother",
+      "моя мама",
+      "апам",
+      "أمي",
+      "ma mère"
+    ],
+    "geleceğiz": [
+      "we will come",
+      "мы придём",
+      "келебиз",
+      "سنأتي",
+      "nous viendrons"
+    ],
+    "şehir": [
+      "city",
+      "город",
+      "шаар",
+      "مدينة",
+      "ville"
+    ],
+    "dışına": [
+      "outside of",
+      "за пределы",
+      "сыртына",
+      "خارج",
+      "en dehors de"
+    ],
+    "abine": [
+      "to your older brother",
+      "твоему старшему брату",
+      "агаңа",
+      "لأخيك الأكبر",
+      "à ton grand frère"
+    ],
+    "ömür": [
+      "lifetime; life",
+      "жизнь",
+      "өмүр",
+      "عمر؛ حياة",
+      "vie"
+    ],
+    "boyu": [
+      "throughout; along",
+      "на протяжении",
+      "бою; боюна",
+      "طوال",
+      "tout au long de"
+    ],
+    "düğünde": [
+      "at the wedding",
+      "на свадьбе",
+      "тойдо",
+      "في الزفاف",
+      "au mariage"
+    ],
+    "lar": [
+      "plural suffix (split fragment)",
+      "суффикс множественного числа",
+      "көптүк мүчө (үзүндү)",
+      "لاحقة الجمع (جزء كلمة)",
+      "suffixe du pluriel (fragment)"
+    ],
+    "ailene": [
+      "to your family",
+      "твоей семье",
+      "үй-бүлөңө",
+      "لعائلتك",
+      "à ta famille"
+    ],
+    "selamlar": [
+      "greetings; regards",
+      "привет; приветы",
+      "саламдар",
+      "تحيات",
+      "salutations"
     ]
   },
   "phrases": {
@@ -6625,6 +6926,16 @@
         "Кырк биринчи бетти ач.",
         "افتح الصفحة الحادية والأربعين.",
         "Ouvre la page quarante et un."
+      ]
+    },
+    "42": {
+      "tr": "Kırk ikinci sayfayı açın.",
+      "values": [
+        "Open page forty-two.",
+        "Откройте сорок вторую страницу.",
+        "Кырк экинчи бетти ачкыла.",
+        "افتحوا الصفحة الثانية والأربعين.",
+        "Ouvrez la page quarante-deux."
       ]
     },
     "50": {
@@ -12925,6 +13236,426 @@
         "Тойдо халай бийин бийлейбиз.",
         "سنرقص رقصة الهالاي في الزفاف.",
         "Nous danserons le halay au mariage."
+      ]
+    },
+    "bol": {
+      "tr": "Düğünde bol bol fotoğraf çektirdik.",
+      "values": [
+        "We took lots of photos at the wedding.",
+        "На свадьбе мы сделали много фотографий.",
+        "Тойдо көп сүрөткө түштүк.",
+        "التقطنا صورًا كثيرة في الزفاف.",
+        "Nous avons pris beaucoup de photos au mariage."
+      ]
+    },
+    "fotoğraf": {
+      "tr": "Birlikte fotoğraf çekelim.",
+      "values": [
+        "Let's take a photo together.",
+        "Давай сфотографируемся вместе.",
+        "Чогуу сүрөткө түшөлү.",
+        "لنلتقط صورة معًا.",
+        "Prenons une photo ensemble."
+      ]
+    },
+    "çektireceğiz": {
+      "tr": "Düğünde fotoğraf çektireceğiz.",
+      "values": [
+        "We'll have photos taken at the wedding.",
+        "На свадьбе мы сфотографируемся.",
+        "Тойдо сүрөткө түшөбүз.",
+        "سنلتقط صورًا في الزفاف.",
+        "Nous nous ferons photographier au mariage."
+      ]
+    },
+    "aynur": {
+      "tr": "Aynur düğüne davet etti.",
+      "values": [
+        "Aynur invited us to the wedding.",
+        "Айнур пригласила нас на свадьбу.",
+        "Айнур бизди тойго чакырды.",
+        "دعتنا أينور إلى الزفاف.",
+        "Aynur nous a invités au mariage."
+      ]
+    },
+    "yılmaz": {
+      "tr": "Yılmaz bugün çok mutlu.",
+      "values": [
+        "Yılmaz is very happy today.",
+        "Йылмаз сегодня очень счастлив.",
+        "Йылмаз бүгүн абдан бактылуу.",
+        "يلماز سعيد جدًا اليوم.",
+        "Yılmaz est très heureux aujourd'hui."
+      ]
+    },
+    "hepinizi": {
+      "tr": "Hepinizi düğüne bekliyoruz.",
+      "values": [
+        "We're expecting all of you at the wedding.",
+        "Мы ждём вас всех на свадьбе.",
+        "Баарыңарды тойго күтөбүз.",
+        "ننتظركم جميعًا في الزفاف.",
+        "Nous vous attendons tous au mariage."
+      ]
+    },
+    "düğünümüze": {
+      "tr": "Düğünümüze hoş geldiniz.",
+      "values": [
+        "Welcome to our wedding.",
+        "Добро пожаловать на нашу свадьбу.",
+        "Тоюбузга кош келиңиздер.",
+        "أهلًا بكم في حفل زفافنا.",
+        "Bienvenue à notre mariage."
+      ]
+    },
+    "ayrıca": {
+      "tr": "Ayrıca davetiyeyi de gönderdim.",
+      "values": [
+        "I also sent the invitation.",
+        "Кроме того, я отправил приглашение.",
+        "Мындан тышкары чакырууну да жөнөттүм.",
+        "أرسلت الدعوة أيضًا.",
+        "J'ai également envoyé l'invitation."
+      ]
+    },
+    "nurten": {
+      "tr": "Nurten davetiyeyi hazırladı.",
+      "values": [
+        "Nurten prepared the invitation.",
+        "Нуртен подготовила приглашение.",
+        "Нуртен чакырууну даярдады.",
+        "أعدّت نورتن الدعوة.",
+        "Nurten a préparé l'invitation."
+      ]
+    },
+    "karaca": {
+      "tr": "Karaca ailesi düğüne geldi.",
+      "values": [
+        "The Karaca family came to the wedding.",
+        "Семья Караджа пришла на свадьбу.",
+        "Каража үй-бүлөсү тойго келди.",
+        "حضرت عائلة كاراجا الزفاف.",
+        "La famille Karaca est venue au mariage."
+      ]
+    },
+    "orhan": {
+      "tr": "Orhan arkadaşını aradı.",
+      "values": [
+        "Orhan called his friend.",
+        "Орхан позвонил другу.",
+        "Орхан досуна чалды.",
+        "اتصل أورهان بصديقه.",
+        "Orhan a appelé son ami."
+      ]
+    },
+    "vetiyeyi": {
+      "tr": "Davetiyeyi sana gönderdim.",
+      "values": [
+        "I sent you the invitation.",
+        "Я отправил тебе приглашение.",
+        "Чакыруу кагазын сага жөнөттүм.",
+        "أرسلت إليك بطاقة الدعوة.",
+        "Je t'ai envoyé l'invitation."
+      ]
+    },
+    "gönderiyorum": {
+      "tr": "Sana davetiyeyi gönderiyorum.",
+      "values": [
+        "I'm sending you the invitation.",
+        "Я отправляю тебе приглашение.",
+        "Сага чакырууну жөнөтүп жатам.",
+        "أرسل إليك الدعوة.",
+        "Je t'envoie l'invitation."
+      ]
+    },
+    "batmaz": {
+      "tr": "Batmaz ailesini tanıyorum.",
+      "values": [
+        "I know the Batmaz family.",
+        "Я знаю семью Батмаз.",
+        "Батмаз үй-бүлөсүн тааныйм.",
+        "أعرف عائلة باتماز.",
+        "Je connais la famille Batmaz."
+      ]
+    },
+    "gönder": {
+      "tr": "Mesajı şimdi gönder.",
+      "values": [
+        "Send the message now.",
+        "Отправь сообщение сейчас.",
+        "Билдирүүнү азыр жөнөт.",
+        "أرسل الرسالة الآن.",
+        "Envoie le message maintenant."
+      ]
+    },
+    "19.00": {
+      "tr": "Düğün saat 19.00'da başlıyor.",
+      "values": [
+        "The wedding starts at 7 p.m.",
+        "Свадьба начинается в 19:00.",
+        "Той саат 19:00дө башталат.",
+        "يبدأ الزفاف الساعة السابعة مساءً.",
+        "Le mariage commence à 19 h."
+      ]
+    },
+    "23.00": {
+      "tr": "Düğün saat 23.00'te bitiyor.",
+      "values": [
+        "The wedding ends at 11 p.m.",
+        "Свадьба заканчивается в 23:00.",
+        "Той саат 23:00дө бүтөт.",
+        "ينتهي الزفاف الساعة الحادية عشرة مساءً.",
+        "Le mariage se termine à 23 h."
+      ]
+    },
+    "davetiyeni": {
+      "tr": "Davetiyeni bugün aldım.",
+      "values": [
+        "I received your invitation today.",
+        "Я получил твоё приглашение сегодня.",
+        "Чакыруу кагазыңды бүгүн алдым.",
+        "تلقيت بطاقة دعوتك اليوم.",
+        "J'ai reçu ton faire-part aujourd'hui."
+      ]
+    },
+    "bugün": {
+      "tr": "Bugün arkadaşımı göreceğim.",
+      "values": [
+        "I'll see my friend today.",
+        "Сегодня я увижу друга.",
+        "Бүгүн досум менен жолугам.",
+        "سأقابل صديقي اليوم.",
+        "Je verrai mon ami aujourd'hui."
+      ]
+    },
+    "aldım": {
+      "tr": "Düğün davetiyesini aldım.",
+      "values": [
+        "I received the wedding invitation.",
+        "Я получил приглашение на свадьбу.",
+        "Тойго чакыруу кагазын алдым.",
+        "تلقيت دعوة الزفاف.",
+        "J'ai reçu l'invitation au mariage."
+      ]
+    },
+    "sevindim": {
+      "tr": "Haberini duyunca çok sevindim.",
+      "values": [
+        "I was so happy to hear your news.",
+        "Я очень обрадовался твоей новости.",
+        "Кабарыңды угуп абдан сүйүндүм.",
+        "فرحت كثيرًا عندما سمعت خبرك.",
+        "J'ai été très heureux d'apprendre ta nouvelle."
+      ]
+    },
+    "abini": {
+      "tr": "Abini düğünde gördüm.",
+      "values": [
+        "I saw your older brother at the wedding.",
+        "Я видел твоего старшего брата на свадьбе.",
+        "Агаңды тойдо көрдүм.",
+        "رأيت أخاك الأكبر في الزفاف.",
+        "J'ai vu ton grand frère au mariage."
+      ]
+    },
+    "yengeni": {
+      "tr": "Yengeni de tebrik ettim.",
+      "values": [
+        "I congratulated your sister-in-law too.",
+        "Я поздравил и твою невестку.",
+        "Жеңеңди да куттуктадым.",
+        "هنأت زوجة أخيك أيضًا.",
+        "J'ai aussi félicité ta belle-sœur."
+      ]
+    },
+    "teb": {
+      "tr": "Yeni evlileri tebrik ettim.",
+      "values": [
+        "I congratulated the newlyweds.",
+        "Я поздравил молодожёнов.",
+        "Жаңы үйлөнгөндөрдү куттуктадым.",
+        "هنأت العروسين.",
+        "J'ai félicité les mariés."
+      ]
+    },
+    "rik": {
+      "tr": "Arkadaşımı tebrik ettim.",
+      "values": [
+        "I congratulated my friend.",
+        "Я поздравил друга.",
+        "Досумду куттуктадым.",
+        "هنأت صديقي.",
+        "J'ai félicité mon ami."
+      ]
+    },
+    "allah": {
+      "tr": "Allah size sağlık versin.",
+      "values": [
+        "May God grant you good health.",
+        "Пусть Бог даст вам здоровья.",
+        "Алла сизге ден соолук берсин.",
+        "أسأل الله أن يرزقكم الصحة.",
+        "Que Dieu vous accorde la santé."
+      ]
+    },
+    "onları": {
+      "tr": "Onları düğünde gördüm.",
+      "values": [
+        "I saw them at the wedding.",
+        "Я видел их на свадьбе.",
+        "Аларды тойдо көрдүм.",
+        "رأيتهم في الزفاف.",
+        "Je les ai vus au mariage."
+      ]
+    },
+    "yastıkta": {
+      "tr": "Kedi yastıkta uyuyor.",
+      "values": [
+        "The cat is sleeping on the pillow.",
+        "Кошка спит на подушке.",
+        "Мышык жаздыкта уктап жатат.",
+        "تنام القطة على الوسادة.",
+        "Le chat dort sur l'oreiller."
+      ]
+    },
+    "kocatsın": {
+      "tr": "Allah onları bir yastıkta kocatsın.",
+      "values": [
+        "May God let them grow old together.",
+        "Пусть Бог даст им состариться вместе.",
+        "Алла экөөнү бир жаздыкта карытсын.",
+        "أسأل الله أن يجعلهما يشيخان معًا.",
+        "Que Dieu leur permette de vieillir ensemble."
+      ]
+    },
+    "düğüne": {
+      "tr": "Cumartesi düğüne gidiyoruz.",
+      "values": [
+        "We're going to a wedding on Saturday.",
+        "В субботу мы идём на свадьбу.",
+        "Ишембиде тойго барабыз.",
+        "سنذهب إلى الزفاف يوم السبت.",
+        "Nous allons à un mariage samedi."
+      ]
+    },
+    "katılamıyorum": {
+      "tr": "Maalesef düğüne katılamıyorum.",
+      "values": [
+        "Unfortunately, I can't attend the wedding.",
+        "К сожалению, я не могу прийти на свадьбу.",
+        "Тилекке каршы, тойго катыша албайм.",
+        "للأسف لا أستطيع حضور الزفاف.",
+        "Malheureusement, je ne peux pas assister au mariage."
+      ]
+    },
+    "annem": {
+      "tr": "Annem düğüne gelecek.",
+      "values": [
+        "My mother will come to the wedding.",
+        "Моя мама придёт на свадьбу.",
+        "Апам тойго келет.",
+        "ستأتي أمي إلى الزفاف.",
+        "Ma mère viendra au mariage."
+      ]
+    },
+    "geleceğiz": {
+      "tr": "Düğüne ailece geleceğiz.",
+      "values": [
+        "We'll come to the wedding as a family.",
+        "Мы придём на свадьбу всей семьёй.",
+        "Тойго үй-бүлөбүз менен келебиз.",
+        "سنأتي إلى الزفاف مع العائلة.",
+        "Nous viendrons au mariage en famille."
+      ]
+    },
+    "şehir": {
+      "tr": "Bu şehir çok güzel.",
+      "values": [
+        "This city is very beautiful.",
+        "Этот город очень красивый.",
+        "Бул шаар абдан кооз.",
+        "هذه المدينة جميلة جدًا.",
+        "Cette ville est très belle."
+      ]
+    },
+    "dışına": {
+      "tr": "Hafta sonu şehir dışına çıkacağız.",
+      "values": [
+        "We'll go out of town this weekend.",
+        "На выходных мы уедем за город.",
+        "Дем алышта шаар сыртына чыгабыз.",
+        "سنخرج من المدينة في عطلة نهاية الأسبوع.",
+        "Nous sortirons de la ville ce week-end."
+      ]
+    },
+    "abine": {
+      "tr": "Abine mutluluklar dile.",
+      "values": [
+        "Wish your older brother happiness.",
+        "Пожелай счастья своему старшему брату.",
+        "Агаңа бакыт каала.",
+        "تمنَّ السعادة لأخيك الأكبر.",
+        "Souhaite du bonheur à ton grand frère."
+      ]
+    },
+    "ömür": {
+      "tr": "Size uzun bir ömür diliyorum.",
+      "values": [
+        "I wish you a long life.",
+        "Желаю вам долгой жизни.",
+        "Сизге узун өмүр каалайм.",
+        "أتمنى لكم عمرًا طويلًا.",
+        "Je vous souhaite une longue vie."
+      ]
+    },
+    "boyu": {
+      "tr": "Ömür boyu mutlu olun.",
+      "values": [
+        "Be happy all your lives.",
+        "Будьте счастливы всю жизнь.",
+        "Өмүр бою бактылуу болгула.",
+        "كونوا سعداء طوال العمر.",
+        "Soyez heureux toute votre vie."
+      ]
+    },
+    "düğünde": {
+      "tr": "Düğünde eski arkadaşımı gördüm.",
+      "values": [
+        "I saw an old friend at the wedding.",
+        "На свадьбе я встретил старого друга.",
+        "Тойдо эски досумду көрдүм.",
+        "رأيت صديقًا قديمًا في الزفاف.",
+        "J'ai revu un vieil ami au mariage."
+      ]
+    },
+    "lar": {
+      "tr": "Yeni evlilere mutluluklar dilerim.",
+      "values": [
+        "I wish the newlyweds happiness.",
+        "Желаю молодожёнам счастья.",
+        "Жаңы үйлөнгөндөргө бакыт каалайм.",
+        "أتمنى السعادة للعروسين.",
+        "Je souhaite du bonheur aux mariés."
+      ]
+    },
+    "ailene": {
+      "tr": "Ailene selam söyle.",
+      "values": [
+        "Say hello to your family.",
+        "Передай привет своей семье.",
+        "Үй-бүлөңө салам айт.",
+        "بلّغ سلامي لعائلتك.",
+        "Passe le bonjour à ta famille."
+      ]
+    },
+    "selamlar": {
+      "tr": "Ailene selamlar.",
+      "values": [
+        "Best wishes to your family.",
+        "Привет твоей семье.",
+        "Үй-бүлөңө саламдар.",
+        "تحياتي لعائلتك.",
+        "Mes salutations à ta famille."
       ]
     }
   },
