@@ -98,6 +98,13 @@
       "سبعة وثلاثون",
       "trente-sept"
     ],
+    "38": [
+      "thirty-eight",
+      "тридцать восемь",
+      "отуз сегиз",
+      "ثمانية وثلاثون",
+      "trente-huit"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -3464,6 +3471,195 @@
       "тыйын чычкандын",
       "للسنجاب",
       "de l'écureuil"
+    ],
+    "ifadelerle": [
+      "with expressions",
+      "с выражениями",
+      "туюнтмалар менен",
+      "بالتعبيرات",
+      "avec des expressions"
+    ],
+    "sağdan": [
+      "from the right",
+      "справа",
+      "оң жактан",
+      "من اليمين",
+      "par la droite"
+    ],
+    "yola": [
+      "onto the road",
+      "на дорогу",
+      "жолго",
+      "إلى الطريق",
+      "sur la route"
+    ],
+    "soldan": [
+      "from the left",
+      "слева",
+      "сол жактан",
+      "من اليسار",
+      "par la gauche"
+    ],
+    "üçüncü": [
+      "third",
+      "третий",
+      "үчүнчү",
+      "الثالث",
+      "troisième"
+    ],
+    "krokileri": [
+      "sketch maps",
+      "схемы",
+      "схемаларды",
+      "المخططات",
+      "les plans"
+    ],
+    "cümleleri": [
+      "the sentences",
+      "предложения",
+      "сүйлөмдөрдү",
+      "الجمل",
+      "les phrases"
+    ],
+    "otobüs": [
+      "bus",
+      "автобус",
+      "автобус",
+      "حافلة",
+      "bus"
+    ],
+    "sağda": [
+      "on the right",
+      "справа",
+      "оң жакта",
+      "على اليمين",
+      "à droite"
+    ],
+    "bankanın": [
+      "of the bank",
+      "банка",
+      "банктын",
+      "للبنك",
+      "de la banque"
+    ],
+    "durağının": [
+      "of the stop",
+      "остановки",
+      "аялдаманын",
+      "للمحطة",
+      "de l'arrêt"
+    ],
+    "sol": [
+      "left",
+      "левый",
+      "сол",
+      "يسار",
+      "gauche"
+    ],
+    "tarafta": [
+      "on the side",
+      "на стороне",
+      "тарапта",
+      "في الجانب",
+      "du côté"
+    ],
+    "hastanenin": [
+      "of the hospital",
+      "больницы",
+      "оорукананын",
+      "للمستشفى",
+      "de l'hôpital"
+    ],
+    "tiyatronun": [
+      "of the theatre",
+      "театра",
+      "театрдын",
+      "للمسرح",
+      "du théâtre"
+    ],
+    "sinemanın": [
+      "of the cinema",
+      "кинотеатра",
+      "кинотеатрдын",
+      "للسينما",
+      "du cinéma"
+    ],
+    "metroya": [
+      "to the metro",
+      "в метро",
+      "метрого",
+      "إلى المترو",
+      "au métro"
+    ],
+    "parka": [
+      "to the park",
+      "в парк",
+      "сейил бакка",
+      "إلى الحديقة",
+      "au parc"
+    ],
+    "hazinesi": [
+      "its treasure",
+      "его сокровище",
+      "анын казынасы",
+      "كنزه",
+      "son trésor"
+    ],
+    "plansız": [
+      "without a plan",
+      "без плана",
+      "плансыз",
+      "بلا خطة",
+      "sans plan"
+    ],
+    "iş": [
+      "work; task",
+      "работа; дело",
+      "иш",
+      "عمل",
+      "travail"
+    ],
+    "dümensiz": [
+      "without a rudder",
+      "без руля",
+      "рулсуз",
+      "بلا دفة",
+      "sans gouvernail"
+    ],
+    "gemiye": [
+      "to the ship",
+      "на корабль",
+      "кемеге",
+      "إلى السفينة",
+      "sur le bateau"
+    ],
+    "benzer": [
+      "resembles",
+      "похож",
+      "окшош",
+      "يشبه",
+      "ressemble"
+    ],
+    "istersin": [
+      "you want",
+      "ты хочешь",
+      "каалайсың",
+      "تريد",
+      "tu veux"
+    ],
+    "yapmayı": [
+      "doing; to do",
+      "делать",
+      "кылууну",
+      "أن تفعل",
+      "faire"
+    ],
+    "seversin": [
+      "you like; love",
+      "ты любишь",
+      "жакшы көрөсүң",
+      "تحب",
+      "tu aimes"
     ]
   },
   "phrases": {
@@ -4712,6 +4908,16 @@
         "Отуз жетинчи бетти ач.",
         "افتح الصفحة السابعة والثلاثين.",
         "Ouvre la page trente-sept."
+      ]
+    },
+    "38": {
+      "tr": "Otuz sekizinci sayfayı aç.",
+      "values": [
+        "Open page thirty-eight.",
+        "Открой тридцать восьмую страницу.",
+        "Отуз сегизинчи бетти ач.",
+        "افتح الصفحة الثامنة والثلاثين.",
+        "Ouvre la page trente-huit."
       ]
     },
     "50": {
@@ -9182,6 +9388,276 @@
         "Бул жакшы жер.",
         "هذا مكان جميل.",
         "C'est un bel endroit."
+      ]
+    },
+    "ifadelerle": {
+      "tr": "Bu ifadelerle cümle kur.",
+      "values": [
+        "Make a sentence with these expressions.",
+        "Составь предложение с этими выражениями.",
+        "Бул туюнтмалар менен сүйлөм түз.",
+        "كوّن جملة بهذه التعبيرات.",
+        "Fais une phrase avec ces expressions."
+      ]
+    },
+    "sağdan": {
+      "tr": "Sağdan gelen arabaya dikkat et.",
+      "values": [
+        "Watch out for the car coming from the right.",
+        "Осторожно, машина справа.",
+        "Оң жактан келе жаткан унаадан сак бол.",
+        "انتبه للسيارة القادمة من اليمين.",
+        "Attention à la voiture venant de droite."
+      ]
+    },
+    "yola": {
+      "tr": "Yola çıkmadan önce ara.",
+      "values": [
+        "Call before you set off.",
+        "Позвони перед выходом в дорогу.",
+        "Жолго чыгардан мурун чал.",
+        "اتصل قبل الانطلاق.",
+        "Appelle avant de partir."
+      ]
+    },
+    "soldan": {
+      "tr": "Soldan ikinci sokağa dön.",
+      "values": [
+        "Turn into the second street on the left.",
+        "Поверни на вторую улицу слева.",
+        "Сол жактан экинчи көчөгө бурул.",
+        "انعطف إلى الشارع الثاني على اليسار.",
+        "Tourne dans la deuxième rue à gauche."
+      ]
+    },
+    "üçüncü": {
+      "tr": "Üçüncü durakta in.",
+      "values": [
+        "Get off at the third stop.",
+        "Выйди на третьей остановке.",
+        "Үчүнчү аялдамадан түш.",
+        "انزل في المحطة الثالثة.",
+        "Descends au troisième arrêt."
+      ]
+    },
+    "krokileri": {
+      "tr": "Krokileri inceleyin.",
+      "values": [
+        "Study the sketch maps.",
+        "Изучите схемы.",
+        "Схемаларды карап чыккыла.",
+        "تفحصوا المخططات.",
+        "Examinez les plans."
+      ]
+    },
+    "cümleleri": {
+      "tr": "Cümleleri deftere yazın.",
+      "values": [
+        "Write the sentences in your notebook.",
+        "Запишите предложения в тетрадь.",
+        "Сүйлөмдөрдү дептерге жазгыла.",
+        "اكتبوا الجمل في الدفتر.",
+        "Écrivez les phrases dans le cahier."
+      ]
+    },
+    "otobüs": {
+      "tr": "Otobüs birazdan gelecek.",
+      "values": [
+        "The bus will arrive soon.",
+        "Автобус скоро приедет.",
+        "Автобус жакында келет.",
+        "ستصل الحافلة قريبًا.",
+        "Le bus arrivera bientôt."
+      ]
+    },
+    "sağda": {
+      "tr": "Banka sağda.",
+      "values": [
+        "The bank is on the right.",
+        "Банк справа.",
+        "Банк оң жакта.",
+        "البنك على اليمين.",
+        "La banque est à droite."
+      ]
+    },
+    "bankanın": {
+      "tr": "Bankanın önünde buluşalım.",
+      "values": [
+        "Let's meet in front of the bank.",
+        "Встретимся перед банком.",
+        "Банктын алдында жолугалы.",
+        "لنلتقِ أمام البنك.",
+        "Retrouvons-nous devant la banque."
+      ]
+    },
+    "durağının": {
+      "tr": "Durağının adı ne?",
+      "values": [
+        "What's the name of your stop?",
+        "Как называется твоя остановка?",
+        "Сенин аялдамаң кандай аталат?",
+        "ما اسم محطتك؟",
+        "Comment s'appelle ton arrêt ?"
+      ]
+    },
+    "sol": {
+      "tr": "Sol tarafta eczane var.",
+      "values": [
+        "There's a pharmacy on the left.",
+        "Слева есть аптека.",
+        "Сол жакта дарыкана бар.",
+        "توجد صيدلية على اليسار.",
+        "Il y a une pharmacie à gauche."
+      ]
+    },
+    "tarafta": {
+      "tr": "Diğer tarafta bekle.",
+      "values": [
+        "Wait on the other side.",
+        "Подожди на другой стороне.",
+        "Башка тарапта күт.",
+        "انتظر في الجانب الآخر.",
+        "Attends de l'autre côté."
+      ]
+    },
+    "hastanenin": {
+      "tr": "Hastanenin yanında eczane var.",
+      "values": [
+        "There's a pharmacy next to the hospital.",
+        "Рядом с больницей есть аптека.",
+        "Оорукананын жанында дарыкана бар.",
+        "توجد صيدلية بجانب المستشفى.",
+        "Il y a une pharmacie à côté de l'hôpital."
+      ]
+    },
+    "tiyatronun": {
+      "tr": "Tiyatronun karşısında kafe var.",
+      "values": [
+        "There's a café opposite the theatre.",
+        "Напротив театра есть кафе.",
+        "Театрдын маңдайында кафе бар.",
+        "يوجد مقهى مقابل المسرح.",
+        "Il y a un café en face du théâtre."
+      ]
+    },
+    "sinemanın": {
+      "tr": "Sinemanın önünde buluşalım.",
+      "values": [
+        "Let's meet in front of the cinema.",
+        "Встретимся перед кинотеатром.",
+        "Кинотеатрдын алдында жолугалы.",
+        "لنلتقِ أمام السينما.",
+        "Retrouvons-nous devant le cinéma."
+      ]
+    },
+    "metroya": {
+      "tr": "Metroya buradan binebilirsin.",
+      "values": [
+        "You can take the metro here.",
+        "Здесь можно сесть на метро.",
+        "Метрого ушул жерден түшө аласың.",
+        "يمكنك ركوب المترو من هنا.",
+        "Tu peux prendre le métro ici."
+      ]
+    },
+    "parka": {
+      "tr": "Akşam parka gidelim.",
+      "values": [
+        "Let's go to the park this evening.",
+        "Пойдём вечером в парк.",
+        "Кечинде сейил бакка баралы.",
+        "لنذهب إلى الحديقة مساءً.",
+        "Allons au parc ce soir."
+      ]
+    },
+    "hazinesi": {
+      "tr": "Kitaplar bilgi hazinesidir.",
+      "values": [
+        "Books are a treasure of knowledge.",
+        "Книги — сокровищница знаний.",
+        "Китептер — билим казынасы.",
+        "الكتب كنز من المعرفة.",
+        "Les livres sont un trésor de connaissances."
+      ]
+    },
+    "plansız": {
+      "tr": "Plansız yola çıkma.",
+      "values": [
+        "Don't set off without a plan.",
+        "Не отправляйся в путь без плана.",
+        "Плансыз жолго чыкпа.",
+        "لا تنطلق بلا خطة.",
+        "Ne pars pas sans plan."
+      ]
+    },
+    "iş": {
+      "tr": "Bugün çok işim var.",
+      "values": [
+        "I have a lot to do today.",
+        "У меня сегодня много дел.",
+        "Бүгүн ишим көп.",
+        "لدي عمل كثير اليوم.",
+        "J'ai beaucoup de choses à faire aujourd'hui."
+      ]
+    },
+    "dümensiz": {
+      "tr": "Dümensiz gemi yönünü bulamaz.",
+      "values": [
+        "A ship without a rudder cannot find its way.",
+        "Корабль без руля не найдёт путь.",
+        "Рулсуз кеме жолун таба албайт.",
+        "السفينة بلا دفة لا تجد طريقها.",
+        "Un bateau sans gouvernail ne trouve pas sa route."
+      ]
+    },
+    "gemiye": {
+      "tr": "Gemiye saat dokuzda bindik.",
+      "values": [
+        "We boarded the ship at nine.",
+        "Мы сели на корабль в девять.",
+        "Кемеге саат тогузда түштүк.",
+        "صعدنا إلى السفينة الساعة التاسعة.",
+        "Nous sommes montés sur le bateau à neuf heures."
+      ]
+    },
+    "benzer": {
+      "tr": "Bu çocuk babasına benzer.",
+      "values": [
+        "This child resembles his father.",
+        "Этот ребёнок похож на отца.",
+        "Бул бала атасына окшош.",
+        "هذا الطفل يشبه أباه.",
+        "Cet enfant ressemble à son père."
+      ]
+    },
+    "istersin": {
+      "tr": "Ne içmek istersin?",
+      "values": [
+        "What would you like to drink?",
+        "Что ты хочешь выпить?",
+        "Эмне ичүүнү каалайсың?",
+        "ماذا تريد أن تشرب؟",
+        "Que veux-tu boire ?"
+      ]
+    },
+    "yapmayı": {
+      "tr": "Yürüyüş yapmayı severim.",
+      "values": [
+        "I like going for walks.",
+        "Я люблю гулять.",
+        "Мен сейилдегенди жакшы көрөм.",
+        "أحب المشي.",
+        "J'aime me promener."
+      ]
+    },
+    "seversin": {
+      "tr": "Hangi filmi seversin?",
+      "values": [
+        "Which film do you like?",
+        "Какой фильм тебе нравится?",
+        "Кайсы тасманы жакшы көрөсүң?",
+        "أي فيلم تحب؟",
+        "Quel film aimes-tu ?"
       ]
     }
   },
