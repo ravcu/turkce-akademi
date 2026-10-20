@@ -154,6 +154,13 @@
       "ثلاثة وأربعون",
       "quarante-trois"
     ],
+    "44": [
+      "forty-four",
+      "сорок четыре",
+      "кырк төрт",
+      "أربعة وأربعون",
+      "quarante-quatre"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -5704,6 +5711,272 @@
       "берсин",
       "ليُعطِ",
       "qu'il donne"
+    ],
+    "yanlış": [
+      "wrong; incorrect",
+      "неправильный",
+      "туура эмес",
+      "خطأ",
+      "incorrect"
+    ],
+    "yerde": [
+      "in the place",
+      "в месте",
+      "жерде",
+      "في المكان",
+      "à l'endroit"
+    ],
+    "kullanılan": [
+      "used",
+      "используемый",
+      "колдонулган",
+      "المستخدم",
+      "utilisé"
+    ],
+    "cümlelerin": [
+      "of the sentences",
+      "предложений",
+      "сүйлөмдөрдүн",
+      "للجمل",
+      "des phrases"
+    ],
+    "altını": [
+      "underneath; underline",
+      "низ; подчеркни",
+      "астын",
+      "تحته",
+      "le dessous"
+    ],
+    "ahmet": [
+      "Ahmet (name)",
+      "Ахмет",
+      "Ахмет",
+      "أحمد",
+      "Ahmet"
+    ],
+    "ayşe": [
+      "Ayşe (name)",
+      "Айше",
+      "Айше",
+      "عائشة",
+      "Ayşe"
+    ],
+    "bebek": [
+      "baby",
+      "младенец",
+      "наристе",
+      "رضيع",
+      "bébé"
+    ],
+    "rabia": [
+      "Rabia (name)",
+      "Рабия",
+      "Рабия",
+      "رابعة",
+      "Rabia"
+    ],
+    "hoş": [
+      "pleasant; welcome",
+      "приятный; добро пожаловать",
+      "жагымдуу; кош",
+      "جميل؛ أهلًا",
+      "agréable; bienvenue"
+    ],
+    "ali": [
+      "Ali (name)",
+      "Али",
+      "Али",
+      "علي",
+      "Ali"
+    ],
+    "dede": [
+      "grandfather",
+      "дедушка",
+      "чоң ата",
+      "جد",
+      "grand-père"
+    ],
+    "ver": [
+      "give",
+      "дай",
+      "бер",
+      "أعطِ",
+      "donne"
+    ],
+    "elini": [
+      "your/his hand (object)",
+      "твою/его руку",
+      "колуңду; анын колун",
+      "يدك؛ يده",
+      "ta/sa main"
+    ],
+    "öpeyim": [
+      "let me kiss",
+      "дай поцелую",
+      "өпөйүн",
+      "دعني أقبّل",
+      "que j'embrasse"
+    ],
+    "gelmedin": [
+      "you didn't come",
+      "ты не пришёл",
+      "келген жоксуң",
+      "لم تأتِ",
+      "tu n'es pas venu"
+    ],
+    "tatlı": [
+      "sweet; cute",
+      "сладкий; милый",
+      "таттуу; сүйкүмдүү",
+      "حلو؛ لطيف",
+      "sucré; mignon"
+    ],
+    "geldiniz": [
+      "you came; welcome (polite)",
+      "вы пришли",
+      "келдиңиздер",
+      "أتيتم",
+      "vous êtes venus"
+    ],
+    "hastaydım": [
+      "I was ill",
+      "я болел",
+      "ооруп жаткам",
+      "كنت مريضًا",
+      "j'étais malade"
+    ],
+    "melek": [
+      "Melek (name); angel",
+      "Мелек; ангел",
+      "Мелек; периште",
+      "ملك؛ ملاك",
+      "Melek; ange"
+    ],
+    "gizem": [
+      "Gizem (name); mystery",
+      "Гизем; тайна",
+      "Гизем; сыр",
+      "غيزم؛ لغز",
+      "Gizem; mystère"
+    ],
+    "bulduk": [
+      "we found",
+      "мы нашли",
+      "таптык",
+      "وجدنا",
+      "nous avons trouvé"
+    ],
+    "torunum": [
+      "my grandchild",
+      "мой внук; моя внучка",
+      "неберем",
+      "حفيدي",
+      "mon petit-enfant"
+    ],
+    "aa": [
+      "oh!; ah!",
+      "а!; о!",
+      "аа!",
+      "آه!",
+      "ah !"
+    ],
+    "güzel": [
+      "beautiful; nice",
+      "красивый; хороший",
+      "сулуу; жакшы",
+      "جميل",
+      "beau; joli"
+    ],
+    "bayramın": [
+      "your holiday",
+      "твой праздник",
+      "майрамың",
+      "عيدك",
+      "ta fête"
+    ],
+    "harçlığın": [
+      "your pocket money",
+      "твои карманные деньги",
+      "чөнтөк акчаң",
+      "مصروفك",
+      "ton argent de poche"
+    ],
+    "amin": [
+      "amen",
+      "аминь",
+      "оомийин",
+      "آمين",
+      "amen"
+    ],
+    "olun": [
+      "be (plural/polite)",
+      "будьте",
+      "болуңуздар",
+      "كونوا",
+      "soyez"
+    ],
+    "dedeciğim": [
+      "dear grandpa",
+      "дорогой дедушка",
+      "чоң атакем",
+      "جدي العزيز",
+      "cher grand-père"
+    ],
+    "teşekkürler": [
+      "thanks",
+      "спасибо",
+      "рахмат",
+      "شكرًا",
+      "merci"
+    ],
+    "darısı": [
+      "may the same happen (to someone)",
+      "пусть и тебе повезёт",
+      "сага да насип болсун",
+      "عقبالك",
+      "à ton tour"
+    ],
+    "başına": [
+      "to your head; to you (in idiom)",
+      "на голову; тебе (в выражении)",
+      "башыңа; сага",
+      "على رأسك؛ لك",
+      "sur ta tête; à ton tour"
+    ],
+    "cümleyi": [
+      "the sentence",
+      "предложение",
+      "сүйлөмдү",
+      "الجملة",
+      "la phrase"
+    ],
+    "tabloya": [
+      "into the table",
+      "в таблицу",
+      "таблицага",
+      "في الجدول",
+      "dans le tableau"
+    ],
+    "doğrusu": [
+      "the correct version",
+      "правильный вариант",
+      "туурасы",
+      "الصحيح",
+      "la bonne version"
+    ],
+    "olmalı": [
+      "should be",
+      "должно быть",
+      "болушу керек",
+      "ينبغي أن يكون",
+      "devrait être"
+    ],
+    "doğru": [
+      "correct; right",
+      "правильный",
+      "туура",
+      "صحيح",
+      "correct"
     ]
   },
   "phrases": {
@@ -7950,6 +8223,16 @@
         "Кырк үчүнчү бетти ач.",
         "افتح الصفحة الثالثة والأربعين.",
         "Ouvre la page quarante-trois."
+      ]
+    },
+    "44": {
+      "tr": "Kırk dördüncü sayfayı açın.",
+      "values": [
+        "Open page forty-four.",
+        "Откройте сорок четвёртую страницу.",
+        "Кырк төртүнчү бетти ачкыла.",
+        "افتحوا الصفحة الرابعة والأربعين.",
+        "Ouvrez la page quarante-quatre."
       ]
     },
     "50": {
@@ -15560,6 +15843,386 @@
         "Алла сага ден соолук берсин.",
         "رزقك الله الصحة.",
         "Que Dieu t'accorde la santé."
+      ]
+    },
+    "yanlış": {
+      "tr": "Yanlış cevabı düzelt.",
+      "values": [
+        "Correct the wrong answer.",
+        "Исправь неправильный ответ.",
+        "Туура эмес жоопту оңдо.",
+        "صحح الإجابة الخاطئة.",
+        "Corrige la mauvaise réponse."
+      ]
+    },
+    "yerde": {
+      "tr": "Yanlış yerde bekledim.",
+      "values": [
+        "I waited in the wrong place.",
+        "Я ждал не в том месте.",
+        "Туура эмес жерде күттүм.",
+        "انتظرت في المكان الخطأ.",
+        "J'ai attendu au mauvais endroit."
+      ]
+    },
+    "kullanılan": {
+      "tr": "Bu cümlede kullanılan kelimeyi bul.",
+      "values": [
+        "Find the word used in this sentence.",
+        "Найди слово, использованное в этом предложении.",
+        "Бул сүйлөмдө колдонулган сөздү тап.",
+        "جد الكلمة المستخدمة في هذه الجملة.",
+        "Trouve le mot utilisé dans cette phrase."
+      ]
+    },
+    "cümlelerin": {
+      "tr": "Cümlelerin altını çizin.",
+      "values": [
+        "Underline the sentences.",
+        "Подчеркните предложения.",
+        "Сүйлөмдөрдүн астын сызгыла.",
+        "ضعوا خطًا تحت الجمل.",
+        "Soulignez les phrases."
+      ]
+    },
+    "altını": {
+      "tr": "Önemli kelimelerin altını çiz.",
+      "values": [
+        "Underline the important words.",
+        "Подчеркни важные слова.",
+        "Маанилүү сөздөрдүн астын сыз.",
+        "ضع خطًا تحت الكلمات المهمة.",
+        "Souligne les mots importants."
+      ]
+    },
+    "ahmet": {
+      "tr": "Ahmet düğüne neden gelmedi?",
+      "values": [
+        "Why didn't Ahmet come to the wedding?",
+        "Почему Ахмет не пришёл на свадьбу?",
+        "Ахмет тойго эмне үчүн келген жок?",
+        "لماذا لم يأتِ أحمد إلى الزفاف؟",
+        "Pourquoi Ahmet n'est-il pas venu au mariage ?"
+      ]
+    },
+    "ayşe": {
+      "tr": "Ayşe bebeği tebrik etti.",
+      "values": [
+        "Ayşe congratulated the family on the baby.",
+        "Айше поздравила семью с рождением малыша.",
+        "Айше үй-бүлөнү наристелүү болушу менен куттуктады.",
+        "هنأت عائشة الأسرة بالمولود.",
+        "Ayşe a félicité la famille pour le bébé."
+      ]
+    },
+    "bebek": {
+      "tr": "Bebek çok tatlı.",
+      "values": [
+        "The baby is very cute.",
+        "Малыш очень милый.",
+        "Наристе абдан сүйкүмдүү.",
+        "الرضيع لطيف جدًا.",
+        "Le bébé est adorable."
+      ]
+    },
+    "rabia": {
+      "tr": "Rabia misafirleri karşıladı.",
+      "values": [
+        "Rabia welcomed the guests.",
+        "Рабия встретила гостей.",
+        "Рабия конокторду тосуп алды.",
+        "استقبلت رابعة الضيوف.",
+        "Rabia a accueilli les invités."
+      ]
+    },
+    "hoş": {
+      "tr": "Hoş geldiniz, buyurun.",
+      "values": [
+        "Welcome, please come in.",
+        "Добро пожаловать, проходите.",
+        "Кош келиңиздер, кириңиздер.",
+        "أهلًا وسهلًا، تفضلوا.",
+        "Bienvenue, entrez donc."
+      ]
+    },
+    "ali": {
+      "tr": "Ali dedesinin elini öptü.",
+      "values": [
+        "Ali kissed his grandfather's hand.",
+        "Али поцеловал руку дедушки.",
+        "Али чоң атасынын колун өптү.",
+        "قبّل علي يد جده.",
+        "Ali a embrassé la main de son grand-père."
+      ]
+    },
+    "dede": {
+      "tr": "Dede, nasılsın?",
+      "values": [
+        "Grandpa, how are you?",
+        "Дедушка, как дела?",
+        "Чоң ата, кандайсыз?",
+        "جدي، كيف حالك؟",
+        "Grand-père, comment vas-tu ?"
+      ]
+    },
+    "ver": {
+      "tr": "Bana elini ver.",
+      "values": [
+        "Give me your hand.",
+        "Дай мне руку.",
+        "Мага колуңду бер.",
+        "أعطني يدك.",
+        "Donne-moi ta main."
+      ]
+    },
+    "elini": {
+      "tr": "Dede, elini öpeyim.",
+      "values": [
+        "Grandpa, let me kiss your hand.",
+        "Дедушка, дай поцеловать твою руку.",
+        "Чоң ата, колуңузду өбөйүн.",
+        "جدي، دعني أقبّل يدك.",
+        "Grand-père, laisse-moi embrasser ta main."
+      ]
+    },
+    "öpeyim": {
+      "tr": "Bayramda büyüklerimin elini öpeyim.",
+      "values": [
+        "Let me kiss my elders' hands during the holiday.",
+        "На празднике я поцелую руки старших.",
+        "Майрамда улууларымдын колун өпөйүн.",
+        "دعني أقبّل أيدي الكبار في العيد.",
+        "Laisse-moi embrasser la main de mes aînés pendant la fête."
+      ]
+    },
+    "gelmedin": {
+      "tr": "Dün neden gelmedin?",
+      "values": [
+        "Why didn't you come yesterday?",
+        "Почему ты вчера не пришёл?",
+        "Кечээ эмне үчүн келген жоксуң?",
+        "لماذا لم تأتِ أمس؟",
+        "Pourquoi n'es-tu pas venu hier ?"
+      ]
+    },
+    "tatlı": {
+      "tr": "Bebek çok tatlı.",
+      "values": [
+        "The baby is very cute.",
+        "Малыш очень милый.",
+        "Наристе абдан сүйкүмдүү.",
+        "الطفل لطيف جدًا.",
+        "Le bébé est adorable."
+      ]
+    },
+    "geldiniz": {
+      "tr": "Düğünümüze hoş geldiniz.",
+      "values": [
+        "Welcome to our wedding.",
+        "Добро пожаловать на нашу свадьбу.",
+        "Тоюбузга кош келиңиздер.",
+        "أهلًا بكم في زفافنا.",
+        "Bienvenue à notre mariage."
+      ]
+    },
+    "hastaydım": {
+      "tr": "Dün hastaydım, okula gidemedim.",
+      "values": [
+        "I was ill yesterday, so I couldn't go to school.",
+        "Вчера я болел и не смог пойти в школу.",
+        "Кечээ ооруп, мектепке бара алган жокмун.",
+        "كنت مريضًا أمس، فلم أستطع الذهاب إلى المدرسة.",
+        "J'étais malade hier, donc je n'ai pas pu aller à l'école."
+      ]
+    },
+    "melek": {
+      "tr": "Melek bebeği kucağına aldı.",
+      "values": [
+        "Melek held the baby in her arms.",
+        "Мелек взяла малыша на руки.",
+        "Мелек наристени колуна алды.",
+        "حملت ملك الطفل بين ذراعيها.",
+        "Melek a pris le bébé dans ses bras."
+      ]
+    },
+    "gizem": {
+      "tr": "Gizem düğünü çok beğendi.",
+      "values": [
+        "Gizem really liked the wedding.",
+        "Гизем очень понравилась свадьба.",
+        "Гизем тойду абдан жактырды.",
+        "أعجب غيزم حفل الزفاف كثيرًا.",
+        "Gizem a beaucoup aimé le mariage."
+      ]
+    },
+    "bulduk": {
+      "tr": "Sonunda doğru adresi bulduk.",
+      "values": [
+        "We finally found the right address.",
+        "Наконец мы нашли нужный адрес.",
+        "Акыры туура даректи таптык.",
+        "وجدنا العنوان الصحيح أخيرًا.",
+        "Nous avons enfin trouvé la bonne adresse."
+      ]
+    },
+    "torunum": {
+      "tr": "Torunum bugün beni ziyaret etti.",
+      "values": [
+        "My grandchild visited me today.",
+        "Мой внук сегодня навестил меня.",
+        "Неберем бүгүн мага келди.",
+        "زارني حفيدي اليوم.",
+        "Mon petit-enfant m'a rendu visite aujourd'hui."
+      ]
+    },
+    "aa": {
+      "tr": "Aa, sen de mi buradasın?",
+      "values": [
+        "Oh, are you here too?",
+        "О, ты тоже здесь?",
+        "Аа, сен да бул жердесиңби?",
+        "آه، هل أنت هنا أيضًا؟",
+        "Ah, tu es là toi aussi ?"
+      ]
+    },
+    "güzel": {
+      "tr": "Ne güzel bir düğün!",
+      "values": [
+        "What a lovely wedding!",
+        "Какая красивая свадьба!",
+        "Кандай сонун той!",
+        "يا له من زفاف جميل!",
+        "Quel beau mariage !"
+      ]
+    },
+    "bayramın": {
+      "tr": "Bayramın mübarek olsun.",
+      "values": [
+        "Happy holiday!",
+        "С праздником тебя!",
+        "Майрамың кут болсун.",
+        "عيدك مبارك.",
+        "Bonne fête à toi !"
+      ]
+    },
+    "harçlığın": {
+      "tr": "Bayram harçlığın burada.",
+      "values": [
+        "Here's your holiday pocket money.",
+        "Вот твои праздничные карманные деньги.",
+        "Майрамдык чөнтөк акчаң бул жерде.",
+        "هذا مصروفك للعيد.",
+        "Voici ton argent de poche pour la fête."
+      ]
+    },
+    "amin": {
+      "tr": "Amin, hepimiz sağlıklı olalım.",
+      "values": [
+        "Amen, may we all be healthy.",
+        "Аминь, пусть мы все будем здоровы.",
+        "Оомийин, баарыбыз ден соолукта бололу.",
+        "آمين، عسى أن نكون جميعًا بصحة جيدة.",
+        "Amen, que nous soyons tous en bonne santé."
+      ]
+    },
+    "olun": {
+      "tr": "Sağlıklı ve mutlu olun.",
+      "values": [
+        "Be healthy and happy.",
+        "Будьте здоровы и счастливы.",
+        "Ден соолукта жана бактылуу болуңуздар.",
+        "كونوا أصحاء وسعداء.",
+        "Soyez en bonne santé et heureux."
+      ]
+    },
+    "dedeciğim": {
+      "tr": "Teşekkür ederim dedeciğim.",
+      "values": [
+        "Thank you, dear grandpa.",
+        "Спасибо, дорогой дедушка.",
+        "Рахмат, чоң атакем.",
+        "شكرًا يا جدي العزيز.",
+        "Merci, cher grand-père."
+      ]
+    },
+    "teşekkürler": {
+      "tr": "Davetin için teşekkürler.",
+      "values": [
+        "Thanks for the invitation.",
+        "Спасибо за приглашение.",
+        "Чакырууң үчүн рахмат.",
+        "شكرًا على الدعوة.",
+        "Merci pour l'invitation."
+      ]
+    },
+    "darısı": {
+      "tr": "Darısı başına, inşallah.",
+      "values": [
+        "May you be next, God willing.",
+        "Дай Бог, и тебе так повезёт.",
+        "Буюрса, сага да насип болсун.",
+        "عقبالك إن شاء الله.",
+        "À ton tour, si Dieu le veut."
+      ]
+    },
+    "başına": {
+      "tr": "Darısı başına!",
+      "values": [
+        "May you be next!",
+        "Пусть и тебе так повезёт!",
+        "Сага да насип болсун!",
+        "عقبالك!",
+        "À ton tour !"
+      ]
+    },
+    "cümleyi": {
+      "tr": "Cümleyi deftere yaz.",
+      "values": [
+        "Write the sentence in your notebook.",
+        "Запиши предложение в тетрадь.",
+        "Сүйлөмдү дептерге жаз.",
+        "اكتب الجملة في الدفتر.",
+        "Écris la phrase dans ton cahier."
+      ]
+    },
+    "tabloya": {
+      "tr": "Cevapları tabloya yazın.",
+      "values": [
+        "Write the answers in the table.",
+        "Запишите ответы в таблицу.",
+        "Жоопторду таблицага жазгыла.",
+        "اكتبوا الإجابات في الجدول.",
+        "Écrivez les réponses dans le tableau."
+      ]
+    },
+    "doğrusu": {
+      "tr": "Bu cümlenin doğrusu nedir?",
+      "values": [
+        "What's the correct version of this sentence?",
+        "Как правильно звучит это предложение?",
+        "Бул сүйлөмдүн туурасы кандай?",
+        "ما الصيغة الصحيحة لهذه الجملة؟",
+        "Quelle est la bonne version de cette phrase ?"
+      ]
+    },
+    "olmalı": {
+      "tr": "Doğru cevap burada olmalı.",
+      "values": [
+        "The correct answer should be here.",
+        "Правильный ответ должен быть здесь.",
+        "Туура жооп бул жерде болушу керек.",
+        "ينبغي أن تكون الإجابة الصحيحة هنا.",
+        "La bonne réponse devrait être ici."
+      ]
+    },
+    "doğru": {
+      "tr": "Doğru cevabı işaretle.",
+      "values": [
+        "Mark the correct answer.",
+        "Отметь правильный ответ.",
+        "Туура жоопту белгиле.",
+        "حدد الإجابة الصحيحة.",
+        "Coche la bonne réponse."
       ]
     }
   },
