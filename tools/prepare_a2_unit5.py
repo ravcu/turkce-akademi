@@ -45,7 +45,7 @@ print(json.dumps(report,ensure_ascii=False,indent=2))
 
 # Reuse existing local editorial entries; retain only entries occurring in this unit.
 base={k:{} for k in ("words","forms","examples","phrases","lemmas")}
-for slug in ("ailem-ve-evim","bir-gunum","sehir-gezisi","bugun-hava-nasil","carsi-pazar","lise-a2/tatil-donusu","lise-a2/hafta-sonu-planin-ne","lise-a2/bir-gunum","lise-a2/simdi-haberler"):
+for slug in ("tanisalim","okuldayiz","ailem-ve-evim","bir-gunum","sehir-gezisi","bugun-hava-nasil","carsi-pazar","gecmis-olsun","davetlisiniz","tatil-planim","lise-a2/tatil-donusu","lise-a2/hafta-sonu-planin-ne","lise-a2/bir-gunum","lise-a2/simdi-haberler"):
     path=Path("kitaplar")/slug/"translations.json"
     if not path.exists():continue
     old=json.loads(path.read_text())
