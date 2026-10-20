@@ -63,6 +63,27 @@
       "خمسة عشر",
       "quinze"
     ],
+    "20": [
+      "twenty",
+      "двадцать",
+      "жыйырма",
+      "عشرون",
+      "vingt"
+    ],
+    "22": [
+      "twenty-two",
+      "двадцать два",
+      "жыйырма эки",
+      "اثنان وعشرون",
+      "vingt-deux"
+    ],
+    "24": [
+      "twenty-four",
+      "двадцать четыре",
+      "жыйырма төрт",
+      "أربعة وعشرون",
+      "vingt-quatre"
+    ],
     "26": [
       "twenty-six",
       "двадцать шесть",
@@ -161,12 +182,47 @@
       "أربعة وأربعون",
       "quarante-quatre"
     ],
+    "45": [
+      "forty-five",
+      "сорок пять",
+      "кырк беш",
+      "خمسة وأربعون",
+      "quarante-cinq"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
       "элүү",
       "خمسون",
       "cinquante"
+    ],
+    "52": [
+      "fifty-two",
+      "пятьдесят два",
+      "элүү эки",
+      "اثنان وخمسون",
+      "cinquante-deux"
+    ],
+    "58": [
+      "fifty-eight",
+      "пятьдесят восемь",
+      "элүү сегиз",
+      "ثمانية وخمسون",
+      "cinquante-huit"
+    ],
+    "63": [
+      "sixty-three",
+      "шестьдесят три",
+      "алтымыш үч",
+      "ثلاثة وستون",
+      "soixante-trois"
+    ],
+    "74": [
+      "seventy-four",
+      "семьдесят четыре",
+      "жетимиш төрт",
+      "أربعة وسبعون",
+      "soixante-quatorze"
     ],
     "100": [
       "one hundred",
@@ -181,6 +237,27 @@
       "эки жүз",
       "مئتان",
       "deux cents"
+    ],
+    "214": [
+      "two hundred fourteen",
+      "двести четырнадцать",
+      "эки жүз он төрт",
+      "مئتان وأربعة عشر",
+      "deux cent quatorze"
+    ],
+    "253": [
+      "two hundred fifty-three",
+      "двести пятьдесят три",
+      "эки жүз элүү үч",
+      "مئتان وثلاثة وخمسون",
+      "deux cent cinquante-trois"
+    ],
+    "895": [
+      "895",
+      "895",
+      "895",
+      "٨٩٥",
+      "895"
     ],
     "2020": [
       "2020",
@@ -5977,6 +6054,181 @@
       "туура",
       "صحيح",
       "correct"
+    ],
+    "afişleri": [
+      "the posters",
+      "плакаты",
+      "афишаларды",
+      "الملصقات",
+      "les affiches"
+    ],
+    "afişlerde": [
+      "on the posters",
+      "на афишах",
+      "афишаларда",
+      "على الملصقات",
+      "sur les affiches"
+    ],
+    "uluslararası": [
+      "international",
+      "международный",
+      "эл аралык",
+      "دولي",
+      "international"
+    ],
+    "gaziantep": [
+      "Gaziantep (city)",
+      "Газиантеп",
+      "Газиантеп",
+      "غازي عنتاب",
+      "Gaziantep"
+    ],
+    "dünyası": [
+      "world; its world",
+      "мир; его мир",
+      "дүйнөсү",
+      "عالمه",
+      "son monde"
+    ],
+    "dünya": [
+      "world",
+      "мир",
+      "дүйнө",
+      "عالم",
+      "monde"
+    ],
+    "ata": [
+      "ancestor; forefather",
+      "предок",
+      "ата-баба",
+      "جد؛ سلف",
+      "ancêtre"
+    ],
+    "sporları": [
+      "sports (object/plural)",
+      "виды спорта",
+      "спорт түрлөрү",
+      "الرياضات",
+      "les sports"
+    ],
+    "yemekleri": [
+      "dishes; foods",
+      "блюда",
+      "тамактар",
+      "الأطباق",
+      "les plats"
+    ],
+    "24-25": [
+      "24–25",
+      "24–25",
+      "24–25",
+      "٢٤–٢٥",
+      "24–25"
+    ],
+    "temmuz": [
+      "July",
+      "июль",
+      "июль",
+      "يوليو",
+      "juillet"
+    ],
+    "12-13": [
+      "12–13",
+      "12–13",
+      "12–13",
+      "١٢–١٣",
+      "12–13"
+    ],
+    "bursa": [
+      "Bursa (city)",
+      "Бурса",
+      "Бурса",
+      "بورصة",
+      "Bursa"
+    ],
+    "no": [
+      "number",
+      "номер",
+      "номер",
+      "رقم",
+      "numéro"
+    ],
+    "0850": [
+      "0850 (phone prefix)",
+      "0850 (телефонный код)",
+      "0850 (телефон коду)",
+      "٠٨٥٠ (مقدمة هاتفية)",
+      "0850 (préfixe téléphonique)"
+    ],
+    "baklava": [
+      "baklava",
+      "пахлава",
+      "баклава",
+      "بقلاوة",
+      "baklava"
+    ],
+    "konya": [
+      "Konya (city)",
+      "Конья",
+      "Конья",
+      "قونية",
+      "Konya"
+    ],
+    "imam": [
+      "imam",
+      "имам",
+      "имам",
+      "إمام",
+      "imam"
+    ],
+    "hatip": [
+      "preacher; orator",
+      "проповедник; оратор",
+      "хатиб; чечен",
+      "خطيب",
+      "prédicateur; orateur"
+    ],
+    "okulu": [
+      "the school; his/her school",
+      "школу; его школу",
+      "мектеби; мектепти",
+      "المدرسة",
+      "l'école"
+    ],
+    "fidan": [
+      "sapling",
+      "саженец",
+      "көчөт",
+      "شتلة",
+      "jeune plant"
+    ],
+    "dikme": [
+      "planting; to plant",
+      "посадка",
+      "отургузуу",
+      "غرس",
+      "plantation"
+    ],
+    "şenliği": [
+      "festival; celebration",
+      "праздник; фестиваль",
+      "майрамы; фестивалы",
+      "مهرجان",
+      "festival"
+    ],
+    "haziran": [
+      "June",
+      "июнь",
+      "июнь",
+      "يونيو",
+      "juin"
+    ],
+    "12.00": [
+      "noon; 12:00",
+      "12:00; полдень",
+      "саат 12:00; түш",
+      "الساعة الثانية عشرة ظهرًا",
+      "midi; 12 h"
     ]
   },
   "phrases": {
@@ -8282,6 +8534,36 @@
         "Viens dans quinze minutes."
       ]
     },
+    "20": {
+      "tr": "Etkinlik 20 Haziran'da.",
+      "values": [
+        "The event is on June 20.",
+        "Мероприятие 20 июня.",
+        "Иш-чара 20-июнда.",
+        "الفعالية يوم 20 يونيو.",
+        "L'événement a lieu le 20 juin."
+      ]
+    },
+    "22": {
+      "tr": "Bilet 22 lira.",
+      "values": [
+        "The ticket costs 22 lira.",
+        "Билет стоит 22 лиры.",
+        "Билет 22 лира турат.",
+        "سعر التذكرة 22 ليرة.",
+        "Le billet coûte 22 livres turques."
+      ]
+    },
+    "24": {
+      "tr": "Etkinlik 24 Temmuz'da.",
+      "values": [
+        "The event is on July 24.",
+        "Мероприятие 24 июля.",
+        "Иш-чара 24-июлда.",
+        "الفعالية يوم 24 يوليو.",
+        "L'événement a lieu le 24 juillet."
+      ]
+    },
     "26": {
       "tr": "Düğün 26 Eylül'de.",
       "values": [
@@ -8422,6 +8704,16 @@
         "Ouvrez la page quarante-quatre."
       ]
     },
+    "45": {
+      "tr": "Kırk beşinci sayfayı açın.",
+      "values": [
+        "Open page forty-five.",
+        "Откройте сорок пятую страницу.",
+        "Кырк бешинчи бетти ачкыла.",
+        "افتحوا الصفحة الخامسة والأربعين.",
+        "Ouvrez la page quarante-cinq."
+      ]
+    },
     "50": {
       "tr": "Elli metre yürü.",
       "values": [
@@ -8430,6 +8722,46 @@
         "Элүү метр бас.",
         "امشِ خمسين مترًا.",
         "Marche cinquante mètres."
+      ]
+    },
+    "52": {
+      "tr": "Telefon numarası 52 ile devam ediyor.",
+      "values": [
+        "The phone number continues with 52.",
+        "В номере телефона дальше идёт 52.",
+        "Телефон номеринде андан кийин 52 келет.",
+        "يأتي الرقم 52 بعد ذلك في رقم الهاتف.",
+        "Le numéro de téléphone continue avec 52."
+      ]
+    },
+    "58": {
+      "tr": "Telefon numarası 58 ile bitiyor.",
+      "values": [
+        "The phone number ends with 58.",
+        "Номер телефона заканчивается на 58.",
+        "Телефон номери 58 менен бүтөт.",
+        "ينتهي رقم الهاتف بـ 58.",
+        "Le numéro de téléphone se termine par 58."
+      ]
+    },
+    "63": {
+      "tr": "Bu telefon numarasında 63 var.",
+      "values": [
+        "This phone number contains 63.",
+        "В этом номере телефона есть 63.",
+        "Бул телефон номеринде 63 бар.",
+        "يوجد الرقم 63 في رقم الهاتف هذا.",
+        "Ce numéro de téléphone contient 63."
+      ]
+    },
+    "74": {
+      "tr": "Telefon numarası 74 ile bitiyor.",
+      "values": [
+        "The phone number ends with 74.",
+        "Номер телефона заканчивается на 74.",
+        "Телефон номери 74 менен бүтөт.",
+        "ينتهي رقم الهاتف بـ 74.",
+        "Le numéro de téléphone se termine par 74."
       ]
     },
     "100": {
@@ -8450,6 +8782,36 @@
         "Эки жүз метр түз бас.",
         "امشِ مستقيمًا مئتي متر.",
         "Continue tout droit sur deux cents mètres."
+      ]
+    },
+    "214": {
+      "tr": "Telefon numarasında 214 var.",
+      "values": [
+        "The phone number contains 214.",
+        "В номере телефона есть 214.",
+        "Телефон номеринде 214 бар.",
+        "يتضمن رقم الهاتف 214.",
+        "Le numéro de téléphone contient 214."
+      ]
+    },
+    "253": {
+      "tr": "Telefon numarasında 253 var.",
+      "values": [
+        "The phone number includes 253.",
+        "В номере телефона есть 253.",
+        "Телефон номеринде 253 бар.",
+        "يتضمن رقم الهاتف 253.",
+        "Le numéro de téléphone contient 253."
+      ]
+    },
+    "895": {
+      "tr": "Telefon numarasında 895 yazıyor.",
+      "values": [
+        "The phone number includes 895.",
+        "В номере телефона есть цифры 895.",
+        "Телефон номеринде 895 деген сандар бар.",
+        "يتضمن رقم الهاتف الأرقام 895.",
+        "Le numéro de téléphone contient 895."
       ]
     },
     "2020": {
@@ -16410,6 +16772,256 @@
         "Туура жоопту белгиле.",
         "حدد الإجابة الصحيحة.",
         "Coche la bonne réponse."
+      ]
+    },
+    "afişleri": {
+      "tr": "Etkinlik afişlerini okulda gördüm.",
+      "values": [
+        "I saw the event posters at school.",
+        "Я увидел афиши мероприятий в школе.",
+        "Иш-чаралардын афишаларын мектептен көрдүм.",
+        "رأيت ملصقات الفعاليات في المدرسة.",
+        "J'ai vu les affiches des événements à l'école."
+      ]
+    },
+    "afişlerde": {
+      "tr": "Afişlerde etkinlik tarihleri yazıyor.",
+      "values": [
+        "The event dates are written on the posters.",
+        "На афишах указаны даты мероприятий.",
+        "Афишаларда иш-чаралардын даталары жазылган.",
+        "مواعيد الفعاليات مكتوبة على الملصقات.",
+        "Les dates des événements figurent sur les affiches."
+      ]
+    },
+    "uluslararası": {
+      "tr": "Şehirde uluslararası bir festival var.",
+      "values": [
+        "There's an international festival in the city.",
+        "В городе проходит международный фестиваль.",
+        "Шаарда эл аралык фестиваль өтүп жатат.",
+        "هناك مهرجان دولي في المدينة.",
+        "Il y a un festival international en ville."
+      ]
+    },
+    "gaziantep": {
+      "tr": "Gaziantep baklavasıyla ünlüdür.",
+      "values": [
+        "Gaziantep is famous for its baklava.",
+        "Газиантеп славится своей пахлавой.",
+        "Газиантеп баклавасы менен белгилүү.",
+        "تشتهر غازي عنتاب بالبقلاوة.",
+        "Gaziantep est célèbre pour ses baklavas."
+      ]
+    },
+    "dünyası": {
+      "tr": "Türk dünyası festivali düzenleniyor.",
+      "values": [
+        "A festival of the Turkic world is being organized.",
+        "Организуется фестиваль тюркского мира.",
+        "Түрк дүйнөсүнүн фестивалы уюштурулуп жатат.",
+        "يُنظَّم مهرجان العالم التركي.",
+        "Un festival du monde turcique est organisé."
+      ]
+    },
+    "dünya": {
+      "tr": "Dünyanın farklı yerlerinden misafirler geldi.",
+      "values": [
+        "Guests came from different parts of the world.",
+        "Гости приехали из разных уголков мира.",
+        "Дүйнөнүн ар кайсы жеринен коноктор келишти.",
+        "جاء ضيوف من أنحاء مختلفة من العالم.",
+        "Des invités sont venus de différentes régions du monde."
+      ]
+    },
+    "ata": {
+      "tr": "Ata sporlarını tanıtan bir afiş gördüm.",
+      "values": [
+        "I saw a poster about traditional ancestral sports.",
+        "Я увидел афишу традиционных видов спорта.",
+        "Ата-бабалардын спорт түрлөрү тууралуу афиша көрдүм.",
+        "رأيت ملصقًا عن الرياضات التراثية.",
+        "J'ai vu une affiche sur les sports traditionnels."
+      ]
+    },
+    "sporları": {
+      "tr": "Geleneksel sporları öğrenmek istiyorum.",
+      "values": [
+        "I want to learn traditional sports.",
+        "Я хочу узнать о традиционных видах спорта.",
+        "Салттуу спорт түрлөрүн үйрөнгүм келет.",
+        "أريد التعرف إلى الرياضات التقليدية.",
+        "Je veux découvrir les sports traditionnels."
+      ]
+    },
+    "yemekleri": {
+      "tr": "Türk yemeklerini çok seviyorum.",
+      "values": [
+        "I love Turkish food.",
+        "Я очень люблю турецкую кухню.",
+        "Түрк тамактарын абдан жакшы көрөм.",
+        "أحب الأطباق التركية كثيرًا.",
+        "J'aime beaucoup les plats turcs."
+      ]
+    },
+    "24-25": {
+      "tr": "Festival 24-25 Temmuz'da yapılacak.",
+      "values": [
+        "The festival will be held on July 24–25.",
+        "Фестиваль пройдёт 24–25 июля.",
+        "Фестиваль 24–25-июлда өтөт.",
+        "سيقام المهرجان يومي 24 و25 يوليو.",
+        "Le festival aura lieu les 24 et 25 juillet."
+      ]
+    },
+    "temmuz": {
+      "tr": "Temmuz ayında tatile gideceğiz.",
+      "values": [
+        "We'll go on holiday in July.",
+        "В июле мы поедем в отпуск.",
+        "Июлда эс алууга барабыз.",
+        "سنذهب في عطلة في يوليو.",
+        "Nous partirons en vacances en juillet."
+      ]
+    },
+    "12-13": {
+      "tr": "Yarışma 12-13 Eylül'de yapılacak.",
+      "values": [
+        "The competition will take place on September 12–13.",
+        "Соревнование пройдёт 12–13 сентября.",
+        "Мелдеш 12–13-сентябрда өтөт.",
+        "ستُقام المسابقة يومي 12 و13 سبتمبر.",
+        "Le concours aura lieu les 12 et 13 septembre."
+      ]
+    },
+    "bursa": {
+      "tr": "Bursa'ya hafta sonu gideceğiz.",
+      "values": [
+        "We're going to Bursa this weekend.",
+        "На выходных мы поедем в Бурсу.",
+        "Дем алышта Бурсага барабыз.",
+        "سنذهب إلى بورصة في عطلة نهاية الأسبوع.",
+        "Nous irons à Bursa ce week-end."
+      ]
+    },
+    "no": {
+      "tr": "Telefon numaranızı yazın.",
+      "values": [
+        "Write your phone number.",
+        "Напишите свой номер телефона.",
+        "Телефон номериңизди жазыңыз.",
+        "اكتب رقم هاتفك.",
+        "Écrivez votre numéro de téléphone."
+      ]
+    },
+    "0850": {
+      "tr": "Telefon numarası 0850 ile başlıyor.",
+      "values": [
+        "The phone number starts with 0850.",
+        "Номер телефона начинается с 0850.",
+        "Телефон номери 0850 менен башталат.",
+        "يبدأ رقم الهاتف بـ 0850.",
+        "Le numéro de téléphone commence par 0850."
+      ]
+    },
+    "baklava": {
+      "tr": "Gaziantep'te baklava yedik.",
+      "values": [
+        "We ate baklava in Gaziantep.",
+        "Мы ели пахлаву в Газиантепе.",
+        "Газиантепте баклава жедик.",
+        "أكلنا البقلاوة في غازي عنتاب.",
+        "Nous avons mangé des baklavas à Gaziantep."
+      ]
+    },
+    "konya": {
+      "tr": "Konya'da bir etkinliğe katıldım.",
+      "values": [
+        "I attended an event in Konya.",
+        "Я участвовал в мероприятии в Конье.",
+        "Коньяда бир иш-чарага катыштым.",
+        "شاركت في فعالية في قونية.",
+        "J'ai participé à un événement à Konya."
+      ]
+    },
+    "imam": {
+      "tr": "İmam camide konuşma yaptı.",
+      "values": [
+        "The imam gave a talk at the mosque.",
+        "Имам выступил в мечети.",
+        "Имам мечитте сөз сүйлөдү.",
+        "ألقى الإمام كلمة في المسجد.",
+        "L'imam a prononcé un discours à la mosquée."
+      ]
+    },
+    "hatip": {
+      "tr": "Hatip törende konuşma yaptı.",
+      "values": [
+        "The speaker gave a speech at the ceremony.",
+        "Оратор выступил на церемонии.",
+        "Чечен аземде сөз сүйлөдү.",
+        "ألقى الخطيب كلمة في الحفل.",
+        "L'orateur a pris la parole lors de la cérémonie."
+      ]
+    },
+    "okulu": {
+      "tr": "Okulu bu yıl bitireceğim.",
+      "values": [
+        "I'll finish school this year.",
+        "В этом году я закончу школу.",
+        "Быйыл мектепти бүтүрөм.",
+        "سأنهي المدرسة هذا العام.",
+        "Je terminerai l'école cette année."
+      ]
+    },
+    "fidan": {
+      "tr": "Bahçeye bir fidan diktik.",
+      "values": [
+        "We planted a sapling in the garden.",
+        "Мы посадили саженец в саду.",
+        "Бакчага көчөт отургуздук.",
+        "زرعنا شتلة في الحديقة.",
+        "Nous avons planté un jeune arbre dans le jardin."
+      ]
+    },
+    "dikme": {
+      "tr": "Fidan dikme etkinliğine katıldım.",
+      "values": [
+        "I attended a tree-planting event.",
+        "Я участвовал в посадке деревьев.",
+        "Көчөт отургузуу иш-чарасына катыштым.",
+        "شاركت في فعالية غرس الأشجار.",
+        "J'ai participé à une activité de plantation d'arbres."
+      ]
+    },
+    "şenliği": {
+      "tr": "Okulun bahar şenliği yarın.",
+      "values": [
+        "The school's spring festival is tomorrow.",
+        "Школьный весенний праздник завтра.",
+        "Мектептин жаз майрамы эртең.",
+        "مهرجان الربيع المدرسي غدًا.",
+        "La fête du printemps de l'école est demain."
+      ]
+    },
+    "haziran": {
+      "tr": "Haziran ayında okullar kapanıyor.",
+      "values": [
+        "Schools close in June.",
+        "В июне заканчиваются занятия в школах.",
+        "Июнда мектептер жабылат.",
+        "تنتهي الدراسة في المدارس في يونيو.",
+        "Les écoles ferment en juin."
+      ]
+    },
+    "12.00": {
+      "tr": "Şenlik saat 12.00'de başlayacak.",
+      "values": [
+        "The festival starts at noon.",
+        "Праздник начнётся в полдень.",
+        "Майрам саат 12:00дө башталат.",
+        "سيبدأ المهرجان الساعة الثانية عشرة ظهرًا.",
+        "La fête commencera à midi."
       ]
     }
   },
