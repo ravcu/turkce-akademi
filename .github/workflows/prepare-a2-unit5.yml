@@ -20,7 +20,9 @@ jobs:
           sudo apt-get update
           sudo apt-get install -y tesseract-ocr-tur python3-pil
       - name: Build coordinates and coverage report
-        run: python3 tools/prepare_a2_unit5.py
+        run: |
+          git pull --ff-only origin main
+          python3 tools/prepare_a2_unit5.py
       - name: Save generated unit data
         run: |
           git config user.name "github-actions[bot]"
@@ -28,5 +30,5 @@ jobs:
           git add kitaplar/lise-a2/dedemin-meslegi/pages.json kitaplar/lise-a2/dedemin-meslegi/coverage.json kitaplar/lise-a2/dedemin-meslegi/translations.json
           git diff --cached --quiet && exit 0
           git commit -m "Generate A2 unit 5 Turkish word coordinates"
-          git pull --rebase origin main
+          git pull --rebase -X theirs origin main
           git push
