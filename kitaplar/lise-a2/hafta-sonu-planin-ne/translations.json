@@ -189,6 +189,13 @@
       "خمسة وأربعون",
       "quarante-cinq"
     ],
+    "46": [
+      "forty-six",
+      "сорок шесть",
+      "кырк алты",
+      "ستة وأربعون",
+      "quarante-six"
+    ],
     "50": [
       "fifty",
       "пятьдесят",
@@ -6229,6 +6236,314 @@
       "саат 12:00; түш",
       "الساعة الثانية عشرة ظهرًا",
       "midi; 12 h"
+    ],
+    "şenlikte": [
+      "at the festival",
+      "на празднике",
+      "майрамда",
+      "في المهرجان",
+      "à la fête"
+    ],
+    "işaret": [
+      "mark; sign",
+      "знак; отметка",
+      "белги",
+      "علامة",
+      "marque; signe"
+    ],
+    "leyin": [
+      "mark (split fragment of işaretleyin)",
+      "отметьте (часть слова)",
+      "белгилегиле (сөздүн бөлүгү)",
+      "ضعوا علامة (جزء كلمة)",
+      "cochez (fragment)"
+    ],
+    "s.018": [
+      "audio recording S.018",
+      "аудиозапись S.018",
+      "S.018 аудио жазуусу",
+      "التسجيل الصوتي S.018",
+      "enregistrement audio S.018"
+    ],
+    "konuşmacı": [
+      "speaker",
+      "докладчик; выступающий",
+      "баяндамачы",
+      "متحدث",
+      "intervenant"
+    ],
+    "şenlik": [
+      "festival; celebration",
+      "праздник; фестиваль",
+      "майрам; фестиваль",
+      "مهرجان",
+      "fête; festival"
+    ],
+    "ikramı": [
+      "refreshments; offering",
+      "угощение",
+      "даам таттыруу",
+      "ضيافة؛ تقديم الطعام",
+      "collation offerte"
+    ],
+    "mangala": [
+      "mangala (traditional strategy game)",
+      "мангала (традиционная игра)",
+      "мангала (салттуу оюн)",
+      "مانغالا (لعبة تقليدية)",
+      "mangala (jeu traditionnel)"
+    ],
+    "oyunu": [
+      "game; the game",
+      "игру; игра",
+      "оюну; оюнду",
+      "اللعبة",
+      "le jeu"
+    ],
+    "şenliğe": [
+      "to the festival",
+      "на праздник",
+      "майрамга",
+      "إلى المهرجان",
+      "à la fête"
+    ],
+    "gökbörü": [
+      "gökbörü (traditional horseback sport)",
+      "кок-бору (конная игра)",
+      "көк бөрү",
+      "كوك بورو (رياضة فروسية تقليدية)",
+      "kök-börü (sport équestre traditionnel)"
+    ],
+    "tarifleri": [
+      "recipes",
+      "рецепты",
+      "рецепттер",
+      "وصفات",
+      "recettes"
+    ],
+    "mevlana": [
+      "Mevlana (Rumi)",
+      "Мевляна (Руми)",
+      "Мевлана (Руми)",
+      "مولانا جلال الدين الرومي",
+      "Mevlana (Rûmî)"
+    ],
+    "müzesi": [
+      "museum; its museum",
+      "музей",
+      "музейи",
+      "متحف",
+      "musée"
+    ],
+    "gezisi": [
+      "trip; tour",
+      "экскурсия",
+      "экскурсия; саякат",
+      "جولة؛ رحلة",
+      "visite; excursion"
+    ],
+    "etkinliği": [
+      "activity; event",
+      "мероприятие",
+      "иш-чарасы",
+      "فعالية",
+      "activité"
+    ],
+    "güreş": [
+      "wrestling",
+      "борьба",
+      "күрөш",
+      "مصارعة",
+      "lutte"
+    ],
+    "halk": [
+      "people; folk",
+      "народ",
+      "эл",
+      "شعب",
+      "peuple"
+    ],
+    "oyunları": [
+      "games; dances",
+      "игры; танцы",
+      "оюндар; бийлер",
+      "ألعاب؛ رقصات",
+      "jeux; danses"
+    ],
+    "gösterisi": [
+      "performance; show",
+      "представление; показ",
+      "көрсөтүү",
+      "عرض",
+      "spectacle; démonstration"
+    ],
+    "okçuluk": [
+      "archery",
+      "стрельба из лука",
+      "жаа атуу",
+      "الرماية بالقوس",
+      "tir à l'arc"
+    ],
+    "insanlara": [
+      "to people",
+      "людям",
+      "адамдарга",
+      "للناس",
+      "aux gens"
+    ],
+    "gitmelerini": [
+      "their going; that they go",
+      "чтобы они пошли",
+      "алардын барышын",
+      "أن يذهبوا",
+      "qu'ils y aillent"
+    ],
+    "tavsiye": [
+      "recommendation; advice",
+      "совет; рекомендация",
+      "кеңеш; сунуш",
+      "نصيحة؛ توصية",
+      "conseil; recommandation"
+    ],
+    "edersiniz": [
+      "you do (polite/plural)",
+      "вы делаете",
+      "кыласыздар",
+      "تفعلون",
+      "vous faites"
+    ],
+    "eğitimi": [
+      "training; education",
+      "обучение",
+      "окутуу; машыгуу",
+      "تدريب؛ تعليم",
+      "formation"
+    ],
+    "alacağım": [
+      "I will take; receive",
+      "я возьму; получу",
+      "алам",
+      "سآخذ؛ سأتلقى",
+      "je prendrai; je recevrai"
+    ],
+    "doğayı": [
+      "nature (object)",
+      "природу",
+      "жаратылышты",
+      "الطبيعة",
+      "la nature"
+    ],
+    "seviyorum": [
+      "I love; I like",
+      "я люблю",
+      "жакшы көрөм",
+      "أحب",
+      "j'aime"
+    ],
+    "müzeleri": [
+      "museums (object)",
+      "музеи",
+      "музейлерди",
+      "المتاحف",
+      "les musées"
+    ],
+    "gezmeyi": [
+      "visiting; sightseeing",
+      "гулять; посещать",
+      "кыдырууну",
+      "التجول؛ الزيارة",
+      "visiter; se promener"
+    ],
+    "geleneksel": [
+      "traditional",
+      "традиционный",
+      "салттуу",
+      "تقليدي",
+      "traditionnel"
+    ],
+    "sporlar": [
+      "sports",
+      "виды спорта",
+      "спорт түрлөрү",
+      "رياضات",
+      "sports"
+    ],
+    "ilgimi": [
+      "my interest",
+      "мой интерес",
+      "кызыгуумду",
+      "اهتمامي",
+      "mon intérêt"
+    ],
+    "çekiyor": [
+      "attracts; draws",
+      "привлекает",
+      "тартат",
+      "يجذب",
+      "attire"
+    ],
+    "farklı": [
+      "different",
+      "разный; другой",
+      "ар түрдүү; башка",
+      "مختلف",
+      "différent"
+    ],
+    "kültürlerin": [
+      "of cultures",
+      "культур",
+      "маданияттардын",
+      "للثقافات",
+      "des cultures"
+    ],
+    "müziklerini": [
+      "their music (object)",
+      "их музыку",
+      "музыкаларын",
+      "موسيقاهم",
+      "leurs musiques"
+    ],
+    "dinlemeyi": [
+      "listening (object)",
+      "слушать",
+      "угууну",
+      "الاستماع",
+      "écouter"
+    ],
+    "katılmak": [
+      "to attend; participate",
+      "участвовать",
+      "катышуу",
+      "المشاركة",
+      "participer"
+    ],
+    "tür": [
+      "type; kind",
+      "вид; тип",
+      "түр",
+      "نوع",
+      "type; sorte"
+    ],
+    "şenlikler": [
+      "festivals",
+      "праздники; фестивали",
+      "майрамдар; фестивалдар",
+      "مهرجانات",
+      "fêtes; festivals"
+    ],
+    "şenliklerde": [
+      "at festivals",
+      "на праздниках",
+      "майрамдарда",
+      "في المهرجانات",
+      "aux festivals"
+    ],
+    "yapılmaktadır": [
+      "is being done; is held",
+      "проводится; делается",
+      "өткөрүлүүдө; жасалууда",
+      "يُقام؛ يُنفَّذ",
+      "est organisé; se fait"
     ]
   },
   "phrases": {
@@ -8797,6 +9112,16 @@
         "Кырк бешинчи бетти ачкыла.",
         "افتحوا الصفحة الخامسة والأربعين.",
         "Ouvrez la page quarante-cinq."
+      ]
+    },
+    "46": {
+      "tr": "Kırk altıncı sayfayı açın.",
+      "values": [
+        "Open page forty-six.",
+        "Откройте сорок шестую страницу.",
+        "Кырк алтынчы бетти ачкыла.",
+        "افتحوا الصفحة السادسة والأربعين.",
+        "Ouvrez la page quarante-six."
       ]
     },
     "50": {
@@ -17107,6 +17432,446 @@
         "Майрам саат 12:00дө башталат.",
         "سيبدأ المهرجان الساعة الثانية عشرة ظهرًا.",
         "La fête commencera à midi."
+      ]
+    },
+    "şenlikte": {
+      "tr": "Şenlikte arkadaşlarımla buluştum.",
+      "values": [
+        "I met my friends at the festival.",
+        "Я встретился с друзьями на празднике.",
+        "Майрамда досторум менен жолугуштум.",
+        "التقيت بأصدقائي في المهرجان.",
+        "J'ai retrouvé mes amis à la fête."
+      ]
+    },
+    "işaret": {
+      "tr": "Doğru cevaba işaret koy.",
+      "values": [
+        "Put a mark next to the correct answer.",
+        "Поставь отметку рядом с правильным ответом.",
+        "Туура жоопко белги кой.",
+        "ضع علامة بجانب الإجابة الصحيحة.",
+        "Mets une marque à côté de la bonne réponse."
+      ]
+    },
+    "leyin": {
+      "tr": "Doğru cevapları işaretleyin.",
+      "values": [
+        "Mark the correct answers.",
+        "Отметьте правильные ответы.",
+        "Туура жоопторду белгилегиле.",
+        "حددوا الإجابات الصحيحة.",
+        "Cochez les bonnes réponses."
+      ]
+    },
+    "s.018": {
+      "tr": "S.018 kaydını dinleyin.",
+      "values": [
+        "Listen to recording S.018.",
+        "Прослушайте запись S.018.",
+        "S.018 жазуусун уккула.",
+        "استمعوا إلى التسجيل S.018.",
+        "Écoutez l'enregistrement S.018."
+      ]
+    },
+    "konuşmacı": {
+      "tr": "Konuşmacı festivali tanıttı.",
+      "values": [
+        "The speaker introduced the festival.",
+        "Докладчик рассказал о фестивале.",
+        "Баяндамачы фестиваль жөнүндө айтып берди.",
+        "قدّم المتحدث المهرجان.",
+        "L'intervenant a présenté le festival."
+      ]
+    },
+    "şenlik": {
+      "tr": "Şenlik cumartesi günü yapılacak.",
+      "values": [
+        "The festival will take place on Saturday.",
+        "Праздник состоится в субботу.",
+        "Майрам ишембиде өтөт.",
+        "سيقام المهرجان يوم السبت.",
+        "La fête aura lieu samedi."
+      ]
+    },
+    "ikramı": {
+      "tr": "Şenlikte yemek ikramı olacak.",
+      "values": [
+        "Food will be served at the festival.",
+        "На празднике будут угощать едой.",
+        "Майрамда тамак берилет.",
+        "سيُقدَّم الطعام في المهرجان.",
+        "Un repas sera offert pendant la fête."
+      ]
+    },
+    "mangala": {
+      "tr": "Arkadaşlarımla mangala oynadım.",
+      "values": [
+        "I played mangala with my friends.",
+        "Я играл в мангалу с друзьями.",
+        "Досторум менен мангала ойнодум.",
+        "لعبت المانغالا مع أصدقائي.",
+        "J'ai joué au mangala avec mes amis."
+      ]
+    },
+    "oyunu": {
+      "tr": "Mangala oyunu çok eğlenceli.",
+      "values": [
+        "The game of mangala is very fun.",
+        "Игра мангала очень увлекательная.",
+        "Мангала оюну абдан кызыктуу.",
+        "لعبة المانغالا ممتعة جدًا.",
+        "Le jeu de mangala est très amusant."
+      ]
+    },
+    "şenliğe": {
+      "tr": "Şenliğe ailemle gideceğim.",
+      "values": [
+        "I'll go to the festival with my family.",
+        "Я пойду на праздник с семьёй.",
+        "Майрамга үй-бүлөм менен барам.",
+        "سأذهب إلى المهرجان مع عائلتي.",
+        "J'irai à la fête avec ma famille."
+      ]
+    },
+    "gökbörü": {
+      "tr": "Gökbörü maçını izledik.",
+      "values": [
+        "We watched a gökbörü match.",
+        "Мы смотрели матч по кок-бору.",
+        "Көк бөрү оюнун көрдүк.",
+        "شاهدنا مباراة كوك بورو.",
+        "Nous avons regardé un match de kök-börü."
+      ]
+    },
+    "tarifleri": {
+      "tr": "Yemek tariflerini defterime yazdım.",
+      "values": [
+        "I wrote the recipes in my notebook.",
+        "Я записал рецепты в тетрадь.",
+        "Тамактын рецепттерин дептериме жаздым.",
+        "كتبت وصفات الطعام في دفتري.",
+        "J'ai noté les recettes dans mon cahier."
+      ]
+    },
+    "mevlana": {
+      "tr": "Konya'da Mevlana Müzesi'ni gezdik.",
+      "values": [
+        "We visited the Mevlana Museum in Konya.",
+        "Мы посетили музей Мевляны в Конье.",
+        "Коньядагы Мевлана музейин кыдырдык.",
+        "زرنا متحف مولانا في قونية.",
+        "Nous avons visité le musée de Mevlana à Konya."
+      ]
+    },
+    "müzesi": {
+      "tr": "Şehrin müzesi bugün açık.",
+      "values": [
+        "The city's museum is open today.",
+        "Городской музей сегодня открыт.",
+        "Шаардын музейи бүгүн ачык.",
+        "متحف المدينة مفتوح اليوم.",
+        "Le musée de la ville est ouvert aujourd'hui."
+      ]
+    },
+    "gezisi": {
+      "tr": "Müze gezisi saat onda başlıyor.",
+      "values": [
+        "The museum tour starts at ten.",
+        "Экскурсия в музей начинается в десять.",
+        "Музейге экскурсия саат ондо башталат.",
+        "تبدأ جولة المتحف الساعة العاشرة.",
+        "La visite du musée commence à dix heures."
+      ]
+    },
+    "etkinliği": {
+      "tr": "Fidan dikme etkinliği yarın.",
+      "values": [
+        "The tree-planting event is tomorrow.",
+        "Посадка деревьев состоится завтра.",
+        "Көчөт отургузуу иш-чарасы эртең болот.",
+        "فعالية غرس الأشجار غدًا.",
+        "L'activité de plantation d'arbres a lieu demain."
+      ]
+    },
+    "güreş": {
+      "tr": "Şenlikte güreş gösterisi izledik.",
+      "values": [
+        "We watched a wrestling demonstration at the festival.",
+        "Мы посмотрели выступление борцов на празднике.",
+        "Майрамда күрөш көрсөтүүсүн көрдүк.",
+        "شاهدنا عرضًا للمصارعة في المهرجان.",
+        "Nous avons regardé une démonstration de lutte à la fête."
+      ]
+    },
+    "halk": {
+      "tr": "Halk oyunları gösterisi başladı.",
+      "values": [
+        "The folk dance show has started.",
+        "Началось выступление народных танцев.",
+        "Элдик бийлер көрсөтүүсү башталды.",
+        "بدأ عرض الرقصات الشعبية.",
+        "Le spectacle de danses folkloriques a commencé."
+      ]
+    },
+    "oyunları": {
+      "tr": "Halk oyunları öğreniyorum.",
+      "values": [
+        "I'm learning folk dances.",
+        "Я учусь народным танцам.",
+        "Элдик бийлерди үйрөнүп жатам.",
+        "أتعلم الرقصات الشعبية.",
+        "J'apprends les danses folkloriques."
+      ]
+    },
+    "gösterisi": {
+      "tr": "Okçuluk gösterisi çok güzeldi.",
+      "values": [
+        "The archery demonstration was great.",
+        "Показательные выступления по стрельбе из лука были отличными.",
+        "Жаа атуу көрсөтүүсү абдан сонун болду.",
+        "كان عرض الرماية بالقوس رائعًا.",
+        "La démonstration de tir à l'arc était formidable."
+      ]
+    },
+    "okçuluk": {
+      "tr": "Hafta sonu okçuluk kursuna gidiyorum.",
+      "values": [
+        "I go to an archery course on weekends.",
+        "По выходным я хожу на занятия по стрельбе из лука.",
+        "Дем алышта жаа атуу курсуна барам.",
+        "أذهب إلى دورة الرماية بالقوس في عطلة نهاية الأسبوع.",
+        "Je suis des cours de tir à l'arc le week-end."
+      ]
+    },
+    "insanlara": {
+      "tr": "İnsanlara yardım etmeyi seviyorum.",
+      "values": [
+        "I like helping people.",
+        "Мне нравится помогать людям.",
+        "Адамдарга жардам бергенди жакшы көрөм.",
+        "أحب مساعدة الناس.",
+        "J'aime aider les gens."
+      ]
+    },
+    "gitmelerini": {
+      "tr": "Arkadaşlarıma festivale gitmelerini önerdim.",
+      "values": [
+        "I suggested my friends go to the festival.",
+        "Я предложил друзьям сходить на фестиваль.",
+        "Досторума фестивалга барууну сунуштадым.",
+        "اقترحت على أصدقائي الذهاب إلى المهرجان.",
+        "J'ai conseillé à mes amis d'aller au festival."
+      ]
+    },
+    "tavsiye": {
+      "tr": "Sana bu şenliği tavsiye ederim.",
+      "values": [
+        "I recommend this festival to you.",
+        "Я советую тебе этот фестиваль.",
+        "Сага бул майрамды сунуштайм.",
+        "أنصحك بهذا المهرجان.",
+        "Je te recommande ce festival."
+      ]
+    },
+    "edersiniz": {
+      "tr": "Hangi şenliği tavsiye edersiniz?",
+      "values": [
+        "Which festival do you recommend?",
+        "Какой фестиваль вы посоветуете?",
+        "Кайсы майрамды сунуштайсыздар?",
+        "أي مهرجان تنصحون به؟",
+        "Quel festival recommandez-vous ?"
+      ]
+    },
+    "eğitimi": {
+      "tr": "Okçuluk eğitimi alıyorum.",
+      "values": [
+        "I'm taking archery lessons.",
+        "Я занимаюсь стрельбой из лука.",
+        "Жаа атуу боюнча машыгып жатам.",
+        "أتلقى تدريبًا على الرماية بالقوس.",
+        "Je suis une formation de tir à l'arc."
+      ]
+    },
+    "alacağım": {
+      "tr": "Yarın ilk okçuluk dersimi alacağım.",
+      "values": [
+        "I'll have my first archery lesson tomorrow.",
+        "Завтра у меня будет первый урок стрельбы из лука.",
+        "Эртең биринчи жаа атуу сабагымды алам.",
+        "سأتلقى أول درس في الرماية بالقوس غدًا.",
+        "Je prendrai mon premier cours de tir à l'arc demain."
+      ]
+    },
+    "doğayı": {
+      "tr": "Doğayı korumak istiyorum.",
+      "values": [
+        "I want to protect nature.",
+        "Я хочу защищать природу.",
+        "Жаратылышты коргогум келет.",
+        "أريد حماية الطبيعة.",
+        "Je veux protéger la nature."
+      ]
+    },
+    "seviyorum": {
+      "tr": "Doğayı çok seviyorum.",
+      "values": [
+        "I love nature.",
+        "Я очень люблю природу.",
+        "Жаратылышты абдан жакшы көрөм.",
+        "أحب الطبيعة كثيرًا.",
+        "J'aime beaucoup la nature."
+      ]
+    },
+    "müzeleri": {
+      "tr": "Yeni şehirlerde müzeleri gezerim.",
+      "values": [
+        "I visit museums in new cities.",
+        "В новых городах я посещаю музеи.",
+        "Жаңы шаарларда музейлерди кыдырам.",
+        "أزور المتاحف في المدن الجديدة.",
+        "Je visite les musées dans les villes que je découvre."
+      ]
+    },
+    "gezmeyi": {
+      "tr": "Müzeleri gezmeyi seviyorum.",
+      "values": [
+        "I like visiting museums.",
+        "Я люблю посещать музеи.",
+        "Музейлерди кыдырууну жакшы көрөм.",
+        "أحب زيارة المتاحف.",
+        "J'aime visiter les musées."
+      ]
+    },
+    "geleneksel": {
+      "tr": "Geleneksel sporları öğreniyorum.",
+      "values": [
+        "I'm learning about traditional sports.",
+        "Я изучаю традиционные виды спорта.",
+        "Салттуу спорт түрлөрүн үйрөнүп жатам.",
+        "أتعرف إلى الرياضات التقليدية.",
+        "Je découvre les sports traditionnels."
+      ]
+    },
+    "sporlar": {
+      "tr": "Geleneksel sporlar ilgimi çekiyor.",
+      "values": [
+        "Traditional sports interest me.",
+        "Мне интересны традиционные виды спорта.",
+        "Салттуу спорт түрлөрү мени кызыктырат.",
+        "تثير الرياضات التقليدية اهتمامي.",
+        "Les sports traditionnels m'intéressent."
+      ]
+    },
+    "ilgimi": {
+      "tr": "Okçuluk ilgimi çekiyor.",
+      "values": [
+        "Archery interests me.",
+        "Меня интересует стрельба из лука.",
+        "Жаа атуу мени кызыктырат.",
+        "تثير الرماية بالقوس اهتمامي.",
+        "Le tir à l'arc m'intéresse."
+      ]
+    },
+    "çekiyor": {
+      "tr": "Bu festival ilgimi çekiyor.",
+      "values": [
+        "This festival interests me.",
+        "Этот фестиваль меня интересует.",
+        "Бул фестиваль мени кызыктырат.",
+        "يثير هذا المهرجان اهتمامي.",
+        "Ce festival m'intéresse."
+      ]
+    },
+    "farklı": {
+      "tr": "Farklı kültürleri tanımak istiyorum.",
+      "values": [
+        "I want to learn about different cultures.",
+        "Я хочу познакомиться с разными культурами.",
+        "Ар түрдүү маданияттарды тааныгым келет.",
+        "أريد التعرف إلى ثقافات مختلفة.",
+        "Je veux découvrir différentes cultures."
+      ]
+    },
+    "kültürlerin": {
+      "tr": "Farklı kültürlerin müziklerini dinliyorum.",
+      "values": [
+        "I listen to music from different cultures.",
+        "Я слушаю музыку разных культур.",
+        "Ар түрдүү маданияттардын музыкаларын угам.",
+        "أستمع إلى موسيقى ثقافات مختلفة.",
+        "J'écoute des musiques de différentes cultures."
+      ]
+    },
+    "müziklerini": {
+      "tr": "Farklı ülkelerin müziklerini seviyorum.",
+      "values": [
+        "I like music from different countries.",
+        "Мне нравится музыка разных стран.",
+        "Ар кайсы өлкөлөрдүн музыкаларын жакшы көрөм.",
+        "أحب موسيقى البلدان المختلفة.",
+        "J'aime les musiques de différents pays."
+      ]
+    },
+    "dinlemeyi": {
+      "tr": "Canlı müzik dinlemeyi seviyorum.",
+      "values": [
+        "I like listening to live music.",
+        "Я люблю слушать живую музыку.",
+        "Жандуу музыка угууну жакшы көрөм.",
+        "أحب الاستماع إلى الموسيقى الحية.",
+        "J'aime écouter de la musique en direct."
+      ]
+    },
+    "katılmak": {
+      "tr": "Şenliğe katılmak istiyorum.",
+      "values": [
+        "I want to attend the festival.",
+        "Я хочу пойти на фестиваль.",
+        "Майрамга катышкым келет.",
+        "أريد المشاركة في المهرجان.",
+        "Je veux participer au festival."
+      ]
+    },
+    "tür": {
+      "tr": "Ne tür müzik seversin?",
+      "values": [
+        "What kind of music do you like?",
+        "Какую музыку ты любишь?",
+        "Кандай музыка жактырасың?",
+        "ما نوع الموسيقى التي تحبها؟",
+        "Quel genre de musique aimes-tu ?"
+      ]
+    },
+    "şenlikler": {
+      "tr": "Yazın şehirde birçok şenlik var.",
+      "values": [
+        "There are many festivals in the city in summer.",
+        "Летом в городе проходит много фестивалей.",
+        "Жайында шаарда көп фестиваль болот.",
+        "تقام مهرجانات كثيرة في المدينة صيفًا.",
+        "Il y a beaucoup de festivals en ville en été."
+      ]
+    },
+    "şenliklerde": {
+      "tr": "Şenliklerde yöresel yemekler sunulur.",
+      "values": [
+        "Local dishes are served at festivals.",
+        "На праздниках подают местные блюда.",
+        "Майрамдарда жергиликтүү тамактар берилет.",
+        "تُقدَّم أطباق محلية في المهرجانات.",
+        "Des plats locaux sont servis lors des festivals."
+      ]
+    },
+    "yapılmaktadır": {
+      "tr": "Bu şenlik her yıl yapılmaktadır.",
+      "values": [
+        "This festival is held every year.",
+        "Этот фестиваль проводится каждый год.",
+        "Бул майрам жыл сайын өткөрүлөт.",
+        "يُقام هذا المهرجان كل عام.",
+        "Ce festival est organisé chaque année."
       ]
     }
   },
