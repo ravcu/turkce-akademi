@@ -23112,29 +23112,29 @@
       ]
     },
     "yıldızlar": {
-      "lemma": "yıldız",
+      "lemma": "Yıldızlar",
       "lemmaTranslations": [
-        "star",
-        "звезда",
-        "жылдыз",
-        "نجمة",
-        "étoile"
+        "Yıldızlar (venue name)",
+        "Йылдызлар (название зала)",
+        "Йылдызлар (тойкананын аталышы)",
+        "يلدزلار (اسم القاعة)",
+        "Yıldızlar (nom de la salle)"
       ],
       "formTranslations": [
-        "stars",
-        "звёзды",
-        "жылдыздар",
-        "نجوم",
-        "étoiles"
+        "Yıldızlar (venue name)",
+        "Йылдызлар (название зала)",
+        "Йылдызлар (тойкананын аталышы)",
+        "يلدزلار (اسم القاعة)",
+        "Yıldızlar (nom de la salle)"
       ],
       "lemmaType": "noun",
-      "exampleTr": "Bu gece yıldızlar çok parlak.",
+      "exampleTr": "Yıldızlar Düğün Salonu'nda buluşacağız.",
       "examples": [
-        "The stars are very bright tonight.",
-        "Сегодня звёзды очень яркие.",
-        "Бүгүн түнү жылдыздар абдан жарык.",
-        "النجوم ساطعة جدًا هذه الليلة.",
-        "Les étoiles brillent beaucoup ce soir."
+        "We'll meet at Yıldızlar Wedding Hall.",
+        "Мы встретимся в свадебном зале «Йылдызлар».",
+        "«Йылдызлар» тойканасында жолугабыз.",
+        "سنلتقي في قاعة يلدزلار للأفراح.",
+        "Nous nous retrouverons à la salle des fêtes Yıldızlar."
       ]
     },
     "filmini": {
@@ -24695,6 +24695,32 @@
         "Чакыруу баракчасына датаны жазууну унутпагыла.",
         "لا تنسوا كتابة التاريخ على بطاقة الدعوة.",
         "N'oubliez pas d'écrire la date sur l'invitation."
+      ]
+    },
+    "benim": {
+      "lemma": "ben",
+      "lemmaTranslations": [
+        "my; mine",
+        "мой; моя; моё",
+        "менин",
+        "لي؛ خاصتي",
+        "mon; ma; mes"
+      ],
+      "formTranslations": [
+        "my; mine",
+        "мой; моя; моё",
+        "менин",
+        "لي؛ خاصتي",
+        "mon; ma; mes"
+      ],
+      "lemmaType": "noun",
+      "exampleTr": "Benim adım Reyhan.",
+      "examples": [
+        "My name is Reyhan.",
+        "Меня зовут Рейхан.",
+        "Менин атым Рейхан.",
+        "اسمي ريحان.",
+        "Je m'appelle Reyhan."
       ]
     }
   },
