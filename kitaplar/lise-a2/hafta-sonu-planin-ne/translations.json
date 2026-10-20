@@ -3220,7 +3220,13 @@
     },
     "34": {
       "tr": "Kitabın otuz dördüncü sayfasını aç.",
-      "values": []
+      "values": [
+        "Open page thirty-four of the book.",
+        "Откройте тридцать четвёртую страницу книги.",
+        "Китептин отуз төртүнчү бетин ачкыла.",
+        "افتحوا الصفحة الرابعة والثلاثين من الكتاب.",
+        "Ouvrez la page trente-quatre du livre."
+      ]
     },
     "ünite": {
       "tr": "Bu ünitede hafta sonu planlarını öğreniyoruz.",
@@ -5874,95 +5880,263 @@
     },
     "katılacaklar": {
       "tr": "Arkadaşlarım festivale katılacaklar.",
-      "values": []
+      "values": [
+        "My friends will attend the festival.",
+        "Мои друзья примут участие в фестивале.",
+        "Досторум фестивалга катышат.",
+        "سيشارك أصدقائي في المهرجان.",
+        "Mes amis participeront au festival."
+      ]
     },
     "veya": {
       "tr": "Çay veya kahve ister misin?",
-      "values": []
+      "values": [
+        "Would you like tea or coffee?",
+        "Ты хочешь чай или кофе?",
+        "Чай же кофе ичесиңби?",
+        "هل تريد شايًا أم قهوة؟",
+        "Tu veux du thé ou du café ?"
+      ]
     },
     "sebeplerini": {
       "tr": "Sebeplerini açıklayın.",
-      "values": []
+      "values": [
+        "Explain your reasons.",
+        "Объясните свои причины.",
+        "Себептериңерди түшүндүргүлө.",
+        "اشرحوا أسبابكم.",
+        "Expliquez vos raisons."
+      ]
     },
     "yazın": {
       "tr": "Cevapları deftere yazın.",
-      "values": []
+      "values": [
+        "Write the answers in your notebook.",
+        "Запишите ответы в тетрадь.",
+        "Жоопторду дептерге жазгыла.",
+        "اكتبوا الإجابات في الدفتر.",
+        "Écrivez les réponses dans votre cahier."
+      ]
     },
     "planı": {
       "tr": "Etkinlik planı hazırladım.",
-      "values": []
+      "values": [
+        "I prepared an activity plan.",
+        "Я подготовил план мероприятия.",
+        "Мен иш-чаранын планын даярдадым.",
+        "أعددت خطة للفعالية.",
+        "J'ai préparé le programme de l'activité."
+      ]
     },
     "yapın": {
       "tr": "Bir plan yapın.",
-      "values": []
+      "values": [
+        "Make a plan.",
+        "Составьте план.",
+        "План түзгүлө.",
+        "ضعوا خطة.",
+        "Faites un programme."
+      ]
     },
     "planınızı": {
       "tr": "Planınızı arkadaşınıza anlatın.",
-      "values": []
+      "values": [
+        "Tell your friend about your plan.",
+        "Расскажите другу о своём плане.",
+        "Планыңарды досуңарга айтып бергиле.",
+        "حدثوا صديقكم عن خطتكم.",
+        "Expliquez votre programme à votre ami."
+      ]
     },
     "anlatın": {
       "tr": "Planınızı anlatın.",
-      "values": []
+      "values": [
+        "Tell us about your plan.",
+        "Расскажите о своём плане.",
+        "Планыңар жөнүндө айтып бергиле.",
+        "حدثونا عن خطتكم.",
+        "Présentez votre programme."
+      ]
     },
     "etkinliğin": {
       "tr": "Etkinliğin adı ne?",
-      "values": []
+      "values": [
+        "What is the name of the event?",
+        "Как называется мероприятие?",
+        "Иш-чаранын аты кандай?",
+        "ما اسم الفعالية؟",
+        "Comment s'appelle l'activité ?"
+      ]
     },
     "adı": {
       "tr": "Filmin adı ne?",
-      "values": []
+      "values": [
+        "What is the name of the film?",
+        "Как называется фильм?",
+        "Тасманын аты кандай?",
+        "ما اسم الفيلم؟",
+        "Comment s'appelle le film ?"
+      ]
     },
     "tarihi/zamanı": {
       "tr": "Etkinliğin tarihini yazın.",
-      "values": []
+      "values": [
+        "Write the date of the event.",
+        "Напишите дату мероприятия.",
+        "Иш-чаранын күнүн жазгыла.",
+        "اكتبوا تاريخ الفعالية.",
+        "Écrivez la date de l'activité."
+      ]
     },
     "saati": {
       "tr": "Etkinliğin saati belli.",
-      "values": []
+      "values": [
+        "The time of the event has been set.",
+        "Время мероприятия уже известно.",
+        "Иш-чаранын сааты белгилүү.",
+        "موعد الفعالية معروف.",
+        "L'heure de l'activité est fixée."
+      ]
     },
     "yeri": {
       "tr": "Buluşma yeri neresi?",
-      "values": []
+      "values": [
+        "Where is the meeting place?",
+        "Где место встречи?",
+        "Жолугушуучу жер кайда?",
+        "أين مكان اللقاء؟",
+        "Où est le lieu de rendez-vous ?"
+      ]
     },
     "katılımcılar": {
       "tr": "Katılımcılar salonda bekliyor.",
-      "values": []
+      "values": [
+        "The participants are waiting in the hall.",
+        "Участники ждут в зале.",
+        "Катышуучулар залда күтүп жатышат.",
+        "ينتظر المشاركون في القاعة.",
+        "Les participants attendent dans la salle."
+      ]
     },
     "arkadaşınızla": {
       "tr": "Arkadaşınızla konuşun.",
-      "values": []
+      "values": [
+        "Talk to your friend.",
+        "Поговорите со своим другом.",
+        "Досуңар менен сүйлөшкүлө.",
+        "تحدثوا مع صديقكم.",
+        "Parlez avec votre ami."
+      ]
     },
     "eşleşin": {
       "tr": "Arkadaşınızla eşleşin.",
-      "values": []
+      "values": [
+        "Pair up with a classmate.",
+        "Объединитесь в пары с одноклассником.",
+        "Классташыңар менен жуп түзгүлө.",
+        "كوّنوا أزواجًا مع زملائكم.",
+        "Mettez-vous par deux avec un camarade."
+      ]
     },
     "onu": {
       "tr": "Onu festivale davet edin.",
-      "values": []
+      "values": [
+        "Invite him to the festival.",
+        "Пригласите его на фестиваль.",
+        "Аны фестивалга чакыргыла.",
+        "ادعوه إلى المهرجان.",
+        "Invitez-le au festival."
+      ]
     },
     "etkinliğinize": {
       "tr": "Arkadaşınızı etkinliğinize çağırın.",
-      "values": []
+      "values": [
+        "Invite your friend to your event.",
+        "Пригласите друга на своё мероприятие.",
+        "Досуңарды иш-чараңарга чакыргыла.",
+        "ادعوا صديقكم إلى فعاليتكم.",
+        "Invitez votre ami à votre activité."
+      ]
     },
     "edin": {
       "tr": "Bir arkadaşınızı davet edin.",
-      "values": []
+      "values": [
+        "Invite a friend.",
+        "Пригласите друга.",
+        "Бир досуңарды чакыргыла.",
+        "ادعوا صديقًا.",
+        "Invitez un ami."
+      ]
     },
     "birlikte": {
       "tr": "Birlikte sinemaya gidelim.",
-      "values": []
+      "values": [
+        "Let's go to the cinema together.",
+        "Давай вместе пойдём в кино.",
+        "Киного чогуу баралы.",
+        "لنذهب إلى السينما معًا.",
+        "Allons au cinéma ensemble."
+      ]
     },
     "gidelim/yapalım": {
       "tr": "Hafta sonu birlikte bir şey yapalım.",
-      "values": []
+      "values": [
+        "Let's do something together this weekend.",
+        "Давай что-нибудь сделаем вместе на выходных.",
+        "Дем алышта чогуу бир нерсе кылалы.",
+        "لنفعل شيئًا معًا في عطلة نهاية الأسبوع.",
+        "Faisons quelque chose ensemble ce week-end."
+      ]
     },
     "mi?/yapalım": {
       "tr": "Sinemaya gidelim mi?",
-      "values": []
+      "values": [
+        "Shall we go to the cinema?",
+        "Пойдём в кино?",
+        "Киного баралыбы?",
+        "هل نذهب إلى السينما؟",
+        "On va au cinéma ?"
+      ]
     },
     "olmaz": {
       "tr": "Üzgünüm, bugün olmaz.",
-      "values": []
+      "values": [
+        "Sorry, today doesn't work for me.",
+        "Извини, сегодня не получится.",
+        "Кечир, бүгүн болбойт.",
+        "آسف، لا يناسبني اليوم.",
+        "Désolé, ce n'est pas possible aujourd'hui."
+      ]
+    },
+    "teklif": {
+      "tr": "Sana bir teklifim var.",
+      "values": [
+        "I have a suggestion.",
+        "У меня есть предложение.",
+        "Менин сунушум бар.",
+        "لدي اقتراح.",
+        "J'ai une proposition."
+      ]
+    },
+    "etkinlik": {
+      "tr": "Yarın okulda bir etkinlik var.",
+      "values": [
+        "There is an event at school tomorrow.",
+        "Завтра в школе будет мероприятие.",
+        "Эртең мектепте иш-чара болот.",
+        "ستقام فعالية في المدرسة غدًا.",
+        "Il y a une activité à l'école demain."
+      ]
+    },
+    "davet": {
+      "tr": "Bir davet aldım.",
+      "values": [
+        "I received an invitation.",
+        "Я получил приглашение.",
+        "Мен чакыруу алдым.",
+        "تلقيت دعوة.",
+        "J'ai reçu une invitation."
+      ]
     }
   },
   "forms": {
