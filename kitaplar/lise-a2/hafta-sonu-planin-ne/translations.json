@@ -8196,6 +8196,13 @@
       "упай; баа",
       "نقطة؛ درجة",
       "point ; note"
+    ],
+    "teyzemin": [
+      "of my aunt (maternal); my aunt's",
+      "моей тёти (по матери)",
+      "таежемдин",
+      "لخالتي",
+      "de ma tante maternelle"
     ]
   },
   "phrases": {
@@ -22607,6 +22614,16 @@
         "Видеого бештен төрт упай бердим.",
         "أعطيت الفيديو أربع نقاط من خمس.",
         "J'ai donné quatre points sur cinq à la vidéo."
+      ]
+    },
+    "teyzemin": {
+      "tr": "Hafta sonu teyzemin bebeğini görmeye gideceğim.",
+      "values": [
+        "This weekend, I'm going to see my aunt's baby.",
+        "В выходные я пойду посмотреть на малыша моей тёти.",
+        "Дем алышта таежемдин ымыркайын көргөнү барам.",
+        "سأذهب في عطلة نهاية الأسبوع لرؤية مولود خالتي.",
+        "Ce week-end, j'irai voir le bébé de ma tante maternelle."
       ]
     }
   },
