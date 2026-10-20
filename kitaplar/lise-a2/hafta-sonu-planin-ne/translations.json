@@ -3590,6 +3590,159 @@
         "رأيت ملصق المهرجان السينمائي.",
         "J'ai vu l'affiche du festival de cinéma."
       ]
+    },
+    "kusura bakma": {
+      "translations": [
+        "sorry; excuse me",
+        "извини",
+        "кечир",
+        "اعذرني",
+        "excuse-moi"
+      ],
+      "exampleTr": "Kusura bakma, bugün gelemem.",
+      "examples": [
+        "Sorry, I can't come today.",
+        "Извини, сегодня я не смогу прийти.",
+        "Кечир, бүгүн келе албайм.",
+        "اعذرني، لا أستطيع المجيء اليوم.",
+        "Excuse-moi, je ne peux pas venir aujourd'hui."
+      ]
+    },
+    "teşekkür ederim": {
+      "translations": [
+        "thank you",
+        "спасибо",
+        "рахмат",
+        "شكرًا لك",
+        "merci"
+      ],
+      "exampleTr": "Davetin için teşekkür ederim.",
+      "examples": [
+        "Thank you for the invitation.",
+        "Спасибо за приглашение.",
+        "Чакырууң үчүн рахмат.",
+        "شكرًا لك على الدعوة.",
+        "Merci pour ton invitation."
+      ]
+    },
+    "neden olmasın": {
+      "translations": [
+        "why not?",
+        "почему бы и нет?",
+        "эмнеге болбосун?",
+        "لمَ لا؟",
+        "pourquoi pas ?"
+      ],
+      "exampleTr": "Neden olmasın? Ben de gelirim.",
+      "examples": [
+        "Why not? I'll come too.",
+        "Почему бы и нет? Я тоже приду.",
+        "Эмнеге болбосун? Мен да барам.",
+        "لمَ لا؟ سآتي أيضًا.",
+        "Pourquoi pas ? Je viendrai aussi."
+      ]
+    },
+    "özür dilerim": {
+      "translations": [
+        "I'm sorry; I apologize",
+        "извините; прошу прощения",
+        "кечиресиз",
+        "أعتذر",
+        "je suis désolé"
+      ],
+      "exampleTr": "Özür dilerim, geç kaldım.",
+      "examples": [
+        "I'm sorry I'm late.",
+        "Извините, я опоздал.",
+        "Кечиресиз, кечигип калдым.",
+        "أعتذر عن التأخر.",
+        "Je suis désolé d'être en retard."
+      ]
+    },
+    "kitap fuarına": {
+      "translations": [
+        "to the book fair",
+        "на книжную ярмарку",
+        "китеп жарманкесине",
+        "إلى معرض الكتاب",
+        "au salon du livre"
+      ],
+      "exampleTr": "Yarın kitap fuarına gideceğiz.",
+      "examples": [
+        "We'll go to the book fair tomorrow.",
+        "Завтра мы пойдём на книжную ярмарку.",
+        "Эртең китеп жарманкесине барабыз.",
+        "سنذهب إلى معرض الكتاب غدًا.",
+        "Nous irons au salon du livre demain."
+      ]
+    },
+    "müsait değilim": {
+      "translations": [
+        "I'm not available",
+        "я занят; я не свободен",
+        "мен бош эмесмин",
+        "لست متفرغًا",
+        "je ne suis pas disponible"
+      ],
+      "exampleTr": "Bu akşam müsait değilim.",
+      "examples": [
+        "I'm not free this evening.",
+        "Сегодня вечером я занят.",
+        "Бүгүн кечинде бош эмесмин.",
+        "لست متفرغًا هذا المساء.",
+        "Je ne suis pas disponible ce soir."
+      ]
+    },
+    "teklif et": {
+      "translations": [
+        "make a suggestion; offer",
+        "предложи",
+        "сунушта",
+        "اقترح",
+        "propose"
+      ],
+      "exampleTr": "Arkadaşına bir etkinlik teklif et.",
+      "examples": [
+        "Suggest an activity to your friend.",
+        "Предложи другу какое-нибудь занятие.",
+        "Досуңа бир иш-чараны сунушта.",
+        "اقترح نشاطًا على صديقك.",
+        "Propose une activité à ton ami."
+      ]
+    },
+    "dil bilgisi": {
+      "translations": [
+        "grammar",
+        "грамматика",
+        "грамматика",
+        "قواعد اللغة",
+        "grammaire"
+      ],
+      "exampleTr": "Bugün dil bilgisi çalışıyoruz.",
+      "examples": [
+        "We're studying grammar today.",
+        "Сегодня мы изучаем грамматику.",
+        "Бүгүн грамматика окуп жатабыз.",
+        "ندرس قواعد اللغة اليوم.",
+        "Aujourd'hui, nous étudions la grammaire."
+      ]
+    },
+    "metro durağı": {
+      "translations": [
+        "metro station",
+        "станция метро",
+        "метро бекети",
+        "محطة المترو",
+        "station de métro"
+      ],
+      "exampleTr": "Metro durağı burada.",
+      "examples": [
+        "The metro station is here.",
+        "Станция метро здесь.",
+        "Метро бекети ушул жерде.",
+        "محطة المترو هنا.",
+        "La station de métro est ici."
+      ]
     }
   },
   "examples": {
