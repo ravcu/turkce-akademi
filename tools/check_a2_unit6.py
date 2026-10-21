@@ -1,6 +1,6 @@
 """End-to-end checks for the A2 unit 6 reader, without using translation services."""
 from pathlib import Path
-import json,re,hashlib,threading,http.server,os,subprocess,time,unicodedata
+import json,re,hashlib,threading,http.server,os,subprocess,time,unicodedata,io
 from playwright.sync_api import sync_playwright
 SKIP_AUDIO=os.environ.get('UNIT6_SKIP_AUDIO')=='1'
 ROOT=Path('kitaplar/lise-a2/hayat-birlikte-guzel');QA=Path('/tmp/unit6-qa');QA.mkdir(exist_ok=True)
@@ -78,6 +78,18 @@ assert re.findall(r'<style>(.*?)</style>',base,re.S)==re.findall(r'<style>(.*?)<
 assert '../dedemin-meslegi/' in html and '../akilli-teknoloji/' in html
 class Quiet(http.server.SimpleHTTPRequestHandler):
  def log_message(self,*args):pass
+ def end_headers(self):
+  self.send_header('Accept-Ranges','bytes');super().end_headers()
+ def send_head(self):
+  filename=self.translate_path(self.path);range_header=self.headers.get('Range','')
+  if range_header.startswith('bytes=') and os.path.isfile(filename):
+   size=os.path.getsize(filename);first,last=range_header[6:].split('-',1)
+   start=int(first) if first else max(0,size-int(last));end=min(int(last) if last and first else size-1,size-1)
+   if start>=size:
+    self.send_response(416);self.send_header('Content-Range',f'bytes */{size}');self.end_headers();return None
+   with open(filename,'rb') as f:f.seek(start);data=f.read(end-start+1)
+   self.send_response(206);self.send_header('Content-Type',self.guess_type(filename));self.send_header('Content-Range',f'bytes {start}-{end}/{size}');self.send_header('Content-Length',str(len(data)));self.end_headers();return io.BytesIO(data)
+  return super().send_head()
 server=http.server.ThreadingHTTPServer(('127.0.0.1',0),Quiet)
 threading.Thread(target=server.serve_forever,daemon=True).start()
 baseurl=f'http://127.0.0.1:{server.server_port}'
@@ -123,11 +135,12 @@ with sync_playwright() as pw:
    page.evaluate('window.scrollTo(0,0)');page.wait_for_timeout(100);page.screenshot(path=str(QA/f'page-{pi+1:02}-desktop.png'),full_page=True)
   checks.append({'page':pi+1,'hotspots':len(p['words']),'languageRenders':rendered,'phraseGroups':len(p['phraseGroups']),'answerFills':visible,'pdfLanguages':5})
  # Audio playback checks in all six languages: actual media bytes, metadata and progress.
+ page.bring_to_front()
  page.evaluate('window.__NativeAudio=window.Audio;window.Audio=function(...args){const a=new window.__NativeAudio(...args);window.__lastAudio=a;return a}')
  for li,(lang,text) in enumerate([] if SKIP_AUDIO else [('tr','kurallar'),('en','rules'),('ru','правила'),('ky','эрежелер'),('ar','القواعد'),('fr','règles')]):
   # Choose an actual corpus key rather than assume dictionary wording.
   entrykey=next(k for k,v in audio['entries'][lang].items() if not v[0].startswith('../') and v[2]-v[1]>1.7)
-  page.evaluate('([t,l])=>{window.__audioError=null;window.__speaking=TurkceSpeech.speak(t,l).catch(e=>window.__audioError=e.message)}',[entrykey,lang]);page.wait_for_function('window.__lastAudio&&window.__lastAudio.readyState>=2');page.wait_for_timeout(300)
+  page.evaluate('([t,l])=>{window.__audioError=null;window.__speaking=TurkceSpeech.speak(t,l).catch(e=>window.__audioError=e.message)}',[entrykey,lang]);page.wait_for_function('window.__lastAudio&&window.__lastAudio.readyState>=2');page.wait_for_function('(start)=>window.__lastAudio.currentTime>start+.04',arg=audio['entries'][lang][entrykey][1],timeout=15000)
   assert not page.evaluate('window.__audioError'),('playback',lang,page.evaluate('window.__audioError'))
   assert page.evaluate('window.__lastAudio.currentTime')>audio['entries'][lang][entrykey][1]+.04,('audio progress',lang)
   page.locator('.thumb').nth(li+1).click();assert page.evaluate('window.__lastAudio.paused'),('page change did not stop audio',lang)
