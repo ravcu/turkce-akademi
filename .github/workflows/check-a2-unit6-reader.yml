@@ -1,0 +1,35 @@
+name: A2 unit 6 reader interface check
+on:
+  push:
+    paths:
+      - 'tools/check_a2_unit6.py'
+      - 'kitaplar/lise-a2/hayat-birlikte-guzel/index.html'
+      - '.github/workflows/check-a2-unit6-reader.yml'
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  reader:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            kitaplar/lise-a2/hayat-birlikte-guzel
+            kitaplar/lise-a2/dedemin-meslegi
+            tools
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install playwright
+      - run: python -m playwright install --with-deps chromium
+      - name: Verify every page and all five dictionary languages
+        env:
+          UNIT6_SKIP_AUDIO: '1'
+        run: python tools/check_a2_unit6.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: unit6-reader-interface
+          path: /tmp/unit6-qa

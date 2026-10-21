@@ -2,8 +2,9 @@
 from pathlib import Path
 import json,re,hashlib,threading,http.server,os,subprocess,time
 from playwright.sync_api import sync_playwright
+SKIP_AUDIO=os.environ.get('UNIT6_SKIP_AUDIO')=='1'
 ROOT=Path('kitaplar/lise-a2/hayat-birlikte-guzel');QA=Path('/tmp/unit6-qa');QA.mkdir(exist_ok=True)
-g=json.loads((ROOT/'translations.json').read_text());pages=json.loads((ROOT/'pages.json').read_text());audio=json.loads((ROOT/'speech/index.json').read_text());answers=json.loads((ROOT/'answers.json').read_text())
+g=json.loads((ROOT/'translations.json').read_text());pages=json.loads((ROOT/'pages.json').read_text());audio={'entries':{}} if SKIP_AUDIO else json.loads((ROOT/'speech/index.json').read_text());answers=json.loads((ROOT/'answers.json').read_text())
 def norm(s):return re.sub(r'^[^\w]+|[^\w]+$','',s.replace('’',"'").replace('I','ı').replace('İ','i').lower())
 def speechkey(s,l):
  s=re.sub(r'\s+',' ',re.sub(r'(^|\s)[\-−–—]+(?=\s*\S)',r'\1',s)).strip()
@@ -17,9 +18,11 @@ def example(k,phrase=False):
  e=g['examples'].get(k)
  if isinstance(e,list):return e
  return (e or {}).get('tr'),(e or {}).get('values')
-def speech(l,t):assert speechkey(t,l) in audio['entries'][l],('audio missing',l,t)
+def speech(l,t):
+ if SKIP_AUDIO:return
+ assert speechkey(t,l) in audio['entries'][l],('audio missing',l,t)
 expected=hashlib.sha256((ROOT/'translations.json').read_bytes()+(ROOT/'pages.json').read_bytes()).hexdigest()
-assert audio['sourceSha']==expected,'stale audio corpus'
+if not SKIP_AUDIO:assert audio['sourceSha']==expected,'stale audio corpus'
 langs=['en','ru','ky','ar','fr'];lexical=0
 for p in pages:
  for w in p['words']:
@@ -102,7 +105,7 @@ with sync_playwright() as pw:
   if pi+1 in [1,4,11,13]:page.screenshot(path=str(QA/f'page-{pi+1:02}-desktop.png'),full_page=True)
   checks.append({'page':pi+1,'hotspots':len(p['words']),'languageRenders':rendered,'phraseGroups':len(p['phraseGroups']),'answerFills':visible,'pdfLanguages':5})
  # Audio playback checks in all six languages: actual media bytes, metadata and progress.
- for lang,text in [('tr','kurallar'),('en','rules'),('ru','правила'),('ky','эрежелер'),('ar','القواعد'),('fr','règles')]:
+ for lang,text in ([] if SKIP_AUDIO else [('tr','kurallar'),('en','rules'),('ru','правила'),('ky','эрежелер'),('ar','القواعد'),('fr','règles')]):
   # Choose an actual corpus key rather than assume dictionary wording.
   entrykey=next(k for k,v in audio['entries'][lang].items() if not v[0].startswith('../'))
   page.evaluate('([t,l])=>{window.__audioError=null;window.__speaking=TurkceSpeech.speak(t,l).catch(e=>window.__audioError=e.message)}',[entrykey,lang]);page.wait_for_timeout(1200)
@@ -113,5 +116,6 @@ with sync_playwright() as pw:
  assert not errors,errors
  browser.close()
 server.shutdown()
-report={'status':'passed','unit':6,'pages':len(pages),'hotspots':sum(len(p['words']) for p in pages),'lexicalHotspots':lexical,'phraseGroups':sum(len(p['phraseGroups']) for p in pages),'joinedWords':sum(len(p['wordGroups']) for p in pages),'languages':langs,'speechLanguages':['tr']+langs,'speechEntries':{l:len(v) for l,v in audio['entries'].items()},'missingMeanings':0,'missingExamples':0,'readerCss':'identical to unit 5','checks':checks,'originalMediaPending':['S.038','S.039','S.040','S.041','S.042','S.043','S.044','S.045','V.007']}
-(ROOT/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));(QA/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False))
+report={'status':'reader passed; audio pending' if SKIP_AUDIO else 'passed','unit':6,'pages':len(pages),'hotspots':sum(len(p['words']) for p in pages),'lexicalHotspots':lexical,'phraseGroups':sum(len(p['phraseGroups']) for p in pages),'joinedWords':sum(len(p['wordGroups']) for p in pages),'languages':langs,'speechLanguages':['tr']+langs,'speechEntries':{l:len(v) for l,v in audio['entries'].items()},'missingMeanings':0,'missingExamples':0,'readerCss':'identical to unit 5','checks':checks,'originalMediaPending':['S.038','S.039','S.040','S.041','S.042','S.043','S.044','S.045','V.007']}
+if not SKIP_AUDIO:(ROOT/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2))
+(QA/'verification.json').write_text(json.dumps(report,ensure_ascii=False,indent=2));print(json.dumps(report,ensure_ascii=False))
