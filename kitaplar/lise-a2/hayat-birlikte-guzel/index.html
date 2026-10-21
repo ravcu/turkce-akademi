@@ -219,7 +219,7 @@
       const lemma=formEntry?.lemma,lemmaKey=lemma?normalize(lemma):'',lemmaMeanings=formEntry?.lemmaTranslations||glossary.lemmas?.[lemmaKey]?.translations||glossary.words[lemmaKey],baseMeaning=lemmaMeanings?.[langIndex]||lemma;
       const showBoth=!!(formEntry&&lemma&&lemmaKey!==key&&baseMeaning);
       const card=(label,value,say)=>`<div class="translation"><div class="langname">${escapeHtml(label)}</div><div class="meaning-row"><div class="meaning"${dir} lang="${lang[0]}">${escapeHtml(value)}</div><button class="line-speak" data-say="${say}" aria-label="${escapeHtml(label)} anlamını dinle" title="Anlamı dinle">🔊</button></div></div>`;
-      const rootLabel=formEntry?.lemmaType==='verb'||/mak$|mek$/i.test(lemma||'')?'Mastar biçimi':'Kök biçimi';const translations=showBoth?card(`${rootLabel} · ${lemma}`,baseMeaning,'base')+card(`Metindeki biçimi · ${text}`,meaning,'form'):card(`${lang[1]} ${lang[2]}`,meaning,'meaning');
+      const rootLabel=formEntry?.lemmaType==='verb'||(!formEntry?.lemmaType&&/mak$|mek$/i.test(lemma||''))?'Mastar biçimi':'Kök biçimi';const translations=showBoth?card(`${rootLabel} · ${lemma}`,baseMeaning,'base')+card(`Metindeki biçimi · ${text}`,meaning,'form'):card(`${lang[1]} ${lang[2]}`,meaning,'meaning');
       const savedExample=glossary.examples[key];let ex=entry?{tr:entry.exampleTr,values:entry.examples}:formEntry?.exampleTr?{tr:formEntry.exampleTr,values:formEntry.examples}:Array.isArray(savedExample)?{tr:savedExample[0],values:savedExample[1]}:savedExample;
       // Never fabricate example sentences or present Turkish text as a foreign-language translation.
       const verifiedMeaning=typeof meaning==='string'&&meaning.trim()&&!!(entry?.translations||formEntry?.formTranslations||glossary.words[key]||/^[\d\s:.,–—\-+]+$/.test(text));
@@ -271,7 +271,7 @@
       const langIndex=LANGS.findIndex(x=>x[0]===targetLang),importantWords=new Set(glossary.quizVocabulary||[]),items=[],seen=new Set();
       const add=(key,text,meaning,phrase=false)=>{const clean=normalize(key);if(!meaning||!clean||seen.has(clean))return;seen.add(clean);items.push({key:clean,text,meaning,phrase})};
       for(const [key,item] of Object.entries(glossary.phrases||{}))add(key,key,item.translations?.[langIndex],true);
-      for(const [key,item] of Object.entries(glossary.forms||{}))add(key,key,item.formTranslations?.[langIndex]);
+      for(const [key,item] of Object.entries(glossary.forms||{}))add(key,item.text||key,item.formTranslations?.[langIndex]);
       for(const [key,translations] of Object.entries(glossary.words||{})){const clean=normalize(key),meaning=/^\d+$/.test(clean)&&targetLang==='en'?numberToEnglish(Number(clean)):translations?.[langIndex];if(!importantWords.has(clean)||!meaning)continue;add(clean,key,meaning)}
       quizPool=items;const desiredCount=20;quizItems=shuffle(quizPool).slice(0,Math.min(desiredCount,quizPool.length));quizIndex=0;quizScore=0;quizAnswered=false;quizFinished=false;renderQuiz();
     }

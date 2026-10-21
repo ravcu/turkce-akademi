@@ -9,7 +9,7 @@ permissions:
   contents: write
 concurrency:
   group: a2-unit6-pronunciation
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   speech:
     runs-on: ubuntu-latest

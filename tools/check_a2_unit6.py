@@ -24,6 +24,18 @@ def speech(l,t):
  assert speechkey(t,l) in audio['entries'][l],('audio missing',l,t)
 expected=hashlib.sha256((ROOT/'translations.json').read_bytes()+(ROOT/'pages.json').read_bytes()).hexdigest()
 if not SKIP_AUDIO:assert audio['sourceSha']==expected,'stale audio corpus'
+def validate_languages(values,label):
+ assert values and len(values)==5 and all(isinstance(v,str) and v.strip() for v in values),label
+ for i in [0,4]:assert not re.search('[\u0400-\u04ff\u0600-\u06ff]',values[i]),('misaligned language column',label,i)
+ assert not re.search('[\u0400-\u04ff]',values[3]),('non-Arabic column',label)
+ assert not re.search('[\u0600-\u06ff]',values[1]),('non-Russian column',label)
+for key,values in g['words'].items():
+ validate_languages(values,('word',key))
+ if len(key)>1 and re.search(r'[^\W\d_]',key):assert len(set(values))>1,('untranslated word',key)
+for key,e in g['examples'].items():validate_languages(e[1] if isinstance(e,list) else e['values'],('example',key))
+for section,attrs in [('forms',['formTranslations','lemmaTranslations','examples']),('phrases',['translations','examples']),('lemmas',['translations'])]:
+ for key,e in g[section].items():
+  for attr in attrs:validate_languages(e.get(attr),(section,key,attr))
 langs=['en','ru','ky','ar','fr'];lexical=0
 for p in pages:
  for w in p['words']:
