@@ -2,7 +2,7 @@
   "unit": 7,
   "pages": 20,
   "hotspots": 4291,
-  "forms": 654,
+  "forms": 656,
   "phraseEntries": 135,
   "phraseOccurrences": 245,
   "originalMediaPending": [
@@ -12,7 +12,7 @@
     "S.049",
     "V.008"
   ],
-  "wordEntries": 1433,
+  "wordEntries": 1435,
   "missingMeanings": [],
   "missingExamples": [],
   "verification": "verification.json"

@@ -314,7 +314,7 @@
     Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json',{cache:'no-store'}),fetch('source-text.json',{cache:'no-store'})]).then(async([p,t,s])=>{if(!p.ok||!t.ok||!s.ok)throw Error(`Resources unavailable (${p.status}, ${t.status})`);return [await p.json(),await t.json(),await s.json()]}).then(([data,words,source])=>{pages=data;glossary=words;glossary.answerKeys=UNIT_ANSWERS;
 for(const section of ['words','forms','examples','phrases','lemmas']){glossary[section]||={};for(const [key,value] of Object.entries(glossary[section]))glossary[section][normalize(key)]=value;}
 glossary.quizVocabulary=(glossary.quizVocabulary||[]).map(normalize);
-pages.forEach((page,i)=>{page.exportWords=(source[i]||'').replaceAll('￾\n','').replaceAll('￾','').split(/\s+/).filter(t=>/[\p{L}\p{N}]/u.test(t)).map(t=>({t}));for(const group of [...(page.phraseGroups||[]),...(page.wordGroups||[])])group.key=normalize(group.key);for(const word of page.words)if(word.entryKey)word.entryKey=normalize(word.entryKey);});
+pages.forEach((page,i)=>{page.exportWords=page.exportWords?.length?page.exportWords:(source[i]||'').replaceAll('￾\n','').replaceAll('￾','').split(/[\s/]+/).map(t=>t.replace(/^[*=]+|[*=]+$/g,'')).filter(t=>/[\p{L}\p{N}]/u.test(t)).map(t=>({t}));for(const group of [...(page.phraseGroups||[]),...(page.wordGroups||[])])group.key=normalize(group.key);for(const word of page.words)if(word.entryKey)word.entryKey=normalize(word.entryKey);});
 makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>

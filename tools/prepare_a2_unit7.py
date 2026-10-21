@@ -149,5 +149,8 @@ def build():
  print('missing meanings',missing);print('missing examples',len(examples));Path('../missing-examples7.txt').write_text('\n'.join(examples))
 if __name__=='__main__':
  import sys
- if '--build' in sys.argv:build()
+ if '--build' in sys.argv:
+  build()
+  from repair_a2_print_vocabulary import run
+  run()
  else:extract()

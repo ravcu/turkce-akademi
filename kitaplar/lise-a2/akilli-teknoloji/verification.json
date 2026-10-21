@@ -4,7 +4,7 @@
   "logicalSelections": 1423,
   "checked": 21455,
   "exportChecks": 100,
-  "forms": 654,
+  "forms": 656,
   "phraseEntries": 135,
   "phraseOccurrences": 245,
   "errors": [],
@@ -28,15 +28,15 @@
     "V.008"
   ],
   "answerKeyStatus": "reading and example responses added; some visual and media-dependent answers pending",
-  "speechSourceSha": "ae7e4fb2ab29bc064d7588a6fc7d1599ae955ee33055806883cbafb24dd5d06d",
+  "speechSourceSha": "2db170a97788fbaf7a391866125f4b8df0ce51245f2c71ed1dfe74e25395f6bf",
   "speechEntries": {
-    "tr": 2851,
-    "en": 2649,
-    "ru": 2543,
-    "ky": 2560,
-    "ar": 2547,
-    "fr": 2558
+    "tr": 2853,
+    "en": 2651,
+    "ru": 2545,
+    "ky": 2562,
+    "ar": 2550,
+    "fr": 2560
   },
-  "localSpeechFiles": 147,
+  "localSpeechFiles": 153,
   "sharedSpeechFiles": 237
 }

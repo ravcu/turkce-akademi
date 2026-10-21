@@ -173,7 +173,7 @@
         // A wrapped word belongs to one logical entry: emit it only at its
         // first fragment, never again at the continuation hotspot.
         if(joined?.single&&joined.indices[0]!==i)continue;
-        const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=normalize(word);
+        const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=(joined?.single?joined.key:null)||w.entryKey||normalize(word);
         if(!key||seen.has(key))continue;
         seen.add(key);
         const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
@@ -264,7 +264,7 @@
       body.querySelectorAll('[data-say]').forEach(b=>b.addEventListener('click',()=>{const type=b.dataset.say,speech=type==='tr'?ex.tr:type==='example'?ex.values[langIndex]:type==='base'?baseMeaning:meaning;speakText(speech,type==='tr'?'tr':targetLang)}));
       $('#saveWord').disabled=false;$('#saveWord').textContent=isSaved(activeSelection)?'✓ Defterimde':'＋ Kelime defterime ekle';updateLanguageTabs();requestAnimationFrame(alignStudyArea);
     }
-    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:normalize(word);const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase&&!phrase.single,indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
+    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:(words[index]?.entryKey||normalize(word));const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase&&!phrase.single,indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
     function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
     function numberToEnglish(value){
       if(!Number.isSafeInteger(value)||value<0)return String(value);

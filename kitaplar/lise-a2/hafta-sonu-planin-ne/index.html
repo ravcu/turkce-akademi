@@ -173,12 +173,13 @@
         // A wrapped word belongs to one logical entry: emit it only at its
         // first fragment, never again at the continuation hotspot.
         if(joined?.single&&joined.indices[0]!==i)continue;
-        const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=normalize(word);
+        const word=cleanLeadingDashes(joined?.single?joined.text:w.t||''),key=(joined?.single?joined.key:null)||w.entryKey||normalize(word);
         if(!key||seen.has(key))continue;
         seen.add(key);
         const form=glossary.forms?.[key],translations=form?.formTranslations||glossary.words[key];
         let meaning=translations?.[index];
         if(/^\d+$/.test(key)&&targetLang==='en')meaning=numberToEnglish(Number(key));
+        if(!meaning&&/^[\d\s:.,–—\-]+$/.test(word))meaning=word;
         rows.push([word,typeof meaning==='string'&&meaning.trim()?meaning:'— (çeviri kontrol edilecek)']);
         const phrase=phraseAt(i,page.words);
         if(phrase&&!phrase.single&&glossary.phrases?.[phrase.key]&&!seenPhrases.has(phrase.key))seenPhrases.add(phrase.key);
@@ -216,8 +217,7 @@
         16:[['Na-','mib','namib']],
         17:[['tey-','zemin','teyzemin'],['haf-','ta','hafta'],['gör-','meye','görmeye'],['gele-','meyeceğim','gelemeyeceğim']],
         19:[['Be-','nim','benim'],['Yıldız-','lar','yıldızlar']],
-        20:[['etkin-','likler','etkinlikler'],['yapı-','lıyor?','yapılıyor']],
-        20:[['Sey-','yah','seyyah'],['is-','terdiniz?','isterdiniz']],
+        20:[['etkin-','likler','etkinlikler'],['yapı-','lıyor?','yapılıyor'],['Sey-','yah','seyyah'],['is-','terdiniz?','isterdiniz']],
         21:[['Bu-','rada','burada'],['ti-','yatro,','tiyatro'],['Ca-','misi.','camisi'],['bu-','rada','burada'],['arka-','daşlarınıza','arkadaşlarınıza'],['yaşa-','dığını','yaşadığını']]
       };
       const pageWraps=wrappedByPage[current]||[];
@@ -302,7 +302,7 @@
       body.querySelectorAll('[data-say]').forEach(b=>b.addEventListener('click',()=>{const type=b.dataset.say,speech=type==='tr'?ex.tr:type==='example'?ex.values[langIndex]:type==='base'?baseMeaning:meaning;speakText(speech,type==='tr'?'tr':targetLang)}));
       $('#saveWord').disabled=false;$('#saveWord').textContent=isSaved(activeSelection)?'✓ Defterimde':'＋ Kelime defterime ekle';updateLanguageTabs();requestAnimationFrame(alignStudyArea);
     }
-    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:normalize(word);const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase&&(!phrase.single||!!glossary.phrases?.[key]),indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
+    function selectWord(word,index,words){const phrase=phraseAt(index,words);const key=phrase?phrase.key:(words[index]?.entryKey||normalize(word));const text=cleanLeadingDashes(phrase?phrase.text:word);activeWord=text;activeSelection={key,text,phrase:!!phrase&&(!phrase.single||!!glossary.phrases?.[key]),indices:phrase?phrase.indices:[index]};setSelected(activeSelection.indices);$('#speak').disabled=!text;renderSelection()}
     function escapeHtml(s){return String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]))}
     function numberToEnglish(value){
       if(!Number.isSafeInteger(value)||value<0)return String(value);

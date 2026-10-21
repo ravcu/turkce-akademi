@@ -8854,6 +8854,13 @@
       "тез-тез",
       "متكرر؛ كثيرًا",
       "fréquent ; souvent"
+    ],
+    "yer:mekan": [
+      "place; ground",
+      "место; земля",
+      "жер; орун",
+      "مكان؛ أرض",
+      "lieu ; sol"
     ]
   },
   "forms": {
@@ -13994,6 +14001,33 @@
         "Жашоом тууралуу маалымат берген кыска текст даярдадым.",
         "أعددت نصًا قصيرًا يقدم معلومات عن حياتي.",
         "J’ai préparé un court texte donnant des informations sur ma vie."
+      ]
+    },
+    "yer:mekan": {
+      "text": "yer",
+      "lemma": "yer",
+      "lemmaType": "noun",
+      "lemmaTranslations": [
+        "place; ground",
+        "место; земля",
+        "жер; орун",
+        "مكان؛ أرض",
+        "lieu ; sol"
+      ],
+      "formTranslations": [
+        "place; ground",
+        "место; земля",
+        "жер; орун",
+        "مكان؛ أرض",
+        "lieu ; sol"
+      ],
+      "exampleTr": "Yaşadığım yer çok güzel.",
+      "examples": [
+        "The place where I live is very beautiful.",
+        "Место, где я живу, очень красивое.",
+        "Мен жашаган жер абдан кооз.",
+        "المكان الذي أعيش فيه جميل جدًا.",
+        "L’endroit où je vis est très beau."
       ]
     }
   },

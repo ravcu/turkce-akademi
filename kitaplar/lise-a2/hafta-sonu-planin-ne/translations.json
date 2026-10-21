@@ -8203,6 +8203,489 @@
       "таежемдин",
       "لخالتي",
       "de ma tante maternelle"
+    ],
+    "düğününe": [
+      "to your/his/her wedding",
+      "на твою/его/её свадьбу",
+      "сенин/анын тоюна",
+      "إلى حفل زفافك أو زفافه",
+      "à ton/son mariage"
+    ],
+    "proje": [
+      "project",
+      "проект",
+      "долбоор",
+      "مشروع",
+      "projet"
+    ],
+    "yar": [
+      "beloved",
+      "возлюбленный",
+      "сүйүктүү",
+      "حبيب",
+      "bien-aimé"
+    ],
+    "karagöz": [
+      "Karagöz (shadow theatre character)",
+      "Карагёз (персонаж театра теней)",
+      "Карагөз (көлөкө театрынын каарманы)",
+      "قره غوز، شخصية مسرح الظل",
+      "Karagöz (personnage du théâtre d'ombres)"
+    ],
+    "hacivat": [
+      "Hacivat (shadow theatre character)",
+      "Хадживат (персонаж театра теней)",
+      "Хаживат (көлөкө театрынын каарманы)",
+      "حاجيوات، شخصية مسرح الظل",
+      "Hacivat (personnage du théâtre d'ombres)"
+    ],
+    "planlayın": [
+      "plan!",
+      "спланируйте!",
+      "пландагыла!",
+      "خططوا!",
+      "planifiez !"
+    ],
+    "orta": [
+      "middle",
+      "середина",
+      "орто",
+      "وسط",
+      "milieu"
+    ],
+    "okulları": [
+      "schools",
+      "школы",
+      "мектептер",
+      "مدارس",
+      "écoles"
+    ],
+    "duyduk": [
+      "we heard",
+      "мы услышали",
+      "биз уктук",
+      "سمعنا",
+      "nous avons entendu"
+    ],
+    "duymadık": [
+      "we did not hear",
+      "мы не слышали",
+      "биз уккан жокпуз",
+      "لم نسمع",
+      "nous n'avons pas entendu"
+    ],
+    "demeyin": [
+      "do not say!",
+      "не говорите!",
+      "айтпагыла!",
+      "لا تقولوا!",
+      "ne dites pas !"
+    ],
+    "türü": [
+      "type; kind",
+      "вид; тип",
+      "түрү",
+      "نوع",
+      "type ; genre"
+    ],
+    "perdeyi": [
+      "the curtain (object)",
+      "занавес",
+      "парданы",
+      "الستارة",
+      "le rideau"
+    ],
+    "açın": [
+      "open!",
+      "откройте!",
+      "ачкыла!",
+      "افتحوا!",
+      "ouvrez !"
+    ],
+    "değnekleri": [
+      "the sticks (object)",
+      "палочки",
+      "таякчаларды",
+      "العصي",
+      "les baguettes"
+    ],
+    "takın": [
+      "attach!",
+      "прикрепите!",
+      "бекиткиле!",
+      "ثبتوا!",
+      "fixez !"
+    ],
+    "cevabınız": [
+      "your answer",
+      "ваш ответ",
+      "сиздин жообуңуз",
+      "إجابتكم",
+      "votre réponse"
+    ],
+    "hâlde": [
+      "in that case",
+      "в таком случае",
+      "андай болсо",
+      "في هذه الحالة",
+      "dans ce cas"
+    ],
+    "ışığı": [
+      "the light (object)",
+      "свет",
+      "жарыкты",
+      "الضوء",
+      "la lumière"
+    ],
+    "yansıtın": [
+      "project; reflect!",
+      "направьте свет!",
+      "жарыкты чагылдыргыла!",
+      "اعكسوا الضوء!",
+      "projetez la lumière !"
+    ],
+    "kosova/priştine": [
+      "Kosovo / Pristina",
+      "Косово / Приштина",
+      "Косово / Приштина",
+      "كوسوفو / بريشتينا",
+      "Kosovo / Pristina"
+    ],
+    "karagöz'ü": [
+      "Karagöz (object)",
+      "Карагёза",
+      "Карагөздү",
+      "قره غوز",
+      "Karagöz"
+    ],
+    "evinizde": [
+      "in your home",
+      "у вас дома",
+      "үйүңүздө",
+      "في منزلكم",
+      "chez vous"
+    ],
+    "aralık": [
+      "December",
+      "декабрь",
+      "декабрь",
+      "ديسمبر",
+      "décembre"
+    ],
+    "salonu'na": [
+      "to the hall",
+      "в зал",
+      "залга",
+      "إلى القاعة",
+      "à la salle"
+    ],
+    "oynatın": [
+      "make it move; perform with it!",
+      "приведите в движение; разыграйте!",
+      "кыймылдаткыла; ойноткула!",
+      "حركوه؛ قدموا به عرضًا!",
+      "animez-le ; faites-le jouer !"
+    ],
+    "gösterimiz": [
+      "our show",
+      "наше представление",
+      "биздин көрсөтүүбүз",
+      "عرضنا",
+      "notre spectacle"
+    ],
+    "14.00'te": [
+      "at 14:00",
+      "в 14:00",
+      "саат 14:00дө",
+      "الساعة 14:00",
+      "à 14 h"
+    ],
+    "sayısı": [
+      "number; count",
+      "количество",
+      "саны",
+      "عدد",
+      "nombre"
+    ],
+    "gösteriden": [
+      "after/from the show",
+      "после представления; с представления",
+      "көрсөтүүдөн",
+      "من العرض؛ بعد العرض",
+      "du spectacle ; après le spectacle"
+    ],
+    "şiir": [
+      "poem; poetry",
+      "стихотворение; поэзия",
+      "ыр; поэзия",
+      "قصيدة؛ شعر",
+      "poème ; poésie"
+    ],
+    "dinletisi": [
+      "recital",
+      "литературный или музыкальный вечер",
+      "көркөм окуу же музыкалык кече",
+      "أمسية إلقاء أو عزف",
+      "récital"
+    ],
+    "ikramlar": [
+      "refreshments",
+      "угощения",
+      "сый тамактар",
+      "ضيافة؛ مأكولات ومشروبات",
+      "rafraîchissements ; collations"
+    ],
+    "meyve": [
+      "fruit",
+      "фрукт",
+      "жемиш",
+      "فاكهة",
+      "fruit"
+    ],
+    "suyu": [
+      "juice; water (possessive)",
+      "сок; вода",
+      "ширеси; суусу",
+      "عصير؛ ماء",
+      "jus ; eau"
+    ],
+    "kek": [
+      "cake",
+      "кекс",
+      "кекс",
+      "كعك",
+      "gâteau"
+    ],
+    "misafirlerimize": [
+      "to our guests",
+      "нашим гостям",
+      "конокторубузга",
+      "لضيوفنا",
+      "à nos invités"
+    ],
+    "diğer": [
+      "other",
+      "другой",
+      "башка",
+      "آخر",
+      "autre"
+    ],
+    "ikram": [
+      "refreshment; treat",
+      "угощение",
+      "сый тамак",
+      "ضيافة",
+      "collation ; chose offerte"
+    ],
+    "vermeyi": [
+      "giving; to give (object)",
+      "давать",
+      "берүүнү",
+      "الإعطاء",
+      "le fait de donner"
+    ],
+    "salonumuz": [
+      "our hall",
+      "наш зал",
+      "биздин зал",
+      "قاعتنا",
+      "notre salle"
+    ],
+    "kişiliktir": [
+      "has capacity for … people",
+      "вмещает … человек",
+      "… кишиге ылайыкталган",
+      "يتسع لعدد … أشخاص",
+      "peut accueillir … personnes"
+    ],
+    "tel": [
+      "telephone (abbreviation)",
+      "телефон (сокращение)",
+      "телефон (кыскартуу)",
+      "هاتف، اختصار",
+      "téléphone (abréviation)"
+    ],
+    "mail": [
+      "email",
+      "электронная почта",
+      "электрондук почта",
+      "بريد إلكتروني",
+      "courriel"
+    ],
+    "adresi": [
+      "address",
+      "адрес",
+      "дареги",
+      "عنوان",
+      "adresse"
+    ],
+    "numaramızdan": [
+      "at/via our number",
+      "по нашему номеру",
+      "биздин номер аркылуу",
+      "عبر رقمنا",
+      "à notre numéro"
+    ],
+    "ulaşın": [
+      "contact; reach!",
+      "свяжитесь!",
+      "байланышкыла!",
+      "تواصلوا!",
+      "contactez-nous !"
+    ],
+    "yerinizi": [
+      "your place (object)",
+      "ваше место",
+      "ордуңузду",
+      "مكانكم",
+      "votre place"
+    ],
+    "ayırtın": [
+      "reserve!",
+      "забронируйте!",
+      "ээлеп койгула!",
+      "احجزوا!",
+      "réservez !"
+    ],
+    "zamanın": [
+      "your time",
+      "твоё время",
+      "сенин убактың",
+      "وقتك",
+      "ton temps"
+    ],
+    "yapmalısın": [
+      "you should do",
+      "ты должен сделать",
+      "сен жасашың керек",
+      "عليك أن تفعل",
+      "tu dois faire"
+    ],
+    "planına": [
+      "according to/to the plan",
+      "по плану; к плану",
+      "планына ылайык; планга",
+      "وفق الخطة؛ إلى الخطة",
+      "selon le plan ; au plan"
+    ],
+    "metnini": [
+      "the text (object)",
+      "текст",
+      "текстин",
+      "النص",
+      "le texte"
+    ],
+    "afişe": [
+      "to/according to the poster",
+      "к афише; по афише",
+      "афишага; афишага ылайык",
+      "إلى الملصق؛ وفق الملصق",
+      "à l'affiche ; selon l'affiche"
+    ],
+    "sunmalısın": [
+      "you should present",
+      "ты должен представить",
+      "сен сунушташың керек",
+      "عليك أن تقدم",
+      "tu dois présenter"
+    ],
+    "afişinizle": [
+      "with your poster",
+      "с вашей афишей",
+      "афишаңыз менен",
+      "بملصقكم",
+      "avec votre affiche"
+    ],
+    "arkadaşlarınızı": [
+      "your friends (object)",
+      "ваших друзей",
+      "досторуңузду",
+      "أصدقاءكم",
+      "vos amis"
+    ],
+    "afişinizi": [
+      "your poster (object)",
+      "вашу афишу",
+      "афишаңызды",
+      "ملصقكم",
+      "votre affiche"
+    ],
+    "sınıf": [
+      "class; classroom",
+      "класс",
+      "класс",
+      "صف",
+      "classe"
+    ],
+    "panosuna": [
+      "onto the noticeboard",
+      "на стенд",
+      "тактага",
+      "على لوحة الإعلانات",
+      "sur le panneau d'affichage"
+    ],
+    "asın": [
+      "hang up!",
+      "повесьте!",
+      "илгиле!",
+      "علقوا!",
+      "accrochez !"
+    ],
+    "arkadaşların": [
+      "your friends",
+      "твои друзья",
+      "сенин досторуң",
+      "أصدقاؤك",
+      "tes amis"
+    ],
+    "projeyi": [
+      "the project (object)",
+      "проект",
+      "долбоорду",
+      "المشروع",
+      "le projet"
+    ],
+    "beğendi": [
+      "liked",
+      "понравилось",
+      "жактырды",
+      "أعجب به",
+      "a aimé"
+    ],
+    "turkiyemaarifokullaritiyatrokulubu@gmail.com": [
+      "turkiyemaarifokullaritiyatrokulubu@gmail.com",
+      "turkiyemaarifokullaritiyatrokulubu@gmail.com",
+      "turkiyemaarifokullaritiyatrokulubu@gmail.com",
+      "turkiyemaarifokullaritiyatrokulubu@gmail.com",
+      "turkiyemaarifokullaritiyatrokulubu@gmail.com"
+    ],
+    "karagöz’ü": [
+      "Karagöz (object)",
+      "Карагёза",
+      "Карагөздү",
+      "قره غوز",
+      "Karagöz"
+    ],
+    "salonu’na": [
+      "to the hall",
+      "в зал",
+      "залга",
+      "إلى القاعة",
+      "à la salle"
+    ],
+    "14.00’te": [
+      "at 14:00",
+      "в 14:00",
+      "саат 14:00дө",
+      "الساعة 14:00",
+      "à 14 h"
+    ],
+    "eğlence": [
+      "entertainment; fun",
+      "развлечение",
+      "көңүл ачуу",
+      "ترفيه؛ مرح",
+      "divertissement ; plaisir"
     ]
   },
   "phrases": {

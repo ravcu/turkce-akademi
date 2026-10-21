@@ -578,14 +578,14 @@
       "Hello",
       "Здравствуйте",
       "Салам",
-      "Салом",
+      "مرحبًا",
       "Bonjour"
     ],
     "zdravo": [
       "Hello",
       "Здравствуйте",
       "Салам",
-      "Здраво",
+      "مرحبًا",
       "Bonjour"
     ],
     "jambo": [
@@ -1194,7 +1194,7 @@
       "Shavili (surname)",
       "Шавили",
       "Шавили",
-      "شافили",
+      "شافيلي",
       "Shavili"
     ],
     "suleyman": [
@@ -11535,6 +11535,20 @@
       "сөздөрдүн",
       "الكلمات / للكلمات",
       "des mots"
+    ],
+    "kalın:emir": [
+      "stay (polite/plural command)",
+      "оставайтесь",
+      "калыңыздар",
+      "ابقوا",
+      "restez"
+    ],
+    "y)dı": [
+      "-(y)DI: Turkish definite past-tense suffix",
+      "-(y)DI: турецкий суффикс определённого прошедшего времени",
+      "-(y)DI: түрк тилиндеги айкын өткөн чактын мүчөсү",
+      "-(y)DI: لاحقة الماضي المحدد في التركية",
+      "-(y)DI : suffixe du passé défini en turc"
     ]
   },
   "phrases": {
@@ -27245,6 +27259,33 @@
         "Бул шаарда көп музей бар.",
         "توجد متاحف كثيرة في هذه المدينة.",
         "Il y a beaucoup de musées dans cette ville."
+      ]
+    },
+    "kalın:emir": {
+      "text": "kalın",
+      "lemma": "kalmak",
+      "lemmaType": "verb",
+      "lemmaTranslations": [
+        "to stay",
+        "оставаться",
+        "калуу",
+        "البقاء",
+        "rester"
+      ],
+      "formTranslations": [
+        "stay (polite/plural command)",
+        "оставайтесь",
+        "калыңыздар",
+        "ابقوا",
+        "restez"
+      ],
+      "exampleTr": "Hoşça kalın!",
+      "examples": [
+        "Goodbye!",
+        "До свидания!",
+        "Кош болуңуздар!",
+        "إلى اللقاء!",
+        "Au revoir !"
       ]
     }
   },
