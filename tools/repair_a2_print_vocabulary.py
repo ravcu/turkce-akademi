@@ -112,6 +112,7 @@ def run():
   html=html.replace('const key=phrase?phrase.key:normalize(word);','const key=phrase?phrase.key:(words[index]?.entryKey||normalize(word));')
   html=html.replace("key=normalize(word);","key=(joined?.single?joined.key:null)||w.entryKey||normalize(word);")
   html=html.replace("key=joined?.key||w.entryKey||normalize(word);","key=(joined?.single?joined.key:null)||w.entryKey||normalize(word);")
+  if s==SLUGS[0]:html=html.replace("fetch('translations.json')","fetch('translations.json',{cache:'no-store'})")
   if s==SLUGS[1]:
    html=html.replace("20:[['etkin-','likler','etkinlikler'],['yapı-','lıyor?','yapılıyor']],\n        20:[['Sey-','yah','seyyah'],['is-','terdiniz?','isterdiniz']],","20:[['etkin-','likler','etkinlikler'],['yapı-','lıyor?','yapılıyor'],['Sey-','yah','seyyah'],['is-','terdiniz?','isterdiniz']],")
    # Numeric labels and contact identifiers are language-independent, not untranslated words.

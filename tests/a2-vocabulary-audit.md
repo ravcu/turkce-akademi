@@ -6,7 +6,7 @@ Tarih: 21 Ekim 2026
 
 | Ünite | Düzeltme |
 |---|---|
-| 1 — Tatil Dönüşü | Geçmiş zaman eki açıklaması eklendi. “Hoşça kalın” içindeki emir anlamı, “kalın ünlü” sıfatından ayrıldı. Üç Arapça kayıttaki yabancı alfabe hatası düzeltildi. |
+| 1 — Tatil Dönüşü | Geçmiş zaman eki açıklaması eklendi. “Hoşça kalın” içindeki emir anlamı, “kalın ünlü” sıfatından ayrıldı. Üç Arapça kayıttaki yabancı alfabe hatası düzeltildi. Sözlük yüklemesinin önbellekten eski çeviri alması engellendi. |
 | 2 — Hafta Sonu Planın Ne? | Eksik proje/afiş/duyuru kelimeleri ve özel adlar tamamlandı. İletişim bilgileri ve sayılar yazdırılabiliyor. Yinelenen sayfa anahtarı nedeniyle bozulan satır sonu birleştirmesi düzeltildi: etkin-likler ve yapı-lıyor artık tek kelime. Kesme işaretinin iki biçimi destekleniyor. |
 | 3 — Bir Günüm | “Yer çekimi” ve “yaşadığı yer” kullanımlarındaki yer, yemek fiilinin “yer” çekiminden ayrıldı. |
 | 4 — Şimdi Haberler | Ayşa adının son harfindeki Kiril/Latin karışıklığı kelime, çekim, ifade ve örnek kayıtlarında düzeltildi. |
