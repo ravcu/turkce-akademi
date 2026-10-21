@@ -1,0 +1,176 @@
+{
+  "status": "passed",
+  "unit": 6,
+  "pages": 16,
+  "hotspots": 2784,
+  "lexicalHotspots": 2602,
+  "phraseGroups": 253,
+  "joinedWords": 25,
+  "languages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "speechLanguages": [
+    "tr",
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "speechEntries": {
+    "tr": 2383,
+    "en": 2247,
+    "ru": 2191,
+    "ky": 2204,
+    "ar": 2181,
+    "fr": 2203
+  },
+  "missingMeanings": 0,
+  "missingExamples": 0,
+  "readerCss": "identical to unit 5",
+  "checks": [
+    {
+      "page": 1,
+      "hotspots": 57,
+      "languageRenders": 260,
+      "phraseGroups": 7,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 2,
+      "hotspots": 243,
+      "languageRenders": 1140,
+      "phraseGroups": 26,
+      "answerFills": 5,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 3,
+      "hotspots": 262,
+      "languageRenders": 1250,
+      "phraseGroups": 21,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 4,
+      "hotspots": 137,
+      "languageRenders": 660,
+      "phraseGroups": 12,
+      "answerFills": 6,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 5,
+      "hotspots": 85,
+      "languageRenders": 390,
+      "phraseGroups": 5,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 6,
+      "hotspots": 145,
+      "languageRenders": 685,
+      "phraseGroups": 13,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 7,
+      "hotspots": 135,
+      "languageRenders": 540,
+      "phraseGroups": 7,
+      "answerFills": 5,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 8,
+      "hotspots": 127,
+      "languageRenders": 560,
+      "phraseGroups": 7,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 9,
+      "hotspots": 86,
+      "languageRenders": 395,
+      "phraseGroups": 4,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 10,
+      "hotspots": 521,
+      "languageRenders": 2585,
+      "phraseGroups": 52,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 11,
+      "hotspots": 198,
+      "languageRenders": 890,
+      "phraseGroups": 26,
+      "answerFills": 7,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 12,
+      "hotspots": 198,
+      "languageRenders": 915,
+      "phraseGroups": 9,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 13,
+      "hotspots": 219,
+      "languageRenders": 1035,
+      "phraseGroups": 37,
+      "answerFills": 5,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 14,
+      "hotspots": 173,
+      "languageRenders": 800,
+      "phraseGroups": 11,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 15,
+      "hotspots": 88,
+      "languageRenders": 355,
+      "phraseGroups": 4,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    },
+    {
+      "page": 16,
+      "hotspots": 110,
+      "languageRenders": 550,
+      "phraseGroups": 12,
+      "answerFills": 0,
+      "pdfLanguages": 5
+    }
+  ],
+  "originalMediaPending": [
+    "S.038",
+    "S.039",
+    "S.040",
+    "S.041",
+    "S.042",
+    "S.043",
+    "S.044",
+    "S.045",
+    "V.007"
+  ]
+}
