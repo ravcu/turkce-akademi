@@ -24,3 +24,5 @@ S.038–S.045 ve V.007 dosyaları henüz yüklenmedi. Bu kodlar için başka ün
 ## Kontrol
 
 `tools/check_a2_unit6.py` tüm sayfaların kelime alanlarını, beş dilde anlam ve örneklerini, ifade seçimlerini, altı dilde ses dizinini, cevap alanlarını, PDF çıktısını ve mobil görünümü kontrol eder. Tamamlanan tarayıcı kontrolünün sonucu `verification.json` dosyasına yazılır.
+
+Son doğrulama başarılı: 16 sayfa, 2784 alan (2602 sözcük alanı), 253 kalıp seçimi, 25 satır sonu birleşimi; beş dilde eksik anlam/örnek: 0. Türkçe ve beş hedef dilin kayıtları gerçek tarayıcıda oynatıldı. Her sayfanın beş dilde PDF çıktısı, cevap yerleşimleri ve mobil görünümü kontrol edildi. Rapor: `verification.json`.
