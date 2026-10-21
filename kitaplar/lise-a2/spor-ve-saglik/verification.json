@@ -1,0 +1,43 @@
+{
+  "pages": 20,
+  "hotspots": 3995,
+  "logicalSelections": 1449,
+  "checked": 19975,
+  "exportChecks": 100,
+  "forms": 653,
+  "phraseEntries": 120,
+  "phraseOccurrences": 215,
+  "errors": [],
+  "unit": 8,
+  "languages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "readerCss": "identical to unit 7",
+  "coveredHotspotCentres": [],
+  "validation": "static reader harness, source word rectangles, language columns, phrase grouping, print export, speech corpus and MP3 duration checks",
+  "browserValidation": "not run: local browser sockets unavailable",
+  "originalMediaPending": [
+    "S.050",
+    "S.051",
+    "S.052",
+    "S.053",
+    "M.006",
+    "V.009"
+  ],
+  "answerKeyStatus": "reading and open-ended sample answers added; unavailable original media answers not guessed; ambiguous reading question flagged",
+  "speechSourceSha": "1c595a08fa3a6d3c4f3fecab389080f6c98c087faa9578479ca1ff2ede30be3c",
+  "speechEntries": {
+    "tr": 2959,
+    "en": 2854,
+    "ru": 2747,
+    "ky": 2776,
+    "ar": 2760,
+    "fr": 2768
+  },
+  "localSpeechFiles": 155,
+  "sharedSpeechFiles": 373
+}
