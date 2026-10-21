@@ -1,0 +1,121 @@
+name: A2 unit 6 pronunciation and reader checks
+on:
+  push:
+    paths:
+      - 'tools/prepare_a2_unit6_speech.py'
+      - '.github/workflows/prepare-a2-unit6.yml'
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: a2-unit6-pronunciation
+  cancel-in-progress: false
+jobs:
+  speech:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    strategy:
+      fail-fast: false
+      matrix:
+        lang: [tr, en, ru, ky, ar, fr]
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            kitaplar/lise-a2/hayat-birlikte-guzel
+            assets/speech-20261013
+            tools
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install local speech engines
+        run: |
+          sudo apt-get update -qq
+          sudo apt-get install -y -qq espeak-ng ffmpeg
+          pip install 'piper-tts>=1.3,<2' numpy scipy
+      - name: Synthesize exact editorial text
+        run: python tools/prepare_a2_unit6_speech.py --language ${{ matrix.lang }}
+      - uses: actions/upload-artifact@v4
+        with:
+          name: unit6-speech-${{ matrix.lang }}
+          path: |
+            kitaplar/lise-a2/hayat-birlikte-guzel/speech/${{ matrix.lang }}-*.mp3
+            kitaplar/lise-a2/hayat-birlikte-guzel/speech/${{ matrix.lang }}.json
+  save:
+    needs: speech
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            kitaplar/lise-a2/hayat-birlikte-guzel
+            tools
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: unit6-speech-*
+          path: /tmp/unit6-speech
+          merge-multiple: true
+      - name: Validate and save generated recordings
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          import json,hashlib,shutil
+          root=Path('kitaplar/lise-a2/hayat-birlikte-guzel');out=root/'speech';source=Path('/tmp/unit6-speech')
+          expected=hashlib.sha256((root/'translations.json').read_bytes()+(root/'pages.json').read_bytes()).hexdigest()
+          index={'version':1,'unit':6,'sourceSha':expected,'entries':{},'voices':{}}
+          for lang in ['tr','en','ru','ky','ar','fr']:
+              data=json.loads((source/(lang+'.json')).read_text())
+              assert data['sourceSha']==expected,'Editorial content changed; regenerate recordings'
+              index['entries'][lang]=data['entries'];index['voices'][lang]=data['model']
+              for path,start,end in data['entries'].values():
+                  assert 0<=start<end
+                  if not path.startswith('../'):assert (source/path).stat().st_size>100
+          out.mkdir(exist_ok=True)
+          for file in source.iterdir():
+              if file.suffix=='.mp3':shutil.copy2(file,out/file.name)
+          (out/'index.json').write_text(json.dumps(index,ensure_ascii=False,separators=(',',':')))
+          print({l:len(v) for l,v in index['entries'].items()})
+          PY
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kitaplar/lise-a2/hayat-birlikte-guzel/speech
+          git diff --cached --quiet && exit 0
+          git commit -m "A2 6. ünite: Türkçe ve beş dilde kelime ve örnek seslerini ekle"
+          git pull --rebase origin main
+          git push
+  verify:
+    needs: save
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: |
+            kitaplar/lise-a2/hayat-birlikte-guzel
+            kitaplar/lise-a2/dedemin-meslegi
+            kitaplar/lise-a2/akilli-teknoloji
+            assets/speech-20261013
+            tools
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: pip install playwright
+      - run: python -m playwright install --with-deps chromium
+      - name: Check all pages, dictionary languages, phrase selection, audio and PDF export
+        run: python tools/check_a2_unit6.py
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: unit6-reader-checks
+          path: /tmp/unit6-qa
+      - name: Save passed verification report
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add kitaplar/lise-a2/hayat-birlikte-guzel/verification.json
+          git diff --cached --quiet && exit 0
+          git commit -m "A2 6. ünite: tüm sayfaların tarayıcı doğrulama raporunu kaydet"
+          git pull --rebase origin main
+          git push
