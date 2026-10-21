@@ -93,6 +93,8 @@ with sync_playwright() as pw:
    page.locator(f'.word-hit[data-index="{idx}"]').evaluate('(b)=>b.click()')
    assert page.locator('.word-hit.is-selected').count()==len(chosen['indices']),('phrase selection',pi+1,chosen)
   page.locator('#answerSummary').click()
+  page.wait_for_function('document.querySelector("#answerDetails").open')
+  page.wait_for_timeout(100)
   visible=page.locator('#answerOverlay .answer-fill').count()
   if answers[str(pi+1)].get('fills'):assert visible>0,('answer placement',pi+1)
   # Every page exports in every language, with no placeholder translations.
@@ -102,7 +104,8 @@ with sync_playwright() as pw:
    page.locator('#exportPageWords').click() if page.locator('#exportPageWords').count() else page.locator('button').filter(has_text='Bu sayfanın kelimelerini PDF').click()
    out=page.evaluate('window.__printOpened');page.evaluate('window.open=window.__oldOpen')
    assert out and 'çeviri kontrol' not in out,(pi+1,lang,'PDF export')
-  if pi+1 in [1,4,11,13]:page.screenshot(path=str(QA/f'page-{pi+1:02}-desktop.png'),full_page=True)
+  if pi+1 in [1,4,11,13]:
+   page.evaluate('window.scrollTo(0,0)');page.wait_for_timeout(100);page.screenshot(path=str(QA/f'page-{pi+1:02}-desktop.png'),full_page=True)
   checks.append({'page':pi+1,'hotspots':len(p['words']),'languageRenders':rendered,'phraseGroups':len(p['phraseGroups']),'answerFills':visible,'pdfLanguages':5})
  # Audio playback checks in all six languages: actual media bytes, metadata and progress.
  for lang,text in ([] if SKIP_AUDIO else [('tr','kurallar'),('en','rules'),('ru','правила'),('ky','эрежелер'),('ar','القواعد'),('fr','règles')]):
@@ -111,7 +114,7 @@ with sync_playwright() as pw:
   page.evaluate('([t,l])=>{window.__audioError=null;window.__speaking=TurkceSpeech.speak(t,l).catch(e=>window.__audioError=e.message)}',[entrykey,lang]);page.wait_for_timeout(1200)
   assert not page.evaluate('window.__audioError'),('playback',lang,page.evaluate('window.__audioError'))
   page.locator('.thumb').nth(0).click();page.evaluate('TurkceSpeech.stop()')
- page.set_viewport_size({'width':390,'height':844});page.locator('.thumb').nth(0).click();page.screenshot(path=str(QA/'mobile.png'),full_page=True)
+ page.set_viewport_size({'width':390,'height':844});page.locator('.thumb').nth(0).click();page.evaluate('window.scrollTo(0,0)');page.wait_for_timeout(100);page.screenshot(path=str(QA/'mobile.png'),full_page=True)
  assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+2'),'horizontal mobile overflow'
  assert not errors,errors
  browser.close()
