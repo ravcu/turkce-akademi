@@ -21,10 +21,12 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
+          sparse-checkout-cone-mode: false
           sparse-checkout: |
-            kitaplar/lise-a2/hayat-birlikte-guzel
-            assets/speech-20261013
-            tools
+            /tools/
+            /kitaplar/lise-a2/hayat-birlikte-guzel/*.json
+            /kitaplar/lise-a2/hayat-birlikte-guzel/speech/index.json
+            /assets/speech-20261013/index.json
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
@@ -70,7 +72,7 @@ jobs:
               index['entries'][lang]=data['entries'];index['voices'][lang]=data['model']
               for path,start,end in data['entries'].values():
                   assert 0<=start<end
-                  if not path.startswith('../'):assert (source/path).stat().st_size>100
+                  if not path.startswith('../'):assert any(f.is_file() and f.stat().st_size>100 for f in [source/path,out/path])
           out.mkdir(exist_ok=True)
           for file in source.iterdir():
               if file.suffix=='.mp3':shutil.copy2(file,out/file.name)

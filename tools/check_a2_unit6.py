@@ -1,12 +1,13 @@
 """End-to-end checks for the A2 unit 6 reader, without using translation services."""
 from pathlib import Path
-import json,re,hashlib,threading,http.server,os,subprocess,time
+import json,re,hashlib,threading,http.server,os,subprocess,time,unicodedata
 from playwright.sync_api import sync_playwright
 SKIP_AUDIO=os.environ.get('UNIT6_SKIP_AUDIO')=='1'
 ROOT=Path('kitaplar/lise-a2/hayat-birlikte-guzel');QA=Path('/tmp/unit6-qa');QA.mkdir(exist_ok=True)
 g=json.loads((ROOT/'translations.json').read_text());pages=json.loads((ROOT/'pages.json').read_text());audio={'entries':{}} if SKIP_AUDIO else json.loads((ROOT/'speech/index.json').read_text());answers=json.loads((ROOT/'answers.json').read_text())
 def norm(s):return re.sub(r'^[^\w]+|[^\w]+$','',s.replace('’',"'").replace('I','ı').replace('İ','i').lower())
 def speechkey(s,l):
+ s=unicodedata.normalize('NFC',s)
  s=re.sub(r'\s+',' ',re.sub(r'(^|\s)[\-−–—]+(?=\s*\S)',r'\1',s)).strip()
  if l=='tr':s=s.replace('I','ı').replace('İ','i')
  return re.sub(r'^[.!?,:;…\s]+|[.!?,:;…\s]+$','',s.lower())
@@ -104,16 +105,20 @@ with sync_playwright() as pw:
    page.locator('#exportPageWords').click() if page.locator('#exportPageWords').count() else page.locator('button').filter(has_text='Bu sayfanın kelimelerini PDF').click()
    out=page.evaluate('window.__printOpened');page.evaluate('window.open=window.__oldOpen')
    assert out and 'çeviri kontrol' not in out,(pi+1,lang,'PDF export')
+   if pi==12 and lang in ['en','ar']:
+    pdfpage=browser.new_page();pdfpage.set_content(out);pdfpage.pdf(path=str(QA/f'words-page-13-{lang}.pdf'),print_background=True,prefer_css_page_size=True);pdfpage.close()
   if pi+1 in [1,4,11,13]:
    page.evaluate('window.scrollTo(0,0)');page.wait_for_timeout(100);page.screenshot(path=str(QA/f'page-{pi+1:02}-desktop.png'),full_page=True)
   checks.append({'page':pi+1,'hotspots':len(p['words']),'languageRenders':rendered,'phraseGroups':len(p['phraseGroups']),'answerFills':visible,'pdfLanguages':5})
  # Audio playback checks in all six languages: actual media bytes, metadata and progress.
- for lang,text in ([] if SKIP_AUDIO else [('tr','kurallar'),('en','rules'),('ru','правила'),('ky','эрежелер'),('ar','القواعد'),('fr','règles')]):
+ page.evaluate('window.__NativeAudio=window.Audio;window.Audio=function(...args){const a=new window.__NativeAudio(...args);window.__lastAudio=a;return a}')
+ for li,(lang,text) in enumerate([] if SKIP_AUDIO else [('tr','kurallar'),('en','rules'),('ru','правила'),('ky','эрежелер'),('ar','القواعد'),('fr','règles')]):
   # Choose an actual corpus key rather than assume dictionary wording.
-  entrykey=next(k for k,v in audio['entries'][lang].items() if not v[0].startswith('../'))
-  page.evaluate('([t,l])=>{window.__audioError=null;window.__speaking=TurkceSpeech.speak(t,l).catch(e=>window.__audioError=e.message)}',[entrykey,lang]);page.wait_for_timeout(1200)
+  entrykey=next(k for k,v in audio['entries'][lang].items() if not v[0].startswith('../') and v[2]-v[1]>1.7)
+  page.evaluate('([t,l])=>{window.__audioError=null;window.__speaking=TurkceSpeech.speak(t,l).catch(e=>window.__audioError=e.message)}',[entrykey,lang]);page.wait_for_function('window.__lastAudio&&window.__lastAudio.readyState>=2');page.wait_for_timeout(300)
   assert not page.evaluate('window.__audioError'),('playback',lang,page.evaluate('window.__audioError'))
-  page.locator('.thumb').nth(0).click();page.evaluate('TurkceSpeech.stop()')
+  assert page.evaluate('window.__lastAudio.currentTime')>audio['entries'][lang][entrykey][1]+.04,('audio progress',lang)
+  page.locator('.thumb').nth(li+1).click();assert page.evaluate('window.__lastAudio.paused'),('page change did not stop audio',lang)
  page.set_viewport_size({'width':390,'height':844});page.locator('.thumb').nth(0).click();page.evaluate('window.scrollTo(0,0)');page.wait_for_timeout(100);page.screenshot(path=str(QA/'mobile.png'),full_page=True)
  assert page.evaluate('document.documentElement.scrollWidth<=innerWidth+2'),'horizontal mobile overflow'
  assert not errors,errors

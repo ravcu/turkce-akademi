@@ -54,16 +54,21 @@ def build(item):
  model=MODELS/('tr_TR-dfki-medium.onnx' if lang=='tr' else lang+'.onnx')
  voice=None if lang=='ky' else PiperVoice.load(model)
  shared=json.loads(Path('assets/speech-20261013/index.json').read_text()).get('entries',{}).get(lang,{})
+ cache_path=OUT/'index.json'
+ cached=json.loads(cache_path.read_text()).get('entries',{}).get(lang,{}) if cache_path.exists() else {}
+ revision=hashlib.sha256((ROOT/'translations.json').read_bytes()+(ROOT/'pages.json').read_bytes()).hexdigest()[:10]
  entries={};todo=[];reuse=0
  for k,t in sorted(data.items()):
-  if k in shared:
+  if k in cached:
+   entries[k]=cached[k];reuse+=1
+  elif k in shared:
    old=shared[k];entries[k]=['../../../../assets/speech-20261013/'+old[0],old[1],old[2]];reuse+=1
   else:todo.append((k,t))
  part=0;frames=0;buffer=[];silence=np.zeros(int(RATE*.18),dtype=np.int16);pending=[]
  def flush():
   nonlocal part,frames,buffer,pending
   if not pending:return
-  filename=f'{lang}-{part:03}.mp3';pcm=np.concatenate(buffer)
+  filename=f'{lang}-{revision}-{part:03}.mp3';pcm=np.concatenate(buffer)
   subprocess.run(['ffmpeg','-hide_banner','-loglevel','error','-y','-f','s16le','-ar',str(RATE),'-ac','1','-i','pipe:0','-codec:a','libmp3lame','-b:a','48k',str(OUT/filename)],input=pcm.tobytes(),check=True)
   for k,s,e in pending:entries[k]=[filename,round(s,4),round(e,4)]
   part+=1;frames=0;buffer=[];pending=[]
