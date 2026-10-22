@@ -1,0 +1,57 @@
+name: Preview A2 unit 9 OpenAI speech
+on:
+  workflow_dispatch:
+    inputs:
+      max_requests:
+        description: Maximum number of NEW audio texts to generate (paid API usage)
+        required: true
+        type: number
+        default: 5
+      include_kyrgyz_experimental:
+        description: Include Kyrgyz samples for native-speaker review (not officially listed)
+        required: true
+        type: boolean
+        default: false
+permissions:
+  contents: read
+jobs:
+  preview:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - name: Check API configuration
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+        run: |
+          if [ -z "$OPENAI_API_KEY" ]; then
+            echo 'Add OPENAI_API_KEY as a repository Actions secret before generating speech.'
+            exit 1
+          fi
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            tools/prepare_a2_unit9_openai_speech.py
+            kitaplar/lise-a2/bir-hikayem-var/translations.json
+            kitaplar/lise-a2/bir-hikayem-var/speech/index.json
+          sparse-checkout-cone-mode: false
+          persist-credentials: false
+      - name: Install audio validator
+        run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
+      - name: Generate review samples
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          REQUEST_LIMIT: ${{ inputs.max_requests }}
+          INCLUDE_KYRGYZ: ${{ inputs.include_kyrgyz_experimental }}
+        run: |
+          args=(--generate --max-requests "$REQUEST_LIMIT")
+          if [ "$INCLUDE_KYRGYZ" = 'true' ]; then
+            args+=(--include-kyrgyz-experimental)
+          fi
+          python tools/prepare_a2_unit9_openai_speech.py "${args[@]}"
+      - name: Save review samples
+        uses: actions/upload-artifact@v4
+        with:
+          name: unit9-openai-marin-review
+          path: kitaplar/lise-a2/bir-hikayem-var/speech-openai-review/
+          retention-days: 7
+          if-no-files-found: error
