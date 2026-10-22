@@ -1,0 +1,21 @@
+{
+  "arabicTexts": 2336,
+  "reusedUnit8": 726,
+  "newTexts": 1610,
+  "newMp3Packs": 40,
+  "allRequiredKeysPresent": true,
+  "fullNewSemicolonTexts": 149,
+  "allNewFilesDecode": true,
+  "allOffsetsValid": true,
+  "otherLanguagesUnchanged": true,
+  "voice": {
+    "engine": "Piper",
+    "voice": "ar_JO-kareem-medium",
+    "modelSha256": "9e95cab07b679da603bba17c4dec7ab3111320571964ee95c0379603c086491e",
+    "lengthScale": 1.08,
+    "diacritization": "Piper Tashkeel; shared unit 8 Piper clips retain reviewed overrides",
+    "fullText": true,
+    "reusedUnit8": 726,
+    "newTexts": 1610
+  }
+}
