@@ -1,0 +1,20 @@
+const fs=require('fs'),vm=require('vm'),path=require('path'),assert=require('assert');
+const root=path.resolve(__dirname,'../kitaplar/lise-a2/tatil-donusu/sunum');
+const glossary=JSON.parse(fs.readFileSync(root+'/assets/translations.json')),spots=JSON.parse(fs.readFileSync(root+'/assets/word-spots.json')),slides=JSON.parse(fs.readFileSync(root+'/assets/slides.json')).slides;
+let html=fs.readFileSync(root+'/index.html','utf8');let script=[...html.matchAll(/<script(?:\s[^>]*)?>([\s\S]*?)<\/script>/g)].map(x=>x[1]).find(x=>x.includes('function selectPhrase'));
+const nodes=new Map();function node(){return {style:{},classList:{add(){},remove(){},toggle(){}},hidden:false,innerHTML:'',textContent:'',setAttribute(k,v){this[k]=v},querySelector(){return node()},querySelectorAll(){return []},appendChild(n){this.last=n},remove(){}}}
+const document={getElementById(id){if(!nodes.has(id))nodes.set(id,node());return nodes.get(id)},querySelectorAll(){return []},createElement:node};
+script=script.replace('  init();',`globalThis.API={selectPhrase,showEntry,renderAnswers,canonicalDisplay,go,setAudio(v){audioNodes=v},setLanguage(v){lang=v},setPage(n,v){current=n;answersVisible=v},load(d,h,s){dict=d;spots=h;slides=s}};`);
+const ctx={document,console,window:{TurkceSpeech:{stop(){}}},matchMedia(){return {matches:true}},Audio:class{pause(){}play(){return Promise.resolve()}},localStorage:{getItem(){return null},setItem(){}},setTimeout,clearTimeout};vm.createContext(ctx);vm.runInContext(script,ctx);const api=ctx.API;api.load(glossary,spots,slides);
+const speechTexts={};let selections=0,phrases=0;const seen=new Set();const errors=[];
+for(let page=0;page<spots.length;page++){
+ api.setPage(page,true);api.renderAnswers();const toggle=nodes.get('answerToggle'),overlay=nodes.get('answerOverlay');if(slides[page].answerImage){assert.equal(overlay.hidden,false);toggle.onclick();assert.equal(overlay.hidden,true);toggle.onclick();assert.equal(overlay.hidden,false)}
+ for(let i=0;i<spots[page].length;i++){
+  const selected=api.selectPhrase(i,spots[page]);if(selected.phrase){phrases++;seen.add(selected.key)}
+  for(const lang of ['en','ru','ky','ar','fr']){api.setLanguage(lang);api.showEntry(selected);const out=nodes.get('translationPanel').last.innerHTML;if(out.includes('çeviri kaydı bulunamadı')||out.includes('>—<')||!out.includes('ÖRNEK CÜMLE'))errors.push([page+1,i,selected.key,lang]);for(const m of out.matchAll(/data-say="([^"]*)" data-say-lang="([^"]*)"/g)){const t=m[1].replace(/&amp;|&lt;|&gt;|&quot;|&#39;/g,x=>({'&amp;':'&','&lt;':'<','&gt;':'>','&quot;':'\"','&#39;':"'"}[x]));(speechTexts[m[2]]??=new Set()).add(t)}selections++}
+ }
+ for(const s of ['image','answerImage'])if(slides[page][s])assert(fs.statSync(root+'/'+slides[page][s]).size>100);
+ for(const p of slides[page].audio||[])assert(fs.statSync(root+'/'+p).size>500);
+}
+for(const expected of ['güneş gözlüğü','fotoğraf makinesi','uyku tulumu','el feneri','hoş bulduk','incik boncuk',"koza han'da",'ark kalesi'])assert(seen.has(expected),'phrase missing '+expected);
+const recorded=JSON.parse(fs.readFileSync(root+'/speech/index.json'));const speechMissing=[];for(const [language,texts] of Object.entries(speechTexts)){for(const t of texts){const key=String(t).normalize('NFC').replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim().toLocaleLowerCase(language==='tr'?'tr-TR':'und').replace(/^[.!?,:;…\s]+|[.!?,:;…\s]+$/g,'');if(!recorded.entries[language]?.[key])speechMissing.push([language,t])}}let paused=false;const lessonTrack={currentTime:12,pause(){paused=true}};api.setPage(0,false);api.setAudio([lessonTrack]);api.go(1);assert(paused);assert.equal(lessonTrack.currentTime,0);assert.deepEqual(speechMissing,[]);assert.deepEqual(errors,[]);console.log(JSON.stringify({slides:slides.length,hotspots:spots.flat().length,selections,phraseClicks:phrases,distinctSelectedPhrases:seen.size,navigationStopsAudio:true,speechTexts:Object.fromEntries(Object.entries(speechTexts).map(([k,v])=>[k,v.size])),selectedPhrases:[...seen].sort(),errors},null,2));
