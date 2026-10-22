@@ -1,12 +1,12 @@
 {
   "pages": 20,
   "hotspots": 3136,
-  "logicalSelections": 1258,
+  "logicalSelections": 1257,
   "checked": 15680,
   "exportChecks": 100,
-  "forms": 730,
-  "phraseEntries": 132,
-  "phraseOccurrences": 212,
+  "forms": 731,
+  "phraseEntries": 133,
+  "phraseOccurrences": 213,
   "errors": [],
   "unit": 9,
   "languages": [
@@ -22,14 +22,14 @@
   "translationSource": "ChatGPT editorial translations; no translation service",
   "speechEngine": "eSpeak NG local synthesis; existing matching recordings reused",
   "speechEntries": {
-    "tr": 2831,
-    "en": 2432,
-    "ru": 2359,
-    "ky": 2364,
-    "ar": 2333,
-    "fr": 2342
+    "tr": 2833,
+    "en": 2435,
+    "ru": 2362,
+    "ky": 2366,
+    "ar": 2336,
+    "fr": 2344
   },
-  "localSpeechFiles": 142,
+  "localSpeechFiles": 148,
   "sharedSpeechFiles": 529,
   "originalMediaPending": [
     "S.054",

@@ -97,6 +97,8 @@ def build():
  for f in g['forms'].values():
   lk=norm(f['lemma'])
   if lk in g['words']:f['lemmaTranslations']=g['words'][lk]
+ for form,lemma in [('yazım','yaz'),('kışım','kış')]:
+  g['forms'][form]={'text':form,'lemma':lemma,'lemmaType':'noun','lemmaTranslations':g['words'][lemma],'formTranslations':g['words'][form],'exampleTr':'Masalda siyah keçi kışı, beyaz keçi yazı temsil ediyor.','examples':['In the fairy tale, the black goat represents winter and the white goat represents summer.','В сказке чёрная коза олицетворяет зиму, а белая — лето.','Жомокто кара эчки кышты, ак эчки жайды билдирет.','في الحكاية تمثل الماعز السوداء الشتاء والماعز البيضاء الصيف.','Dans le conte, la chèvre noire représente l’hiver et la blanche l’été.']}
  # Audio/video identifiers are references, not vocabulary words.
  for code in ['s.054','s.055','s.056','s.057','v.010','v.011']:
   label=code.upper();kind='video' if code.startswith('v') else 'song' if code.startswith('m') else 'listening'
