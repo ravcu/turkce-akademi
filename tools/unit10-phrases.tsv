@@ -1,0 +1,167 @@
+yer ayırtma|booking; reservation|бронирование|ээлеп коюу|حجز|réservation|ayırtma
+yer ayırttınız|you booked a place|вы забронировали место|сиз орун ээлеп койдуңуз|حجزتم مكانا|vous avez réservé une place|ayırtma
+rezervasyon yaptırmak|to make a reservation|забронировать|ээлеп коюу|يجري حجزا|faire une réservation|rezervasyon
+rezervasyon yaptırıyor|is making a reservation|бронирует|ээлеп жатат|يجري حجزا|effectue une réservation|rezervasyon
+rezervasyon yapmak|to make a reservation|забронировать|ээлеп коюу|يجري حجزا|faire une réservation|rezervasyon
+rezervasyon oluşturmak|to make a booking|оформить бронирование|ээлөөнү түзүү|ينشئ حجزا|effectuer une réservation|rezervasyon
+rezervasyon oluşturma|making a reservation|оформление бронирования|ээлөөнү түзүү|إجراء حجز|réservation|rezervasyon
+yer ayırtır|books a place|бронирует место|орун ээлейт|يحجز مكانا|réserve une place|ayırtma
+uçak bileti|plane ticket|авиабилет|учак билети|تذكرة طيران|billet d’avion|ücret
+uçak biletlerinde|on plane tickets; on airfares|на авиабилеты|учак билеттеринде|على تذاكر الطيران|sur les billets d’avion|indirim
+alışveriş çeki|shopping voucher|подарочный сертификат|белек сертификаты|قسيمة شراء|bon d’achat|çeki
+çağrı merkezi|call centre|кол-центр|чалуу борбору|مركز اتصال|centre d’appels|çağrı
+müşteri hizmetleri|customer service|служба поддержки клиентов|кардарларды тейлөө кызматы|خدمة العملاء|service client|hizmet
+kimlik bilgileri|identity information|паспортные данные|өздүк маалыматтар|بيانات الهوية|informations d’identité|kimlik
+sürücü belgesi|driving licence|водительское удостоверение|айдоочулук күбөлүк|رخصة قيادة|permis de conduire|sürücü
+sürücü belgesi bilgileri|driving licence information|данные водительского удостоверения|айдоочулук күбөлүктөгү маалыматтар|بيانات رخصة القيادة|informations du permis de conduire|sürücü
+oda tipi|room type|тип номера|бөлмөнүн түрү|نوع الغرفة|type de chambre|tipi
+oda manzarası|room view|вид из номера|бөлмөдөн көрүнүш|إطلالة الغرفة|vue de la chambre|tipi
+aile odası|family room|семейный номер|үй-бүлөлүк бөлмө|غرفة عائلية|chambre familiale|konaklama
+tek kişilik oda|single room|одноместный номер|бир кишилик бөлмө|غرفة مفردة|chambre simple|konaklama
+çift kişilik oda|double room|двухместный номер|эки кишилик бөлмө|غرفة مزدوجة|chambre double|konaklama
+apart otelde|in an apartment hotel|в апарт-отеле|батир тибиндеги мейманканада|في فندق شقق|dans un appart’hôtel|apart
+konaklama yeri|accommodation|место проживания|түнөй турган жер|مكان الإقامة|lieu d’hébergement|konaklama
+konaklama ücreti|accommodation charge|стоимость проживания|жайгашуу акысы|رسوم الإقامة|prix de l’hébergement|ücret
+konaklama tarihi|dates of stay|даты проживания|жайгашуу датасы|تاريخ الإقامة|dates du séjour|konaklama
+kişi sayısı|number of people|количество человек|адамдардын саны|عدد الأشخاص|nombre de personnes|konaklama
+ulaşım şekli|means of transport|способ передвижения|транспорт түрү|وسيلة النقل|mode de transport|ulaşmak
+ödeme seçeneği|payment option|способ оплаты|төлөм түрү|خيار الدفع|mode de paiement|peşin
+otelde ödeme|payment at the hotel|оплата в отеле|мейманканада төлөө|الدفع في الفندق|paiement à l’hôtel|peşin
+peşin fiyatına üç taksit|three instalments for the same total cash price|три платежа без увеличения общей цены|бааны көтөрбөстөн үчкө бөлүп төлөө|ثلاثة أقساط بنفس السعر النقدي|trois versements au même prix comptant|peşin
+rezervasyon kodu|booking code|код бронирования|ээлөө коду|رمز الحجز|code de réservation|rezervasyon
+rezervasyon kodunu|the booking code (object)|код бронирования|ээлөө кодун|رمز الحجز|le code de réservation|rezervasyon
+ücrete dâhil|included in the price|включено в стоимость|баага кирет|مشمول في السعر|compris dans le prix|ücret
+ücrete dâhil değil|not included in the price|не включено в стоимость|баага кирбейт|غير مشمول في السعر|non compris dans le prix|ücret
+kahvaltı dâhil|breakfast included|завтрак включён|эртең мененки тамак кирет|الإفطار مشمول|petit déjeuner compris|konaklama
+akşam yemeği dâhil|dinner included|ужин включён|кечки тамак кирет|العشاء مشمول|dîner compris|konaklama
+kahvaltı ve akşam yemeği dâhil|breakfast and dinner included|завтрак и ужин включены|эртең мененки жана кечки тамак кирет|الإفطار والعشاء مشمولان|petit déjeuner et dîner compris|konaklama
+ek ücret karşılığında|for an additional charge|за дополнительную плату|кошумча акыга|مقابل رسوم إضافية|moyennant un supplément|ücret
+yürüme mesafesindedir|is within walking distance|находится в пешей доступности|жөө жетчү аралыкта|يقع على مسافة قريبة سيرا|est accessible à pied|uzaklık
+iyi uçuşlar|have a pleasant flight|приятного полёта|жакшы учуңуз|رحلة سعيدة|bon vol|hostes
+uçuş moduna|into flight mode|в режим полёта|учуу режимине|إلى وضع الطيران|en mode avion|mod
+emniyet kemerinizi|your seat belt (object)|ваш ремень безопасности|коопсуздук куруңузду|حزام أمانكم|votre ceinture de sécurité|emniyet
+çıkış kapısından|through the departure gate|через выход на посадку|учакка отуруу дарбазасынан|عبر بوابة المغادرة|par la porte d’embarquement|alım
+kapı kapama sinyalini|the door-closing signal (object)|сигнал закрытия дверей|эшик жабылуу сигналын|إشارة إغلاق الباب|le signal de fermeture des portes|anons
+sona eriyor|is coming to an end|заканчивается|аяктап жатат|ينتهي|se termine|eriyor
+acil durumda|in an emergency|в экстренной ситуации|өзгөчө кырдаалда|في حالة الطوارئ|en cas d’urgence|acil
+rica olunur|is kindly requested (formal announcement)|просим (официальное объявление)|өтүнөбүз (расмий кулактандыруу)|يرجى|il est demandé de|anons
+kayıt altına alınmaktadır|is being recorded|записывается|жазылып алынат|يتم تسجيله|est enregistré|görüşme
+nasıl yardımcı olabilirim|how can I help you?|чем могу помочь?|кантип жардам бере алам?|كيف يمكنني مساعدتكم؟|comment puis-je vous aider ?|hizmet
+kusura bakmayın|excuse me; I am sorry|извините|кечирип коюңуз|عفوا؛ أعتذر|excusez-moi|kibar
+tekrar eder misiniz|could you repeat that?|повторите, пожалуйста|кайра айта аласызбы?|هل تكررون ذلك؟|pourriez-vous répéter ?|anons
+bir daha söyleyebilir misiniz|could you say that again?|можете сказать ещё раз?|дагы бир жолу айта аласызбы?|هل يمكن أن تقولوا ذلك مرة أخرى؟|pourriez-vous le redire ?|anons
+daha yavaş|more slowly|медленнее|жайыраак|ببطء أكثر|plus lentement|anons
+bilgi almak|to obtain information|получить информацию|маалымат алуу|يحصل على معلومات|se renseigner|bilgilendirmek
+karar verelim|let us decide|давайте решим|чечим кабыл алалы|لنقرر|décidons|seçim
+ne dersin|what do you think?|что ты думаешь?|кандай дейсиң?|ما رأيك؟|qu’en penses-tu ?|seçim
+hep birlikte|all together|все вместе|баарыбыз чогуу|جميعا معا|tous ensemble|aile
+aynı zamanda|at the same time; also|одновременно; также|ошол эле учурда|في الوقت نفسه؛ أيضا|en même temps ; aussi|hizmet
+merak ettik|we were curious|нам стало интересно|биз кызыктык|شعرنا بالفضول|nous étions curieux|macera
+merak ediyorum|I am curious; I wonder|мне интересно|мен кызыгып жатам|أتساءل؛ يثير فضولي|je me demande|macera
+çok merak ediyorum|I am very curious|мне очень интересно|мен абдан кызыгып жатам|يثير فضولي كثيرا|cela m’intrigue beaucoup|macera
+dağ tırmanışı yapmak|to go mountain climbing|заниматься альпинизмом|тоого чыгуу|يمارس تسلق الجبال|faire de l’alpinisme|çadırda
+doğa yürüyüşü yapmak|to go hiking in nature|ходить в походы|табиятта жөө жүрүшкө чыгуу|يمشي في الطبيعة|faire une randonnée|çadırda
+piknik yapmak|to have a picnic|устроить пикник|пикникке чыгуу|يقوم بنزهة|pique-niquer|aile
+fidan dikmek|to plant a sapling|сажать саженец|көчөт отургузуу|يغرس شتلة|planter un jeune arbre|çınar
+plaj voleybolu|beach volleyball|пляжный волейбол|пляж волейболу|كرة الطائرة الشاطئية|beach-volley|safari
+tek başıma|on my own|один; одна|жалгыз өзүм|بمفردي|tout seul|macera
+şehir merkezi|city centre|центр города|шаардын борбору|مركز المدينة|centre-ville|konum
+şehir merkezine|to the city centre|в центр города|шаардын борборуна|إلى مركز المدينة|au centre-ville|konum
+şehir merkezlerine|to city centres|в центры городов|шаарлардын борборлоруна|إلى مراكز المدن|aux centres-villes|konum
+alışveriş merkezlerine|to shopping centres|в торговые центры|соода борборлоруна|إلى مراكز التسوق|aux centres commerciaux|çeki
+alışveriş merkezleri|shopping centres|торговые центры|соода борборлору|مراكز التسوق|centres commerciaux|çeki
+yaya kaldırımlarından|on or along the pavements|по тротуарам|тротуарлар менен|على الأرصفة|sur les trottoirs|levhalar
+yaya geçitlerinde|at pedestrian crossings|на пешеходных переходах|жөө өтмөктөрдө|عند معابر المشاة|aux passages piétons|levhalar
+üst geçidi|the pedestrian overpass|надземный переход|жөө адамдар өтүүчү көпүрө|جسر المشاة|la passerelle piétonne|levhalar
+alt geçitleri|the underpasses|подземные переходы|жер астындагы өтмөктөр|المعابر السفلية|les passages souterrains|levhalar
+alt geçitlerin|of the underpasses|подземных переходов|жер астындагы өтмөктөрдүн|للمعابر السفلية|des passages souterrains|levhalar
+karşıdan karşıya|from one side to the other|на другую сторону|аркы бетке|إلى الجهة الأخرى|de l’autre côté|levhalar
+aşırı hız|excessive speed|превышение скорости|ашыкча ылдамдык|سرعة مفرطة|vitesse excessive|levhalar
+takip mesafesini|the following distance (object)|дистанцию до впереди идущего автомобиля|алдыдагы унаа менен аралыкты|مسافة الأمان|la distance de sécurité|levhalar
+şerit değiştirmeyin|do not change lanes|не меняйте полосу|тилке алмаштырбаңыз|لا تغيروا المسار|ne changez pas de voie|levhalar
+yol verin|give way|уступите дорогу|жол бериңиз|أفسحوا الطريق|cédez le passage|levhalar
+trafik işaretlerine|to the traffic signs|дорожным знакам|жол белгилерине|لإشارات المرور|aux panneaux de signalisation|levhalar
+hatalı sollama|improper overtaking|неправильный обгон|эрежеге туура келбеген озуп өтүү|تجاوز خاطئ|dépassement dangereux|levhalar
+geri geri|backwards; in reverse|задним ходом|артка|إلى الخلف|en marche arrière|levhalar
+kız kulesi|Maiden's Tower|Девичья башня|Кыз мунарасы|برج الفتاة|tour de Léandre|kule
+kız kulesine|to Maiden's Tower|к Девичьей башне|Кыз мунарасына|إلى برج الفتاة|à la tour de Léandre|kule
+kız kulesi'ne|to Maiden's Tower|к Девичьей башне|Кыз мунарасына|إلى برج الفتاة|à la tour de Léandre|kule
+kız kulesinin|of Maiden's Tower|Девичьей башни|Кыз мунарасынын|لبرج الفتاة|de la tour de Léandre|kule
+galata kulesi|Galata Tower|Галатская башня|Галата мунарасы|برج غلاطة|tour de Galata|kule
+galata kulesine|to Galata Tower|к Галатской башне|Галата мунарасына|إلى برج غلاطة|à la tour de Galata|kule
+galata kulesi'ne|to Galata Tower|к Галатской башне|Галата мунарасына|إلى برج غلاطة|à la tour de Galata|kule
+galata kulesini|Galata Tower (object)|Галатскую башню|Галата мунарасын|برج غلاطة|la tour de Galata|kule
+galata kulesinin|of Galata Tower|Галатской башни|Галата мунарасынын|لبرج غلاطة|de la tour de Galata|kule
+mostar köprüsü|Mostar Bridge|Мостарский мост|Мостар көпүрөсү|جسر موستار|pont de Mostar|mostar
+registan meydanı|Registan Square|площадь Регистан|Регистан аянты|ساحة ريغستان|place du Régistan|registan
+registan meydanı'dır|is Registan Square|является площадью Регистан|Регистан аянты болуп саналат|هي ساحة ريغستان|est la place du Régistan|registan
+registan meydanının|of Registan Square|площади Регистан|Регистан аянтынын|لساحة ريغستان|de la place du Régistan|registan
+bibi hanım|Bibi-Khanym (proper name)|Биби-Ханым|Биби Ханым|بيبي خانم|Bibi-Khanym|registan
+bibi hanım camii|Bibi-Khanym Mosque|мечеть Биби-Ханым|Биби Ханым мечити|مسجد بيبي خانم|mosquée Bibi-Khanym|registan
+sarı saltuk|Sarı Saltuk (proper name)|Сары Салтук|Сары Салтук|صاري صالتوق|Sarı Saltuk|tekke
+sarı saltuk tekkesi|Sarı Saltuk Lodge|обитель Сары Салтука|Сары Салтук жайы|تكية صاري صالتوق|couvent de Sarı Saltuk|tekke
+sarı saltuk tekkesi'ni|Sarı Saltuk Lodge (object)|обитель Сары Салтука|Сары Салтук жайын|تكية صاري صالتوق|le couvent de Sarı Saltuk|tekke
+sarı saltuk tekkesi'nin|of Sarı Saltuk Lodge|обители Сары Салтука|Сары Салтук жайынын|لتكية صاري صالتوق|du couvent de Sarı Saltuk|tekke
+ibn-i sînâ'nın|Ibn Sina's|Ибн Сины|Ибн Синанын|لابن سينا|d’Ibn Sina|ibn-i
+orta asya'nın|of Central Asia|Центральной Азии|Борбордук Азиянын|لآسيا الوسطى|de l’Asie centrale|özbekler
+türk hava yolları'na|to Turkish Airlines|в авиакомпанию Turkish Airlines|Түрк аба жолдоруна|إلى الخطوط الجوية التركية|à Turkish Airlines|ücret
+atatürk kültür merkezi|Atatürk Cultural Centre|культурный центр Ататюрка|Ататүрк маданият борбору|مركز أتاتورك الثقافي|centre culturel Atatürk|konum
+kültür sanat merkezi|culture and arts centre|центр культуры и искусства|маданият жана искусство борбору|مركز الثقافة والفنون|centre culturel et artistique|konum
+kültür sanat merkezine|to the culture and arts centre|в центр культуры и искусства|маданият жана искусство борборуна|إلى مركز الثقافة والفنون|au centre culturel et artistique|konum
+alman çeşmesi|German Fountain|Немецкий фонтан|Немис фонтаны|النافورة الألمانية|fontaine allemande|konum
+dolmabahçe sarayı|Dolmabahçe Palace|дворец Долмабахче|Долмабахче сарайы|قصر دولما بهجة|palais de Dolmabahçe|konum
+dolmabahçe sarayına|to Dolmabahçe Palace|во дворец Долмабахче|Долмабахче сарайына|إلى قصر دولما بهجة|au palais de Dolmabahçe|konum
+ayasofya camisi|Hagia Sophia Mosque|мечеть Айя-София|Айя-София мечити|مسجد آيا صوفيا|mosquée Sainte-Sophie|konum
+ayasofya camisi'nden|from Hagia Sophia Mosque|от мечети Айя-София|Айя-София мечитинен|من مسجد آيا صوفيا|de la mosquée Sainte-Sophie|konum
+ayasofya camisi'nin|of Hagia Sophia Mosque|мечети Айя-София|Айя-София мечитинин|لمسجد آيا صوفيا|de la mosquée Sainte-Sophie|konum
+sultanahmet camisi|Sultan Ahmed Mosque; Blue Mosque|мечеть Султанахмет; Голубая мечеть|Султанахмет мечити; Көк мечит|جامع السلطان أحمد|mosquée Sultanahmet ; mosquée bleue|konum
+sultanahmet camisini|Sultan Ahmed Mosque (object)|мечеть Султанахмет|Султанахмет мечитин|جامع السلطان أحمد|la mosquée Sultanahmet|konum
+sultanahmet camisinin|of Sultan Ahmed Mosque|мечети Султанахмет|Султанахмет мечитинин|لجامع السلطان أحمد|de la mosquée Sultanahmet|konum
+sultanahmet camisi'nin|of Sultan Ahmed Mosque|мечети Султанахмет|Султанахмет мечитинин|لجامع السلطان أحمد|de la mosquée Sultanahmet|konum
+topkapı sarayını|Topkapı Palace (object)|дворец Топкапы|Топкапы сарайын|قصر طوب قابي|le palais de Topkapı|konum
+boşnak böreği|Bosnian pastry|боснийский бурек|босниялык бөрөк|بورك بوسني|burek bosnien|menemen
+özbek pilavı|Uzbek pilaf|узбекский плов|өзбек палоосу|أرز أوزبكي|plov ouzbek|menemen
+hava yolu|air travel|воздушный транспорт|аба жолу|نقل جوي|transport aérien|ulaşmak
+demir yolu|railway; rail transport|железная дорога|темир жол|سكة حديدية|chemin de fer|ulaşmak
+kara yolu|road transport|автомобильная дорога|автоунаа жолу|نقل بري|transport routier|ulaşmak
+hava yoludur|is air travel|является воздушным транспортом|аба жолу болуп саналат|هو النقل الجوي|est le transport aérien|ulaşmak
+seyir terasından|from the viewing terrace|со смотровой террасы|көрүү террасасынан|من شرفة المشاهدة|depuis la terrasse panoramique|seyir
+hayran olmak|to admire; to be fascinated|восхищаться|суктануу|يعجب بـ|admirer|hayran
+hayran olduğum|that I admire|которым я восхищаюсь|мен суктанган|الذي أعجب به|que j’admire|hayran
+hayran kaldık|we were fascinated|мы были восхищены|биз суктандык|أعجبنا به|nous avons été émerveillés|hayran
+cesaret göstermek|to show courage|проявлять смелость|кайраттуулук көрсөтүү|يظهر الشجاعة|faire preuve de courage|cesaret
+yeme de yanında yat|absolutely delicious (idiom about food)|пальчики оближешь (о еде)|укмуш даамдуу (тамак жөнүндө)|لذيذ للغاية (تعبير عن الطعام)|à s’en lécher les doigts|yeme:olumsuz-emir
+adım adım gezmek|to explore thoroughly, step by step|обойти всё шаг за шагом|кадам сайын баарын кыдыруу|يتجول خطوة خطوة في كل مكان|explorer pas à pas|gezmek
+gün batımını|the sunset (object)|закат|күндүн батышын|غروب الشمس|le coucher du soleil|seyir
+tadını çıkarabilirsiniz|you can enjoy it|вы можете насладиться|ырахат ала аласыз|يمكنكم الاستمتاع|vous pouvez en profiter|hayran
+görevi görmüştür|has served as|служил в качестве|милдетин аткарган|استخدم بوصفه|a servi de|kule
+güler yüzlü|friendly; smiling|приветливый|жылуу жүздүү|بشوش|souriant ; aimable|kibar
+her yere yakın|close to everything|близко ко всему|бардык жерге жакын|قريب من كل مكان|proche de tout|konum
+ne işin var|what are you doing here?; what business do you have here?|что ты здесь делаешь?|бул жерде эмне кылып жүрөсүң?|ماذا تفعل هنا؟|que fais-tu ici ?|problem
+çok okuyan çok bilir|those who read a lot know a lot|кто много читает, тот много знает|көп окуган көп билет|من يقرأ كثيرا يعرف كثيرا|qui lit beaucoup sait beaucoup|öğrenmek
+çok gezen ondan da çok bilir|those who travel a lot know even more|кто много путешествует, знает ещё больше|көп кыдырган андан да көп билет|من يسافر كثيرا يعرف أكثر|qui voyage beaucoup sait encore davantage|öğrenmek
+uluslararası maarif programı|International Maarif Programme|Международная программа Маариф|Эл аралык Маариф программасы|برنامج المعارف الدولي|programme international Maarif|uluslararası
+biniş saati|boarding time|время посадки|отуруу убактысы|وقت الصعود|heure d’embarquement|biniş
+balkonlu oda|room with a balcony|номер с балконом|балкондуу бөлмө|غرفة ذات شرفة|chambre avec balcon|balkonlu
+oda seçimi|room selection|выбор номера|бөлмө тандоо|اختيار الغرفة|choix de la chambre|seçimi
+yatak seçimi|bed selection|выбор кровати|керебет тандоо|اختيار السرير|choix du lit|seçimi
+ödeme şekli|payment method|способ оплаты|төлөө ыкмасы|طريقة الدفع|mode de paiement|peşin
+giriş tarihi|check-in date|дата заезда|кирүү датасы|تاريخ تسجيل الوصول|date d’arrivée|rezervasyon
+çıkış tarihi|check-out date|дата выезда|чыгуу датасы|تاريخ المغادرة|date de départ|rezervasyon
+türk hamamı|Turkish bath|турецкая баня|түрк хаммамы|حمام تركي|hammam|hamam
+çalış otel|Çalış Hotel|отель Чалыш|Чалыш мейманканасы|فندق تشاليش|hôtel Çalış|çalış:otel
+demet otel|Demet Hotel|отель Демет|Демет мейманканасы|فندق ديمت|hôtel Demet|demet:otel
+gültekin otel|Gültekin Hotel|отель Гюльтекин|Гүлтекин мейманканасы|فندق غولتكين|hôtel Gültekin|gültekin
+sevgi eczanesi|Sevgi Pharmacy|аптека Севги|Севги дарыканасы|صيدلية سيفغي|pharmacie Sevgi|kibar
+menekşe pastanesi|Menekşe Pastry Shop|кондитерская Менекше|Менекше кондитердик дүкөнү|محل حلويات مينكشه|pâtisserie Menekşe|menemen
+şeker pastane|Şeker Pastry Shop|кондитерская Шекер|Шекер кондитердик дүкөнү|محل حلويات شيكر|pâtisserie Şeker|menemen
+şeker pastanesi'ndeyim|I am at Şeker Pastry Shop|я в кондитерской Шекер|мен Шекер кондитердик дүкөнүндөмүн|أنا في محل حلويات شيكر|je suis à la pâtisserie Şeker|menemen
+hayat apartmanı|Hayat Apartment Building|жилой дом Хаят|Хаят турак үйү|عمارة حياة|immeuble Hayat|konum
+cumhuriyet ilkokulu|Cumhuriyet Primary School|начальная школа Джумхуриет|Жумхуриет башталгыч мектеби|مدرسة جمهوريت الابتدائية|école primaire Cumhuriyet|konum
+cumhuriyet ilkokulu'nun|of Cumhuriyet Primary School|начальной школы Джумхуриет|Жумхуриет башталгыч мектебинин|لمدرسة جمهوريت الابتدائية|de l’école primaire Cumhuriyet|konum
+yıldız avm|Yıldız Shopping Centre|торговый центр Йылдыз|Йылдыз соода борбору|مركز يلدز للتسوق|centre commercial Yıldız|konum
+asalet emlak|Asalet Real Estate|агентство недвижимости Асалет|Асалет кыймылсыз мүлк агенттиги|وكالة أصالت للعقارات|agence immobilière Asalet|emlak
+asalet emlak'a|to Asalet Real Estate|в агентство недвижимости Асалет|Асалет кыймылсыз мүлк агенттигине|إلى وكالة أصالت للعقارات|à l’agence immobilière Asalet|emlak
+uçak yolculuğu|air travel; flight|перелёт|учак менен саякат|سفر جوي|voyage en avion|hostes
+türk kahvesi|Turkish coffee|кофе по-турецки|түрк кофеси|قهوة تركية|café turc|menemen
+emniyet kemerlerinizi|your seat belts (object)|ваши ремни безопасности|коопсуздук курларыңызды|أحزمة أمانكم|vos ceintures de sécurité|emniyet

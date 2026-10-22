@@ -1,0 +1,53 @@
+{
+  "pages": 30,
+  "hotspots": 6009,
+  "logicalSelections": 2096,
+  "checked": 30045,
+  "exportChecks": 150,
+  "forms": 963,
+  "phraseEntries": 240,
+  "phraseOccurrences": 460,
+  "errors": [],
+  "unit": 10,
+  "languages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "coveredHotspotCentres": [],
+  "readerCss": "identical to unit 9",
+  "imageResolution": "360 DPI; 3204 x 4054 pixels",
+  "translationSource": "ChatGPT editorial translations; no translation service",
+  "speechEngine": "eSpeak NG with existing matching clips reused; Arabic Piper ar_JO-kareem-medium with Tashkeel",
+  "speechEntries": {
+    "tr": 4125,
+    "en": 3990,
+    "ru": 3828,
+    "ky": 3877,
+    "ar": 3849,
+    "fr": 3851
+  },
+  "localSpeechFiles": 196,
+  "sharedSpeechFiles": 627,
+  "originalMediaPending": [
+    "S.058",
+    "S.059",
+    "S.060",
+    "S.061",
+    "S.062",
+    "M.007",
+    "V.012",
+    "V.013"
+  ],
+  "validation": "all word selections in five languages; all 150 print exports include every distinct printed word and matching phrase; all phrase selection members; source word coordinates; six speech corpora and MP3 duration limits",
+  "browserValidation": "not performed: Chromium download unavailable in this environment",
+  "sourceNotes": [
+    "Page 10 fifth announcement describes a hospital; the printed options omit hospital.",
+    "Page 11 form and ticket labels are embedded images; all visible labels have editorial word areas.",
+    "Hotel prices and travel claims are treated as textbook content rather than current commercial or transport information.",
+    "Page 24 yarı means the beloved, not half; daşları is a dialect form; refrain syllables are explained as nonlexical.",
+    "Printed Gülekin and Sulanahmet text-layer errors map to the visually printed Gültekin and Sultanahmet."
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "unit": 10,
+  "pages": 30,
+  "hotspots": 6009,
+  "logicalSelections": 2096,
+  "forms": 963,
+  "phraseEntries": 240,
+  "phraseOccurrences": 460,
+  "originalMediaPending": [
+    "S.058",
+    "S.059",
+    "S.060",
+    "S.061",
+    "S.062",
+    "M.007",
+    "V.012",
+    "V.013"
+  ],
+  "missingMeanings": [],
+  "missingExamples": [],
+  "verification": "verification.json"
+}
