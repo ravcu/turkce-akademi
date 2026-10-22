@@ -1,0 +1,1 @@
+Synthetic pronunciation in Turkish, English, Russian, Kyrgyz, Arabic and French. New recordings use local eSpeak NG 1.51; matching recordings in earlier units are reused. Index entries map exact text and language to MP3 clip start/end times. These files are separate from the unavailable original textbook listening/video recordings.

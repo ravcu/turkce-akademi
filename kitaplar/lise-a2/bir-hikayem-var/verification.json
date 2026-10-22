@@ -1,0 +1,49 @@
+{
+  "pages": 20,
+  "hotspots": 3136,
+  "logicalSelections": 1258,
+  "checked": 15680,
+  "exportChecks": 100,
+  "forms": 730,
+  "phraseEntries": 132,
+  "phraseOccurrences": 212,
+  "errors": [],
+  "unit": 9,
+  "languages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "coveredHotspotCentres": [],
+  "readerCss": "identical to unit 8",
+  "imageResolution": "360 DPI; 3204 x 4054 pixels",
+  "translationSource": "ChatGPT editorial translations; no translation service",
+  "speechEngine": "eSpeak NG local synthesis; existing matching recordings reused",
+  "speechEntries": {
+    "tr": 2831,
+    "en": 2432,
+    "ru": 2359,
+    "ky": 2364,
+    "ar": 2333,
+    "fr": 2342
+  },
+  "localSpeechFiles": 142,
+  "sharedSpeechFiles": 529,
+  "originalMediaPending": [
+    "S.054",
+    "S.055",
+    "S.056",
+    "S.057",
+    "V.010",
+    "V.011"
+  ],
+  "validation": "all word selections in five languages; 100 print exports; all phrase selection members; source word coordinates; six speech corpora and MP3 duration limits",
+  "browserValidation": "not performed: container disallows browser sockets",
+  "sourceNotes": [
+    "Printed date 12 Ocak 1273 is flagged for review; answer key uses the printed year only.",
+    "Biography task asks for five sections but displays four sections.",
+    "The source typo gözlerine inanamak is grouped and translated as gözlerine inanamamak."
+  ]
+}

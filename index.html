@@ -8,7 +8,7 @@ function populateUnits(){
   const grid=unitStep.querySelector('.unit-grid');
   if(selectedLevel==='A1'){grid.innerHTML=a1UnitMarkup;return;}
   grid.innerHTML=a2UnitData.map(([title,slug],i)=>{
-    const available=i<=7;
+    const available=i<=8;
     const content='<span class="unit-number">'+String(i+1).padStart(2,'0')+'</span><span class="unit-name">'+(i+1)+'. Ünite</span><span class="unit-topic">'+title+'</span><span class="unit-open">'+(available?'PDF kitabını aç →':'Hazırlanıyor')+'</span>';
     return available?'<a class="unit-card unit-available" href="kitaplar/lise-a2/'+slug+'/'+(i===1?'?v=dbb7b06':i===3?'?v=u4-20261020':'')+'" aria-label="'+(i+1)+'. Ünite '+title+' PDF kitabını aç">'+content+'</a>':'<div class="unit-card" aria-label="'+(i+1)+'. Ünite '+title+' hazırlanıyor">'+content+'</div>';
   }).join('');
