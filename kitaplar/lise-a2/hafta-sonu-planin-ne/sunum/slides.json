@@ -329,8 +329,7 @@
       "sourcePart": 1,
       "sourcePartSlide": 52,
       "imageWidth": 2400,
-      "imageHeight": 1350,
-      "video": "native-v2/video/026.mp4"
+      "imageHeight": 1350
     },
     {
       "sequence": 27,
@@ -947,7 +946,7 @@
       "audioSegments": [
         {
           "src": "native-v2/audio/075-1.mp3",
-          "sourceStart": 0.0,
+          "sourceStart": 0,
           "sourceEnd": 179.644083,
           "sourceMediaSha256": "ba227b04b6fa45467a2bf43348a21730b7afbd6eac68f267c9d971864b6acff5",
           "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
