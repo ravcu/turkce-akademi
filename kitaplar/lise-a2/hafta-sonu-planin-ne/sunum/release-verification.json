@@ -116,5 +116,11 @@
     "Word speech uses existing recordings and available matching-language browser voices."
   ],
   "selectedKeysWithoutExamples": 391,
-  "uncertainOcrTokensNotMadeClickable": 65
+  "uncertainOcrTokensNotMadeClickable": 65,
+  "imageRepair": {
+    "restoredOriginalSlides": 104,
+    "modifiedImagesUsed": 0,
+    "answerHidingEnabled": false,
+    "reason": "Automatic red-color removal damaged original illustration and text. All slides now use untouched pre-cleaning images. Original PPTX is needed to separate answer objects without modifying the background."
+  }
 }

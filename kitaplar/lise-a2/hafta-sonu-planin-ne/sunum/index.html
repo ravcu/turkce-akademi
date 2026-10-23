@@ -65,7 +65,7 @@
   function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
   async function init(){
     try{
-      const [data,hitData,translations,answerData]=await Promise.all([fetch('slides.json').then(r=>r.json()),fetch('word-spots.json').then(r=>r.json()),fetch('translations.json').then(r=>r.json()),fetch('answer-overlays.json').then(r=>r.json())]);
+      const [data,hitData,translations,answerData]=await Promise.all([fetch('slides.json?v=original-restore-1').then(r=>r.json()),fetch('word-spots.json?v=original-restore-1').then(r=>r.json()),fetch('translations.json').then(r=>r.json()),fetch('answer-overlays.json').then(r=>r.json())]);
       slides=data.slides;spots=hitData;dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('a2-unit2-sunum-current')||0),slides.length-1);lang=localStorage.getItem('sunum-language')||'en';
       renderShell();renderSlide();
     }catch(e){main.innerHTML='<section class="panel"><h2>Sunum açılamadı</h2><p>Slayt dosyaları yüklenirken bir sorun oluştu. Sayfayı yenileyin.</p></section>';console.error(e)}
@@ -161,8 +161,10 @@
     return `<div class="speech-line ${extraClass}"><span class="speech-text">${esc(text)}</span>${speechButton(text,language)}</div>`
   }
   function renderAnswers(){
- const available=Boolean(slides[current]?.answerImage),panel=document.getElementById('answerPanel'),overlay=document.getElementById('answerOverlay'),toggle=document.getElementById('answerToggle');panel.hidden=!available;overlay.innerHTML=available?`<img src="${slides[current].answerImage}" style="width:100%;height:100%" alt="PowerPoint cevapları">`:'';
- const update=()=>{overlay.hidden=!available||!answersVisible;toggle.setAttribute('aria-pressed',String(answersVisible));toggle.textContent=answersVisible?'Cevapları gizle':'Cevapları göster';document.getElementById('answerStatus').textContent=answersVisible?'Cevaplar gösteriliyor':'Cevaplar gizli';document.querySelectorAll('.hotspot[data-answer="true"]').forEach(b=>b.style.display=answersVisible?'block':'none')};toggle.onclick=()=>{answersVisible=!answersVisible;update()};update();
+    const embedded=Boolean(slides[current]?.answersEmbedded),panel=document.getElementById('answerPanel'),overlay=document.getElementById('answerOverlay'),toggle=document.getElementById('answerToggle');
+    overlay.hidden=true;overlay.replaceChildren();panel.hidden=!embedded;
+    toggle.disabled=true;toggle.textContent='Cevaplar görünür';toggle.setAttribute('aria-pressed','true');toggle.onclick=null;
+    document.getElementById('answerStatus').textContent='Cevaplar bu slaytın üzerinde yer alıyor.';
   }
   function showEntry(hit){
     const idx=langs.find(x=>x.id===lang)?.index??0,key=hit.key||hit.text.toLowerCase(),phrase=dict.phrases?.[key],form=dict.forms?.[key],word=dict.words?.[key],ex=dict.examples?.[key];

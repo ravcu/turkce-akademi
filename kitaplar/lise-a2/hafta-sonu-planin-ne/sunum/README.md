@@ -15,3 +15,7 @@ Kelime seslendirmesi 1. ünitenin mevcut kayıtlarını kullanır; kayıt yoksa 
 52 cevap katmanı mevcuttur. Önceki otomatik görsel temizleme sonucu kullanılır; her cevap işaretinin bağımsız görsel denetimi henüz bitmemiştir.
 
 `release-verification.json` dosya ve beş dil alanı kontrollerini içerir.
+
+## Original image restoration
+
+2026-10-23: All 104 slide image references now point to the untouched `answers/` source images, including slides without answers. Modified `slides/` images are no longer used by the reader or thumbnails. Answer hiding is disabled because answers are embedded in the preserved images. It must be rebuilt from original PowerPoint objects, not by removing red pixels.
