@@ -58,15 +58,15 @@
 <script>
 (() => {
   const speakerClean={};
-  const masks={78:[[.091,.400,.277,.092,'#dfeff3'],[.372,.400,.273,.092,'#fbe9e3'],[.65,.400,.275,.092,'#e9f5de'],[.091,.919,.417,.068,'#fff6c7'],[.519,.919,.406,.068,'#e9daf1']]};const cleanOverlay=n=>(masks[n]||[]).map(([x,y,w,h,c])=>`<i aria-hidden="true" style="position:absolute;z-index:6;left:${x*100}%;top:${y*100}%;width:${w*100}%;height:${h*100}%;background:${c};pointer-events:none"></i>`).join('');
+  const masks={78:[[.091,.400,.277,.092,'#dfeff3'],[.372,.400,.273,.092,'#fbe9e3'],[.65,.400,.275,.092,'#e9f5de'],[.091,.919,.417,.068,'#fff6c7'],[.519,.919,.406,.068,'#e9daf1']]};const assetNumber=s=>Number(s.image.match(/(\d+)\.webp$/)[1]);const cleanOverlay=n=>(masks[assetNumber(slides[n-1])]||[]).map(([x,y,w,h,c])=>`<i aria-hidden="true" style="position:absolute;z-index:6;left:${x*100}%;top:${y*100}%;width:${w*100}%;height:${h*100}%;background:${c};pointer-events:none"></i>`).join('');
   const langs=[{id:'en',label:'EN',flag:'🇬🇧',index:0},{id:'ru',label:'RU',flag:'🇷🇺',index:1},{id:'ky',label:'KY',flag:'🇰🇬',index:2},{id:'ar',label:'AR',flag:'🇸🇦',index:3},{id:'fr',label:'FR',flag:'🇫🇷',index:4}];
   const main=document.getElementById('main'),toast=document.getElementById('toast');let slides=[],spots=[],dict={},answers={},current=0,lang='en',selected=null,audioNodes=[],turnAudio=null,answersVisible=false;
   const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
   function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
   async function init(){
     try{
-      const [data,hitData,translations,answerData]=await Promise.all([fetch('slides.json?v=ppt-native-v2').then(r=>r.json()),fetch('word-spots.json?v=ppt-native-v2').then(r=>r.json()),fetch('translations.json?v=ppt-native-v2').then(r=>r.json()),fetch('answer-overlays.json').then(r=>r.json())]);
-      slides=data.slides;spots=hitData;dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('a2-unit2-sunum-current')||0),slides.length-1);lang=localStorage.getItem('sunum-language')||'en';
+      const [data,hitData,translations,answerData]=await Promise.all([fetch('slides.json?v=ppt-no-video-page').then(r=>r.json()),fetch('word-spots.json?v=ppt-no-video-page').then(r=>r.json()),fetch('translations.json?v=ppt-no-video-page').then(r=>r.json()),fetch('answer-overlays.json').then(r=>r.json())]);
+      slides=data.slides;spots=data.slides.map(s=>hitData[assetNumber(s)-1]||[]);dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('a2-unit2-sunum-current')||0),slides.length-1);lang=localStorage.getItem('sunum-language')||'en';
       renderShell();document.getElementById('slideImg').onload=()=>{[current-1,current+1].forEach(i=>{if(slides[i]){const preload=new Image();preload.decoding='async';preload.fetchPriority='low';preload.src=slides[i].image}})};renderSlide();
     }catch(e){main.innerHTML='<section class="panel"><h2>Sunum açılamadı</h2><p>Slayt dosyaları yüklenirken bir sorun oluştu. Sayfayı yenileyin.</p></section>';console.error(e)}
   }
@@ -78,7 +78,7 @@
     document.getElementById('prev').onclick=()=>go(current-1);document.getElementById('next').onclick=()=>go(current+1);document.getElementById('edgePrev').onclick=()=>go(current-1);document.getElementById('edgeNext').onclick=()=>go(current+1);document.getElementById('first').onclick=()=>go(0);document.getElementById('last').onclick=()=>go(slides.length-1);
     document.getElementById('languages').innerHTML=langs.map(l=>`<button class="lang ${l.id===lang?'active':''}" data-lang="${l.id}" aria-label="${l.label}"><span>${l.flag}</span>${l.label}</button>`).join('');
     document.querySelectorAll('.lang').forEach(b=>b.onclick=()=>{lang=b.dataset.lang;localStorage.setItem('sunum-language',lang);document.querySelectorAll('.lang').forEach(x=>x.classList.toggle('active',x===b));if(selected)showEntry(selected)});
-    const thumbs=document.getElementById('thumbs');thumbs.innerHTML=slides.map((s,i)=>`<button class="thumb" data-i="${i}" aria-label="Slayt ${i+1}"><span class="thumb-image"><span class="thumb-preview" style="background-position:${(i%8)/7*100}% ${Math.floor(i/8)/12*100}%"></span>${cleanOverlay(i+1)}</span><span>${i+1}</span></button>`).join('');thumbs.querySelectorAll('.thumb').forEach(b=>b.onclick=()=>go(Number(b.dataset.i)));
+    const thumbs=document.getElementById('thumbs');thumbs.innerHTML=slides.map((s,i)=>`<button class="thumb" data-i="${i}" aria-label="Slayt ${i+1}"><span class="thumb-image"><span class="thumb-preview" style="background-position:${((assetNumber(s)-1)%8)/7*100}% ${Math.floor((assetNumber(s)-1)/8)/12*100}%"></span>${cleanOverlay(i+1)}</span><span>${i+1}</span></button>`).join('');thumbs.querySelectorAll('.thumb').forEach(b=>b.onclick=()=>go(Number(b.dataset.i)));
     document.getElementById('fullBtn').onclick=()=>{const el=document.documentElement;if(!document.fullscreenElement)el.requestFullscreen?.();else document.exitFullscreen?.()};
     document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')go(current+1);if(e.key==='ArrowLeft')go(current-1)});
   }
