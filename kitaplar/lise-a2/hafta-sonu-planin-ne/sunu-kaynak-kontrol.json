@@ -36,6 +36,20 @@
       137
     ]
   },
-  "status": "audit_completed; rendering and precise audio segment timing pending",
-  "warning": "Red runs require overlay validation; shape and circle annotations and precise audio offsets not yet verified."
+  "status": "local_preview_generated_not_published",
+  "warning": "Red runs require overlay validation; shape and circle annotations and precise audio offsets not yet verified.",
+  "localPreview": {
+    "slides": 104,
+    "slidesWithAnswerToggle": 52,
+    "slidesWithAudio": 24,
+    "sourceAudioAssets": 17,
+    "sourceRedTextShapesRemoved": 289,
+    "delivery": "Local 21 MB ZIP; NOT uploaded to GitHub",
+    "limitations": [
+      "Audio segment start/end timestamps not verified",
+      "Answer red circle/mark inpainting requires visual review",
+      "Five-language clickable dictionary not integrated",
+      "Not yet deployed on GitHub Pages"
+    ]
+  }
 }
