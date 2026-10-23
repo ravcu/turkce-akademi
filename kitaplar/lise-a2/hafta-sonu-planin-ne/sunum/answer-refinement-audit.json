@@ -1,0 +1,626 @@
+[
+  {
+    "slideSequence": 1,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 7,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 2,
+    "redInkPixelsDetected": 57634,
+    "redPixelsAfter": 13942,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 3,
+    "redInkPixelsDetected": 60966,
+    "redPixelsAfter": 1794,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 4,
+    "redInkPixelsDetected": 27430,
+    "redPixelsAfter": 13178,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 5,
+    "redInkPixelsDetected": 4610,
+    "redPixelsAfter": 184,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 6,
+    "redInkPixelsDetected": 66027,
+    "redPixelsAfter": 65662,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 7,
+    "redInkPixelsDetected": 8638,
+    "redPixelsAfter": 3734,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 8,
+    "redInkPixelsDetected": 16634,
+    "redPixelsAfter": 3130,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 9,
+    "redInkPixelsDetected": 14169,
+    "redPixelsAfter": 3681,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 10,
+    "redInkPixelsDetected": 19946,
+    "redPixelsAfter": 976,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 11,
+    "redInkPixelsDetected": 25665,
+    "redPixelsAfter": 2055,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 12,
+    "redInkPixelsDetected": 19197,
+    "redPixelsAfter": 3671,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 13,
+    "redInkPixelsDetected": 23455,
+    "redPixelsAfter": 3198,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 14,
+    "redInkPixelsDetected": 11248,
+    "redPixelsAfter": 193,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 15,
+    "redInkPixelsDetected": 30846,
+    "redPixelsAfter": 1061,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 16,
+    "redInkPixelsDetected": 11019,
+    "redPixelsAfter": 5617,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 17,
+    "redInkPixelsDetected": 541,
+    "redPixelsAfter": 1957,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 18,
+    "redInkPixelsDetected": 6263,
+    "redPixelsAfter": 9336,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 19,
+    "redInkPixelsDetected": 32253,
+    "redPixelsAfter": 1339,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 20,
+    "redInkPixelsDetected": 8334,
+    "redPixelsAfter": 1769,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 21,
+    "redInkPixelsDetected": 16900,
+    "redPixelsAfter": 82,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 22,
+    "redInkPixelsDetected": 6549,
+    "redPixelsAfter": 255,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 23,
+    "redInkPixelsDetected": 30934,
+    "redPixelsAfter": 1114,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 24,
+    "redInkPixelsDetected": 44701,
+    "redPixelsAfter": 1572,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 25,
+    "redInkPixelsDetected": 21314,
+    "redPixelsAfter": 1027,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 26,
+    "redInkPixelsDetected": 1712,
+    "redPixelsAfter": 1903,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 27,
+    "redInkPixelsDetected": 73355,
+    "redPixelsAfter": 22042,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 28,
+    "redInkPixelsDetected": 28399,
+    "redPixelsAfter": 3665,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 29,
+    "redInkPixelsDetected": 2220,
+    "redPixelsAfter": 649,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 30,
+    "redInkPixelsDetected": 8340,
+    "redPixelsAfter": 801,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 31,
+    "redInkPixelsDetected": 15517,
+    "redPixelsAfter": 1634,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 32,
+    "redInkPixelsDetected": 57974,
+    "redPixelsAfter": 1314,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 33,
+    "redInkPixelsDetected": 28345,
+    "redPixelsAfter": 5045,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 34,
+    "redInkPixelsDetected": 8719,
+    "redPixelsAfter": 702,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 35,
+    "redInkPixelsDetected": 43787,
+    "redPixelsAfter": 1405,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 36,
+    "redInkPixelsDetected": 3279,
+    "redPixelsAfter": 3241,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 37,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 20,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 38,
+    "redInkPixelsDetected": 2005,
+    "redPixelsAfter": 2034,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 39,
+    "redInkPixelsDetected": 11755,
+    "redPixelsAfter": 694,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 40,
+    "redInkPixelsDetected": 12309,
+    "redPixelsAfter": 286,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 41,
+    "redInkPixelsDetected": 37674,
+    "redPixelsAfter": 12710,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 42,
+    "redInkPixelsDetected": 52833,
+    "redPixelsAfter": 5,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 43,
+    "redInkPixelsDetected": 65707,
+    "redPixelsAfter": 11723,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 44,
+    "redInkPixelsDetected": 31225,
+    "redPixelsAfter": 9711,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 45,
+    "redInkPixelsDetected": 27203,
+    "redPixelsAfter": 0,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 46,
+    "redInkPixelsDetected": 50979,
+    "redPixelsAfter": 403,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 47,
+    "redInkPixelsDetected": 28549,
+    "redPixelsAfter": 635,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 48,
+    "redInkPixelsDetected": 25020,
+    "redPixelsAfter": 5954,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 49,
+    "redInkPixelsDetected": 16028,
+    "redPixelsAfter": 214,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 50,
+    "redInkPixelsDetected": 21611,
+    "redPixelsAfter": 1931,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 51,
+    "redInkPixelsDetected": 13638,
+    "redPixelsAfter": 714,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 52,
+    "redInkPixelsDetected": 4788,
+    "redPixelsAfter": 2924,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 53,
+    "redInkPixelsDetected": 5417,
+    "redPixelsAfter": 1957,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 54,
+    "redInkPixelsDetected": 7958,
+    "redPixelsAfter": 1416,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 55,
+    "redInkPixelsDetected": 35074,
+    "redPixelsAfter": 1715,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 56,
+    "redInkPixelsDetected": 3973,
+    "redPixelsAfter": 4112,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 57,
+    "redInkPixelsDetected": 27403,
+    "redPixelsAfter": 2116,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 58,
+    "redInkPixelsDetected": 19401,
+    "redPixelsAfter": 491,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 59,
+    "redInkPixelsDetected": 29263,
+    "redPixelsAfter": 2383,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 60,
+    "redInkPixelsDetected": 9820,
+    "redPixelsAfter": 2140,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 61,
+    "redInkPixelsDetected": 5601,
+    "redPixelsAfter": 222,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 62,
+    "redInkPixelsDetected": 22162,
+    "redPixelsAfter": 3190,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 63,
+    "redInkPixelsDetected": 6591,
+    "redPixelsAfter": 1224,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 64,
+    "redInkPixelsDetected": 28540,
+    "redPixelsAfter": 198,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 65,
+    "redInkPixelsDetected": 12225,
+    "redPixelsAfter": 83,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 66,
+    "redInkPixelsDetected": 9625,
+    "redPixelsAfter": 1787,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 67,
+    "redInkPixelsDetected": 20306,
+    "redPixelsAfter": 4515,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 68,
+    "redInkPixelsDetected": 29516,
+    "redPixelsAfter": 16296,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 69,
+    "redInkPixelsDetected": 29373,
+    "redPixelsAfter": 983,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 70,
+    "redInkPixelsDetected": 45941,
+    "redPixelsAfter": 16759,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 71,
+    "redInkPixelsDetected": 14678,
+    "redPixelsAfter": 94,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 72,
+    "redInkPixelsDetected": 16914,
+    "redPixelsAfter": 2762,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 73,
+    "redInkPixelsDetected": 825,
+    "redPixelsAfter": 69,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 74,
+    "redInkPixelsDetected": 35578,
+    "redPixelsAfter": 26,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 75,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 42,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 76,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 9,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 77,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 1248,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 78,
+    "redInkPixelsDetected": 46436,
+    "redPixelsAfter": 41441,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 79,
+    "redInkPixelsDetected": 15463,
+    "redPixelsAfter": 1243,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 80,
+    "redInkPixelsDetected": 12385,
+    "redPixelsAfter": 423,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 81,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 18,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 82,
+    "redInkPixelsDetected": 55757,
+    "redPixelsAfter": 34248,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 83,
+    "redInkPixelsDetected": 17566,
+    "redPixelsAfter": 7551,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 84,
+    "redInkPixelsDetected": 28393,
+    "redPixelsAfter": 1824,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 85,
+    "redInkPixelsDetected": 12442,
+    "redPixelsAfter": 803,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 86,
+    "redInkPixelsDetected": 13289,
+    "redPixelsAfter": 2521,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 87,
+    "redInkPixelsDetected": 12391,
+    "redPixelsAfter": 477,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 88,
+    "redInkPixelsDetected": 34505,
+    "redPixelsAfter": 6966,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 89,
+    "redInkPixelsDetected": 10457,
+    "redPixelsAfter": 25,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 90,
+    "redInkPixelsDetected": 8210,
+    "redPixelsAfter": 5,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 91,
+    "redInkPixelsDetected": 12135,
+    "redPixelsAfter": 16,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 92,
+    "redInkPixelsDetected": 1003,
+    "redPixelsAfter": 1081,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 93,
+    "redInkPixelsDetected": 1804,
+    "redPixelsAfter": 92,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 94,
+    "redInkPixelsDetected": 12405,
+    "redPixelsAfter": 321,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 95,
+    "redInkPixelsDetected": 72110,
+    "redPixelsAfter": 5330,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 96,
+    "redInkPixelsDetected": 12767,
+    "redPixelsAfter": 410,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 97,
+    "redInkPixelsDetected": 48668,
+    "redPixelsAfter": 2300,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 98,
+    "redInkPixelsDetected": 18721,
+    "redPixelsAfter": 7876,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 99,
+    "redInkPixelsDetected": 19168,
+    "redPixelsAfter": 896,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 100,
+    "redInkPixelsDetected": 1428,
+    "redPixelsAfter": 867,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 101,
+    "redInkPixelsDetected": 12565,
+    "redPixelsAfter": 13620,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 102,
+    "redInkPixelsDetected": 4,
+    "redPixelsAfter": 249,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 103,
+    "redInkPixelsDetected": 1127,
+    "redPixelsAfter": 576,
+    "manualVisualApproval": false
+  },
+  {
+    "slideSequence": 104,
+    "redInkPixelsDetected": 0,
+    "redPixelsAfter": 3604,
+    "manualVisualApproval": false
+  }
+]

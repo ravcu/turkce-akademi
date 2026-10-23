@@ -1,0 +1,191 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#f2f7f4">
+<title>Hafta Sonu Planın Ne? · A2 Sunum Modu</title>
+<style>
+
+:root{color-scheme:light;--bg:#f2f7f4;--teal:#167b70;--teal2:#39aa99;--ink:#183b3c;--muted:#718383;--line:#dbe8e2;--paper:#fffefa;--shadow:0 16px 38px #17483a10}*{box-sizing:border-box}html,body{margin:0;width:100%;height:100%;font-family:system-ui,-apple-system,"Segoe UI",sans-serif;color:var(--ink);background:var(--bg)}body{overflow:hidden}button{font:inherit;color:inherit}.app{height:100dvh;display:grid;grid-template-rows:58px auto minmax(0,1fr);padding:0 clamp(12px,2.4vw,34px)}header{display:flex;align-items:center;justify-content:space-between;gap:12px;border-bottom:1px solid var(--line);min-width:0}.brand{display:flex;align-items:center;gap:10px;font-weight:800;white-space:nowrap}.mark{width:31px;height:31px;display:grid;place-items:center;background:var(--teal);color:#fff;border-radius:10px}.brand small{display:block;margin-top:1px;font-size:9px;letter-spacing:.14em;color:var(--muted)}.header-right{display:flex;gap:8px;align-items:center}.back,.plain-btn{padding:8px 12px;border:1px solid var(--line);border-radius:999px;background:#ffffffc9;text-decoration:none;font-size:12px;font-weight:750;cursor:pointer}.back:hover,.plain-btn:hover{border-color:#8fc9b9;color:var(--teal)}main{min-height:0;display:grid;grid-template-columns:minmax(0,1fr) 310px;gap:16px;padding:14px 0 16px}.viewer{min-width:0;min-height:0;display:grid;grid-template-rows:40px minmax(0,1fr) 61px;gap:8px}.toolbar{display:flex;align-items:center;gap:8px;padding:0 4px}.nav-btn{width:34px;height:34px;border:1px solid var(--line);border-radius:11px;background:var(--paper);font-weight:900;cursor:pointer}.nav-btn:disabled{opacity:.35;cursor:default}.page-count{min-width:76px;text-align:center;font-size:12px;color:var(--muted);font-weight:750}.progress{height:4px;border-radius:9px;background:#dce9e3;overflow:hidden;flex:1;margin:0 8px}.progress>span{display:block;height:100%;background:linear-gradient(90deg,var(--teal),var(--teal2));transition:width .2s}.slide-area{min-height:0;display:grid;place-items:center;overflow:hidden}.slide-frame{position:relative;width:min(100%,calc((100dvh - 235px)*1.77778));max-height:100%;aspect-ratio:16/9;background:#fff;border-radius:14px;box-shadow:var(--shadow);overflow:hidden}.slide-img{display:block;width:100%;height:100%;object-fit:contain;background:#fff}.hotspot{position:absolute;z-index:2;min-width:10px;min-height:16px;padding:0;border:0;border-radius:5px;background:transparent;cursor:pointer;transform:translateZ(0)}.hotspot:hover,.hotspot:focus-visible{outline:2px solid #f0b535;background:#f0b53522}.hotspot.selected{outline:2px solid var(--teal2);background:#20a99520}.thumbs{display:flex;align-items:stretch;gap:7px;overflow-x:auto;overflow-y:hidden;padding:3px 2px 7px;scrollbar-width:thin;scrollbar-color:#a9c9bd transparent}.thumb{position:relative;flex:0 0 75px;border:1px solid var(--line);border-radius:9px;background:var(--paper);padding:3px;cursor:pointer;opacity:.75}.thumb img{display:block;width:100%;height:43px;object-fit:cover;border-radius:5px}.thumb span{display:block;font-size:9px;color:var(--muted);text-align:center;margin-top:2px}.thumb.active{border:2px solid var(--teal);padding:2px;opacity:1}.thumb.active span{color:var(--teal);font-weight:850}.side{min-height:0;overflow:auto;display:flex;flex-direction:column;gap:10px;padding:1px 2px 2px}.panel{background:var(--paper);border:1px solid var(--line);border-radius:17px;box-shadow:var(--shadow);padding:15px}.panel-title{display:flex;align-items:center;justify-content:space-between;gap:8px;margin-bottom:12px}.panel-title h2{margin:0;font-size:11px;letter-spacing:.1em;color:#68817c}.count-pill{font-size:10px;color:var(--muted);font-weight:800}.languages{display:grid;grid-template-columns:repeat(5,1fr);gap:5px}.lang{min-width:0;border:1px solid var(--line);border-radius:10px;background:#fff;padding:7px 2px 6px;cursor:pointer;font-size:10px;font-weight:800}.lang span{display:block;font-size:17px;line-height:18px;margin-bottom:3px}.lang.active{border:2px solid var(--teal2);background:#e9f6f1;color:var(--teal);padding:6px 1px 5px}.hint{margin:0;color:var(--muted);font-size:11px;line-height:1.5}.selection{min-height:145px}.empty{min-height:120px;display:grid;place-items:center;text-align:center;padding:14px;color:var(--muted);font-size:12px;line-height:1.55}.empty .finger{font-size:25px;margin-bottom:7px}.type-label{margin:2px 0 5px;color:var(--muted);font-size:9px;font-weight:850;letter-spacing:.09em;text-transform:uppercase}.word-title{margin:0 0 7px;font-family:Georgia,serif;font-size:23px;line-height:1.15;overflow-wrap:anywhere}.lemma{margin:0 0 9px;color:#66807a;font-size:11px}.translation{padding:11px 12px;border:1px solid #e3eee8;border-radius:12px;background:#f8faf7;font-size:16px;font-weight:800;line-height:1.35}.form-translation{margin-top:7px;color:#46635f;font-size:12px;line-height:1.4}.example{margin-top:12px;border-top:1px solid var(--line);padding-top:10px}.example strong{display:block;margin-bottom:4px;color:#68817c;font-size:9px;letter-spacing:.09em}.example p{margin:3px 0;font-size:12px;line-height:1.45}.example .translated{color:var(--muted)}.audio-box{display:flex;flex-direction:column;gap:7px}.listen{width:100%;display:flex;align-items:center;justify-content:center;gap:8px;padding:10px 12px;border:0;border-radius:11px;background:var(--teal);color:white;font-size:12px;font-weight:850;cursor:pointer}.listen:hover{background:#116a61}.listen.playing{background:#bd7043}.no-audio{color:var(--muted);font-size:11px;line-height:1.45}.bottom-note{margin-top:auto;padding:1px 4px 3px;color:var(--muted);font-size:10px;line-height:1.4}.toast{position:fixed;left:50%;bottom:26px;transform:translate(-50%,14px);padding:10px 14px;border-radius:999px;background:#173d3b;color:#fff;font-size:12px;opacity:0;pointer-events:none;transition:.2s;z-index:20}.toast.show{opacity:1;transform:translate(-50%,0)}.loading{grid-column:1/-1;display:grid;place-items:center;color:var(--muted);font-size:14px}
+@media(max-width:860px){body{overflow:auto}.app{height:auto;min-height:100dvh;grid-template-rows:56px auto auto;padding:0 12px}main{display:flex;flex-direction:column;padding:10px 0 20px;gap:12px}.viewer{display:grid;grid-template-rows:38px auto 65px;gap:7px}.slide-area{overflow:visible}.slide-frame{width:100%;max-height:none;border-radius:10px}.side{overflow:visible;display:grid;grid-template-columns:1fr 1fr;align-items:start}.panel{padding:13px;border-radius:14px}.panel.languages-panel{grid-column:1/-1}.panel.selection{grid-column:1/-1}.bottom-note{grid-column:1/-1}.header-right .back{padding:7px 9px;font-size:10px}.thumb{flex-basis:68px}.thumb img{height:38px}}
+@media(max-width:520px){.brand{font-size:13px}.brand small{font-size:8px}.header-right .back{max-width:130px;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}.side{display:flex}.panel-title h2{font-size:10px}.word-title{font-size:21px}.toolbar{gap:5px}.progress{margin:0 3px}}
+
+.toolbar-listen{width:auto;min-width:82px;padding:8px 10px;white-space:nowrap}.toolbar-listen[hidden]{display:none}.slide-frame{container-type:inline-size}.answer-overlay{position:absolute;inset:0;z-index:3;pointer-events:none}.answer-overlay[hidden]{display:none}.answer-text{position:absolute;display:block;overflow:hidden;color:#116750;font-weight:800;line-height:1.08;white-space:pre-wrap;text-align:left;text-shadow:0 0 2px #fff,0 0 5px #fff}.answer-controls{display:flex;align-items:center;gap:10px}.answer-toggle{padding:9px 12px;border:0;border-radius:10px;background:var(--teal);color:#fff;font-size:12px;font-weight:850;cursor:pointer}.answer-toggle[aria-pressed="true"]{background:#bd7043}.answer-status{font-size:11px;color:var(--muted)}
+@media(max-width:860px){.toolbar-listen{min-width:66px;padding:7px 6px;font-size:10px}.answer-controls{flex-wrap:wrap}}
+.slide-frame{perspective:1500px;transform-style:preserve-3d}.page-edge{position:absolute;z-index:5;top:50%;display:grid;place-items:center;width:42px;height:58px;margin-top:-29px;border:1px solid #ffffffb0;border-radius:13px;background:#173d3bcc;color:#fff;font-size:28px;line-height:1;cursor:pointer;opacity:.82;transition:opacity .18s,transform .18s,background .18s;box-shadow:0 5px 18px #163d3c35}.page-edge:hover{opacity:1;background:#126e65;transform:scale(1.06)}.page-edge:disabled{opacity:.18;cursor:default;transform:none}.page-edge.prev{left:12px}.page-edge.next{right:12px}.turn-sheet{position:absolute;inset:0;z-index:4;overflow:hidden;border-radius:inherit;background:#fff;backface-visibility:hidden;transform-style:preserve-3d;box-shadow:0 0 25px #132e2b45}.turn-sheet img{display:block;width:100%;height:100%;object-fit:contain}.turn-sheet.forward{transform-origin:left center;animation:turnForward .56s cubic-bezier(.54,.02,.78,.38) forwards}.turn-sheet.backward{transform-origin:right center;animation:turnBackward .56s cubic-bezier(.54,.02,.78,.38) forwards}@keyframes turnForward{0%{transform:rotateY(0);filter:brightness(1)}45%{filter:brightness(.83)}100%{transform:rotateY(-92deg);filter:brightness(.72)}}@keyframes turnBackward{0%{transform:rotateY(0);filter:brightness(1)}45%{filter:brightness(.83)}100%{transform:rotateY(92deg);filter:brightness(.72)}}.word-heading{display:flex;align-items:flex-start;justify-content:space-between;gap:6px}.word-heading .word-title{flex:1}.speech-line{display:flex;align-items:center;justify-content:space-between;gap:8px}.speech-text{min-width:0;flex:1}.tts-button{flex:none;width:30px;height:30px;border:1px solid var(--line);border-radius:9px;background:#fff;cursor:pointer;font-size:15px;line-height:1}.tts-button:hover{border-color:var(--teal2);background:#e9f6f1}.translation .speech-line{align-items:center}.form-translation{display:flex;align-items:center;justify-content:space-between;gap:8px}.example .speech-line{padding:2px 0}.example .translated{color:var(--muted)}.page-edge:focus-visible,.tts-button:focus-visible{outline:3px solid #f0b535;outline-offset:2px}
+@media(max-width:520px){.page-edge{width:36px;height:50px;font-size:24px}.page-edge.prev{left:7px}.page-edge.next{right:7px}}
+
+/* Page curl and recorded public-domain page-turn sound (Wikimedia Commons: “Turning a page.ogg”, planish). */
+.turn-sheet{overflow:hidden;box-shadow:0 0 28px #132e2b55}
+.turn-sheet.forward{animation:turnForward .95s cubic-bezier(.36,.05,.68,.98) forwards}
+.turn-sheet.backward{animation:turnBackward .95s cubic-bezier(.36,.05,.68,.98) forwards}
+.turn-sheet::before{content:"";position:absolute;inset:0;z-index:1;pointer-events:none;opacity:0;background:linear-gradient(90deg,transparent 42%,#132a2840 48%,#ffffffd9 50%,#132a2835 53%,transparent 60%);background-size:250% 100%;background-position:100% 0;animation:foldShadow .95s ease-in-out forwards}
+.turn-sheet::after{content:"";position:absolute;z-index:2;right:0;bottom:0;width:18%;aspect-ratio:1;pointer-events:none;opacity:0;clip-path:polygon(100% 0,100% 100%,0 100%);transform-origin:bottom right;background:linear-gradient(135deg,#fff 0%,#f5f3ee 34%,#bab9b2 47%,#fff 52%,#d5d4ce 100%);filter:drop-shadow(-5px -4px 7px #213b3640);animation:cornerPeel .95s cubic-bezier(.2,.75,.24,1) forwards}
+.turn-sheet.backward::after{right:auto;left:0;clip-path:polygon(0 0,0 100%,100% 100%);transform-origin:bottom left;animation-name:cornerPeelBack}
+@keyframes foldShadow{0%{opacity:0;background-position:100% 0}25%{opacity:.8}75%{opacity:.65;background-position:0 0}100%{opacity:0;background-position:0 0}}
+@keyframes cornerPeel{0%{opacity:0;transform:scale(.04)}14%{opacity:1;transform:scale(.58)}55%{opacity:.95;transform:scale(1)}100%{opacity:0;transform:scale(.28) translate(-12%,-8%)}}
+@keyframes cornerPeelBack{0%{opacity:0;transform:scale(.04)}14%{opacity:1;transform:scale(.58)}55%{opacity:.95;transform:scale(1)}100%{opacity:0;transform:scale(.28) translate(12%,-8%)}}
+@media(prefers-reduced-motion:reduce){.turn-sheet.forward,.turn-sheet.backward,.turn-sheet::before,.turn-sheet::after{animation-duration:.01ms}}
+.speaker-clean{position:absolute;inset:0;width:100%;height:100%;pointer-events:none;z-index:1}.turn-sheet .speaker-clean{position:absolute;inset:0;width:100%;height:100%;object-fit:fill}.thumb-image{position:relative;display:block}.thumb-image .speaker-clean{position:absolute;inset:0;width:100%;height:100%;object-fit:fill}
+
+.unit-navigation{display:flex;align-items:center;justify-content:space-between;gap:8px;padding:8px 0 0}.unit-nav-button{display:inline-flex;align-items:center;justify-content:center;min-height:36px;padding:8px 13px;border:1px solid #a4d3c8;border-radius:11px;background:var(--paper);color:#075d61;font:inherit;font-size:12px;font-weight:750;text-decoration:none}.unit-nav-button:hover{background:#e0f4ed;border-color:var(--teal)}.unit-nav-button:focus-visible{outline:2px solid var(--teal);outline-offset:3px}.unit-nav-button:disabled{opacity:.45;cursor:default;background:#edf2ef;color:#667c80;border-color:#d3ded8}@media(max-width:520px){.unit-nav-button{padding:8px;font-size:11px}}
+
+
+
+
+
+
+
+
+
+
+.unit-navigation{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}.unit-navigation>.unit-nav-button:first-child{justify-self:start}.unit-navigation>.unit-nav-button:last-child{justify-self:end}.unit-current{justify-self:center;white-space:nowrap;color:var(--teal);font-size:13px;font-weight:850;letter-spacing:.06em}@media(max-width:520px){.unit-navigation{gap:5px}.unit-current{font-size:11px;letter-spacing:.02em}.unit-navigation>.unit-nav-button{font-size:10px;padding:8px 6px}}
+</style>
+<script>if(new URLSearchParams(location.search).get('share')==='1')document.documentElement.classList.add('share-mode')</script><style>html.share-mode .back{display:none!important}</style>
+<style>.lesson-audio-panel{display:flex;align-items:center;gap:7px;flex-wrap:wrap;min-width:180px}.lesson-audio-panel[hidden]{display:none}.lesson-audio-panel span{font-size:10px;font-weight:700}.lesson-audio-panel audio{width:clamp(160px,20vw,260px);height:34px}@media(max-width:850px){.lesson-audio-panel{order:10;width:100%;justify-content:center}.lesson-audio-panel audio{width:min(85%,340px)}}</style><style>.hotspot{min-width:0;min-height:0}</style></head>
+<body>
+<div class="app">
+  <header>
+    <div class="brand"><span class="mark">T</span><span>Türkçe Akademi<small>A2 · HAFTA SONU PLANIN NE? · SUNUM MODU</small></span></div>
+    <div class="header-right"><button class="plain-btn" id="fullBtn" title="Tam ekran">⛶</button><a class="back" href="../index.html" target="_top">PDF Modu’na dön</a></div>
+  </header>
+  <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../../tatil-donusu/sunum/">← Bir Önceki Ünite</a><span class="unit-current">2. ÜNİTE</span><button class="unit-nav-button" disabled title="3. ünitenin sunu modu hazırlanıyor.">Bir Sonraki Ünite →</button></nav>
+  <main id="main"><div class="loading">Sunum sayfaları yükleniyor…</div></main>
+</div>
+<div class="toast" id="toast" role="status"></div>
+<script src="../../tatil-donusu/sunum/speech/player.js"></script>
+<script>
+(() => {
+  const speakerClean={};
+  const masks={78:[[.091,.400,.277,.092,'#dfeff3'],[.372,.400,.273,.092,'#fbe9e3'],[.65,.400,.275,.092,'#e9f5de'],[.091,.919,.417,.068,'#fff6c7'],[.519,.919,.406,.068,'#e9daf1']],81:[[0,.608,1,.392,'white'],[.772,0,.065,.127,'white']]};const cleanOverlay=n=>(masks[n]||[]).map(([x,y,w,h,c])=>`<i aria-hidden="true" style="position:absolute;z-index:6;left:${x*100}%;top:${y*100}%;width:${w*100}%;height:${h*100}%;background:${c};pointer-events:none"></i>`).join('');
+  const langs=[{id:'en',label:'EN',flag:'🇬🇧',index:0},{id:'ru',label:'RU',flag:'🇷🇺',index:1},{id:'ky',label:'KY',flag:'🇰🇬',index:2},{id:'ar',label:'AR',flag:'🇸🇦',index:3},{id:'fr',label:'FR',flag:'🇫🇷',index:4}];
+  const main=document.getElementById('main'),toast=document.getElementById('toast');let slides=[],spots=[],dict={},answers={},current=0,lang='en',selected=null,audioNodes=[],turnAudio=null,answersVisible=false;
+  const esc=s=>String(s??'').replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+  function showToast(message){toast.textContent=message;toast.classList.add('show');clearTimeout(showToast.t);showToast.t=setTimeout(()=>toast.classList.remove('show'),2200)}
+  async function init(){
+    try{
+      const [data,hitData,translations,answerData]=await Promise.all([fetch('slides.json').then(r=>r.json()),fetch('word-spots.json').then(r=>r.json()),fetch('translations.json').then(r=>r.json()),fetch('answer-overlays.json').then(r=>r.json())]);
+      slides=data.slides;spots=hitData;dict=translations;answers=answerData;current=Math.min(Number(localStorage.getItem('a2-unit2-sunum-current')||0),slides.length-1);lang=localStorage.getItem('sunum-language')||'en';
+      renderShell();renderSlide();
+    }catch(e){main.innerHTML='<section class="panel"><h2>Sunum açılamadı</h2><p>Slayt dosyaları yüklenirken bir sorun oluştu. Sayfayı yenileyin.</p></section>';console.error(e)}
+  }
+  function renderShell(){
+    main.innerHTML=`<section class="viewer"><div class="toolbar"><button class="nav-btn" id="prev" aria-label="Önceki slayt">←</button><span class="page-count" id="pageCount"></span><button class="nav-btn" id="next" aria-label="Sonraki slayt">→</button><div class="progress"><span id="progressFill"></span></div><button class="listen toolbar-listen" id="toolbarListen" hidden>▶ DİNLE</button><div class="lesson-audio-panel" id="lessonAudioPanel" hidden><span id="lessonAudioLabel">Dinleme kaydı</span><audio id="lessonAudioPlayer" controls preload="metadata" aria-label="Dinleme kaydı; ileri geri sarma ve süre"></audio></div><button class="nav-btn" id="first" aria-label="İlk slayt">|←</button><button class="nav-btn" id="last" aria-label="Son slayt">→|</button></div><div class="slide-area"><div class="slide-frame" id="frame"><img class="slide-img" id="slideImg" alt="" draggable="false"><button class="page-edge prev" id="edgePrev" aria-label="Önceki sayfa">‹</button><button class="page-edge next" id="edgeNext" aria-label="Sonraki sayfa">›</button><div class="answer-overlay" id="answerOverlay" hidden></div><div id="speakerClean"></div><div id="hotspots"></div></div></div><div class="thumbs" id="thumbs" aria-label="Slayt küçük görselleri"></div></section>
+      <aside class="side"><section class="panel languages-panel"><div class="panel-title"><h2>ÇEVİRİ DİLİ</h2><span class="count-pill">${slides.length} slayt</span></div><div class="languages" id="languages"></div><p class="hint" style="margin-top:10px">Slayttaki çevrilebilir bir kelimeye dokunun; kalıp ifadeler birlikte seçilir.</p></section>
+      <section class="panel selection" id="translationPanel"><div class="panel-title"><h2>SÖZLÜK VE ÖRNEK</h2><span class="count-pill" id="hitCount"></span></div><div class="empty"><div><div class="finger">☝️</div>Slayttaki vurgulanabilir kelimelerden birine dokunun.<br>Anlam ve örnek seçtiğiniz dilde görünür.</div></div></section>
+      <section class="panel" id="answerPanel" hidden><div class="panel-title"><h2>ETKİNLİK CEVAPLARI</h2><span class="count-pill">İsteğe bağlı</span></div><div class="answer-controls"><button class="answer-toggle" id="answerToggle" aria-pressed="false">Cevabı göster</button><span class="answer-status" id="answerStatus">Cevaplar gizli</span></div></section><p class="bottom-note">DİNLE slayt sesini oynatır. Kelime ve örneklerin 🔊 düğmeleriyle seslendirmesini dinleyin.</p></aside>`;
+    document.getElementById('prev').onclick=()=>go(current-1);document.getElementById('next').onclick=()=>go(current+1);document.getElementById('edgePrev').onclick=()=>go(current-1);document.getElementById('edgeNext').onclick=()=>go(current+1);document.getElementById('first').onclick=()=>go(0);document.getElementById('last').onclick=()=>go(slides.length-1);
+    document.getElementById('languages').innerHTML=langs.map(l=>`<button class="lang ${l.id===lang?'active':''}" data-lang="${l.id}" aria-label="${l.label}"><span>${l.flag}</span>${l.label}</button>`).join('');
+    document.querySelectorAll('.lang').forEach(b=>b.onclick=()=>{lang=b.dataset.lang;localStorage.setItem('sunum-language',lang);document.querySelectorAll('.lang').forEach(x=>x.classList.toggle('active',x===b));if(selected)showEntry(selected)});
+    const thumbs=document.getElementById('thumbs');thumbs.innerHTML=slides.map((s,i)=>`<button class="thumb" data-i="${i}" aria-label="Slayt ${i+1}"><span class="thumb-image"><img loading="lazy" src="${s.image}" alt="">${cleanOverlay(i+1)}</span><span>${i+1}</span></button>`).join('');thumbs.querySelectorAll('.thumb').forEach(b=>b.onclick=()=>go(Number(b.dataset.i)));
+    document.getElementById('fullBtn').onclick=()=>{const el=document.documentElement;if(!document.fullscreenElement)el.requestFullscreen?.();else document.exitFullscreen?.()};
+    document.addEventListener('keydown',e=>{if(e.key==='ArrowRight')go(current+1);if(e.key==='ArrowLeft')go(current-1)});
+  }
+  function playTurnSound(){
+    try{turnAudio?.pause();turnAudio=new Audio('../../../tanisalim/sunum/assets/audio/page-turn.mp3');turnAudio.preload='auto';turnAudio.volume=.7;turnAudio.onended=()=>{turnAudio=null};turnAudio.play().catch(e=>console.debug('Page-turn sound unavailable',e))}catch(e){console.debug('Page-turn sound unavailable',e)}
+  }
+  function animatePageTurn(oldSrc,direction,oldSequence){
+    if(!oldSrc)return;
+    playTurnSound();if(matchMedia('(prefers-reduced-motion: reduce)').matches)return;
+    const frame=document.getElementById('frame');frame.querySelector('.turn-sheet')?.remove();const sheet=document.createElement('div');sheet.className=`turn-sheet ${direction>0?'forward':'backward'}`;const oldImage=document.createElement('img');oldImage.src=oldSrc;oldImage.alt='';sheet.append(oldImage);sheet.insertAdjacentHTML('beforeend',cleanOverlay(oldSequence));frame.append(sheet);sheet.addEventListener('animationend',()=>sheet.remove(),{once:true});setTimeout(()=>sheet.remove(),1150);
+  }
+  function go(n){if(n<0||n>=slides.length||n===current)return;const oldSrc=slides[current]?.image,oldSequence=current+1,direction=n>current?1:-1;stopAudio();current=n;selected=null;answersVisible=false;localStorage.setItem('a2-unit2-sunum-current',String(current));renderSlide(oldSrc,direction,oldSequence)}
+  function renderSlide(oldSrc='',direction=0,oldSequence=0){
+    const s=slides[current],img=document.getElementById('slideImg');img.src=s.image;img.alt=`A2 Hafta Sonu Planın Ne?, slayt ${current+1}`;document.getElementById('speakerClean').innerHTML=cleanOverlay(current+1);if(direction)animatePageTurn(oldSrc,direction,oldSequence);
+    document.getElementById('pageCount').textContent=`${current+1} / ${slides.length}`;document.getElementById('progressFill').style.width=`${(current+1)/slides.length*100}%`;
+    document.getElementById('prev').disabled=current===0;document.getElementById('edgePrev').disabled=current===0;document.getElementById('first').disabled=current===0;document.getElementById('next').disabled=current===slides.length-1;document.getElementById('edgeNext').disabled=current===slides.length-1;document.getElementById('last').disabled=current===slides.length-1;
+    document.querySelectorAll('.thumb').forEach((b,i)=>{b.classList.toggle('active',i===current);if(i===current)b.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'})});
+    const list=spots[current]||[],box=document.getElementById('hotspots');box.innerHTML=list.map((h,i)=>`<button class="hotspot" data-hit="${i}" title="${esc(h.text)}" aria-label="${esc(h.text)}" ${h.answer?'data-answer="true"':''} style="left:${h.x*100}%;top:${h.y*100}%;width:${Math.max(h.w*100,0.3)}%;height:${Math.max(h.h*100,0.8)}%;display:${h.answer&&!answersVisible?'none':'block'}"></button>`).join('');
+    box.querySelectorAll('.hotspot').forEach(b=>b.onclick=()=>{const index=Number(b.dataset.hit);selected=selectPhrase(index,list);box.querySelectorAll('.hotspot').forEach(x=>x.classList.toggle('selected',selected.indices.includes(Number(x.dataset.hit))));showEntry(selected)});
+    document.getElementById('hitCount').textContent=list.length?`${list.length} kelime`:' ';
+    renderAudio(s.audio);renderAnswers();document.getElementById('translationPanel').querySelector('.empty').style.display='grid';document.getElementById('translationPanel').querySelectorAll('.entry-content').forEach(n=>n.remove());
+  }
+  function cleanText(text){return String(text??'').replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim()}
+  function normalized(text){return cleanText(text).normalize('NFC').toLocaleLowerCase('tr-TR').replace(/[’‘]/g,"'").replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu,'')}
+  function canonicalDisplay(hit){
+    const canonical=String(hit.key||hit.text||'').normalize('NFC'),raw=String(hit.text||'').trim();let text=raw||canonical;
+    if(raw&&/^[A-ZÇĞİÖŞÜ]/.test(raw))text=text.replace(/^./u,c=>c.toLocaleUpperCase('tr-TR'));
+    const ending=raw.match(/[.!?,:;…]+$/)?.[0];if(ending&&!/[.!?,:;…]$/.test(text))text+=ending;
+    return cleanText(text);
+  }
+  function nearOnLine(a,b){const ay=a.y+a.h/2,by=b.y+b.h/2,dy=by-ay,lineTolerance=Math.max(.018,Math.min(a.h,b.h)*.85),gap=b.x-(a.x+a.w),sameLine=Math.abs(dy)<=lineTolerance&&b.x>=a.x-.005&&gap<=.045,wrappedLine=dy>lineTolerance&&dy<=.055&&b.x>=a.x-.12&&b.x<=a.x+.12;return sameLine||wrappedLine}
+  function selectPhrase(index,list){
+    const hit=list[index];if(hit.type==='phrase'&&dict.phrases?.[hit.key])return {key:hit.key,text:canonicalDisplay(hit),displayText:canonicalDisplay(hit),phrase:true,indices:[index]};
+    const candidates=list.map((h,i)=>({h,i,token:normalized(h.key||h.text)})).filter(x=>x.h.type!=='phrase'&&(answersVisible||!x.h.answer)&&Boolean(x.h.answer)===Boolean(hit.answer));
+    const choices=[];
+    for(const [phrase,entry] of Object.entries(dict.phrases||{})){
+      const parts=phrase.split(/\s+/).map(normalized);if(parts.length<2)continue;
+      for(const start of candidates.filter(x=>x.token===parts[0])){
+        const paths=[];const walk=(path,pos)=>{if(pos===parts.length){if(path.some(x=>x.i===index))paths.push(path);return}const prev=path[path.length-1];candidates.filter(x=>x.token===parts[pos]&&x.i!==prev.i&&nearOnLine(prev.h,x.h)).sort((a,b)=>Math.abs(a.h.y-prev.h.y)-Math.abs(b.h.y-prev.h.y)||Math.abs(a.h.x-prev.h.x)-Math.abs(b.h.x-prev.h.x)).slice(0,8).forEach(next=>{if(!path.some(x=>x.i===next.i)&&next.h.x+next.h.w-start.h.x<.58)walk([...path,next],pos+1)})};walk([start],1);
+        for(const ordered of paths){choices.push({key:phrase,text:phrase,displayText:phrase,phrase:true,indices:ordered.map(x=>x.i),score:parts.length*100-ordered.reduce((n,x,i)=>i?n+Math.max(0,x.h.x-(ordered[i-1].h.x+ordered[i-1].h.w)):n,0)})}
+      }
+    }
+    if(choices.length){choices.sort((a,b)=>b.score-a.score);const best=choices[0],first=list[best.indices[0]],last=list[best.indices[best.indices.length-1]],display=best.key.split(/\s+/);if(/^[A-ZÇĞİÖŞÜ]/.test(first.text||''))display[0]=display[0].replace(/^./u,c=>c.toLocaleUpperCase('tr-TR'));best.indices.forEach((n,i)=>{if(/^[A-ZÇĞİÖŞÜ]/.test(list[n].text||''))display[i]=display[i].replace(/^./u,c=>c.toLocaleUpperCase('tr-TR'))});const ending=String(last.text||'').match(/[.!?,:;…]+$/)?.[0];if(ending)display[display.length-1]+=ending;best.displayText=display.join(' ');best.text=best.displayText;return best}
+    return {key:hit.key||normalized(hit.text),text:canonicalDisplay(hit),displayText:canonicalDisplay(hit),phrase:false,indices:[index]};
+  }
+  function stopAudio(){const lessonPanel=document.getElementById('lessonAudioPanel');if(lessonPanel)lessonPanel.hidden=true;window.TurkceSpeech?.stop();audioNodes.forEach(a=>{a.pause();a.currentTime=0});audioNodes=[];if(turnAudio){turnAudio.pause();turnAudio.currentTime=0;turnAudio=null}if('speechSynthesis'in window)speechSynthesis.cancel();const b=document.getElementById('toolbarListen');if(b){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._audio=null;b._playing=false}}
+  function playTracks(tracks,b){
+    if(b._playing){stopAudio();return}
+    stopAudio();let index=0;b._playing=true;b.classList.add('playing');b.innerHTML='❚❚ DURDUR';
+    const player=document.getElementById('lessonAudioPlayer'),panel=document.getElementById('lessonAudioPanel'),label=document.getElementById('lessonAudioLabel');
+    panel.hidden=false;
+    const playNext=()=>{
+      if(index>=tracks.length){b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;audioNodes=[];return}
+      player.src=tracks[index];label.textContent='Dinleme kaydı '+(index+1)+' / '+tracks.length;
+      index++;b._audio=player;audioNodes=[player];player.onended=playNext;
+      player.onerror=()=>{showToast('Ses dosyası açılamadı.');playNext()};
+      player.play().catch(()=>showToast('Sesi başlatmak için oynatma düğmesine basın.'));
+    };
+    playNext();
+  }
+  function renderAudio(audio){const b=document.getElementById('toolbarListen'),tracks=audio?(Array.isArray(audio)?audio:[audio]):[];b.hidden=!tracks.length;b.classList.remove('playing');b.innerHTML='▶ DİNLE';b._playing=false;b._audio=null;if(tracks.length){b.textContent='▶ DİNLE';b.onclick=()=>playTracks(tracks,b);b.title=tracks.length>1?`Bu slayttaki ${tracks.length} dinleme kaydını sırayla çal`:'Slayt sesini dinle'}}
+  const speechLanguages={tr:['tr-TR','tr'],en:['en-US','en'],ru:['ru-RU','ru'],ky:['ky-KG','ky'],ar:['ar-SA','ar-XA','ar-EG','ar'],fr:['fr-FR','fr']};
+  const speechNames={ky:'Kırgızca',ar:'Arapça',tr:'Türkçe',en:'İngilizce',ru:'Rusça',fr:'Fransızca'};
+  function chooseSpeechVoice(voices,language){
+    const wanted=speechLanguages[language]||[language||'tr-TR'];
+    for(const code of wanted){const exact=voices.find(v=>v.lang.toLowerCase()===code.toLowerCase());if(exact)return exact}
+    const base=wanted[0].split('-')[0].toLowerCase();
+    return voices.find(v=>v.lang.toLowerCase().split('-')[0]===base)||null;
+  }
+  function speak(text,language='tr'){
+    const clean=cleanText(text);if(!clean)return;
+    stopAudio();
+    if(!window.TurkceSpeech){const voice=chooseSpeechVoice(speechSynthesis.getVoices(),language);if(!voice){showToast('Bu dilin sesi tarayıcınızda bulunamadı.');return}const u=new SpeechSynthesisUtterance(clean);u.voice=voice;u.lang=voice.lang;speechSynthesis.speak(u);return}
+    window.TurkceSpeech.speak(clean,language).catch(error=>{const voice=chooseSpeechVoice(speechSynthesis.getVoices(),language);if(!voice){showToast(error.message);return}const utterance=new SpeechSynthesisUtterance(clean);utterance.lang=voice.lang;utterance.voice=voice;speechSynthesis.speak(utterance)});
+  }
+  function speechButton(text,language,label='Seslendir'){
+    return `<button class="tts-button" type="button" data-say="${esc(text)}" data-say-lang="${esc(language)}" aria-label="${label}">🔊</button>`
+  }
+  function speechRow(text,language,extraClass=''){
+    return `<div class="speech-line ${extraClass}"><span class="speech-text">${esc(text)}</span>${speechButton(text,language)}</div>`
+  }
+  function renderAnswers(){
+ const available=Boolean(slides[current]?.answerImage),panel=document.getElementById('answerPanel'),overlay=document.getElementById('answerOverlay'),toggle=document.getElementById('answerToggle');panel.hidden=!available;overlay.innerHTML=available?`<img src="${slides[current].answerImage}" style="width:100%;height:100%" alt="PowerPoint cevapları">`:'';
+ const update=()=>{overlay.hidden=!available||!answersVisible;toggle.setAttribute('aria-pressed',String(answersVisible));toggle.textContent=answersVisible?'Cevapları gizle':'Cevapları göster';document.getElementById('answerStatus').textContent=answersVisible?'Cevaplar gösteriliyor':'Cevaplar gizli';document.querySelectorAll('.hotspot[data-answer="true"]').forEach(b=>b.style.display=answersVisible?'block':'none')};toggle.onclick=()=>{answersVisible=!answersVisible;update()};update();
+  }
+  function showEntry(hit){
+    const idx=langs.find(x=>x.id===lang)?.index??0,key=hit.key||hit.text.toLowerCase(),phrase=dict.phrases?.[key],form=dict.forms?.[key],word=dict.words?.[key],ex=dict.examples?.[key];
+    const item=phrase||form||word;const transArr=phrase?.translations||form?.formTranslations||word;
+    const lemma=form?.lemma;
+    const exampleTr=phrase?.exampleTr||form?.exampleTr||ex?.[0];const exampleTranslations=phrase?.examples||form?.examples||ex?.[1];
+    const panel=document.getElementById('translationPanel');panel.querySelector('.empty').style.display='none';panel.querySelectorAll('.entry-content').forEach(n=>n.remove());
+    const el=document.createElement('div');el.className='entry-content';
+    const displayText=hit.displayText||canonicalDisplay(hit),targetLang=langs[idx].id;
+    if(!item){el.innerHTML=`<div class="type-label">${langs[idx].label} · TÜRKÇE İFADE</div><div class="word-heading"><h3 class="word-title">${esc(displayText)}</h3>${speechButton(displayText,'tr')}</div><div class="translation">Bu kelime için çeviri kaydı bulunamadı.</div>`;}
+    else{
+      const translation=transArr?.[idx]||'—';
+      const lemmaEntry=lemma?(dict.words?.[lemma]||null):null;const lemmaTranslation=form?.lemmaTranslations?.[idx]||lemmaEntry?.[idx];
+      const translationSpeech=speechRow(translation,targetLang);
+      const formTranslation=form?`<div class="translation"><div class="type-label">YALIN HÂL · ${esc(lemma||'')}</div>${speechRow(lemmaTranslation||lemma||'—',targetLang)}</div><div class="form-translation"><span>Kitaptaki biçimi: <strong>${esc(form.formTranslations[idx]||translation)}</strong></span>${speechButton(form.formTranslations[idx]||translation,targetLang,'Kitaptaki biçimin anlamını dinle')}</div>`:'';
+      const exampleBlock=exampleTr?`<div class="example"><strong>ÖRNEK CÜMLE · ${langs[idx].label}</strong>${speechRow(exampleTr,'tr')}${exampleTranslations?.[idx]?speechRow(exampleTranslations[idx],targetLang,'translated'):''}</div>`:'';
+      el.innerHTML=`<div class="type-label">${phrase?'KALIP İFADE':form?'KİTAPTAKİ BİÇİM':'KELİME'} · ${langs[idx].label}</div><div class="word-heading"><h3 class="word-title">${esc(displayText)}</h3>${speechButton(displayText,'tr','Türkçe ifadeyi dinle')}</div>${form?formTranslation:`<div class="translation">${translationSpeech}</div>`}${exampleBlock}`;
+    }
+    panel.appendChild(el);
+    el.querySelectorAll('.tts-button').forEach(button=>button.onclick=()=>speak(button.dataset.say,button.dataset.sayLang));
+  }
+  init();
+})();
+</script>
+</body>
+</html>

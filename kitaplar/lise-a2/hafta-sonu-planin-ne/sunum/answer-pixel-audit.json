@@ -1,0 +1,314 @@
+[
+  {
+    "sourceSlide": 3,
+    "redPixelsBefore": 25372,
+    "redPixelsAfter": 224,
+    "removedPercent": 99.12
+  },
+  {
+    "sourceSlide": 4,
+    "redPixelsBefore": 19554,
+    "redPixelsAfter": 180,
+    "removedPercent": 99.08
+  },
+  {
+    "sourceSlide": 7,
+    "redPixelsBefore": 27984,
+    "redPixelsAfter": 3696,
+    "removedPercent": 86.79
+  },
+  {
+    "sourceSlide": 22,
+    "redPixelsBefore": 18634,
+    "redPixelsAfter": 19,
+    "removedPercent": 99.9
+  },
+  {
+    "sourceSlide": 24,
+    "redPixelsBefore": 14428,
+    "redPixelsAfter": 12,
+    "removedPercent": 99.92
+  },
+  {
+    "sourceSlide": 27,
+    "redPixelsBefore": 10230,
+    "redPixelsAfter": 1839,
+    "removedPercent": 82.02
+  },
+  {
+    "sourceSlide": 31,
+    "redPixelsBefore": 24006,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 40,
+    "redPixelsBefore": 23024,
+    "redPixelsAfter": 41,
+    "removedPercent": 99.82
+  },
+  {
+    "sourceSlide": 41,
+    "redPixelsBefore": 5387,
+    "redPixelsAfter": 59,
+    "removedPercent": 98.9
+  },
+  {
+    "sourceSlide": 42,
+    "redPixelsBefore": 11124,
+    "redPixelsAfter": 134,
+    "removedPercent": 98.8
+  },
+  {
+    "sourceSlide": 43,
+    "redPixelsBefore": 5273,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 47,
+    "redPixelsBefore": 35941,
+    "redPixelsAfter": 83,
+    "removedPercent": 99.77
+  },
+  {
+    "sourceSlide": 51,
+    "redPixelsBefore": 18150,
+    "redPixelsAfter": 40,
+    "removedPercent": 99.78
+  },
+  {
+    "sourceSlide": 55,
+    "redPixelsBefore": 20173,
+    "redPixelsAfter": 2,
+    "removedPercent": 99.99
+  },
+  {
+    "sourceSlide": 56,
+    "redPixelsBefore": 1207,
+    "redPixelsAfter": 9,
+    "removedPercent": 99.25
+  },
+  {
+    "sourceSlide": 57,
+    "redPixelsBefore": 6301,
+    "redPixelsAfter": 2,
+    "removedPercent": 99.97
+  },
+  {
+    "sourceSlide": 58,
+    "redPixelsBefore": 13003,
+    "redPixelsAfter": 242,
+    "removedPercent": 98.14
+  },
+  {
+    "sourceSlide": 59,
+    "redPixelsBefore": 50970,
+    "redPixelsAfter": 269,
+    "removedPercent": 99.47
+  },
+  {
+    "sourceSlide": 67,
+    "redPixelsBefore": 36596,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 80,
+    "redPixelsBefore": 34383,
+    "redPixelsAfter": 4596,
+    "removedPercent": 86.63
+  },
+  {
+    "sourceSlide": 81,
+    "redPixelsBefore": 23847,
+    "redPixelsAfter": 1160,
+    "removedPercent": 95.14
+  },
+  {
+    "sourceSlide": 84,
+    "redPixelsBefore": 24928,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 85,
+    "redPixelsBefore": 41117,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 87,
+    "redPixelsBefore": 17446,
+    "redPixelsAfter": 2946,
+    "removedPercent": 83.11
+  },
+  {
+    "sourceSlide": 88,
+    "redPixelsBefore": 12904,
+    "redPixelsAfter": 9,
+    "removedPercent": 99.93
+  },
+  {
+    "sourceSlide": 89,
+    "redPixelsBefore": 17486,
+    "redPixelsAfter": 1036,
+    "removedPercent": 94.08
+  },
+  {
+    "sourceSlide": 101,
+    "redPixelsBefore": 24718,
+    "redPixelsAfter": 25,
+    "removedPercent": 99.9
+  },
+  {
+    "sourceSlide": 102,
+    "redPixelsBefore": 3325,
+    "redPixelsAfter": 431,
+    "removedPercent": 87.04
+  },
+  {
+    "sourceSlide": 104,
+    "redPixelsBefore": 10605,
+    "redPixelsAfter": 210,
+    "removedPercent": 98.02
+  },
+  {
+    "sourceSlide": 105,
+    "redPixelsBefore": 21837,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 108,
+    "redPixelsBefore": 10717,
+    "redPixelsAfter": 63,
+    "removedPercent": 99.41
+  },
+  {
+    "sourceSlide": 110,
+    "redPixelsBefore": 1384,
+    "redPixelsAfter": 188,
+    "removedPercent": 86.42
+  },
+  {
+    "sourceSlide": 115,
+    "redPixelsBefore": 23074,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 116,
+    "redPixelsBefore": 9674,
+    "redPixelsAfter": 46,
+    "removedPercent": 99.52
+  },
+  {
+    "sourceSlide": 117,
+    "redPixelsBefore": 6930,
+    "redPixelsAfter": 477,
+    "removedPercent": 93.12
+  },
+  {
+    "sourceSlide": 118,
+    "redPixelsBefore": 13883,
+    "redPixelsAfter": 1009,
+    "removedPercent": 92.73
+  },
+  {
+    "sourceSlide": 119,
+    "redPixelsBefore": 14931,
+    "redPixelsAfter": 1687,
+    "removedPercent": 88.7
+  },
+  {
+    "sourceSlide": 120,
+    "redPixelsBefore": 18542,
+    "redPixelsAfter": 129,
+    "removedPercent": 99.3
+  },
+  {
+    "sourceSlide": 121,
+    "redPixelsBefore": 23571,
+    "redPixelsAfter": 4128,
+    "removedPercent": 82.49
+  },
+  {
+    "sourceSlide": 122,
+    "redPixelsBefore": 10973,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 129,
+    "redPixelsBefore": 27088,
+    "redPixelsAfter": 107,
+    "removedPercent": 99.6
+  },
+  {
+    "sourceSlide": 140,
+    "redPixelsBefore": 21806,
+    "redPixelsAfter": 5053,
+    "removedPercent": 76.83
+  },
+  {
+    "sourceSlide": 142,
+    "redPixelsBefore": 9627,
+    "redPixelsAfter": 331,
+    "removedPercent": 96.56
+  },
+  {
+    "sourceSlide": 145,
+    "redPixelsBefore": 9351,
+    "redPixelsAfter": 107,
+    "removedPercent": 98.86
+  },
+  {
+    "sourceSlide": 149,
+    "redPixelsBefore": 12082,
+    "redPixelsAfter": 283,
+    "removedPercent": 97.66
+  },
+  {
+    "sourceSlide": 150,
+    "redPixelsBefore": 8811,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 151,
+    "redPixelsBefore": 6426,
+    "redPixelsAfter": 9,
+    "removedPercent": 99.86
+  },
+  {
+    "sourceSlide": 152,
+    "redPixelsBefore": 10615,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 157,
+    "redPixelsBefore": 10411,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 159,
+    "redPixelsBefore": 35919,
+    "redPixelsAfter": 24,
+    "removedPercent": 99.93
+  },
+  {
+    "sourceSlide": 161,
+    "redPixelsBefore": 15620,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  },
+  {
+    "sourceSlide": 162,
+    "redPixelsBefore": 1166,
+    "redPixelsAfter": 0,
+    "removedPercent": 100.0
+  }
+]

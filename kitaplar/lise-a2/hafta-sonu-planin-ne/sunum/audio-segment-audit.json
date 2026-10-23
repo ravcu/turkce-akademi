@@ -1,0 +1,202 @@
+[
+  {
+    "slide": 10,
+    "audio": "audio/media1.mp3",
+    "start": 0,
+    "end": 21.627,
+    "pptAnimationSeconds": 21.627,
+    "fileDurationSeconds": 140.136
+  },
+  {
+    "slide": 12,
+    "audio": "audio/media1.mp3",
+    "start": 21.627,
+    "end": 41.888,
+    "pptAnimationSeconds": 20.261,
+    "fileDurationSeconds": 140.136
+  },
+  {
+    "slide": 15,
+    "audio": "audio/media1.mp3",
+    "start": 41.888,
+    "end": 70.259,
+    "pptAnimationSeconds": 28.371,
+    "fileDurationSeconds": 140.136
+  },
+  {
+    "slide": 18,
+    "audio": "audio/media1.mp3",
+    "start": 70.259,
+    "end": 140.136,
+    "pptAnimationSeconds": 55.917,
+    "fileDurationSeconds": 140.136
+  },
+  {
+    "slide": 32,
+    "audio": "audio/media2.mp3",
+    "start": 0,
+    "end": 47.097,
+    "pptAnimationSeconds": 47.097,
+    "fileDurationSeconds": 64.056
+  },
+  {
+    "slide": 46,
+    "audio": "audio/media3.mp3",
+    "start": 0,
+    "end": 105.924,
+    "pptAnimationSeconds": 105.924,
+    "fileDurationSeconds": 120.744
+  },
+  {
+    "slide": 51,
+    "audio": "audio/media4.mp3",
+    "start": 0,
+    "end": 15.935,
+    "pptAnimationSeconds": 15.935,
+    "fileDurationSeconds": 29.952
+  },
+  {
+    "slide": 60,
+    "audio": "audio/media6.mp3",
+    "start": 0,
+    "end": 47.993,
+    "pptAnimationSeconds": 47.993,
+    "fileDurationSeconds": 64.152
+  },
+  {
+    "slide": 71,
+    "audio": "audio/media8.mp3",
+    "start": 0,
+    "end": 24.72,
+    "pptAnimationSeconds": 29.015,
+    "fileDurationSeconds": 24.72
+  },
+  {
+    "slide": 71,
+    "audio": "audio/media7.mp3",
+    "start": 0,
+    "end": 9.539,
+    "pptAnimationSeconds": 9.539,
+    "fileDurationSeconds": 43.92
+  },
+  {
+    "slide": 72,
+    "audio": "audio/media9.mp3",
+    "start": 0,
+    "end": 35.182,
+    "pptAnimationSeconds": 35.182,
+    "fileDurationSeconds": 49.656
+  },
+  {
+    "slide": 74,
+    "audio": "audio/media10.mp3",
+    "start": 0,
+    "end": 28.8,
+    "pptAnimationSeconds": 28.8,
+    "fileDurationSeconds": 82.296
+  },
+  {
+    "slide": 76,
+    "audio": "audio/media10.mp3",
+    "start": 28.8,
+    "end": 82.296,
+    "pptAnimationSeconds": 39.262,
+    "fileDurationSeconds": 82.296
+  },
+  {
+    "slide": 91,
+    "audio": "audio/media11.mp3",
+    "start": 0,
+    "end": 41.425,
+    "pptAnimationSeconds": 41.425,
+    "fileDurationSeconds": 128.208
+  },
+  {
+    "slide": 94,
+    "audio": "audio/media11.mp3",
+    "start": 41.425,
+    "end": 73.342,
+    "pptAnimationSeconds": 31.917,
+    "fileDurationSeconds": 128.208
+  },
+  {
+    "slide": 97,
+    "audio": "audio/media11.mp3",
+    "start": 73.342,
+    "end": 128.208,
+    "pptAnimationSeconds": 39.672,
+    "fileDurationSeconds": 128.208
+  },
+  {
+    "slide": 108,
+    "audio": "audio/media12.mp3",
+    "start": 0,
+    "end": 23.241,
+    "pptAnimationSeconds": 23.241,
+    "fileDurationSeconds": 69.696
+  },
+  {
+    "slide": 110,
+    "audio": "audio/media12.mp3",
+    "start": 23.241,
+    "end": 69.696,
+    "pptAnimationSeconds": 28.287,
+    "fileDurationSeconds": 69.696
+  },
+  {
+    "slide": 120,
+    "audio": "audio/media13.mp3",
+    "start": 0,
+    "end": 155.449,
+    "pptAnimationSeconds": 155.449,
+    "fileDurationSeconds": 171.264
+  },
+  {
+    "slide": 130,
+    "audio": "audio/media14.mp3",
+    "start": 0,
+    "end": 179.644,
+    "pptAnimationSeconds": 179.644,
+    "fileDurationSeconds": 179.644083
+  },
+  {
+    "slide": 131,
+    "audio": "audio/media15.mp3",
+    "start": 0,
+    "end": 25.931,
+    "pptAnimationSeconds": 25.931,
+    "fileDurationSeconds": 41.256
+  },
+  {
+    "slide": 133,
+    "audio": "audio/media16.mp3",
+    "start": 0,
+    "end": 17.292,
+    "pptAnimationSeconds": 17.292,
+    "fileDurationSeconds": 33.264
+  },
+  {
+    "slide": 135,
+    "audio": "audio/media17.mp3",
+    "start": 0,
+    "end": 43.756,
+    "pptAnimationSeconds": 43.756,
+    "fileDurationSeconds": 75.12
+  },
+  {
+    "slide": 137,
+    "audio": "audio/media17.mp3",
+    "start": 43.756,
+    "end": 75.12,
+    "pptAnimationSeconds": 14.906,
+    "fileDurationSeconds": 75.12
+  },
+  {
+    "slide": 139,
+    "audio": "audio/media18.mp3",
+    "start": 0,
+    "end": 10.869,
+    "pptAnimationSeconds": 10.869,
+    "fileDurationSeconds": 26.448
+  }
+]
