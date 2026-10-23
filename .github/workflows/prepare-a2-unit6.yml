@@ -6,7 +6,7 @@ on:
       - '.github/workflows/prepare-a2-unit6.yml'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 concurrency:
   group: a2-unit6-pronunciation
   cancel-in-progress: true
@@ -46,6 +46,8 @@ jobs:
   save:
     needs: speech
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
@@ -89,6 +91,8 @@ jobs:
   verify:
     needs: save
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     timeout-minutes: 20
     steps:
       - uses: actions/checkout@v4
