@@ -1,0 +1,120 @@
+{
+  "slides": 104,
+  "answers": 52,
+  "audioSlides": 24,
+  "audioClips": 25,
+  "wordSpots": 4777,
+  "uniqueClickableKeys": 1557,
+  "missingFiles": [],
+  "incompleteFiveLanguageEntries": [],
+  "clips": [
+    {
+      "file": "audio/segment-007-1.mp3",
+      "duration": 21.672
+    },
+    {
+      "file": "audio/segment-008-1.mp3",
+      "duration": 20.304
+    },
+    {
+      "file": "audio/segment-009-1.mp3",
+      "duration": 28.416
+    },
+    {
+      "file": "audio/segment-010-1.mp3",
+      "duration": 69.864
+    },
+    {
+      "file": "audio/segment-016-1.mp3",
+      "duration": 47.136
+    },
+    {
+      "file": "audio/segment-023-1.mp3",
+      "duration": 105.96
+    },
+    {
+      "file": "audio/segment-025-1.mp3",
+      "duration": 15.96
+    },
+    {
+      "file": "audio/segment-033-1.mp3",
+      "duration": 48.024
+    },
+    {
+      "file": "audio/segment-037-1.mp3",
+      "duration": 24.72
+    },
+    {
+      "file": "audio/segment-037-2.mp3",
+      "duration": 9.576
+    },
+    {
+      "file": "audio/segment-038-1.mp3",
+      "duration": 35.208
+    },
+    {
+      "file": "audio/segment-039-1.mp3",
+      "duration": 28.824
+    },
+    {
+      "file": "audio/segment-040-1.mp3",
+      "duration": 53.496
+    },
+    {
+      "file": "audio/segment-052-1.mp3",
+      "duration": 41.472
+    },
+    {
+      "file": "audio/segment-053-1.mp3",
+      "duration": 31.944
+    },
+    {
+      "file": "audio/segment-054-1.mp3",
+      "duration": 54.888
+    },
+    {
+      "file": "audio/segment-060-1.mp3",
+      "duration": 23.28
+    },
+    {
+      "file": "audio/segment-061-1.mp3",
+      "duration": 25.247228
+    },
+    {
+      "file": "audio/segment-069-1.mp3",
+      "duration": 155.496
+    },
+    {
+      "file": "audio/segment-075-1.mp3",
+      "duration": 179.670204
+    },
+    {
+      "file": "audio/segment-076-1.mp3",
+      "duration": 25.968
+    },
+    {
+      "file": "audio/segment-077-1.mp3",
+      "duration": 17.328
+    },
+    {
+      "file": "audio/segment-079-1.mp3",
+      "duration": 43.8
+    },
+    {
+      "file": "audio/segment-080-1.mp3",
+      "duration": 31.368
+    },
+    {
+      "file": "audio/segment-081-1.mp3",
+      "duration": 10.896
+    }
+  ],
+  "limitations": [
+    "Full visual proofreading of every red answer annotation is not complete.",
+    "Audio cuts follow the previously extracted PowerPoint timing; they have not all been independently listened to.",
+    "Some entries do not yet have example sentences.",
+    "Word speech uses existing recordings and available matching-language browser voices."
+  ],
+  "selectedKeysWithoutExamples": 391,
+  "uncertainOcrTokensNotMadeClickable": 65
+}
