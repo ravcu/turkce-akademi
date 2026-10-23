@@ -6,13 +6,15 @@ on:
       - '.github/workflows/repair-a2-unit5-positions.yml'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 concurrency:
   group: repair-a2-unit5-positions
   cancel-in-progress: false
 jobs:
   repair:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
         with:
