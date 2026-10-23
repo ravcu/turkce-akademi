@@ -1,0 +1,362 @@
+{
+  "languages": [
+    "English",
+    "Русский",
+    "Кыргызча",
+    "العربية",
+    "Français"
+  ],
+  "entries": {
+    "haftaya": [
+      "next week",
+      "на следующей неделе",
+      "кийинки жумада",
+      "الأسبوع القادم",
+      "la semaine prochaine"
+    ],
+    "buluşalım": [
+      "let's meet",
+      "давай встретимся",
+      "жолугалы",
+      "لِنَلْتَقِ",
+      "retrouvons-nous"
+    ],
+    "buluşmak": [
+      "to meet up",
+      "встречаться",
+      "жолугушуу",
+      "يلتقي",
+      "se retrouver"
+    ],
+    "buluşacağız": [
+      "we will meet",
+      "мы встретимся",
+      "жолугабыз",
+      "سَنَلْتَقِي",
+      "nous nous retrouverons"
+    ],
+    "görüşürüz": [
+      "see you",
+      "увидимся",
+      "көрүшкөнчө",
+      "إلى اللقاء",
+      "à bientôt"
+    ],
+    "görüşmek": [
+      "to meet / see each other",
+      "видеться",
+      "көрүшүү",
+      "يتقابل",
+      "se voir"
+    ],
+    "gelecek": [
+      "will come / future",
+      "придёт / будущее",
+      "келет / келечек",
+      "سيأتي / المستقبل",
+      "viendra / avenir"
+    ],
+    "geleceğim": [
+      "I will come",
+      "я приду",
+      "келем",
+      "سَآتِي",
+      "je viendrai"
+    ],
+    "geleceğiz": [
+      "we will come",
+      "мы придём",
+      "келебиз",
+      "سَنَأْتِي",
+      "nous viendrons"
+    ],
+    "gel": [
+      "come!",
+      "приходи!",
+      "кел!",
+      "تَعَالَ",
+      "viens !"
+    ],
+    "gidiyor": [
+      "is going",
+      "идёт / едет",
+      "бара жатат",
+      "يذهب الآن",
+      "va"
+    ],
+    "gidebilir": [
+      "can go",
+      "может пойти",
+      "бара алат",
+      "يستطيع الذهاب",
+      "peut aller"
+    ],
+    "gidebiliriz": [
+      "we can go",
+      "мы можем пойти",
+      "бара алабыз",
+      "يمكننا الذهاب",
+      "nous pouvons aller"
+    ],
+    "isterim": [
+      "I would like",
+      "я хочу",
+      "каалайм",
+      "أُرِيدُ",
+      "je voudrais"
+    ],
+    "istiyorum": [
+      "I want",
+      "я хочу",
+      "каалап жатам",
+      "أُرِيدُ",
+      "je veux"
+    ],
+    "ister misin": [
+      "would you like?",
+      "хочешь?",
+      "каалайсыңбы?",
+      "هَلْ تُرِيدُ؟",
+      "tu voudrais ?"
+    ],
+    "istiyor": [
+      "wants",
+      "хочет",
+      "каалайт",
+      "يُرِيدُ",
+      "veut"
+    ],
+    "yapacağım": [
+      "I will do",
+      "я сделаю",
+      "жасайм",
+      "سَأَفْعَلُ",
+      "je ferai"
+    ],
+    "yapacağız": [
+      "we will do",
+      "мы сделаем",
+      "жасайбыз",
+      "سَنَفْعَلُ",
+      "nous ferons"
+    ],
+    "yapacak": [
+      "will do",
+      "сделает",
+      "жасайт",
+      "سَيَفْعَلُ",
+      "fera"
+    ],
+    "yapalım": [
+      "let's do it",
+      "давай сделаем",
+      "жасайлы",
+      "لِنَفْعَلْ",
+      "faisons-le"
+    ],
+    "yapıyorum": [
+      "I am doing",
+      "я делаю",
+      "жасап жатам",
+      "أَفْعَلُ",
+      "je fais"
+    ],
+    "oynayacağız": [
+      "we will play",
+      "мы будем играть",
+      "ойнойбуз",
+      "سَنَلْعَبُ",
+      "nous jouerons"
+    ],
+    "oynayalım": [
+      "let's play",
+      "давай поиграем",
+      "ойнойлу",
+      "لِنَلْعَبْ",
+      "jouons"
+    ],
+    "oynayacak": [
+      "will play",
+      "будет играть",
+      "ойнойт",
+      "سَيَلْعَبُ",
+      "jouera"
+    ],
+    "gidecekler": [
+      "they will go",
+      "они пойдут",
+      "алар барышат",
+      "سَيَذْهَبُونَ",
+      "ils iront"
+    ],
+    "gelecekler": [
+      "they will come",
+      "они придут",
+      "алар келишет",
+      "سَيَأْتُونَ",
+      "ils viendront"
+    ],
+    "alacağım": [
+      "I will buy / take",
+      "я куплю / возьму",
+      "сатып алам / алам",
+      "سَأَشْتَرِي / سَآخُذُ",
+      "j'achèterai / je prendrai"
+    ],
+    "alacağız": [
+      "we will buy / take",
+      "мы купим / возьмём",
+      "сатып алабыз / алабыз",
+      "سَنَشْتَرِي / سَنَأْخُذُ",
+      "nous achèterons / prendrons"
+    ],
+    "almak": [
+      "to buy / take",
+      "покупать / брать",
+      "сатып алуу / алуу",
+      "يشتري / يأخذ",
+      "acheter / prendre"
+    ],
+    "bekle": [
+      "wait!",
+      "подожди!",
+      "күт!",
+      "اِنْتَظِرْ",
+      "attends !"
+    ],
+    "bekliyorum": [
+      "I am waiting",
+      "я жду",
+      "күтүп жатам",
+      "أَنْتَظِرُ",
+      "j'attends"
+    ],
+    "bekleyeceğim": [
+      "I will wait",
+      "я подожду",
+      "күтөм",
+      "سَأَنْتَظِرُ",
+      "j'attendrai"
+    ],
+    "hazırlık": [
+      "preparation",
+      "подготовка",
+      "даярдык",
+      "تَحْضِير",
+      "préparation"
+    ],
+    "hazırlanmak": [
+      "to get ready",
+      "готовиться",
+      "даярдануу",
+      "يَسْتَعِدُّ",
+      "se préparer"
+    ],
+    "hazırım": [
+      "I'm ready",
+      "я готов(а)",
+      "даярмын",
+      "أَنَا مُسْتَعِدّ",
+      "je suis prêt(e)"
+    ],
+    "müsait": [
+      "available / free",
+      "свободен / доступен",
+      "бош / убактысы бар",
+      "مُتَاح",
+      "disponible"
+    ],
+    "meşgul": [
+      "busy",
+      "занят",
+      "алек / бош эмес",
+      "مَشْغُول",
+      "occupé"
+    ],
+    "randevu": [
+      "appointment",
+      "встреча / запись",
+      "жолугушуу / кабыл алууга жазылуу",
+      "مَوْعِد",
+      "rendez-vous"
+    ],
+    "davet": [
+      "invitation",
+      "приглашение",
+      "чакыруу",
+      "دَعْوَة",
+      "invitation"
+    ],
+    "davet etmek": [
+      "to invite",
+      "приглашать",
+      "чакыруу",
+      "يَدْعُو",
+      "inviter"
+    ],
+    "gezi": [
+      "excursion / trip",
+      "экскурсия / поездка",
+      "саякат / экскурсия",
+      "رِحْلَة",
+      "excursion"
+    ],
+    "seyahat": [
+      "travel / journey",
+      "путешествие",
+      "саякат",
+      "سَفَر",
+      "voyage"
+    ],
+    "otobüs": [
+      "bus",
+      "автобус",
+      "автобус",
+      "حَافِلَة",
+      "bus"
+    ],
+    "araba": [
+      "car",
+      "машина",
+      "унаа",
+      "سَيَّارَة",
+      "voiture"
+    ],
+    "tren": [
+      "train",
+      "поезд",
+      "поезд",
+      "قِطَار",
+      "train"
+    ],
+    "bisiklet": [
+      "bicycle",
+      "велосипед",
+      "велосипед",
+      "دَرَّاجَة",
+      "vélo"
+    ],
+    "yüzmek": [
+      "to swim",
+      "плавать",
+      "сүзүү",
+      "يَسْبَحُ",
+      "nager"
+    ],
+    "koşmak": [
+      "to run",
+      "бегать",
+      "чуркоо",
+      "يَرْكُضُ",
+      "courir"
+    ],
+    "yürümek": [
+      "to walk",
+      "ходить пешком",
+      "жөө басуу",
+      "يَمْشِي",
+      "marcher"
+    ]
+  },
+  "warning": "Initial lexical translations; not yet validated against each slide context or merged into runtime dictionary.json."
+}
