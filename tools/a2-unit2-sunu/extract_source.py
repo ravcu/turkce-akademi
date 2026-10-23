@@ -44,5 +44,5 @@ for part in [1,2]:
  print(part,'kept',len(kept),'answers',sum(x['hasAnswers'] for x in all_slides if x['part']==part),flush=True)
  offset+=len(E.fromstring(z.read('ppt/presentation.xml')).find('p:sldIdLst',N))
 Path('rebuild/source-objects.json').write_text(json.dumps(all_slides,ensure_ascii=False,indent=2))
-old=json.loads(Path('staging/slides.json').read_text())['slides'];assert [s['sourceSlide'] for s in all_slides]==[s['sourceSlide'] for s in old]
+old=json.loads(Path('repo/kitaplar/lise-a2/hafta-sonu-planin-ne/sunum/slides.json').read_text())['slides'];assert [s['sourceSlide'] for s in all_slides]==[s['sourceSlide'] for s in old]
 print('SOURCE MAPPING MATCHES',len(all_slides),flush=True)

@@ -3,1045 +3,1288 @@
     {
       "sequence": 1,
       "sourceSlide": 1,
-      "image": "answers/001.webp"
+      "image": "native-v2/slides/001.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 1,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 2,
       "sourceSlide": 2,
-      "image": "answers/002.webp"
+      "image": "native-v2/slides/002.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 2,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 3,
       "sourceSlide": 3,
-      "image": "answers/003.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/003.webp",
+      "answerImage": "native-v2/answers/003.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 3,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 4,
       "sourceSlide": 4,
-      "image": "answers/004.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/004.webp",
+      "answerImage": "native-v2/answers/004.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 4,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 5,
       "sourceSlide": 5,
-      "image": "answers/005.webp"
+      "image": "native-v2/slides/005.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 5,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 6,
       "sourceSlide": 7,
-      "image": "answers/006.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/006.webp",
+      "answerImage": "native-v2/answers/006.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 7,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 7,
       "sourceSlide": 10,
-      "image": "answers/007.webp",
+      "image": "native-v2/slides/007.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 10,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-007-1.mp3"
+        "native-v2/audio/007-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media1.mp3",
-          "start": 0,
-          "end": 21.627,
-          "sourceTimingSeconds": 21.627,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media1.mp3",
-          "start": 0,
-          "end": 21.627,
-          "sourceTimingSeconds": 21.627,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/007-1.mp3",
+          "sourceStart": 14.723,
+          "sourceEnd": 36.35,
+          "sourceMediaSha256": "ee90b2b495ff30c2080b26be9f95c919d1de91f76825d8d8c5b8a068e9a592e0",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 8,
       "sourceSlide": 12,
-      "image": "answers/008.webp",
+      "image": "native-v2/slides/008.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 12,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-008-1.mp3"
+        "native-v2/audio/008-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media1.mp3",
-          "start": 21.627,
-          "end": 41.888,
-          "sourceTimingSeconds": 20.261,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media1.mp3",
-          "start": 21.627,
-          "end": 41.888,
-          "sourceTimingSeconds": 20.261,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/008-1.mp3",
+          "sourceStart": 36.44,
+          "sourceEnd": 56.701,
+          "sourceMediaSha256": "ee90b2b495ff30c2080b26be9f95c919d1de91f76825d8d8c5b8a068e9a592e0",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 9,
       "sourceSlide": 15,
-      "image": "answers/009.webp",
+      "image": "native-v2/slides/009.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 15,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-009-1.mp3"
+        "native-v2/audio/009-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media1.mp3",
-          "start": 41.888,
-          "end": 70.259,
-          "sourceTimingSeconds": 28.371,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media1.mp3",
-          "start": 41.888,
-          "end": 70.259,
-          "sourceTimingSeconds": 28.371,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/009-1.mp3",
+          "sourceStart": 55.584,
+          "sourceEnd": 83.955,
+          "sourceMediaSha256": "ee90b2b495ff30c2080b26be9f95c919d1de91f76825d8d8c5b8a068e9a592e0",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 10,
       "sourceSlide": 18,
-      "image": "answers/010.webp",
+      "image": "native-v2/slides/010.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 18,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-010-1.mp3"
+        "native-v2/audio/010-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media1.mp3",
-          "start": 70.259,
-          "end": 140.136,
-          "sourceTimingSeconds": 55.917,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media1.mp3",
-          "start": 70.259,
-          "end": 140.136,
-          "sourceTimingSeconds": 55.917,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/010-1.mp3",
+          "sourceStart": 84.172,
+          "sourceEnd": 140.089417,
+          "sourceMediaSha256": "ee90b2b495ff30c2080b26be9f95c919d1de91f76825d8d8c5b8a068e9a592e0",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 11,
       "sourceSlide": 22,
-      "image": "answers/011.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/011.webp",
+      "answerImage": "native-v2/answers/011.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 22,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 12,
       "sourceSlide": 24,
-      "image": "answers/012.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/012.webp",
+      "answerImage": "native-v2/answers/012.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 24,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 13,
       "sourceSlide": 27,
-      "image": "answers/013.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/013.webp",
+      "answerImage": "native-v2/answers/013.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 27,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 14,
       "sourceSlide": 28,
-      "image": "answers/014.webp"
+      "image": "native-v2/slides/014.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 28,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 15,
       "sourceSlide": 31,
-      "image": "answers/015.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/015.webp",
+      "answerImage": "native-v2/answers/015.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 31,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 16,
       "sourceSlide": 32,
-      "image": "answers/016.webp",
+      "image": "native-v2/slides/016.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 32,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-016-1.mp3"
+        "native-v2/audio/016-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media2.mp3",
-          "start": 0,
-          "end": 47.097,
-          "sourceTimingSeconds": 47.097,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media2.mp3",
-          "start": 0,
-          "end": 47.097,
-          "sourceTimingSeconds": 47.097,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/016-1.mp3",
+          "sourceStart": 16.926,
+          "sourceEnd": 64.023563,
+          "sourceMediaSha256": "bba27ba5f2bb2accf4bac8737621e10b6d600eb4dc7f6df3c5dc2cba73e5d5ca",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 17,
       "sourceSlide": 35,
-      "image": "answers/017.webp"
+      "image": "native-v2/slides/017.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 35,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 18,
       "sourceSlide": 38,
-      "image": "answers/018.webp"
+      "image": "native-v2/slides/018.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 38,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 19,
       "sourceSlide": 40,
-      "image": "answers/019.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/019.webp",
+      "answerImage": "native-v2/answers/019.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 40,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 20,
       "sourceSlide": 41,
-      "image": "answers/020.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/020.webp",
+      "answerImage": "native-v2/answers/020.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 41,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 21,
       "sourceSlide": 42,
-      "image": "answers/021.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/021.webp",
+      "answerImage": "native-v2/answers/021.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 42,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 22,
       "sourceSlide": 43,
-      "image": "answers/022.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/022.webp",
+      "answerImage": "native-v2/answers/022.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 43,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 23,
       "sourceSlide": 46,
-      "image": "answers/023.webp",
+      "image": "native-v2/slides/023.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 46,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-023-1.mp3"
+        "native-v2/audio/023-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media3.mp3",
-          "start": 0,
-          "end": 105.924,
-          "sourceTimingSeconds": 105.924,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media3.mp3",
-          "start": 0,
-          "end": 105.924,
-          "sourceTimingSeconds": 105.924,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/023-1.mp3",
+          "sourceStart": 14.78,
+          "sourceEnd": 120.704479,
+          "sourceMediaSha256": "ab6187906a26431abd5eb71e563ac4cd68d4e7efa26e5135328c739a5af6e6e2",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 24,
       "sourceSlide": 47,
-      "image": "answers/024.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/024.webp",
+      "answerImage": "native-v2/answers/024.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 47,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 25,
       "sourceSlide": 51,
-      "image": "answers/025.webp",
+      "image": "native-v2/slides/025.webp",
+      "answerImage": "native-v2/answers/025.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 51,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-025-1.mp3"
+        "native-v2/audio/025-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media4.mp3",
-          "start": 0,
-          "end": 15.935,
-          "sourceTimingSeconds": 15.935,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media4.mp3",
-          "start": 0,
-          "end": 15.935,
-          "sourceTimingSeconds": 15.935,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/025-1.mp3",
+          "sourceStart": 13.99,
+          "sourceEnd": 29.925604,
+          "sourceMediaSha256": "93ab6204a9f39a09b40cd891113826c2a6010202e7a48f1077bf5ab1434502ac",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
-      ],
-      "answersEmbedded": true
+      ]
     },
     {
       "sequence": 26,
       "sourceSlide": 52,
-      "image": "answers/026.webp"
+      "image": "native-v2/slides/026.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 52,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "video": "native-v2/video/026.mp4"
     },
     {
       "sequence": 27,
       "sourceSlide": 53,
-      "image": "answers/027.webp"
+      "image": "native-v2/slides/027.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 53,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 28,
       "sourceSlide": 55,
-      "image": "answers/028.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/028.webp",
+      "answerImage": "native-v2/answers/028.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 55,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 29,
       "sourceSlide": 56,
-      "image": "answers/029.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/029.webp",
+      "answerImage": "native-v2/answers/029.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 56,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 30,
       "sourceSlide": 57,
-      "image": "answers/030.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/030.webp",
+      "answerImage": "native-v2/answers/030.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 57,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 31,
       "sourceSlide": 58,
-      "image": "answers/031.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/031.webp",
+      "answerImage": "native-v2/answers/031.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 58,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 32,
       "sourceSlide": 59,
-      "image": "answers/032.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/032.webp",
+      "answerImage": "native-v2/answers/032.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 59,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 33,
       "sourceSlide": 60,
-      "image": "answers/033.webp",
+      "image": "native-v2/slides/033.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 60,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-033-1.mp3"
+        "native-v2/audio/033-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media6.mp3",
-          "start": 0,
-          "end": 47.993,
-          "sourceTimingSeconds": 47.993,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media6.mp3",
-          "start": 0,
-          "end": 47.993,
-          "sourceTimingSeconds": 47.993,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/033-1.mp3",
+          "sourceStart": 16.115,
+          "sourceEnd": 64.108479,
+          "sourceMediaSha256": "965842133b6dc4aaf2667f76b192ffeb9ac66363efa4ddcf40a3f643f00a2794",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 34,
       "sourceSlide": 64,
-      "image": "answers/034.webp"
+      "image": "native-v2/slides/034.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 64,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 35,
       "sourceSlide": 67,
-      "image": "answers/035.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/035.webp",
+      "answerImage": "native-v2/answers/035.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 67,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 36,
       "sourceSlide": 70,
-      "image": "answers/036.webp"
+      "image": "native-v2/slides/036.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 70,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 37,
       "sourceSlide": 71,
-      "image": "answers/037.webp",
+      "image": "native-v2/slides/037.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 71,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-037-1.mp3",
-        "audio/segment-037-2.mp3"
+        "native-v2/audio/037-1.mp3",
+        "native-v2/audio/037-2.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media8.mp3",
-          "start": 0,
-          "end": 24.72,
-          "sourceTimingSeconds": 29.015,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/037-1.mp3",
+          "sourceStart": 14.874,
+          "sourceEnd": 43.889479,
+          "sourceMediaSha256": "fb74ef1b481917a1f4c7773d40513a4ebac255a44b96080dd9b7d1abf38dddff",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         },
         {
-          "src": "audio/media7.mp3",
-          "start": 0,
-          "end": 9.539,
-          "sourceTimingSeconds": 9.539,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media8.mp3",
-          "start": 0,
-          "end": 24.72,
-          "sourceTimingSeconds": 29.015,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media7.mp3",
-          "start": 0,
-          "end": 9.539,
-          "sourceTimingSeconds": 9.539,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/037-2.mp3",
+          "sourceStart": 15.135,
+          "sourceEnd": 24.674396,
+          "sourceMediaSha256": "1a8ef55373f2d731056b9a50c7379e79bc1b37bb4fc7bdb0a8195947164729c8",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 38,
       "sourceSlide": 72,
-      "image": "answers/038.webp",
+      "image": "native-v2/slides/038.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 72,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-038-1.mp3"
+        "native-v2/audio/038-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media9.mp3",
-          "start": 0,
-          "end": 35.182,
-          "sourceTimingSeconds": 35.182,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media9.mp3",
-          "start": 0,
-          "end": 35.182,
-          "sourceTimingSeconds": 35.182,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/038-1.mp3",
+          "sourceStart": 14.445,
+          "sourceEnd": 49.627208,
+          "sourceMediaSha256": "d1465adc41bd7098271e3aac5b84cff87b8df36166bdcb1d9d6998c389615fb4",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 39,
       "sourceSlide": 74,
-      "image": "answers/039.webp",
+      "image": "native-v2/slides/039.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 74,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-039-1.mp3"
+        "native-v2/audio/039-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media10.mp3",
-          "start": 0,
-          "end": 28.8,
-          "sourceTimingSeconds": 28.8,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media10.mp3",
-          "start": 0,
-          "end": 28.8,
-          "sourceTimingSeconds": 28.8,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/039-1.mp3",
+          "sourceStart": 14.289,
+          "sourceEnd": 43.089,
+          "sourceMediaSha256": "4b2df4493e0decfd5c50858b8bb0d5ff2481b8de3d0dbcb958e259d7383fabf1",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 40,
       "sourceSlide": 76,
-      "image": "answers/040.webp",
+      "image": "native-v2/slides/040.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 76,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-040-1.mp3"
+        "native-v2/audio/040-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media10.mp3",
-          "start": 28.8,
-          "end": 82.296,
-          "sourceTimingSeconds": 39.262,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media10.mp3",
-          "start": 28.8,
-          "end": 82.296,
-          "sourceTimingSeconds": 39.262,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/040-1.mp3",
+          "sourceStart": 42.991,
+          "sourceEnd": 82.253813,
+          "sourceMediaSha256": "4b2df4493e0decfd5c50858b8bb0d5ff2481b8de3d0dbcb958e259d7383fabf1",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 41,
       "sourceSlide": 78,
-      "image": "answers/041.webp"
+      "image": "native-v2/slides/041.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 78,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 42,
       "sourceSlide": 79,
-      "image": "answers/042.webp"
+      "image": "native-v2/slides/042.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 79,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 43,
       "sourceSlide": 80,
-      "image": "answers/043.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/043.webp",
+      "answerImage": "native-v2/answers/043.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 80,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 44,
       "sourceSlide": 81,
-      "image": "answers/044.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/044.webp",
+      "answerImage": "native-v2/answers/044.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 81,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 45,
       "sourceSlide": 84,
-      "image": "answers/045.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/045.webp",
+      "answerImage": "native-v2/answers/045.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 84,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 46,
       "sourceSlide": 85,
-      "image": "answers/046.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/046.webp",
+      "answerImage": "native-v2/answers/046.webp",
+      "sourcePart": 1,
+      "sourcePartSlide": 85,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 47,
       "sourceSlide": 86,
-      "image": "answers/047.webp"
+      "image": "native-v2/slides/047.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 1,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 48,
       "sourceSlide": 87,
-      "image": "answers/048.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/048.webp",
+      "answerImage": "native-v2/answers/048.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 2,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 49,
       "sourceSlide": 88,
-      "image": "answers/049.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/049.webp",
+      "answerImage": "native-v2/answers/049.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 3,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 50,
       "sourceSlide": 89,
-      "image": "answers/050.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/050.webp",
+      "answerImage": "native-v2/answers/050.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 4,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 51,
       "sourceSlide": 90,
-      "image": "answers/051.webp"
+      "image": "native-v2/slides/051.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 5,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 52,
       "sourceSlide": 91,
-      "image": "answers/052.webp",
+      "image": "native-v2/slides/052.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 6,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-052-1.mp3"
+        "native-v2/audio/052-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media11.mp3",
-          "start": 0,
-          "end": 41.425,
-          "sourceTimingSeconds": 41.425,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media11.mp3",
-          "start": 0,
-          "end": 41.425,
-          "sourceTimingSeconds": 41.425,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/052-1.mp3",
+          "sourceStart": 16.457,
+          "sourceEnd": 57.882,
+          "sourceMediaSha256": "3fb87779b2fda5ce619d5a6088cde9b20a5128596b2d08c55b0725300e398e13",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 53,
       "sourceSlide": 94,
-      "image": "answers/053.webp",
+      "image": "native-v2/slides/053.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 9,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-053-1.mp3"
+        "native-v2/audio/053-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media11.mp3",
-          "start": 41.425,
-          "end": 73.342,
-          "sourceTimingSeconds": 31.917,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media11.mp3",
-          "start": 41.425,
-          "end": 73.342,
-          "sourceTimingSeconds": 31.917,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/053-1.mp3",
+          "sourceStart": 57.133,
+          "sourceEnd": 89.05,
+          "sourceMediaSha256": "3fb87779b2fda5ce619d5a6088cde9b20a5128596b2d08c55b0725300e398e13",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 54,
       "sourceSlide": 97,
-      "image": "answers/054.webp",
+      "image": "native-v2/slides/054.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 12,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-054-1.mp3"
+        "native-v2/audio/054-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media11.mp3",
-          "start": 73.342,
-          "end": 128.208,
-          "sourceTimingSeconds": 39.672,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media11.mp3",
-          "start": 73.342,
-          "end": 128.208,
-          "sourceTimingSeconds": 39.672,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/054-1.mp3",
+          "sourceStart": 88.51,
+          "sourceEnd": 128.1825,
+          "sourceMediaSha256": "3fb87779b2fda5ce619d5a6088cde9b20a5128596b2d08c55b0725300e398e13",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 55,
       "sourceSlide": 101,
-      "image": "answers/055.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/055.webp",
+      "answerImage": "native-v2/answers/055.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 16,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 56,
       "sourceSlide": 102,
-      "image": "answers/056.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/056.webp",
+      "answerImage": "native-v2/answers/056.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 17,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 57,
       "sourceSlide": 103,
-      "image": "answers/057.webp"
+      "image": "native-v2/slides/057.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 18,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 58,
       "sourceSlide": 104,
-      "image": "answers/058.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/058.webp",
+      "answerImage": "native-v2/answers/058.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 19,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 59,
       "sourceSlide": 105,
-      "image": "answers/059.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/059.webp",
+      "answerImage": "native-v2/answers/059.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 20,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 60,
       "sourceSlide": 108,
-      "image": "answers/060.webp",
+      "image": "native-v2/slides/060.webp",
+      "answerImage": "native-v2/answers/060.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 23,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-060-1.mp3"
+        "native-v2/audio/060-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media12.mp3",
-          "start": 0,
-          "end": 23.241,
-          "sourceTimingSeconds": 23.241,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media12.mp3",
-          "start": 0,
-          "end": 23.241,
-          "sourceTimingSeconds": 23.241,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/060-1.mp3",
+          "sourceStart": 17.208,
+          "sourceEnd": 40.449,
+          "sourceMediaSha256": "d15411dc6c08a912a1f3f197566945ef6d76ab9cd603ee3e7d1d2d9ffbb4d28b",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
-      ],
-      "answersEmbedded": true
+      ]
     },
     {
       "sequence": 61,
       "sourceSlide": 110,
-      "image": "answers/061.webp",
+      "image": "native-v2/slides/061.webp",
+      "answerImage": "native-v2/answers/061.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 25,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-061-1.mp3"
+        "native-v2/audio/061-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media12.mp3",
-          "start": 23.241,
-          "end": 69.696,
-          "sourceTimingSeconds": 28.287,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media12.mp3",
-          "start": 23.241,
-          "end": 69.696,
-          "sourceTimingSeconds": 28.287,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/061-1.mp3",
+          "sourceStart": 41.38,
+          "sourceEnd": 69.667271,
+          "sourceMediaSha256": "d15411dc6c08a912a1f3f197566945ef6d76ab9cd603ee3e7d1d2d9ffbb4d28b",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
-      ],
-      "answersEmbedded": true
+      ]
     },
     {
       "sequence": 62,
       "sourceSlide": 112,
-      "image": "answers/062.webp"
+      "image": "native-v2/slides/062.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 27,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 63,
       "sourceSlide": 113,
-      "image": "answers/063.webp"
+      "image": "native-v2/slides/063.webp",
+      "answerImage": "native-v2/answers/063.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 28,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 64,
       "sourceSlide": 115,
-      "image": "answers/064.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/064.webp",
+      "answerImage": "native-v2/answers/064.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 30,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 65,
       "sourceSlide": 116,
-      "image": "answers/065.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/065.webp",
+      "answerImage": "native-v2/answers/065.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 31,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 66,
       "sourceSlide": 117,
-      "image": "answers/066.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/066.webp",
+      "answerImage": "native-v2/answers/066.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 32,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 67,
       "sourceSlide": 118,
-      "image": "answers/067.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/067.webp",
+      "answerImage": "native-v2/answers/067.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 33,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 68,
       "sourceSlide": 119,
-      "image": "answers/068.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/068.webp",
+      "answerImage": "native-v2/answers/068.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 34,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 69,
       "sourceSlide": 120,
-      "image": "answers/069.webp",
+      "image": "native-v2/slides/069.webp",
+      "answerImage": "native-v2/answers/069.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 35,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-069-1.mp3"
+        "native-v2/audio/069-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media13.mp3",
-          "start": 0,
-          "end": 155.449,
-          "sourceTimingSeconds": 155.449,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media13.mp3",
-          "start": 0,
-          "end": 155.449,
-          "sourceTimingSeconds": 155.449,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/069-1.mp3",
+          "sourceStart": 15.779,
+          "sourceEnd": 171.228417,
+          "sourceMediaSha256": "eecc9cba227ad76e4ff4ca90451b24c111053df20ebcf1372ad9e983e3304709",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
-      ],
-      "answersEmbedded": true
+      ]
     },
     {
       "sequence": 70,
       "sourceSlide": 121,
-      "image": "answers/070.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/070.webp",
+      "answerImage": "native-v2/answers/070.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 36,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 71,
       "sourceSlide": 122,
-      "image": "answers/071.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/071.webp",
+      "answerImage": "native-v2/answers/071.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 37,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 72,
       "sourceSlide": 123,
-      "image": "answers/072.webp"
+      "image": "native-v2/slides/072.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 38,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 73,
       "sourceSlide": 126,
-      "image": "answers/073.webp"
+      "image": "native-v2/slides/073.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 41,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 74,
       "sourceSlide": 129,
-      "image": "answers/074.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/074.webp",
+      "answerImage": "native-v2/answers/074.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 44,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 75,
       "sourceSlide": 130,
-      "image": "answers/075.webp",
+      "image": "native-v2/slides/075.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 45,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-075-1.mp3"
+        "native-v2/audio/075-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media14.mp3",
-          "start": 0,
-          "end": 179.644,
-          "sourceTimingSeconds": 179.644,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media14.mp3",
-          "start": 0,
-          "end": 179.644,
-          "sourceTimingSeconds": 179.644,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/075-1.mp3",
+          "sourceStart": 0.0,
+          "sourceEnd": 179.644083,
+          "sourceMediaSha256": "ba227b04b6fa45467a2bf43348a21730b7afbd6eac68f267c9d971864b6acff5",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 76,
       "sourceSlide": 131,
-      "image": "answers/076.webp",
+      "image": "native-v2/slides/076.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 46,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-076-1.mp3"
+        "native-v2/audio/076-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media15.mp3",
-          "start": 0,
-          "end": 25.931,
-          "sourceTimingSeconds": 25.931,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media15.mp3",
-          "start": 0,
-          "end": 25.931,
-          "sourceTimingSeconds": 25.931,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/076-1.mp3",
+          "sourceStart": 15.299,
+          "sourceEnd": 41.230688,
+          "sourceMediaSha256": "a8851d3d7030b35e41e5b6224957df985d30ce1e0449540376904692fbe90fee",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 77,
       "sourceSlide": 133,
-      "image": "answers/077.webp",
+      "image": "native-v2/slides/077.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 48,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-077-1.mp3"
+        "native-v2/audio/077-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media16.mp3",
-          "start": 0,
-          "end": 17.292,
-          "sourceTimingSeconds": 17.292,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media16.mp3",
-          "start": 0,
-          "end": 17.292,
-          "sourceTimingSeconds": 17.292,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/077-1.mp3",
+          "sourceStart": 15.946,
+          "sourceEnd": 33.238042,
+          "sourceMediaSha256": "8df4490b6fa327e637e8857e0090f80670a7c814bf2483ad58a0664acc078a44",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 78,
       "sourceSlide": 134,
-      "image": "answers/078.webp"
+      "image": "native-v2/slides/078.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 49,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 79,
       "sourceSlide": 135,
-      "image": "answers/079.webp",
+      "image": "native-v2/slides/079.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 50,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-079-1.mp3"
+        "native-v2/audio/079-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media17.mp3",
-          "start": 0,
-          "end": 43.756,
-          "sourceTimingSeconds": 43.756,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media17.mp3",
-          "start": 0,
-          "end": 43.756,
-          "sourceTimingSeconds": 43.756,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/079-1.mp3",
+          "sourceStart": 15.539,
+          "sourceEnd": 59.295,
+          "sourceMediaSha256": "589c57f6a3e32762aafcd2a2098a80f0ddfccc424fa0da80ce5879e082704547",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 80,
       "sourceSlide": 137,
-      "image": "answers/080.webp",
+      "image": "native-v2/slides/080.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 52,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-080-1.mp3"
+        "native-v2/audio/080-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media17.mp3",
-          "start": 43.756,
-          "end": 75.12,
-          "sourceTimingSeconds": 14.906,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
-        },
-        {
-          "src": "audio/media17.mp3",
-          "start": 43.756,
-          "end": 75.12,
-          "sourceTimingSeconds": 14.906,
-          "timingBasis": "PPT animation duration; final segment extends to media end"
+          "src": "native-v2/audio/080-1.mp3",
+          "sourceStart": 60.181,
+          "sourceEnd": 75.087771,
+          "sourceMediaSha256": "589c57f6a3e32762aafcd2a2098a80f0ddfccc424fa0da80ce5879e082704547",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 81,
       "sourceSlide": 139,
-      "image": "answers/081.webp",
+      "image": "native-v2/slides/081.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 54,
+      "imageWidth": 2400,
+      "imageHeight": 1350,
       "audio": [
-        "audio/segment-081-1.mp3"
+        "native-v2/audio/081-1.mp3"
       ],
       "audioSegments": [
         {
-          "src": "audio/media18.mp3",
-          "start": 0,
-          "end": 10.869,
-          "sourceTimingSeconds": 10.869,
-          "timingBasis": "media duration"
-        },
-        {
-          "src": "audio/media18.mp3",
-          "start": 0,
-          "end": 10.869,
-          "sourceTimingSeconds": 10.869,
-          "timingBasis": "media duration"
+          "src": "native-v2/audio/081-1.mp3",
+          "sourceStart": 15.553,
+          "sourceEnd": 26.422667,
+          "sourceMediaSha256": "871b35472f3e7717d3fa215592d47d6754cd95f4dbdb564b4b5af5dab11aa114",
+          "timingBasis": "Native PowerPoint p14:trim start and end values; file duration minus end trim"
         }
       ]
     },
     {
       "sequence": 82,
       "sourceSlide": 140,
-      "image": "answers/082.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/082.webp",
+      "answerImage": "native-v2/answers/082.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 55,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 83,
       "sourceSlide": 142,
-      "image": "answers/083.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/083.webp",
+      "answerImage": "native-v2/answers/083.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 57,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 84,
       "sourceSlide": 144,
-      "image": "answers/084.webp"
+      "image": "native-v2/slides/084.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 59,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 85,
       "sourceSlide": 145,
-      "image": "answers/085.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/085.webp",
+      "answerImage": "native-v2/answers/085.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 60,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 86,
       "sourceSlide": 146,
-      "image": "answers/086.webp"
+      "image": "native-v2/slides/086.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 61,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 87,
       "sourceSlide": 148,
-      "image": "answers/087.webp"
+      "image": "native-v2/slides/087.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 63,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 88,
       "sourceSlide": 149,
-      "image": "answers/088.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/088.webp",
+      "answerImage": "native-v2/answers/088.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 64,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 89,
       "sourceSlide": 150,
-      "image": "answers/089.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/089.webp",
+      "answerImage": "native-v2/answers/089.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 65,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 90,
       "sourceSlide": 151,
-      "image": "answers/090.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/090.webp",
+      "answerImage": "native-v2/answers/090.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 66,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 91,
       "sourceSlide": 152,
-      "image": "answers/091.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/091.webp",
+      "answerImage": "native-v2/answers/091.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 67,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 92,
       "sourceSlide": 153,
-      "image": "answers/092.webp"
+      "image": "native-v2/slides/092.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 68,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 93,
       "sourceSlide": 154,
-      "image": "answers/093.webp"
+      "image": "native-v2/slides/093.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 69,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 94,
       "sourceSlide": 155,
-      "image": "answers/094.webp"
+      "image": "native-v2/slides/094.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 70,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 95,
       "sourceSlide": 156,
-      "image": "answers/095.webp"
+      "image": "native-v2/slides/095.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 71,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 96,
       "sourceSlide": 157,
-      "image": "answers/096.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/096.webp",
+      "answerImage": "native-v2/answers/096.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 72,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 97,
       "sourceSlide": 159,
-      "image": "answers/097.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/097.webp",
+      "answerImage": "native-v2/answers/097.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 74,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 98,
       "sourceSlide": 160,
-      "image": "answers/098.webp"
+      "image": "native-v2/slides/098.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 75,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 99,
       "sourceSlide": 161,
-      "image": "answers/099.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/099.webp",
+      "answerImage": "native-v2/answers/099.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 76,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 100,
       "sourceSlide": 162,
-      "image": "answers/100.webp",
-      "answersEmbedded": true
+      "image": "native-v2/slides/100.webp",
+      "answerImage": "native-v2/answers/100.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 77,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 101,
       "sourceSlide": 163,
-      "image": "answers/101.webp"
+      "image": "native-v2/slides/101.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 78,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 102,
       "sourceSlide": 166,
-      "image": "answers/102.webp"
+      "image": "native-v2/slides/102.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 81,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 103,
       "sourceSlide": 168,
-      "image": "answers/103.webp"
+      "image": "native-v2/slides/103.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 83,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     },
     {
       "sequence": 104,
       "sourceSlide": 170,
-      "image": "answers/104.webp"
+      "image": "native-v2/slides/104.webp",
+      "sourcePart": 2,
+      "sourcePartSlide": 85,
+      "imageWidth": 2400,
+      "imageHeight": 1350
     }
   ]
 }

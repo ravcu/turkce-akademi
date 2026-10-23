@@ -1,6 +1,9 @@
 {
   "unit": "Lise A2 2. Ünite",
-  "source": "LİSE A2 2. ÜNİTE.pptx",
+  "source": [
+    "A2 2.ünite.1.part.pptx",
+    "A2 2.ünite.2.part.pptx"
+  ],
   "totalSlides": 171,
   "excludedVocabularySlides": 67,
   "remainingSlides": 104,
@@ -36,22 +39,35 @@
       137
     ]
   },
-  "status": "reader_and_assets_uploaded_pending_complete_editorial_review",
-  "warning": "All essential assets and dictionary mappings are uploaded. Full answer-mark visual review, independent listening verification and missing example sentences remain.",
+  "status": "rebuilt_from_original_powerpoint_objects",
+  "warning": "Picture bytes are preserved. Some dictionary example sentences remain incomplete.",
   "latestLocalWork": {
     "date": "2026-10-23",
     "slides": 104,
     "clickableWordSpots": 4777,
     "uniqueClickableKeys": 1557,
     "incompleteFiveLanguageMappings": 0,
-    "answerVariants": 52,
-    "audioSlides": 24,
+    "selectedKeysWithoutExamples": 323,
+    "answerMode": "native objects separated; answer toggle restored",
+    "audioMode": "source trim values",
+    "imageMode": "2400x1350 lossless original-preserving renders"
+  },
+  "nativeRebuild": {
+    "sourceSlides": 171,
+    "excludedVocabularySlides": 67,
+    "slides": 104,
+    "answerSlides": 53,
+    "nativeAnswerObjects": 335,
+    "renderResolution": [
+      2400,
+      1350
+    ],
+    "imageEncoding": "lossless WebP",
+    "changedPixelsOutsideAnswerObjectBounds": 0,
     "audioClips": 25,
-    "githubAssetsUploaded": true,
-    "readerUploaded": true,
-    "selectedKeysWithoutExamples": 391,
-    "uncertainOcrTokens": 65,
-    "manualVisualApproval": false,
-    "githubPagesPublished": "deployment_in_progress"
+    "audioSlides": 24,
+    "embeddedVideos": 1,
+    "audioTiming": "Exact p14:trim metadata",
+    "originalMediaBytesUnchanged": true
   }
 }

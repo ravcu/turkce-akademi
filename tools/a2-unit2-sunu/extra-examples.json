@@ -1,0 +1,682 @@
+{
+  "üniversite": [
+    "Üniversitedeki arkadaşlarımla hafta sonu geziye gidiyoruz.",
+    [
+      "Üniversitedeki arkadaşlarımla hafta sonu geziye gidiyoruz.",
+      "We are going on a weekend trip with my university friends.",
+      "В выходные мы едем в поездку с друзьями из университета.",
+      "Университеттеги досторум менен дем алышта саякатка барабыз.",
+      "سنذهب في رحلة نهاية الأسبوع مع أصدقائي من الجامعة."
+    ]
+  ],
+  "istanbul'u": [
+    "İstanbul güzel bir yer.",
+    [
+      "İstanbul güzel bir yer.",
+      "İstanbul is a beautiful place.",
+      "Стамбул — красивое место.",
+      "Стамбул кооз жер.",
+      "إسطنبول مكان جميل."
+    ]
+  ],
+  "zararlı": [
+    "Zarı atın ve sayıyı söyleyin.",
+    [
+      "Zarı atın ve sayıyı söyleyin.",
+      "Roll the dice and say the number.",
+      "Бросьте кубик и назовите число.",
+      "Кубикти ыргытып, санын айткыла.",
+      "ارموا النرد وقولوا العدد."
+    ]
+  ],
+  "ya": [
+    "Bu kazada ölü ya da yaralı yok.",
+    [
+      "Nobody was killed or injured in this accident.",
+      "В этой аварии нет погибших или раненых.",
+      "Бул кырсыкта каза болгондор же жаракат алгандар жок.",
+      "لا يوجد قتلى أو جرحى في هذا الحادث.",
+      "Cet accident n’a fait ni mort ni blessé."
+    ]
+  ],
+  "ramazan": [
+    "Ramazan ayında akşam yemeğini ailece yiyoruz.",
+    [
+      "Ramazan ayında akşam yemeğini ailece yiyoruz.",
+      "We have dinner together as a family during Ramadan.",
+      "В Рамадан мы ужинаем всей семьёй.",
+      "Рамазан айында кечки тамакты үй-бүлөбүз менен ичебиз.",
+      "نتناول العشاء معًا كأسرة في شهر رمضان."
+    ]
+  ],
+  "kuaför": [
+    "Derslerden sonra kuaföre gittim.",
+    [
+      "I went to the hairdresser after class.",
+      "После уроков я пошёл в парикмахерскую.",
+      "Сабактан кийин чач тарачка бардым.",
+      "ذهبت إلى مصفف الشعر بعد الدروس.",
+      "Je suis allé chez le coiffeur après les cours."
+    ]
+  ],
+  "sayısı": [
+    "Sayıları sırayla tabloya yazın.",
+    [
+      "Sayıları sırayla tabloya yazın.",
+      "Write the numbers in the table in order.",
+      "Запишите числа в таблицу по порядку.",
+      "Сандарды ирети менен таблицага жазгыла.",
+      "اكتبوا الأعداد في الجدول بالترتيب."
+    ]
+  ],
+  "başıma": [
+    "Tek başıma geziyorum ama akşam arkadaşlarımla buluşacağım.",
+    [
+      "Tek başıma geziyorum ama akşam arkadaşlarımla buluşacağım.",
+      "I am exploring alone, but I will meet my friends tonight.",
+      "Я гуляю один, но вечером встречусь с друзьями.",
+      "Өзүм жалгыз кыдырып жатам, бирок кечинде досторум менен жолугам.",
+      "أتجول وحدي لكنني سألتقي أصدقائي مساءً."
+    ]
+  ],
+  "mağazası": [
+    "Bu mağazada kışlık kıyafetler satılıyor.",
+    [
+      "This shop sells winter clothes.",
+      "В этом магазине продаётся зимняя одежда.",
+      "Бул дүкөндө кышкы кийимдер сатылат.",
+      "يبيع هذا المتجر الملابس الشتوية.",
+      "Ce magasin vend des vêtements d’hiver."
+    ]
+  ],
+  "atatürk": [
+    "Atatürk Türkiye Cumhuriyeti'nin kurucusudur.",
+    [
+      "Atatürk is the founder of the Republic of Türkiye.",
+      "Ататюрк — основатель Турецкой Республики.",
+      "Ататүрк — Түркия Республикасынын негиздөөчүсү.",
+      "أتاتورك هو مؤسس الجمهورية التركية.",
+      "Atatürk est le fondateur de la République de Turquie."
+    ]
+  ],
+  "y": [
+    "Biniş kartını telefonumda gösterdim.",
+    [
+      "Biniş kartını telefonumda gösterdim.",
+      "I showed my boarding pass on my phone.",
+      "Я показал посадочный талон на телефоне.",
+      "Отуруу талонумду телефонумдан көрсөттүм.",
+      "عرضت بطاقة الصعود على هاتفي."
+    ]
+  ],
+  "hastayım": [
+    "Bugün hastayım, bu yüzden evde dinleneceğim.",
+    [
+      "Bugün hastayım, bu yüzden evde dinleneceğim.",
+      "I am ill today, so I will rest at home.",
+      "Сегодня я болен/больна, поэтому отдохну дома.",
+      "Бүгүн ооруп жатам, ошондуктан үйдө эс алам.",
+      "أنا مريض اليوم، لذلك سأرتاح في المنزل."
+    ]
+  ],
+  "ait": [
+    "Bu fotoğraf hangi şehre ait?",
+    [
+      "Which city is this photo of?",
+      "К какому городу относится эта фотография?",
+      "Бул сүрөт кайсы шаарга тиешелүү?",
+      "لأي مدينة تعود هذه الصورة؟",
+      "De quelle ville vient cette photo ?"
+    ]
+  ],
+  "türü": [
+    "Bu kuş türü burada yaşıyor.",
+    [
+      "This bird species lives here.",
+      "Этот вид птиц живёт здесь.",
+      "Бул куштун түрү ушул жерде жашайт.",
+      "يعيش هذا النوع من الطيور هنا.",
+      "Cette espèce d'oiseau vit ici."
+    ]
+  ],
+  "geçtim": [
+    "Bu akşam yemek yapacağım, sonra birlikte film izleyeceğiz.",
+    [
+      "Bu akşam yemek yapacağım, sonra birlikte film izleyeceğiz.",
+      "I will cook tonight, then we will watch a film together.",
+      "Сегодня вечером я приготовлю ужин, потом вместе посмотрим фильм.",
+      "Бүгүн кечинде тамак жасайм, анан чогуу кино көрөбүз.",
+      "سأعد الطعام هذا المساء ثم نشاهد فيلمًا معًا."
+    ]
+  ],
+  "tatile": [
+    "Yarın ailemle tatile çıkıyorum.",
+    [
+      "I'm going on vacation with my family tomorrow.",
+      "Завтра я еду в отпуск с семьёй.",
+      "Эртең үй-бүлөм менен эс алууга чыгам.",
+      "سأسافر في عطلة مع عائلتي غدًا.",
+      "Demain, je pars en vacances avec ma famille."
+    ]
+  ],
+  "m": [
+    "Sorunun cevabını gösteren harfi işaretledim.",
+    [
+      "I marked the letter indicating the answer.",
+      "Я отметил букву, обозначающую ответ.",
+      "Жоопту көрсөткөн тамганы белгиледим.",
+      "وضعت علامة على الحرف الذي يشير إلى الإجابة.",
+      "J’ai coché la lettre correspondant à la réponse."
+    ]
+  ],
+  "kaldım": [
+    "Tatilde küçük bir otelde kaldım.",
+    [
+      "I stayed at a small hotel on vacation.",
+      "Во время отпуска я остановился в небольшом отеле.",
+      "Эс алууда кичинекей мейманканада калдым.",
+      "أقمت في فندق صغير خلال العطلة.",
+      "J'ai séjourné dans un petit hôtel pendant les vacances."
+    ]
+  ],
+  "işe": [
+    "Görevli adama otelin adresini sordum.",
+    [
+      "Görevli adama otelin adresini sordum.",
+      "I asked the staff member for the hotel's address.",
+      "Я спросил сотрудника об адресе отеля.",
+      "Кызматкерден мейманкананын дарегин сурадым.",
+      "سألت الموظف عن عنوان الفندق."
+    ]
+  ],
+  "sayfaya": [
+    "Gazetenin ikinci sayfasında bir ilan ve yazarın fotoğrafı var.",
+    [
+      "There is an advertisement and a photo of the writer on the newspaper's second page.",
+      "На второй странице газеты есть объявление и фотография автора.",
+      "Гезиттин экинчи бетинде жарыя жана жазуучунун сүрөтү бар.",
+      "يوجد إعلان وصورة للكاتب في الصفحة الثانية من الجريدة.",
+      "Il y a une annonce et une photo de l'auteur à la deuxième page du journal."
+    ]
+  ],
+  "komşu": [
+    "Komşumuz akşam bize bir tabak tatlı getirdi.",
+    [
+      "Komşumuz akşam bize bir tabak tatlı getirdi.",
+      "Our neighbor brought us a plate of dessert in the evening.",
+      "Вечером сосед принёс нам тарелку сладостей.",
+      "Кечинде кошунабыз бизге бир табак таттуу алып келди.",
+      "أحضر لنا جارنا طبقًا من الحلوى مساءً."
+    ]
+  ],
+  "çizelgesini": [
+    "Önce zaman çizelgesini, sonra hikâye şemasını doldurduk.",
+    [
+      "We filled in the timeline first, then the story diagram.",
+      "Сначала мы заполнили временную шкалу, затем схему рассказа.",
+      "Адегенде убакыт жадыбалын, анан аңгеменин схемасын толтурдук.",
+      "ملأنا أولاً الخط الزمني ثم مخطط القصة.",
+      "Nous avons d’abord rempli la frise chronologique, puis le schéma du récit."
+    ]
+  ],
+  "yan": [
+    "Ekranın sağ üst köşesindeki simgeye tıklayın.",
+    [
+      "Click the icon in the upper right corner of the screen.",
+      "Нажмите значок в правом верхнем углу экрана.",
+      "Экрандын жогорку оң бурчундагы белгини чыкылдатыңыз.",
+      "انقروا على الأيقونة في الزاوية العليا اليمنى من الشاشة.",
+      "Cliquez sur l’icône en haut à droite de l’écran."
+    ]
+  ],
+  "caminin": [
+    "Caminin avlusu çok geniş.",
+    [
+      "The mosque's courtyard is very spacious.",
+      "Двор мечети очень просторный.",
+      "Мечиттин короосу абдан кенен.",
+      "ساحة المسجد واسعة جدًا.",
+      "La cour de la mosquée est très grande."
+    ]
+  ],
+  "yapmadım": [
+    "Kamp yapmak çok eğlenceli.",
+    [
+      "Camping is very fun.",
+      "Отдыхать в палатках очень весело.",
+      "Чатыр тигип эс алуу абдан кызыктуу.",
+      "التخييم ممتع جدًا.",
+      "Faire du camping est très amusant."
+    ]
+  ],
+  "cami'nin": [
+    "Caminin kapısında arkadaşımı bekledim.",
+    [
+      "I waited for my friend at the mosque entrance.",
+      "Я ждал друга у входа в мечеть.",
+      "Мечиттин эшигинде досумду күттүм.",
+      "انتظرت صديقي عند باب المسجد.",
+      "J’ai attendu mon ami à l’entrée de la mosquée."
+    ]
+  ],
+  "döndüm": [
+    "Akşam otele döndüm.",
+    [
+      "I returned to the hotel in the evening.",
+      "Вечером я вернулся в отель.",
+      "Кечинде мейманканага кайттым.",
+      "عدت إلى الفندق مساءً.",
+      "Je suis retourné à l'hôtel le soir."
+    ]
+  ],
+  "görüntülü": [
+    "Akşam görüntülü aramayla konuşalım.",
+    [
+      "Akşam görüntülü aramayla konuşalım.",
+      "Let’s talk by video call this evening.",
+      "Давай вечером поговорим по видеосвязи.",
+      "Кечинде видео чалуу менен сүйлөшөлү.",
+      "لنتحدث عبر مكالمة فيديو هذا المساء."
+    ]
+  ],
+  "inceleyelim": [
+    "Gezi planını birlikte inceleyelim; sonra sana anlatacağım.",
+    [
+      "Gezi planını birlikte inceleyelim; sonra sana anlatacağım.",
+      "Let us look at the travel plan together; I will explain it to you afterwards.",
+      "Давай вместе посмотрим план поездки, потом я тебе расскажу.",
+      "Саякат планын чогуу карап чыгалы; анан сага түшүндүрүп берем.",
+      "لنراجع خطة الرحلة معًا وسأشرحها لك بعد ذلك."
+    ]
+  ],
+  "sonuç": [
+    "Anket sonuçlarına bir yorum ekledim.",
+    [
+      "Anket sonuçlarına bir yorum ekledim.",
+      "I added a comment to the survey results.",
+      "Я добавил комментарий к результатам опроса.",
+      "Сурамжылоонун жыйынтыгына пикир коштум.",
+      "أضفت تعليقًا إلى نتائج الاستبيان."
+    ]
+  ],
+  "bayramlar": [
+    "Bayram sabahı aile büyüklerimizi aradık.",
+    [
+      "Bayram sabahı aile büyüklerimizi aradık.",
+      "We called our elders on the morning of the holiday.",
+      "Утром в праздник мы позвонили старшим в семье.",
+      "Майрам күнү эртең менен үйдөгү улууларга чалдык.",
+      "اتصلنا بكبار العائلة صباح العيد."
+    ]
+  ],
+  "merkezinde": [
+    "Şehrimizde bir merkez var.",
+    [
+      "Şehrimizde bir merkez var.",
+      "There is a center in our city.",
+      "В нашем городе есть центр.",
+      "Биздин шаарда борбор бар.",
+      "في مدينتنا مركز."
+    ]
+  ],
+  "yapacağım": [
+    "Bu akşam yemek yapacağım, sonra birlikte film izleyeceğiz.",
+    [
+      "Bu akşam yemek yapacağım, sonra birlikte film izleyeceğiz.",
+      "I will cook tonight, then we will watch a film together.",
+      "Сегодня вечером я приготовлю ужин, потом вместе посмотрим фильм.",
+      "Бүгүн кечинде тамак жасайм, анан чогуу кино көрөбүз.",
+      "سأعد الطعام هذا المساء ثم نشاهد فيلمًا معًا."
+    ]
+  ],
+  "izleme": [
+    "Film izlemek istiyorum.",
+    [
+      "I want to watch a film.",
+      "Я хочу посмотреть фильм.",
+      "Мен кино көргүм келет.",
+      "أريد مشاهدة فيلم.",
+      "Je veux regarder un film."
+    ]
+  ],
+  "şey": [
+    "Sana bir şey söylemek istiyorum.",
+    [
+      "I want to tell you something.",
+      "Я хочу тебе кое-что сказать.",
+      "Сага бир нерсе айткым келет.",
+      "أريد أن أخبرك بشيء.",
+      "Je veux te dire quelque chose."
+    ]
+  ],
+  "n": [
+    "Sorunun cevabını gösteren harfi işaretledim.",
+    [
+      "I marked the letter indicating the answer.",
+      "Я отметил букву, обозначающую ответ.",
+      "Жоопту көрсөткөн тамганы белгиледим.",
+      "وضعت علامة على الحرف الذي يشير إلى الإجابة.",
+      "J’ai coché la lettre correspondant à la réponse."
+    ]
+  ],
+  "yemedim": [
+    "Bugün evde yemek pişirdik.",
+    [
+      "We cooked food at home today.",
+      "Сегодня мы готовили дома.",
+      "Бүгүн үйдө тамак жасадык.",
+      "طبخنا الطعام في البيت اليوم.",
+      "Nous avons cuisiné à la maison aujourd'hui."
+    ]
+  ],
+  "kutlamasına": [
+    "Arkadaşımın mezuniyet kutlamasına hep birlikte katıldık.",
+    [
+      "Arkadaşımın mezuniyet kutlamasına hep birlikte katıldık.",
+      "We all joined my friend’s graduation celebration.",
+      "Мы все вместе пришли на праздник по случаю выпуска друга.",
+      "Досумдун бүтүрүү майрамына баарыбыз чогуу катыштык.",
+      "شاركنا جميعًا في الاحتفال بتخرج صديقي."
+    ]
+  ],
+  "hayvan": [
+    "Bu parkta birçok hayvan yaşıyor.",
+    [
+      "Many animals live in this park.",
+      "В этом парке живёт много животных.",
+      "Бул паркта көптөгөн жаныбарлар жашайт.",
+      "تعيش حيوانات كثيرة في هذه الحديقة.",
+      "De nombreux animaux vivent dans ce parc."
+    ]
+  ],
+  "gülhane": [
+    "Gülhane Parkı'nda yürüdük.",
+    [
+      "We walked in Gülhane Park.",
+      "Мы гуляли в парке Гюльхане.",
+      "Гүлхане паркында сейилдедик.",
+      "تمشينا في حديقة غولهانه.",
+      "Nous nous sommes promenés dans le parc Gülhane."
+    ]
+  ],
+  "sev": [
+    "Bu odayı beğendim; penceresi bahçeye bakıyor.",
+    [
+      "Bu odayı beğendim; penceresi bahçeye bakıyor.",
+      "I like this room; its window overlooks the garden.",
+      "Мне понравился этот номер, окно выходит в сад.",
+      "Бул бөлмө мага жакты; терезеси бакчаны карайт.",
+      "أعجبتني هذه الغرفة فنافذتها تطل على الحديقة."
+    ]
+  ],
+  "planlayın": [
+    "Önümüzdeki yaz ailemle kısa bir tatil planlıyorum.",
+    [
+      "Önümüzdeki yaz ailemle kısa bir tatil planlıyorum.",
+      "I am planning a short vacation with my family next summer.",
+      "Следующим летом я планирую короткий отпуск с семьёй.",
+      "Келерки жайда үй-бүлөм менен кыска эс алууну пландап жатам.",
+      "أخطط لعطلة قصيرة مع أسرتي في الصيف القادم."
+    ]
+  ],
+  "ablan": [
+    "Ablan sana doğum gününde güzel bir hediye almış.",
+    [
+      "Ablan sana doğum gününde güzel bir hediye almış.",
+      "Your older sister bought you a lovely birthday gift.",
+      "Твоя старшая сестра купила тебе хороший подарок на день рождения.",
+      "Эжең туулган күнүңө жакшы белек алыптыр.",
+      "اشترت أختك الكبرى لك هدية جميلة في عيد ميلادك."
+    ]
+  ],
+  "süresi": [
+    "Gezinin süresi üç gün, dönüş tarihi pazartesi.",
+    [
+      "Gezinin süresi üç gün, dönüş tarihi pazartesi.",
+      "The trip lasts three days; we return on Monday.",
+      "Поездка длится три дня, возвращение в понедельник.",
+      "Саякат үч күнгө созулат, дүйшөмбү күнү кайтабыз.",
+      "مدة الرحلة ثلاثة أيام والعودة يوم الاثنين."
+    ]
+  ],
+  "restoranda": [
+    "Dün akşam restoranda yemek yedik.",
+    [
+      "We ate at a restaurant last night.",
+      "Вчера вечером мы ужинали в ресторане.",
+      "Кечээ кечинде ресторанда тамак жедик.",
+      "تناولنا العشاء في المطعم مساء أمس.",
+      "Nous avons mangé au restaurant hier soir."
+    ]
+  ],
+  "sahilde": [
+    "Her yaştan insan balkonlarda, sahillerde ve tarlalarda satranç oynadı.",
+    [
+      "People of all ages played chess on balconies, on the coast and in fields.",
+      "Люди всех возрастов играли в шахматы на балконах, на побережье и в полях.",
+      "Ар кандай курактагы адамдар балкондордо, жээктерде жана талааларда шахмат ойношту.",
+      "لعب الناس من جميع الأعمار الشطرنج في الشرفات وعلى الشواطئ وفي الحقول.",
+      "Des personnes de tous âges ont joué aux échecs sur les balcons, sur les plages et dans les champs."
+    ]
+  ],
+  "henüz": [
+    "Henüz okulu tanımıyorum.",
+    [
+      "I don't know the school yet.",
+      "Я ещё не знаю школу.",
+      "Мен мектепти азырынча жакшы билбейм.",
+      "لا أعرف المدرسة بعد.",
+      "Je ne connais pas encore l'école."
+    ]
+  ],
+  "sınavım": [
+    "Yarın önemli bir sınavım var.",
+    [
+      "I have an important exam tomorrow.",
+      "Завтра у меня важный экзамен.",
+      "Эртең маанилүү экзаменим бар.",
+      "لدي امتحان مهم غداً.",
+      "J’ai un examen important demain."
+    ]
+  ],
+  "saatlik": [
+    "İki saatlik bir yolculuk yaptık.",
+    [
+      "We took a two-hour trip.",
+      "Мы совершили двухчасовую поездку.",
+      "Эки сааттык жол жүрдүк.",
+      "قمنا برحلة استغرقت ساعتين.",
+      "Nous avons fait un trajet de deux heures."
+    ]
+  ],
+  "etmeyi": [
+    "Müzeyi ziyaret etmeyi seviyorum.",
+    [
+      "I like visiting the museum.",
+      "Мне нравится посещать музей.",
+      "Музейге барганды жакшы көрөм.",
+      "أحب زيارة المتحف.",
+      "J'aime visiter le musée."
+    ]
+  ],
+  "koyun": [
+    "Kitapları masaya koyun.",
+    [
+      "Put the books on the table.",
+      "Положите книги на стол.",
+      "Китептерди үстөлгө койгула.",
+      "ضعوا الكتب على الطاولة.",
+      "Posez les livres sur la table."
+    ]
+  ],
+  "ihtiyaç": [
+    "Yardıma ihtiyacım var; bu adresi bulamıyorum.",
+    [
+      "Yardıma ihtiyacım var; bu adresi bulamıyorum.",
+      "I need help; I cannot find this address.",
+      "Мне нужна помощь, я не могу найти этот адрес.",
+      "Мага жардам керек; бул даректи таба албай жатам.",
+      "أحتاج إلى مساعدة ولا أستطيع العثور على هذا العنوان."
+    ]
+  ],
+  "kez": [
+    "Bu şehre ilk defa geldim; daha önce hiç görmedim.",
+    [
+      "Bu şehre ilk defa geldim; daha önce hiç görmedim.",
+      "This is my first visit to this city; I have never seen it before.",
+      "Я впервые приехал в этот город и раньше его не видел.",
+      "Бул шаарга биринчи жолу келдим; мурда көргөн эмесмин.",
+      "هذه أول مرة أزور فيها هذه المدينة ولم أرها من قبل."
+    ]
+  ],
+  "yıl": [
+    "Bu yıl Türkçe öğreniyorum.",
+    [
+      "I'm learning Turkish this year.",
+      "В этом году я изучаю турецкий язык.",
+      "Быйыл түрк тилин үйрөнүп жатам.",
+      "أتعلم التركية هذا العام.",
+      "Cette année, j'apprends le turc."
+    ]
+  ],
+  "puanları": [
+    "Kutulardaki soruları cevapla ve puanları topla.",
+    [
+      "Answer the questions in the boxes and add up the points.",
+      "Ответь на вопросы в ячейках и сложи баллы.",
+      "Кутучалардагы суроолорго жооп бер жана упайларды кош.",
+      "أجب عن الأسئلة في الخانات واجمع النقاط.",
+      "Réponds aux questions dans les cases et additionne les points."
+    ]
+  ],
+  "köye": [
+    "Yazın dedemin yaşadığı köye gittim.",
+    [
+      "In summer, I went to the village where my grandfather lives.",
+      "Летом я поехал в деревню, где живёт мой дедушка.",
+      "Жайында чоң атам жашаган айылга бардым.",
+      "ذهبت صيفًا إلى القرية التي يعيش فيها جدي.",
+      "En été, je suis allé au village où vit mon grand-père."
+    ]
+  ],
+  "ki": [
+    "Hımm, biraz düşüneyim; bu oda çok pahalı.",
+    [
+      "Hımm, biraz düşüneyim; bu oda çok pahalı.",
+      "Hmm, let me think; this room is very expensive.",
+      "Хм, дай подумать, этот номер очень дорогой.",
+      "Мм, бир аз ойлонуп көрөйүн; бул бөлмө абдан кымбат.",
+      "همم دعني أفكر قليلًا فهذه الغرفة غالية جدًا."
+    ]
+  ],
+  "tarafından": [
+    "Bu köprü mimarlar tarafından yapıldı.",
+    [
+      "This bridge was built by architects.",
+      "Этот мост построили архитекторы.",
+      "Бул көпүрө архитекторлор тарабынан курулган.",
+      "بُني هذا الجسر على يد مهندسين معماريين.",
+      "Ce pont a été construit par des architectes."
+    ]
+  ],
+  "vardı": [
+    "Otelin önünde büyük bir bahçe vardı.",
+    [
+      "There was a big garden in front of the hotel.",
+      "Перед отелем был большой сад.",
+      "Мейманкананын алдында чоң бак бар эле.",
+      "كانت هناك حديقة كبيرة أمام الفندق.",
+      "Il y avait un grand jardin devant l'hôtel."
+    ]
+  ],
+  "idris": [
+    "Arkadaşımın adı İdris.",
+    [
+      "My friend’s name is İdris.",
+      "Моего друга зовут Идрис.",
+      "Досумдун аты Идрис.",
+      "اسم صديقي إدريس.",
+      "Mon ami s’appelle İdris."
+    ]
+  ],
+  "dönüş": [
+    "Gezinin süresi üç gün, dönüş tarihi pazartesi.",
+    [
+      "Gezinin süresi üç gün, dönüş tarihi pazartesi.",
+      "The trip lasts three days; we return on Monday.",
+      "Поездка длится три дня, возвращение в понедельник.",
+      "Саякат үч күнгө созулат, дүйшөмбү күнү кайтабыз.",
+      "مدة الرحلة ثلاثة أيام والعودة يوم الاثنين."
+    ]
+  ],
+  "anlamlı": [
+    "Bu iki ifade aynı anlamlıdır.",
+    [
+      "These two expressions have the same meaning.",
+      "Эти два выражения имеют одинаковое значение.",
+      "Бул эки сөз айкашынын мааниси бирдей.",
+      "هاتان العبارتان لهما المعنى نفسه.",
+      "Ces deux expressions ont le même sens."
+    ]
+  ],
+  "sağlıklı": [
+    "İlaçlarımı çantama koydum; seyahatte lazım olabilir.",
+    [
+      "İlaçlarımı çantama koydum; seyahatte lazım olabilir.",
+      "I put my medicines in my bag; I may need them while travelling.",
+      "Я положил лекарства в сумку, в поездке они могут понадобиться.",
+      "Дарыларымды сумкама салдым; саякатта керек болушу мүмкүн.",
+      "وضعت أدويتي في حقيبتي فقد أحتاج إليها أثناء السفر."
+    ]
+  ],
+  "planları": [
+    "Plansız yola çıkmayı sevmem; önce bilet alırım.",
+    [
+      "Plansız yola çıkmayı sevmem; önce bilet alırım.",
+      "I do not like travelling without a plan; I buy a ticket first.",
+      "Я не люблю ехать без плана, сначала покупаю билет.",
+      "Плансыз жолго чыкканды жактырбайм; адегенде билет алам.",
+      "لا أحب السفر دون خطة وأشتري التذكرة أولًا."
+    ]
+  ],
+  "alanı": [
+    "Parkın oyun alanı çok geniş.",
+    [
+      "The park's play area is very spacious.",
+      "Игровая площадка парка очень просторная.",
+      "Парктын оюн аянты абдан кенен.",
+      "منطقة اللعب في الحديقة واسعة جدًا.",
+      "L'aire de jeux du parc est très grande."
+    ]
+  ],
+  "etkinlikleri": [
+    "Yaz etkinlikleri yarın başlıyor.",
+    [
+      "The summer activities start tomorrow.",
+      "Летние мероприятия начинаются завтра.",
+      "Жайкы иш-чаралар эртең башталат.",
+      "تبدأ الأنشطة الصيفية غدًا.",
+      "Les activités d'été commencent demain."
+    ]
+  ],
+  "aç": [
+    "Pencereyi açabilir misin? İçerisi çok sıcak.",
+    [
+      "Could you open the window? It’s very hot inside.",
+      "Можешь открыть окно? Здесь очень жарко.",
+      "Терезени ача аласыңбы? Ичкери абдан ысык.",
+      "هل يمكنك فتح النافذة؟ الجو حار جدًا في الداخل.",
+      "Peux-tu ouvrir la fenêtre ? Il fait très chaud à l’intérieur."
+    ]
+  ],
+  "bina": [
+    "Akıllı bina teknisyenliği için teknik bilgi gerekir.",
+    [
+      "Technical knowledge is needed to work as a smart-building technician.",
+      "Для работы техником умных зданий нужны технические знания.",
+      "Акылдуу имараттардын техниги болуп иштөө үчүн техникалык билим керек.",
+      "تلزم معرفة تقنية للعمل تقنيًّا للمباني الذكية.",
+      "Il faut des connaissances techniques pour exercer le métier de technicien en bâtiments intelligents."
+    ]
+  ]
+}

@@ -1,0 +1,3992 @@
+{
+  "method": "Remove red native DrawingML answer objects only; retain every original media byte unchanged.",
+  "slides": [
+    {
+      "sequence": 1,
+      "sourceSlide": 1,
+      "part": 1,
+      "localSlide": 1,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image1.png",
+          "sha256": "66ddcf3a5b1ee6192c7fff9351630776ec56e6ecc2ec67a81db50de03f39ab05"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 2,
+      "sourceSlide": 2,
+      "part": 1,
+      "localSlide": 2,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image2.png",
+          "sha256": "17f78f5093e732bbcc493f90884d9f72712b931d7259433f6ea4e90925c5408c"
+        },
+        {
+          "part": "ppt/media/image3.png",
+          "sha256": "94a183f21e29950751cbc1987f51686f1f5c03b2c20cf9b1f02ff23f77b4b1b9"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 3,
+      "sourceSlide": 3,
+      "part": 1,
+      "localSlide": 3,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "3"
+          ],
+          "text": "2. Haftasonları sinemaya giderim, alışveriş yaparım ve ailemle piknik yaparım. "
+        },
+        {
+          "id": [
+            "4"
+          ],
+          "text": "1. Sinema, alışveriş, piknik, seyahat ve tiyatro görüyorum. "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image4.png",
+          "sha256": "a7546eb2b6d057125345beba943cc9eadaa53cdda2116092411ffba1fedc5375"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 4,
+      "sourceSlide": 4,
+      "part": 1,
+      "localSlide": 4,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "6"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "4"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "3"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "5"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "1"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "2"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image5.png",
+          "sha256": "f47199713b8c3bde581eaaadbf375073895afe988e74227594cef2d8e6519955"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 5,
+      "sourceSlide": 5,
+      "part": 1,
+      "localSlide": 5,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image6.png",
+          "sha256": "d18afc3d5aa2053ecbb1819b0d60dc4ea74701b68e8f2142dfd045e613f24b57"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 6,
+      "sourceSlide": 7,
+      "part": 1,
+      "localSlide": 7,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "4"
+          ],
+          "text": "1"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "text": "3"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "2"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "5"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image7.png",
+          "sha256": "52e4c3c8c6c7b5f68226f4cf30f9b7add3d61396b8a137606b0ebafad8356a37"
+        },
+        {
+          "part": "ppt/media/image8.png",
+          "sha256": "f2f6c5eb7884a1315304eaa83efaeeee3e345778d1b9e66343acaa1a324b34f5"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "6578bd4e0a1ac8e47748083cf433df209c7d80bb84955857dc93cae6c3577fc6"
+        },
+        {
+          "part": "ppt/media/image10.png",
+          "sha256": "0fcd18155de13e608cda5200b385086999059137d3b911880fc2fe1fa0151f3f"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 7,
+      "sourceSlide": 10,
+      "part": 1,
+      "localSlide": 10,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "f5c694ddf2d8975de639449aa8006d6c026152ecbaeaba072d78e9e26a7bc09b"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 8,
+      "sourceSlide": 12,
+      "part": 1,
+      "localSlide": 12,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image13.png",
+          "sha256": "fcc21c0ef036f78b56e1a180e4da6b3d7268bc54ebe77a0aca2d3b16bea9ac14"
+        },
+        {
+          "part": "ppt/media/image14.png",
+          "sha256": "21d68abfc546fab494ee5bb0919bc6f6a42cc9b5196952397fab5e6740664f5f"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 9,
+      "sourceSlide": 15,
+      "part": 1,
+      "localSlide": 15,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image15.png",
+          "sha256": "8a6c8038869ecc20486700ee939d83ea0d7f6d919235dedb2596b377860dd283"
+        },
+        {
+          "part": "ppt/media/image16.png",
+          "sha256": "5a3aa579732efe662a1621c8bc8842713bb1f3171e224065d9322120e0917689"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 10,
+      "sourceSlide": 18,
+      "part": 1,
+      "localSlide": 18,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image17.png",
+          "sha256": "72d0c93703c34619978c9ae41696eef103feb604f25a8286f51916af10983a38"
+        },
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "d90f59cfdb84a5143ace51adee5826ab14a6bbb895c773ae7cd76dba2396e4cf"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 11,
+      "sourceSlide": 22,
+      "part": 1,
+      "localSlide": 22,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Harbiye Açık Hava Sahnesi’nde."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Hafta sonu, cumartesi ve pazar günleri."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Filmler saat 11.00’de, 13.00’te ve 17.00’de."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Murat, Aycan, Elif ve Hasan."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Saat 13.00 seansını seçtiler."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Sinema gişesinden."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image19.png",
+          "sha256": "a04e49a4ba37e77b74142b6440c5d5e1b37e87a273f4f5fb1f77dd1068457d14"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 12,
+      "sourceSlide": 24,
+      "part": 1,
+      "localSlide": 24,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "11"
+          ],
+          "text": "cumartesi günü teyzesi ve dayısı gelecek."
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "bir planı yok, evde."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "katılmayacak ."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "sinemada film izlemeyi çok seviyor."
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Harbiye Açık Hava Sahnesi’ni görmek istiyor."
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "katılacak ."
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "katılacak ."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image20.png",
+          "sha256": "46c877c5bab5656fc9665c0d6170c5a422319c5effa485adf65471ff8aabf3af"
+        },
+        {
+          "part": "ppt/media/image21.png",
+          "sha256": "dcb4f950f9b27b49555b77ea6285f4b385766fd88865701eb58b7b89af3a688d"
+        },
+        {
+          "part": "ppt/media/image22.png",
+          "sha256": "9968a6d4665b59b999bcd3b051d322c91ee27e26e6a8b5e12c4ff448ccd9a195"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 13,
+      "sourceSlide": 27,
+      "part": 1,
+      "localSlide": 27,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Kitap fuarı"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Hafta sonu pazar günü"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "12.00"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Üsküdar meydanı"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Kitap fuarı’na."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image24.png",
+          "sha256": "0a51f71318d3e7244e270b59783febf4b8d7f3cba542695b5f07be0d0884c818"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 14,
+      "sourceSlide": 28,
+      "part": 1,
+      "localSlide": 28,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image25.png",
+          "sha256": "995dc2672bbe6ae6e871110cf946fb59016dd791cfb23ebeab85521c12ec09df"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 15,
+      "sourceSlide": 31,
+      "part": 1,
+      "localSlide": 31,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Birlikte pikniğe gidelim mi?"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Neden olmasın."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Çok iyi bir fikir."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Tabii gelirim."
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Tamam, inşallah."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Teşekkür ederim ama gelemem."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Kusura bakma, gelemem."
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Maalesef, gelemem. Haftasonu başka bir planım var."
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Özür dilerim ama müsait değilim."
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "Birlikte müzeye gidelim mi?"
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": "Birlikte alışverişe gidelim mi?"
+        },
+        {
+          "id": [
+            "19"
+          ],
+          "text": "Birlikte tiyatroya gidelim mi?"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image26.png",
+          "sha256": "88444b15951a3526c4d6cb87902d52d644bf0af150e8af9fd7f30d38ceacaa85"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 16,
+      "sourceSlide": 32,
+      "part": 1,
+      "localSlide": 32,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image27.png",
+          "sha256": "5b7f25cafd865f5a8d6385a08a937213a3a2c21e00eac83a6961385979bf56c2"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 17,
+      "sourceSlide": 35,
+      "part": 1,
+      "localSlide": 35,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image28.png",
+          "sha256": "171421a9c7ea291307f8f40102cf79e0d5fc60f43b564e2d8bb44cf12842bd91"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 18,
+      "sourceSlide": 38,
+      "part": 1,
+      "localSlide": 38,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image29.png",
+          "sha256": "3e6011b9a378c062f2b91888666ae46ae6e5a05392788c9a1d8e30caddf7af61"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 19,
+      "sourceSlide": 40,
+      "part": 1,
+      "localSlide": 40,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "yiyecek misin?"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "gelecek misin?"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "girecek misin?"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "dönecek misin?"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "gidecek"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": " misin?"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Evet, geleceğim?"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Evet, yiyeceğim?"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Evet, gireceğim?"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Evet, döneceğim?"
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Evet, gideceğim?"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Hayır, gelmeyeceğim?"
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "Hayır, yemeyeceğim?"
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": "Hayır, girmeyeceğim?"
+        },
+        {
+          "id": [
+            "19"
+          ],
+          "text": "Hayır, dönmeyeceğim?"
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "text": "Hayır, gitmeyeceğim?"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image30.png",
+          "sha256": "b584ae748bf204c9320ddc78e0332558dc3b146e8f24404c075b5bd34693d501"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 20,
+      "sourceSlide": 41,
+      "part": 1,
+      "localSlide": 41,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Gelecek sene"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Önümüzdeki hafta"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "İki gün sonra"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "yarın"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "İki ay sonra"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image31.png",
+          "sha256": "f00c9a0e942e3bbf518961e287d4042937b7abdee9feb64565187f8289c79a9d"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 21,
+      "sourceSlide": 42,
+      "part": 1,
+      "localSlide": 42,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "a."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "b."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "c."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Ç."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "d."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "e."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "g."
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "h."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "ı."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "i."
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "19"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "22"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "24"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "27"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "29"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image32.png",
+          "sha256": "e04cb4b9a00cc4d8b053a786aefd2070d37cab0fd7044e3e1cf78f7967ce2a84"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 22,
+      "sourceSlide": 43,
+      "part": 1,
+      "localSlide": 43,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Restoranda "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Camide "
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Sinemada "
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Eczaneden "
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Hastanede "
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Müzede "
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "e."
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "a."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "ı."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "b."
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "ç."
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "h."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image33.png",
+          "sha256": "c22031d4ffc21e6ad17064d5f01580a0fe8076a23d10c651dcc623cd7fd04407"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 23,
+      "sourceSlide": 46,
+      "part": 1,
+      "localSlide": 46,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image34.png",
+          "sha256": "d0e7a655a60ac62a7cc2b8ea2a2fe4a07a4e814b7f456c42557550a79a01d18f"
+        },
+        {
+          "part": "ppt/media/image35.png",
+          "sha256": "bc63ef996386efff0e51f5a311c95cc4f0ade396251c95a7d357c96204b962dd"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 24,
+      "sourceSlide": 47,
+      "part": 1,
+      "localSlide": 47,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Metro çıkışının  sağında  kütüphane var."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Şimdi kütüphaneden  sağa dön ."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Caminin önünden 100 metre  düz git ."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Ortadaki tarihi saat kulesini  geç ."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Orada bir kafe var."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Şimdi kafenin önünden  sağa dön ."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "İşte bu bina Harbiye Açık Hava Sahnesi.  "
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "50 metre  düz yürü ."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Eczanenin  sağında  büyük bir bina var."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "24"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image36.png",
+          "sha256": "6ec9c039c88ef6ffd5b04e7f7ed49640b0c5166e11f9d4ae91bd52ac8ea9255f"
+        },
+        {
+          "part": "ppt/media/image34.png",
+          "sha256": "d0e7a655a60ac62a7cc2b8ea2a2fe4a07a4e814b7f456c42557550a79a01d18f"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 25,
+      "sourceSlide": 51,
+      "part": 1,
+      "localSlide": 51,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "süpermarket"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "restoran"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Süpermarketten çık. Sola dön. 100 metre düz git. Ortadaki tarihi saat kulesinden sağa dön. 50 metre düz yürü. Restoran solda. Harbiye Açık Hava Sahnesi’nin karşısında."
+        }
+      ],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "5874e40c510eb9f81e21fdb74d31b11d2c48aaf522662ce6f485fb233d0b31a3"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 26,
+      "sourceSlide": 52,
+      "part": 1,
+      "localSlide": 52,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 27,
+      "sourceSlide": 53,
+      "part": 1,
+      "localSlide": 53,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image39.png",
+          "sha256": "108842d45efedc4409aec23090082593ac185dfa38475702b70f9fc9a54f9418"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 28,
+      "sourceSlide": 55,
+      "part": 1,
+      "localSlide": 55,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "solunda"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Fındık, sincabın  sağında ."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Fındık, sincabın  solunda ."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "dışında"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Fındık, sincabın  içinde ."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Fındık, sincabın  dışında ."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Fındık, sincabın  üstünde ."
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Fındık, sincabın  altında ."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Fındık, sincabın  yanında ."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Fındık, sincabın  karşısında ."
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "altında"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "karşısında"
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "19"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "21"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "24"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "26"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "29"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "31"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "34"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image40.png",
+          "sha256": "c09cc5cd606137618b6c90f0748936d67abbdbc0aac9ab713bd6e96b8e478f8a"
+        },
+        {
+          "part": "ppt/media/image41.png",
+          "sha256": "1fa1a5a9803f70b2e60181cb0b78b348f403ccf424416ed129e91b190950e0f6"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 29,
+      "sourceSlide": 56,
+      "part": 1,
+      "localSlide": 56,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "4"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "3"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "2"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "1"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "5"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image42.png",
+          "sha256": "73aa8c6d0b190d0e6dbad57b43d12edce3d768816e5f6b8590021db89762c74e"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 30,
+      "sourceSlide": 57,
+      "part": 1,
+      "localSlide": 57,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Kütüphane "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "arkasında."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "karşısında."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image43.png",
+          "sha256": "d123fbb395835dd02035b7b347b43e3b769b3f6529e60eaa344d24047b328e37"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 31,
+      "sourceSlide": 58,
+      "part": 1,
+      "localSlide": 58,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "nerede"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "önünde."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "karşısında."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "arkasında"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "karşısında."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image44.png",
+          "sha256": "84b0f0a2d22d008c8262bbf878a5c5fdb0781886dc020d482b0a01660212edbe"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 32,
+      "sourceSlide": 59,
+      "part": 1,
+      "localSlide": 59,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "önünde"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "metro sol tarafta, sinemanın karşısında."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "sola dön."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "karşısında"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image45.png",
+          "sha256": "124d5ecd8fc67bd23eb6fd55df5488b46244441b1218a0d05f2ef14ae7d23bb8"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 33,
+      "sourceSlide": 60,
+      "part": 1,
+      "localSlide": 60,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image46.png",
+          "sha256": "c71f975ce436c962e48de3fd5926035ded5d168ff419c9fd0bbd564943c93702"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 34,
+      "sourceSlide": 64,
+      "part": 1,
+      "localSlide": 64,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image47.png",
+          "sha256": "458ff198af5568035c0d2aca569ac579384c1929eb637444ef87c56dcd4180ef"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 35,
+      "sourceSlide": 67,
+      "part": 1,
+      "localSlide": 67,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Evet, resim yapmayı severim."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Hayır, resim yapmayı sevmem."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Evet, müzik dinlemeyi severim."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Hayır, müzik dinlemeyi sevmem."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "(-)Hayır, resim kursuna gitmek istemiyorum."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Hayır, müzik dinlemek istemiyorum."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Evet, resim kursuna gitmek istiyorum."
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Evet, müzik dinlemek istiyorum."
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Evet, futbol oynamayı severim."
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Hayır, futbol oynamayı sevmem."
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Hayır, futbol oynamak istemiyorum."
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Evet, futbol oynamak istiyorum."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image48.png",
+          "sha256": "bdcf326a48fae789aa9184f096f99b388fc5d79d81bda2d5b753b811afe0ac01"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 36,
+      "sourceSlide": 70,
+      "part": 1,
+      "localSlide": 70,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image49.png",
+          "sha256": "e28e563527b0bed8c4fefea7f8fefbf226c8582e467077ba62060776cf16f22c"
+        },
+        {
+          "part": "ppt/media/image49.png",
+          "sha256": "e28e563527b0bed8c4fefea7f8fefbf226c8582e467077ba62060776cf16f22c"
+        },
+        {
+          "part": "ppt/media/image50.png",
+          "sha256": "199ce8b0f5171fa56de3211d4ce4b4aba86b08e02aa24a7a7dd402967cae1649"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 37,
+      "sourceSlide": 71,
+      "part": 1,
+      "localSlide": 71,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 2,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image51.png",
+          "sha256": "0e54fe8741ec7f9d05bc9a8054bddbdacf5d7b240af7ed46d7b6989938533009"
+        },
+        {
+          "part": "ppt/media/image52.png",
+          "sha256": "d5e8e800ea044db599f597a3c468becc38b05875b0b1d1d9f7a71a52dc76d0d9"
+        },
+        {
+          "part": "ppt/media/image53.png",
+          "sha256": "338a27f049cade02c8efb975140683028098bb9be4784d81b4e0b3dec591f0dd"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 38,
+      "sourceSlide": 72,
+      "part": 1,
+      "localSlide": 72,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image54.png",
+          "sha256": "eca1c9917e641f63af75c50e8ca5321a7359e72bd1f9b20feba7714c5bd7ca9b"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 39,
+      "sourceSlide": 74,
+      "part": 1,
+      "localSlide": 74,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image55.png",
+          "sha256": "8edba9cf4edc67e22f65e438021d8f22119dc3b21db48d8e93b19c10e8308108"
+        },
+        {
+          "part": "ppt/media/image56.png",
+          "sha256": "280bd3ef81d3d1243ca5d1f3f04ab08d20f5705738d25e8a4c2c746461ec8035"
+        },
+        {
+          "part": "ppt/media/image57.png",
+          "sha256": "42d55f42630f51e88d0cf91cc16eb346f31173d9597908a94a122d74b24c3384"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 40,
+      "sourceSlide": 76,
+      "part": 1,
+      "localSlide": 76,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image58.png",
+          "sha256": "18ad8963c8f6bda5c945a016c8f7bcd5f5a921e9ec4d72c61fa7bab9240ca5d2"
+        },
+        {
+          "part": "ppt/media/image59.png",
+          "sha256": "cede805d16c489e3eda4f0eb2fa0f7c50ad595d4020ae8dca6e4e34efca77946"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 41,
+      "sourceSlide": 78,
+      "part": 1,
+      "localSlide": 78,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image60.png",
+          "sha256": "9ce7b30962b05e44adf6c775796d5150a096996f1138a98c038b035ea8c6c1a6"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 42,
+      "sourceSlide": 79,
+      "part": 1,
+      "localSlide": 79,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image61.png",
+          "sha256": "c0a9b39375556fe629be59253980c8225db4e450183e9dad2b4c7e4ffb5a1d12"
+        },
+        {
+          "part": "ppt/media/image62.png",
+          "sha256": "f6c315847b57dc84a7bced154682f2124d2a57cff1982433095cbdc774cbff20"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 43,
+      "sourceSlide": 80,
+      "part": 1,
+      "localSlide": 80,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Oyuncakçıdan sağa dönün. Giyim mağazasının yanından yürüyen merdivenle alt kata inin. Sola dönün. Ortadaki havuzun önünden dümdüz gidin. Baklavacı yolun sonunda solda. Balık Izgara Lokantasının karşısında. "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Gökkuşağı giyim mağasından sağa dönün. Dümdüz ilerleyin. Kitapçı ilerde solda. Sinema salonunun karşısında. Tuvaletlerin yanında."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image63.png",
+          "sha256": "1c58ecf1f226e271366d57169e2bde8df0026428736ec7d442f89076bd5c09a2"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 44,
+      "sourceSlide": 81,
+      "part": 1,
+      "localSlide": 81,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Elif’in doğum günü"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Dedem ve annaneme ziyaret"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Belgrad Ormanında kahvaltı"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Galata köprüsünde balık balık tutma "
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Film izleme"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image64.png",
+          "sha256": "1fea8d6c305e1f1f02848c6708029349814187c201c01b0aa2a57b48b2eccfdb"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 45,
+      "sourceSlide": 84,
+      "part": 1,
+      "localSlide": 84,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Gülhane parkında piknik "
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Sinema"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": " Aile ziyareti"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": " "
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": " Futbol kursu "
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": " Gitar kursu"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": " Eminönünde kahvaltı "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image65.png",
+          "sha256": "1189587afc253ade09a5b30efa5358c158d59617069a3088ae73a2eb04fce106"
+        },
+        {
+          "part": "ppt/media/image65.png",
+          "sha256": "1189587afc253ade09a5b30efa5358c158d59617069a3088ae73a2eb04fce106"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 46,
+      "sourceSlide": 85,
+      "part": 1,
+      "localSlide": 85,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Merhaba, size önümüzdeki haftasonu planımı anlatacağım. Cumartesi günü erkenden kalkacağım. Öğleden önce yüzme kursuna gideceğim. Öğleden sonra arkadaşlarımla sinemaya gideceğiz. Akşam ise ailemle alışverişe gideceğiz. "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Pazar günü ailemle dedem ve annanemi ziyarete gideceğiz. Orada kahvaltı edeceğiz. Öğleden sonra hep beraber sahilde piknik yapacağız. Akşam ise evde ödevlerimi yapacağım. "
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "21 Haziran Cumartesi- 22 Haziran Pazar "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image66.png",
+          "sha256": "bf5b440150a852aec8987b6037a435c1d5563bfe43bcf0290664afc4629ab6bd"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 47,
+      "sourceSlide": 86,
+      "part": 2,
+      "localSlide": 1,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image1.png",
+          "sha256": "82dfca5f55312ec9c06635206716f1168267b7ba2c81821bcc2c8e1e20cabaea"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 48,
+      "sourceSlide": 87,
+      "part": 2,
+      "localSlide": 2,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Cumhuriyet meydanına doğru düz git. Tran istasyonu solda. Kebapçının karşısında.                        "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image2.png",
+          "sha256": "ddd2b378757b11f05e95e08b99d554c25180a83ab826baf7c9425c1d726c136f"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 49,
+      "sourceSlide": 88,
+      "part": 2,
+      "localSlide": 3,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": " Karanfil sokağa doğru düz git. Spor salonundan sola dön. Düz git. Eczane sağda. Hastanenin yanında. Otelin karşısında."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image3.png",
+          "sha256": "63d228d637ccc359289489edb3558b7375ac2d0422afa1c8eb4911c078090e73"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 50,
+      "sourceSlide": 89,
+      "part": 2,
+      "localSlide": 4,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": " Çiçek sokak boyunca düz git. Cumhuriyet meydanındaki göbekten dön. Karanfil sokağa doğru yürü. 200 metre yürü. Spor salonu ilerde sağda. Hastanenin karşısında. Otelin yanında. "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image4.png",
+          "sha256": "fef00e8add23f924ee69fb976c0df785f7e33dcbcd82f091c56fc74cdce512d8"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 51,
+      "sourceSlide": 90,
+      "part": 2,
+      "localSlide": 5,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image5.png",
+          "sha256": "fe7c619d2270609fcfddaab27dbbe7bcfbaeb06617800a24f7d1549a0bb102f6"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 52,
+      "sourceSlide": 91,
+      "part": 2,
+      "localSlide": 6,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image5.png",
+          "sha256": "fe7c619d2270609fcfddaab27dbbe7bcfbaeb06617800a24f7d1549a0bb102f6"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 53,
+      "sourceSlide": 94,
+      "part": 2,
+      "localSlide": 9,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image7.png",
+          "sha256": "0ed4a51d898a057c5f42ce415fe908154c109215a6029e2a39aeb09fb5e6cae9"
+        },
+        {
+          "part": "ppt/media/image8.png",
+          "sha256": "3100a8cf50e6400f16826eb0f12de374bfec7d2d7c699f822c26ad5a4f8344d9"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "c03ea8d5f3dd2f6038562148d062c415cea0d9f2e0e4b05469282847a211054d"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 54,
+      "sourceSlide": 97,
+      "part": 2,
+      "localSlide": 12,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image7.png",
+          "sha256": "0ed4a51d898a057c5f42ce415fe908154c109215a6029e2a39aeb09fb5e6cae9"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "c03ea8d5f3dd2f6038562148d062c415cea0d9f2e0e4b05469282847a211054d"
+        },
+        {
+          "part": "ppt/media/image8.png",
+          "sha256": "3100a8cf50e6400f16826eb0f12de374bfec7d2d7c699f822c26ad5a4f8344d9"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 55,
+      "sourceSlide": 101,
+      "part": 2,
+      "localSlide": 16,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Abisinin düğün daveti "
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "26 Eylül Cumartesi 2020"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Mutlu Düğün Salonu"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Aycan’ın abisi "
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Murat, Emre, Hasan , Elif "
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Ailemle şehir dışına gideceğim için düğüne katılamayacağım."
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Dedem hasta olduğu için düğüne katılamayacağım."
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "Daha önce hiç Türk düğününe gitmediğim için düğüne katılacağım."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image10.png",
+          "sha256": "6d5473eea8b1e31d6198b8cbcd3fa815d338b2eb1325a910ff1e96d1ec31a633"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 56,
+      "sourceSlide": 102,
+      "part": 2,
+      "localSlide": 17,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Murat "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Emre, Elif  "
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Hasan "
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Elif "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image12.png",
+          "sha256": "2125275e237cc6f8ba7620059e74379f6d11e95b640e936d58370246fc17b1f3"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 57,
+      "sourceSlide": 103,
+      "part": 2,
+      "localSlide": 18,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image13.png",
+          "sha256": "48da1cf6f369104b020e94b794c3c7370574df7e1f6067b6c9f0b7400a72dd22"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 58,
+      "sourceSlide": 104,
+      "part": 2,
+      "localSlide": 19,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "d."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "a."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "ç."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "e."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "b."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image14.png",
+          "sha256": "0ea3daccd43e2c566f7736ec1077b2a3f8ce5e9ba5c78d940c63f4213dc22956"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 59,
+      "sourceSlide": 105,
+      "part": 2,
+      "localSlide": 20,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Allah bir yastıkta kocatsın."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Başarılarının devamını dilerim."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Bayramın mübarek olsun."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Allah analı babalı büyütsün."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Allah bir yastıkta kocatsın."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Doğum günün kutlu olsun."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "22"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "24"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "25"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image15.png",
+          "sha256": "98ee9b2dbd52176b69f13c05d5b935d226c8596cd5fd08cbf6fc4b92a544cb4c"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 60,
+      "sourceSlide": 108,
+      "part": 2,
+      "localSlide": 23,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Dursun  "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Dursun  "
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Dursun  "
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Dursun  "
+        }
+      ],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image16.png",
+          "sha256": "98b3cd0a2edb40d7ce04ff71f6415c4a56c5ddf4bfc40b07ce5beab523961c5e"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 61,
+      "sourceSlide": 110,
+      "part": 2,
+      "localSlide": 25,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Dursun da  "
+        }
+      ],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image17.png",
+          "sha256": "542fb1f9cdc6e1a67529709478d8cc75332c30d1b97a9b53c5eb1e436909bcd2"
+        },
+        {
+          "part": "ppt/media/image17.png",
+          "sha256": "542fb1f9cdc6e1a67529709478d8cc75332c30d1b97a9b53c5eb1e436909bcd2"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 62,
+      "sourceSlide": 112,
+      "part": 2,
+      "localSlide": 27,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "1fdf73cb699e383f0717f12186cbb0cf99e3ed9800343c085721e35af73efd61"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 63,
+      "sourceSlide": 113,
+      "part": 2,
+      "localSlide": 28,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image19.png",
+          "sha256": "cb14a4c0a5c54b61b547b5efea52db05681f28e42a333680f7cbf5547270ee8f"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 64,
+      "sourceSlide": 115,
+      "part": 2,
+      "localSlide": 30,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Ziyarete gelmeyeceğim çünkü sınavım var."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Köye gidiyorum çünkü dedem hasta."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Mezuniyet törenine geç kaldım çünkü trafik var."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Gelinle damat düğüne geç geldi çünkü yolda arabaları bozuldu."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Düğün pastasından yemedim çünkü tatlı sevmiyorum."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image20.png",
+          "sha256": "7fe548cfe6d113faad505f58c25520b2dbdd02c61e183ae05c4e6b71197febf6"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 65,
+      "sourceSlide": 116,
+      "part": 2,
+      "localSlide": 31,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "07.00’de"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "okula gidiyorum."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Doktor "
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "insanlara yardım etmeyi seviyorum."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Evet seviyorum. Çünkü..."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Polisiye "
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": " merak uyandırıyor. "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image21.png",
+          "sha256": "083d6c378992a8634e71db732108494c785766c0dc2699e518e55cac136a5a5b"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 66,
+      "sourceSlide": 117,
+      "part": 2,
+      "localSlide": 32,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "7"
+          ],
+          "text": "fıstık,"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "lahmacun,"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "kebap,"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "salata,"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "mutfak,"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "aşçı,"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "çay"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image22.png",
+          "sha256": "708cc130bd5b70c19648f4784c7b2dbdde367213732cd4ad8b5b56ab1bc61ae8"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "c346fe585f1e9835256da05252665aead8db3053763ff6616a2cbbe5210c5725"
+        },
+        {
+          "part": "ppt/media/image24.png",
+          "sha256": "385d9aff06b781be5a830a48d23d77eeebf8b6616a1be8acee8f2f551df5ecce"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 67,
+      "sourceSlide": 118,
+      "part": 2,
+      "localSlide": 33,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Türk bayrağı, "
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "güreş,"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "okçuluk,"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "halk oyunları,"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "at"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image25.png",
+          "sha256": "fbaccae8d5ed1e3a9f9cbc35f3b2e372bb8590c921230447da24b73f6ca34686"
+        },
+        {
+          "part": "ppt/media/image26.png",
+          "sha256": "2157272ac5b43b34e99ef42f7ec1533329274e103214061ee886aaf6a627f49d"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 68,
+      "sourceSlide": 119,
+      "part": 2,
+      "localSlide": 34,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Fidan,"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "toprak,"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "yaprak,"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "semazen,"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image27.png",
+          "sha256": "88d6d4bb9980fafaa95fb5cdbf09e33067a20ff9b829da5b28517b88758461f2"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 69,
+      "sourceSlide": 120,
+      "part": 2,
+      "localSlide": 35,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Gaziantep Şehir Meydanı’nda"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Fatma "
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "13-14 Eylül"
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": "Herkes davetlidir."
+        },
+        {
+          "id": [
+            "19"
+          ],
+          "text": "Musa "
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "text": "Konya Fidan Dikim Alanı"
+        },
+        {
+          "id": [
+            "21"
+          ],
+          "text": "20 Haziran Cumartesi 12.00"
+        },
+        {
+          "id": [
+            "22"
+          ],
+          "text": "Okulun tüm öğrencileri"
+        },
+        {
+          "id": [
+            "23"
+          ],
+          "text": "Milli Okçu Alperen"
+        },
+        {
+          "id": [
+            "24"
+          ],
+          "text": "Bursa’da"
+        },
+        {
+          "id": [
+            "25"
+          ],
+          "text": "24-25 Temmuz"
+        },
+        {
+          "id": [
+            "26"
+          ],
+          "text": "Herkes davetli"
+        }
+      ],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image28.png",
+          "sha256": "88596aa449ee88e977ee53e6fd98183ae5f398f643e064ca80c943278e259080"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 70,
+      "sourceSlide": 121,
+      "part": 2,
+      "localSlide": 36,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Türk Dünyası Ata Sporları Şenliği"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Türk Dünyası Ata Sporları Şenliği"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Konya Uluslararası İmam Hatip Okulu Fidan Dikme Etkinliği"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Konya Uluslararası İmam Hatip Okulu Fidan Dikme Etkinliği"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Türk Dünyası Ata Sporları Şenliği"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image29.png",
+          "sha256": "8c21ec162be943b0898842eb0714e8448e07b937697015bfd03b62f5bc2a93b2"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 71,
+      "sourceSlide": 122,
+      "part": 2,
+      "localSlide": 37,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Türk Dünyası Ata Sporları Şenliği’ ne"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Sporları ve Türk oyunlarını çok merak ediyorum. Farklı kültürlerin müziklerini dinlemeyi de seviyorum."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image30.png",
+          "sha256": "91149c905597198be2f4269cd7a6633692dbf1bd784d831883c5c0eb67f39e8c"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 72,
+      "sourceSlide": 123,
+      "part": 2,
+      "localSlide": 38,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image31.png",
+          "sha256": "178ade7aea9312456035c66ccefde294a7a0edc65853ae06299add2af4c4317f"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 73,
+      "sourceSlide": 126,
+      "part": 2,
+      "localSlide": 41,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image32.png",
+          "sha256": "38b3f14b1f33fd20ef6f015adf5fc0a333ae42a5e0d77ad98063c6ca132a6102"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 74,
+      "sourceSlide": 129,
+      "part": 2,
+      "localSlide": 44,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Davete katılacağım. Çünkü... "
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Davete katılmayacağım. Çünkü... "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image33.png",
+          "sha256": "3ae1772d28d814d1c06e7dd21362ce929ce26218dacbedb3efac1227d67781ae"
+        },
+        {
+          "part": "ppt/media/image34.png",
+          "sha256": "e6e094e22292cb8fecb1b7f4afa0863b9e7ea22f9df9882121de396a17470e03"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 75,
+      "sourceSlide": 130,
+      "part": 2,
+      "localSlide": 45,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image35.png",
+          "sha256": "c3ff093b5547b4d203654347f5ce9c190ac69212ec4aaf63e0c26d26c38ab837"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 76,
+      "sourceSlide": 131,
+      "part": 2,
+      "localSlide": 46,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image36.png",
+          "sha256": "88eddcdd67b454649c04de9e50186426e1747ab55f5c2d00b242915e16521d17"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 77,
+      "sourceSlide": 133,
+      "part": 2,
+      "localSlide": 48,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "d193fcd6c1b879eaf9957186fa4f4116b0f4885832df6663d6bcaad9a8e0acd8"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 78,
+      "sourceSlide": 134,
+      "part": 2,
+      "localSlide": 49,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image38.png",
+          "sha256": "bc7410887fc975a18493d0583705b36b2eaf881baedd02362136bdb235d8b202"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 79,
+      "sourceSlide": 135,
+      "part": 2,
+      "localSlide": 50,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image39.png",
+          "sha256": "8de1d45ac8fb6d31b7739641120cf1a2252565fd7efa77e45d8f65333e02d5ec"
+        },
+        {
+          "part": "ppt/media/image40.png",
+          "sha256": "e5dce961cbea9eb304eac1fa2d2179671cabc0f576218cb1bfd40878379992af"
+        },
+        {
+          "part": "ppt/media/image41.png",
+          "sha256": "9edd2e37efe841045bc57f61fa44e11d73d315251cccde7fedf2df10367b7d6b"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 80,
+      "sourceSlide": 137,
+      "part": 2,
+      "localSlide": 52,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image42.png",
+          "sha256": "5904aadfcefb192a684c8e328b8c239427c8bdd8063520c0375636c8d85dc7e6"
+        },
+        {
+          "part": "ppt/media/image43.png",
+          "sha256": "8b4e139f25597e8d19595e9736166bfe1cb7fa1d6d94ff49752fe8a094c122cb"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 81,
+      "sourceSlide": 139,
+      "part": 2,
+      "localSlide": 54,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 1,
+      "removedEnglishTables": 2,
+      "pictures": [
+        {
+          "part": "ppt/media/image44.png",
+          "sha256": "2b3e11818edaf47a9e35bd5a3e4026a8f03daa390622a25772a5085a30e3a140"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 82,
+      "sourceSlide": 140,
+      "part": 2,
+      "localSlide": 55,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "7"
+          ],
+          "text": "bayram ziyaretine"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "doğum"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "günü kutlamasına"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image45.png",
+          "sha256": "fb86c5b59e26fda2191fb8f73917ec01fe20e8974f0e309df3527bf72a3c62af"
+        },
+        {
+          "part": "ppt/media/image46.png",
+          "sha256": "5358f77fc888655e8b567e2884f94c6fb18ca378d717dca1632f7d65783ea3d8"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 83,
+      "sourceSlide": 142,
+      "part": 2,
+      "localSlide": 57,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "hasta ziyaretine"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "mezuniyet töreni"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "düğününe"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": ""
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image47.png",
+          "sha256": "862bc211335f179566ae4702be0d3457e089e9bc66dfa0a8c67b97f35c371742"
+        },
+        {
+          "part": "ppt/media/image48.png",
+          "sha256": "6395c3c01faa49465ad48cfe19c00f6e0f0929c2da3bd149d3f111d6836185ad"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 84,
+      "sourceSlide": 144,
+      "part": 2,
+      "localSlide": 59,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image49.png",
+          "sha256": "4a92f1a782a83ab2fb9a8873f9c1883bc0c4dc60aa65f96f4c22880559e2b110"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 85,
+      "sourceSlide": 145,
+      "part": 2,
+      "localSlide": 60,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Tüm akrabalarımız ve arkadaşlarımız"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "30 Temmuz saat: 13.00"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Bulut kafe, İstanbul"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": " Doğum Günü"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image50.png",
+          "sha256": "6115c577472c9f3b233d605e110411d309938dae472690a86016bf8a9507f640"
+        },
+        {
+          "part": "ppt/media/image51.png",
+          "sha256": "4812f992561750e427a7d2d888fc9f8a0aa6ea8ed5ce5aa952f7b8d69376b5f8"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 86,
+      "sourceSlide": 146,
+      "part": 2,
+      "localSlide": 61,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image52.png",
+          "sha256": "8649ec92a720d676eb3234f85ca573a06e7583d0199be9863ad762b7472af1dd"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 87,
+      "sourceSlide": 148,
+      "part": 2,
+      "localSlide": 63,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image53.png",
+          "sha256": "581b77135730d6b33a785344087401c58502caa75cc34fd95f819e320aed432d"
+        },
+        {
+          "part": "ppt/media/image54.png",
+          "sha256": "5ae6719c427a59c97fb3ac0ea15502c2fd78f03af1f2b93b5fa3da47fe7b37cc"
+        },
+        {
+          "part": "ppt/media/image54.png",
+          "sha256": "5ae6719c427a59c97fb3ac0ea15502c2fd78f03af1f2b93b5fa3da47fe7b37cc"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 88,
+      "sourceSlide": 149,
+      "part": 2,
+      "localSlide": 64,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Videoyu izlemek için tıklayın ya da bir sonraki sayfaya geçin."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": ""
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image55.png",
+          "sha256": "1fa47f53d2085e22d0aeca4c42ea71fbfd423dd895e9c60980241a2fd636a969"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 89,
+      "sourceSlide": 150,
+      "part": 2,
+      "localSlide": 65,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "At binenin kılıç kuşananın"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Avrasya Gösteri Merkezinde"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Kırk üç çadır kuruldu."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Her yıl yapılıyor."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image56.png",
+          "sha256": "14ce5335d3219bac7bc6298af8a5c4b5477df14e57d9f386bf7a63089842bc26"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 90,
+      "sourceSlide": 151,
+      "part": 2,
+      "localSlide": 66,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Sema gösterisi"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Folklor "
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Mehteran "
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Kılıç kalkan dansı"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Yabusame"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Cirit "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image57.png",
+          "sha256": "18f8e4867ac255909799d8efedf79de42a7d9d0a67843db31d6df041adf2e9f9"
+        },
+        {
+          "part": "ppt/media/image57.png",
+          "sha256": "18f8e4867ac255909799d8efedf79de42a7d9d0a67843db31d6df041adf2e9f9"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 91,
+      "sourceSlide": 152,
+      "part": 2,
+      "localSlide": 67,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Duvak Açma Töreni "
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Beşik Toyu"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Yedi Bölge Kültürel Çadır Etkinlikleri"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Diriliş Ertuğrul Çadır Etkinlikleri"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image58.png",
+          "sha256": "4b61ef48c4638b66a3fc55d1847141dcdc2874c12252307a59a5dc4a5e786a74"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 92,
+      "sourceSlide": 153,
+      "part": 2,
+      "localSlide": 68,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image58.png",
+          "sha256": "4b61ef48c4638b66a3fc55d1847141dcdc2874c12252307a59a5dc4a5e786a74"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 93,
+      "sourceSlide": 154,
+      "part": 2,
+      "localSlide": 69,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image59.png",
+          "sha256": "560a3ccc26be8c4bfa1c85bd3258934f6c37d2e929ca0ab1e48e0ea6fc35b256"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 94,
+      "sourceSlide": 155,
+      "part": 2,
+      "localSlide": 70,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image60.png",
+          "sha256": "b0e4cdf6a78d85ad65f640a05c040c4dbf3ebee0809fd9a09c351668023d385e"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 95,
+      "sourceSlide": 156,
+      "part": 2,
+      "localSlide": 71,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image61.png",
+          "sha256": "d961ef72faa71545b617926fcc3ee01abcbc92b0b4dc8a0d34b33a8a100226e4"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 96,
+      "sourceSlide": 157,
+      "part": 2,
+      "localSlide": 72,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Numune Hastanesi"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Ev Yemekleri Restoran"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Kız Meslek Lisesi"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Atatürk Lisesi"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Gül Fotoğrafçısı"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Genç Giyim Mağazası"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image62.png",
+          "sha256": "5749140995714e283cde8acfeda3a4ef11017d03566562e2499f1271b35a357f"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 97,
+      "sourceSlide": 159,
+      "part": 2,
+      "localSlide": 74,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Allah bir yastıkta kocatsın, ömür boyu  mutluluklar dilerim."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Öğretmenler gününüz kutlu olsun, iyi ki varsınız."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Geçmiş olsun, sağlıklı günler dilerim."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Tebrik ederim, iş hayatında başarılar dilerim."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Hayırlı olsun, Allah analı  babalı büyütsün."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "Sınavda birinci oldun, başarılarının devamını dilerim."
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Düğün "
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Öğretmenler günü"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Hasta ziyareti"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Yeni iş"
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "Bebek görmeye gitmek"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Tebrik etmek"
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image63.png",
+          "sha256": "a9630e55d4a19e2834574838128860e610ff82b5b9b75da3dc2587f41bf4ad54"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 98,
+      "sourceSlide": 160,
+      "part": 2,
+      "localSlide": 75,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image64.png",
+          "sha256": "4ac8b20128107e8838b72e95641416cd2cd9324440653f352325d39764be3680"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 99,
+      "sourceSlide": 161,
+      "part": 2,
+      "localSlide": 76,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Matematik sınavına katılacak."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Kısa film gösterisine katılacak."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Yarın saat: 08.00-11.00 arası katılacak."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Yarın akşam saat: 20.00’ da görüntülü konuşacak."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "30 Mayıs saat: 11.00’ da katılacak. "
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image65.png",
+          "sha256": "e8cd9fe29d317428e435018c2f179f666018d55c3178fef7538a3c9bf44d23be"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 100,
+      "sourceSlide": 162,
+      "part": 2,
+      "localSlide": 77,
+      "removedAnswerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "b."
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "c."
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "ç."
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "d."
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "e."
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "a."
+        }
+      ],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image66.png",
+          "sha256": "c5194455bb533261495bb648f6f2b4d1c3960291011332751f2c755866716708"
+        }
+      ],
+      "hasAnswers": true
+    },
+    {
+      "sequence": 101,
+      "sourceSlide": 163,
+      "part": 2,
+      "localSlide": 78,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image67.png",
+          "sha256": "469c23788aab95884a4a6c80e11a2fcc04b1255cf9747bfc0d56e2c24af9834c"
+        },
+        {
+          "part": "ppt/media/image68.png",
+          "sha256": "a13641a333179bce91879fb35b26ae54010accd4926c6176845cac9d56451347"
+        },
+        {
+          "part": "ppt/media/image69.png",
+          "sha256": "9c5c34ae540344d31aefc60e0e462b3c1e82aadd341e5a071fff2ca01bbd290a"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 102,
+      "sourceSlide": 166,
+      "part": 2,
+      "localSlide": 81,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image70.png",
+          "sha256": "1e8e5876f17b992081026e09c973bf5f20d1fa9c30c25fab73d713bf2307d67d"
+        },
+        {
+          "part": "ppt/media/image71.png",
+          "sha256": "34ddfedf1b684dde30928ea3fcedd6d80c5424586a4ce14423766d7dbcf166fa"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 103,
+      "sourceSlide": 168,
+      "part": 2,
+      "localSlide": 83,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image72.png",
+          "sha256": "3c79ee50b2c6b42ac5d0185d5b8d28a58b9281e1ae04e3faf049af9b65c053f8"
+        },
+        {
+          "part": "ppt/media/image73.png",
+          "sha256": "4d4356cdceb97e3b508cf55d8415c7b2d445f18785a19b4445544cd0b79fc5e3"
+        }
+      ],
+      "hasAnswers": false
+    },
+    {
+      "sequence": 104,
+      "sourceSlide": 170,
+      "part": 2,
+      "localSlide": 85,
+      "removedAnswerShapes": [],
+      "removedMediaIcons": 0,
+      "removedEnglishTables": 0,
+      "pictures": [
+        {
+          "part": "ppt/media/image74.png",
+          "sha256": "6c77c19923e1ad79330b0b08c47054ea729e7b760957b0eca7e0b2c40627cb88"
+        },
+        {
+          "part": "ppt/media/image75.png",
+          "sha256": "7f9e821723b62e523f655edf2c7ab634943661bea080ca7ab3e83c094ea14a11"
+        }
+      ],
+      "hasAnswers": false
+    }
+  ],
+  "totalSlides": 104,
+  "answerSlides": 53,
+  "nativeAnswerShapes": 335,
+  "removedMediaIcons": 26,
+  "excludedVocabularySlides": 67
+}

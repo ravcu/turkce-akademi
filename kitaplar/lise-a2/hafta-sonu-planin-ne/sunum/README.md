@@ -1,21 +1,25 @@
 # Lise A2 · 2. Ünite · Hafta Sonu Planın Ne?
 
-A1 sunum okuyucusu tasarımıyla 104 slayt. Türkçe–İngilizce kelime listesi başlıklı 67 kaynak slayt önceki çıkarımda hariç tutulmuştur. İngilizce ek çeviri alanları 78 ve 81. gösterim sayfalarında görsel katmanlarla kapatılır.
+Reader keeps the A1 design. Both uploaded original PowerPoint parts are the authoritative source. 171 source slides minus 67 vocabulary-list slides produce 104 slides in the original sequence.
 
-## Ses
+## Image fidelity and answers
 
-24 slaytta 25 bağımsız ses kesiti vardır. `slides.json` içindeki `audio` alanı kesilmiş MP3 dosyalarını, `audioSegments` ise önceki PowerPoint çıkarımındaki kaynak zamanlarını tutar. Birden fazla kayıt içeren slaytta dosyalar sırayla oynatılır. Kesit zamanları kaynak animasyon sürelerinden gelir; tüm kesitlerin işitsel denetimi henüz yapılmamıştır.
+`native-v2/slides/` contains clean 2400×1350 lossless WebP renders. The clean deck removes only native red DrawingML answer shapes and connectors. No picture is retouched, inpainted or recolored. All original PPTX media bytes are preserved in the conversion copies.
 
-## Sözlük
+`native-v2/answers/` contains the corresponding 53 answer-page renders. The answer switch overlays the original answer page. The 335 source answer shapes are recorded in `native-source-audit.json`. A pixel comparison of all 53 page pairs shows zero changed pixels outside padded answer object bounds.
 
-4.777 tıklama alanı, 1.557 benzersiz anahtar. Her anahtarda EN/RU/KY/AR/FR karşılıkları vardır. `translations.json` okuyucunun etkin sözlüğüdür; `dictionary.json` eski biçimle uyumluluk içindir. Kaynak metin konumlarına Türkçe OCR ile bulunan ek alanlar eklenmiştir. 65 belirsiz OCR parçası tıklanabilir yapılmamıştır. 391 kaydın örnek cümlesi henüz yoktur. Tüm görsel kelimelerin kapsandığı iddia edilmez.
+The 26 media icons and two added English tables are removed as native objects. The original single picture on slide 78 includes English labels; CSS hides those labels without editing the picture. The deprecated `slides/` images from the earlier destructive cleanup are not used.
 
-Kelime seslendirmesi 1. ünitenin mevcut kayıtlarını kullanır; kayıt yoksa aynı dilde tarayıcı sesi aranır. O dilin sesi yoksa kullanıcıya bildirilir; başka bir dilin sesi kullanılmaz.
+## Audio and video
 
-52 cevap katmanı mevcuttur. Önceki otomatik görsel temizleme sonucu kullanılır; her cevap işaretinin bağımsız görsel denetimi henüz bitmemiştir.
+25 audio cuts on 24 slides come from the originals. Their boundaries follow native `p14:trim`: the start is the stored start trim, and the end is the original media duration minus the stored end trim. These durations also match the native playback animation durations. Files with different cuts are exported separately so each page starts at its proper point. The two clips on slide 37 play sequentially.
 
-`release-verification.json` dosya ve beş dil alanı kontrollerini içerir.
+The embedded MP4 on slide 26 is retained as a video with its own player. `native-audio-audit.json` contains exact offsets and source media hashes.
 
-## Original image restoration
+## Dictionary
 
-2026-10-23: All 104 slide image references now point to the untouched `answers/` source images, including slides without answers. Modified `slides/` images are no longer used by the reader or thumbnails. Answer hiding is disabled because answers are embedded in the preserved images. It must be rebuilt from original PowerPoint objects, not by removing red pixels.
+`translations.json` is the active dictionary. Every clickable key has EN/RU/KY/AR/FR values. Existing contextual examples were retained and 68 additional non-generic examples recovered from earlier unit dictionaries. 323 selected keys still have no example. Some uncertain OCR fragments were intentionally not turned into dictionary entries; complete coverage of every rasterized word is not claimed.
+
+Word speech uses the existing recorded player and matching-language browser voices when available. Missing voices report an error rather than using another language.
+
+`release-verification.json` records current checks. Rebuild code and source object audit are in `tools/a2-unit2-sunu/`.

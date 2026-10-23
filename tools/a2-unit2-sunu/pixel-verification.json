@@ -1,0 +1,267 @@
+[
+  {
+    "sequence": 3,
+    "changedPixels": 63298,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 4,
+    "changedPixels": 3838,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 6,
+    "changedPixels": 2454,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 11,
+    "changedPixels": 85537,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 12,
+    "changedPixels": 66560,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 13,
+    "changedPixels": 59155,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 15,
+    "changedPixels": 118807,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 19,
+    "changedPixels": 111403,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 20,
+    "changedPixels": 25676,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 21,
+    "changedPixels": 21509,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 22,
+    "changedPixels": 27763,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 24,
+    "changedPixels": 145607,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 25,
+    "changedPixels": 94584,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 28,
+    "changedPixels": 127996,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 29,
+    "changedPixels": 3111,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 30,
+    "changedPixels": 16239,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 31,
+    "changedPixels": 22990,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 32,
+    "changedPixels": 31799,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 35,
+    "changedPixels": 188266,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 43,
+    "changedPixels": 154918,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 44,
+    "changedPixels": 60364,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 45,
+    "changedPixels": 44468,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 46,
+    "changedPixels": 215126,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 48,
+    "changedPixels": 38881,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 49,
+    "changedPixels": 56288,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 50,
+    "changedPixels": 86086,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 55,
+    "changedPixels": 107918,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 56,
+    "changedPixels": 10888,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 58,
+    "changedPixels": 3643,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 59,
+    "changedPixels": 98301,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 60,
+    "changedPixels": 43590,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 61,
+    "changedPixels": 14256,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 63,
+    "changedPixels": 29135,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 64,
+    "changedPixels": 116791,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 65,
+    "changedPixels": 48232,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 66,
+    "changedPixels": 18812,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 67,
+    "changedPixels": 19196,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 68,
+    "changedPixels": 12885,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 69,
+    "changedPixels": 84364,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 70,
+    "changedPixels": 70860,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 71,
+    "changedPixels": 56359,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 74,
+    "changedPixels": 27229,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 82,
+    "changedPixels": 26521,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 83,
+    "changedPixels": 35897,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 85,
+    "changedPixels": 44595,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 88,
+    "changedPixels": 32941,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 89,
+    "changedPixels": 43625,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 90,
+    "changedPixels": 31954,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 91,
+    "changedPixels": 50029,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 96,
+    "changedPixels": 53789,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 97,
+    "changedPixels": 174153,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 99,
+    "changedPixels": 80177,
+    "changedOutsideAnswerBounds": 0
+  },
+  {
+    "sequence": 100,
+    "changedPixels": 4761,
+    "changedOutsideAnswerBounds": 0
+  }
+]
