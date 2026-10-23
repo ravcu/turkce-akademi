@@ -36,38 +36,22 @@
       137
     ]
   },
-  "status": "local_dictionary_partial_and_automated_slide_audit_not_published",
-  "warning": "Red runs require overlay validation; shape and circle annotations and precise audio offsets not yet verified.",
-  "localPreview": {
-    "slides": 104,
-    "slidesWithAnswerToggle": 52,
-    "slidesWithAudio": 24,
-    "sourceAudioAssets": 17,
-    "sourceRedTextShapesRemoved": 289,
-    "delivery": "Local 21 MB ZIP; NOT uploaded to GitHub",
-    "limitations": [
-      "Audio segment start/end timestamps not verified",
-      "Answer red circle/mark inpainting requires visual review",
-      "Five-language clickable dictionary not integrated",
-      "Not yet deployed on GitHub Pages"
-    ]
-  },
+  "status": "reader_and_assets_uploaded_pending_complete_editorial_review",
+  "warning": "All essential assets and dictionary mappings are uploaded. Full answer-mark visual review, independent listening verification and missing example sentences remain.",
   "latestLocalWork": {
     "date": "2026-10-23",
     "slides": 104,
-    "clickableWordSpots": 1102,
-    "uniqueExtractedWords": 561,
-    "curatedFiveLanguageEntries": 68,
-    "untranslatedUniqueWords": 493,
-    "answerSlideVariantsPixelCompared": 52,
-    "allSlideFilesChecked": 104,
+    "clickableWordSpots": 4777,
+    "uniqueClickableKeys": 1557,
+    "incompleteFiveLanguageMappings": 0,
+    "answerVariants": 52,
+    "audioSlides": 24,
+    "audioClips": 25,
+    "githubAssetsUploaded": true,
+    "readerUploaded": true,
+    "selectedKeysWithoutExamples": 391,
+    "uncertainOcrTokens": 65,
     "manualVisualApproval": false,
-    "githubPagesPublished": false,
-    "localArchive": "A2_2_Unite_Sunu_Modu_Sozluklu_Yerel.zip",
-    "limitations": [
-      "Translations not complete for all clickable words",
-      "Image comparisons automated, not human-by-human approval",
-      "Local binary assets not uploaded to GitHub"
-    ]
+    "githubPagesPublished": "deployment_in_progress"
   }
 }
