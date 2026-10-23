@@ -1,0 +1,619 @@
+{
+  "languages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "entries": {
+    "karşısında": [
+      "opposite / in front of",
+      "напротив",
+      "маңдайында",
+      "مقابل",
+      "en face de"
+    ],
+    "dursun": [
+      "let it/he/she stop or stand",
+      "пусть остановится / стоит",
+      "токтосун / турсун",
+      "لِيَتَوَقَّفْ / لِيَقِفْ",
+      "qu'il s'arrête / reste debout"
+    ],
+    "günü": [
+      "the day (of)",
+      "день (вин. п. / притяж.)",
+      "күнү",
+      "يَوْمَهُ / الْيَوْمَ",
+      "le jour"
+    ],
+    "düz": [
+      "straight / flat",
+      "прямой / ровный",
+      "түз",
+      "مُسْتَقِيم / مُسَطَّح",
+      "droit / plat"
+    ],
+    "fındık": [
+      "hazelnut",
+      "фундук",
+      "фундук жаңгагы",
+      "بُنْدُق",
+      "noisette"
+    ],
+    "sincabın": [
+      "of the squirrel",
+      "белки (род. п.)",
+      "тыйын чычкандын",
+      "لِلسِّنْجَابِ",
+      "de l'écureuil"
+    ],
+    "katılacak": [
+      "will participate / join",
+      "примет участие",
+      "катышат",
+      "سَيُشَارِكُ",
+      "participera"
+    ],
+    "dön": [
+      "turn / return!",
+      "поверни / вернись!",
+      "бурул / кайт!",
+      "اِنْعَطِفْ / عُدْ",
+      "tourne / reviens !"
+    ],
+    "olsun": [
+      "let it be / may it be",
+      "пусть будет",
+      "болсун",
+      "لِيَكُنْ",
+      "que ce soit"
+    ],
+    "dilerim": [
+      "I wish",
+      "желаю",
+      "каалайм",
+      "أَتَمَنَّى",
+      "je souhaite"
+    ],
+    "git": [
+      "go!",
+      "иди / поезжай!",
+      "бар!",
+      "اِذْهَبْ",
+      "va !"
+    ],
+    "cumartesi": [
+      "Saturday",
+      "суббота",
+      "ишемби",
+      "السَّبْت",
+      "samedi"
+    ],
+    "sağa": [
+      "to the right",
+      "направо",
+      "оңго",
+      "إِلَى الْيَمِينِ",
+      "à droite"
+    ],
+    "metre": [
+      "metre",
+      "метр",
+      "метр",
+      "مِتْر",
+      "mètre"
+    ],
+    "yanında": [
+      "beside / next to",
+      "рядом с",
+      "жанында",
+      "بِجَانِبِ",
+      "à côté de"
+    ],
+    "sporları": [
+      "sports (plural / possessed)",
+      "виды спорта",
+      "спорт түрлөрү",
+      "الرِّيَاضَات",
+      "les sports"
+    ],
+    "ailemle": [
+      "with my family",
+      "с моей семьёй",
+      "үй-бүлөм менен",
+      "مَعَ أُسْرَتِي",
+      "avec ma famille"
+    ],
+    "piknik": [
+      "picnic",
+      "пикник",
+      "пикник",
+      "نُزْهَة",
+      "pique-nique"
+    ],
+    "açık": [
+      "open / clear",
+      "открытый / ясный",
+      "ачык",
+      "مَفْتُوح / صَافٍ",
+      "ouvert / dégagé"
+    ],
+    "hava": [
+      "air / weather",
+      "воздух / погода",
+      "аба / аба ырайы",
+      "هَوَاء / طَقْس",
+      "air / temps"
+    ],
+    "pazar": [
+      "Sunday / market",
+      "воскресенье / рынок",
+      "жекшемби / базар",
+      "الأَحَد / سُوق",
+      "dimanche / marché"
+    ],
+    "birlikte": [
+      "together",
+      "вместе",
+      "бирге",
+      "مَعًا",
+      "ensemble"
+    ],
+    "gidelim": [
+      "let's go",
+      "пойдём / поедем",
+      "баралы",
+      "لِنَذْهَبْ",
+      "allons-y"
+    ],
+    "yürü": [
+      "walk!",
+      "иди пешком!",
+      "бас!",
+      "اِمْشِ",
+      "marche !"
+    ],
+    "sola": [
+      "to the left",
+      "налево",
+      "солго",
+      "إِلَى الْيَسَارِ",
+      "à gauche"
+    ],
+    "solda": [
+      "on the left",
+      "слева",
+      "сол жакта",
+      "عَلَى الْيَسَارِ",
+      "à gauche"
+    ],
+    "resim": [
+      "picture / drawing",
+      "рисунок / картина",
+      "сүрөт",
+      "صُورَة / رَسْم",
+      "image / dessin"
+    ],
+    "doğum": [
+      "birth",
+      "рождение",
+      "төрөлүү",
+      "وِلَادَة",
+      "naissance"
+    ],
+    "dedem": [
+      "my grandfather",
+      "мой дедушка",
+      "чоң атам",
+      "جَدِّي",
+      "mon grand-père"
+    ],
+    "düğün": [
+      "wedding",
+      "свадьба",
+      "үйлөнүү той",
+      "حَفْلُ زِفَاف",
+      "mariage"
+    ],
+    "için": [
+      "for / in order to",
+      "для / чтобы",
+      "үчүн",
+      "لِـ / مِنْ أَجْلِ",
+      "pour"
+    ],
+    "düğüne": [
+      "to the wedding",
+      "на свадьбу",
+      "тойго",
+      "إِلَى حَفْلِ الزِّفَافِ",
+      "au mariage"
+    ],
+    "hasta": [
+      "sick / patient",
+      "больной / пациент",
+      "оорулуу",
+      "مَرِيض",
+      "malade"
+    ],
+    "fidan": [
+      "sapling",
+      "саженец",
+      "көчөт",
+      "شَتْلَة",
+      "jeune plant"
+    ],
+    "dünyası": [
+      "its/his/her world",
+      "его / её мир",
+      "дүйнөсү",
+      "عَالَمُهُ / عَالَمُهَا",
+      "son monde"
+    ],
+    "şenliği": [
+      "festival (possessed / accusative)",
+      "праздник / фестиваль",
+      "майрамы / фестивалы",
+      "مِهْرَجَانُهُ / الْمِهْرَجَانَ",
+      "sa fête / son festival"
+    ],
+    "haftaya": [
+      "next week",
+      "на следующей неделе",
+      "кийинки жумада",
+      "الأسبوع القادم",
+      "la semaine prochaine"
+    ],
+    "buluşalım": [
+      "let's meet",
+      "давай встретимся",
+      "жолугалы",
+      "لِنَلْتَقِ",
+      "retrouvons-nous"
+    ],
+    "buluşmak": [
+      "to meet up",
+      "встречаться",
+      "жолугушуу",
+      "يلتقي",
+      "se retrouver"
+    ],
+    "buluşacağız": [
+      "we will meet",
+      "мы встретимся",
+      "жолугабыз",
+      "سَنَلْتَقِي",
+      "nous nous retrouverons"
+    ],
+    "görüşürüz": [
+      "see you",
+      "увидимся",
+      "көрүшкөнчө",
+      "إلى اللقاء",
+      "à bientôt"
+    ],
+    "görüşmek": [
+      "to meet / see each other",
+      "видеться",
+      "көрүшүү",
+      "يتقابل",
+      "se voir"
+    ],
+    "gelecek": [
+      "will come / future",
+      "придёт / будущее",
+      "келет / келечек",
+      "سيأتي / المستقبل",
+      "viendra / avenir"
+    ],
+    "geleceğim": [
+      "I will come",
+      "я приду",
+      "келем",
+      "سَآتِي",
+      "je viendrai"
+    ],
+    "geleceğiz": [
+      "we will come",
+      "мы придём",
+      "келебиз",
+      "سَنَأْتِي",
+      "nous viendrons"
+    ],
+    "gel": [
+      "come!",
+      "приходи!",
+      "кел!",
+      "تَعَالَ",
+      "viens !"
+    ],
+    "gidiyor": [
+      "is going",
+      "идёт / едет",
+      "бара жатат",
+      "يذهب الآن",
+      "va"
+    ],
+    "gidebilir": [
+      "can go",
+      "может пойти",
+      "бара алат",
+      "يستطيع الذهاب",
+      "peut aller"
+    ],
+    "gidebiliriz": [
+      "we can go",
+      "мы можем пойти",
+      "бара алабыз",
+      "يمكننا الذهاب",
+      "nous pouvons aller"
+    ],
+    "isterim": [
+      "I would like",
+      "я хочу",
+      "каалайм",
+      "أُرِيدُ",
+      "je voudrais"
+    ],
+    "istiyorum": [
+      "I want",
+      "я хочу",
+      "каалап жатам",
+      "أُرِيدُ",
+      "je veux"
+    ],
+    "ister misin": [
+      "would you like?",
+      "хочешь?",
+      "каалайсыңбы?",
+      "هَلْ تُرِيدُ؟",
+      "tu voudrais ?"
+    ],
+    "istiyor": [
+      "wants",
+      "хочет",
+      "каалайт",
+      "يُرِيدُ",
+      "veut"
+    ],
+    "yapacağım": [
+      "I will do",
+      "я сделаю",
+      "жасайм",
+      "سَأَفْعَلُ",
+      "je ferai"
+    ],
+    "yapacağız": [
+      "we will do",
+      "мы сделаем",
+      "жасайбыз",
+      "سَنَفْعَلُ",
+      "nous ferons"
+    ],
+    "yapacak": [
+      "will do",
+      "сделает",
+      "жасайт",
+      "سَيَفْعَلُ",
+      "fera"
+    ],
+    "yapalım": [
+      "let's do it",
+      "давай сделаем",
+      "жасайлы",
+      "لِنَفْعَلْ",
+      "faisons-le"
+    ],
+    "yapıyorum": [
+      "I am doing",
+      "я делаю",
+      "жасап жатам",
+      "أَفْعَلُ",
+      "je fais"
+    ],
+    "oynayacağız": [
+      "we will play",
+      "мы будем играть",
+      "ойнойбуз",
+      "سَنَلْعَبُ",
+      "nous jouerons"
+    ],
+    "oynayalım": [
+      "let's play",
+      "давай поиграем",
+      "ойнойлу",
+      "لِنَلْعَبْ",
+      "jouons"
+    ],
+    "oynayacak": [
+      "will play",
+      "будет играть",
+      "ойнойт",
+      "سَيَلْعَبُ",
+      "jouera"
+    ],
+    "gidecekler": [
+      "they will go",
+      "они пойдут",
+      "алар барышат",
+      "سَيَذْهَبُونَ",
+      "ils iront"
+    ],
+    "gelecekler": [
+      "they will come",
+      "они придут",
+      "алар келишет",
+      "سَيَأْتُونَ",
+      "ils viendront"
+    ],
+    "alacağım": [
+      "I will buy / take",
+      "я куплю / возьму",
+      "сатып алам / алам",
+      "سَأَشْتَرِي / سَآخُذُ",
+      "j'achèterai / je prendrai"
+    ],
+    "alacağız": [
+      "we will buy / take",
+      "мы купим / возьмём",
+      "сатып алабыз / алабыз",
+      "سَنَشْتَرِي / سَنَأْخُذُ",
+      "nous achèterons / prendrons"
+    ],
+    "almak": [
+      "to buy / take",
+      "покупать / брать",
+      "сатып алуу / алуу",
+      "يشتري / يأخذ",
+      "acheter / prendre"
+    ],
+    "bekle": [
+      "wait!",
+      "подожди!",
+      "күт!",
+      "اِنْتَظِرْ",
+      "attends !"
+    ],
+    "bekliyorum": [
+      "I am waiting",
+      "я жду",
+      "күтүп жатам",
+      "أَنْتَظِرُ",
+      "j'attends"
+    ],
+    "bekleyeceğim": [
+      "I will wait",
+      "я подожду",
+      "күтөм",
+      "سَأَنْتَظِرُ",
+      "j'attendrai"
+    ],
+    "hazırlık": [
+      "preparation",
+      "подготовка",
+      "даярдык",
+      "تَحْضِير",
+      "préparation"
+    ],
+    "hazırlanmak": [
+      "to get ready",
+      "готовиться",
+      "даярдануу",
+      "يَسْتَعِدُّ",
+      "se préparer"
+    ],
+    "hazırım": [
+      "I'm ready",
+      "я готов(а)",
+      "даярмын",
+      "أَنَا مُسْتَعِدّ",
+      "je suis prêt(e)"
+    ],
+    "müsait": [
+      "available / free",
+      "свободен / доступен",
+      "бош / убактысы бар",
+      "مُتَاح",
+      "disponible"
+    ],
+    "meşgul": [
+      "busy",
+      "занят",
+      "алек / бош эмес",
+      "مَشْغُول",
+      "occupé"
+    ],
+    "randevu": [
+      "appointment",
+      "встреча / запись",
+      "жолугушуу / кабыл алууга жазылуу",
+      "مَوْعِد",
+      "rendez-vous"
+    ],
+    "davet": [
+      "invitation",
+      "приглашение",
+      "чакыруу",
+      "دَعْوَة",
+      "invitation"
+    ],
+    "davet etmek": [
+      "to invite",
+      "приглашать",
+      "чакыруу",
+      "يَدْعُو",
+      "inviter"
+    ],
+    "gezi": [
+      "excursion / trip",
+      "экскурсия / поездка",
+      "саякат / экскурсия",
+      "رِحْلَة",
+      "excursion"
+    ],
+    "seyahat": [
+      "travel / journey",
+      "путешествие",
+      "саякат",
+      "سَفَر",
+      "voyage"
+    ],
+    "otobüs": [
+      "bus",
+      "автобус",
+      "автобус",
+      "حَافِلَة",
+      "bus"
+    ],
+    "araba": [
+      "car",
+      "машина",
+      "унаа",
+      "سَيَّارَة",
+      "voiture"
+    ],
+    "tren": [
+      "train",
+      "поезд",
+      "поезд",
+      "قِطَار",
+      "train"
+    ],
+    "bisiklet": [
+      "bicycle",
+      "велосипед",
+      "велосипед",
+      "دَرَّاجَة",
+      "vélo"
+    ],
+    "yüzmek": [
+      "to swim",
+      "плавать",
+      "сүзүү",
+      "يَسْبَحُ",
+      "nager"
+    ],
+    "koşmak": [
+      "to run",
+      "бегать",
+      "чуркоо",
+      "يَرْكُضُ",
+      "courir"
+    ],
+    "yürümek": [
+      "to walk",
+      "ходить пешком",
+      "жөө басуу",
+      "يَمْشِي",
+      "marcher"
+    ]
+  },
+  "validation": {
+    "entryCount": 86,
+    "invalidEntries": [],
+    "contextVerified": false,
+    "integratedIntoPresentation": false
+  }
+}
