@@ -1,14 +1,41 @@
 {
   "unit": "Lise A2 2. Ünite",
   "source": "LİSE A2 2. ÜNİTE.pptx",
-  "sourceSlides": 171,
+  "totalSlides": 171,
   "excludedVocabularySlides": 67,
-  "contentSlides": 104,
-  "media": {
+  "remainingSlides": 104,
+  "detectedRedAnswerTextRuns": 302,
+  "slidesWithLinkedMedia": 25,
+  "mediaAssets": {
     "wav": 16,
     "mp3": 1,
     "mp4": 1
   },
-  "status": "source_audit_only",
-  "next": "Slide-level answer overlays, audio continuation mapping and existing slideshow design integration. Not published yet."
+  "sharedMediaSlides": {
+    "media1.wav": [
+      10,
+      12,
+      15,
+      18
+    ],
+    "media10.wav": [
+      74,
+      76
+    ],
+    "media11.wav": [
+      91,
+      94,
+      97
+    ],
+    "media12.wav": [
+      108,
+      110
+    ],
+    "media17.wav": [
+      135,
+      137
+    ]
+  },
+  "status": "audit_completed; rendering and precise audio segment timing pending",
+  "warning": "Red runs require overlay validation; shape and circle annotations and precise audio offsets not yet verified."
 }
