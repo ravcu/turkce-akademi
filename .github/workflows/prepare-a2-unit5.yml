@@ -6,13 +6,15 @@ on:
       - '.github/workflows/prepare-a2-unit5.yml'
   workflow_dispatch:
 permissions:
-  contents: write
+  contents: read
 concurrency:
   group: prepare-a2-unit5
   cancel-in-progress: false
 jobs:
   prepare:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
       - name: Install Turkish OCR
