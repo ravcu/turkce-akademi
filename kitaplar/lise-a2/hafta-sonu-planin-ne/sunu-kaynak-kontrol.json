@@ -36,7 +36,7 @@
       137
     ]
   },
-  "status": "local_preview_generated_not_published",
+  "status": "local_answer_cleanup_only_not_published",
   "warning": "Red runs require overlay validation; shape and circle annotations and precise audio offsets not yet verified.",
   "localPreview": {
     "slides": 104,
@@ -51,5 +51,20 @@
       "Five-language clickable dictionary not integrated",
       "Not yet deployed on GitHub Pages"
     ]
+  },
+  "latestLocalWork": {
+    "date": "2026-10-23",
+    "answerCleanup": "Second-pass red ink halo cleanup applied to local presentation slides",
+    "inspectedSourceSlides": [
+      7,
+      80,
+      87,
+      121,
+      140
+    ],
+    "localArchive": "A2_2_Unite_Sunu_Modu_Cevap_Iyilestirme.zip",
+    "manualApproval": false,
+    "dictionaryFiveLanguages": false,
+    "githubPagesPublished": false
   }
 }
