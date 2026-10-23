@@ -324,15 +324,6 @@
     },
     {
       "sequence": 26,
-      "sourceSlide": 52,
-      "image": "native-v2/slides/026.webp",
-      "sourcePart": 1,
-      "sourcePartSlide": 52,
-      "imageWidth": 2400,
-      "imageHeight": 1350
-    },
-    {
-      "sequence": 27,
       "sourceSlide": 53,
       "image": "native-v2/slides/027.webp",
       "sourcePart": 1,
@@ -341,7 +332,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 28,
+      "sequence": 27,
       "sourceSlide": 55,
       "image": "native-v2/slides/028.webp",
       "answerImage": "native-v2/answers/028.webp",
@@ -351,7 +342,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 29,
+      "sequence": 28,
       "sourceSlide": 56,
       "image": "native-v2/slides/029.webp",
       "answerImage": "native-v2/answers/029.webp",
@@ -361,7 +352,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 30,
+      "sequence": 29,
       "sourceSlide": 57,
       "image": "native-v2/slides/030.webp",
       "answerImage": "native-v2/answers/030.webp",
@@ -371,7 +362,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 31,
+      "sequence": 30,
       "sourceSlide": 58,
       "image": "native-v2/slides/031.webp",
       "answerImage": "native-v2/answers/031.webp",
@@ -381,7 +372,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 32,
+      "sequence": 31,
       "sourceSlide": 59,
       "image": "native-v2/slides/032.webp",
       "answerImage": "native-v2/answers/032.webp",
@@ -391,7 +382,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 33,
+      "sequence": 32,
       "sourceSlide": 60,
       "image": "native-v2/slides/033.webp",
       "sourcePart": 1,
@@ -412,7 +403,7 @@
       ]
     },
     {
-      "sequence": 34,
+      "sequence": 33,
       "sourceSlide": 64,
       "image": "native-v2/slides/034.webp",
       "sourcePart": 1,
@@ -421,7 +412,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 35,
+      "sequence": 34,
       "sourceSlide": 67,
       "image": "native-v2/slides/035.webp",
       "answerImage": "native-v2/answers/035.webp",
@@ -431,7 +422,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 36,
+      "sequence": 35,
       "sourceSlide": 70,
       "image": "native-v2/slides/036.webp",
       "sourcePart": 1,
@@ -440,7 +431,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 37,
+      "sequence": 36,
       "sourceSlide": 71,
       "image": "native-v2/slides/037.webp",
       "sourcePart": 1,
@@ -469,7 +460,7 @@
       ]
     },
     {
-      "sequence": 38,
+      "sequence": 37,
       "sourceSlide": 72,
       "image": "native-v2/slides/038.webp",
       "sourcePart": 1,
@@ -490,7 +481,7 @@
       ]
     },
     {
-      "sequence": 39,
+      "sequence": 38,
       "sourceSlide": 74,
       "image": "native-v2/slides/039.webp",
       "sourcePart": 1,
@@ -511,7 +502,7 @@
       ]
     },
     {
-      "sequence": 40,
+      "sequence": 39,
       "sourceSlide": 76,
       "image": "native-v2/slides/040.webp",
       "sourcePart": 1,
@@ -532,7 +523,7 @@
       ]
     },
     {
-      "sequence": 41,
+      "sequence": 40,
       "sourceSlide": 78,
       "image": "native-v2/slides/041.webp",
       "sourcePart": 1,
@@ -541,7 +532,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 42,
+      "sequence": 41,
       "sourceSlide": 79,
       "image": "native-v2/slides/042.webp",
       "sourcePart": 1,
@@ -550,7 +541,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 43,
+      "sequence": 42,
       "sourceSlide": 80,
       "image": "native-v2/slides/043.webp",
       "answerImage": "native-v2/answers/043.webp",
@@ -560,7 +551,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 44,
+      "sequence": 43,
       "sourceSlide": 81,
       "image": "native-v2/slides/044.webp",
       "answerImage": "native-v2/answers/044.webp",
@@ -570,7 +561,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 45,
+      "sequence": 44,
       "sourceSlide": 84,
       "image": "native-v2/slides/045.webp",
       "answerImage": "native-v2/answers/045.webp",
@@ -580,7 +571,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 46,
+      "sequence": 45,
       "sourceSlide": 85,
       "image": "native-v2/slides/046.webp",
       "answerImage": "native-v2/answers/046.webp",
@@ -590,7 +581,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 47,
+      "sequence": 46,
       "sourceSlide": 86,
       "image": "native-v2/slides/047.webp",
       "sourcePart": 2,
@@ -599,7 +590,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 48,
+      "sequence": 47,
       "sourceSlide": 87,
       "image": "native-v2/slides/048.webp",
       "answerImage": "native-v2/answers/048.webp",
@@ -609,7 +600,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 49,
+      "sequence": 48,
       "sourceSlide": 88,
       "image": "native-v2/slides/049.webp",
       "answerImage": "native-v2/answers/049.webp",
@@ -619,7 +610,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 50,
+      "sequence": 49,
       "sourceSlide": 89,
       "image": "native-v2/slides/050.webp",
       "answerImage": "native-v2/answers/050.webp",
@@ -629,7 +620,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 51,
+      "sequence": 50,
       "sourceSlide": 90,
       "image": "native-v2/slides/051.webp",
       "sourcePart": 2,
@@ -638,7 +629,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 52,
+      "sequence": 51,
       "sourceSlide": 91,
       "image": "native-v2/slides/052.webp",
       "sourcePart": 2,
@@ -659,7 +650,7 @@
       ]
     },
     {
-      "sequence": 53,
+      "sequence": 52,
       "sourceSlide": 94,
       "image": "native-v2/slides/053.webp",
       "sourcePart": 2,
@@ -680,7 +671,7 @@
       ]
     },
     {
-      "sequence": 54,
+      "sequence": 53,
       "sourceSlide": 97,
       "image": "native-v2/slides/054.webp",
       "sourcePart": 2,
@@ -701,7 +692,7 @@
       ]
     },
     {
-      "sequence": 55,
+      "sequence": 54,
       "sourceSlide": 101,
       "image": "native-v2/slides/055.webp",
       "answerImage": "native-v2/answers/055.webp",
@@ -711,7 +702,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 56,
+      "sequence": 55,
       "sourceSlide": 102,
       "image": "native-v2/slides/056.webp",
       "answerImage": "native-v2/answers/056.webp",
@@ -721,7 +712,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 57,
+      "sequence": 56,
       "sourceSlide": 103,
       "image": "native-v2/slides/057.webp",
       "sourcePart": 2,
@@ -730,7 +721,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 58,
+      "sequence": 57,
       "sourceSlide": 104,
       "image": "native-v2/slides/058.webp",
       "answerImage": "native-v2/answers/058.webp",
@@ -740,7 +731,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 59,
+      "sequence": 58,
       "sourceSlide": 105,
       "image": "native-v2/slides/059.webp",
       "answerImage": "native-v2/answers/059.webp",
@@ -750,7 +741,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 60,
+      "sequence": 59,
       "sourceSlide": 108,
       "image": "native-v2/slides/060.webp",
       "answerImage": "native-v2/answers/060.webp",
@@ -772,7 +763,7 @@
       ]
     },
     {
-      "sequence": 61,
+      "sequence": 60,
       "sourceSlide": 110,
       "image": "native-v2/slides/061.webp",
       "answerImage": "native-v2/answers/061.webp",
@@ -794,7 +785,7 @@
       ]
     },
     {
-      "sequence": 62,
+      "sequence": 61,
       "sourceSlide": 112,
       "image": "native-v2/slides/062.webp",
       "sourcePart": 2,
@@ -803,7 +794,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 63,
+      "sequence": 62,
       "sourceSlide": 113,
       "image": "native-v2/slides/063.webp",
       "answerImage": "native-v2/answers/063.webp",
@@ -813,7 +804,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 64,
+      "sequence": 63,
       "sourceSlide": 115,
       "image": "native-v2/slides/064.webp",
       "answerImage": "native-v2/answers/064.webp",
@@ -823,7 +814,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 65,
+      "sequence": 64,
       "sourceSlide": 116,
       "image": "native-v2/slides/065.webp",
       "answerImage": "native-v2/answers/065.webp",
@@ -833,7 +824,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 66,
+      "sequence": 65,
       "sourceSlide": 117,
       "image": "native-v2/slides/066.webp",
       "answerImage": "native-v2/answers/066.webp",
@@ -843,7 +834,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 67,
+      "sequence": 66,
       "sourceSlide": 118,
       "image": "native-v2/slides/067.webp",
       "answerImage": "native-v2/answers/067.webp",
@@ -853,7 +844,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 68,
+      "sequence": 67,
       "sourceSlide": 119,
       "image": "native-v2/slides/068.webp",
       "answerImage": "native-v2/answers/068.webp",
@@ -863,7 +854,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 69,
+      "sequence": 68,
       "sourceSlide": 120,
       "image": "native-v2/slides/069.webp",
       "answerImage": "native-v2/answers/069.webp",
@@ -885,7 +876,7 @@
       ]
     },
     {
-      "sequence": 70,
+      "sequence": 69,
       "sourceSlide": 121,
       "image": "native-v2/slides/070.webp",
       "answerImage": "native-v2/answers/070.webp",
@@ -895,7 +886,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 71,
+      "sequence": 70,
       "sourceSlide": 122,
       "image": "native-v2/slides/071.webp",
       "answerImage": "native-v2/answers/071.webp",
@@ -905,7 +896,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 72,
+      "sequence": 71,
       "sourceSlide": 123,
       "image": "native-v2/slides/072.webp",
       "sourcePart": 2,
@@ -914,7 +905,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 73,
+      "sequence": 72,
       "sourceSlide": 126,
       "image": "native-v2/slides/073.webp",
       "sourcePart": 2,
@@ -923,7 +914,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 74,
+      "sequence": 73,
       "sourceSlide": 129,
       "image": "native-v2/slides/074.webp",
       "answerImage": "native-v2/answers/074.webp",
@@ -933,7 +924,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 75,
+      "sequence": 74,
       "sourceSlide": 130,
       "image": "native-v2/slides/075.webp",
       "sourcePart": 2,
@@ -954,7 +945,7 @@
       ]
     },
     {
-      "sequence": 76,
+      "sequence": 75,
       "sourceSlide": 131,
       "image": "native-v2/slides/076.webp",
       "sourcePart": 2,
@@ -975,7 +966,7 @@
       ]
     },
     {
-      "sequence": 77,
+      "sequence": 76,
       "sourceSlide": 133,
       "image": "native-v2/slides/077.webp",
       "sourcePart": 2,
@@ -996,7 +987,7 @@
       ]
     },
     {
-      "sequence": 78,
+      "sequence": 77,
       "sourceSlide": 134,
       "image": "native-v2/slides/078.webp",
       "sourcePart": 2,
@@ -1005,7 +996,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 79,
+      "sequence": 78,
       "sourceSlide": 135,
       "image": "native-v2/slides/079.webp",
       "sourcePart": 2,
@@ -1026,7 +1017,7 @@
       ]
     },
     {
-      "sequence": 80,
+      "sequence": 79,
       "sourceSlide": 137,
       "image": "native-v2/slides/080.webp",
       "sourcePart": 2,
@@ -1047,7 +1038,7 @@
       ]
     },
     {
-      "sequence": 81,
+      "sequence": 80,
       "sourceSlide": 139,
       "image": "native-v2/slides/081.webp",
       "sourcePart": 2,
@@ -1068,7 +1059,7 @@
       ]
     },
     {
-      "sequence": 82,
+      "sequence": 81,
       "sourceSlide": 140,
       "image": "native-v2/slides/082.webp",
       "answerImage": "native-v2/answers/082.webp",
@@ -1078,7 +1069,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 83,
+      "sequence": 82,
       "sourceSlide": 142,
       "image": "native-v2/slides/083.webp",
       "answerImage": "native-v2/answers/083.webp",
@@ -1088,7 +1079,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 84,
+      "sequence": 83,
       "sourceSlide": 144,
       "image": "native-v2/slides/084.webp",
       "sourcePart": 2,
@@ -1097,7 +1088,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 85,
+      "sequence": 84,
       "sourceSlide": 145,
       "image": "native-v2/slides/085.webp",
       "answerImage": "native-v2/answers/085.webp",
@@ -1107,7 +1098,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 86,
+      "sequence": 85,
       "sourceSlide": 146,
       "image": "native-v2/slides/086.webp",
       "sourcePart": 2,
@@ -1116,7 +1107,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 87,
+      "sequence": 86,
       "sourceSlide": 148,
       "image": "native-v2/slides/087.webp",
       "sourcePart": 2,
@@ -1125,7 +1116,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 88,
+      "sequence": 87,
       "sourceSlide": 149,
       "image": "native-v2/slides/088.webp",
       "answerImage": "native-v2/answers/088.webp",
@@ -1135,7 +1126,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 89,
+      "sequence": 88,
       "sourceSlide": 150,
       "image": "native-v2/slides/089.webp",
       "answerImage": "native-v2/answers/089.webp",
@@ -1145,7 +1136,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 90,
+      "sequence": 89,
       "sourceSlide": 151,
       "image": "native-v2/slides/090.webp",
       "answerImage": "native-v2/answers/090.webp",
@@ -1155,7 +1146,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 91,
+      "sequence": 90,
       "sourceSlide": 152,
       "image": "native-v2/slides/091.webp",
       "answerImage": "native-v2/answers/091.webp",
@@ -1165,7 +1156,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 92,
+      "sequence": 91,
       "sourceSlide": 153,
       "image": "native-v2/slides/092.webp",
       "sourcePart": 2,
@@ -1174,7 +1165,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 93,
+      "sequence": 92,
       "sourceSlide": 154,
       "image": "native-v2/slides/093.webp",
       "sourcePart": 2,
@@ -1183,7 +1174,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 94,
+      "sequence": 93,
       "sourceSlide": 155,
       "image": "native-v2/slides/094.webp",
       "sourcePart": 2,
@@ -1192,7 +1183,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 95,
+      "sequence": 94,
       "sourceSlide": 156,
       "image": "native-v2/slides/095.webp",
       "sourcePart": 2,
@@ -1201,7 +1192,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 96,
+      "sequence": 95,
       "sourceSlide": 157,
       "image": "native-v2/slides/096.webp",
       "answerImage": "native-v2/answers/096.webp",
@@ -1211,7 +1202,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 97,
+      "sequence": 96,
       "sourceSlide": 159,
       "image": "native-v2/slides/097.webp",
       "answerImage": "native-v2/answers/097.webp",
@@ -1221,7 +1212,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 98,
+      "sequence": 97,
       "sourceSlide": 160,
       "image": "native-v2/slides/098.webp",
       "sourcePart": 2,
@@ -1230,7 +1221,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 99,
+      "sequence": 98,
       "sourceSlide": 161,
       "image": "native-v2/slides/099.webp",
       "answerImage": "native-v2/answers/099.webp",
@@ -1240,7 +1231,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 100,
+      "sequence": 99,
       "sourceSlide": 162,
       "image": "native-v2/slides/100.webp",
       "answerImage": "native-v2/answers/100.webp",
@@ -1250,7 +1241,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 101,
+      "sequence": 100,
       "sourceSlide": 163,
       "image": "native-v2/slides/101.webp",
       "sourcePart": 2,
@@ -1259,7 +1250,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 102,
+      "sequence": 101,
       "sourceSlide": 166,
       "image": "native-v2/slides/102.webp",
       "sourcePart": 2,
@@ -1268,7 +1259,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 103,
+      "sequence": 102,
       "sourceSlide": 168,
       "image": "native-v2/slides/103.webp",
       "sourcePart": 2,
@@ -1277,7 +1268,7 @@
       "imageHeight": 1350
     },
     {
-      "sequence": 104,
+      "sequence": 103,
       "sourceSlide": 170,
       "image": "native-v2/slides/104.webp",
       "sourcePart": 2,
