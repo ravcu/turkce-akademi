@@ -1,0 +1,41 @@
+{
+  "sourcePowerPointSlides": 170,
+  "publishedSlides": 113,
+  "dimensions": [
+    2400,
+    1350
+  ],
+  "answerSlides": 54,
+  "nativeAudioSegments": 25,
+  "hotspots": 5600,
+  "uniqueClickTargets": 1697,
+  "languages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "missingTranslations": 0,
+  "audioDurationsValidated": true,
+  "allReferencedImagesDecoded": true,
+  "browser": {
+    "languages": [
+      "en",
+      "ru",
+      "ky",
+      "ar",
+      "fr"
+    ],
+    "lemmaAndSourceForm": true,
+    "audio": {
+      "duration": 45.496,
+      "paused": false,
+      "src": "http://127.0.0.1:8765/kitaplar/lise-a2/bir-gunum/sunum/assets/audio/007-1.mp3"
+    },
+    "stopOnPageChange": true,
+    "mobileOverflow": false,
+    "errors": []
+  },
+  "speech": "Existing A2 unit 1 recordings where available, then an installed voice in the same language; unavailable device voices are reported."
+}

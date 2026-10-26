@@ -18,10 +18,12 @@ for part in [1,2]:
  rels={e.get('Id'):posixpath.normpath('ppt/'+e.get('Target')) for e in E.fromstring(z.read('ppt/_rels/presentation.xml.rels'))};ids=pres.find('p:sldIdLst',N);count=len(ids);changes={'clean':{},'full':{}}
  for local,ref in enumerate(list(ids),1):
   path=rels[ref.get('{'+N['r']+'}id')];r=E.fromstring(z.read(path));text=' '.join(r.xpath('//a:t/text()',namespaces=N))
+  if part==1 and local==1:
+   for node in r.xpath('//a:t',namespaces=N):node.text=(node.text or '').replace('2.ÜNİTE','3.ÜNİTE').replace('2. ÜNİTE','3. ÜNİTE')
   if 'Kelime Listesi' in text or ('Türkçe kelime / ifade' in text and 'İngilizce anlamı' in text):
    excluded.append({'part':part,'slide':local,'reason':'vocabulary-list'});vocabulary.append({'part':part,'slide':local,'text':text});ids.remove(ref);continue
   # Extra English-only teaching tables are omitted; Turkish grammar tables remain.
-  if part==2 and local in [14,16]:
+  if (part==2 and local in [14,16]) or (part==1 and local in [38,59]):
    excluded.append({'part':part,'slide':local,'reason':'English-translation-table'});ids.remove(ref);continue
   rec={'sequence':len(records)+1,'part':part,'localSlide':local,'sourceSlide':offset+local,'slidePath':path,'dimensions':dims,'text':text,'audio':[],'answerShapes':[],'removedEnglish':[],'pictures':[]}
   rp=posixpath.dirname(path)+'/_rels/'+posixpath.basename(path)+'.rels';sr={e.get('Id'):e.get('Target') for e in E.fromstring(z.read(rp))} if rp in z.namelist() else {}
@@ -41,6 +43,8 @@ for part in [1,2]:
     rec['removedEnglish'].append(st);sh.getparent().remove(sh);continue
    if st.strip().lower() in ['english','i̇ngilizce','ingilizce','çeviri','translation']:
     rec['removedEnglish'].append(st);sh.getparent().remove(sh);continue
+   if part==1 and sh.tag=='{'+N['p']+'}pic' and any(sr.get(rid,'').endswith(('image36.png','image60.png')) for rid in sh.xpath('.//a:blip/@r:embed',namespaces=N)):
+    rec['removedEnglish'].append('English raster translation table');sh.getparent().remove(sh);continue
    if sh.tag=='{'+N['p']+'}pic':
     for rid in sh.xpath('.//a:blip/@r:embed',namespaces=N):
      target=posixpath.normpath(posixpath.dirname(path)+'/'+sr[rid]);rec['pictures'].append({'part':target,'sha256':hashlib.sha256(z.read(target)).hexdigest()})
@@ -48,8 +52,8 @@ for part in [1,2]:
    q=r.find('p:'+tag,N)
    if q is not None:r.remove(q)
   changes['full'][path]=E.tostring(r,xml_declaration=True,encoding='UTF-8',standalone=True)
-  for sh in list(r.xpath('//p:sp | //p:cxnSp',namespaces=N)):
-   if red(sh):
+  for sh in list(r.xpath('//p:sp | //p:cxnSp | //p:pic',namespaces=N)):
+   if red(sh) or any(sr.get(rid,'').endswith('image55.svg') for rid in sh.xpath('.//@r:embed',namespaces=N)):
     rec['answerShapes'].append({'text':' '.join(sh.xpath('.//a:t/text()',namespaces=N)),'xml':E.tostring(sh).decode()});sh.getparent().remove(sh)
   changes['clean'][path]=E.tostring(r,xml_declaration=True,encoding='UTF-8',standalone=True);records.append(rec)
  presxml=E.tostring(pres,xml_declaration=True,encoding='UTF-8',standalone=True)
