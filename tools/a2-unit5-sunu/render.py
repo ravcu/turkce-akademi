@@ -11,7 +11,7 @@ ROOT=Path(__file__).resolve().parents[2];W=ROOT.parent/'rebuild5';O=ROOT/'kitapl
 for n in ['slides','answers','audio']:(A/n).mkdir(parents=True,exist_ok=True)
 records=json.loads((W/'source-objects.json').read_text());counts={1:0,2:0}
 for r in records:r['pdfPage']=counts[r['part']];counts[r['part']]+=1
-D=json.loads((O.parent/'translations.json').read_text());keys=set(D['words'])|set(D['forms'])|set(D['phrases'])
+D=json.loads((W/'pooled-dictionary.json').read_text());keys=set(D['words'])|set(D['forms'])|set(D['phrases'])
 def norm(t):return re.sub(r'^[^\wÇĞİÖŞÜçğıöşü]+|[^\wÇĞİÖŞÜçğıöşü]+$','',unicodedata.normalize('NFC',t).replace('İ','i').replace('I','ı').lower().replace('’',"'"))
 def work(r):
  seq=r['sequence'];cache=W/f'rendered-{seq:03}.json'
