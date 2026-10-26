@@ -1,0 +1,37 @@
+{
+  "sourceSlides": 102,
+  "publishedSlideCount": 102,
+  "imageWidth": 2400,
+  "imageHeight": 1350,
+  "answerSlides": 63,
+  "audioSegments": 26,
+  "hotspots": 5564,
+  "uniqueClickTargets": 1894,
+  "translationLanguages": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "missingDictionaryTargets": 0,
+  "missingLemmaEntries": 0,
+  "allImageFilesDecoded": true,
+  "allAudioDurationsVerified": true,
+  "browser": {
+    "languages": [
+      "en",
+      "ru",
+      "ky",
+      "ar",
+      "fr"
+    ],
+    "lemmaAndForm": true,
+    "answerToggle": true,
+    "audioPlay": true,
+    "audioStopOnNavigation": true,
+    "mobileOverflow": false,
+    "pageCount": "16 / 102",
+    "errors": []
+  }
+}

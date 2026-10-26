@@ -1,42 +1,12 @@
 {
   "unit": "A2-4",
-  "phase": "source-image rendering",
+  "phase": "implementation-complete",
   "sourceSlides": 102,
   "renderedSourceSlides": 102,
   "renderWidthPx": 2400,
-  "batches": [
-    {
-      "range": "1-10",
-      "status": "local archive"
-    },
-    {
-      "range": "11-30",
-      "status": "local archive"
-    },
-    {
-      "range": "31-102",
-      "status": "local archive, 2400px WebP"
-    }
-  ],
-  "limitations": [
-    "Some red answers are baked into rendered images; separate answer-free backgrounds needed.",
-    "Audio not integrated or published.",
-    "Dictionary not integrated.",
-    "Slide image assets not yet uploaded to GitHub.",
-    "English-only list slides not yet excluded from final navigation."
-  ],
-  "published": false,
-  "localPreview": {
-    "slides": 102,
-    "embeddedAudioFiles": 20,
-    "audioLinkedSlides": 22,
-    "archive": "a2_4_sunu_birlesik_onizleme.zip",
-    "status": "local only, not uploaded to GitHub",
-    "limitations": [
-      "Answer markings baked into slide images",
-      "Audio segmentation continuity not implemented",
-      "Dictionary not integrated",
-      "Vocabulary-list slide filtering not implemented"
-    ]
-  }
+  "audioSegments": 26,
+  "answerSlides": 63,
+  "dictionaryTargets": 1894,
+  "browserChecks": "passed",
+  "releaseReady": true
 }
