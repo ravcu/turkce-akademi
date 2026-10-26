@@ -1,0 +1,33 @@
+{
+  "unit": "Lise A2 - 4. Ünite / Şimdi Haberler",
+  "status": "source-audit",
+  "sourceParts": [
+    {
+      "file": "A2 4.ünite.1.part.pptx",
+      "slides": 50,
+      "embeddedAudio": 12
+    },
+    {
+      "file": "A2 4.ünite.2.part.pptx",
+      "slides": 52,
+      "embeddedAudio": 8
+    }
+  ],
+  "totalSlidesBeforeExclusions": 102,
+  "renderWidth": 2400,
+  "requirements": {
+    "excludeVocabularyListSlides": true,
+    "removeEnglishTranslationTabs": true,
+    "answersHiddenByDefault": true,
+    "preserveRedAnswerMarks": true,
+    "continueSegmentedAudioAtSlideBoundaries": true,
+    "interactiveDictionaryLanguages": [
+      "en",
+      "ru",
+      "ky",
+      "ar",
+      "fr"
+    ]
+  },
+  "note": "Source inventory only; not a published presentation."
+}
