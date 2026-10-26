@@ -6,7 +6,7 @@
   "answerSlides": 63,
   "audioSegments": 26,
   "hotspots": 5564,
-  "uniqueClickTargets": 1894,
+  "uniqueClickTargets": 1895,
   "translationLanguages": [
     "en",
     "ru",
@@ -27,11 +27,13 @@
       "fr"
     ],
     "lemmaAndForm": true,
+    "negativeTemperature": true,
     "answerToggle": true,
     "audioPlay": true,
     "audioStopOnNavigation": true,
     "mobileOverflow": false,
     "pageCount": "16 / 102",
     "errors": []
-  }
+  },
+  "negativeTemperatureSpeech": "validated in all six languages"
 }

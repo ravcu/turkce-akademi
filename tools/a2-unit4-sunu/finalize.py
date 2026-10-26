@@ -19,6 +19,9 @@ for file in sorted(W.glob('rendered-*.json')):
   k=w['key']
   if k in noise:continue
   k=alias.get(k,k)
+  negative=re.match(r'^[-−]\s*(\d+)(.*)$',w['text'])
+  if negative:
+   value=''.join(negative.groups());k='-'+value;D['words'][k]=['minus '+value,'минус '+value,'минус '+value,'سالب '+value,'moins '+value]
   if not re.search('[a-zçğıöşü]',k):D['words'].setdefault(k,[w['text']]*5)
   if k not in D['words'] and k not in D['forms'] and k not in D['phrases']:missing[k]+=1
   w['key']=k;clean.append(w)

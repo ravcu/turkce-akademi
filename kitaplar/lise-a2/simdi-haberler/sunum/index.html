@@ -101,8 +101,8 @@
     document.getElementById('hitCount').textContent=list.length?`${list.length} kelime`:' ';
     renderAudio(s.audio);const video=document.getElementById('toolbarVideo');video.hidden=!s.videoUrl;if(s.videoUrl)video.href=s.videoUrl;renderAnswers();document.getElementById('translationPanel').querySelector('.empty').style.display='grid';document.getElementById('translationPanel').querySelectorAll('.entry-content').forEach(n=>n.remove());
   }
-  function cleanText(text){return String(text??'').replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim()}
-  function normalized(text){return cleanText(text).normalize('NFC').toLocaleLowerCase('tr-TR').replace(/[’‘]/g,"'").replace(/^[^\p{L}\p{N}]+|[^\p{L}\p{N}]+$/gu,'')}
+  function cleanText(text){return String(text??'').replace(/(^|\s)[\-−–—]+(?=\s*[^\d\s])/g,'$1').replace(/\s+/g,' ').trim()}
+  function normalized(text){return cleanText(text).normalize('NFC').toLocaleLowerCase('tr-TR').replace(/[’‘]/g,"'").replace(/^[^\p{L}\p{N}\-−]+|[^\p{L}\p{N}]+$/gu,'')}
   function canonicalDisplay(hit){
     const canonical=String(hit.key||hit.text||'').normalize('NFC'),raw=String(hit.text||'').trim();let text=raw||canonical;
     if(raw&&/^[A-ZÇĞİÖŞÜ]/.test(raw))text=text.replace(/^./u,c=>c.toLocaleUpperCase('tr-TR'));

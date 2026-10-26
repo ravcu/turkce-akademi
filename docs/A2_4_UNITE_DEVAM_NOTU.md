@@ -6,7 +6,7 @@
 - 102 kayıpsız WebP slayt, 2400 × 1350 piksel.
 - 63 cevap görüntüsü; kırmızı metin/daire/SVG tikleri başlangıçta gizli.
 - 26 PowerPoint ses kesiti; yerel başlangıç ve bitiş kırpma değerleri uygulandı.
-- 5.564 kelime alanı, 1.894 farklı sözlük anahtarı; EN/RU/KY/AR/FR çeviriler ve çekimli biçimlerin yalın hâlleri.
+- 5.564 kelime alanı, 1.895 farklı sözlük anahtarı; EN/RU/KY/AR/FR çeviriler ve çekimli biçimlerin yalın hâlleri.
 - Kaynaktaki iki dış video bağlantısı VİDEO düğmesiyle açılır.
 - Masaüstü/mobil, cevap düğmesi, beş dil, yalın hâl ve sayfa değişince ses durdurma kontrolleri geçti.
 

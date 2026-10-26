@@ -5,7 +5,7 @@
 - 102 slayt; her görsel 2400 × 1350 piksel, kayıpsız WebP.
 - 63 slaytta ayrı cevap görüntüsü; kırmızı metinler, daireler ve SVG tikleri başlangıçta gizlidir.
 - 26 dinleme kesiti; kaynak p14:trim başlangıç ve sondan kırpma süreleri korunur.
-- 5.564 tıklama alanı, 1.894 farklı sözlük anahtarı; beş dilde kayıt ve çekimli biçimlerin yalın hâlleri bulunur.
+- 5.564 tıklama alanı, 1.895 farklı sözlük anahtarı; beş dilde kayıt ve çekimli biçimlerin yalın hâlleri bulunur.
 - Kaynakta İngilizce kelime listesi sayfası yoktur; 102 slaytın tamamı tutulmuştur.
 - Kaynaktaki iki YouTube bağlantısı ayrı VİDEO düğmesiyle açılır.
 
