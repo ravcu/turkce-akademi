@@ -2,7 +2,7 @@
   "unit": "A2-4",
   "phase": "source-image rendering",
   "sourceSlides": 102,
-  "renderedSourceSlides": 30,
+  "renderedSourceSlides": 102,
   "renderWidthPx": 2400,
   "batches": [
     {
@@ -12,13 +12,18 @@
     {
       "range": "11-30",
       "status": "local archive"
+    },
+    {
+      "range": "31-102",
+      "status": "local archive, 2400px WebP"
     }
   ],
   "limitations": [
-    "Rendered slides include baked-in red answer markings; answer hiding requires separate clean slide renders.",
-    "Audio files not yet published.",
-    "Dictionary not yet integrated.",
-    "Slide images are not uploaded to GitHub yet."
+    "Some red answers are baked into rendered images; separate answer-free backgrounds needed.",
+    "Audio not integrated or published.",
+    "Dictionary not integrated.",
+    "Slide image assets not yet uploaded to GitHub.",
+    "English-only list slides not yet excluded from final navigation."
   ],
   "published": false
 }
