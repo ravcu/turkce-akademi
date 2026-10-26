@@ -67,7 +67,7 @@
 <body>
   <header class="topbar">
     <a class="brand" href="../../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
-    <nav class="mode-links"><a class="toplink" href="../../../">← Ana sayfaya dön</a></nav>
+    <nav class="mode-links"><a class="presentation-link" href="../dedemin-meslegi-bana-gore-mi/sunum/"><span class="presentation-icon">▣</span> 16:9 Sunum Modu <span class="presentation-arrow">↗</span></a><a class="toplink" href="../../../">← Ana sayfaya dön</a></nav>
   </header>
   <main class="shell">
     <div class="heading">
@@ -321,7 +321,7 @@ makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(
 
 <script>
 (()=>{
-  const link=document.querySelector('.mode-links a[href="#"]');
+  const link=document.querySelector('.mode-links .presentation-link');
   if(!link)return;
   let presentationFrame=null;
   link.addEventListener('click',event=>{

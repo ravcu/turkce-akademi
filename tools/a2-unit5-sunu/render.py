@@ -1,6 +1,10 @@
 """Render native slides at 2400px and extract clickable text and trimmed audio."""
 from pathlib import Path
-import json,io,subprocess,csv,re,unicodedata,concurrent.futures
+import json,io,subprocess,csv,re,unicodedata,concurrent.futures,os
+def safe(p,data):
+ with p.open("wb",buffering=0) as f:
+  for i in range(0,len(data),65536):f.write(data[i:i+65536])
+  os.fsync(f.fileno())
 import fitz
 from PIL import Image,ImageChops
 ROOT=Path(__file__).resolve().parents[2];W=ROOT.parent/'rebuild5';O=ROOT/'kitaplar/lise-a2/dedemin-meslegi-bana-gore-mi/sunum';A=O/'assets'
@@ -20,9 +24,9 @@ def work(r):
    p=d[r['pdfPage']];pix=p.get_pixmap(matrix=fitz.Matrix(2400/p.rect.width,2400/p.rect.width),alpha=False);images.append(Image.frombytes('RGB',(pix.width,pix.height),pix.samples))
  clean,full=images;
  destination=A/'slides'/f'{seq:03}.webp'
- if not destination.exists() or not destination.stat().st_size:clean.save(destination,lossless=True,method=4)
+ if not destination.exists() or not destination.stat().st_size:buf=io.BytesIO();clean.save(buf,format='WEBP',lossless=True,method=4);safe(destination,buf.getvalue())
  diff=ImageChops.difference(clean,full).convert('L').point(lambda v:255 if v>12 else 0);has=bool(diff.getbbox())
- if has and not (A/'answers'/f'{seq:03}.webp').exists():full.save(A/'answers'/f'{seq:03}.webp',lossless=True,method=4)
+ if has and not (A/'answers'/f'{seq:03}.webp').exists():buf=io.BytesIO();full.save(buf,format='WEBP',lossless=True,method=4);safe(A/'answers'/f'{seq:03}.webp',buf.getvalue())
  png=W/f'ocr-{seq:03}.png';full.save(png)
  raw=subprocess.check_output(['tesseract',str(png),'stdout','--tessdata-dir','/tmp','-l','tur','--psm','11','-c','tessedit_create_tsv=1'],stderr=subprocess.DEVNULL,env={**__import__('os').environ,'OMP_THREAD_LIMIT':'1'}).decode();png.unlink();(W/f'ocr-{seq:03}.tsv').write_text(raw)
  spots=[]
@@ -37,7 +41,7 @@ def work(r):
  s={'sequence':seq,'sourceSlide':r['sourceSlide'],'sourcePart':r['part'],'sourcePartSlide':r['localSlide'],'image':f'assets/slides/{seq:03}.webp','imageWidth':2400,'imageHeight':1350}
  if has:s['answerImage']=f'assets/answers/{seq:03}.webp'
  for i,a in enumerate(r['audio'],1):
-  path=f'assets/audio/{seq:03}-{i}.mp3';temporary=W/f'audio-{seq:03}-{i}.mp3';subprocess.run(['ffmpeg','-v','error','-y','-ss',str(a['start']),'-i',a['file'],'-t',str(a['end']-a['start']),'-vn','-c:a','libmp3lame','-b:a','128k',str(temporary)],check=True);temporary.replace(O/path)
+  path=f'assets/audio/{seq:03}-{i}.mp3';temporary=W/f'audio-{seq:03}-{i}.mp3';data=subprocess.check_output(['ffmpeg','-v','error','-ss',str(a['start']),'-i',a['file'],'-t',str(a['end']-a['start']),'-vn','-c:a','libmp3lame','-b:a','128k','-f','mp3','pipe:1']);safe(O/path,data)
   duration=float(subprocess.check_output(['ffprobe','-v','error','-show_entries','format=duration','-of','default=nw=1:nk=1',str(O/path)]));assert abs(duration-(a['end']-a['start']))<.12
   s.setdefault('audio',[]).append(path);s.setdefault('audioSegments',[]).append({'src':path,'sourceStart':a['start'],'sourceEnd':a['end'],'sourceMediaSha256':a['sha256'],'publishedDuration':duration})
  cache.write_text(json.dumps([s,spots],ensure_ascii=False));return s,spots

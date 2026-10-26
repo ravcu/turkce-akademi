@@ -1,0 +1,1200 @@
+{
+  "slides": [
+    {
+      "sequence": 1,
+      "sourceSlide": 1,
+      "sourcePart": 1,
+      "sourcePartSlide": 1,
+      "image": "assets/slides/001.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 2,
+      "sourceSlide": 2,
+      "sourcePart": 1,
+      "sourcePartSlide": 2,
+      "image": "assets/slides/002.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 3,
+      "sourceSlide": 3,
+      "sourcePart": 1,
+      "sourcePartSlide": 3,
+      "image": "assets/slides/003.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/003.webp"
+    },
+    {
+      "sequence": 4,
+      "sourceSlide": 4,
+      "sourcePart": 1,
+      "sourcePartSlide": 4,
+      "image": "assets/slides/004.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 5,
+      "sourceSlide": 5,
+      "sourcePart": 1,
+      "sourcePartSlide": 5,
+      "image": "assets/slides/005.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/005.webp"
+    },
+    {
+      "sequence": 6,
+      "sourceSlide": 6,
+      "sourcePart": 1,
+      "sourcePartSlide": 6,
+      "image": "assets/slides/006.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/006.webp",
+      "audio": [
+        "assets/audio/006-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/006-1.mp3",
+          "sourceStart": 15.3,
+          "sourceEnd": 75.5000002,
+          "sourceMediaSha256": "5a453f1f588c5c2119c2fbe56302e7b81f8cdc89657b91e079f348f8e6b96fbd",
+          "publishedDuration": 60.24
+        }
+      ]
+    },
+    {
+      "sequence": 7,
+      "sourceSlide": 7,
+      "sourcePart": 1,
+      "sourcePartSlide": 7,
+      "image": "assets/slides/007.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/007.webp",
+      "audio": [
+        "assets/audio/007-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/007-1.mp3",
+          "sourceStart": 75.5,
+          "sourceEnd": 97.65000020000001,
+          "sourceMediaSha256": "5a453f1f588c5c2119c2fbe56302e7b81f8cdc89657b91e079f348f8e6b96fbd",
+          "publishedDuration": 22.176
+        }
+      ]
+    },
+    {
+      "sequence": 8,
+      "sourceSlide": 8,
+      "sourcePart": 1,
+      "sourcePartSlide": 8,
+      "image": "assets/slides/008.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/008.webp",
+      "audio": [
+        "assets/audio/008-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/008-1.mp3",
+          "sourceStart": 98.0,
+          "sourceEnd": 168.69600020000001,
+          "sourceMediaSha256": "5a453f1f588c5c2119c2fbe56302e7b81f8cdc89657b91e079f348f8e6b96fbd",
+          "publishedDuration": 70.728
+        }
+      ]
+    },
+    {
+      "sequence": 9,
+      "sourceSlide": 9,
+      "sourcePart": 1,
+      "sourcePartSlide": 9,
+      "image": "assets/slides/009.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/009.webp"
+    },
+    {
+      "sequence": 10,
+      "sourceSlide": 10,
+      "sourcePart": 1,
+      "sourcePartSlide": 10,
+      "image": "assets/slides/010.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/010.webp"
+    },
+    {
+      "sequence": 11,
+      "sourceSlide": 11,
+      "sourcePart": 1,
+      "sourcePartSlide": 11,
+      "image": "assets/slides/011.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/011.webp"
+    },
+    {
+      "sequence": 12,
+      "sourceSlide": 12,
+      "sourcePart": 1,
+      "sourcePartSlide": 12,
+      "image": "assets/slides/012.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/012.webp"
+    },
+    {
+      "sequence": 13,
+      "sourceSlide": 13,
+      "sourcePart": 1,
+      "sourcePartSlide": 13,
+      "image": "assets/slides/013.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/013.webp",
+      "audio": [
+        "assets/audio/013-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/013-1.mp3",
+          "sourceStart": 16.248,
+          "sourceEnd": 28.7879999,
+          "sourceMediaSha256": "c69279238ca4bf408d91656ea363646cffb796848b20106f9e3c6d82c9a74117",
+          "publishedDuration": 12.576
+        }
+      ]
+    },
+    {
+      "sequence": 14,
+      "sourceSlide": 14,
+      "sourcePart": 1,
+      "sourcePartSlide": 14,
+      "image": "assets/slides/014.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 15,
+      "sourceSlide": 15,
+      "sourcePart": 1,
+      "sourcePartSlide": 15,
+      "image": "assets/slides/015.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 16,
+      "sourceSlide": 16,
+      "sourcePart": 1,
+      "sourcePartSlide": 16,
+      "image": "assets/slides/016.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/016-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/016-1.mp3",
+          "sourceStart": 17.5,
+          "sourceEnd": 67.61,
+          "sourceMediaSha256": "5598659c876578ddc0a7351fff3995970606867b21ae1695b162eaa5dc59c6c5",
+          "publishedDuration": 50.136
+        }
+      ]
+    },
+    {
+      "sequence": 17,
+      "sourceSlide": 17,
+      "sourcePart": 1,
+      "sourcePartSlide": 17,
+      "image": "assets/slides/017.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/017-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/017-1.mp3",
+          "sourceStart": 15.0,
+          "sourceEnd": 40.011625,
+          "sourceMediaSha256": "1803be333fac869afe67138ff10d3b91cf90cb71ab29023eb991688aac04fd66",
+          "publishedDuration": 25.056
+        }
+      ]
+    },
+    {
+      "sequence": 18,
+      "sourceSlide": 18,
+      "sourcePart": 1,
+      "sourcePartSlide": 18,
+      "image": "assets/slides/018.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/018.webp"
+    },
+    {
+      "sequence": 19,
+      "sourceSlide": 19,
+      "sourcePart": 1,
+      "sourcePartSlide": 19,
+      "image": "assets/slides/019.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/019.webp"
+    },
+    {
+      "sequence": 20,
+      "sourceSlide": 20,
+      "sourcePart": 1,
+      "sourcePartSlide": 20,
+      "image": "assets/slides/020.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/020.webp",
+      "audio": [
+        "assets/audio/020-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/020-1.mp3",
+          "sourceStart": 16.056,
+          "sourceEnd": 37.0000004,
+          "sourceMediaSha256": "1c241db7c1525923d12f336aca769d02eb722122cf771b2af8fa00905baf10b8",
+          "publishedDuration": 20.976
+        }
+      ]
+    },
+    {
+      "sequence": 21,
+      "sourceSlide": 21,
+      "sourcePart": 1,
+      "sourcePartSlide": 21,
+      "image": "assets/slides/021.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/021.webp"
+    },
+    {
+      "sequence": 22,
+      "sourceSlide": 22,
+      "sourcePart": 1,
+      "sourcePartSlide": 22,
+      "image": "assets/slides/022.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/022.webp",
+      "audio": [
+        "assets/audio/022-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/022-1.mp3",
+          "sourceStart": 16.4,
+          "sourceEnd": 172.9000002,
+          "sourceMediaSha256": "933b61b6754497ca670f688b7d1cab7ecc0ad5be69e580516b4049526ee48f67",
+          "publishedDuration": 156.528
+        }
+      ]
+    },
+    {
+      "sequence": 23,
+      "sourceSlide": 23,
+      "sourcePart": 1,
+      "sourcePartSlide": 23,
+      "image": "assets/slides/023.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/023.webp"
+    },
+    {
+      "sequence": 24,
+      "sourceSlide": 24,
+      "sourcePart": 1,
+      "sourcePartSlide": 24,
+      "image": "assets/slides/024.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/024.webp",
+      "audio": [
+        "assets/audio/024-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/024-1.mp3",
+          "sourceStart": 16.4,
+          "sourceEnd": 172.9000002,
+          "sourceMediaSha256": "933b61b6754497ca670f688b7d1cab7ecc0ad5be69e580516b4049526ee48f67",
+          "publishedDuration": 156.528
+        }
+      ]
+    },
+    {
+      "sequence": 25,
+      "sourceSlide": 25,
+      "sourcePart": 1,
+      "sourcePartSlide": 25,
+      "image": "assets/slides/025.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/025.webp"
+    },
+    {
+      "sequence": 26,
+      "sourceSlide": 26,
+      "sourcePart": 1,
+      "sourcePartSlide": 26,
+      "image": "assets/slides/026.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/026.webp",
+      "audio": [
+        "assets/audio/026-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/026-1.mp3",
+          "sourceStart": 14.3,
+          "sourceEnd": 34.2000002,
+          "sourceMediaSha256": "0b4141f0318a6c6e412dcafef754805ebe3bca776c2f5dfeeec3652fbed010c7",
+          "publishedDuration": 19.944
+        }
+      ]
+    },
+    {
+      "sequence": 27,
+      "sourceSlide": 27,
+      "sourcePart": 1,
+      "sourcePartSlide": 27,
+      "image": "assets/slides/027.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/027.webp"
+    },
+    {
+      "sequence": 28,
+      "sourceSlide": 28,
+      "sourcePart": 1,
+      "sourcePartSlide": 28,
+      "image": "assets/slides/028.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/028.webp"
+    },
+    {
+      "sequence": 29,
+      "sourceSlide": 29,
+      "sourcePart": 1,
+      "sourcePartSlide": 29,
+      "image": "assets/slides/029.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/029-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/029-1.mp3",
+          "sourceStart": 20.2,
+          "sourceEnd": 55.749063,
+          "sourceMediaSha256": "fac27bed1bf32e89655bce0c5653e8f389df81d117ee18453cb4bb2a6bff306b",
+          "publishedDuration": 35.592
+        }
+      ]
+    },
+    {
+      "sequence": 30,
+      "sourceSlide": 30,
+      "sourcePart": 1,
+      "sourcePartSlide": 30,
+      "image": "assets/slides/030.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/030-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/030-1.mp3",
+          "sourceStart": 22.1,
+          "sourceEnd": 47.3999999,
+          "sourceMediaSha256": "f322fd47f3a37c2cbad0d819d388307f00eb5c31d92e650281a3eb1758516343",
+          "publishedDuration": 25.344
+        }
+      ]
+    },
+    {
+      "sequence": 31,
+      "sourceSlide": 31,
+      "sourcePart": 1,
+      "sourcePartSlide": 31,
+      "image": "assets/slides/031.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 32,
+      "sourceSlide": 32,
+      "sourcePart": 1,
+      "sourcePartSlide": 32,
+      "image": "assets/slides/032.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 33,
+      "sourceSlide": 33,
+      "sourcePart": 1,
+      "sourcePartSlide": 33,
+      "image": "assets/slides/033.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/033.webp"
+    },
+    {
+      "sequence": 34,
+      "sourceSlide": 34,
+      "sourcePart": 1,
+      "sourcePartSlide": 34,
+      "image": "assets/slides/034.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/034-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/034-1.mp3",
+          "sourceStart": 15.04,
+          "sourceEnd": 34.4220004,
+          "sourceMediaSha256": "6e689e7bd7bdd1b9d2c87e70ebae52eb48140f9540dc488dc426e784f5cdf1c1",
+          "publishedDuration": 19.416
+        }
+      ]
+    },
+    {
+      "sequence": 35,
+      "sourceSlide": 35,
+      "sourcePart": 1,
+      "sourcePartSlide": 35,
+      "image": "assets/slides/035.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/035-1.mp3",
+        "assets/audio/035-2.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/035-1.mp3",
+          "sourceStart": 16.3,
+          "sourceEnd": 39.1320002,
+          "sourceMediaSha256": "d9272dc5d2b16adfb413e6f670f2a92cc327a81b8aa02bbf16d971730d5b6659",
+          "publishedDuration": 22.872
+        },
+        {
+          "src": "assets/audio/035-2.mp3",
+          "sourceStart": 16.0,
+          "sourceEnd": 46.380000499999994,
+          "sourceMediaSha256": "5d5fdaac6678548308ada445fa968aea436aaf3b1060840e5b1cae7ca0ce815a",
+          "publishedDuration": 30.408
+        }
+      ]
+    },
+    {
+      "sequence": 36,
+      "sourceSlide": 36,
+      "sourcePart": 1,
+      "sourcePartSlide": 36,
+      "image": "assets/slides/036.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/036-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/036-1.mp3",
+          "sourceStart": 15.5,
+          "sourceEnd": 50.8640004,
+          "sourceMediaSha256": "12ac3d341b2dddcb5b289fedfdef34bc0e2b87bb60d7f09b57e2f684c7a2cb05",
+          "publishedDuration": 35.4
+        }
+      ]
+    },
+    {
+      "sequence": 37,
+      "sourceSlide": 37,
+      "sourcePart": 1,
+      "sourcePartSlide": 37,
+      "image": "assets/slides/037.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 38,
+      "sourceSlide": 38,
+      "sourcePart": 1,
+      "sourcePartSlide": 38,
+      "image": "assets/slides/038.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 39,
+      "sourceSlide": 39,
+      "sourcePart": 1,
+      "sourcePartSlide": 39,
+      "image": "assets/slides/039.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 40,
+      "sourceSlide": 40,
+      "sourcePart": 1,
+      "sourcePartSlide": 40,
+      "image": "assets/slides/040.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 41,
+      "sourceSlide": 41,
+      "sourcePart": 1,
+      "sourcePartSlide": 41,
+      "image": "assets/slides/041.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 42,
+      "sourceSlide": 42,
+      "sourcePart": 1,
+      "sourcePartSlide": 42,
+      "image": "assets/slides/042.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/042.webp"
+    },
+    {
+      "sequence": 43,
+      "sourceSlide": 43,
+      "sourcePart": 1,
+      "sourcePartSlide": 43,
+      "image": "assets/slides/043.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/043.webp"
+    },
+    {
+      "sequence": 44,
+      "sourceSlide": 44,
+      "sourcePart": 1,
+      "sourcePartSlide": 44,
+      "image": "assets/slides/044.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 45,
+      "sourceSlide": 45,
+      "sourcePart": 1,
+      "sourcePartSlide": 45,
+      "image": "assets/slides/045.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 46,
+      "sourceSlide": 46,
+      "sourcePart": 1,
+      "sourcePartSlide": 46,
+      "image": "assets/slides/046.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/046-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/046-1.mp3",
+          "sourceStart": 17.62,
+          "sourceEnd": 80.9740004,
+          "sourceMediaSha256": "48198ad155b191474549ded6d8df7e8bf26ef7f1d437a69864fc4326e6d9c918",
+          "publishedDuration": 63.384
+        }
+      ]
+    },
+    {
+      "sequence": 47,
+      "sourceSlide": 47,
+      "sourcePart": 1,
+      "sourcePartSlide": 47,
+      "image": "assets/slides/047.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/047-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/047-1.mp3",
+          "sourceStart": 81.386,
+          "sourceEnd": 126.05000039999999,
+          "sourceMediaSha256": "48198ad155b191474549ded6d8df7e8bf26ef7f1d437a69864fc4326e6d9c918",
+          "publishedDuration": 44.688
+        }
+      ]
+    },
+    {
+      "sequence": 48,
+      "sourceSlide": 48,
+      "sourcePart": 1,
+      "sourcePartSlide": 48,
+      "image": "assets/slides/048.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/048-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/048-1.mp3",
+          "sourceStart": 126.518,
+          "sourceEnd": 170.904542,
+          "sourceMediaSha256": "48198ad155b191474549ded6d8df7e8bf26ef7f1d437a69864fc4326e6d9c918",
+          "publishedDuration": 44.424
+        }
+      ]
+    },
+    {
+      "sequence": 49,
+      "sourceSlide": 49,
+      "sourcePart": 1,
+      "sourcePartSlide": 49,
+      "image": "assets/slides/049.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/049.webp"
+    },
+    {
+      "sequence": 50,
+      "sourceSlide": 50,
+      "sourcePart": 1,
+      "sourcePartSlide": 50,
+      "image": "assets/slides/050.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 51,
+      "sourceSlide": 51,
+      "sourcePart": 1,
+      "sourcePartSlide": 51,
+      "image": "assets/slides/051.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/051.webp"
+    },
+    {
+      "sequence": 52,
+      "sourceSlide": 52,
+      "sourcePart": 1,
+      "sourcePartSlide": 52,
+      "image": "assets/slides/052.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 53,
+      "sourceSlide": 53,
+      "sourcePart": 2,
+      "sourcePartSlide": 1,
+      "image": "assets/slides/053.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/053-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/053-1.mp3",
+          "sourceStart": 15.268,
+          "sourceEnd": 74.885229,
+          "sourceMediaSha256": "90f091e4455a39303d21fad8c2098264739564dff94f1dd80f307777d58764a0",
+          "publishedDuration": 59.664
+        }
+      ]
+    },
+    {
+      "sequence": 54,
+      "sourceSlide": 54,
+      "sourcePart": 2,
+      "sourcePartSlide": 2,
+      "image": "assets/slides/054.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 55,
+      "sourceSlide": 55,
+      "sourcePart": 2,
+      "sourcePartSlide": 3,
+      "image": "assets/slides/055.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 56,
+      "sourceSlide": 56,
+      "sourcePart": 2,
+      "sourcePartSlide": 4,
+      "image": "assets/slides/056.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/056.webp"
+    },
+    {
+      "sequence": 57,
+      "sourceSlide": 57,
+      "sourcePart": 2,
+      "sourcePartSlide": 5,
+      "image": "assets/slides/057.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/057.webp"
+    },
+    {
+      "sequence": 58,
+      "sourceSlide": 58,
+      "sourcePart": 2,
+      "sourcePartSlide": 6,
+      "image": "assets/slides/058.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/058.webp",
+      "audio": [
+        "assets/audio/058-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/058-1.mp3",
+          "sourceStart": 18.095,
+          "sourceEnd": 192.961354,
+          "sourceMediaSha256": "0e740d9b35774ab9bfed7c92badee86bac7bf29491f79ada6645ac1f6b56abe8",
+          "publishedDuration": 174.912
+        }
+      ]
+    },
+    {
+      "sequence": 59,
+      "sourceSlide": 59,
+      "sourcePart": 2,
+      "sourcePartSlide": 7,
+      "image": "assets/slides/059.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/059.webp"
+    },
+    {
+      "sequence": 60,
+      "sourceSlide": 60,
+      "sourcePart": 2,
+      "sourcePartSlide": 8,
+      "image": "assets/slides/060.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/060.webp"
+    },
+    {
+      "sequence": 61,
+      "sourceSlide": 61,
+      "sourcePart": 2,
+      "sourcePartSlide": 9,
+      "image": "assets/slides/061.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/061.webp"
+    },
+    {
+      "sequence": 62,
+      "sourceSlide": 62,
+      "sourcePart": 2,
+      "sourcePartSlide": 10,
+      "image": "assets/slides/062.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 63,
+      "sourceSlide": 63,
+      "sourcePart": 2,
+      "sourcePartSlide": 11,
+      "image": "assets/slides/063.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/063-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/063-1.mp3",
+          "sourceStart": 17.725,
+          "sourceEnd": 80.184396,
+          "sourceMediaSha256": "9b3cc8a5d78de713b6c9e1cb8cc5c022110a96a169f15991e3303dc60e164456",
+          "publishedDuration": 62.496
+        }
+      ]
+    },
+    {
+      "sequence": 64,
+      "sourceSlide": 64,
+      "sourcePart": 2,
+      "sourcePartSlide": 12,
+      "image": "assets/slides/064.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/064-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/064-1.mp3",
+          "sourceStart": 17.5,
+          "sourceEnd": 71.7580004,
+          "sourceMediaSha256": "71666b4a3ef54a65895f99f3aec76fdbaafbd7ae5425d812854bec79306c9673",
+          "publishedDuration": 54.288
+        }
+      ]
+    },
+    {
+      "sequence": 65,
+      "sourceSlide": 65,
+      "sourcePart": 2,
+      "sourcePartSlide": 13,
+      "image": "assets/slides/065.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 66,
+      "sourceSlide": 66,
+      "sourcePart": 2,
+      "sourcePartSlide": 14,
+      "image": "assets/slides/066.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/066.webp"
+    },
+    {
+      "sequence": 67,
+      "sourceSlide": 67,
+      "sourcePart": 2,
+      "sourcePartSlide": 15,
+      "image": "assets/slides/067.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 68,
+      "sourceSlide": 68,
+      "sourcePart": 2,
+      "sourcePartSlide": 16,
+      "image": "assets/slides/068.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 69,
+      "sourceSlide": 69,
+      "sourcePart": 2,
+      "sourcePartSlide": 17,
+      "image": "assets/slides/069.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/069-1.mp3",
+        "assets/audio/069-2.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/069-1.mp3",
+          "sourceStart": 16.791,
+          "sourceEnd": 35.617188,
+          "sourceMediaSha256": "2e3362b52adcd2f2bae807c69979ceacb961c1705ecd2fbe9181f7803116c2d4",
+          "publishedDuration": 18.864
+        },
+        {
+          "src": "assets/audio/069-2.mp3",
+          "sourceStart": 17.169,
+          "sourceEnd": 37.188104,
+          "sourceMediaSha256": "bed5ba48f12d78a7e106b6f7bf044531413ea1f00743a7860be149f9d06ed5cb",
+          "publishedDuration": 20.064
+        }
+      ]
+    },
+    {
+      "sequence": 70,
+      "sourceSlide": 70,
+      "sourcePart": 2,
+      "sourcePartSlide": 18,
+      "image": "assets/slides/070.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/070-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/070-1.mp3",
+          "sourceStart": 16.803,
+          "sourceEnd": 88.245688,
+          "sourceMediaSha256": "c4214d0a8ff0bed4f6324bebd53d213759b12fd0c935296825992f354d8f16e8",
+          "publishedDuration": 71.472
+        }
+      ]
+    },
+    {
+      "sequence": 71,
+      "sourceSlide": 71,
+      "sourcePart": 2,
+      "sourcePartSlide": 19,
+      "image": "assets/slides/071.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "audio": [
+        "assets/audio/071-1.mp3"
+      ],
+      "audioSegments": [
+        {
+          "src": "assets/audio/071-1.mp3",
+          "sourceStart": 16.213,
+          "sourceEnd": 46.600125,
+          "sourceMediaSha256": "6635b94c4090e6baae267ee76c8414e7d3b10c38225bdbfcabb493748a144a55",
+          "publishedDuration": 30.432
+        }
+      ]
+    },
+    {
+      "sequence": 72,
+      "sourceSlide": 72,
+      "sourcePart": 2,
+      "sourcePartSlide": 20,
+      "image": "assets/slides/072.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 73,
+      "sourceSlide": 73,
+      "sourcePart": 2,
+      "sourcePartSlide": 21,
+      "image": "assets/slides/073.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 74,
+      "sourceSlide": 74,
+      "sourcePart": 2,
+      "sourcePartSlide": 22,
+      "image": "assets/slides/074.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 75,
+      "sourceSlide": 75,
+      "sourcePart": 2,
+      "sourcePartSlide": 23,
+      "image": "assets/slides/075.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 76,
+      "sourceSlide": 76,
+      "sourcePart": 2,
+      "sourcePartSlide": 24,
+      "image": "assets/slides/076.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 77,
+      "sourceSlide": 77,
+      "sourcePart": 2,
+      "sourcePartSlide": 25,
+      "image": "assets/slides/077.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 78,
+      "sourceSlide": 78,
+      "sourcePart": 2,
+      "sourcePartSlide": 26,
+      "image": "assets/slides/078.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/078.webp",
+      "videoUrl": "https://www.youtube.com/watch?v=PCL8y1WSmAk"
+    },
+    {
+      "sequence": 79,
+      "sourceSlide": 79,
+      "sourcePart": 2,
+      "sourcePartSlide": 27,
+      "image": "assets/slides/079.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/079.webp"
+    },
+    {
+      "sequence": 80,
+      "sourceSlide": 80,
+      "sourcePart": 2,
+      "sourcePartSlide": 28,
+      "image": "assets/slides/080.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/080.webp"
+    },
+    {
+      "sequence": 81,
+      "sourceSlide": 81,
+      "sourcePart": 2,
+      "sourcePartSlide": 29,
+      "image": "assets/slides/081.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/081.webp"
+    },
+    {
+      "sequence": 82,
+      "sourceSlide": 82,
+      "sourcePart": 2,
+      "sourcePartSlide": 30,
+      "image": "assets/slides/082.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 83,
+      "sourceSlide": 83,
+      "sourcePart": 2,
+      "sourcePartSlide": 31,
+      "image": "assets/slides/083.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 84,
+      "sourceSlide": 84,
+      "sourcePart": 2,
+      "sourcePartSlide": 32,
+      "image": "assets/slides/084.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 85,
+      "sourceSlide": 85,
+      "sourcePart": 2,
+      "sourcePartSlide": 33,
+      "image": "assets/slides/085.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/085.webp"
+    },
+    {
+      "sequence": 86,
+      "sourceSlide": 86,
+      "sourcePart": 2,
+      "sourcePartSlide": 34,
+      "image": "assets/slides/086.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/086.webp"
+    },
+    {
+      "sequence": 87,
+      "sourceSlide": 87,
+      "sourcePart": 2,
+      "sourcePartSlide": 35,
+      "image": "assets/slides/087.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/087.webp"
+    },
+    {
+      "sequence": 88,
+      "sourceSlide": 88,
+      "sourcePart": 2,
+      "sourcePartSlide": 36,
+      "image": "assets/slides/088.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/088.webp"
+    },
+    {
+      "sequence": 89,
+      "sourceSlide": 89,
+      "sourcePart": 2,
+      "sourcePartSlide": 37,
+      "image": "assets/slides/089.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350,
+      "answerImage": "assets/answers/089.webp"
+    },
+    {
+      "sequence": 90,
+      "sourceSlide": 90,
+      "sourcePart": 2,
+      "sourcePartSlide": 38,
+      "image": "assets/slides/090.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 91,
+      "sourceSlide": 91,
+      "sourcePart": 2,
+      "sourcePartSlide": 39,
+      "image": "assets/slides/091.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 92,
+      "sourceSlide": 92,
+      "sourcePart": 2,
+      "sourcePartSlide": 40,
+      "image": "assets/slides/092.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    },
+    {
+      "sequence": 93,
+      "sourceSlide": 93,
+      "sourcePart": 2,
+      "sourcePartSlide": 41,
+      "image": "assets/slides/093.webp",
+      "imageWidth": 2400,
+      "imageHeight": 1350
+    }
+  ]
+}

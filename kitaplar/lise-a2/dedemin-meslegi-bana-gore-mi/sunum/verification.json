@@ -1,0 +1,39 @@
+{
+  "status": "implementation-complete",
+  "slides": 93,
+  "dimensions": [
+    2400,
+    1350
+  ],
+  "answerSlides": 42,
+  "audioSegments": 27,
+  "hotspots": 5206,
+  "uniqueTargets": 1748,
+  "missingTranslations": 0,
+  "missingLemmas": 0,
+  "languageOrder": [
+    "en",
+    "ru",
+    "ky",
+    "ar",
+    "fr"
+  ],
+  "nativeAudioTrimsPreserved": true,
+  "allReferencedMediaDecoded": true,
+  "browser": {
+    "slides": 93,
+    "languages": [
+      "en",
+      "ru",
+      "ky",
+      "ar",
+      "fr"
+    ],
+    "answerToggle": true,
+    "exactAudioTrims": true,
+    "audioStopOnNavigation": true,
+    "mobileOverflow": false,
+    "videoLink": true,
+    "errors": []
+  }
+}
