@@ -116,8 +116,8 @@
     const choices=[];
     for(const [phrase,entry] of Object.entries(dict.phrases||{})){
       const parts=phrase.split(/\s+/).map(normalized);if(parts.length<2)continue;
-      for(const start of candidates.filter(x=>x.token===parts[0])){
-        const paths=[];const walk=(path,pos)=>{if(pos===parts.length){if(path.some(x=>x.i===index))paths.push(path);return}const prev=path[path.length-1];candidates.filter(x=>x.token===parts[pos]&&x.i!==prev.i&&nearOnLine(prev.h,x.h)).sort((a,b)=>Math.abs(a.h.y-prev.h.y)-Math.abs(b.h.y-prev.h.y)||Math.abs(a.h.x-prev.h.x)-Math.abs(b.h.x-prev.h.x)).slice(0,8).forEach(next=>{if(!path.some(x=>x.i===next.i)&&next.h.x+next.h.w-start.h.x<.58)walk([...path,next],pos+1)})};walk([start],1);
+      for(const start of candidates.filter(x=>x.token===parts.slice(0,x.token.split(/\s+/).length).join(' '))){
+        const paths=[];const walk=(path,pos)=>{if(pos===parts.length){if(path.some(x=>x.i===index))paths.push(path);return}const prev=path[path.length-1];candidates.filter(x=>x.token===parts.slice(pos,pos+x.token.split(/\s+/).length).join(' ')&&x.i!==prev.i&&nearOnLine(prev.h,x.h)).sort((a,b)=>Math.abs(a.h.y-prev.h.y)-Math.abs(b.h.y-prev.h.y)||Math.abs(a.h.x-prev.h.x)-Math.abs(b.h.x-prev.h.x)).slice(0,8).forEach(next=>{if(!path.some(x=>x.i===next.i)&&next.h.x+next.h.w-start.h.x<.58)walk([...path,next],pos+next.token.split(/\s+/).length)})};walk([start],start.token.split(/\s+/).length);
         for(const ordered of paths){choices.push({key:phrase,text:phrase,displayText:phrase,phrase:true,indices:ordered.map(x=>x.i),score:parts.length*100-ordered.reduce((n,x,i)=>i?n+Math.max(0,x.h.x-(ordered[i-1].h.x+ordered[i-1].h.w)):n,0)})}
       }
     }

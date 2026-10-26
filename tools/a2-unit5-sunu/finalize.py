@@ -56,6 +56,7 @@ for f in D['forms'].values():
 for f in D['forms'].values():
  if f.get('lemma') in D['words']:f['lemmaTranslations']=D['words'][f['lemma']]
 used={w['key'] for row in spots for w in row};roots={D['forms'][k]['lemma'] for k in used if k in D['forms']};need=used|roots
-D['words']={k:v for k,v in D['words'].items() if k in need};D['forms']={k:v for k,v in D['forms'].items() if k in used};D['examples']={k:v for k,v in D['examples'].items() if k in need};D['phrases']={k:v for k,v in D['phrases'].items() if k in used or all(w in used for w in k.split())}
+D['words']={k:v for k,v in D['words'].items() if k in need};D['forms']={k:v for k,v in D['forms'].items() if k in used};D['examples']={k:v for k,v in D['examples'].items() if k in need};partsUsed={part for key in used for part in key.split()}
+D['phrases']={k:v for k,v in D['phrases'].items() if k in used or all(w in partsUsed for w in k.split())}
 (A/'slides.json').write_text(json.dumps({'slides':slides},ensure_ascii=False,indent=2));(A/'word-spots.json').write_text(json.dumps(spots,ensure_ascii=False));(A/'translations.json').write_text(json.dumps(D,ensure_ascii=False));(A/'answer-overlays.json').write_text('{}');(W/'missing-final.json').write_text(json.dumps(missing,ensure_ascii=False,indent=2));print('targets',len(used),'missing',len(missing));print(' | '.join(sorted(missing)))
 

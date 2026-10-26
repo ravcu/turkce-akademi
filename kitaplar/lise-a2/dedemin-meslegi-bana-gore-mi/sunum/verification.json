@@ -34,6 +34,7 @@
     "audioStopOnNavigation": true,
     "mobileOverflow": false,
     "videoLink": true,
-    "errors": []
+    "errors": [],
+    "idiomSelection": true
   }
 }
