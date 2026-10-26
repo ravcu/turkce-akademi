@@ -29,5 +29,12 @@
       "fr"
     ]
   },
-  "note": "Source inventory only; not a published presentation."
+  "note": "Source inventory only; not a published presentation.",
+  "progress": {
+    "sourceSlidesInspected": 102,
+    "slidesWithLinkedAudio": 22,
+    "slidesWithRedAnswerText": 55,
+    "textRunsIdentified": 430,
+    "status": "source extraction in progress; presentation not yet published"
+  }
 }
