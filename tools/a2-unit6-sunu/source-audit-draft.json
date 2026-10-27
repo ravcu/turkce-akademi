@@ -1,11 +1,21 @@
 {
   "sourceSlides": 123,
-  "keptSlides": 100,
+  "keptSlides": 76,
   "excluded": [
     {
       "part": 1,
       "slide": 6,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 7,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 9,
+      "reason": "supplementary-English-slide"
     },
     {
       "part": 1,
@@ -19,6 +29,11 @@
     },
     {
       "part": 1,
+      "slide": 12,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
       "slide": 14,
       "reason": "vocabulary-list"
     },
@@ -26,6 +41,11 @@
       "part": 1,
       "slide": 15,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 16,
+      "reason": "supplementary-English-slide"
     },
     {
       "part": 1,
@@ -39,8 +59,23 @@
     },
     {
       "part": 1,
+      "slide": 20,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
       "slide": 22,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 23,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 25,
+      "reason": "supplementary-English-slide"
     },
     {
       "part": 1,
@@ -54,6 +89,11 @@
     },
     {
       "part": 1,
+      "slide": 31,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
       "slide": 33,
       "reason": "vocabulary-list"
     },
@@ -61,6 +101,16 @@
       "part": 1,
       "slide": 34,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 35,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 38,
+      "reason": "supplementary-English-slide"
     },
     {
       "part": 1,
@@ -74,6 +124,16 @@
     },
     {
       "part": 1,
+      "slide": 41,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 45,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
       "slide": 46,
       "reason": "vocabulary-list"
     },
@@ -81,6 +141,16 @@
       "part": 1,
       "slide": 47,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 48,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 50,
+      "reason": "supplementary-English-slide"
     },
     {
       "part": 1,
@@ -94,6 +164,16 @@
     },
     {
       "part": 1,
+      "slide": 57,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 58,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
       "slide": 59,
       "reason": "vocabulary-list"
     },
@@ -101,6 +181,11 @@
       "part": 1,
       "slide": 60,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 61,
+      "reason": "supplementary-English-slide"
     },
     {
       "part": 1,
@@ -114,8 +199,43 @@
     },
     {
       "part": 1,
+      "slide": 68,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 69,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 70,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 71,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
       "slide": 74,
       "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 75,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 76,
+      "reason": "supplementary-English-slide"
+    },
+    {
+      "part": 1,
+      "slide": 77,
+      "reason": "supplementary-English-slide"
     }
   ],
   "slides": [
@@ -238,24 +358,6 @@
     {
       "sequence": 6,
       "part": 1,
-      "localSlide": 7,
-      "sourceSlide": 7,
-      "slidePath": "ppt/slides/slide7.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Emir, yasaklama ve yer bildiren yapılar 8 yapı 2 / 2 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mayınız/-meyiniz Do not + V1 konuşmayınız → do not talk Fiil + -(y)ınız/-(y)iniz V1 / please + V1 durunuz → stop / please stop Fiil + -ın/-in/-un/-ün V1 / imperative dinleyin → listen • söyleyin → say -da/-de bulunma hâli in / at / on araçta → in the vehicle ile / -la/-le araç eki with / by telefonla → on the phone / by phone İsim + iyelik eki its / their metnin görselleri → the visuals of the text hangi + isim? which / what + noun? Hangi işaretler var? → What signs are there? var mı / var? is/are there? İşaretler var. → There are signs.",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mayınız/-meyiniz Do not + V1 konuşmayınız → do not talk Fiil + -(y)ınız/-(y)iniz V1 / please + V1 durunuz → stop / please stop Fiil + -ın/-in/-un/-ün V1 / imperative dinleyin → listen • söyleyin → say -da/-de bulunma hâli in / at / on araçta → in the vehicle ile / -la/-le araç eki with / by telefonla → on the phone / by phone İsim + iyelik eki its / their metnin görselleri → the visuals of the text hangi + isim? which / what + noun? Hangi işaretler var? → What signs are there? var mı / var? is/are there? İşaretler var. → There are signs."
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 7,
-      "part": 1,
       "localSlide": 8,
       "sourceSlide": 8,
       "slidePath": "ppt/slides/slide8.xml",
@@ -297,41 +399,7 @@
       ]
     },
     {
-      "sequence": 8,
-      "part": 1,
-      "localSlide": 9,
-      "sourceSlide": 9,
-      "slidePath": "ppt/slides/slide9.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "What could the expression “unseen accident” mean? Explain. Examine the visuals in the text. Which of them could be an unseen accident? Guess and explain. Read the text. Which accidents are unseen accidents? Explain. Reporter:  Good day, dear viewers. An interesting accident occurred on  Vefa  Street today. Four vehicles collided. Fortunately, no one was killed or injured. Now, let’s ask the people involved how the accident happened. Reporter:  Hello. How did the accident happen? Could you explain? Selim:  My mother is returning from abroad today. Therefore, I have to meet her at the airport. I set off fifteen minutes ago to go to the airport. Suddenly, a cat appeared in front of me. I stopped suddenly so that I wouldn’t hit it. However, the vehicle behind me couldn’t stop and hit me. Reporter:  I hope you feel better soon, sir. Selim:  Thank you. Reporter:  I hope you feel better soon, madam. Leyla:  Thank you. Reporter:  How did the accident happen? Didn’t you see the car in front of you? Leyla:  I didn’t understand how the accident happened at all. I had an important school exam. I left home late. I think I was driving very fast to get to the exam on time. The car in front of me suddenly stopped, but I couldn’t stop and hit it. Unfortunately, I missed the exam. Do you think this was an unseen accident?",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [],
-      "pictures": []
-    },
-    {
-      "sequence": 9,
-      "part": 1,
-      "localSlide": 12,
-      "sourceSlide": 12,
-      "slidePath": "ppt/slides/slide12.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Görünmez kaza metnindeki temel yapılar 10 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -dı/-di/-du/-dü simple past: V2 çarptı → hit • durdu → stopped Fiil + -(I)yor present continuous dönüyor → is returning Fiil + -malı/-meli must / have to / should karşılamalıyım → I must meet her Fiil + -mak/-mek için to / in order to yetişmek için → in order to arrive on time Fiil + -mamak/-memek için in order not to çarpmamak için → in order not to hit Fiil + -(y)amadı/-(y)emedi could not / was unable to duramadı → could not stop Zaman + önce … ago on beş dakika önce → fifteen minutes ago -daki/-deki in/on/at … / the one located … öndeki araba → the car in front -dan/-den dönmek to return from yurt dışından dönmek → to return from abroad … mısınız? Could/Would you …? Anlatır   mısınız ? → Could you explain?",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -dı/-di/-du/-dü simple past: V2 çarptı → hit • durdu → stopped Fiil + -(I)yor present continuous dönüyor → is returning Fiil + -malı/-meli must / have to / should karşılamalıyım → I must meet her Fiil + -mak/-mek için to / in order to yetişmek için → in order to arrive on time Fiil + -mamak/-memek için in order not to çarpmamak için → in order not to hit Fiil + -(y)amadı/-(y)emedi could not / was unable to duramadı → could not stop Zaman + önce … ago on beş dakika önce → fifteen minutes ago -daki/-deki in/on/at … / the one located … öndeki araba → the car in front -dan/-den dönmek to return from yurt dışından dönmek → to return from abroad … mısınız? Could/Would you …? Anlatır   mısınız ? → Could you explain?"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 10,
+      "sequence": 7,
       "part": 1,
       "localSlide": 13,
       "sourceSlide": 13,
@@ -355,7 +423,9 @@
         }
       ],
       "answerShapes": [],
-      "removedEnglish": [],
+      "removedEnglish": [
+        "Reporter:  Well, sir, could you tell us what happened? How did the accident happen? Mehmet:  Hello, darling. Look, there are reporters and cameramen here. They’re filming the accident. What? How did the accident happen? I don’t understand either. I was driving along the road when you called. I answered the phone. Suddenly, I heard a “bang.” Hello! What are you saying? It’s very crowded here. I can’t hear you. The meeting? No, I couldn’t make it to the meeting. Reporter:  Yes, dear viewers, using a mobile phone in a vehicle is very dangerous. We always say that we must not use mobile phones in traffic. Mehmet:  I’m hanging up now. The reporter wants to interview me. I’ll call you later, darling. See you. Reporter:  I hope you feel better soon, sir. May God protect you from anything worse. Mehmet:  Thank you. May God bless you."
+      ],
       "pictures": [
         {
           "part": "ppt/media/image8.jpg",
@@ -364,25 +434,7 @@
       ]
     },
     {
-      "sequence": 11,
-      "part": 1,
-      "localSlide": 16,
-      "sourceSlide": 16,
-      "slidePath": "ppt/slides/slide16.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Telefon kullanımı ve kaza diyaloğundaki yapılar 10 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(I)yor present continuous çekiyorlar → they are filming Fiil + -dı/-di/-du/-dü simple past: V2 aradın → you called • geldi → came Fiil + -(y)amadı/-(y)emedi could not / was unable to yetişemedim → I could not make it Fiil + -malı/-meli should / must kullanmamalıyız → we should not use Fiil + -mak/-mek istemek want to do röportaj yapmak istiyor → he wants to conduct an interview Geniş zaman: -(A/I)r will / habitual action ararım → I’ll call … diye + isim/fiil saying / with the sound … ‘Tak’ diye bir ses → a ‘bang’ sound -da/-de bulunma hâli in / at / on araçta → in the vehicle • trafikte → in traffic Soru: nasıl oldu? How did … happen? Kaza nasıl oldu? → How did the accident happen? Hitap ve kalıp sözler forms of address / fixed expressions hayatım → my dear • geçmiş olsun → get well soon",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(I)yor present continuous çekiyorlar → they are filming Fiil + -dı/-di/-du/-dü simple past: V2 aradın → you called • geldi → came Fiil + -(y)amadı/-(y)emedi could not / was unable to yetişemedim → I could not make it Fiil + -malı/-meli should / must kullanmamalıyız → we should not use Fiil + -mak/-mek istemek want to do röportaj yapmak istiyor → he wants to conduct an interview Geniş zaman: -(A/I)r will / habitual action ararım → I’ll call … diye + isim/fiil saying / with the sound … ‘Tak’ diye bir ses → a ‘bang’ sound -da/-de bulunma hâli in / at / on araçta → in the vehicle • trafikte → in traffic Soru: nasıl oldu? How did … happen? Kaza nasıl oldu? → How did the accident happen? Hitap ve kalıp sözler forms of address / fixed expressions hayatım → my dear • geçmiş olsun → get well soon"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 12,
+      "sequence": 8,
       "part": 1,
       "localSlide": 17,
       "sourceSlide": 17,
@@ -406,7 +458,9 @@
         }
       ],
       "answerShapes": [],
-      "removedEnglish": [],
+      "removedEnglish": [
+        "Reporter:  Sir, I would like to ask you too. How did the accident happen? Ali:  Where should I look? Where is the camera? Reporter:  Over here, sir. Ali:  First of all, I would like to send my greetings to my whole family from here. Reporter:  Sir, I’m asking about the accident. Could you tell us what happened? Ali:  Of course. My daughter has a performance today. I drove fast so that I wouldn’t be late for the performance. Therefore, I didn’t stop at the pedestrian crossing. I think an elderly lady got angry with me, so she threw her walking stick at my vehicle. I turned the steering wheel to the left to avoid it. Then I heard a “bang!” Apparently, I hit the vehicle in front of me. Unfortunately, I was also late for the performance. Reporter:  I hope you feel better soon, sir."
+      ],
       "pictures": [
         {
           "part": "ppt/media/image9.png",
@@ -415,25 +469,7 @@
       ]
     },
     {
-      "sequence": 13,
-      "part": 1,
-      "localSlide": 20,
-      "sourceSlide": 20,
-      "slidePath": "ppt/slides/slide20.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Ali’nin kaza anlatımındaki temel yapılar 10 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mak/-mek istemek want to do sormak istiyorum → I want to ask Fiil + -(y)abil/-ebil can / be able to anlatabilir misiniz? → can you explain? Fiil + -mamak/-memek için in order not to geç kalmamak için → in order not to be late Fiil + -dı/-di/-du/-dü simple past: V2 gittim → went • çevirdim → turned Olumsuz geçmiş zaman did not + V1 durmadım → I did not stop İsim + iyelik eki my/your/his/her kızımın gösterisi → my daughter’s performance -a/-e yönelme hâli to / toward sola → to the left • gösteriye → to the performance -dan/-den kaçmak to avoid / get away from bastondan kaçmak → to avoid the cane galiba probably / I think galiba bana kızdı → I think she got angry with me … diye bir ses a … sound ‘Küt!’ diye bir ses → a ‘bang!’ sound",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mak/-mek istemek want to do sormak istiyorum → I want to ask Fiil + -(y)abil/-ebil can / be able to anlatabilir misiniz? → can you explain? Fiil + -mamak/-memek için in order not to geç kalmamak için → in order not to be late Fiil + -dı/-di/-du/-dü simple past: V2 gittim → went • çevirdim → turned Olumsuz geçmiş zaman did not + V1 durmadım → I did not stop İsim + iyelik eki my/your/his/her kızımın gösterisi → my daughter’s performance -a/-e yönelme hâli to / toward sola → to the left • gösteriye → to the performance -dan/-den kaçmak to avoid / get away from bastondan kaçmak → to avoid the cane galiba probably / I think galiba bana kızdı → I think she got angry with me … diye bir ses a … sound ‘Küt!’ diye bir ses → a ‘bang!’ sound"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 14,
+      "sequence": 9,
       "part": 1,
       "localSlide": 21,
       "sourceSlide": 21,
@@ -456,7 +492,9 @@
         }
       ],
       "answerShapes": [],
-      "removedEnglish": [],
+      "removedEnglish": [
+        "Reporter:  Yes, dear viewers, such interesting accidents can happen. Therefore, we must obey the traffic rules and be careful in traffic. I wish everyone safe and healthy days."
+      ],
       "pictures": [
         {
           "part": "ppt/media/image10.png",
@@ -465,25 +503,7 @@
       ]
     },
     {
-      "sequence": 15,
-      "part": 1,
-      "localSlide": 23,
-      "sourceSlide": 23,
-      "slidePath": "ppt/slides/slide23.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Trafik güvenliği metnindeki temel yapılar 7 yapı 2 / 2 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(y)abil/-ebil can / may / be able to olabiliyor → can happen Fiil + -malı/-meli should / must uymalıyız → we must obey Olumsuz gereklilik should not / must not dikkatsiz olmamalıyız → we must not be careless -a/-e + uymak to obey / comply with kurallara uymak → to obey the rules -da/-de bulunma hâli in / at / on trafikte → in traffic bu yüzden therefore / that is why Bu yüzden dikkatli olmalıyız. → Therefore, we must be careful. İsim + dilemek to wish + noun güvenli günler dilerim → I wish you safe days",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(y)abil/-ebil can / may / be able to olabiliyor → can happen Fiil + -malı/-meli should / must uymalıyız → we must obey Olumsuz gereklilik should not / must not dikkatsiz olmamalıyız → we must not be careless -a/-e + uymak to obey / comply with kurallara uymak → to obey the rules -da/-de bulunma hâli in / at / on trafikte → in traffic bu yüzden therefore / that is why Bu yüzden dikkatli olmalıyız. → Therefore, we must be careful. İsim + dilemek to wish + noun güvenli günler dilerim → I wish you safe days"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 16,
+      "sequence": 10,
       "part": 1,
       "localSlide": 24,
       "sourceSlide": 24,
@@ -526,23 +546,7 @@
       ]
     },
     {
-      "sequence": 17,
-      "part": 1,
-      "localSlide": 25,
-      "sourceSlide": 25,
-      "slidePath": "ppt/slides/slide25.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Where   did   the   accident   happen ?   (Ver  did   dhi   eksidınt   hepın ?)   Who   caused   the   accident ?   (Hu  kozd   dhi   eksidınt ?)   Where   does  Mehmet  want   to   go ?   (Ver daz Mehmet  vant  tu  gou ?)   Where   does  Leyla  want   to   go ?   (Ver daz Leyla  vant  tu  gou ?)   Why   does  Selim  need   to   go   to   the   airport ?   (Vay daz Selim  niid  tu  gou  tu  dhi   erport ?)   Why   did  Selim  have  an  accident ?   (Vay  did  Selim  hev  en  eksidınt ?)   Which   traffic   rule   did  Ali break?   ( Viç   trefik   ruul   did  Ali  breyk ?)  ",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [],
-      "pictures": []
-    },
-    {
-      "sequence": 18,
+      "sequence": 11,
       "part": 1,
       "localSlide": 26,
       "sourceSlide": 26,
@@ -591,7 +595,7 @@
       ]
     },
     {
-      "sequence": 19,
+      "sequence": 12,
       "part": 1,
       "localSlide": 27,
       "sourceSlide": 27,
@@ -612,7 +616,7 @@
       ]
     },
     {
-      "sequence": 20,
+      "sequence": 13,
       "part": 1,
       "localSlide": 28,
       "sourceSlide": 28,
@@ -658,25 +662,7 @@
       ]
     },
     {
-      "sequence": 21,
-      "part": 1,
-      "localSlide": 31,
-      "sourceSlide": 31,
-      "slidePath": "ppt/slides/slide31.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Kuralları, yer bildirmeyi ve görüş belirtmeyi anlatan yapılar 8 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mamalı/-memeli should not / must not koşmamalısınız → You should not run. Nesne + -ı/-i + fiil verb + object telefonunuzu kapatın → turn off your phone -da/-de bulunma hâli in / at / on kütüphanede → in the library -a/-e yönelme hâli to / toward otobüs durağına → to the bus stop Fiil + -(y)abil/-ebil can / be able to görebiliriz → we can see Ne olabilir? What could it be? En önemli kural ne olabilir? → What could the most important rule be? Bence / Bana göre I think / In my opinion Bence koşmamalıyız. → I think we should not run. Fiil + -(y)ın/-(y)iniz imperative / polite instruction inceleyin → examine / look at",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mamalı/-memeli should not / must not koşmamalısınız → You should not run. Nesne + -ı/-i + fiil verb + object telefonunuzu kapatın → turn off your phone -da/-de bulunma hâli in / at / on kütüphanede → in the library -a/-e yönelme hâli to / toward otobüs durağına → to the bus stop Fiil + -(y)abil/-ebil can / be able to görebiliriz → we can see Ne olabilir? What could it be? En önemli kural ne olabilir? → What could the most important rule be? Bence / Bana göre I think / In my opinion Bence koşmamalıyız. → I think we should not run. Fiil + -(y)ın/-(y)iniz imperative / polite instruction inceleyin → examine / look at"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 22,
+      "sequence": 14,
       "part": 1,
       "localSlide": 32,
       "sourceSlide": 32,
@@ -708,25 +694,7 @@
       ]
     },
     {
-      "sequence": 23,
-      "part": 1,
-      "localSlide": 35,
-      "sourceSlide": 35,
-      "slidePath": "ppt/slides/slide35.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Gereklilik, zaman sıralaması ve neden-sonuç yapıları 8 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must dönmeliyiz → we should turn Kişiye göre gereklilik should + V1 vermelisin → you should signal Fiil + -mamalı/-memeli should not / must not kuralları çiğnememelisin → you should not break the rules Fiil + -madan/-meden önce before + V-ing dönmeden önce → before turning Fiil + -masına gerek yok do not need to / there is no need to bilmesine gerek yok → nobody needs to know Demek ki so / that means Demek ki bu yüzden çarptı. → So, that is why he hit me. Bu yüzden therefore / that is why Bu yüzden sinyal vermelisin. → That is why you should signal. Sence / Bence What do you think? / I think Sence hangi kitabı almalıyım? → Which book do you think I should buy?",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must dönmeliyiz → we should turn Kişiye göre gereklilik should + V1 vermelisin → you should signal Fiil + -mamalı/-memeli should not / must not kuralları çiğnememelisin → you should not break the rules Fiil + -madan/-meden önce before + V-ing dönmeden önce → before turning Fiil + -masına gerek yok do not need to / there is no need to bilmesine gerek yok → nobody needs to know Demek ki so / that means Demek ki bu yüzden çarptı. → So, that is why he hit me. Bu yüzden therefore / that is why Bu yüzden sinyal vermelisin. → That is why you should signal. Sence / Bence What do you think? / I think Sence hangi kitabı almalıyım? → Which book do you think I should buy?"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 24,
+      "sequence": 15,
       "part": 1,
       "localSlide": 36,
       "sourceSlide": 36,
@@ -747,7 +715,7 @@
       ]
     },
     {
-      "sequence": 25,
+      "sequence": 16,
       "part": 1,
       "localSlide": 37,
       "sourceSlide": 37,
@@ -768,44 +736,7 @@
       ]
     },
     {
-      "sequence": 26,
-      "part": 1,
-      "localSlide": 38,
-      "sourceSlide": 38,
-      "slidePath": "ppt/slides/slide38.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Gereklilik ve tavsiye örnek cümleleri 11 cümle 4 / 4 Türkçe cümle İngilizcesi ve okunuşu Dışarıda   yağmur   yağıyor . It is raining outside. (İt iz reyning autsayd.) Yanıma şemsiye almalıyım. I should take an umbrella with me. (Ay  şud   teyk   en   ambrella  vit mi.) Dolap bomboş, hiçbir şey kalmamış. The fridge is completely empty. There is nothing left. ( Dı   fric   iz   kımpliitli   empti . Der  iz   nating  left.) Markete gitmeliyim ve alışveriş yapmalıyım. I should go to the supermarket and do some shopping. (Ay  şud   gou   tu   dı   suupırmarket  end du  sam   şaping .) Hangi şapkayı almalıyım? Which hat should I buy? ( Viç  het  şud  ay bay?) Bence yeşil şapkayı almalısın. I think you should buy the green hat. (Ay  tink   yu   şud  bay  dı   griin  het.) Türkçe cümle İngilizcesi ve okunuşu Sana  çok   yakışacak . It will look great on you. (İt vil luk greyt on yu.) Sizce ne yemeliyim? What do you think I should eat? (Vat du  yu   tink  ay  şud   iit ?) Ne tavsiye edersiniz? What do you recommend? (Vat du  yu   rekımend ?) Lokantamızın döner kebabı çok meşhurdur. The  döner  kebab at our restaurant is very famous. ( Dı   dönır   kıbab  et aur  restırant   iz   veri   feymıs .) Bence döner kebap yemelisiniz. I think you should eat  döner  kebab. (Ay  tink   yu   şud   iit   dönır   kıbab .)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Dışarıda   yağmur   yağıyor . It is raining outside. (İt iz reyning autsayd.) Yanıma şemsiye almalıyım. I should take an umbrella with me. (Ay  şud   teyk   en   ambrella  vit mi.) Dolap bomboş, hiçbir şey kalmamış. The fridge is completely empty. There is nothing left. ( Dı   fric   iz   kımpliitli   empti . Der  iz   nating  left.) Markete gitmeliyim ve alışveriş yapmalıyım. I should go to the supermarket and do some shopping. (Ay  şud   gou   tu   dı   suupırmarket  end du  sam   şaping .) Hangi şapkayı almalıyım? Which hat should I buy? ( Viç  het  şud  ay bay?) Bence yeşil şapkayı almalısın. I think you should buy the green hat. (Ay  tink   yu   şud  bay  dı   griin  het.)",
-        "Türkçe cümle İngilizcesi ve okunuşu Sana  çok   yakışacak . It will look great on you. (İt vil luk greyt on yu.) Sizce ne yemeliyim? What do you think I should eat? (Vat du  yu   tink  ay  şud   iit ?) Ne tavsiye edersiniz? What do you recommend? (Vat du  yu   rekımend ?) Lokantamızın döner kebabı çok meşhurdur. The  döner  kebab at our restaurant is very famous. ( Dı   dönır   kıbab  et aur  restırant   iz   veri   feymıs .) Bence döner kebap yemelisiniz. I think you should eat  döner  kebab. (Ay  tink   yu   şud   iit   dönır   kıbab .)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 27,
-      "part": 1,
-      "localSlide": 41,
-      "sourceSlide": 41,
-      "slidePath": "ppt/slides/slide41.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Gereklilik, tavsiye ve görüş bildirme yapıları 8 yapı 3 / 4 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmeliyim → I should go Kişiye göre gereklilik should + V1 yemelisiniz → you should eat Fiil + -mamalı/-memeli should not / must not geç kalmamalısın → you should not be late Bence + cümle I think + clause Bence almalısın. → I think you should buy it. Sizce + soru What do you think ...? Sizce ne yemeliyim? → What do you think I should eat? Ne tavsiye edersiniz? What do you recommend? Ne tavsiye edersiniz? → What do you recommend? Hiçbir şey + olumsuz nothing / anything + negative Hiçbir şey kalmamış. → There is nothing left. Gelecek zaman -acak/-ecek will + V1 yakışacak → it will look good",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmeliyim → I should go Kişiye göre gereklilik should + V1 yemelisiniz → you should eat Fiil + -mamalı/-memeli should not / must not geç kalmamalısın → you should not be late Bence + cümle I think + clause Bence almalısın. → I think you should buy it. Sizce + soru What do you think ...? Sizce ne yemeliyim? → What do you think I should eat? Ne tavsiye edersiniz? What do you recommend? Ne tavsiye edersiniz? → What do you recommend? Hiçbir şey + olumsuz nothing / anything + negative Hiçbir şey kalmamış. → There is nothing left. Gelecek zaman -acak/-ecek will + V1 yakışacak → it will look good"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 28,
+      "sequence": 17,
       "part": 1,
       "localSlide": 42,
       "sourceSlide": 42,
@@ -826,7 +757,7 @@
       ]
     },
     {
-      "sequence": 29,
+      "sequence": 18,
       "part": 1,
       "localSlide": 43,
       "sourceSlide": 43,
@@ -847,7 +778,7 @@
       ]
     },
     {
-      "sequence": 30,
+      "sequence": 19,
       "part": 1,
       "localSlide": 44,
       "sourceSlide": 44,
@@ -868,43 +799,7 @@
       ]
     },
     {
-      "sequence": 31,
-      "part": 1,
-      "localSlide": 45,
-      "sourceSlide": 45,
-      "slidePath": "ppt/slides/slide45.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Tamamlanmış Cümleler Eksik fiiller, İngilizce karşılıkları ve okunuşları 6 cümle 4 / 4 Tür Tamamlanmış Türkçe cümle İngilizcesi ve okunuşu G Dışarıda yağmur yağıyor, bu yüzden şemsiye almalıyım. It is raining outside, so I should take an umbrella. (İt iz reyning autsayd, sou ay şud teyk en ambrella.) G Okulda temiz kıyafet giymeliyiz. We should wear clean clothes at school. (Vi şud ver kliin klouz et skuul.) T Turuncu elbise daha ucuz ve güzel. Bence onu almalısın. The orange dress is cheaper and nicer. I think you should buy it. (Dı orınc dres iz çiipır end naysır. Ay tink yu şud bay it.) G Vize   almak   için   konsolosluğa   gitmelisin . You must go to the consulate to get a visa. (Yu mast gou tu dı konsyulıt tu get ı viiza.) G İlaçlarını yemekten önce içmelisin. You should take your medicine before eating. (Yu şud teyk yor medısın bifor iiting.) G Çiçekleri  her  gün   sulamalısın . You should water the flowers every day. (Yu  şud   votır   dı   flauırz   evri   dey .)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Tür Tamamlanmış Türkçe cümle İngilizcesi ve okunuşu G Dışarıda yağmur yağıyor, bu yüzden şemsiye almalıyım. It is raining outside, so I should take an umbrella. (İt iz reyning autsayd, sou ay şud teyk en ambrella.) G Okulda temiz kıyafet giymeliyiz. We should wear clean clothes at school. (Vi şud ver kliin klouz et skuul.) T Turuncu elbise daha ucuz ve güzel. Bence onu almalısın. The orange dress is cheaper and nicer. I think you should buy it. (Dı orınc dres iz çiipır end naysır. Ay tink yu şud bay it.) G Vize   almak   için   konsolosluğa   gitmelisin . You must go to the consulate to get a visa. (Yu mast gou tu dı konsyulıt tu get ı viiza.) G İlaçlarını yemekten önce içmelisin. You should take your medicine before eating. (Yu şud teyk yor medısın bifor iiting.) G Çiçekleri  her  gün   sulamalısın . You should water the flowers every day. (Yu  şud   votır   dı   flauırz   evri   dey .)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 32,
-      "part": 1,
-      "localSlide": 48,
-      "sourceSlide": 48,
-      "slidePath": "ppt/slides/slide48.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Gereklilik ekinin kişilere göre kullanımı 7 yapı 3 / 4 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmelisin → you should / must go Ben: -malıyım/-meliyim I should / must + V1 almalıyım → I should take Sen: -malısın/-melisin you should / must + V1 içmelisin → you should take it Biz: -malıyız/-meliyiz we should / must + V1 giymeliyiz → we should wear Fiil + -mak/-mek için to / in order to vize almak için → to get a visa Fiil + -madan/-meden önce before + V-ing yemeden önce → before eating Bu yüzden therefore / that is why Yağmur yağıyor, bu yüzden şemsiye almalıyım.",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmelisin → you should / must go Ben: -malıyım/-meliyim I should / must + V1 almalıyım → I should take Sen: -malısın/-melisin you should / must + V1 içmelisin → you should take it Biz: -malıyız/-meliyiz we should / must + V1 giymeliyiz → we should wear Fiil + -mak/-mek için to / in order to vize almak için → to get a visa Fiil + -madan/-meden önce before + V-ing yemeden önce → before eating Bu yüzden therefore / that is why Yağmur yağıyor, bu yüzden şemsiye almalıyım."
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 33,
+      "sequence": 20,
       "part": 1,
       "localSlide": 49,
       "sourceSlide": 49,
@@ -935,25 +830,7 @@
       ]
     },
     {
-      "sequence": 34,
-      "part": 1,
-      "localSlide": 50,
-      "sourceSlide": 50,
-      "slidePath": "ppt/slides/slide50.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki soru ve cevap ifadeleri 5 ifade 2 / 2 Türkçe cümle / ifade İngilizcesi ve okunuşu Yarın tatile gideceğim. Ne yapmalıyım? I am going on holiday tomorrow. What should I do? (Ay em gouing on halıdey tumorou. Vat şud ay du?) Eşyalarını hazırlamalısın. Bavulunu hazırlamalısın. You should prepare your belongings. You should pack your suitcase. (Yu şud priper yor bilongingz. Yu şud pek yor suutkeys.) Senin ülkende hangi yemekleri yemeliyim? Bana ne tavsiye edersin? Which dishes should I eat in your country? What do you recommend? (Viç dişız şud ay iit in yor kantri? Vat du yu rekımend?) Yurt dışına gitmek için ne yapmalıyım? What should I do to go abroad? (Vat şud ay du tu gou ıbroad?) Trafikte neler yapmamalıyız? What should we not do in traffic? (Vat şud vi nat du in trefik?)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle / ifade İngilizcesi ve okunuşu Yarın tatile gideceğim. Ne yapmalıyım? I am going on holiday tomorrow. What should I do? (Ay em gouing on halıdey tumorou. Vat şud ay du?) Eşyalarını hazırlamalısın. Bavulunu hazırlamalısın. You should prepare your belongings. You should pack your suitcase. (Yu şud priper yor bilongingz. Yu şud pek yor suutkeys.) Senin ülkende hangi yemekleri yemeliyim? Bana ne tavsiye edersin? Which dishes should I eat in your country? What do you recommend? (Viç dişız şud ay iit in yor kantri? Vat du yu rekımend?) Yurt dışına gitmek için ne yapmalıyım? What should I do to go abroad? (Vat şud ay du tu gou ıbroad?) Trafikte neler yapmamalıyız? What should we not do in traffic? (Vat şud vi nat du in trefik?)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 35,
+      "sequence": 21,
       "part": 1,
       "localSlide": 52,
       "sourceSlide": 52,
@@ -1016,7 +893,7 @@
       ]
     },
     {
-      "sequence": 36,
+      "sequence": 22,
       "part": 1,
       "localSlide": 54,
       "sourceSlide": 54,
@@ -1095,7 +972,7 @@
       ]
     },
     {
-      "sequence": 37,
+      "sequence": 23,
       "part": 1,
       "localSlide": 55,
       "sourceSlide": 55,
@@ -1116,7 +993,7 @@
       ]
     },
     {
-      "sequence": 38,
+      "sequence": 24,
       "part": 1,
       "localSlide": 56,
       "sourceSlide": 56,
@@ -1150,61 +1027,7 @@
       ]
     },
     {
-      "sequence": 39,
-      "part": 1,
-      "localSlide": 57,
-      "sourceSlide": 57,
-      "slidePath": "ppt/slides/slide57.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Metindeki cümle ve seçenekler 1–7 4 / 5 Türkçe cümle İngilizcesi ve okunuşu Metne göre doğru seçeneği işaretleyin. Choose the correct option according to the text. (Çuuz dı kırekt opşın ıkording tu dı tekst.) Okulda kurallara dikkat etmeliyiz çünkü… We should follow the rules at school because… (Vi şud falou dı ruulz et skuul bikoz…) Okullarda düzeni korumalıyız. We should maintain order in schools. (Vi şud meynteyn ordır in skuulz.) Günde yaklaşık sekiz saatimizi okulda geçiriyoruz. We spend about eight hours a day at school. (Vi spend ıbaut eyt aurz ı dey et skuul.) Toplu taşıma araçlarında çantalarımızı yanımıza almalıyız çünkü… We should keep our bags with us on public transport because… (Vi şud kiip aur begz vit as on pablik transport bikoz…) Çantalarımız kaybolabilir veya çalınabilir. Our bags may get lost or be stolen. (Aur begz mey get lost or bi stoulın.) Çantalarımız başkalarını rahatsız edebilir. Our bags may disturb other people. (Aur begz mey distörb adır piipıl.)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Metne göre doğru seçeneği işaretleyin. Choose the correct option according to the text. (Çuuz dı kırekt opşın ıkording tu dı tekst.) Okulda kurallara dikkat etmeliyiz çünkü… We should follow the rules at school because… (Vi şud falou dı ruulz et skuul bikoz…) Okullarda düzeni korumalıyız. We should maintain order in schools. (Vi şud meynteyn ordır in skuulz.) Günde yaklaşık sekiz saatimizi okulda geçiriyoruz. We spend about eight hours a day at school. (Vi spend ıbaut eyt aurz ı dey et skuul.) Toplu taşıma araçlarında çantalarımızı yanımıza almalıyız çünkü… We should keep our bags with us on public transport because… (Vi şud kiip aur begz vit as on pablik transport bikoz…) Çantalarımız kaybolabilir veya çalınabilir. Our bags may get lost or be stolen. (Aur begz mey get lost or bi stoulın.) Çantalarımız başkalarını rahatsız edebilir. Our bags may disturb other people. (Aur begz mey distörb adır piipıl.)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 40,
-      "part": 1,
-      "localSlide": 58,
-      "sourceSlide": 58,
-      "slidePath": "ppt/slides/slide58.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Metindeki cümle ve seçenekler 8–13 5 / 5 Türkçe cümle İngilizcesi ve okunuşu Doğayı korumalıyız çünkü… We should protect nature because… (Vi şud protekt neyçır bikoz…) Bizler de doğada yaşıyoruz. We also live in nature. (Vi olsou liv in neyçır.) Doğa, bitki ve hayvanların da yaşam alanıdır. Nature is also the habitat of plants and animals. (Neyçır iz olsou dı hebıtet ov plants end enimılz.) Pek çok canlı zarar görüyor çünkü… Many living creatures are being harmed because… (Meni living kriiçırz ar biing harmd bikoz…) Atıkları geri dönüşüm kutularına atmıyoruz. We do not put waste in recycling bins. (Vi du nat put veyst in riisaykling binz.) Biz dünyayı kirletiyoruz. We pollute the world. (Vi pıluut dı vörld.)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Doğayı korumalıyız çünkü… We should protect nature because… (Vi şud protekt neyçır bikoz…) Bizler de doğada yaşıyoruz. We also live in nature. (Vi olsou liv in neyçır.) Doğa, bitki ve hayvanların da yaşam alanıdır. Nature is also the habitat of plants and animals. (Neyçır iz olsou dı hebıtet ov plants end enimılz.) Pek çok canlı zarar görüyor çünkü… Many living creatures are being harmed because… (Meni living kriiçırz ar biing harmd bikoz…) Atıkları geri dönüşüm kutularına atmıyoruz. We do not put waste in recycling bins. (Vi du nat put veyst in riisaykling binz.) Biz dünyayı kirletiyoruz. We pollute the world. (Vi pıluut dı vörld.)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 41,
-      "part": 1,
-      "localSlide": 61,
-      "sourceSlide": 61,
-      "slidePath": "ppt/slides/slide61.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Metindeki yapıların İngilizce karşılıkları ve örnekleri 4 yapı 3 / 5 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should + V1 korumalıyız → we should protect • dikkat etmeliyiz → we should pay attention Fiil + -abilir/-ebilir can / may + V1 kaybolabilir → may get lost • rahatsız edebilir → may disturb çünkü because Doğayı korumalıyız çünkü… → We should protect nature because… Fiil + -mıyor/-miyoruz do/does not + V1 atmıyoruz → we do not put/throw • korumuyoruz → we do not protect Not: İngilizcede should gereklilik ve tavsiye; may/can ise ihtimal veya mümkünlük bildirir.",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should + V1 korumalıyız → we should protect • dikkat etmeliyiz → we should pay attention Fiil + -abilir/-ebilir can / may + V1 kaybolabilir → may get lost • rahatsız edebilir → may disturb çünkü because Doğayı korumalıyız çünkü… → We should protect nature because… Fiil + -mıyor/-miyoruz do/does not + V1 atmıyoruz → we do not put/throw • korumuyoruz → we do not protect"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 42,
+      "sequence": 25,
       "part": 1,
       "localSlide": 62,
       "sourceSlide": 62,
@@ -1225,7 +1048,7 @@
       ]
     },
     {
-      "sequence": 43,
+      "sequence": 26,
       "part": 1,
       "localSlide": 63,
       "sourceSlide": 63,
@@ -1281,7 +1104,7 @@
       ]
     },
     {
-      "sequence": 44,
+      "sequence": 27,
       "part": 1,
       "localSlide": 64,
       "sourceSlide": 64,
@@ -1314,7 +1137,7 @@
       ]
     },
     {
-      "sequence": 45,
+      "sequence": 28,
       "part": 1,
       "localSlide": 65,
       "sourceSlide": 65,
@@ -1346,79 +1169,7 @@
       ]
     },
     {
-      "sequence": 46,
-      "part": 1,
-      "localSlide": 68,
-      "sourceSlide": 68,
-      "slidePath": "ppt/slides/slide68.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Gereklilik ve amaç bildiren yapıların İngilizce karşılıkları 5 yapı 3 / 6 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil  + - mak /- mek   gerek  ( lazım ) need to / have to + V1 galoş giymemiz gerek → we need to wear shoe covers Fiil + -mamak/-memek gerek must not / should not + V1 yiyecek vermememiz gerek → we must not give food İsim/sıfat + olmalı should be / must be Hastane temiz olmalı. → The hospital should be clean. Fiil + -abilir/-ebilir can / may + V1 zarar verebilir → may harm Fiil + -mak/-mek için to / in order to + V1 kirletmemek   için  → in order not to dirty Not: need to / have to gereklilik; must not ise güçlü bir yasak veya yapılmaması gereken durumu bildirir.",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil  + - mak /- mek   gerek  ( lazım ) need to / have to + V1 galoş giymemiz gerek → we need to wear shoe covers Fiil + -mamak/-memek gerek must not / should not + V1 yiyecek vermememiz gerek → we must not give food İsim/sıfat + olmalı should be / must be Hastane temiz olmalı. → The hospital should be clean. Fiil + -abilir/-ebilir can / may + V1 zarar verebilir → may harm Fiil + -mak/-mek için to / in order to + V1 kirletmemek   için  → in order not to dirty"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 47,
-      "part": 1,
-      "localSlide": 69,
-      "sourceSlide": 69,
-      "slidePath": "ppt/slides/slide69.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki diyalog cümleleri 1–6 4 / 6 Türkçe cümle İngilizcesi ve okunuşu Dinleyin, okuyun ve canlandırın. Listen, read and act it out. (Lisın, riid end ekt it aut.) Ne yapmamız gerek? What do we need to do? (Vat du vi niid tu du?) Anne, bu levha ne? Mom, what is this sign? (Mam, vat iz dis sayn?) Bu, galoş giymeniz gerek levhası. This sign says that you need to wear shoe covers. (Dis sayn sez det yu niid tu veır şuu kavırz.) Haydi galoşlarımızı giyelim. Let's put on our shoe covers. (Lets put on aur şuu kavırz.) Neden galoş giymemiz gerek? Why do we need to wear shoe covers? (Vay du vi niid tu veır şuu kavırz?)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Dinleyin, okuyun ve canlandırın. Listen, read and act it out. (Lisın, riid end ekt it aut.) Ne yapmamız gerek? What do we need to do? (Vat du vi niid tu du?) Anne, bu levha ne? Mom, what is this sign? (Mam, vat iz dis sayn?) Bu, galoş giymeniz gerek levhası. This sign says that you need to wear shoe covers. (Dis sayn sez det yu niid tu veır şuu kavırz.) Haydi galoşlarımızı giyelim. Let's put on our shoe covers. (Lets put on aur şuu kavırz.) Neden galoş giymemiz gerek? Why do we need to wear shoe covers? (Vay du vi niid tu veır şuu kavırz?)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 48,
-      "part": 1,
-      "localSlide": 70,
-      "sourceSlide": 70,
-      "slidePath": "ppt/slides/slide70.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki diyalog cümleleri 7–12 5 / 6 Türkçe cümle İngilizcesi ve okunuşu Çünkü burası hastane. Because this is a hospital. (Bikoz dis iz ı hospitıl.) Hastane temiz olmalı. The hospital should be clean. (Dı hospitıl şud bi kliin.) İçeriyi kirletmemek için galoş giymemiz gerek. We need to wear shoe covers so as not to dirty the inside. (Vi niid tu veır şuu kavırz sou ez nat tu dörti dı insayd.) Anladım. Haydi galoşlarımızı giyelim! I understand. Let's put on our shoe covers! (Ay andırstend. Lets put on aur şuu kavırz!) Baba, maymunlara yiyecek verelim mi? Dad, shall we give food to the monkeys? (Ded, şel vi giv fuud tu dı mankiz?) Olmaz oğlum, bak levhada ne yazıyor? No, son. Look, what does the sign say? (Nou, san. Luk, vat daz dı sayn sey?)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Çünkü burası hastane. Because this is a hospital. (Bikoz dis iz ı hospitıl.) Hastane temiz olmalı. The hospital should be clean. (Dı hospitıl şud bi kliin.) İçeriyi kirletmemek için galoş giymemiz gerek. We need to wear shoe covers so as not to dirty the inside. (Vi niid tu veır şuu kavırz sou ez nat tu dörti dı insayd.) Anladım. Haydi galoşlarımızı giyelim! I understand. Let's put on our shoe covers! (Ay andırstend. Lets put on aur şuu kavırz!) Baba, maymunlara yiyecek verelim mi? Dad, shall we give food to the monkeys? (Ded, şel vi giv fuud tu dı mankiz?) Olmaz oğlum, bak levhada ne yazıyor? No, son. Look, what does the sign say? (Nou, san. Luk, vat daz dı sayn sey?)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 49,
-      "part": 1,
-      "localSlide": 71,
-      "sourceSlide": 71,
-      "slidePath": "ppt/slides/slide71.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki diyalog cümleleri 13–18 6 / 6 Türkçe cümle İngilizcesi ve okunuşu Hayvanları beslemeliyiz yazmıyor mu? Doesn't it say that we should feed the animals? (Dazınt it sey det vi şud fiid dı enimılz?) Dikkatli bak! Hayvanlara yiyecek vermeyiniz, yazıyor. Look carefully! It says, “Do not feed the animals.” (Luk keırfıli! It sez, du nat fiid dı enimılz.) Ama neden vermemeliyiz? But why shouldn't we feed them? (Bat vay şudınt vi fiid dem?) Bu yiyecekler hayvanlara zarar verebilir. This food may harm the animals. (Dis fuud mey harm dı enimılz.) Bu yüzden onlara yiyecek vermememiz gerek. Therefore, we must not give them food. (Deırfor, vi mast nat giv dem fuud.) Görevliler onların yiyeceklerini düzenli bir şekilde veriyor. The staff feed them regularly. (Dı staf fiid dem regyulırli.)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Hayvanları beslemeliyiz yazmıyor mu? Doesn't it say that we should feed the animals? (Dazınt it sey det vi şud fiid dı enimılz?) Dikkatli bak! Hayvanlara yiyecek vermeyiniz, yazıyor. Look carefully! It says, “Do not feed the animals.” (Luk keırfıli! It sez, du nat fiid dı enimılz.) Ama neden vermemeliyiz? But why shouldn't we feed them? (Bat vay şudınt vi fiid dem?) Bu yiyecekler hayvanlara zarar verebilir. This food may harm the animals. (Dis fuud mey harm dı enimılz.) Bu yüzden onlara yiyecek vermememiz gerek. Therefore, we must not give them food. (Deırfor, vi mast nat giv dem fuud.) Görevliler onların yiyeceklerini düzenli bir şekilde veriyor. The staff feed them regularly. (Dı staf fiid dem regyulırli.)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 50,
+      "sequence": 29,
       "part": 1,
       "localSlide": 72,
       "sourceSlide": 72,
@@ -1439,7 +1190,7 @@
       ]
     },
     {
-      "sequence": 51,
+      "sequence": 30,
       "part": 1,
       "localSlide": 73,
       "sourceSlide": 73,
@@ -1460,61 +1211,7 @@
       ]
     },
     {
-      "sequence": 52,
-      "part": 1,
-      "localSlide": 75,
-      "sourceSlide": 75,
-      "slidePath": "ppt/slides/slide75.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Önemli Gramer Yapıları Gereklilik ve amaç bildiren yapıların İngilizce karşılıkları 6 yapı 2 / 4 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must + V1 ders çalışmalıyım → I should study Fiil + -mak/-mek gerek need to / have to + V1 ders çalışmam gerek → I need to study Fiil + -mak/-mek lazım need to / have to + V1 erken yatmam lazım → I need to go to bed early Fiil + -mamak/-memek gerek/lazım must not / need to avoid + V-ing geç yatmamam lazım → I must not go to bed late Fiil + -mak/-mek için to / in order to + V1 sınavı geçmek için → to pass the exam Ne yapmam gerek/lazım? What do I need / have to do? Ne yapmam gerek? → What do I need to do?",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must + V1 ders çalışmalıyım → I should study Fiil + -mak/-mek gerek need to / have to + V1 ders çalışmam gerek → I need to study Fiil + -mak/-mek lazım need to / have to + V1 erken yatmam lazım → I need to go to bed early Fiil + -mamak/-memek gerek/lazım must not / need to avoid + V-ing geç yatmamam lazım → I must not go to bed late Fiil + -mak/-mek için to / in order to + V1 sınavı geçmek için → to pass the exam Ne yapmam gerek/lazım? What do I need / have to do? Ne yapmam gerek? → What do I need to do?"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 53,
-      "part": 1,
-      "localSlide": 76,
-      "sourceSlide": 76,
-      "slidePath": "ppt/slides/slide76.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları Gerek ve lazım ile kurulan cümleler 1–6 3 / 4 Türkçe cümle İngilizcesi ve okunuşu Yarın sınavım var, ders çalışmam gerek. I have an exam tomorrow, so I need to study. (Ay hev en igzem tumorou, sou ay niid tu stadi.) Yarın sınavım var, ders çalışmam lazım. I have an exam tomorrow, so I have to study. (Ay hev en igzem tumorou, sou ay hev tu stadi.) Sınava geç kalmamak için ne yapmam gerek? What do I need to do so as not to be late for the exam? (Vat du ay niid tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için erken yatmam gerek. I need to go to bed early so as not to be late for the exam. (Ay niid tu gou tu bed örli sou ez nat tu bi leyt for dı igzem.) Sınava geç kalmamak için ne yapmam lazım? What do I have to do so as not to be late for the exam? (Vat du ay hev tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için geç yatmamam lazım. I must not go to bed late if I do not want to be late for the exam. (Ay mast nat gou tu bed leyt if ay du nat vant tu bi leyt for dı igzem.)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Yarın sınavım var, ders çalışmam gerek. I have an exam tomorrow, so I need to study. (Ay hev en igzem tumorou, sou ay niid tu stadi.) Yarın sınavım var, ders çalışmam lazım. I have an exam tomorrow, so I have to study. (Ay hev en igzem tumorou, sou ay hev tu stadi.) Sınava geç kalmamak için ne yapmam gerek? What do I need to do so as not to be late for the exam? (Vat du ay niid tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için erken yatmam gerek. I need to go to bed early so as not to be late for the exam. (Ay niid tu gou tu bed örli sou ez nat tu bi leyt for dı igzem.) Sınava geç kalmamak için ne yapmam lazım? What do I have to do so as not to be late for the exam? (Vat du ay hev tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için geç yatmamam lazım. I must not go to bed late if I do not want to be late for the exam. (Ay mast nat gou tu bed leyt if ay du nat vant tu bi leyt for dı igzem.)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 54,
-      "part": 1,
-      "localSlide": 77,
-      "sourceSlide": 77,
-      "slidePath": "ppt/slides/slide77.xml",
-      "dimensions": [
-        12192000,
-        6858000
-      ],
-      "text": "Cümlelerin İngilizcesi ve Okunuşları -malı/-meli ile gerek/lazım karşılaştırması 7–12 4 / 4 Türkçe cümle İngilizcesi ve okunuşu Yiyecek bir şey kalmamış. Alışveriş yapmalıyım. There is no food left. I should go shopping. (Deır iz nou fuud left. Ay şud gou şoping.) Sınavı geçmek için ders çalışmalıyım. I should study to pass the exam. (Ay şud stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmeliyim. I do not feel well. I should go to the hospital. (Ay du nat fiil vel. Ay şud gou tu dı hospitıl.) Yiyecek bir şey kalmamış. Alışveriş yapmam gerek. There is no food left. I need to go shopping. (Deır iz nou fuud left. Ay niid tu gou şoping.) Sınavı geçmek için ders çalışmam lazım. I need to study to pass the exam. (Ay niid tu stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmem gerek/lazım. I do not feel well. I need to go to the hospital. (Ay du nat fiil vel. Ay niid tu gou tu dı hospitıl.)",
-      "audio": [],
-      "answerShapes": [],
-      "removedEnglish": [
-        "Türkçe cümle İngilizcesi ve okunuşu Yiyecek bir şey kalmamış. Alışveriş yapmalıyım. There is no food left. I should go shopping. (Deır iz nou fuud left. Ay şud gou şoping.) Sınavı geçmek için ders çalışmalıyım. I should study to pass the exam. (Ay şud stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmeliyim. I do not feel well. I should go to the hospital. (Ay du nat fiil vel. Ay şud gou tu dı hospitıl.) Yiyecek bir şey kalmamış. Alışveriş yapmam gerek. There is no food left. I need to go shopping. (Deır iz nou fuud left. Ay niid tu gou şoping.) Sınavı geçmek için ders çalışmam lazım. I need to study to pass the exam. (Ay niid tu stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmem gerek/lazım. I do not feel well. I need to go to the hospital. (Ay du nat fiil vel. Ay niid tu gou tu dı hospitıl.)"
-      ],
-      "pictures": []
-    },
-    {
-      "sequence": 55,
+      "sequence": 31,
       "part": 2,
       "localSlide": 1,
       "sourceSlide": 78,
@@ -1535,7 +1232,7 @@
       ]
     },
     {
-      "sequence": 56,
+      "sequence": 32,
       "part": 2,
       "localSlide": 2,
       "sourceSlide": 79,
@@ -1556,7 +1253,7 @@
       ]
     },
     {
-      "sequence": 57,
+      "sequence": 33,
       "part": 2,
       "localSlide": 3,
       "sourceSlide": 80,
@@ -1583,7 +1280,7 @@
       ]
     },
     {
-      "sequence": 58,
+      "sequence": 34,
       "part": 2,
       "localSlide": 4,
       "sourceSlide": 81,
@@ -1628,7 +1325,7 @@
       ]
     },
     {
-      "sequence": 59,
+      "sequence": 35,
       "part": 2,
       "localSlide": 5,
       "sourceSlide": 82,
@@ -1658,7 +1355,7 @@
       ]
     },
     {
-      "sequence": 60,
+      "sequence": 36,
       "part": 2,
       "localSlide": 6,
       "sourceSlide": 83,
@@ -1679,7 +1376,7 @@
       ]
     },
     {
-      "sequence": 61,
+      "sequence": 37,
       "part": 2,
       "localSlide": 7,
       "sourceSlide": 84,
@@ -1707,7 +1404,7 @@
       ]
     },
     {
-      "sequence": 62,
+      "sequence": 38,
       "part": 2,
       "localSlide": 8,
       "sourceSlide": 85,
@@ -1728,7 +1425,7 @@
       ]
     },
     {
-      "sequence": 63,
+      "sequence": 39,
       "part": 2,
       "localSlide": 9,
       "sourceSlide": 86,
@@ -1787,7 +1484,7 @@
       ]
     },
     {
-      "sequence": 64,
+      "sequence": 40,
       "part": 2,
       "localSlide": 10,
       "sourceSlide": 87,
@@ -1815,7 +1512,7 @@
       ]
     },
     {
-      "sequence": 65,
+      "sequence": 41,
       "part": 2,
       "localSlide": 11,
       "sourceSlide": 88,
@@ -1836,7 +1533,7 @@
       ]
     },
     {
-      "sequence": 66,
+      "sequence": 42,
       "part": 2,
       "localSlide": 12,
       "sourceSlide": 89,
@@ -1857,7 +1554,7 @@
       ]
     },
     {
-      "sequence": 67,
+      "sequence": 43,
       "part": 2,
       "localSlide": 13,
       "sourceSlide": 90,
@@ -1887,7 +1584,7 @@
       ]
     },
     {
-      "sequence": 68,
+      "sequence": 44,
       "part": 2,
       "localSlide": 14,
       "sourceSlide": 91,
@@ -1908,7 +1605,7 @@
       ]
     },
     {
-      "sequence": 69,
+      "sequence": 45,
       "part": 2,
       "localSlide": 15,
       "sourceSlide": 92,
@@ -1970,7 +1667,7 @@
       ]
     },
     {
-      "sequence": 70,
+      "sequence": 46,
       "part": 2,
       "localSlide": 16,
       "sourceSlide": 93,
@@ -1991,7 +1688,7 @@
       ]
     },
     {
-      "sequence": 71,
+      "sequence": 47,
       "part": 2,
       "localSlide": 17,
       "sourceSlide": 94,
@@ -2029,7 +1726,7 @@
       ]
     },
     {
-      "sequence": 72,
+      "sequence": 48,
       "part": 2,
       "localSlide": 18,
       "sourceSlide": 95,
@@ -2054,7 +1751,7 @@
       ]
     },
     {
-      "sequence": 73,
+      "sequence": 49,
       "part": 2,
       "localSlide": 19,
       "sourceSlide": 96,
@@ -2075,7 +1772,7 @@
       ]
     },
     {
-      "sequence": 74,
+      "sequence": 50,
       "part": 2,
       "localSlide": 20,
       "sourceSlide": 97,
@@ -2117,7 +1814,7 @@
       ]
     },
     {
-      "sequence": 75,
+      "sequence": 51,
       "part": 2,
       "localSlide": 21,
       "sourceSlide": 98,
@@ -2138,7 +1835,7 @@
       ]
     },
     {
-      "sequence": 76,
+      "sequence": 52,
       "part": 2,
       "localSlide": 22,
       "sourceSlide": 99,
@@ -2168,7 +1865,7 @@
       ]
     },
     {
-      "sequence": 77,
+      "sequence": 53,
       "part": 2,
       "localSlide": 23,
       "sourceSlide": 100,
@@ -2237,7 +1934,7 @@
       ]
     },
     {
-      "sequence": 78,
+      "sequence": 54,
       "part": 3,
       "localSlide": 1,
       "sourceSlide": 101,
@@ -2258,7 +1955,7 @@
       ]
     },
     {
-      "sequence": 79,
+      "sequence": 55,
       "part": 3,
       "localSlide": 2,
       "sourceSlide": 102,
@@ -2279,7 +1976,7 @@
       ]
     },
     {
-      "sequence": 80,
+      "sequence": 56,
       "part": 3,
       "localSlide": 3,
       "sourceSlide": 103,
@@ -2300,7 +1997,7 @@
       ]
     },
     {
-      "sequence": 81,
+      "sequence": 57,
       "part": 3,
       "localSlide": 4,
       "sourceSlide": 104,
@@ -2337,7 +2034,7 @@
       ]
     },
     {
-      "sequence": 82,
+      "sequence": 58,
       "part": 3,
       "localSlide": 5,
       "sourceSlide": 105,
@@ -2369,7 +2066,7 @@
       ]
     },
     {
-      "sequence": 83,
+      "sequence": 59,
       "part": 3,
       "localSlide": 6,
       "sourceSlide": 106,
@@ -2399,7 +2096,7 @@
       ]
     },
     {
-      "sequence": 84,
+      "sequence": 60,
       "part": 3,
       "localSlide": 7,
       "sourceSlide": 107,
@@ -2429,7 +2126,7 @@
       ]
     },
     {
-      "sequence": 85,
+      "sequence": 61,
       "part": 3,
       "localSlide": 8,
       "sourceSlide": 108,
@@ -2459,7 +2156,7 @@
       ]
     },
     {
-      "sequence": 86,
+      "sequence": 62,
       "part": 3,
       "localSlide": 9,
       "sourceSlide": 109,
@@ -2480,7 +2177,7 @@
       ]
     },
     {
-      "sequence": 87,
+      "sequence": 63,
       "part": 3,
       "localSlide": 10,
       "sourceSlide": 110,
@@ -2501,7 +2198,7 @@
       ]
     },
     {
-      "sequence": 88,
+      "sequence": 64,
       "part": 3,
       "localSlide": 11,
       "sourceSlide": 111,
@@ -2522,7 +2219,7 @@
       ]
     },
     {
-      "sequence": 89,
+      "sequence": 65,
       "part": 3,
       "localSlide": 12,
       "sourceSlide": 112,
@@ -2543,7 +2240,7 @@
       ]
     },
     {
-      "sequence": 90,
+      "sequence": 66,
       "part": 3,
       "localSlide": 13,
       "sourceSlide": 113,
@@ -2585,7 +2282,7 @@
       ]
     },
     {
-      "sequence": 91,
+      "sequence": 67,
       "part": 3,
       "localSlide": 14,
       "sourceSlide": 114,
@@ -2614,7 +2311,7 @@
       ]
     },
     {
-      "sequence": 92,
+      "sequence": 68,
       "part": 3,
       "localSlide": 15,
       "sourceSlide": 115,
@@ -2635,7 +2332,7 @@
       ]
     },
     {
-      "sequence": 93,
+      "sequence": 69,
       "part": 3,
       "localSlide": 16,
       "sourceSlide": 116,
@@ -2656,7 +2353,7 @@
       ]
     },
     {
-      "sequence": 94,
+      "sequence": 70,
       "part": 3,
       "localSlide": 17,
       "sourceSlide": 117,
@@ -2697,7 +2394,7 @@
       ]
     },
     {
-      "sequence": 95,
+      "sequence": 71,
       "part": 3,
       "localSlide": 18,
       "sourceSlide": 118,
@@ -2746,7 +2443,7 @@
       ]
     },
     {
-      "sequence": 96,
+      "sequence": 72,
       "part": 3,
       "localSlide": 19,
       "sourceSlide": 119,
@@ -2789,7 +2486,7 @@
       ]
     },
     {
-      "sequence": 97,
+      "sequence": 73,
       "part": 3,
       "localSlide": 20,
       "sourceSlide": 120,
@@ -2823,7 +2520,7 @@
       ]
     },
     {
-      "sequence": 98,
+      "sequence": 74,
       "part": 3,
       "localSlide": 21,
       "sourceSlide": 121,
@@ -2893,7 +2590,7 @@
       ]
     },
     {
-      "sequence": 99,
+      "sequence": 75,
       "part": 3,
       "localSlide": 22,
       "sourceSlide": 122,
@@ -2914,7 +2611,7 @@
       ]
     },
     {
-      "sequence": 100,
+      "sequence": 76,
       "part": 3,
       "localSlide": 23,
       "sourceSlide": 123,
