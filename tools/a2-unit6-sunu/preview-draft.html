@@ -168,14 +168,14 @@
     const idx=langs.find(x=>x.id===lang)?.index??0,key=hit.key||hit.text.toLowerCase(),phrase=dict.phrases?.[key],form=dict.forms?.[key],word=dict.words?.[key],ex=dict.examples?.[key];
     const item=phrase||form||word;const transArr=phrase?.translations||form?.formTranslations||word;
     const lemma=form?.lemma;
-    const exampleTr=phrase?.exampleTr||form?.exampleTr||ex?.[0];const exampleTranslations=phrase?.examples||form?.examples||ex?.[1];
+    const exampleTr=phrase?.exampleTr||form?.exampleTr||(Array.isArray(ex)?ex[0]:ex?.tr);const exampleTranslations=phrase?.examples||form?.examples||(Array.isArray(ex)?ex[1]:ex?.values);
     const panel=document.getElementById('translationPanel');panel.querySelector('.empty').style.display='none';panel.querySelectorAll('.entry-content').forEach(n=>n.remove());
     const el=document.createElement('div');el.className='entry-content';
     const displayText=hit.displayText||canonicalDisplay(hit),targetLang=langs[idx].id;
     if(!item){el.innerHTML=`<div class="type-label">${langs[idx].label} · TÜRKÇE İFADE</div><div class="word-heading"><h3 class="word-title">${esc(displayText)}</h3>${speechButton(displayText,'tr')}</div><div class="translation">Bu kelime için çeviri kaydı bulunamadı.</div>`;}
     else{
       const translation=transArr?.[idx]||'—';
-      const lemmaEntry=lemma?(dict.words?.[lemma]||null):null;const lemmaTranslation=lemmaEntry?.[idx];
+      const lemmaEntry=lemma?(dict.words?.[lemma]||form?.lemmaTranslations||null):null;const lemmaTranslation=lemmaEntry?.[idx];
       const translationSpeech=speechRow(translation,targetLang);
       const formTranslation=form?`<div class="translation"><div class="type-label">YALIN HÂL · ${esc(lemma||'')}</div>${speechRow(lemmaTranslation||lemma||'—',targetLang)}</div><div class="form-translation"><span>Kitaptaki biçimi: <strong>${esc(form.formTranslations[idx]||translation)}</strong></span>${speechButton(form.formTranslations[idx]||translation,targetLang,'Kitaptaki biçimin anlamını dinle')}</div>`:'';
       const exampleBlock=exampleTr?`<div class="example"><strong>ÖRNEK CÜMLE · ${langs[idx].label}</strong>${speechRow(exampleTr,'tr')}${exampleTranslations?.[idx]?speechRow(exampleTranslations[idx],targetLang,'translated'):''}</div>`:'';
