@@ -409,7 +409,23 @@
       "sourcePartSlide": 61,
       "image": "assets-draft/slides/grammar-061.webp",
       "imageWidth": 2400,
-      "imageHeight": 1350
+      "imageHeight": 1350,
+      "masks": [
+        {
+          "x": 0.04,
+          "y": 0.1,
+          "w": 0.72,
+          "h": 0.075,
+          "text": "Metindeki yapılar ve örnekler"
+        },
+        {
+          "x": 0.12,
+          "y": 0.79,
+          "w": 0.78,
+          "h": 0.11,
+          "text": ""
+        }
+      ]
     },
     {
       "sequence": 35,
@@ -479,7 +495,16 @@
       "sourcePartSlide": 68,
       "image": "assets-draft/slides/grammar-068.webp",
       "imageWidth": 2400,
-      "imageHeight": 1350
+      "imageHeight": 1350,
+      "masks": [
+        {
+          "x": 0.04,
+          "y": 0.1,
+          "w": 0.72,
+          "h": 0.075,
+          "text": "Gereklilik ve amaç bildiren yapılar"
+        }
+      ]
     },
     {
       "sequence": 40,
@@ -506,7 +531,16 @@
       "sourcePartSlide": 75,
       "image": "assets-draft/slides/grammar-075.webp",
       "imageWidth": 2400,
-      "imageHeight": 1350
+      "imageHeight": 1350,
+      "masks": [
+        {
+          "x": 0.04,
+          "y": 0.1,
+          "w": 0.72,
+          "h": 0.075,
+          "text": "Gereklilik ve amaç bildiren yapılar"
+        }
+      ]
     },
     {
       "sequence": 43,
