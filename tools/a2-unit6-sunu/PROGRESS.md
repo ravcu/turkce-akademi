@@ -1,5 +1,7 @@
-# Lise A2 6. ünite sunu modu — hazırlık
+# Lise A2 6. ünite sunu modu — taslak
 
-Kaynaklar: 1. parça 77, 2. parçanın 1. bölümü 23, 2. parçanın 2. bölümü 23 slayt; toplam 123 slayt. Arşivlerde toplam 17 ses dosyası tespit edildi.
+Kaynaklar 77 + 23 + 23 = 123 slayt, toplam 17 gömülü ses dosyası. Otomatik filtre 47 slaytı (23 kelime listesi, 24 İngilizce ek sayfa) çıkardı ve 76 ders slaytı bıraktı; sonuç doğrulanmalıdır. 22 ses nesnesinin kaynak kırpma değerleri envanterde kayıtlıdır.
 
-İlk otomatik tarama 23 kelime listesi sayfası ve 22 ses nesnesi tespit etti; taslak envanter source-audit-draft.json dosyasında, kaynak kesim değerleriyle saklandı. build-draft.py deneyseldir; ayırma kuralları doğrulanmadan kullanılmamalıdır. Türkçe OCR modeli mevcut çalışma ortamında bulunamadı. Cevaplar, İngilizce sekmeler, ses kesimleri ve kelime alanları slayt slayt doğrulanmalıdır. Sunu tamamlanmadı veya yayımlanmadı. PowerPoint kaynakları bu dalda bulunmamaktadır.
+2400 piksel taslak görseller ve ses kesimleri geçici çalışma ortamında üretildi; bu dosyalar GitHub'a yüklenmedi. slides-draft.json, word-spots-draft.json, unmatched-ocr-draft.json ve taslak arayüz/üretim kodu bu dalda saklandı. İngilizce OCR ile üretilen kelime alanları güvenilir değildir: 2030 farklı tanıma sonucu mevcut sözlükte eşleşmedi. Türkçe OCR ile yeniden çıkarılıp içerik ve çeviriler sayfa sayfa doğrulanmalıdır. Bazı çeviri şekillerinin kaldırılması, cevap katmanları ve seslerin gerçekten uygun bölümde çalınması görsel/işitsel kontrol gerektirir.
+
+Sunu hazır değildir; ana dalda herhangi bir sunu güncellemesi ya da yayın yapılmamıştır. PowerPoint kaynakları bu dalda bulunmamaktadır.
