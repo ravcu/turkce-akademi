@@ -21,8 +21,8 @@ for part in [1,2,3]:
   if 'Kelime Listesi' in text or ('Türkçe kelime / ifade' in text and 'İngilizce anlamı' in text):
    excluded.append({'part':part,'slide':local,'reason':'vocabulary-list'});vocabulary.append({'part':part,'slide':local,'text':text});ids.remove(ref);continue
   # Extra English-only teaching tables are omitted; Turkish grammar tables remain.
-  if False:
-   excluded.append({'part':part,'slide':local,'reason':'English-translation-table'});ids.remove(ref);continue
+  if part==1 and (text.startswith('Önemli Gramer Yapıları') or text.startswith('Cümlelerin İngilizcesi') or text.startswith('Tamamlanmış Cümleler') or local in [9,25]):
+   excluded.append({'part':part,'slide':local,'reason':'supplementary-English-slide'});ids.remove(ref);continue
   rec={'sequence':len(records)+1,'part':part,'localSlide':local,'sourceSlide':offset+local,'slidePath':path,'dimensions':dims,'text':text,'audio':[],'answerShapes':[],'removedEnglish':[],'pictures':[]}
   rp=posixpath.dirname(path)+'/_rels/'+posixpath.basename(path)+'.rels';sr={e.get('Id'):e.get('Target') for e in E.fromstring(z.read(rp))} if rp in z.namelist() else {}
   for sh in list(r.xpath('//p:spTree/*',namespaces=N)):
@@ -37,6 +37,8 @@ for part in [1,2,3]:
      rec['audio'].append({'file':str(f),'sha256':sha,'sourceMedia':target,'sourceDuration':dur,'start':start,'end':end,'trim':dict(attrs)})
     sh.getparent().remove(sh);continue
    st=' '.join(sh.xpath('.//a:t/text()',namespaces=N))
+   if part==1 and local in [13,17,21] and st.startswith('Reporter:'):
+    rec['removedEnglish'].append(st);sh.getparent().remove(sh);continue
    if ('İNGİLİZCE' in st or 'İngilizce' in st) and sh.xpath('.//a:tbl',namespaces=N):
     rec['removedEnglish'].append(st);sh.getparent().remove(sh);continue
    if st.strip().lower() in ['english','i̇ngilizce','ingilizce','çeviri','translation']:
