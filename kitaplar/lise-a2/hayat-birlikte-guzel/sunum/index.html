@@ -4,7 +4,7 @@
 let slides=[],n=0,language='en',currentWord='',currentTrack='';const $=id=>document.getElementById(id);const langs={en:'🇬🇧 EN',ru:'🇷🇺 RU',ky:'🇰🇬 KG',ar:'🇸🇦 AR',fr:'🇫🇷 FR'};Object.entries(langs).forEach(([k,v])=>{let b=document.createElement('button');b.textContent=v;b.onclick=()=>{language=k;document.querySelectorAll('.langs button').forEach(x=>x.classList.toggle('active',x===b));showWord(currentWord)};$('langs').append(b)});$('langs').firstChild.classList.add('active');
 let glossary=null;
 const langOrder={en:0,ru:1,ky:2,ar:3,fr:4};
-const norm=t=>String(t||'').normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/[’‘]/g,"'").replace(/^[\\s.,:;!?()\\[\\]{}"“”’…\\-−•]+|[\\s.,:;!?()\\[\\]{}"“”’…\\-−•]+$/g,'');
+const norm=t=>String(t||'').normalize('NFC').trim().toLocaleLowerCase('tr-TR').replace(/[’‘]/g,"'").replace(/^[\s.,:;!?()\[\]{}"“”’…\-−•]+|[\s.,:;!?()\[\]{}"“”’…\-−•]+$/g,'');
 function showWord(t){
  currentWord=t||'';
  $('word').textContent=t||'Bir kelimeye dokunun.';
