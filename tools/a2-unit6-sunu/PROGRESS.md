@@ -1,7 +1,9 @@
-# Lise A2 6. ünite sunu modu — taslak
+# Lise A2 6. ünite sunu modu — doğrulanmamış taslak
 
-Kaynaklar 77 + 23 + 23 = 123 slayt, toplam 17 gömülü ses dosyası. Otomatik filtre 47 slaytı (23 kelime listesi, 24 İngilizce ek sayfa) çıkardı ve 76 ders slaytı bıraktı; sonuç doğrulanmalıdır. 22 ses nesnesinin kaynak kırpma değerleri envanterde kayıtlıdır.
+Üç kaynakta toplam 123 slayt var. Otomatik filtre ve Türkçe dil bilgisi tablolarının korunması sonrasında taslak 88 slayttır; seçim ve sıra kaynaklarla doğrulanmalıdır. 76 ana slayt, 12 ek dil bilgisi görseli, 23 cevap görüntüsü ve 22 ses kesiti bu dalda assets-draft altında saklıdır. Bir kısa ses kesiti yeniden hazırlanmış ve 22 kesitin süreleri kaynak başlangıç/bitişleriyle kontrol edilmiştir; dinleyerek doğrulama beklemektedir.
 
-2400 piksel taslak görseller ve ses kesimleri geçici çalışma ortamında üretildi; bu dosyalar GitHub'a yüklenmedi. slides-draft.json, word-spots-draft.json, unmatched-ocr-draft.json ve taslak arayüz/üretim kodu bu dalda saklandı. İngilizce OCR ile üretilen kelime alanları güvenilir değildir: 2030 farklı tanıma sonucu mevcut sözlükte eşleşmedi. Türkçe OCR ile yeniden çıkarılıp içerik ve çeviriler sayfa sayfa doğrulanmalıdır. Bazı çeviri şekillerinin kaldırılması, cevap katmanları ve seslerin gerçekten uygun bölümde çalınması görsel/işitsel kontrol gerektirir.
+Türkçe Tesseract modeliyle kelime alanları çıkarıldı ve mevcut ünite sözlükleriyle eşleştirildi. 741 farklı tanıma sonucu eşleşmedi; bazıları OCR hatası veya işarettir, gerçek eksik kelimeler ayrıştırılmalı, 5 dil, biçimler ve örnekler doğrulanmalıdır. Bütünleşik sözlük ve preview-draft.html taslaktır. 6. ünitenin PDF sözlüğü ve diğer ünitelerden veriler bağlama göre incelenmeden tamamlanmış sayılmamalıdır.
 
-Sunu hazır değildir; ana dalda herhangi bir sunu güncellemesi ya da yayın yapılmamıştır. PowerPoint kaynakları bu dalda bulunmamaktadır.
+Bazı İngilizce ek alanlar taslakta beyaz maskeyle gizlenmiştir; küçük görseller, sayfa geçişi, cevap göster/gizle ve tüm slaytlar kontrol edilmelidir. Bazı dil bilgisi başlıkları ve sunumdaki görsellerin bütünlüğü hâlâ denetim gerektirir. Tarayıcı işlev testi bu ortamda tamamlanmadı.
+
+Ana dalda güncelleme yapılmadı, sunu yayımlanmadı. PowerPoint kaynakları bu dalda bulunmamaktadır.
