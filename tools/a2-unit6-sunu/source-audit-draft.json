@@ -1,0 +1,2946 @@
+{
+  "sourceSlides": 123,
+  "keptSlides": 100,
+  "excluded": [
+    {
+      "part": 1,
+      "slide": 6,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 10,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 11,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 14,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 15,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 18,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 19,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 22,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 29,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 30,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 33,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 34,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 39,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 40,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 46,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 47,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 51,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 53,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 59,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 60,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 66,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 67,
+      "reason": "vocabulary-list"
+    },
+    {
+      "part": 1,
+      "slide": 74,
+      "reason": "vocabulary-list"
+    }
+  ],
+  "slides": [
+    {
+      "sequence": 1,
+      "part": 1,
+      "localSlide": 1,
+      "sourceSlide": 1,
+      "slidePath": "ppt/slides/slide1.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "LİSE A2 DERS KİTABI 6. ÜNİTE    A2   DERS KİTABI        6.ÜNİTE",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image1.png",
+          "sha256": "66ddcf3a5b1ee6192c7fff9351630776ec56e6ecc2ec67a81db50de03f39ab05"
+        }
+      ]
+    },
+    {
+      "sequence": 2,
+      "part": 1,
+      "localSlide": 2,
+      "sourceSlide": 2,
+      "slidePath": "ppt/slides/slide2.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 120",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image2.png",
+          "sha256": "bb3dcd23760fc0680914ce520f95611727c0940572446646f7804a2ba3fbbc15"
+        }
+      ]
+    },
+    {
+      "sequence": 3,
+      "part": 1,
+      "localSlide": 3,
+      "sourceSlide": 3,
+      "slidePath": "ppt/slides/slide3.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 120",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image3.png",
+          "sha256": "1c7e462169afe5d1bfa488e84f1fc303d1115f1e3163af3b0882e35a1b452985"
+        }
+      ]
+    },
+    {
+      "sequence": 4,
+      "part": 1,
+      "localSlide": 4,
+      "sourceSlide": 4,
+      "slidePath": "ppt/slides/slide4.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 120",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image4.png",
+          "sha256": "9757636be16ca0a851fb06dd058ac62f86dd11a09b311428d00d6de7dcd1a8ad"
+        }
+      ]
+    },
+    {
+      "sequence": 5,
+      "part": 1,
+      "localSlide": 5,
+      "sourceSlide": 5,
+      "slidePath": "ppt/slides/slide5.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 120",
+      "audio": [
+        {
+          "sha256": "c7acde0f06ce3ff6a96f5892460b5005bff55094693c8657bf7aca6d8fb9a95f",
+          "sourceMedia": "ppt/media/media1.wav",
+          "sourceDuration": 39.291396,
+          "start": 20.682,
+          "end": 39.291396,
+          "trim": {
+            "st": "20682"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image5.png",
+          "sha256": "ed919202cc5cd4165717d5483288960718c2c7b04f3fa98abaa9702b8c4d8baf"
+        }
+      ]
+    },
+    {
+      "sequence": 6,
+      "part": 1,
+      "localSlide": 7,
+      "sourceSlide": 7,
+      "slidePath": "ppt/slides/slide7.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Emir, yasaklama ve yer bildiren yapılar 8 yapı 2 / 2 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mayınız/-meyiniz Do not + V1 konuşmayınız → do not talk Fiil + -(y)ınız/-(y)iniz V1 / please + V1 durunuz → stop / please stop Fiil + -ın/-in/-un/-ün V1 / imperative dinleyin → listen • söyleyin → say -da/-de bulunma hâli in / at / on araçta → in the vehicle ile / -la/-le araç eki with / by telefonla → on the phone / by phone İsim + iyelik eki its / their metnin görselleri → the visuals of the text hangi + isim? which / what + noun? Hangi işaretler var? → What signs are there? var mı / var? is/are there? İşaretler var. → There are signs.",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mayınız/-meyiniz Do not + V1 konuşmayınız → do not talk Fiil + -(y)ınız/-(y)iniz V1 / please + V1 durunuz → stop / please stop Fiil + -ın/-in/-un/-ün V1 / imperative dinleyin → listen • söyleyin → say -da/-de bulunma hâli in / at / on araçta → in the vehicle ile / -la/-le araç eki with / by telefonla → on the phone / by phone İsim + iyelik eki its / their metnin görselleri → the visuals of the text hangi + isim? which / what + noun? Hangi işaretler var? → What signs are there? var mı / var? is/are there? İşaretler var. → There are signs."
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 7,
+      "part": 1,
+      "localSlide": 8,
+      "sourceSlide": 8,
+      "slidePath": "ppt/slides/slide8.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "c. Birinci görseldeki kaza görünmez kazadır. Görünmez kaza küçük dikkatsizlik sonucu  yapılan kazalardır. b. Görsellerdeki tüm kazalar görünmez kaza olabilir. DK 120",
+      "audio": [
+        {
+          "sha256": "62703fc69cef93d3ba8c00f9fa1acbe51fab0db9020c7b4e9c0b5afbb20437df",
+          "sourceMedia": "ppt/media/media2.wav",
+          "sourceDuration": 195.8965,
+          "start": 15.684,
+          "end": 88.897,
+          "trim": {
+            "st": "15684",
+            "end": "106999.5"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "text": "c. Birinci görseldeki kaza görünmez kazadır."
+        },
+        {
+          "text": "Görünmez kaza küçük dikkatsizlik sonucu  yapılan kazalardır."
+        },
+        {
+          "text": "b. Görsellerdeki tüm kazalar görünmez kaza olabilir."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image7.jpeg",
+          "sha256": "c0c4eab97a340668f28910b7e3b45d1f30ef1747900333bab1020d49afbe485d"
+        }
+      ]
+    },
+    {
+      "sequence": 8,
+      "part": 1,
+      "localSlide": 9,
+      "sourceSlide": 9,
+      "slidePath": "ppt/slides/slide9.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "What could the expression “unseen accident” mean? Explain. Examine the visuals in the text. Which of them could be an unseen accident? Guess and explain. Read the text. Which accidents are unseen accidents? Explain. Reporter:  Good day, dear viewers. An interesting accident occurred on  Vefa  Street today. Four vehicles collided. Fortunately, no one was killed or injured. Now, let’s ask the people involved how the accident happened. Reporter:  Hello. How did the accident happen? Could you explain? Selim:  My mother is returning from abroad today. Therefore, I have to meet her at the airport. I set off fifteen minutes ago to go to the airport. Suddenly, a cat appeared in front of me. I stopped suddenly so that I wouldn’t hit it. However, the vehicle behind me couldn’t stop and hit me. Reporter:  I hope you feel better soon, sir. Selim:  Thank you. Reporter:  I hope you feel better soon, madam. Leyla:  Thank you. Reporter:  How did the accident happen? Didn’t you see the car in front of you? Leyla:  I didn’t understand how the accident happened at all. I had an important school exam. I left home late. I think I was driving very fast to get to the exam on time. The car in front of me suddenly stopped, but I couldn’t stop and hit it. Unfortunately, I missed the exam. Do you think this was an unseen accident?",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": []
+    },
+    {
+      "sequence": 9,
+      "part": 1,
+      "localSlide": 12,
+      "sourceSlide": 12,
+      "slidePath": "ppt/slides/slide12.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Görünmez kaza metnindeki temel yapılar 10 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -dı/-di/-du/-dü simple past: V2 çarptı → hit • durdu → stopped Fiil + -(I)yor present continuous dönüyor → is returning Fiil + -malı/-meli must / have to / should karşılamalıyım → I must meet her Fiil + -mak/-mek için to / in order to yetişmek için → in order to arrive on time Fiil + -mamak/-memek için in order not to çarpmamak için → in order not to hit Fiil + -(y)amadı/-(y)emedi could not / was unable to duramadı → could not stop Zaman + önce … ago on beş dakika önce → fifteen minutes ago -daki/-deki in/on/at … / the one located … öndeki araba → the car in front -dan/-den dönmek to return from yurt dışından dönmek → to return from abroad … mısınız? Could/Would you …? Anlatır   mısınız ? → Could you explain?",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -dı/-di/-du/-dü simple past: V2 çarptı → hit • durdu → stopped Fiil + -(I)yor present continuous dönüyor → is returning Fiil + -malı/-meli must / have to / should karşılamalıyım → I must meet her Fiil + -mak/-mek için to / in order to yetişmek için → in order to arrive on time Fiil + -mamak/-memek için in order not to çarpmamak için → in order not to hit Fiil + -(y)amadı/-(y)emedi could not / was unable to duramadı → could not stop Zaman + önce … ago on beş dakika önce → fifteen minutes ago -daki/-deki in/on/at … / the one located … öndeki araba → the car in front -dan/-den dönmek to return from yurt dışından dönmek → to return from abroad … mısınız? Could/Would you …? Anlatır   mısınız ? → Could you explain?"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 10,
+      "part": 1,
+      "localSlide": 13,
+      "sourceSlide": 13,
+      "slidePath": "ppt/slides/slide13.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Reporter:  Well, sir, could you tell us what happened? How did the accident happen? Mehmet:  Hello, darling. Look, there are reporters and cameramen here. They’re filming the accident. What? How did the accident happen? I don’t understand either. I was driving along the road when you called. I answered the phone. Suddenly, I heard a “bang.” Hello! What are you saying? It’s very crowded here. I can’t hear you. The meeting? No, I couldn’t make it to the meeting. Reporter:  Yes, dear viewers, using a mobile phone in a vehicle is very dangerous. We always say that we must not use mobile phones in traffic. Mehmet:  I’m hanging up now. The reporter wants to interview me. I’ll call you later, darling. See you. Reporter:  I hope you feel better soon, sir. May God protect you from anything worse. Mehmet:  Thank you. May God bless you. DK 121",
+      "audio": [
+        {
+          "sha256": "62703fc69cef93d3ba8c00f9fa1acbe51fab0db9020c7b4e9c0b5afbb20437df",
+          "sourceMedia": "ppt/media/media2.wav",
+          "sourceDuration": 195.8965,
+          "start": 89.181,
+          "end": 145.941,
+          "trim": {
+            "st": "89181",
+            "end": "49955.5"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image8.jpg",
+          "sha256": "ed7f6fa23d5d706e7ab866609198fab342f4b4cb913180a491da35c32a37a9c1"
+        }
+      ]
+    },
+    {
+      "sequence": 11,
+      "part": 1,
+      "localSlide": 16,
+      "sourceSlide": 16,
+      "slidePath": "ppt/slides/slide16.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Telefon kullanımı ve kaza diyaloğundaki yapılar 10 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(I)yor present continuous çekiyorlar → they are filming Fiil + -dı/-di/-du/-dü simple past: V2 aradın → you called • geldi → came Fiil + -(y)amadı/-(y)emedi could not / was unable to yetişemedim → I could not make it Fiil + -malı/-meli should / must kullanmamalıyız → we should not use Fiil + -mak/-mek istemek want to do röportaj yapmak istiyor → he wants to conduct an interview Geniş zaman: -(A/I)r will / habitual action ararım → I’ll call … diye + isim/fiil saying / with the sound … ‘Tak’ diye bir ses → a ‘bang’ sound -da/-de bulunma hâli in / at / on araçta → in the vehicle • trafikte → in traffic Soru: nasıl oldu? How did … happen? Kaza nasıl oldu? → How did the accident happen? Hitap ve kalıp sözler forms of address / fixed expressions hayatım → my dear • geçmiş olsun → get well soon",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(I)yor present continuous çekiyorlar → they are filming Fiil + -dı/-di/-du/-dü simple past: V2 aradın → you called • geldi → came Fiil + -(y)amadı/-(y)emedi could not / was unable to yetişemedim → I could not make it Fiil + -malı/-meli should / must kullanmamalıyız → we should not use Fiil + -mak/-mek istemek want to do röportaj yapmak istiyor → he wants to conduct an interview Geniş zaman: -(A/I)r will / habitual action ararım → I’ll call … diye + isim/fiil saying / with the sound … ‘Tak’ diye bir ses → a ‘bang’ sound -da/-de bulunma hâli in / at / on araçta → in the vehicle • trafikte → in traffic Soru: nasıl oldu? How did … happen? Kaza nasıl oldu? → How did the accident happen? Hitap ve kalıp sözler forms of address / fixed expressions hayatım → my dear • geçmiş olsun → get well soon"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 12,
+      "part": 1,
+      "localSlide": 17,
+      "sourceSlide": 17,
+      "slidePath": "ppt/slides/slide17.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Reporter:  Sir, I would like to ask you too. How did the accident happen? Ali:  Where should I look? Where is the camera? Reporter:  Over here, sir. Ali:  First of all, I would like to send my greetings to my whole family from here. Reporter:  Sir, I’m asking about the accident. Could you tell us what happened? Ali:  Of course. My daughter has a performance today. I drove fast so that I wouldn’t be late for the performance. Therefore, I didn’t stop at the pedestrian crossing. I think an elderly lady got angry with me, so she threw her walking stick at my vehicle. I turned the steering wheel to the left to avoid it. Then I heard a “bang!” Apparently, I hit the vehicle in front of me. Unfortunately, I was also late for the performance. Reporter:  I hope you feel better soon, sir. DK 121",
+      "audio": [
+        {
+          "sha256": "62703fc69cef93d3ba8c00f9fa1acbe51fab0db9020c7b4e9c0b5afbb20437df",
+          "sourceMedia": "ppt/media/media2.wav",
+          "sourceDuration": 195.8965,
+          "start": 146.0,
+          "end": 182.2,
+          "trim": {
+            "st": "146000",
+            "end": "13696.5"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "d883f26a89fb9ad6062e7216371b5b542d53f2516d1d7343f60a6159486456b4"
+        }
+      ]
+    },
+    {
+      "sequence": 13,
+      "part": 1,
+      "localSlide": 20,
+      "sourceSlide": 20,
+      "slidePath": "ppt/slides/slide20.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Ali’nin kaza anlatımındaki temel yapılar 10 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mak/-mek istemek want to do sormak istiyorum → I want to ask Fiil + -(y)abil/-ebil can / be able to anlatabilir misiniz? → can you explain? Fiil + -mamak/-memek için in order not to geç kalmamak için → in order not to be late Fiil + -dı/-di/-du/-dü simple past: V2 gittim → went • çevirdim → turned Olumsuz geçmiş zaman did not + V1 durmadım → I did not stop İsim + iyelik eki my/your/his/her kızımın gösterisi → my daughter’s performance -a/-e yönelme hâli to / toward sola → to the left • gösteriye → to the performance -dan/-den kaçmak to avoid / get away from bastondan kaçmak → to avoid the cane galiba probably / I think galiba bana kızdı → I think she got angry with me … diye bir ses a … sound ‘Küt!’ diye bir ses → a ‘bang!’ sound",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mak/-mek istemek want to do sormak istiyorum → I want to ask Fiil + -(y)abil/-ebil can / be able to anlatabilir misiniz? → can you explain? Fiil + -mamak/-memek için in order not to geç kalmamak için → in order not to be late Fiil + -dı/-di/-du/-dü simple past: V2 gittim → went • çevirdim → turned Olumsuz geçmiş zaman did not + V1 durmadım → I did not stop İsim + iyelik eki my/your/his/her kızımın gösterisi → my daughter’s performance -a/-e yönelme hâli to / toward sola → to the left • gösteriye → to the performance -dan/-den kaçmak to avoid / get away from bastondan kaçmak → to avoid the cane galiba probably / I think galiba bana kızdı → I think she got angry with me … diye bir ses a … sound ‘Küt!’ diye bir ses → a ‘bang!’ sound"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 14,
+      "part": 1,
+      "localSlide": 21,
+      "sourceSlide": 21,
+      "slidePath": "ppt/slides/slide21.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Reporter:  Yes, dear viewers, such interesting accidents can happen. Therefore, we must obey the traffic rules and be careful in traffic. I wish everyone safe and healthy days. DK 121",
+      "audio": [
+        {
+          "sha256": "62703fc69cef93d3ba8c00f9fa1acbe51fab0db9020c7b4e9c0b5afbb20437df",
+          "sourceMedia": "ppt/media/media2.wav",
+          "sourceDuration": 195.8965,
+          "start": 182.478,
+          "end": 195.8965,
+          "trim": {
+            "st": "182478"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image10.png",
+          "sha256": "ead9854a34b586aea08e7cfa5b122b3d8b42970325434f3ddda5d3c6ce280283"
+        }
+      ]
+    },
+    {
+      "sequence": 15,
+      "part": 1,
+      "localSlide": 23,
+      "sourceSlide": 23,
+      "slidePath": "ppt/slides/slide23.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Trafik güvenliği metnindeki temel yapılar 7 yapı 2 / 2 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(y)abil/-ebil can / may / be able to olabiliyor → can happen Fiil + -malı/-meli should / must uymalıyız → we must obey Olumsuz gereklilik should not / must not dikkatsiz olmamalıyız → we must not be careless -a/-e + uymak to obey / comply with kurallara uymak → to obey the rules -da/-de bulunma hâli in / at / on trafikte → in traffic bu yüzden therefore / that is why Bu yüzden dikkatli olmalıyız. → Therefore, we must be careful. İsim + dilemek to wish + noun güvenli günler dilerim → I wish you safe days",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -(y)abil/-ebil can / may / be able to olabiliyor → can happen Fiil + -malı/-meli should / must uymalıyız → we must obey Olumsuz gereklilik should not / must not dikkatsiz olmamalıyız → we must not be careless -a/-e + uymak to obey / comply with kurallara uymak → to obey the rules -da/-de bulunma hâli in / at / on trafikte → in traffic bu yüzden therefore / that is why Bu yüzden dikkatli olmalıyız. → Therefore, we must be careful. İsim + dilemek to wish + noun güvenli günler dilerim → I wish you safe days"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 16,
+      "part": 1,
+      "localSlide": 24,
+      "sourceSlide": 24,
+      "slidePath": "ppt/slides/slide24.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Kaza Vefa Caddesi’nde meydana geldi. b. Kazayı Selim Bey ve Leyla Hanım yaptı. c. Mehmet toplantıya gitmek istiyor. ç. Leyla sınav yerine gitmek istiyor. d. Annesi yurt dışından döndüğü için onu karşılamaya havaalanına gitmesi gerek. e. Arabasının önüne birdenbire çıkan kediye çarpmamak için aniden durdu ve arkasındaki araç ona çarptı. f. Hızlı gitti ve yaya geçidinde durmadı. DK 121",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Kaza Vefa Caddesi’nde meydana geldi."
+        },
+        {
+          "text": "b. Kazayı Selim Bey ve Leyla Hanım yaptı."
+        },
+        {
+          "text": "c. Mehmet toplantıya gitmek istiyor."
+        },
+        {
+          "text": "ç. Leyla sınav yerine gitmek istiyor."
+        },
+        {
+          "text": "d. Annesi yurt dışından döndüğü için onu karşılamaya havaalanına gitmesi gerek."
+        },
+        {
+          "text": "e. Arabasının önüne birdenbire çıkan kediye çarpmamak için aniden durdu ve arkasındaki araç ona çarptı."
+        },
+        {
+          "text": "f. Hızlı gitti ve yaya geçidinde durmadı."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image8.jpg",
+          "sha256": "ed7f6fa23d5d706e7ab866609198fab342f4b4cb913180a491da35c32a37a9c1"
+        }
+      ]
+    },
+    {
+      "sequence": 17,
+      "part": 1,
+      "localSlide": 25,
+      "sourceSlide": 25,
+      "slidePath": "ppt/slides/slide25.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Where   did   the   accident   happen ?   (Ver  did   dhi   eksidınt   hepın ?)   Who   caused   the   accident ?   (Hu  kozd   dhi   eksidınt ?)   Where   does  Mehmet  want   to   go ?   (Ver daz Mehmet  vant  tu  gou ?)   Where   does  Leyla  want   to   go ?   (Ver daz Leyla  vant  tu  gou ?)   Why   does  Selim  need   to   go   to   the   airport ?   (Vay daz Selim  niid  tu  gou  tu  dhi   erport ?)   Why   did  Selim  have  an  accident ?   (Vay  did  Selim  hev  en  eksidınt ?)   Which   traffic   rule   did  Ali break?   ( Viç   trefik   ruul   did  Ali  breyk ?)  ",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": []
+    },
+    {
+      "sequence": 18,
+      "part": 1,
+      "localSlide": 26,
+      "sourceSlide": 26,
+      "slidePath": "ppt/slides/slide26.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Oğlunu sınava yetiştirmek için arabayı hızlı kullandı. Önündeki araba aniden durunca kaza yaptı. Kaza yaptı bu nedenle sınava yetişemediler. Arabayı yavaş kullanmalı ve takip mesafesini ayarlamalı. Araç kullanırken telefonla konuştuğu için kaza yaptı. Kaza yaptı bu yüzden toplantıya yetişemedi. Araçta telefon kullanmamalı. Hızlı gittiği ve yaya geçidinde durmadığı için bir teyze bastonunu fırlattı. Bastondan kaçmaya çalışırken kaza yaptı. Gösteriye geç kaldılar. Hızlı gitmemeli ve yaya geçidinde durmalı. DK 122",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Oğlunu sınava yetiştirmek için arabayı hızlı kullandı. Önündeki araba aniden durunca kaza yaptı."
+        },
+        {
+          "text": "Kaza yaptı bu nedenle sınava yetişemediler."
+        },
+        {
+          "text": "Arabayı yavaş kullanmalı ve takip mesafesini ayarlamalı."
+        },
+        {
+          "text": "Araç kullanırken telefonla konuştuğu için kaza yaptı."
+        },
+        {
+          "text": "Kaza yaptı bu yüzden toplantıya yetişemedi."
+        },
+        {
+          "text": "Araçta telefon kullanmamalı."
+        },
+        {
+          "text": "Hızlı gittiği ve yaya geçidinde durmadığı için bir teyze bastonunu fırlattı. Bastondan kaçmaya çalışırken kaza yaptı."
+        },
+        {
+          "text": "Gösteriye geç kaldılar."
+        },
+        {
+          "text": "Hızlı gitmemeli ve yaya geçidinde durmalı."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "95c383c531f489df15243f9a5676e38145456022a4b444be7528a54423b3bd5d"
+        }
+      ]
+    },
+    {
+      "sequence": 19,
+      "part": 1,
+      "localSlide": 27,
+      "sourceSlide": 27,
+      "slidePath": "ppt/slides/slide27.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 122",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image12.png",
+          "sha256": "df53ffaa2d2bdae9d0cbcbfb4f3b0d32df0e9c1d67e004b3f4b736a1d795e5b7"
+        }
+      ]
+    },
+    {
+      "sequence": 20,
+      "part": 1,
+      "localSlide": 28,
+      "sourceSlide": 28,
+      "slidePath": "ppt/slides/slide28.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "yemek yememelisiniz. telefonunuzu kapatmalısınız. aracınızı park etmemelisiniz. yüksek sesle konuşmamalısınız. fotoğraf çekmemelisiniz. koşmamalısınız. b. Bu işaretleri toplu yaşam alanlarında görebiliriz. Günlük hayatta en önemli kural tüm canlılara saygılı olmaktır. You   should  not  eat .   ( Yu   şud   nat   iit .) Yemek yememelisiniz.  You   should   turn   off   your   phone .   ( Yu   şud   törn  of yor  foun .) Telefonunuzu kapatmalısınız.  You   should  not park  your  car.   ( Yu   şud   nat  park yor kar.) Aracınızı park etmemelisiniz.  You   should  not  speak   loudly .   ( Yu   şud   nat   spiik   laudli .) Yüksek sesle konuşmamalısınız.  You   should  not  run .   ( Yu   şud   nat   ran .) Koşmamalısınız.  You   should  not  take   photographs .   ( Yu   şud   nat   teyk   foutıgrafs .) Fotoğraf çekmemelisiniz.  DK 122",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "yemek yememelisiniz."
+        },
+        {
+          "text": "telefonunuzu kapatmalısınız."
+        },
+        {
+          "text": "aracınızı park etmemelisiniz."
+        },
+        {
+          "text": "yüksek sesle konuşmamalısınız."
+        },
+        {
+          "text": "fotoğraf çekmemelisiniz."
+        },
+        {
+          "text": "koşmamalısınız."
+        },
+        {
+          "text": "b. Bu işaretleri toplu yaşam alanlarında görebiliriz."
+        },
+        {
+          "text": "Günlük hayatta en önemli kural tüm canlılara saygılı olmaktır."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image13.jpeg",
+          "sha256": "6fd33e325d7165a3b06a2c49b678ee9a119d6c5588e8850cff0ad8ea0988f712"
+        }
+      ]
+    },
+    {
+      "sequence": 21,
+      "part": 1,
+      "localSlide": 31,
+      "sourceSlide": 31,
+      "slidePath": "ppt/slides/slide31.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Kuralları, yer bildirmeyi ve görüş belirtmeyi anlatan yapılar 8 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mamalı/-memeli should not / must not koşmamalısınız → You should not run. Nesne + -ı/-i + fiil verb + object telefonunuzu kapatın → turn off your phone -da/-de bulunma hâli in / at / on kütüphanede → in the library -a/-e yönelme hâli to / toward otobüs durağına → to the bus stop Fiil + -(y)abil/-ebil can / be able to görebiliriz → we can see Ne olabilir? What could it be? En önemli kural ne olabilir? → What could the most important rule be? Bence / Bana göre I think / In my opinion Bence koşmamalıyız. → I think we should not run. Fiil + -(y)ın/-(y)iniz imperative / polite instruction inceleyin → examine / look at",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -mamalı/-memeli should not / must not koşmamalısınız → You should not run. Nesne + -ı/-i + fiil verb + object telefonunuzu kapatın → turn off your phone -da/-de bulunma hâli in / at / on kütüphanede → in the library -a/-e yönelme hâli to / toward otobüs durağına → to the bus stop Fiil + -(y)abil/-ebil can / be able to görebiliriz → we can see Ne olabilir? What could it be? En önemli kural ne olabilir? → What could the most important rule be? Bence / Bana göre I think / In my opinion Bence koşmamalıyız. → I think we should not run. Fiil + -(y)ın/-(y)iniz imperative / polite instruction inceleyin → examine / look at"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 22,
+      "part": 1,
+      "localSlide": 32,
+      "sourceSlide": 32,
+      "slidePath": "ppt/slides/slide32.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 69",
+      "audio": [
+        {
+          "sha256": "d71bbd23dfcf844631515fa319ab5d4d5f99151ae69138d088b133ad5aab2295",
+          "sourceMedia": "ppt/media/media3.wav",
+          "sourceDuration": 86.68175,
+          "start": 17.388,
+          "end": 86.68175,
+          "trim": {
+            "st": "17388"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image14.png",
+          "sha256": "76e0f92f640718ba06cbc5aa16ea26f28c81fe2838dcdcc464a65bfe3ef68964"
+        }
+      ]
+    },
+    {
+      "sequence": 23,
+      "part": 1,
+      "localSlide": 35,
+      "sourceSlide": 35,
+      "slidePath": "ppt/slides/slide35.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Gereklilik, zaman sıralaması ve neden-sonuç yapıları 8 yapı 3 / 3 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must dönmeliyiz → we should turn Kişiye göre gereklilik should + V1 vermelisin → you should signal Fiil + -mamalı/-memeli should not / must not kuralları çiğnememelisin → you should not break the rules Fiil + -madan/-meden önce before + V-ing dönmeden önce → before turning Fiil + -masına gerek yok do not need to / there is no need to bilmesine gerek yok → nobody needs to know Demek ki so / that means Demek ki bu yüzden çarptı. → So, that is why he hit me. Bu yüzden therefore / that is why Bu yüzden sinyal vermelisin. → That is why you should signal. Sence / Bence What do you think? / I think Sence hangi kitabı almalıyım? → Which book do you think I should buy?",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must dönmeliyiz → we should turn Kişiye göre gereklilik should + V1 vermelisin → you should signal Fiil + -mamalı/-memeli should not / must not kuralları çiğnememelisin → you should not break the rules Fiil + -madan/-meden önce before + V-ing dönmeden önce → before turning Fiil + -masına gerek yok do not need to / there is no need to bilmesine gerek yok → nobody needs to know Demek ki so / that means Demek ki bu yüzden çarptı. → So, that is why he hit me. Bu yüzden therefore / that is why Bu yüzden sinyal vermelisin. → That is why you should signal. Sence / Bence What do you think? / I think Sence hangi kitabı almalıyım? → Which book do you think I should buy?"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 24,
+      "part": 1,
+      "localSlide": 36,
+      "sourceSlide": 36,
+      "slidePath": "ppt/slides/slide36.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 69",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image15.png",
+          "sha256": "2fdf3817223611e9e9cc89424cd4ced77f7835f46bb35ca907ece015e7946f97"
+        }
+      ]
+    },
+    {
+      "sequence": 25,
+      "part": 1,
+      "localSlide": 37,
+      "sourceSlide": 37,
+      "slidePath": "ppt/slides/slide37.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 70",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image16.jpg",
+          "sha256": "6657e098e2cc328da5c5ac822ad49a5acc4ec54a663b7dbd98d409d97e32633b"
+        }
+      ]
+    },
+    {
+      "sequence": 26,
+      "part": 1,
+      "localSlide": 38,
+      "sourceSlide": 38,
+      "slidePath": "ppt/slides/slide38.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Gereklilik ve tavsiye örnek cümleleri 11 cümle 4 / 4 Türkçe cümle İngilizcesi ve okunuşu Dışarıda   yağmur   yağıyor . It is raining outside. (İt iz reyning autsayd.) Yanıma şemsiye almalıyım. I should take an umbrella with me. (Ay  şud   teyk   en   ambrella  vit mi.) Dolap bomboş, hiçbir şey kalmamış. The fridge is completely empty. There is nothing left. ( Dı   fric   iz   kımpliitli   empti . Der  iz   nating  left.) Markete gitmeliyim ve alışveriş yapmalıyım. I should go to the supermarket and do some shopping. (Ay  şud   gou   tu   dı   suupırmarket  end du  sam   şaping .) Hangi şapkayı almalıyım? Which hat should I buy? ( Viç  het  şud  ay bay?) Bence yeşil şapkayı almalısın. I think you should buy the green hat. (Ay  tink   yu   şud  bay  dı   griin  het.) Türkçe cümle İngilizcesi ve okunuşu Sana  çok   yakışacak . It will look great on you. (İt vil luk greyt on yu.) Sizce ne yemeliyim? What do you think I should eat? (Vat du  yu   tink  ay  şud   iit ?) Ne tavsiye edersiniz? What do you recommend? (Vat du  yu   rekımend ?) Lokantamızın döner kebabı çok meşhurdur. The  döner  kebab at our restaurant is very famous. ( Dı   dönır   kıbab  et aur  restırant   iz   veri   feymıs .) Bence döner kebap yemelisiniz. I think you should eat  döner  kebab. (Ay  tink   yu   şud   iit   dönır   kıbab .)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Dışarıda   yağmur   yağıyor . It is raining outside. (İt iz reyning autsayd.) Yanıma şemsiye almalıyım. I should take an umbrella with me. (Ay  şud   teyk   en   ambrella  vit mi.) Dolap bomboş, hiçbir şey kalmamış. The fridge is completely empty. There is nothing left. ( Dı   fric   iz   kımpliitli   empti . Der  iz   nating  left.) Markete gitmeliyim ve alışveriş yapmalıyım. I should go to the supermarket and do some shopping. (Ay  şud   gou   tu   dı   suupırmarket  end du  sam   şaping .) Hangi şapkayı almalıyım? Which hat should I buy? ( Viç  het  şud  ay bay?) Bence yeşil şapkayı almalısın. I think you should buy the green hat. (Ay  tink   yu   şud  bay  dı   griin  het.)",
+        "Türkçe cümle İngilizcesi ve okunuşu Sana  çok   yakışacak . It will look great on you. (İt vil luk greyt on yu.) Sizce ne yemeliyim? What do you think I should eat? (Vat du  yu   tink  ay  şud   iit ?) Ne tavsiye edersiniz? What do you recommend? (Vat du  yu   rekımend ?) Lokantamızın döner kebabı çok meşhurdur. The  döner  kebab at our restaurant is very famous. ( Dı   dönır   kıbab  et aur  restırant   iz   veri   feymıs .) Bence döner kebap yemelisiniz. I think you should eat  döner  kebab. (Ay  tink   yu   şud   iit   dönır   kıbab .)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 27,
+      "part": 1,
+      "localSlide": 41,
+      "sourceSlide": 41,
+      "slidePath": "ppt/slides/slide41.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Gereklilik, tavsiye ve görüş bildirme yapıları 8 yapı 3 / 4 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmeliyim → I should go Kişiye göre gereklilik should + V1 yemelisiniz → you should eat Fiil + -mamalı/-memeli should not / must not geç kalmamalısın → you should not be late Bence + cümle I think + clause Bence almalısın. → I think you should buy it. Sizce + soru What do you think ...? Sizce ne yemeliyim? → What do you think I should eat? Ne tavsiye edersiniz? What do you recommend? Ne tavsiye edersiniz? → What do you recommend? Hiçbir şey + olumsuz nothing / anything + negative Hiçbir şey kalmamış. → There is nothing left. Gelecek zaman -acak/-ecek will + V1 yakışacak → it will look good",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmeliyim → I should go Kişiye göre gereklilik should + V1 yemelisiniz → you should eat Fiil + -mamalı/-memeli should not / must not geç kalmamalısın → you should not be late Bence + cümle I think + clause Bence almalısın. → I think you should buy it. Sizce + soru What do you think ...? Sizce ne yemeliyim? → What do you think I should eat? Ne tavsiye edersiniz? What do you recommend? Ne tavsiye edersiniz? → What do you recommend? Hiçbir şey + olumsuz nothing / anything + negative Hiçbir şey kalmamış. → There is nothing left. Gelecek zaman -acak/-ecek will + V1 yakışacak → it will look good"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 28,
+      "part": 1,
+      "localSlide": 42,
+      "sourceSlide": 42,
+      "slidePath": "ppt/slides/slide42.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 70",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image17.png",
+          "sha256": "a2ed8eff3cd815216f22681d8d0646a2c511d3d3f2fc469377e9034e3070bcb7"
+        }
+      ]
+    },
+    {
+      "sequence": 29,
+      "part": 1,
+      "localSlide": 43,
+      "sourceSlide": 43,
+      "slidePath": "ppt/slides/slide43.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 70",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "48f990f213b794aa4db8c75d895a5913e1859b8c49bbae15c006c8613ca77dae"
+        }
+      ]
+    },
+    {
+      "sequence": 30,
+      "part": 1,
+      "localSlide": 44,
+      "sourceSlide": 44,
+      "slidePath": "ppt/slides/slide44.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 70",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image19.png",
+          "sha256": "2f60bdd9bbadc63cc115b245a6140ca4fb1c4b9ee6f746bf2a76f24ee9f4e85d"
+        }
+      ]
+    },
+    {
+      "sequence": 31,
+      "part": 1,
+      "localSlide": 45,
+      "sourceSlide": 45,
+      "slidePath": "ppt/slides/slide45.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Tamamlanmış Cümleler Eksik fiiller, İngilizce karşılıkları ve okunuşları 6 cümle 4 / 4 Tür Tamamlanmış Türkçe cümle İngilizcesi ve okunuşu G Dışarıda yağmur yağıyor, bu yüzden şemsiye almalıyım. It is raining outside, so I should take an umbrella. (İt iz reyning autsayd, sou ay şud teyk en ambrella.) G Okulda temiz kıyafet giymeliyiz. We should wear clean clothes at school. (Vi şud ver kliin klouz et skuul.) T Turuncu elbise daha ucuz ve güzel. Bence onu almalısın. The orange dress is cheaper and nicer. I think you should buy it. (Dı orınc dres iz çiipır end naysır. Ay tink yu şud bay it.) G Vize   almak   için   konsolosluğa   gitmelisin . You must go to the consulate to get a visa. (Yu mast gou tu dı konsyulıt tu get ı viiza.) G İlaçlarını yemekten önce içmelisin. You should take your medicine before eating. (Yu şud teyk yor medısın bifor iiting.) G Çiçekleri  her  gün   sulamalısın . You should water the flowers every day. (Yu  şud   votır   dı   flauırz   evri   dey .)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Tür Tamamlanmış Türkçe cümle İngilizcesi ve okunuşu G Dışarıda yağmur yağıyor, bu yüzden şemsiye almalıyım. It is raining outside, so I should take an umbrella. (İt iz reyning autsayd, sou ay şud teyk en ambrella.) G Okulda temiz kıyafet giymeliyiz. We should wear clean clothes at school. (Vi şud ver kliin klouz et skuul.) T Turuncu elbise daha ucuz ve güzel. Bence onu almalısın. The orange dress is cheaper and nicer. I think you should buy it. (Dı orınc dres iz çiipır end naysır. Ay tink yu şud bay it.) G Vize   almak   için   konsolosluğa   gitmelisin . You must go to the consulate to get a visa. (Yu mast gou tu dı konsyulıt tu get ı viiza.) G İlaçlarını yemekten önce içmelisin. You should take your medicine before eating. (Yu şud teyk yor medısın bifor iiting.) G Çiçekleri  her  gün   sulamalısın . You should water the flowers every day. (Yu  şud   votır   dı   flauırz   evri   dey .)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 32,
+      "part": 1,
+      "localSlide": 48,
+      "sourceSlide": 48,
+      "slidePath": "ppt/slides/slide48.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Gereklilik ekinin kişilere göre kullanımı 7 yapı 3 / 4 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmelisin → you should / must go Ben: -malıyım/-meliyim I should / must + V1 almalıyım → I should take Sen: -malısın/-melisin you should / must + V1 içmelisin → you should take it Biz: -malıyız/-meliyiz we should / must + V1 giymeliyiz → we should wear Fiil + -mak/-mek için to / in order to vize almak için → to get a visa Fiil + -madan/-meden önce before + V-ing yemeden önce → before eating Bu yüzden therefore / that is why Yağmur yağıyor, bu yüzden şemsiye almalıyım.",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must gitmelisin → you should / must go Ben: -malıyım/-meliyim I should / must + V1 almalıyım → I should take Sen: -malısın/-melisin you should / must + V1 içmelisin → you should take it Biz: -malıyız/-meliyiz we should / must + V1 giymeliyiz → we should wear Fiil + -mak/-mek için to / in order to vize almak için → to get a visa Fiil + -madan/-meden önce before + V-ing yemeden önce → before eating Bu yüzden therefore / that is why Yağmur yağıyor, bu yüzden şemsiye almalıyım."
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 33,
+      "part": 1,
+      "localSlide": 49,
+      "sourceSlide": 49,
+      "slidePath": "ppt/slides/slide49.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Döner, İskender, kuru fasulye yemelisin. Yurt dışına gitmek için pasaport çıkarttırmalısın. Hızlı gitmemeliyiz. Kırmızı ışıkta geçmemeliyiz. DBTK 71",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Döner, İskender, kuru fasulye yemelisin."
+        },
+        {
+          "text": "Yurt dışına gitmek için pasaport çıkarttırmalısın."
+        },
+        {
+          "text": "Hızlı gitmemeliyiz. Kırmızı ışıkta geçmemeliyiz."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image20.jpg",
+          "sha256": "365a717a46312dfd11623e73281789f7b3b5c8233ec1062c72ef2aae8e1c4312"
+        }
+      ]
+    },
+    {
+      "sequence": 34,
+      "part": 1,
+      "localSlide": 50,
+      "sourceSlide": 50,
+      "slidePath": "ppt/slides/slide50.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki soru ve cevap ifadeleri 5 ifade 2 / 2 Türkçe cümle / ifade İngilizcesi ve okunuşu Yarın tatile gideceğim. Ne yapmalıyım? I am going on holiday tomorrow. What should I do? (Ay em gouing on halıdey tumorou. Vat şud ay du?) Eşyalarını hazırlamalısın. Bavulunu hazırlamalısın. You should prepare your belongings. You should pack your suitcase. (Yu şud priper yor bilongingz. Yu şud pek yor suutkeys.) Senin ülkende hangi yemekleri yemeliyim? Bana ne tavsiye edersin? Which dishes should I eat in your country? What do you recommend? (Viç dişız şud ay iit in yor kantri? Vat du yu rekımend?) Yurt dışına gitmek için ne yapmalıyım? What should I do to go abroad? (Vat şud ay du tu gou ıbroad?) Trafikte neler yapmamalıyız? What should we not do in traffic? (Vat şud vi nat du in trefik?)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle / ifade İngilizcesi ve okunuşu Yarın tatile gideceğim. Ne yapmalıyım? I am going on holiday tomorrow. What should I do? (Ay em gouing on halıdey tumorou. Vat şud ay du?) Eşyalarını hazırlamalısın. Bavulunu hazırlamalısın. You should prepare your belongings. You should pack your suitcase. (Yu şud priper yor bilongingz. Yu şud pek yor suutkeys.) Senin ülkende hangi yemekleri yemeliyim? Bana ne tavsiye edersin? Which dishes should I eat in your country? What do you recommend? (Viç dişız şud ay iit in yor kantri? Vat du yu rekımend?) Yurt dışına gitmek için ne yapmalıyım? What should I do to go abroad? (Vat şud ay du tu gou ıbroad?) Trafikte neler yapmamalıyız? What should we not do in traffic? (Vat şud vi nat du in trefik?)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 35,
+      "part": 1,
+      "localSlide": 52,
+      "sourceSlide": 52,
+      "slidePath": "ppt/slides/slide52.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "c b a 1 2 3 X X X X DK 123",
+      "audio": [
+        {
+          "sha256": "73ad69c3b2b6663b07a624045edaf60149ded9459794d6bd3b8b92353c036395",
+          "sourceMedia": "ppt/media/media4.wav",
+          "sourceDuration": 42.53825,
+          "start": 15.0,
+          "end": 42.53825,
+          "trim": {
+            "st": "15000"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "text": "c"
+        },
+        {
+          "text": "b"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "1"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "X"
+        },
+        {
+          "text": "X"
+        },
+        {
+          "text": "X"
+        },
+        {
+          "text": "X"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image21.jpg",
+          "sha256": "488169c48e64416bc4840311cd266ace882bd2ad39660422ac1b89c7bdd112a3"
+        }
+      ]
+    },
+    {
+      "sequence": 36,
+      "part": 1,
+      "localSlide": 54,
+      "sourceSlide": 54,
+      "slidePath": "ppt/slides/slide54.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Ayşa ç b a DK 123",
+      "audio": [
+        {
+          "sha256": "92657a71904ac85a4383850b0be8054289ace00cc59c92a3c538dad52f72a1f1",
+          "sourceMedia": "ppt/media/media5.wav",
+          "sourceDuration": 200.332938,
+          "start": 17.185,
+          "end": 200.332938,
+          "trim": {
+            "st": "17185"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": "ç"
+        },
+        {
+          "text": "b"
+        },
+        {
+          "text": "a"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image21.jpg",
+          "sha256": "488169c48e64416bc4840311cd266ace882bd2ad39660422ac1b89c7bdd112a3"
+        },
+        {
+          "part": "ppt/media/image22.jpeg",
+          "sha256": "0d7930ff0d70759c4f8a3373503ce8508d28edbbcc271011661eab4634d39d12"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ]
+    },
+    {
+      "sequence": 37,
+      "part": 1,
+      "localSlide": 55,
+      "sourceSlide": 55,
+      "slidePath": "ppt/slides/slide55.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 124",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image24.png",
+          "sha256": "b63f6768970b1b5bbe46c4421984c6f9aa5e401451e3d1f22826412b948bd299"
+        }
+      ]
+    },
+    {
+      "sequence": 38,
+      "part": 1,
+      "localSlide": 56,
+      "sourceSlide": 56,
+      "slidePath": "ppt/slides/slide56.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 124",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        },
+        {
+          "text": ""
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image25.jpg",
+          "sha256": "fa92a1946d61774a653ed0dca46bbf6d0476154245f6ab98babd81789df9442c"
+        }
+      ]
+    },
+    {
+      "sequence": 39,
+      "part": 1,
+      "localSlide": 57,
+      "sourceSlide": 57,
+      "slidePath": "ppt/slides/slide57.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Metindeki cümle ve seçenekler 1–7 4 / 5 Türkçe cümle İngilizcesi ve okunuşu Metne göre doğru seçeneği işaretleyin. Choose the correct option according to the text. (Çuuz dı kırekt opşın ıkording tu dı tekst.) Okulda kurallara dikkat etmeliyiz çünkü… We should follow the rules at school because… (Vi şud falou dı ruulz et skuul bikoz…) Okullarda düzeni korumalıyız. We should maintain order in schools. (Vi şud meynteyn ordır in skuulz.) Günde yaklaşık sekiz saatimizi okulda geçiriyoruz. We spend about eight hours a day at school. (Vi spend ıbaut eyt aurz ı dey et skuul.) Toplu taşıma araçlarında çantalarımızı yanımıza almalıyız çünkü… We should keep our bags with us on public transport because… (Vi şud kiip aur begz vit as on pablik transport bikoz…) Çantalarımız kaybolabilir veya çalınabilir. Our bags may get lost or be stolen. (Aur begz mey get lost or bi stoulın.) Çantalarımız başkalarını rahatsız edebilir. Our bags may disturb other people. (Aur begz mey distörb adır piipıl.)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Metne göre doğru seçeneği işaretleyin. Choose the correct option according to the text. (Çuuz dı kırekt opşın ıkording tu dı tekst.) Okulda kurallara dikkat etmeliyiz çünkü… We should follow the rules at school because… (Vi şud falou dı ruulz et skuul bikoz…) Okullarda düzeni korumalıyız. We should maintain order in schools. (Vi şud meynteyn ordır in skuulz.) Günde yaklaşık sekiz saatimizi okulda geçiriyoruz. We spend about eight hours a day at school. (Vi spend ıbaut eyt aurz ı dey et skuul.) Toplu taşıma araçlarında çantalarımızı yanımıza almalıyız çünkü… We should keep our bags with us on public transport because… (Vi şud kiip aur begz vit as on pablik transport bikoz…) Çantalarımız kaybolabilir veya çalınabilir. Our bags may get lost or be stolen. (Aur begz mey get lost or bi stoulın.) Çantalarımız başkalarını rahatsız edebilir. Our bags may disturb other people. (Aur begz mey distörb adır piipıl.)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 40,
+      "part": 1,
+      "localSlide": 58,
+      "sourceSlide": 58,
+      "slidePath": "ppt/slides/slide58.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Metindeki cümle ve seçenekler 8–13 5 / 5 Türkçe cümle İngilizcesi ve okunuşu Doğayı korumalıyız çünkü… We should protect nature because… (Vi şud protekt neyçır bikoz…) Bizler de doğada yaşıyoruz. We also live in nature. (Vi olsou liv in neyçır.) Doğa, bitki ve hayvanların da yaşam alanıdır. Nature is also the habitat of plants and animals. (Neyçır iz olsou dı hebıtet ov plants end enimılz.) Pek çok canlı zarar görüyor çünkü… Many living creatures are being harmed because… (Meni living kriiçırz ar biing harmd bikoz…) Atıkları geri dönüşüm kutularına atmıyoruz. We do not put waste in recycling bins. (Vi du nat put veyst in riisaykling binz.) Biz dünyayı kirletiyoruz. We pollute the world. (Vi pıluut dı vörld.)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Doğayı korumalıyız çünkü… We should protect nature because… (Vi şud protekt neyçır bikoz…) Bizler de doğada yaşıyoruz. We also live in nature. (Vi olsou liv in neyçır.) Doğa, bitki ve hayvanların da yaşam alanıdır. Nature is also the habitat of plants and animals. (Neyçır iz olsou dı hebıtet ov plants end enimılz.) Pek çok canlı zarar görüyor çünkü… Many living creatures are being harmed because… (Meni living kriiçırz ar biing harmd bikoz…) Atıkları geri dönüşüm kutularına atmıyoruz. We do not put waste in recycling bins. (Vi du nat put veyst in riisaykling binz.) Biz dünyayı kirletiyoruz. We pollute the world. (Vi pıluut dı vörld.)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 41,
+      "part": 1,
+      "localSlide": 61,
+      "sourceSlide": 61,
+      "slidePath": "ppt/slides/slide61.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Metindeki yapıların İngilizce karşılıkları ve örnekleri 4 yapı 3 / 5 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should + V1 korumalıyız → we should protect • dikkat etmeliyiz → we should pay attention Fiil + -abilir/-ebilir can / may + V1 kaybolabilir → may get lost • rahatsız edebilir → may disturb çünkü because Doğayı korumalıyız çünkü… → We should protect nature because… Fiil + -mıyor/-miyoruz do/does not + V1 atmıyoruz → we do not put/throw • korumuyoruz → we do not protect Not: İngilizcede should gereklilik ve tavsiye; may/can ise ihtimal veya mümkünlük bildirir.",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should + V1 korumalıyız → we should protect • dikkat etmeliyiz → we should pay attention Fiil + -abilir/-ebilir can / may + V1 kaybolabilir → may get lost • rahatsız edebilir → may disturb çünkü because Doğayı korumalıyız çünkü… → We should protect nature because… Fiil + -mıyor/-miyoruz do/does not + V1 atmıyoruz → we do not put/throw • korumuyoruz → we do not protect"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 42,
+      "part": 1,
+      "localSlide": 62,
+      "sourceSlide": 62,
+      "slidePath": "ppt/slides/slide62.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 124",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image26.png",
+          "sha256": "9555a3020db17fdb71a83f73cfb50de54801bec63879545ba414ad29d79c309a"
+        }
+      ]
+    },
+    {
+      "sequence": 43,
+      "part": 1,
+      "localSlide": 63,
+      "sourceSlide": 63,
+      "slidePath": "ppt/slides/slide63.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Araba kullanmamalısınız. / kullanmayınız. 2 2 Araba kullanabilirsiniz. 3 Fotoğraf çekmeyiniz. 9 Yüzebilirsiniz. 8 Balık tutamazsınız. DK 125",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Araba kullanmamalısınız. / kullanmayınız."
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "2"
+        },
+        {
+          "text": "Araba kullanabilirsiniz."
+        },
+        {
+          "text": "3"
+        },
+        {
+          "text": "Fotoğraf çekmeyiniz."
+        },
+        {
+          "text": "9"
+        },
+        {
+          "text": "Yüzebilirsiniz."
+        },
+        {
+          "text": "8"
+        },
+        {
+          "text": "Balık tutamazsınız."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image27.jpg",
+          "sha256": "e51528722752b37cca184448c303117c42228e7526194e327fcb2f7fb08aa1ee"
+        },
+        {
+          "part": "ppt/media/image28.jpeg",
+          "sha256": "d7aa33ac5424ad79e16a96f5cf4d935d63cc50ff0875b39506f502ff768f6ddc"
+        }
+      ]
+    },
+    {
+      "sequence": 44,
+      "part": 1,
+      "localSlide": 64,
+      "sourceSlide": 64,
+      "slidePath": "ppt/slides/slide64.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 71-72",
+      "audio": [
+        {
+          "sha256": "1f7d1f8cd22c0817a895c96958cf3671c1dbefaf9da4cf7c8723e44daf55a95a",
+          "sourceMedia": "ppt/media/media6.wav",
+          "sourceDuration": 63.133063,
+          "start": 16.504,
+          "end": 40.3360005,
+          "trim": {
+            "st": "16504",
+            "end": "22797.0625"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image29.png",
+          "sha256": "dad16749fd701d1c0cc57239792b5d8fe986306f087dac0315efa51314cbf61b"
+        }
+      ]
+    },
+    {
+      "sequence": 45,
+      "part": 1,
+      "localSlide": 65,
+      "sourceSlide": 65,
+      "slidePath": "ppt/slides/slide65.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 71-72",
+      "audio": [
+        {
+          "sha256": "1f7d1f8cd22c0817a895c96958cf3671c1dbefaf9da4cf7c8723e44daf55a95a",
+          "sourceMedia": "ppt/media/media6.wav",
+          "sourceDuration": 63.133063,
+          "start": 41.396,
+          "end": 63.133063,
+          "trim": {
+            "st": "41396"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image30.png",
+          "sha256": "14cf8677424e658d3387093988606a905898e5d5cb5fe86851c816f564922996"
+        }
+      ]
+    },
+    {
+      "sequence": 46,
+      "part": 1,
+      "localSlide": 68,
+      "sourceSlide": 68,
+      "slidePath": "ppt/slides/slide68.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Gereklilik ve amaç bildiren yapıların İngilizce karşılıkları 5 yapı 3 / 6 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil  + - mak /- mek   gerek  ( lazım ) need to / have to + V1 galoş giymemiz gerek → we need to wear shoe covers Fiil + -mamak/-memek gerek must not / should not + V1 yiyecek vermememiz gerek → we must not give food İsim/sıfat + olmalı should be / must be Hastane temiz olmalı. → The hospital should be clean. Fiil + -abilir/-ebilir can / may + V1 zarar verebilir → may harm Fiil + -mak/-mek için to / in order to + V1 kirletmemek   için  → in order not to dirty Not: need to / have to gereklilik; must not ise güçlü bir yasak veya yapılmaması gereken durumu bildirir.",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil  + - mak /- mek   gerek  ( lazım ) need to / have to + V1 galoş giymemiz gerek → we need to wear shoe covers Fiil + -mamak/-memek gerek must not / should not + V1 yiyecek vermememiz gerek → we must not give food İsim/sıfat + olmalı should be / must be Hastane temiz olmalı. → The hospital should be clean. Fiil + -abilir/-ebilir can / may + V1 zarar verebilir → may harm Fiil + -mak/-mek için to / in order to + V1 kirletmemek   için  → in order not to dirty"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 47,
+      "part": 1,
+      "localSlide": 69,
+      "sourceSlide": 69,
+      "slidePath": "ppt/slides/slide69.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki diyalog cümleleri 1–6 4 / 6 Türkçe cümle İngilizcesi ve okunuşu Dinleyin, okuyun ve canlandırın. Listen, read and act it out. (Lisın, riid end ekt it aut.) Ne yapmamız gerek? What do we need to do? (Vat du vi niid tu du?) Anne, bu levha ne? Mom, what is this sign? (Mam, vat iz dis sayn?) Bu, galoş giymeniz gerek levhası. This sign says that you need to wear shoe covers. (Dis sayn sez det yu niid tu veır şuu kavırz.) Haydi galoşlarımızı giyelim. Let's put on our shoe covers. (Lets put on aur şuu kavırz.) Neden galoş giymemiz gerek? Why do we need to wear shoe covers? (Vay du vi niid tu veır şuu kavırz?)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Dinleyin, okuyun ve canlandırın. Listen, read and act it out. (Lisın, riid end ekt it aut.) Ne yapmamız gerek? What do we need to do? (Vat du vi niid tu du?) Anne, bu levha ne? Mom, what is this sign? (Mam, vat iz dis sayn?) Bu, galoş giymeniz gerek levhası. This sign says that you need to wear shoe covers. (Dis sayn sez det yu niid tu veır şuu kavırz.) Haydi galoşlarımızı giyelim. Let's put on our shoe covers. (Lets put on aur şuu kavırz.) Neden galoş giymemiz gerek? Why do we need to wear shoe covers? (Vay du vi niid tu veır şuu kavırz?)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 48,
+      "part": 1,
+      "localSlide": 70,
+      "sourceSlide": 70,
+      "slidePath": "ppt/slides/slide70.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki diyalog cümleleri 7–12 5 / 6 Türkçe cümle İngilizcesi ve okunuşu Çünkü burası hastane. Because this is a hospital. (Bikoz dis iz ı hospitıl.) Hastane temiz olmalı. The hospital should be clean. (Dı hospitıl şud bi kliin.) İçeriyi kirletmemek için galoş giymemiz gerek. We need to wear shoe covers so as not to dirty the inside. (Vi niid tu veır şuu kavırz sou ez nat tu dörti dı insayd.) Anladım. Haydi galoşlarımızı giyelim! I understand. Let's put on our shoe covers! (Ay andırstend. Lets put on aur şuu kavırz!) Baba, maymunlara yiyecek verelim mi? Dad, shall we give food to the monkeys? (Ded, şel vi giv fuud tu dı mankiz?) Olmaz oğlum, bak levhada ne yazıyor? No, son. Look, what does the sign say? (Nou, san. Luk, vat daz dı sayn sey?)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Çünkü burası hastane. Because this is a hospital. (Bikoz dis iz ı hospitıl.) Hastane temiz olmalı. The hospital should be clean. (Dı hospitıl şud bi kliin.) İçeriyi kirletmemek için galoş giymemiz gerek. We need to wear shoe covers so as not to dirty the inside. (Vi niid tu veır şuu kavırz sou ez nat tu dörti dı insayd.) Anladım. Haydi galoşlarımızı giyelim! I understand. Let's put on our shoe covers! (Ay andırstend. Lets put on aur şuu kavırz!) Baba, maymunlara yiyecek verelim mi? Dad, shall we give food to the monkeys? (Ded, şel vi giv fuud tu dı mankiz?) Olmaz oğlum, bak levhada ne yazıyor? No, son. Look, what does the sign say? (Nou, san. Luk, vat daz dı sayn sey?)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 49,
+      "part": 1,
+      "localSlide": 71,
+      "sourceSlide": 71,
+      "slidePath": "ppt/slides/slide71.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Görseldeki diyalog cümleleri 13–18 6 / 6 Türkçe cümle İngilizcesi ve okunuşu Hayvanları beslemeliyiz yazmıyor mu? Doesn't it say that we should feed the animals? (Dazınt it sey det vi şud fiid dı enimılz?) Dikkatli bak! Hayvanlara yiyecek vermeyiniz, yazıyor. Look carefully! It says, “Do not feed the animals.” (Luk keırfıli! It sez, du nat fiid dı enimılz.) Ama neden vermemeliyiz? But why shouldn't we feed them? (Bat vay şudınt vi fiid dem?) Bu yiyecekler hayvanlara zarar verebilir. This food may harm the animals. (Dis fuud mey harm dı enimılz.) Bu yüzden onlara yiyecek vermememiz gerek. Therefore, we must not give them food. (Deırfor, vi mast nat giv dem fuud.) Görevliler onların yiyeceklerini düzenli bir şekilde veriyor. The staff feed them regularly. (Dı staf fiid dem regyulırli.)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Hayvanları beslemeliyiz yazmıyor mu? Doesn't it say that we should feed the animals? (Dazınt it sey det vi şud fiid dı enimılz?) Dikkatli bak! Hayvanlara yiyecek vermeyiniz, yazıyor. Look carefully! It says, “Do not feed the animals.” (Luk keırfıli! It sez, du nat fiid dı enimılz.) Ama neden vermemeliyiz? But why shouldn't we feed them? (Bat vay şudınt vi fiid dem?) Bu yiyecekler hayvanlara zarar verebilir. This food may harm the animals. (Dis fuud mey harm dı enimılz.) Bu yüzden onlara yiyecek vermememiz gerek. Therefore, we must not give them food. (Deırfor, vi mast nat giv dem fuud.) Görevliler onların yiyeceklerini düzenli bir şekilde veriyor. The staff feed them regularly. (Dı staf fiid dem regyulırli.)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 50,
+      "part": 1,
+      "localSlide": 72,
+      "sourceSlide": 72,
+      "slidePath": "ppt/slides/slide72.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 72",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image31.png",
+          "sha256": "ed0fcf6dff08219a3e4c8c2eab2f26108ba6da34a1e05fbb919bf6c3ec9cdebf"
+        }
+      ]
+    },
+    {
+      "sequence": 51,
+      "part": 1,
+      "localSlide": 73,
+      "sourceSlide": 73,
+      "slidePath": "ppt/slides/slide73.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 72",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image32.png",
+          "sha256": "45c68b80b36e519382d8dc78d719d4ee71fa54fdb797d72a42b59fb5c8531d38"
+        }
+      ]
+    },
+    {
+      "sequence": 52,
+      "part": 1,
+      "localSlide": 75,
+      "sourceSlide": 75,
+      "slidePath": "ppt/slides/slide75.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Önemli Gramer Yapıları Gereklilik ve amaç bildiren yapıların İngilizce karşılıkları 6 yapı 2 / 4 Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must + V1 ders çalışmalıyım → I should study Fiil + -mak/-mek gerek need to / have to + V1 ders çalışmam gerek → I need to study Fiil + -mak/-mek lazım need to / have to + V1 erken yatmam lazım → I need to go to bed early Fiil + -mamak/-memek gerek/lazım must not / need to avoid + V-ing geç yatmamam lazım → I must not go to bed late Fiil + -mak/-mek için to / in order to + V1 sınavı geçmek için → to pass the exam Ne yapmam gerek/lazım? What do I need / have to do? Ne yapmam gerek? → What do I need to do?",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe gramer yapısı İngilizce karşılığı Örnek Fiil + -malı/-meli should / must + V1 ders çalışmalıyım → I should study Fiil + -mak/-mek gerek need to / have to + V1 ders çalışmam gerek → I need to study Fiil + -mak/-mek lazım need to / have to + V1 erken yatmam lazım → I need to go to bed early Fiil + -mamak/-memek gerek/lazım must not / need to avoid + V-ing geç yatmamam lazım → I must not go to bed late Fiil + -mak/-mek için to / in order to + V1 sınavı geçmek için → to pass the exam Ne yapmam gerek/lazım? What do I need / have to do? Ne yapmam gerek? → What do I need to do?"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 53,
+      "part": 1,
+      "localSlide": 76,
+      "sourceSlide": 76,
+      "slidePath": "ppt/slides/slide76.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları Gerek ve lazım ile kurulan cümleler 1–6 3 / 4 Türkçe cümle İngilizcesi ve okunuşu Yarın sınavım var, ders çalışmam gerek. I have an exam tomorrow, so I need to study. (Ay hev en igzem tumorou, sou ay niid tu stadi.) Yarın sınavım var, ders çalışmam lazım. I have an exam tomorrow, so I have to study. (Ay hev en igzem tumorou, sou ay hev tu stadi.) Sınava geç kalmamak için ne yapmam gerek? What do I need to do so as not to be late for the exam? (Vat du ay niid tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için erken yatmam gerek. I need to go to bed early so as not to be late for the exam. (Ay niid tu gou tu bed örli sou ez nat tu bi leyt for dı igzem.) Sınava geç kalmamak için ne yapmam lazım? What do I have to do so as not to be late for the exam? (Vat du ay hev tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için geç yatmamam lazım. I must not go to bed late if I do not want to be late for the exam. (Ay mast nat gou tu bed leyt if ay du nat vant tu bi leyt for dı igzem.)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Yarın sınavım var, ders çalışmam gerek. I have an exam tomorrow, so I need to study. (Ay hev en igzem tumorou, sou ay niid tu stadi.) Yarın sınavım var, ders çalışmam lazım. I have an exam tomorrow, so I have to study. (Ay hev en igzem tumorou, sou ay hev tu stadi.) Sınava geç kalmamak için ne yapmam gerek? What do I need to do so as not to be late for the exam? (Vat du ay niid tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için erken yatmam gerek. I need to go to bed early so as not to be late for the exam. (Ay niid tu gou tu bed örli sou ez nat tu bi leyt for dı igzem.) Sınava geç kalmamak için ne yapmam lazım? What do I have to do so as not to be late for the exam? (Vat du ay hev tu du sou ez nat tu bi leyt for dı igzem?) Sınava geç kalmamak için geç yatmamam lazım. I must not go to bed late if I do not want to be late for the exam. (Ay mast nat gou tu bed leyt if ay du nat vant tu bi leyt for dı igzem.)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 54,
+      "part": 1,
+      "localSlide": 77,
+      "sourceSlide": 77,
+      "slidePath": "ppt/slides/slide77.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Cümlelerin İngilizcesi ve Okunuşları -malı/-meli ile gerek/lazım karşılaştırması 7–12 4 / 4 Türkçe cümle İngilizcesi ve okunuşu Yiyecek bir şey kalmamış. Alışveriş yapmalıyım. There is no food left. I should go shopping. (Deır iz nou fuud left. Ay şud gou şoping.) Sınavı geçmek için ders çalışmalıyım. I should study to pass the exam. (Ay şud stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmeliyim. I do not feel well. I should go to the hospital. (Ay du nat fiil vel. Ay şud gou tu dı hospitıl.) Yiyecek bir şey kalmamış. Alışveriş yapmam gerek. There is no food left. I need to go shopping. (Deır iz nou fuud left. Ay niid tu gou şoping.) Sınavı geçmek için ders çalışmam lazım. I need to study to pass the exam. (Ay niid tu stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmem gerek/lazım. I do not feel well. I need to go to the hospital. (Ay du nat fiil vel. Ay niid tu gou tu dı hospitıl.)",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe cümle İngilizcesi ve okunuşu Yiyecek bir şey kalmamış. Alışveriş yapmalıyım. There is no food left. I should go shopping. (Deır iz nou fuud left. Ay şud gou şoping.) Sınavı geçmek için ders çalışmalıyım. I should study to pass the exam. (Ay şud stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmeliyim. I do not feel well. I should go to the hospital. (Ay du nat fiil vel. Ay şud gou tu dı hospitıl.) Yiyecek bir şey kalmamış. Alışveriş yapmam gerek. There is no food left. I need to go shopping. (Deır iz nou fuud left. Ay niid tu gou şoping.) Sınavı geçmek için ders çalışmam lazım. I need to study to pass the exam. (Ay niid tu stadi tu pas dı igzem.) Kendimi iyi hissetmiyorum. Hastaneye gitmem gerek/lazım. I do not feel well. I need to go to the hospital. (Ay du nat fiil vel. Ay niid tu gou tu dı hospitıl.)"
+      ],
+      "pictures": []
+    },
+    {
+      "sequence": 55,
+      "part": 2,
+      "localSlide": 1,
+      "sourceSlide": 78,
+      "slidePath": "ppt/slides/slide1.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 73",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image1.png",
+          "sha256": "4055e4edb3b5eaab62faeab823f7d5bcbb1057b3a3118aa48296197e953d5f98"
+        }
+      ]
+    },
+    {
+      "sequence": 56,
+      "part": 2,
+      "localSlide": 2,
+      "sourceSlide": 79,
+      "slidePath": "ppt/slides/slide2.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 73",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image2.png",
+          "sha256": "756c492bc3c2370aec43c6996523b61c033fd9f81f2186a70530fe23a56b3b01"
+        }
+      ]
+    },
+    {
+      "sequence": 57,
+      "part": 2,
+      "localSlide": 3,
+      "sourceSlide": 80,
+      "slidePath": "ppt/slides/slide3.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Türkçe Fiil İngilizce Anlamı her gün erken kalkmak to get up early every day dişlerini fırçalamak to brush your teeth odanı toplamak to tidy your room derse 15 dakika önce gelmek to come to class 15 minutes early çöp atmak to litter / to throw rubbish her gün ödev yapmak to do homework every day bulaşık yıkamak to wash the dishes her gün spor yapmak to exercise every day kitap okumak to   read  a  book yemek yapmak to cook yürüyüş yapmak to   take  a  walk başkalarını rahatsız etmek to   disturb   others çevreyi temiz tutmak to keep the environment clean DBTK 74",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe Fiil İngilizce Anlamı her gün erken kalkmak to get up early every day dişlerini fırçalamak to brush your teeth odanı toplamak to tidy your room derse 15 dakika önce gelmek to come to class 15 minutes early çöp atmak to litter / to throw rubbish her gün ödev yapmak to do homework every day bulaşık yıkamak to wash the dishes her gün spor yapmak to exercise every day kitap okumak to   read  a  book yemek yapmak to cook yürüyüş yapmak to   take  a  walk başkalarını rahatsız etmek to   disturb   others çevreyi temiz tutmak to keep the environment clean"
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image3.jpeg",
+          "sha256": "6a2c749360e99a43b26c342fa6cad7f539d07da886647cdda2519d7312d2eb51"
+        },
+        {
+          "part": "ppt/media/image4.jpeg",
+          "sha256": "92a5e5b16dc4579007a4a87f1f08bd6bdc49c666c68cbe96e231148f17c7a9a6"
+        }
+      ]
+    },
+    {
+      "sequence": 58,
+      "part": 2,
+      "localSlide": 4,
+      "sourceSlide": 81,
+      "slidePath": "ppt/slides/slide4.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Türkçe İngilizce telaffuz pronunciation dinlemek to listen tekrar etmek to repeat kütüphane library muhabir reporter eşya item  /  belongings koridor corridor / hallway doğa nature röportaj interview teneffüs break / recess tiyatro theatre yemek yemek to eat telefonu kapatmak to   turn   off   the   phone doğayı korumak to protect nature çöpleri yere atmak to litter / to throw rubbish on the ground koşmak to run -mamalıyız / -memeliyiz we   shouldn’t  /  we   mustn’t Türkçe Cümle İngilizce Anlamı Kütüphanede yemek yememeliyiz. We shouldn’t eat in the library. Tiyatroda telefonlarımızı kapatmalıyız. We should turn off our phones in the theatre. Doğayı korumak için çöplerimizi yerlere atmamalıyız. We shouldn’t throw our rubbish on the ground in order to protect nature. Teneffüs zamanında koridorlarda koşmamalıyız. We   shouldn’t   run  in  the   corridors   during  break time. DBTK 75",
+      "audio": [
+        {
+          "sha256": "6ea0d980e59b0c86da7d062729152659066ccdcc6a0fd761010ba22fe703d3d3",
+          "sourceMedia": "ppt/media/media1.wav",
+          "sourceDuration": 30.206188,
+          "start": 16.266,
+          "end": 30.206188,
+          "trim": {
+            "st": "16266"
+          }
+        },
+        {
+          "sha256": "f50b0d1a8107591b7704308ea0e1f43a3238ecae1362fa356c5667569b310eac",
+          "sourceMedia": "ppt/media/media2.wav",
+          "sourceDuration": 39.072646,
+          "start": 16.794,
+          "end": 39.072646,
+          "trim": {
+            "st": "16794"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [
+        "Türkçe İngilizce telaffuz pronunciation dinlemek to listen tekrar etmek to repeat kütüphane library muhabir reporter eşya item  /  belongings koridor corridor / hallway doğa nature röportaj interview teneffüs break / recess tiyatro theatre yemek yemek to eat telefonu kapatmak to   turn   off   the   phone doğayı korumak to protect nature çöpleri yere atmak to litter / to throw rubbish on the ground koşmak to run -mamalıyız / -memeliyiz we   shouldn’t  /  we   mustn’t",
+        "Türkçe Cümle İngilizce Anlamı Kütüphanede yemek yememeliyiz. We shouldn’t eat in the library. Tiyatroda telefonlarımızı kapatmalıyız. We should turn off our phones in the theatre. Doğayı korumak için çöplerimizi yerlere atmamalıyız. We shouldn’t throw our rubbish on the ground in order to protect nature. Teneffüs zamanında koridorlarda koşmamalıyız. We   shouldn’t   run  in  the   corridors   during  break time."
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image5.png",
+          "sha256": "36efc5a7b9657ac14f8792c0df52858feef2f35fb22228fcd25af96962afcf10"
+        }
+      ]
+    },
+    {
+      "sequence": 59,
+      "part": 2,
+      "localSlide": 5,
+      "sourceSlide": 82,
+      "slidePath": "ppt/slides/slide5.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 75",
+      "audio": [
+        {
+          "sha256": "bef3b2d1a2b1424348aad4cd218e4a0cc37927cd9e4ae3cbcedeeee1f54162a0",
+          "sourceMedia": "ppt/media/media3.wav",
+          "sourceDuration": 70.549021,
+          "start": 0.0,
+          "end": 70.549021,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image7.png",
+          "sha256": "f87e79b6cf604728715fce8eb9e1881e7e18a71ed6a948ec9ba3740f0bb57154"
+        }
+      ]
+    },
+    {
+      "sequence": 60,
+      "part": 2,
+      "localSlide": 6,
+      "sourceSlide": 83,
+      "slidePath": "ppt/slides/slide6.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 125",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image8.png",
+          "sha256": "b8a820428501b2544802999b42ce1428b710567974b12e0bafe9363f24f355d8"
+        }
+      ]
+    },
+    {
+      "sequence": 61,
+      "part": 2,
+      "localSlide": 7,
+      "sourceSlide": 84,
+      "slidePath": "ppt/slides/slide7.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "1. Uçakta yüksek sesli konuşmamalıyız. 2. Koltuğumuzu diğerlerini rahatsız edecek şekilde arkaya yatırmamalıyız. 3. Kulaklık takarak müzik dinlemeliyiz. 4. Çöplerimizi yere atmamalıyız. Bu kurallara uymalıyız çünkü diğer insanlara saygı göstermeliyiz. Telefonumuzu sessize almalıyız. Yüksek sesli konuşmamalıyız. Yiyecek ve içecek ile salona girmemeliyiz. Bu kurallara uymalıyız çünkü diğer insanları rahatsız etmemeliyiz.",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "1. Uçakta yüksek sesli konuşmamalıyız. 2. Koltuğumuzu diğerlerini rahatsız edecek şekilde arkaya yatırmamalıyız. 3. Kulaklık takarak müzik dinlemeliyiz. 4. Çöplerimizi yere atmamalıyız. Bu kurallara uymalıyız çünkü diğer insanlara saygı göstermeliyiz."
+        },
+        {
+          "text": "Telefonumuzu sessize almalıyız. Yüksek sesli konuşmamalıyız. Yiyecek ve içecek ile salona girmemeliyiz. Bu kurallara uymalıyız çünkü diğer insanları rahatsız etmemeliyiz."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image9.jpg",
+          "sha256": "389ddf91ac8187bc1681fdd16e31b02e7afae3d2cb33ba12b7c5ca78d1e4b765"
+        }
+      ]
+    },
+    {
+      "sequence": 62,
+      "part": 2,
+      "localSlide": 8,
+      "sourceSlide": 85,
+      "slidePath": "ppt/slides/slide8.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 126",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image10.png",
+          "sha256": "243087126df1e9a3b2b2edee555efaa5688fa81f380459592a102990548f31c6"
+        }
+      ]
+    },
+    {
+      "sequence": 63,
+      "part": 2,
+      "localSlide": 9,
+      "sourceSlide": 86,
+      "slidePath": "ppt/slides/slide9.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Mağazalarda ürünlere  zarar vermeyin. Yürüyen merdivenlere  doğru yönde binin. Yüksek sesle konuşmayın. Güvenlik kurallarına uyun. Masayı temiz bırakın. Çöplerinizi yere atmayın. Kantin çalışanlarına  saygılı olun.  Yatağınızı toplayın. Gece ışığı kapatın. Ortak alanları temiz tutun. Sessiz olun DK 126",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Mağazalarda ürünlere  zarar vermeyin."
+        },
+        {
+          "text": "Yürüyen merdivenlere  doğru yönde binin."
+        },
+        {
+          "text": "Yüksek sesle konuşmayın."
+        },
+        {
+          "text": "Güvenlik kurallarına uyun."
+        },
+        {
+          "text": "Masayı temiz bırakın."
+        },
+        {
+          "text": "Çöplerinizi yere atmayın."
+        },
+        {
+          "text": "Kantin çalışanlarına  saygılı olun. "
+        },
+        {
+          "text": "Yatağınızı toplayın."
+        },
+        {
+          "text": "Gece ışığı kapatın."
+        },
+        {
+          "text": "Ortak alanları temiz tutun."
+        },
+        {
+          "text": "Sessiz olun"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image9.jpg",
+          "sha256": "389ddf91ac8187bc1681fdd16e31b02e7afae3d2cb33ba12b7c5ca78d1e4b765"
+        },
+        {
+          "part": "ppt/media/image9.jpg",
+          "sha256": "389ddf91ac8187bc1681fdd16e31b02e7afae3d2cb33ba12b7c5ca78d1e4b765"
+        }
+      ]
+    },
+    {
+      "sequence": 64,
+      "part": 2,
+      "localSlide": 10,
+      "sourceSlide": 87,
+      "slidePath": "ppt/slides/slide10.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "                                                                              birçok insan zarar görüyor. Kurallara uymalıyız. Kırmızı ışıkta geçmemeliyiz. Kazaları önlemeliyiz. İzinsiz ateş yakıyoruz. Bu yüzden orman yangınları çıkıyor ve canlılar zarar görüyor. Doğayı korumalıyız. Kurallara uymalı ve izinsiz ateş yakmamalıyız.  DK 127",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "                                                                              birçok insan zarar görüyor. Kurallara uymalıyız. Kırmızı ışıkta geçmemeliyiz. Kazaları önlemeliyiz."
+        },
+        {
+          "text": "İzinsiz ateş yakıyoruz. Bu yüzden orman yangınları çıkıyor ve canlılar zarar görüyor. Doğayı korumalıyız. Kurallara uymalı ve izinsiz ateş yakmamalıyız. "
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image11.jpeg",
+          "sha256": "eee2f2ca2b3e50a474d5245105016ef27fb76533dc345f0393d03a468467867f"
+        }
+      ]
+    },
+    {
+      "sequence": 65,
+      "part": 2,
+      "localSlide": 11,
+      "sourceSlide": 88,
+      "slidePath": "ppt/slides/slide11.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 127",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image12.png",
+          "sha256": "9a24bada47ec288b17bb4c879a3ae823be8d9d8946aab29ae9ff9ae27c143b2a"
+        }
+      ]
+    },
+    {
+      "sequence": 66,
+      "part": 2,
+      "localSlide": 12,
+      "sourceSlide": 89,
+      "slidePath": "ppt/slides/slide12.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 128",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image13.png",
+          "sha256": "c03ee72b311ff28c9b85ced475cf51bcf07bc207f06848d2808a1d6d9417c731"
+        }
+      ]
+    },
+    {
+      "sequence": 67,
+      "part": 2,
+      "localSlide": 13,
+      "sourceSlide": 90,
+      "slidePath": "ppt/slides/slide13.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 128",
+      "audio": [
+        {
+          "sha256": "2beadb2f368dcb93b62718523fcda8496edb416e76bc92d988cfc153f4beebc3",
+          "sourceMedia": "ppt/media/media4.wav",
+          "sourceDuration": 248.302771,
+          "start": 0.0,
+          "end": 248.302771,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image14.png",
+          "sha256": "f0f568ea418b5a83a12154dd40a858789cfd48e17f51312189a66f9ec0bb791e"
+        }
+      ]
+    },
+    {
+      "sequence": 68,
+      "part": 2,
+      "localSlide": 14,
+      "sourceSlide": 91,
+      "slidePath": "ppt/slides/slide14.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 129",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image15.png",
+          "sha256": "386c528139e74dcacba115cca074768e5ea545baac2883954dbb9bbdf0e79c7a"
+        }
+      ]
+    },
+    {
+      "sequence": 69,
+      "part": 2,
+      "localSlide": 15,
+      "sourceSlide": 92,
+      "slidePath": "ppt/slides/slide15.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Güle güle kullan. Teşekkür ederim. Çok yaşa. Sen de gör. Yardım edebilir miyim? Allah razı olsun Hayırlı olsun. DK 129",
+      "audio": [
+        {
+          "sha256": "f11a5cf0bb1fdfe80f16a01c391bde688ee0696d7d0d5c6d4a8cc01ec04f32d2",
+          "sourceMedia": "ppt/media/media5.wav",
+          "sourceDuration": 39.399521,
+          "start": 15.3,
+          "end": 39.399521,
+          "trim": {
+            "st": "15300"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "text": "Güle güle kullan."
+        },
+        {
+          "text": "Teşekkür ederim."
+        },
+        {
+          "text": "Çok yaşa."
+        },
+        {
+          "text": "Sen de gör."
+        },
+        {
+          "text": "Yardım edebilir miyim?"
+        },
+        {
+          "text": "Allah razı olsun"
+        },
+        {
+          "text": "Hayırlı olsun."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image16.jpeg",
+          "sha256": "d3f2bae65714c119bc9b2b1bdeccb0cb8fb336c453e6a41d7dc9388c31ef681a"
+        },
+        {
+          "part": "ppt/media/image17.jpeg",
+          "sha256": "b1f3642a9ca70b2a95044c53e4853d00b481a467494a094d8ce96baf7e9c4c26"
+        },
+        {
+          "part": "ppt/media/image18.jpeg",
+          "sha256": "df18a4e51aca9f902cc0dae6583c190ac67c2247d088060ac8946115ac448bd3"
+        }
+      ]
+    },
+    {
+      "sequence": 70,
+      "part": 2,
+      "localSlide": 16,
+      "sourceSlide": 93,
+      "slidePath": "ppt/slides/slide16.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 129",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image19.jpeg",
+          "sha256": "0ea72c4e0efea26f302fc3f80795c359e5cbe7d921363e01f2c1aedba662265f"
+        }
+      ]
+    },
+    {
+      "sequence": 71,
+      "part": 2,
+      "localSlide": 17,
+      "sourceSlide": 94,
+      "slidePath": "ppt/slides/slide17.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 76",
+      "audio": [
+        {
+          "sha256": "39c01f80ea597c5b0ea9ecc5461afa55b1327ebd21ba52272cb34404ea609bf5",
+          "sourceMedia": "ppt/media/media6.wav",
+          "sourceDuration": 56.979396,
+          "start": 0.0,
+          "end": 56.979396,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image20.jpg",
+          "sha256": "90bbfb4f1f373b16b4a39481f09302ca80ef67a715a84e151b4a8e76b545268d"
+        },
+        {
+          "part": "ppt/media/image20.jpg",
+          "sha256": "90bbfb4f1f373b16b4a39481f09302ca80ef67a715a84e151b4a8e76b545268d"
+        },
+        {
+          "part": "ppt/media/image21.jpeg",
+          "sha256": "f3c4a62c4fc2cf17db1ec596008daa72e34b3bb42a8426f12bfa8ef6480f26de"
+        }
+      ]
+    },
+    {
+      "sequence": 72,
+      "part": 2,
+      "localSlide": 18,
+      "sourceSlide": 95,
+      "slidePath": "ppt/slides/slide18.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 76-77",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image22.png",
+          "sha256": "6b3810f572bf02e2aef22936acfe0a55840075ed2950ad6079aa11e20a30c5ec"
+        },
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "74affc94d3895c184f6a1dc12be902061bba0dd5387b9b6e9b5f1fb78de0c646"
+        }
+      ]
+    },
+    {
+      "sequence": 73,
+      "part": 2,
+      "localSlide": 19,
+      "sourceSlide": 96,
+      "slidePath": "ppt/slides/slide19.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 77",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image24.png",
+          "sha256": "91e9b4d91c337e863af876ca5511978d1d0042a4780bb54db3b2becd9c002c30"
+        }
+      ]
+    },
+    {
+      "sequence": 74,
+      "part": 2,
+      "localSlide": 20,
+      "sourceSlide": 97,
+      "slidePath": "ppt/slides/slide20.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "24 Odayı havalandırmak için pencereyi açtı. Yemek yapmak için mutfağa gitti. Tatile gitmek için bavulunu hazırladı. kütüphaneye gitmeliyim. Resim kursuna gitmek için Konferansa katılmak için No. Türkçe   kelime  /  ifade İngilizce anlamı (okunuşu) 1 Ders çalışmak için kütüphaneye gitti. He/She went to the library to study.   (Hi/Şi vent tu dı laybreri tu stadi.) 2 Odayı havalandırmak için pencereyi açtı. He/ She   opened   the   window   to   air   the   room .   ( Hi / Şi   oupınd   dı   vindou  tu er  dı   rum. ) 3 Yemek yapmak için mutfağa gitti. He/She went to the kitchen to cook.   (Hi/Şi vent tu dı kiçın tu kuk.) 4 Tatile gitmek için bavulunu hazırladı. He/ She   packed  his/her  suitcase   to   go  on  vacation .   ( Hi / Şi   pekt   hiz / hör   sutkeys  tu  gou  on  vıkeyşın .)",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Odayı havalandırmak için pencereyi açtı."
+        },
+        {
+          "text": "Yemek yapmak için mutfağa gitti."
+        },
+        {
+          "text": "Tatile gitmek için bavulunu hazırladı."
+        },
+        {
+          "text": "kütüphaneye gitmeliyim."
+        },
+        {
+          "text": "Resim kursuna gitmek için"
+        },
+        {
+          "text": "Konferansa katılmak için"
+        }
+      ],
+      "removedEnglish": [
+        "No. Türkçe   kelime  /  ifade İngilizce anlamı (okunuşu) 1 Ders çalışmak için kütüphaneye gitti. He/She went to the library to study.   (Hi/Şi vent tu dı laybreri tu stadi.) 2 Odayı havalandırmak için pencereyi açtı. He/ She   opened   the   window   to   air   the   room .   ( Hi / Şi   oupınd   dı   vindou  tu er  dı   rum. ) 3 Yemek yapmak için mutfağa gitti. He/She went to the kitchen to cook.   (Hi/Şi vent tu dı kiçın tu kuk.) 4 Tatile gitmek için bavulunu hazırladı. He/ She   packed  his/her  suitcase   to   go  on  vacation .   ( Hi / Şi   pekt   hiz / hör   sutkeys  tu  gou  on  vıkeyşın .)"
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image25.jpg",
+          "sha256": "8cdb40ef921b33fd21e9dbe6aa1192414d4e4b7e08f07fb12bbb86373c4b7089"
+        }
+      ]
+    },
+    {
+      "sequence": 75,
+      "part": 2,
+      "localSlide": 21,
+      "sourceSlide": 98,
+      "slidePath": "ppt/slides/slide21.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 77",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image26.png",
+          "sha256": "61a771535172c40b9f2084f81ad15bb69e6f6fbf5869a044091d032e260305eb"
+        }
+      ]
+    },
+    {
+      "sequence": 76,
+      "part": 2,
+      "localSlide": 22,
+      "sourceSlide": 99,
+      "slidePath": "ppt/slides/slide22.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 130",
+      "audio": [
+        {
+          "sha256": "838f189765f8d2139ec5ed27b43438eaaa4539c99edc1d313e6aed173ae40158",
+          "sourceMedia": "ppt/media/media7.wav",
+          "sourceDuration": 273.858354,
+          "start": 0.0,
+          "end": 273.858354,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image27.png",
+          "sha256": "7d7739bfe360c71ab4328138dc9716099761d682ee13ee79e3cd9356ac61a2ca"
+        }
+      ]
+    },
+    {
+      "sequence": 77,
+      "part": 2,
+      "localSlide": 23,
+      "sourceSlide": 100,
+      "slidePath": "ppt/slides/slide23.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "24 c c a ç c Chin   Ho , Rafa,  Ivan ,  Tomoko  ve Umberto ile röportaj yapıyor. Güney Kore, Afganistan, Bulgaristan, Japonya, İtalya  Türkçe ve Türk kültürünü öğrenmek için Türkiye’deler. Yemek kültürü, sofra kültürü, beden dili, ev/misafir kültürü konularında konuşuyorlar. Çeşitli konularda ülkelerindeki durumları anlatıyorlar. No. Türkçe   kelime  /  ifade İngilizce anlamı (okunuşu) 1 Kim hangi konudan bahsetti? Who talked about which topic? (Hu tokt ıbaut viç topik?) 2 Öğrenciler hangi konularda konuştular? What topics did the students talk about? (Vat topiks did dı stüdınts tok ıbaut?) 3 Muhabir kimlerle röportaj yapıyor? Who is the reporter interviewing? (Hu iz dı rıportır intırvyuing?) 4 Onlar hangi ülkelerden geldiler? Which countries did they come from? (Viç kantriz did dey kam from?) 5 Muhabir onlarla hangi konuda konuşuyor? What topic is the reporter talking to them about? (Vat topik iz dı rıportır toking tu dem ıbaut?) 6 Onlar ne için Türkiye’deler? Why are they in Turkey? (Vay ar dey in Törki?) 7 Onlar katıldıkları programda ne yapıyorlar? What   are   they   doing  in  the  program  they   are   participating  in? (Vat ar  dey   duing  in  dı   prougram   dey  ar  partisıpeyting  in?)",
+      "audio": [
+        {
+          "sha256": "838f189765f8d2139ec5ed27b43438eaaa4539c99edc1d313e6aed173ae40158",
+          "sourceMedia": "ppt/media/media7.wav",
+          "sourceDuration": 273.858354,
+          "start": 16.0,
+          "end": 273.858354,
+          "trim": {
+            "st": "16000"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "text": "c"
+        },
+        {
+          "text": "c"
+        },
+        {
+          "text": "a"
+        },
+        {
+          "text": "ç"
+        },
+        {
+          "text": "c"
+        },
+        {
+          "text": "Chin   Ho , Rafa,  Ivan ,  Tomoko  ve Umberto ile röportaj yapıyor."
+        },
+        {
+          "text": "Güney Kore, Afganistan, Bulgaristan, Japonya, İtalya "
+        },
+        {
+          "text": "Türkçe ve Türk kültürünü öğrenmek için Türkiye’deler."
+        },
+        {
+          "text": "Yemek kültürü, sofra kültürü, beden dili, ev/misafir kültürü konularında konuşuyorlar."
+        },
+        {
+          "text": "Çeşitli konularda ülkelerindeki durumları anlatıyorlar."
+        }
+      ],
+      "removedEnglish": [
+        "No. Türkçe   kelime  /  ifade İngilizce anlamı (okunuşu) 1 Kim hangi konudan bahsetti? Who talked about which topic? (Hu tokt ıbaut viç topik?) 2 Öğrenciler hangi konularda konuştular? What topics did the students talk about? (Vat topiks did dı stüdınts tok ıbaut?) 3 Muhabir kimlerle röportaj yapıyor? Who is the reporter interviewing? (Hu iz dı rıportır intırvyuing?) 4 Onlar hangi ülkelerden geldiler? Which countries did they come from? (Viç kantriz did dey kam from?) 5 Muhabir onlarla hangi konuda konuşuyor? What topic is the reporter talking to them about? (Vat topik iz dı rıportır toking tu dem ıbaut?) 6 Onlar ne için Türkiye’deler? Why are they in Turkey? (Vay ar dey in Törki?) 7 Onlar katıldıkları programda ne yapıyorlar? What   are   they   doing  in  the  program  they   are   participating  in? (Vat ar  dey   duing  in  dı   prougram   dey  ar  partisıpeyting  in?)"
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image25.jpg",
+          "sha256": "8cdb40ef921b33fd21e9dbe6aa1192414d4e4b7e08f07fb12bbb86373c4b7089"
+        },
+        {
+          "part": "ppt/media/image28.jpeg",
+          "sha256": "0d23dac2976a7a6da0788497d6ae1f9ff5587226128b961d03e14934e400e89c"
+        }
+      ]
+    },
+    {
+      "sequence": 78,
+      "part": 3,
+      "localSlide": 1,
+      "sourceSlide": 101,
+      "slidePath": "ppt/slides/slide1.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 130",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image1.png",
+          "sha256": "55450a34a51116cd5a3c8453ef5c850a5dd7a0585abc3a8b0f105b1c100f677b"
+        }
+      ]
+    },
+    {
+      "sequence": 79,
+      "part": 3,
+      "localSlide": 2,
+      "sourceSlide": 102,
+      "slidePath": "ppt/slides/slide2.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 131",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image2.png",
+          "sha256": "d7c57b8f2e58f76668a2b355a5cb8ecca08249793095e416fd6f2e68e4bb4edf"
+        }
+      ]
+    },
+    {
+      "sequence": 80,
+      "part": 3,
+      "localSlide": 3,
+      "sourceSlide": 103,
+      "slidePath": "ppt/slides/slide3.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 131",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image3.png",
+          "sha256": "b4419048476f13e96d5ed0287e9d53c9e1e9cc47af365702c0d60cda50075e74"
+        }
+      ]
+    },
+    {
+      "sequence": 81,
+      "part": 3,
+      "localSlide": 4,
+      "sourceSlide": 104,
+      "slidePath": "ppt/slides/slide4.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "yavaş yavaş gece gündüz adım adım güçlü kuvvetli Büyük küçük DK 131",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "yavaş yavaş"
+        },
+        {
+          "text": "gece gündüz"
+        },
+        {
+          "text": "adım adım"
+        },
+        {
+          "text": "güçlü kuvvetli"
+        },
+        {
+          "text": "Büyük küçük"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image4.jpg",
+          "sha256": "93bec51cf6b38018b9664c1e483881d9e405867cd86769ded4ff4f3e7ca4667e"
+        }
+      ]
+    },
+    {
+      "sequence": 82,
+      "part": 3,
+      "localSlide": 5,
+      "sourceSlide": 105,
+      "slidePath": "ppt/slides/slide5.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 131",
+      "audio": [
+        {
+          "sha256": "73fdbeaa91c1322eb2fde4e35d62248db38fae15fba7b38271a59b2051cb200e",
+          "sourceMedia": "ppt/media/media1.wav",
+          "sourceDuration": 42.449875,
+          "start": 14.74,
+          "end": 42.449875,
+          "trim": {
+            "st": "14740"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image4.jpg",
+          "sha256": "93bec51cf6b38018b9664c1e483881d9e405867cd86769ded4ff4f3e7ca4667e"
+        }
+      ]
+    },
+    {
+      "sequence": 83,
+      "part": 3,
+      "localSlide": 6,
+      "sourceSlide": 106,
+      "slidePath": "ppt/slides/slide6.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 78",
+      "audio": [
+        {
+          "sha256": "256befcf8e5177b52a5d71aee279da1c9873b13e13423a085038daa7ce2e31a6",
+          "sourceMedia": "ppt/media/media2.wav",
+          "sourceDuration": 32.726771,
+          "start": 0.0,
+          "end": 32.726771,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image6.png",
+          "sha256": "beb47eb709b9d665afe530223c748e5ba52d355ec04b950eaf92c2e809830103"
+        }
+      ]
+    },
+    {
+      "sequence": 84,
+      "part": 3,
+      "localSlide": 7,
+      "sourceSlide": 107,
+      "slidePath": "ppt/slides/slide7.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 78",
+      "audio": [
+        {
+          "sha256": "56b8f6778fe6b2a2cd5279dd3cf527c5321c13b0ed86b8780e969232acbf6894",
+          "sourceMedia": "ppt/media/media3.wav",
+          "sourceDuration": 136.171542,
+          "start": 0.0,
+          "end": 136.171542,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image7.png",
+          "sha256": "9a319e29b39aba5cd7810a9a78db24c45267347ab816d07a10ea6ef6ebc45619"
+        }
+      ]
+    },
+    {
+      "sequence": 85,
+      "part": 3,
+      "localSlide": 8,
+      "sourceSlide": 108,
+      "slidePath": "ppt/slides/slide8.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DBTK 78",
+      "audio": [
+        {
+          "sha256": "0b29dde7671ad6dcae071fb47cb37019c777312d1a143a1c75b5fcd3ace78dd5",
+          "sourceMedia": "ppt/media/media4.wav",
+          "sourceDuration": 44.008,
+          "start": 0.0,
+          "end": 44.008,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image4.jpg",
+          "sha256": "93bec51cf6b38018b9664c1e483881d9e405867cd86769ded4ff4f3e7ca4667e"
+        }
+      ]
+    },
+    {
+      "sequence": 86,
+      "part": 3,
+      "localSlide": 9,
+      "sourceSlide": 109,
+      "slidePath": "ppt/slides/slide9.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 132",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image8.png",
+          "sha256": "30bde4fdbb0810b88f432eb141914694d8c3584a5713ce80638242db3288c6c7"
+        }
+      ]
+    },
+    {
+      "sequence": 87,
+      "part": 3,
+      "localSlide": 10,
+      "sourceSlide": 110,
+      "slidePath": "ppt/slides/slide10.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 132",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "6090f98b604982e008eb1d98eb8dcffa93d20ec52837751e6153c5871d776489"
+        }
+      ]
+    },
+    {
+      "sequence": 88,
+      "part": 3,
+      "localSlide": 11,
+      "sourceSlide": 111,
+      "slidePath": "ppt/slides/slide11.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 132",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image10.png",
+          "sha256": "215e2fd824ea85c8954968347b4f72bf4a7814d0c022f8920e99f251fe40993d"
+        }
+      ]
+    },
+    {
+      "sequence": 89,
+      "part": 3,
+      "localSlide": 12,
+      "sourceSlide": 112,
+      "slidePath": "ppt/slides/slide12.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 133",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "eeb1889ac6ef6f97e43bbecc586c0f6ab3ffd650f27c68a1b1cecaa619fd3997"
+        }
+      ]
+    },
+    {
+      "sequence": 90,
+      "part": 3,
+      "localSlide": 13,
+      "sourceSlide": 113,
+      "slidePath": "ppt/slides/slide13.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Sofra adabını öğrenmek için yardım istiyor. Dik oturulmalı. Dışarıdakilerden iç taraftakilere doğru sırayla kullanılmalı. Bardağın alt kısmından ve nazikçe tutulmalı. Karşıdakine saygısızlık olduğu için uygun değil. Çok güzel olmuş, ellerinize sağlık. No. Türkçe   kelime  /  ifade İngilizce   anlamı  ( okunuşu ) 1 Kardeşi ablasından ne için yardım istiyor? Why does he/she ask his/her older sister for help? (Vay daz hi/şi ask hiz/hör ouldır sistır for help?) 2 Yemek sırasında sofrada nasıl oturmalı? How should he/she sit at the table during the meal? (Hau şud hi/şi sit et dı teybıl dyuring dı miil?) 3 Çatal bıçak hangi sıra ile kullanılmalı? In what order should the cutlery be used? (İn vat ordır şud dı katlıri bi yuuzd?) 4 Bardak nasıl tutulmalı? How should the glass be held? (Hau şud dı glas bi held?) 5 Kollarını masanın üzerine koyması niçin uygun değil? Why is it inappropriate to put his/her arms on the table? (Vay iz it inıproupriyıt tu put hiz/hör armz on dı teybıl?) 6 Yemeği yapan kişiye ne söylemeli? What   should  he/ she  say  to   the   person   who   cooked   the  meal? (Vat  şud   hi / şi   sey  tu  dı   pörsın  hu  kukt   dı   miil ?) DK 133",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Sofra adabını öğrenmek için yardım istiyor."
+        },
+        {
+          "text": "Dik oturulmalı."
+        },
+        {
+          "text": "Dışarıdakilerden iç taraftakilere doğru sırayla kullanılmalı."
+        },
+        {
+          "text": "Bardağın alt kısmından ve nazikçe tutulmalı."
+        },
+        {
+          "text": "Karşıdakine saygısızlık olduğu için uygun değil."
+        },
+        {
+          "text": "Çok güzel olmuş, ellerinize sağlık."
+        }
+      ],
+      "removedEnglish": [
+        "No. Türkçe   kelime  /  ifade İngilizce   anlamı  ( okunuşu ) 1 Kardeşi ablasından ne için yardım istiyor? Why does he/she ask his/her older sister for help? (Vay daz hi/şi ask hiz/hör ouldır sistır for help?) 2 Yemek sırasında sofrada nasıl oturmalı? How should he/she sit at the table during the meal? (Hau şud hi/şi sit et dı teybıl dyuring dı miil?) 3 Çatal bıçak hangi sıra ile kullanılmalı? In what order should the cutlery be used? (İn vat ordır şud dı katlıri bi yuuzd?) 4 Bardak nasıl tutulmalı? How should the glass be held? (Hau şud dı glas bi held?) 5 Kollarını masanın üzerine koyması niçin uygun değil? Why is it inappropriate to put his/her arms on the table? (Vay iz it inıproupriyıt tu put hiz/hör armz on dı teybıl?) 6 Yemeği yapan kişiye ne söylemeli? What   should  he/ she  say  to   the   person   who   cooked   the  meal? (Vat  şud   hi / şi   sey  tu  dı   pörsın  hu  kukt   dı   miil ?)"
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image12.jpeg",
+          "sha256": "2b7129cf746d642ffe070653de562161c52e5d2ecfd388bd9c140162331911c0"
+        }
+      ]
+    },
+    {
+      "sequence": 91,
+      "part": 3,
+      "localSlide": 14,
+      "sourceSlide": 114,
+      "slidePath": "ppt/slides/slide14.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "Bu cümleleri yemekten sonra yemeği hazırlayan kişiye teşekkür etmek amacıyla kullanıyoruz. DK 133",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Bu cümleleri yemekten sonra yemeği hazırlayan kişiye teşekkür etmek amacıyla kullanıyoruz."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image13.jpeg",
+          "sha256": "b1baa6a27fb39b9a5641876180a72fc1522f582b0a23b88e83fa49ebe8ada135"
+        },
+        {
+          "part": "ppt/media/image14.jpeg",
+          "sha256": "900ff700e532f778182771559688aaf78f47d042da359c431115712fc395fce7"
+        }
+      ]
+    },
+    {
+      "sequence": 92,
+      "part": 3,
+      "localSlide": 15,
+      "sourceSlide": 115,
+      "slidePath": "ppt/slides/slide15.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 134",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image15.png",
+          "sha256": "d7b5028ffb08818e6ee1e1538816d583ade6dc907dbb61795ac42311d2aa8d42"
+        }
+      ]
+    },
+    {
+      "sequence": 93,
+      "part": 3,
+      "localSlide": 16,
+      "sourceSlide": 116,
+      "slidePath": "ppt/slides/slide16.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "DK 134",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image16.png",
+          "sha256": "a43316df1556365de6b9284351b8780ed02753bdeacd9647ae0e10589d89a878"
+        }
+      ]
+    },
+    {
+      "sequence": 94,
+      "part": 3,
+      "localSlide": 17,
+      "sourceSlide": 117,
+      "slidePath": "ppt/slides/slide17.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "e b, c ç, d  f, g, h ı",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "e"
+        },
+        {
+          "text": "b, c"
+        },
+        {
+          "text": "ç, d "
+        },
+        {
+          "text": "f, g, h"
+        },
+        {
+          "text": "ı"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image17.jpeg",
+          "sha256": "45414eeb0608661f085931ab1610feddbafac9553b317233980e832c6c8b81e4"
+        },
+        {
+          "part": "ppt/media/image18.jpg",
+          "sha256": "b3666f4c4d65d2e40c2c4a6ca7d840110409ea2d8c6a855beeb36122fb3bc6be"
+        }
+      ]
+    },
+    {
+      "sequence": 95,
+      "part": 3,
+      "localSlide": 18,
+      "sourceSlide": 118,
+      "slidePath": "ppt/slides/slide18.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "30 atmamalıyız konuşmamalıyız kapatmalıyız vermeliyiz Büyük küçük adım adım gece gündüz güçlü kuvvetli yavaş yavaş",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "atmamalıyız"
+        },
+        {
+          "text": "konuşmamalıyız"
+        },
+        {
+          "text": "kapatmalıyız"
+        },
+        {
+          "text": "vermeliyiz"
+        },
+        {
+          "text": "Büyük küçük"
+        },
+        {
+          "text": "adım adım"
+        },
+        {
+          "text": "gece gündüz"
+        },
+        {
+          "text": "güçlü kuvvetli"
+        },
+        {
+          "text": "yavaş yavaş"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image18.jpg",
+          "sha256": "b3666f4c4d65d2e40c2c4a6ca7d840110409ea2d8c6a855beeb36122fb3bc6be"
+        }
+      ]
+    },
+    {
+      "sequence": 96,
+      "part": 3,
+      "localSlide": 19,
+      "sourceSlide": 119,
+      "slidePath": "ppt/slides/slide19.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "30 Sen de yarın Ankara’ya gel ve Anıtkabir’i gör. Babaannemin ilaçlarını almak için eczaneye gittim. Piyano çalmayı öğrenmek için kursa gitmelisin. Geçmiş olsun. Hayırlı olsun. Tebrik ederim. Güle güle kullansın.",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Sen de yarın Ankara’ya gel ve Anıtkabir’i gör."
+        },
+        {
+          "text": "Babaannemin ilaçlarını almak için eczaneye gittim."
+        },
+        {
+          "text": "Piyano çalmayı öğrenmek için kursa gitmelisin."
+        },
+        {
+          "text": "Geçmiş olsun."
+        },
+        {
+          "text": "Hayırlı olsun."
+        },
+        {
+          "text": "Tebrik ederim."
+        },
+        {
+          "text": "Güle güle kullansın."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image19.jpeg",
+          "sha256": "13990030d95875640e397b91a8ba961ea2075e4e8d9c95c3f7d163ae65012e88"
+        }
+      ]
+    },
+    {
+      "sequence": 97,
+      "part": 3,
+      "localSlide": 20,
+      "sourceSlide": 120,
+      "slidePath": "ppt/slides/slide20.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "31 Fidan dikeceğimiz için bahçeye gideceğiz. Annemi karşılamak için havaalanına gideceğim. Geç kalmamak için acele etmeliyim. Telefon alacağı için alışveriş merkezine gidecek.",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "Fidan dikeceğimiz için bahçeye gideceğiz."
+        },
+        {
+          "text": "Annemi karşılamak için havaalanına gideceğim."
+        },
+        {
+          "text": "Geç kalmamak için acele etmeliyim."
+        },
+        {
+          "text": "Telefon alacağı için alışveriş merkezine gidecek."
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image20.jpg",
+          "sha256": "48a437f75e20c97a7f216035dd402a3fa34e0082a4443e9f332fde3180dfe969"
+        }
+      ]
+    },
+    {
+      "sequence": 98,
+      "part": 3,
+      "localSlide": 21,
+      "sourceSlide": 121,
+      "slidePath": "ppt/slides/slide21.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "31 T T G G T G G T G T Bütün Pek çok biraz Bazı bazı biraz",
+      "audio": [],
+      "answerShapes": [
+        {
+          "text": "T"
+        },
+        {
+          "text": "T"
+        },
+        {
+          "text": "G"
+        },
+        {
+          "text": "G"
+        },
+        {
+          "text": "T"
+        },
+        {
+          "text": "G"
+        },
+        {
+          "text": "G"
+        },
+        {
+          "text": "T"
+        },
+        {
+          "text": "G"
+        },
+        {
+          "text": "T"
+        },
+        {
+          "text": "Bütün"
+        },
+        {
+          "text": "Pek çok"
+        },
+        {
+          "text": "biraz"
+        },
+        {
+          "text": "Bazı"
+        },
+        {
+          "text": "bazı"
+        },
+        {
+          "text": "biraz"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image21.jpeg",
+          "sha256": "a705a859883199052c5da011519bb60c1c45c1493abf6bb4fa7aec2cf6d69df1"
+        }
+      ]
+    },
+    {
+      "sequence": 99,
+      "part": 3,
+      "localSlide": 22,
+      "sourceSlide": 122,
+      "slidePath": "ppt/slides/slide22.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "31",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image20.jpg",
+          "sha256": "48a437f75e20c97a7f216035dd402a3fa34e0082a4443e9f332fde3180dfe969"
+        }
+      ]
+    },
+    {
+      "sequence": 100,
+      "part": 3,
+      "localSlide": 23,
+      "sourceSlide": 123,
+      "slidePath": "ppt/slides/slide23.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "text": "32",
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image22.jpeg",
+          "sha256": "086967b8f5a92f2114e7c00d8581295fc275bc6cdcd71a0f9121a9d93f48c36c"
+        },
+        {
+          "part": "ppt/media/image23.jpg",
+          "sha256": "c41cb7a28c8b21bab6f90e812c1c3dba79970f9a20b9d457cb9688ea8f8b5289"
+        },
+        {
+          "part": "ppt/media/image24.jpeg",
+          "sha256": "8f032d1140995dda535a9a0fa8a28b5a2648055220a0e86fc7b08e5d01bb5505"
+        }
+      ]
+    }
+  ]
+}
