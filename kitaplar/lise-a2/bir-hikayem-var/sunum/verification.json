@@ -1,0 +1,52 @@
+{
+  "slides": 79,
+  "selections": 4877,
+  "entries": 1750,
+  "answerSlides": 43,
+  "misses": [],
+  "bad": [],
+  "hiddenErrors": [],
+  "audioPlayed": [
+    {
+      "slide": 4,
+      "src": "audio/segment-001.mp3",
+      "duration": 92.207,
+      "played": 0.118243
+    },
+    {
+      "slide": 5,
+      "src": "audio/segment-002.mp3",
+      "duration": 105.005896,
+      "played": 0.114572
+    },
+    {
+      "slide": 18,
+      "src": "audio/segment-003.mp3",
+      "duration": 298.385375,
+      "played": 0.109087
+    },
+    {
+      "slide": 40,
+      "src": "audio/segment-004.mp3",
+      "duration": 110.897063,
+      "played": 0.107058
+    },
+    {
+      "slide": 53,
+      "src": "audio/segment-005.mp3",
+      "duration": 173.501021,
+      "played": 0.113028
+    }
+  ],
+  "pageErrors": [],
+  "mobileOverflow": false,
+  "imageBrowserVerification": {
+    "loadedNativeSlides": 79,
+    "loadedAnswerLayers": 43
+  },
+  "artworkVerification": {
+    "decodedPages": 79,
+    "exactPixelComparisons": 158,
+    "answerComposites": 43
+  }
+}
