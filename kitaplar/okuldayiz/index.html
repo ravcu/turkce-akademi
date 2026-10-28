@@ -252,5 +252,5 @@
     Promise.all([fetch(pagesUrl,{cache:'no-store'}),fetch('translations.json'),fetch('audio-map.json')]).then(async([p,t,a])=>{if(!p.ok||!t.ok||!a.ok)throw Error(`Resources unavailable (${p.status}, ${t.status}, ${a.status})`);return [await p.json(),await t.json(),await a.json()]}).then(([data,words,audio])=>{pages=data;glossary=words;audioMap=audio;makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(error=>{console.error('Book resources failed to load:',error);body.innerHTML='<div class="idle">Kitap veya yerel sözlük yüklenemedi. Sayfayı yenileyin.</div>'});
   })();
   </script>
-</body>
+<script src="../../assets/js/interface-i18n.js?v=20261028-ui1" defer></script></body>
 </html>
