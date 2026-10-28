@@ -1,0 +1,178 @@
+{
+  "slides": 103,
+  "selections": 7041,
+  "entries": 2429,
+  "answerSlides": 37,
+  "misses": [],
+  "bad": [],
+  "hiddenErrors": [],
+  "audioPlayed": [
+    {
+      "slide": 7,
+      "src": "audio/segment-001.mp3",
+      "duration": 58.3,
+      "played": 0.118254
+    },
+    {
+      "slide": 8,
+      "src": "audio/segment-002.mp3",
+      "duration": 71,
+      "played": 0.112813
+    },
+    {
+      "slide": 9,
+      "src": "audio/segment-003.mp3",
+      "duration": 87.347917,
+      "played": 0.112106
+    },
+    {
+      "slide": 20,
+      "src": "audio/segment-004.mp3",
+      "duration": 47.0825,
+      "played": 0.10472
+    },
+    {
+      "slide": 27,
+      "src": "audio/segment-005.mp3",
+      "duration": 188.43775,
+      "played": 0.108356
+    },
+    {
+      "slide": 28,
+      "src": "audio/segment-005.mp3",
+      "duration": 188.43775,
+      "played": 0.115619
+    },
+    {
+      "slide": 33,
+      "src": "audio/segment-006.mp3",
+      "duration": 80.54175,
+      "played": 0.106801
+    },
+    {
+      "slide": 35,
+      "src": "audio/segment-007.mp3",
+      "duration": 20.48,
+      "played": 0.115652
+    },
+    {
+      "slide": 36,
+      "src": "audio/segment-008.mp3",
+      "duration": 21.811917,
+      "played": 0.106444
+    },
+    {
+      "slide": 42,
+      "src": "audio/segment-009.mp3",
+      "duration": 17.824333,
+      "played": 0.110279
+    },
+    {
+      "slide": 42,
+      "src": "audio/segment-010.mp3",
+      "duration": 34.644146,
+      "played": 0.116421
+    },
+    {
+      "slide": 43,
+      "src": "audio/segment-011.mp3",
+      "duration": 80.123917,
+      "played": 0.111409
+    },
+    {
+      "slide": 44,
+      "src": "audio/segment-012.mp3",
+      "duration": 11.073958,
+      "played": 0.11295
+    },
+    {
+      "slide": 58,
+      "src": "audio/segment-013.mp3",
+      "duration": 65.183,
+      "played": 0.108082
+    },
+    {
+      "slide": 59,
+      "src": "audio/segment-014.mp3",
+      "duration": 21.811917,
+      "played": 0.105536
+    },
+    {
+      "slide": 60,
+      "src": "audio/segment-015.mp3",
+      "duration": 61.301,
+      "played": 0.109231
+    },
+    {
+      "slide": 71,
+      "src": "audio/segment-016.mp3",
+      "duration": 58.532,
+      "played": 0.113119
+    },
+    {
+      "slide": 72,
+      "src": "audio/segment-017.mp3",
+      "duration": 24.46,
+      "played": 0.11281
+    },
+    {
+      "slide": 79,
+      "src": "audio/segment-018.mp3",
+      "duration": 59.118,
+      "played": 0.113599
+    },
+    {
+      "slide": 80,
+      "src": "audio/segment-019.mp3",
+      "duration": 31.315,
+      "played": 0.112651
+    },
+    {
+      "slide": 81,
+      "src": "audio/segment-020.mp3",
+      "duration": 116.089,
+      "played": 0.118113
+    },
+    {
+      "slide": 82,
+      "src": "audio/segment-021.mp3",
+      "duration": 89.455,
+      "played": 0.112882
+    },
+    {
+      "slide": 90,
+      "src": "audio/segment-022.mp3",
+      "duration": 32.012021,
+      "played": 0.110575
+    },
+    {
+      "slide": 91,
+      "src": "audio/segment-023.mp3",
+      "duration": 21.811917,
+      "played": 0.111966
+    },
+    {
+      "slide": 92,
+      "src": "audio/segment-024.mp3",
+      "duration": 75.33525,
+      "played": 0.116192
+    },
+    {
+      "slide": 93,
+      "src": "audio/segment-025.mp3",
+      "duration": 32.612458,
+      "played": 0.117863
+    }
+  ],
+  "pageErrors": [],
+  "mobileOverflow": false,
+  "imageBrowserVerification": {
+    "loadedNativeSlides": 103,
+    "loadedAnswerLayers": 37
+  },
+  "artworkVerification": {
+    "decodedPages": 103,
+    "exactPixelComparisons": 206,
+    "answerComposites": 37
+  }
+}
