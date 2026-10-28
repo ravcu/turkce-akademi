@@ -1,0 +1,76 @@
+{
+  "slides": 95,
+  "selections": 7069,
+  "entries": 2147,
+  "answerSlides": 56,
+  "misses": [],
+  "bad": [],
+  "hiddenErrors": [],
+  "audioPlayed": [
+    {
+      "slide": 4,
+      "src": "audio/segment-001.mp3",
+      "duration": 49.5,
+      "played": 0.107054
+    },
+    {
+      "slide": 5,
+      "src": "audio/segment-002.mp3",
+      "duration": 74,
+      "played": 0.113943
+    },
+    {
+      "slide": 6,
+      "src": "audio/segment-003.mp3",
+      "duration": 83,
+      "played": 0.11386
+    },
+    {
+      "slide": 7,
+      "src": "audio/segment-004.mp3",
+      "duration": 26.757396,
+      "played": 0.114726
+    },
+    {
+      "slide": 23,
+      "src": "audio/segment-005.mp3",
+      "duration": 232.847833,
+      "played": 0.113749
+    },
+    {
+      "slide": 44,
+      "src": "audio/segment-006.mp3",
+      "duration": 98,
+      "played": 0.1115
+    },
+    {
+      "slide": 45,
+      "src": "audio/segment-007.mp3",
+      "duration": 82.387188,
+      "played": 0.113497
+    },
+    {
+      "slide": 60,
+      "src": "audio/segment-008.mp3",
+      "duration": 165.101146,
+      "played": 0.110712
+    },
+    {
+      "slide": 76,
+      "src": "audio/segment-009.mp3",
+      "duration": 204.094671,
+      "played": 0.107054
+    }
+  ],
+  "pageErrors": [],
+  "mobileOverflow": false,
+  "artworkVerification": {
+    "decodedPages": 95,
+    "exactPixelComparisons": 190,
+    "answerComposites": 56
+  },
+  "imageBrowserVerification": {
+    "loadedNativeSlides": 95,
+    "loadedAnswerLayers": 56
+  }
+}

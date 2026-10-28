@@ -67,7 +67,7 @@
 <body>
   <header class="topbar">
     <a class="brand" href="../../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
-    <nav class="mode-links"><a class="toplink" href="../../../">← Ana sayfaya dön</a></nav>
+    <nav class="mode-links"><a class="toplink" href="sunum/">Sunu Modu</a><a class="toplink" href="../../../">← Ana sayfaya dön</a></nav>
   </header>
   <main class="shell">
     <div class="heading">
@@ -310,7 +310,7 @@ makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(
 
 <script>
 (()=>{
-  const link=document.querySelector('.mode-links a[href="#"]');
+  const link=document.querySelector('.mode-links a[href="sunum/"]');
   if(!link)return;
   let presentationFrame=null;
   link.addEventListener('click',event=>{
