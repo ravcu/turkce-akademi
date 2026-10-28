@@ -9,6 +9,8 @@ import sys
 PART=int(sys.argv[1]);GLOBAL_OFFSET=[0,34,70][PART-1]
 W=W/f'part{PART}';W.mkdir(exist_ok=True)
 SOURCE=sorted((ROOT.parent/'upload').glob(f'*10*{PART}.part*.pptx'))[0]
+# Verified separate red tick icon; never classify whole book images by colour.
+ANSWER_PICTURE_SHA256={'a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974'}
 N={'p':'http://schemas.openxmlformats.org/presentationml/2006/main','a':'http://schemas.openxmlformats.org/drawingml/2006/main','r':'http://schemas.openxmlformats.org/officeDocument/2006/relationships'}
 def dump(p,d):p.write_text(json.dumps(d,ensure_ascii=False,indent=2)+'\n')
 def red(sh):return any(len(c)==6 and int(c[:2],16)>170 and int(c[2:4],16)<100 and int(c[4:],16)<100 for c in sh.xpath('.//a:srgbClr/@val',namespaces=N))
@@ -19,7 +21,7 @@ for source_index,ref in enumerate(list(ids),1):
  path=rels[ref.get('{'+N['r']+'}id')];r=E.fromstring(z.read(path));text=' '.join(r.xpath('//a:t/text()',namespaces=N))
  if 'Kelime Listesi' in text or ('Türkçe kelime / ifade' in text and 'İngilizce anlamı' in text):
   ids.remove(ref);excluded.append({'slide':source_index,'reason':'vocabulary-list','text':text});continue
- rec={'sequence':len(records)+1,'sourceSlide':source_index+GLOBAL_OFFSET,'sourcePart':PART,'partSlide':source_index,'slidePath':path,'dimensions':dims,'audio':[],'answerShapes':[],'removedEnglish':[],'pictures':[],'text':text}
+ rec={'sequence':len(records)+1,'sourceSlide':source_index+GLOBAL_OFFSET,'sourcePart':PART,'partSlide':source_index,'slidePath':path,'dimensions':dims,'audio':[],'answerShapes':[],'answerPictures':[],'removedEnglish':[],'pictures':[],'text':text}
  rp=posixpath.dirname(path)+'/_rels/'+posixpath.basename(path)+'.rels';sr={e.get('Id'):e.get('Target') for e in E.fromstring(z.read(rp))}
  tree=r.find('p:cSld',N).find('p:spTree',N)
  for sh in list(tree):
@@ -44,7 +46,9 @@ for source_index,ref in enumerate(list(ids),1):
     if '6. ÜNİTE' in (t.text or ''):t.text=t.text.replace('6. ÜNİTE','10. ÜNİTE')
   if sh.tag=='{'+N['p']+'}pic':
    for rid in sh.xpath('.//a:blip/@r:embed',namespaces=N):
-    target=posixpath.normpath(posixpath.dirname(path)+'/'+sr[rid]);rec['pictures'].append({'part':target,'sha256':hashlib.sha256(z.read(target)).hexdigest()})
+    target=posixpath.normpath(posixpath.dirname(path)+'/'+sr[rid]);sha=hashlib.sha256(z.read(target)).hexdigest()
+    if sha in ANSWER_PICTURE_SHA256:rec['answerPictures'].append({'part':target,'sha256':sha})
+    else:rec['pictures'].append({'part':target,'sha256':sha})
  for tag in ['timing','transition']:
   q=r.find('p:'+tag,N)
   if q is not None:r.remove(q)
@@ -52,6 +56,10 @@ for source_index,ref in enumerate(list(ids),1):
  # Original book headings/shapes are inside the untouched raster pictures.
  # Only separate red vector/text objects authored over those pictures are answers.
  for sh in list(tree):
+  if sh.tag=='{'+N['p']+'}pic':
+   targets=[posixpath.normpath(posixpath.dirname(path)+'/'+sr[rid]) for rid in sh.xpath('.//a:blip/@r:embed',namespaces=N)]
+   if any(hashlib.sha256(z.read(t)).hexdigest() in ANSWER_PICTURE_SHA256 for t in targets):
+    rec['answerShapes'].append({'kind':'picture','id':sh.xpath('.//p:cNvPr/@id',namespaces=N),'text':'','xml':E.tostring(sh).decode()});tree.remove(sh);continue
   if sh.tag in ['{'+N['p']+'}sp','{'+N['p']+'}cxnSp','{'+N['p']+'}grpSp'] and red(sh):
    rec['answerShapes'].append({'id':sh.xpath('.//p:cNvPr/@id',namespaces=N),'text':' '.join(sh.xpath('.//a:t/text()',namespaces=N)),'xml':E.tostring(sh).decode()});tree.remove(sh)
  changes['clean'][path]=E.tostring(r,xml_declaration=True,encoding='UTF-8',standalone=True);records.append(rec)

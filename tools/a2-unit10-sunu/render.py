@@ -10,7 +10,7 @@ for d in ['slides','answers']:(O/d).mkdir(exist_ok=True)
 (W/'ocr').mkdir(exist_ok=True)
 def process(r):
  seq=r['sequence'];cache=W/f'rendered-{seq:03}.json'
- if cache.exists():return json.loads(cache.read_text())
+ if cache.exists() and not r.get('answerPictures'):return json.loads(cache.read_text())
  images=[];vector=[]
  for mode in ['clean','full']:
   with fitz.open(W/'pdf'/f'{mode}.pdf') as d:
@@ -19,10 +19,11 @@ def process(r):
     for x0,y0,x1,y1,text,*_ in p.get_text('words'):vector.append({'text':text,'x':100*x0/p.rect.width,'y':100*y0/p.rect.height,'w':100*(x1-x0)/p.rect.width,'h':100*(y1-y0)/p.rect.height})
  clean,full=images;diff=ImageChops.difference(clean,full).convert('L').point(lambda v:255 if v>12 else 0);bbox=diff.getbbox()
  assert bool(bbox)==bool(r['answerShapes']),(seq,'unexplained visual difference',bbox,len(r['answerShapes']))
- image=f'slides/{seq:03}.webp';buffer=io.BytesIO();clean.save(buffer,format='WEBP',lossless=True,method=3);assert len(buffer.getvalue())>100;(O/image).write_bytes(buffer.getvalue())
+ suffix='-answers-v2' if r.get('answerPictures') else ''
+ image=f'slides/{seq:03}{suffix}.webp';buffer=io.BytesIO();clean.save(buffer,format='WEBP',lossless=True,method=3);assert len(buffer.getvalue())>100;(O/image).write_bytes(buffer.getvalue())
  answers=None
  if bbox:
-  answers=f'answers/{seq:03}.webp'
+  answers=f'answers/{seq:03}{suffix}.webp'
   rr,gg,bb=ImageChops.difference(clean,full).split();mask=ImageChops.lighter(ImageChops.lighter(rr,gg),bb).point(lambda v:255 if v else 0)
   overlay=full.convert('RGBA');overlay.putalpha(mask)
   assert ImageChops.difference(Image.alpha_composite(clean.convert('RGBA'),overlay).convert('RGB'),full).getbbox() is None

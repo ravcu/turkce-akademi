@@ -32,6 +32,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -53,6 +54,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -74,6 +76,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -95,6 +98,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -120,6 +124,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -149,6 +154,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"Metin kutusu 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"-82379\" y=\"2689524\"/><a:ext cx=\"4127158\" cy=\"1754326\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>a. Afi&#351;teki oteller &#304;stanbul&#8217;da yer almaktad&#305;r. </a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#220;cretlere kahvalt&#305; dahildir. </a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Demet Otel 5 y&#305;ld&#305;zl&#305;d&#305;r.</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#199;al&#305;&#351; Otel 3 y&#305;ld&#305;zl&#305;d&#305;r.</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>G&#252;ltekin Otel 4 y&#305;ld&#305;zl&#305;d&#305;r.</a:t></a:r><a:endParaRPr lang=\"en-PK\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -184,6 +190,14 @@
       ],
       "answerShapes": [
         {
+          "kind": "picture",
+          "id": [
+            "6"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"6\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{28ECFB86-2640-8404-A3A7-0B43E4EA309B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5524593\" y=\"1053877\"/><a:ext cx=\"357222\" cy=\"357222\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
           "id": [
             "11"
           ],
@@ -212,15 +226,17 @@
           "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvCxnSpPr><p:cNvPr id=\"16\" name=\"D&#252;z Ba&#287;lay&#305;c&#305; 15\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{425B9CEF-17C3-1B0D-DA69-154230410492}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr><a:cxnSpLocks/></p:cNvCxnSpPr><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipV=\"1\"><a:off x=\"2933879\" y=\"4983892\"/><a:ext cx=\"1308607\" cy=\"9491\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"38100\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:lnRef><a:fillRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"tx1\"/></a:fontRef></p:style></p:cxnSp>"
         }
       ],
+      "answerPictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
       "removedEnglish": [],
       "pictures": [
         {
           "part": "ppt/media/image8.jpg",
           "sha256": "ef8a03dbb70edc7648b8312ecefbe098d3a427626f15c1914089da6be9687f79"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "text": "DK 197"
@@ -279,6 +295,7 @@
           "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvCxnSpPr><p:cNvPr id=\"10\" name=\"D&#252;z Ba&#287;lay&#305;c&#305; 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{425B9CEF-17C3-1B0D-DA69-154230410492}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr><a:cxnSpLocks/></p:cNvCxnSpPr><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipV=\"1\"><a:off x=\"4762678\" y=\"5099222\"/><a:ext cx=\"1069711\" cy=\"1253\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"38100\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:lnRef><a:fillRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"tx1\"/></a:fontRef></p:style></p:cxnSp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -348,6 +365,7 @@
           "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvCxnSpPr><p:cNvPr id=\"16\" name=\"D&#252;z Ba&#287;lay&#305;c&#305; 15\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{425B9CEF-17C3-1B0D-DA69-154230410492}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr><a:cxnSpLocks/></p:cNvCxnSpPr><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm flipV=\"1\"><a:off x=\"2797955\" y=\"6058930\"/><a:ext cx=\"2000586\" cy=\"17729\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"38100\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:lnRef><a:fillRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"tx1\"/></a:fontRef></p:style></p:cxnSp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -368,36 +386,87 @@
         6858000
       ],
       "audio": [],
-      "answerShapes": [],
+      "answerShapes": [
+        {
+          "kind": "picture",
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"5\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"441848\" y=\"1795848\"/><a:ext cx=\"425663\" cy=\"425663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "6"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"6\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4461913\" y=\"2388972\"/><a:ext cx=\"425663\" cy=\"425663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "7"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"7\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"8490215\" y=\"1795847\"/><a:ext cx=\"425663\" cy=\"425663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"8\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4461913\" y=\"3624648\"/><a:ext cx=\"425663\" cy=\"425663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "9"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"9\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"8490214\" y=\"2388972\"/><a:ext cx=\"425663\" cy=\"425663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "10"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"10\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"441848\" y=\"3624647\"/><a:ext cx=\"425663\" cy=\"425663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        }
+      ],
+      "answerPictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
       "removedEnglish": [],
       "pictures": [
         {
           "part": "ppt/media/image11.jpg",
           "sha256": "1786fd66678c619e10cbafceac13c2c092e3a4375fd815fa01f5c7d3bb12a108"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "text": "DK 198"
@@ -478,6 +547,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{B18A98BC-6CAD-4A90-8C91-8A66B5E6E04E}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6477445\" y=\"5004920\"/><a:ext cx=\"4127158\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Otel se&#231;imini &#231;ocuklar yapacak.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -498,7 +568,118 @@
         6858000
       ],
       "audio": [],
-      "answerShapes": [],
+      "answerShapes": [
+        {
+          "kind": "picture",
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"5\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"9485651\" y=\"4005470\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"8\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5592825\" y=\"4273283\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "9"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"9\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5592825\" y=\"4614802\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "10"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"10\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5592825\" y=\"4902991\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "13"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"13\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"9485651\" y=\"5253397\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "14"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"14\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5592825\" y=\"5592306\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "15"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"15\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"7620408\" y=\"5767509\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "16"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"16\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"9485651\" y=\"6150918\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "17"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"17\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"7620408\" y=\"6501324\"/><a:ext cx=\"350406\" cy=\"350406\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        }
+      ],
+      "answerPictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
       "removedEnglish": [],
       "pictures": [
         {
@@ -508,42 +689,6 @@
         {
           "part": "ppt/media/image14.jpeg",
           "sha256": "73181c9afb35b7df0bb8489c6162d855629b5fe195dfd46449467c0b2fd6fec0"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "text": "DK 199"
@@ -582,6 +727,7 @@
           "xml": "<p:cxnSp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvCxnSpPr><p:cNvPr id=\"8\" name=\"D&#252;z Ba&#287;lay&#305;c&#305; 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{425B9CEF-17C3-1B0D-DA69-154230410492}\"/></a:ext></a:extLst></p:cNvPr><p:cNvCxnSpPr><a:cxnSpLocks/></p:cNvCxnSpPr><p:nvPr/></p:nvCxnSpPr><p:spPr><a:xfrm><a:off x=\"5557630\" y=\"1937248\"/><a:ext cx=\"1238586\" cy=\"1456741\"/></a:xfrm><a:prstGeom prst=\"line\"><a:avLst/></a:prstGeom><a:ln w=\"38100\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:lnRef><a:fillRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"tx1\"/></a:fontRef></p:style></p:cxnSp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -603,6 +749,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -674,6 +821,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1159562\" y=\"4113140\"/><a:ext cx=\"310980\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>7</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -728,6 +876,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"9960505\" y=\"4442786\"/><a:ext cx=\"1632884\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>u&#231;-</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -771,6 +920,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4310716\" y=\"4079536\"/><a:ext cx=\"5588658\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>U&#231;ak birazdan havaliman&#305;na inecek.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -828,6 +978,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1468125\" y=\"5459972\"/><a:ext cx=\"5588658\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Trabzon Havaalan&#305;&#8217;na indi.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -849,6 +1000,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -880,6 +1032,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -901,6 +1054,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -922,6 +1076,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -958,6 +1113,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E01FCC3B-FD4A-4D0F-9DF7-79C2141C3C03}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4320655\" y=\"4159627\"/><a:ext cx=\"6900624\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Sadece Ay&#351;e de&#287;il ayr&#305;ca/ ayn&#305; zamanda Bet&#252;l de &#231;ok heyecanl&#305;.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1015,6 +1171,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E1811B24-4ECD-4AE9-9B4D-ADDA2A869D78}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4791106\" y=\"4666868\"/><a:ext cx=\"5730012\" cy=\"646331\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Ay&#351;e sadece elbise de&#287;il ayn&#305; zamanda/ ayr&#305;ca ayakkab&#305; da al&#305;yor.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1036,6 +1193,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1114,6 +1272,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{3080832B-48BB-D9C4-C96D-EA8FF123671A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7678150\" y=\"4254760\"/><a:ext cx=\"385400\" cy=\"390729\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1246,6 +1405,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"20\" name=\"Metin kutusu 19\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3474656\" y=\"5243700\"/><a:ext cx=\"2510050\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>YBT123</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1278,13 +1438,113 @@
           }
         }
       ],
-      "answerShapes": [],
-      "removedEnglish": [],
-      "pictures": [
+      "answerShapes": [
         {
-          "part": "ppt/media/image27.png",
-          "sha256": "b70501828004c02d805fa1a03d219f0dff619cb0081d5fd046f601cb0e16904c"
+          "kind": "picture",
+          "id": [
+            "20"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"20\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{CD5E699F-E7AB-4750-813E-CC32B2EA23E8}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5930135\" y=\"3085425\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
         },
+        {
+          "kind": "picture",
+          "id": [
+            "21"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"21\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{02019FEF-3CD3-4D0F-80B3-8B8408AA6B95}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"6521268\" y=\"3290826\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "22"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"22\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{110EE624-E0A8-4AA3-B67C-396AE5135316}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5930135\" y=\"3600942\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "23"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"23\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{AEC378DF-223F-4BD9-B5A2-5C56403E79F5}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5930135\" y=\"3806343\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "24"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"24\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4D73769B-95CA-4958-A1C1-3FCCD14ACE37}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"6521268\" y=\"4091115\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "25"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"25\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{3569ADA0-20A8-4290-BE76-E6AB29B3E0ED}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5930135\" y=\"4321860\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "26"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"26\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4050AF99-EEC1-4CB7-8DC7-3DCC96CF4EE0}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"6521268\" y=\"4534226\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "27"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"27\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{0EFCA91D-35D3-41B3-B150-F836B2ADEED2}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5930135\" y=\"4786813\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "28"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"28\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{EC97CF0D-3DE4-49C7-A5AA-74FAE1212096}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"6521268\" y=\"5011620\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "29"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"29\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{B0EE1A42-AE1B-41C3-BD3E-6CB5A04CD0FA}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5930135\" y=\"5251766\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "30"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"30\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{74AAD697-A652-4E3F-9467-A3EB7F6F5E71}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"6521268\" y=\"5527669\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "31"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"31\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{DB3A219A-95F9-4AC6-8414-6B75F0EB86E5}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5935979\" y=\"5775521\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "32"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"32\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{7A5FCB82-F05C-4C0F-A514-DEE886DE3D1D}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId5\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId6\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"6521268\" y=\"6040013\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        }
+      ],
+      "answerPictures": [
         {
           "part": "ppt/media/image9.png",
           "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
@@ -1338,6 +1598,13 @@
           "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image27.png",
+          "sha256": "b70501828004c02d805fa1a03d219f0dff619cb0081d5fd046f601cb0e16904c"
+        }
+      ],
       "text": "DK 202"
     },
     {
@@ -1352,6 +1619,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1388,6 +1656,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6675316\" y=\"3269047\"/><a:ext cx=\"4763392\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>2,4,7,9</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1409,6 +1678,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1459,11 +1729,25 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7154143\" y=\"4392708\"/><a:ext cx=\"4766008\" cy=\"707886\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Kalk&#305;&#351;ta ve ini&#351;te masalar&#305;n&#305;z&#305; kapat&#305;n. Koltu&#287;unuzu dik pozisyona getirin.</a:t></a:r></a:p></p:txBody></p:sp>"
         },
         {
+          "kind": "picture",
+          "id": [
+            "9"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"9\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E814202C-0C1F-8C33-A5BE-EF2B969C357A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId4\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId5\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"9500077\" y=\"2588961\"/><a:ext cx=\"310116\" cy=\"310116\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
           "id": [
             "11"
           ],
           "text": "Telefonlarınızı ve diğer elektronik cihazlarınızı uçak  moduna  alın ya da kapatın.",
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Metin kutusu 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7154143\" y=\"3154750\"/><a:ext cx=\"4925108\" cy=\"707886\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Telefonlar&#305;n&#305;z&#305; ve di&#287;er elektronik cihazlar&#305;n&#305;z&#305; u&#231;ak </a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\" err=\"1\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>moduna</a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t> al&#305;n ya da kapat&#305;n.</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "answerPictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "removedEnglish": [],
@@ -1475,10 +1759,6 @@
         {
           "part": "ppt/media/image30.jpg",
           "sha256": "e9895a6bc255ca8354963fc472bd05d51fd765f5e1ed35a4f9f652c05b69b3c2"
-        },
-        {
-          "part": "ppt/media/image9.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "text": "Videoyu izlemek için tıklayınız. Valizlerinizi  başüstü  dolaplarınıza yerleştirin. Acil durumlarda uçağı tahliye edin. Kalkışta ve inişte masalarınızı kapatın. Koltuğunuzu dik pozisyona getirin. Telefonlarınızı ve diğer elektronik cihazlarınızı uçak  moduna  alın ya da kapatın. DK 203"
@@ -1548,6 +1828,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"24\" name=\"Metin kutusu 23\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{9D1F57F3-F24D-43D5-95F4-81D3A694E9BF}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"9373051\" y=\"5973149\"/><a:ext cx=\"1400972\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Cadde</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1605,6 +1886,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Metin kutusu 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1173890\" y=\"5963295\"/><a:ext cx=\"3547197\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>5. Y&#252;ksek sesle konu&#351;may&#305;n&#305;z.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1639,6 +1921,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1673,6 +1956,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1694,6 +1978,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1715,6 +2000,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1736,6 +2022,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1807,6 +2094,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"22\" name=\"Oval 21\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{46E44107-3EF5-4483-A73D-2FC4405B681A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2743956\" y=\"5298581\"/><a:ext cx=\"1206701\" cy=\"496956\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"28575\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"C00000\"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1871,6 +2159,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8541733\" y=\"2375272\"/><a:ext cx=\"1778030\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>kalkmas&#305;na</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1931,6 +2220,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1964,6 +2254,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -1997,6 +2288,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2018,6 +2310,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2039,6 +2332,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2060,6 +2354,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2081,6 +2376,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2102,6 +2398,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2123,6 +2420,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2144,6 +2442,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2165,6 +2464,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2222,6 +2522,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8055909\" y=\"5057952\"/><a:ext cx=\"3443270\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>L&#252;tfen havlular&#305; de&#287;i&#351;tirin.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2265,6 +2566,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3617342\" y=\"3028213\"/><a:ext cx=\"3682168\" cy=\"584775\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"just\"/><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#8230;&#8230;... Otel</a:t></a:r></a:p><a:p><a:pPr algn=\"just\"/><a:endParaRPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2286,6 +2588,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2311,6 +2614,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2361,6 +2665,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"15\" name=\"Oval 14\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{156E1645-BDF4-493C-AEE2-0120894C6B3A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1003852\" y=\"5347251\"/><a:ext cx=\"616227\" cy=\"556591\"/></a:xfrm><a:prstGeom prst=\"ellipse\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"38100\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"50000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\"/></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2395,6 +2700,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2441,6 +2747,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2483,6 +2790,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2503,32 +2811,75 @@
         6858000
       ],
       "audio": [],
-      "answerShapes": [],
+      "answerShapes": [
+        {
+          "kind": "picture",
+          "id": [
+            "10"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"10\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{F1CA99E3-9589-4B76-B0ED-DB179B8A8799}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4230565\" y=\"3731663\"/><a:ext cx=\"364911\" cy=\"364911\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "11"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"11\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{85DB289B-E905-43E3-A1FD-395360AD07B4}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4230565\" y=\"4238559\"/><a:ext cx=\"364911\" cy=\"364911\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "12"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"12\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{51DA6D95-7BA1-4826-9683-68368CAE5A5B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4230564\" y=\"4659270\"/><a:ext cx=\"364911\" cy=\"364911\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "13"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"13\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{BBDE2242-B441-4B27-A174-CC9A45224049}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4230564\" y=\"5137716\"/><a:ext cx=\"364911\" cy=\"364911\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "14"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"14\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{8D1CEDC5-445B-4772-97D8-6BEAB1AB09F6}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4230564\" y=\"5616162\"/><a:ext cx=\"364911\" cy=\"364911\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        }
+      ],
+      "answerPictures": [
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
       "removedEnglish": [],
       "pictures": [
         {
           "part": "ppt/media/image36.png",
           "sha256": "053d67ee055f50c8caf844d598c049a85447f1fd7b1f2468421685e32cc6c0bc"
-        },
-        {
-          "part": "ppt/media/image37.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image37.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image37.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image37.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image37.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "text": "DK 210"
@@ -2588,6 +2939,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Metin kutusu 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6677719\" y=\"4730625\"/><a:ext cx=\"5514281\" cy=\"707886\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\" err=\"1\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Amina</a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t> T&#252;rk kahvesini, menemen ve g&#246;zlemeyi &#231;ok be&#287;endi.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2609,6 +2961,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2652,6 +3005,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4F67235D-E9FF-42AC-9934-3EBFC6290427}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1857060\" y=\"4272410\"/><a:ext cx=\"385400\" cy=\"390729\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2688,6 +3042,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2355132\" y=\"6141959\"/><a:ext cx=\"2814320\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Menek&#351;e Pastanesi&#8217;ne</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2709,6 +3064,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2730,6 +3086,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2815,6 +3172,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"26\" name=\"Metin kutusu 25\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{301E1445-83C0-4F61-81BB-0BCE34B644A6}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3697798\" y=\"6296076\"/><a:ext cx=\"375920\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>f</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2893,6 +3251,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"17\" name=\"Metin kutusu 16\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{572D9D21-81B4-5381-EABC-F24AAFFB856B}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"10795198\" y=\"2102675\"/><a:ext cx=\"375920\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>a</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2950,6 +3309,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Dikd&#246;rtgen 8\"/><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8112840\" y=\"5948976\"/><a:ext cx=\"2600520\" cy=\"369332\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr><p:txBody><a:bodyPr wrap=\"none\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:pPr algn=\"just\"/><a:r><a:rPr lang=\"tr-TR\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Emniyet kemerinizi tak&#305;n.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -2983,6 +3343,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3016,6 +3377,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3037,6 +3399,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3058,6 +3421,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3083,6 +3447,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3108,6 +3473,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3129,6 +3495,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3150,6 +3517,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3184,6 +3552,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3218,6 +3587,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3252,6 +3622,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3286,6 +3657,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3312,6 +3684,38 @@
       "audio": [],
       "answerShapes": [
         {
+          "kind": "picture",
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"5\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{905173B1-C82F-4ED7-9873-A6907335CAA2}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"1021697\" y=\"2001425\"/><a:ext cx=\"327913\" cy=\"327913\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "6"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"6\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{12755E1A-84C7-435E-A591-F0E84085CB4E}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"4036566\" y=\"2620964\"/><a:ext cx=\"327913\" cy=\"327913\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "7"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"7\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{4DCED5A2-38D8-4CFF-9BCB-34570C1758D4}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"1021697\" y=\"4200750\"/><a:ext cx=\"327913\" cy=\"327913\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
+          "kind": "picture",
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:pic xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvPicPr><p:cNvPr id=\"8\" name=\"Grafik 1\" descr=\"Onay i&#351;areti d&#252;z dolguyla\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{C2F85FA9-3615-4C0C-9849-E85464BBE033}\"/></a:ext></a:extLst></p:cNvPr><p:cNvPicPr><a:picLocks noChangeAspect=\"1\"/></p:cNvPicPr><p:nvPr/></p:nvPicPr><p:blipFill><a:blip r:embed=\"rId3\"><a:extLst><a:ext uri=\"{96DAC541-7B7A-43D3-8B79-37D633B846F1}\"><asvg:svgBlip xmlns=\"\" xmlns:asvg=\"http://schemas.microsoft.com/office/drawing/2016/SVG/main\" r:embed=\"rId4\"/></a:ext></a:extLst></a:blip><a:stretch><a:fillRect/></a:stretch></p:blipFill><p:spPr><a:xfrm><a:off x=\"5603635\" y=\"4200750\"/><a:ext cx=\"327913\" cy=\"327913\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom></p:spPr></p:pic>"
+        },
+        {
           "id": [
             "10"
           ],
@@ -3333,27 +3737,29 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{A4D9A6E4-3D86-4400-8D33-BF4C0CDD9BF7}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1936312\" y=\"6378377\"/><a:ext cx=\"7973002\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Tatilde &#304;stanbul&#8217;u ad&#305;m ad&#305;m gezdik.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        },
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
+        }
+      ],
       "removedEnglish": [],
       "pictures": [
         {
           "part": "ppt/media/image17.png",
           "sha256": "5eedd64f6ac160a489cc00053886762b1540d46c17808555e3c854d85c50f785"
-        },
-        {
-          "part": "ppt/media/image18.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image18.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image18.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
-        },
-        {
-          "part": "ppt/media/image18.png",
-          "sha256": "a6a8578d845f9d39e23da39c948ca1579c68209859b975575f20461c58282974"
         }
       ],
       "text": "DK 216  İtfaiyeci insanları yangından kurtarırken büyük cesaret gösterdi. Ben Kapadokya’ya hayran oldum. Tatilde İstanbul’u adım adım gezdik."
@@ -3441,6 +3847,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{DB6E9B51-7098-4F2B-A394-2665C184B82C}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8754784\" y=\"5129901\"/><a:ext cx=\"3324467\" cy=\"707886\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>K&#305;z Kulesi ve Galata Kulesi dikkatini &#231;ekti.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3484,6 +3891,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{65A4BED6-9B0B-47E9-8178-BFAA2E2075C6}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8515059\" y=\"3192741\"/><a:ext cx=\"3882768\" cy=\"1015663\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Galata K&#246;pr&#252;s&#252;&#8217;ne gidin.</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>K&#305;z Kulesi&#8217;ne gidin.</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Vapur&#8217;da mart&#305;lara simit at&#305;n.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3505,6 +3913,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3569,6 +3978,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{79B3670C-6544-45D0-BE6E-9EADF4E59EC5}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"9496962\" y=\"2634411\"/><a:ext cx=\"2042936\" cy=\"3785652\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Geziye gitmek</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Gezi yapmak</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Geziden d&#246;nmek</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Okul gezisi</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#350;ehir gezisi</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Do&#287;a gezisi</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>K&#252;lt&#252;r gezisi</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Gezi plan&#305;</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Gezi foto&#287;raf&#305;</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Gezi rehberi</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Gezi otob&#252;s&#252;</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Gezi s&#252;resi</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3590,6 +4000,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3611,6 +4022,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3642,6 +4054,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3673,6 +4086,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3704,6 +4118,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3735,6 +4150,7 @@
         }
       ],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3756,6 +4172,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3777,6 +4194,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3813,6 +4231,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{E7DA54E7-8AAE-426C-B8F5-4ECA3593966F}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1114220\" y=\"1669483\"/><a:ext cx=\"8937029\" cy=\"707886\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Dolunay Sokak&#8217;tan &#199;al&#305;&#351; Caddesi&#8217;ne do&#287;ru d&#252;z ilerleyin. Sonra sa&#287;a d&#246;n&#252;n. Otopark Bulvar Caddesi&#8217;nin sonunda.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3842,6 +4261,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{9200755F-C987-40B2-A15A-A4E09C701F16}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"79513\" y=\"4665171\"/><a:ext cx=\"3637857\" cy=\"1631216\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>E-postay&#305; yazma nedeni bilgi almakt&#305;r. &#199;&#252;nk&#252; e-postay&#305; yazan ki&#351;i &#252;lkeye gelmeden &#246;nce ula&#351;&#305;m, yemek, gezi ve b&#252;t&#231;e hakk&#305;nda bilgi almak istiyor.</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3863,6 +4283,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3884,6 +4305,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3934,6 +4356,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{1474E590-1EC6-4FDA-B30F-87DBD9C7DD6A}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6892173\" y=\"6207792\"/><a:ext cx=\"1808479\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>1</a:t></a:r></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -3991,6 +4414,7 @@
           "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"16\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 15\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{90451AFB-E9E2-468B-A806-C171A6101A9D}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3979203\" y=\"5467287\"/><a:ext cx=\"211260\" cy=\"231589\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
         }
       ],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -4012,6 +4436,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -4033,6 +4458,7 @@
       ],
       "audio": [],
       "answerShapes": [],
+      "answerPictures": [],
       "removedEnglish": [],
       "pictures": [
         {
@@ -4044,7 +4470,8 @@
     }
   ],
   "originalPicturesPreserved": true,
-  "pictureHashChecks": 318,
+  "pictureHashChecks": 240,
   "removedEnglishTables": 0,
-  "addedAnswerObjects": 184
+  "addedAnswerObjects": 223,
+  "answerPictureObjects": 39
 }

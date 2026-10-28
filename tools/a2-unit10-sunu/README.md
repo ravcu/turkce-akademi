@@ -1,8 +1,10 @@
 # A2 10. Ünite · Gezi-yorum · Sunu Modu
 
-Üç özgün PowerPoint parçası kaynak sırasıyla 34 + 36 + 33 olmak üzere 103 slayttır. Kitap resimlerinin kaynak baytları değiştirilmez; clean/full türevlerinde 318 SHA-256 resim kontrolü yapılır. Kapaktaki ayrı metin nesnesinde kalan 6. ünite etiketi 10 olarak düzeltilir. Kaynakta boş açılış sayfası yoktur: 2. slayt ünite kapağı, 3. slayt hazırlık sorularıdır ve korunur.
+Üç özgün PowerPoint parçası kaynak sırasıyla 34 + 36 + 33 olmak üzere 103 slayttır. Kitap resimlerinin kaynak baytları değiştirilmez; clean/full türevlerinde 240 SHA-256 resim kontrolü yapılır. Kapaktaki ayrı metin nesnesinde kalan 6. ünite etiketi 10 olarak düzeltilir. Kaynakta boş açılış sayfası yoktur: 2. slayt ünite kapağı, 3. slayt hazırlık sorularıdır ve korunur.
 
-37 slayttaki 184 ayrı kırmızı cevap nesnesi açılıp kapanır. Görsellerin içindeki özgün kırmızı başlıklar, şekiller ve basılı örnekler korunur. Kayıpsız, saydam WebP cevap katmanlarının temiz sayfayla birleşimi, cevaplı kaynak dönüşümüyle piksel düzeyinde aynıdır.
+41 slayttaki 223 ayrı cevap nesnesi (184 kırmızı metin/şekil ve 39 ayrı kırmızı onay resmi) açılıp kapanır. Görsellerin içindeki özgün kırmızı başlıklar, şekiller ve basılı örnekler korunur. Kayıpsız, saydam WebP cevap katmanlarının temiz sayfayla birleşimi, cevaplı kaynak dönüşümüyle piksel düzeyinde aynıdır.
+
+Ayrı resim olarak eklenen 39 kırmızı onay işareti de cevap katmanındadır. Doğrulanmış simge SHA-256 değeriyle belirlenir; kitap görsellerinin içindeki kırmızı renkler maskeleme yoluyla silinmez. Etkilenen 7/10/12/28/32/61/83. sayfaların görsel adresleri `answers-v2` sürümüyle yenilenir. Cevabı bulunmayan sayfalarda düğme devre dışıdır ve “Bu Sayfada Cevap Yok” yazar.
 
 Kaynakta ayrı İngilizce çeviri tablosu veya “Türkçe–İngilizce Kelime Listesi” slaytı yoktur. Bu tür öğeler için çıkarma kuralları mevcuttur.
 
@@ -28,3 +30,5 @@ Depo kökünden:
 8. `python tools/a2-unit10-sunu/verify_artwork.py`
 
 source-audit.json kaynak denetimini, verification.json Chromium ve piksel kontrol sonuçlarını içerir. Kontroller her seçim alanının merkezini, kullanılan ifadelerin beş dilde anlam ve örneklerini, bütün cevap katmanlarını, 26 sesin Dinle ile gerçekten oynatılmasını ve telefon/tablet/masaüstü genişliklerini kapsar.
+
+Regresyon kontrolü, yalnızca hidden niteliğini değil 41 sayfanın gerçek Chromium ekran görüntülerini karşılaştırır: gösterince sayfa değişmeli, gizleyince önceki görüntü piksel düzeyinde aynen geri gelmelidir.
