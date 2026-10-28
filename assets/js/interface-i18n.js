@@ -1,6 +1,7 @@
 /* Shared UI language. Turkish lesson text, answer keys and book artwork remain learning content. */
 (()=>{'use strict';
 const rows=[
+["Bu sayfadaki taslak işaretler silinsin mi?", "Remove the draft markings on this page?", "Удалить черновые отметки на этой странице?", "Бул барактагы сыноо белгилери өчүрүлсүнбү?"],
 ["ETKİNLİK CEVAPLARI", "ACTIVITY ANSWERS", "ОТВЕТЫ К ЗАДАНИЯМ", "ТАПШЫРМАЛАРДЫН ЖООПТОРУ"],
 ["İsteğe bağlı", "Optional", "По желанию", "Каалоого жараша"],
 ["Cevabı göster", "Show answer", "Показать ответ", "Жоопту көрсөт"],
@@ -109,7 +110,7 @@ function localize(){
  observer.disconnect();
  try{
   const walker=document.createTreeWalker(document.head,NodeFilter.SHOW_TEXT),bodyWalker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
-  for(const scan of [walker,bodyWalker]){let node;while((node=scan.nextNode())){if(skip(node.parentElement)||!node.nodeValue.trim())continue;if(node.parentElement.matches('.translation')&&node.nodeValue.trim()!=='Bu kelime için çeviri kaydı bulunamadı.')continue;const entry=sourceFor(originals,node,node.nodeValue);const preserveTail=node.parentElement.matches('.type-label,.langname')&&entry.source.includes(' · ');const parts=preserveTail?entry.source.split(' · '):null;const output=preserveTail?translate(parts.shift())+' · '+parts.join(' · '):translate(entry.source);if(output!==node.nodeValue)node.nodeValue=output;entry.output=output;originals.set(node,entry)}}
+  for(const scan of [walker,bodyWalker]){let node;while((node=scan.nextNode())){if(skip(node.parentElement)||!node.nodeValue.trim())continue;if(node.parentElement.closest('.answer-note')&&node.nodeValue.trim()!=='Bu sayfanın cevap anahtarı henüz eklenmedi.')continue;if(node.parentElement.matches('.translation')&&node.nodeValue.trim()!=='Bu kelime için çeviri kaydı bulunamadı.')continue;const entry=sourceFor(originals,node,node.nodeValue);const preserveTail=node.parentElement.matches('.type-label,.langname')&&entry.source.includes(' · ');const parts=preserveTail?entry.source.split(' · '):null;const output=preserveTail?translate(parts.shift())+' · '+parts.join(' · '):translate(entry.source);if(output!==node.nodeValue)node.nodeValue=output;entry.output=output;originals.set(node,entry)}}
   document.querySelectorAll('[aria-label],[title],[placeholder],img[alt]').forEach(el=>{
    if(el.closest('.hotspot,.word-hit,.hit,[data-no-ui-translate]'))return;let saved=originalAttrs.get(el);if(!saved){saved={};originalAttrs.set(el,saved)}
    for(const attr of ['aria-label','title','placeholder','alt']){if(!el.hasAttribute(attr))continue;const value=el.getAttribute(attr);let entry=saved[attr];if(!entry||entry.output!==value)entry={source:value,output:value};const output=translate(entry.source);if(output!==value)el.setAttribute(attr,output);entry.output=output;saved[attr]=entry}

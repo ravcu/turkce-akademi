@@ -228,7 +228,7 @@
         editorSave();editorRender();
       });
       $('#editorUndo').addEventListener('click',()=>{editorItems().pop();editorSave();editorRender()});
-      $('#editorClear').addEventListener('click',()=>{if(!confirm('Bu sayfadaki taslak işaretler silinsin mi?'))return;editorDraft[editorPage()]=[];editorSave();editorRender()});
+      $('#editorClear').addEventListener('click',()=>{if(!confirm(window.TurkceInterface?.translate('Bu sayfadaki taslak işaretler silinsin mi?')||'Bu sayfadaki taslak işaretler silinsin mi?'))return;editorDraft[editorPage()]=[];editorSave();editorRender()});
       $('#editorExport').addEventListener('click',()=>{
         const data={unit:'ailem-ve-evim',version:1,pages:editorDraft,exportedAt:new Date().toISOString()};
         const blob=new Blob([JSON.stringify(data,null,2)],{type:'application/json'}),url=URL.createObjectURL(blob),a=document.createElement('a');
