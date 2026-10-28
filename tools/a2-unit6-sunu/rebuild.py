@@ -148,9 +148,14 @@ def main():
         g[sec]={k:v for k,v in g[sec].items() if k in used or sec=='words' and any((f.get('lemma') or f.get('base'))==k for f in g['forms'].values())}
     missing=[k for k in used if not all(entry(g,k))]
     assert not missing,missing
+    # The original first slide is a blank white sheet, not presentation content.
+    keep=[j for j,s in enumerate(slides) if not (s.get('part')==1 and s.get('source_slide')==1)]
+    slides=[slides[j] for j in keep];records=[records[j] for j in keep]
+    for j,record in enumerate(records,1):record['slide']=j
     dump(OUT/'manifest.json',{'slides':slides});dump(OUT/'translations.json',g)
     dump(audit/'unresolved.json',{k:sorted(v) for k,v in unresolved.items()})
     dump(OUT/'vocabulary-audit.json',{'method':'Visible slide pixels; native psm3/11 and threshold psm11; editorial corrections; five-language dictionary and examples','slides':records,'totalSelections':sum(len(s['words']) for s in slides),'uniqueEntries':len(used),'newEditorialEntries':len(extra),'missingMeaningsOrExamples':len(missing)})
     print(json.dumps({'selections':sum(len(s['words']) for s in slides),'entries':len(used),'editorial':len(extra),'unresolvedCandidates':len(unresolved)}))
 
 if __name__=='__main__':main()
+

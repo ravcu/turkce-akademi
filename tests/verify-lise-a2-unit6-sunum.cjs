@@ -3,7 +3,7 @@ const root=path.resolve(__dirname,'../kitaplar/lise-a2/hayat-birlikte-guzel/sunu
 const slides=JSON.parse(fs.readFileSync(root+'/manifest.json')).slides;
 const g=JSON.parse(fs.readFileSync(root+'/translations.json'));
 const html=fs.readFileSync(root+'/index.html','utf8');
-assert.equal(slides.length,77);
+assert.equal(slides.length,76);
 assert(html.includes("fetch('translations.json?v="),'presentation supplement must load');
 assert(html.includes('showWord(w.phrase||w.text)'),'phrase selection must be retained');
 const used=new Set();let selections=0;
@@ -15,11 +15,12 @@ for(const [i,s] of slides.entries()){
  for(const w of s.words){
   for(const k of ['x','y','w','h'])assert(Number.isFinite(w[k]),k+' '+i);
   assert(w.x>=0&&w.y>=0&&w.w>0&&w.h>0&&w.x+w.w<=100.1&&w.y+w.h<=100.1,'invalid area '+i+' '+w.text);
-  assert((w.w<=32||(i===2&&w.text==='hayat birlikte güzel'&&w.w<=60))&&w.h<=11,'oversized OCR area '+i+' '+w.text);
+  assert((w.w<=32||(i===1&&w.text==='hayat birlikte güzel'&&w.w<=60))&&w.h<=11,'oversized OCR area '+i+' '+w.text);
   used.add(w.phrase||w.text);selections++;
  }
 }
 for(const key of used){const [m,tr,ex]=values(key);assert(Array.isArray(m)&&m.length===5&&m.every(t=>typeof t==='string'&&t.trim()),'meaning '+key);assert(tr?.trim(),'example '+key);assert(Array.isArray(ex)&&ex.length===5&&ex.every(t=>typeof t==='string'&&t.trim()),'translated example '+key);assert(/[а-яА-ЯёЁ]/.test(m[1])&&/[а-яА-ЯөӨүҮңҢ]/.test(m[2])&&/[\u0600-\u06ff]/.test(m[3])&&!/[\u0600-\u06ffа-яА-Я]/.test(m[4]),'language order '+key);}
-for(const [page,keys] of [[16,['dönerken','sinyal','vermeli','öğrenmeli']],[28,['fadime','galoş','giymemiz']],[39,['puan','sürüyorsun','görebiliriz']],[77,['kahveyi','yudum','yerleştirilir','şahitlikleri']]])for(const key of keys)assert(slides[page-1].words.some(w=>w.text===key),'missing restored selection '+page+' '+key);
+for(const [page,keys] of [[15,['dönerken','sinyal','vermeli','öğrenmeli']],[27,['fadime','galoş','giymemiz']],[38,['puan','sürüyorsun','görebiliriz']],[76,['kahveyi','yudum','yerleştirilir','şahitlikleri']]])for(const key of keys)assert(slides[page-1].words.some(w=>w.text===key),'missing restored selection '+page+' '+key);
 assert(selections>=4000);
 console.log(JSON.stringify({slides:slides.length,selections,selectedEntries:used.size,languages:5,missingMeaningsOrExamples:0}));
+
