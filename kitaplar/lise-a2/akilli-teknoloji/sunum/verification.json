@@ -1,0 +1,135 @@
+{
+  "slides": 100,
+  "selections": 5847,
+  "entries": 2030,
+  "answerSlides": 12,
+  "misses": [],
+  "bad": [],
+  "hiddenErrors": [],
+  "audioPlayed": [
+    {
+      "slide": 5,
+      "src": "audio/segment-001.mp3",
+      "duration": 21.811917,
+      "played": 0.107848
+    },
+    {
+      "slide": 6,
+      "src": "audio/segment-002.mp3",
+      "duration": 39.014,
+      "played": 0.115324
+    },
+    {
+      "slide": 7,
+      "src": "audio/segment-003.mp3",
+      "duration": 32.208,
+      "played": 0.107193
+    },
+    {
+      "slide": 8,
+      "src": "audio/segment-004.mp3",
+      "duration": 43.212,
+      "played": 0.111867
+    },
+    {
+      "slide": 9,
+      "src": "audio/segment-005.mp3",
+      "duration": 34.665,
+      "played": 0.108679
+    },
+    {
+      "slide": 10,
+      "src": "audio/segment-006.mp3",
+      "duration": 19,
+      "played": 0.110192
+    },
+    {
+      "slide": 11,
+      "src": "audio/segment-007.mp3",
+      "duration": 39.561,
+      "played": 0.112253
+    },
+    {
+      "slide": 19,
+      "src": "audio/segment-008.mp3",
+      "duration": 71.56675,
+      "played": 0.107141
+    },
+    {
+      "slide": 29,
+      "src": "audio/segment-009.mp3",
+      "duration": 194.45175,
+      "played": 0.108518
+    },
+    {
+      "slide": 30,
+      "src": "audio/segment-009.mp3",
+      "duration": 194.45175,
+      "played": 0.107337
+    },
+    {
+      "slide": 36,
+      "src": "audio/segment-010.mp3",
+      "duration": 56.437375,
+      "played": 0.151772
+    },
+    {
+      "slide": 54,
+      "src": "audio/segment-011.mp3",
+      "duration": 72.487125,
+      "played": 0.111952
+    },
+    {
+      "slide": 62,
+      "src": "audio/segment-012.mp3",
+      "duration": 27.97,
+      "played": 0.120002
+    },
+    {
+      "slide": 63,
+      "src": "audio/segment-013.mp3",
+      "duration": 19.265,
+      "played": 0.11199
+    },
+    {
+      "slide": 64,
+      "src": "audio/segment-014.mp3",
+      "duration": 26.176708,
+      "played": 0.117662
+    },
+    {
+      "slide": 69,
+      "src": "audio/segment-015.mp3",
+      "duration": 21.811917,
+      "played": 0.114392
+    },
+    {
+      "slide": 69,
+      "src": "audio/segment-016.mp3",
+      "duration": 23.717938,
+      "played": 0.117338
+    },
+    {
+      "slide": 70,
+      "src": "audio/segment-017.mp3",
+      "duration": 27.291,
+      "played": 0.113829
+    },
+    {
+      "slide": 71,
+      "src": "audio/segment-018.mp3",
+      "duration": 33.378271,
+      "played": 0.116684
+    },
+    {
+      "slide": 74,
+      "src": "audio/segment-019.mp3",
+      "duration": 137.923208,
+      "played": 0.105211
+    }
+  ],
+  "pageErrors": [],
+  "mobileOverflow": false,
+  "date": "2026-10-28",
+  "method": "Chromium 145; every hotspot center; all selected entries rendered in five languages; all 20 native audio uses actually played; all answer toggles; widths 1920/1440/1024/768/390"
+}

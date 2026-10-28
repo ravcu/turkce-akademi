@@ -1,0 +1,2952 @@
+{
+  "sourceSha256": "2d9cdf4fd19235de8bed5859bfb2068e16888d9460bb20d581c6bf71139b6b78",
+  "sourceSlides": 100,
+  "keptSlides": 100,
+  "excluded": [],
+  "slides": [
+    {
+      "sequence": 1,
+      "sourceSlide": 1,
+      "slidePath": "ppt/slides/slide1.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image1.png",
+          "sha256": "66ddcf3a5b1ee6192c7fff9351630776ec56e6ecc2ec67a81db50de03f39ab05"
+        }
+      ],
+      "text": "LİSE A2 DERS KİTABI 6. ÜNİTE A2   DERS  KİTABI        7.ÜNİTE"
+    },
+    {
+      "sequence": 2,
+      "sourceSlide": 2,
+      "slidePath": "ppt/slides/slide2.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image2.png",
+          "sha256": "643815f6b2aa8cd049fd70e5dc3f4eafd318a563de4852da0b28dd42fbb78252"
+        },
+        {
+          "part": "ppt/media/image3.png",
+          "sha256": "2fad4e7614c2a3540e912f34bfdbcc05ece4f36f31a35eca1894d5294276b924"
+        }
+      ],
+      "text": "DK 135"
+    },
+    {
+      "sequence": 3,
+      "sourceSlide": 3,
+      "slidePath": "ppt/slides/slide3.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image4.png",
+          "sha256": "84c8e5d2c7a5adaca9f8c8ebf97bb5d71ed6d0856eaf3d884dea64a098b89acd"
+        }
+      ],
+      "text": "DK 136"
+    },
+    {
+      "sequence": 4,
+      "sourceSlide": 4,
+      "slidePath": "ppt/slides/slide4.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image5.png",
+          "sha256": "83d7f798a668ca4787f5f90816243bb79f0a1c78f71a11e65376516161efd6d0"
+        }
+      ],
+      "text": "DK 136"
+    },
+    {
+      "sequence": 5,
+      "sourceSlide": 5,
+      "slidePath": "ppt/slides/slide5.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 22.878,
+          "end": 66.05799999999996,
+          "trim": {
+            "st": "22878",
+            "end": "206765.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image6.png",
+          "sha256": "9ff1232a1d34dc903ed2cf772e32b440d52de952693ac0cb7dfaddf9d876f225"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 6,
+      "sourceSlide": 6,
+      "slidePath": "ppt/slides/slide6.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 65.0,
+          "end": 104.01399999999998,
+          "trim": {
+            "st": "65000",
+            "end": "168809.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image8.png",
+          "sha256": "7919f48f102e234de32178d0090a8036b40207a938d60736739cd69c21a1a417"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 7,
+      "sourceSlide": 7,
+      "slidePath": "ppt/slides/slide7.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 103.476,
+          "end": 135.68399999999997,
+          "trim": {
+            "st": "103476",
+            "end": "137139.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image9.png",
+          "sha256": "4ca32737b8499c101b99cc888be860c5fb14cdbea3924423996ee9042f4d5633"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 8,
+      "sourceSlide": 8,
+      "slidePath": "ppt/slides/slide8.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 135.144,
+          "end": 178.35599999999997,
+          "trim": {
+            "st": "135144",
+            "end": "94467.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image10.png",
+          "sha256": "9ebe52d4046f1bcfb7b960fc3dfee3668d93d74863b1fd21d4de52b1667394de"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 9,
+      "sourceSlide": 9,
+      "slidePath": "ppt/slides/slide9.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 179.0,
+          "end": 213.66499999999996,
+          "trim": {
+            "st": "179000",
+            "end": "59158.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image11.png",
+          "sha256": "3be57752b569a00396077a9ae3eae074493951ec42a7880d366b39bae428cdf8"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 10,
+      "sourceSlide": 10,
+      "slidePath": "ppt/slides/slide10.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 214.0,
+          "end": 232.99999999999997,
+          "trim": {
+            "st": "214000",
+            "end": "39823.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image12.png",
+          "sha256": "593d381f026cc2b41a9e6a2429b210e58de0d9c0bdf264f0ab1bae1587c57cc6"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 11,
+      "sourceSlide": 11,
+      "slidePath": "ppt/slides/slide11.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "8bbd97280616a3db40fd0b7e7a23a0bb4ca1a0305987bb1231db495349986935",
+          "sourceDuration": 272.82325,
+          "sourceMedia": "ppt/media/media1.wav",
+          "start": 233.262,
+          "end": 272.823,
+          "trim": {
+            "st": "233262",
+            "end": "0.25"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image13.png",
+          "sha256": "3d229a271a21d6bb5642dbd4a7e7699179f303f35a6b915cb3a9522b65518dd3"
+        }
+      ],
+      "text": "DK 137"
+    },
+    {
+      "sequence": 12,
+      "sourceSlide": 12,
+      "slidePath": "ppt/slides/slide12.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image14.png",
+          "sha256": "314253d232bce6f9315a30c8351b8675d5e359d66e51cd2e21fbe063099a0805"
+        }
+      ],
+      "text": "DK 138"
+    },
+    {
+      "sequence": 13,
+      "sourceSlide": 13,
+      "slidePath": "ppt/slides/slide13.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image15.png",
+          "sha256": "3423af9a71ee88c28f01e1880062e4581aa48ce1f519438cc37ddae292d7f353"
+        }
+      ],
+      "text": "DK 138"
+    },
+    {
+      "sequence": 14,
+      "sourceSlide": 14,
+      "slidePath": "ppt/slides/slide14.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image16.png",
+          "sha256": "de9e5c3bad95a4ac0678ed0cb0800986fb5711aad059c038e07945e528e3932b"
+        }
+      ],
+      "text": "DK 138"
+    },
+    {
+      "sequence": 15,
+      "sourceSlide": 15,
+      "slidePath": "ppt/slides/slide15.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image17.png",
+          "sha256": "35882dd01386ae84960b018e2c3aca2b7129c18e0767ea2400b5c7d34117bf31"
+        }
+      ],
+      "text": "DK 138"
+    },
+    {
+      "sequence": 16,
+      "sourceSlide": 16,
+      "slidePath": "ppt/slides/slide16.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image18.png",
+          "sha256": "d79fd51bfba5a160f2215dfabd154345de9ad67b87b56ad9959f63fa974ca144"
+        }
+      ],
+      "text": "DK 139"
+    },
+    {
+      "sequence": 17,
+      "sourceSlide": 17,
+      "slidePath": "ppt/slides/slide17.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image19.png",
+          "sha256": "2cfea4d8e49dc50e2ef015c414036b3743789c1f8d04cb8f0e2882854c019801"
+        }
+      ],
+      "text": "DK 139"
+    },
+    {
+      "sequence": 18,
+      "sourceSlide": 18,
+      "slidePath": "ppt/slides/slide18.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image20.png",
+          "sha256": "a2c7cf00c41a8b2c6bb09396b13e662084f8a4f4ff38af7dcc1b31b5d39217d7"
+        }
+      ],
+      "text": "DBTK 79"
+    },
+    {
+      "sequence": 19,
+      "sourceSlide": 19,
+      "slidePath": "ppt/slides/slide19.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "c5d2ea9b79f3c8de9128b9c8abb5f04c805dbb86507a8850187a2748d86df5ea",
+          "sourceDuration": 71.56675,
+          "sourceMedia": "ppt/media/media2.wav",
+          "start": 0.0,
+          "end": 71.56675,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image21.png",
+          "sha256": "9ef8744cca47e0af37bb7a7d905cae8526c540b47a1a85967c45fc1c23767115"
+        },
+        {
+          "part": "ppt/media/image22.png",
+          "sha256": "008e683484d87c94d9c509d09c574edb529dd2d7eb3da29ae8a32e29651a5234"
+        }
+      ],
+      "text": "DBTK 80"
+    },
+    {
+      "sequence": 20,
+      "sourceSlide": 20,
+      "slidePath": "ppt/slides/slide20.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image23.png",
+          "sha256": "706f580d2eb70f6a02a51b0b42e27a522239cb16215cc9112f061c96b1f647f1"
+        }
+      ],
+      "text": "DBTK 80"
+    },
+    {
+      "sequence": 21,
+      "sourceSlide": 21,
+      "slidePath": "ppt/slides/slide21.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        {
+          "id": [
+            "2"
+          ],
+          "text": "Türkçe Kalıp English + Okunuş Örnek Türkçe Cümle English + Okunuş hem … hem … both … and … (bout … end …) Hem müzik dinliyorum hem şarkı söylüyorum. I am both listening to music and singing. (ay em bout lisınıng tu myuzik end singing) hem … hem de … both … and … (bout … end …) Masada hem bilgisayar hem de kulaklık var. There   are   both  a  computer   and   headphones  on  the   desk . (der ar  bout  ı  kımpyuutır   end   hedfounz  on  dı   desk )"
+        }
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image24.png",
+          "sha256": "1a5f1126a8e729f6b4cf65b5735ce9fed63e6cad90a7f3f362d029e4fc9f4197"
+        }
+      ],
+      "text": "DBTK 81 Türkçe Kalıp English + Okunuş Örnek Türkçe Cümle English + Okunuş hem … hem … both … and … (bout … end …) Hem müzik dinliyorum hem şarkı söylüyorum. I am both listening to music and singing. (ay em bout lisınıng tu myuzik end singing) hem … hem de … both … and … (bout … end …) Masada hem bilgisayar hem de kulaklık var. There   are   both  a  computer   and   headphones  on  the   desk . (der ar  bout  ı  kımpyuutır   end   hedfounz  on  dı   desk )"
+    },
+    {
+      "sequence": 22,
+      "sourceSlide": 22,
+      "slidePath": "ppt/slides/slide22.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [
+        {
+          "id": [
+            "2"
+          ],
+          "text": "Türkçe Kalıp English + Okunuş Örnek Türkçe Cümle English + Okunuş ne … ne de … neither  …  nor  …  ( naydır  …  nor  …) Ne  müzik dinliyorum  ne de  şarkı söylüyorum. I  neither  listen  to   music   nor   sing . (ay  naydır   lisın  tu  myuzik   nor   sing )"
+        }
+      ],
+      "pictures": [
+        {
+          "part": "ppt/media/image25.png",
+          "sha256": "0bed06e9731bda5487d83b5681610f9d803cf4d4e831335ac9d33dadd9848df3"
+        }
+      ],
+      "text": "DBTK 81 Türkçe Kalıp English + Okunuş Örnek Türkçe Cümle English + Okunuş ne … ne de … neither  …  nor  …  ( naydır  …  nor  …) Ne  müzik dinliyorum  ne de  şarkı söylüyorum. I  neither  listen  to   music   nor   sing . (ay  naydır   lisın  tu  myuzik   nor   sing )"
+    },
+    {
+      "sequence": 23,
+      "sourceSlide": 23,
+      "slidePath": "ppt/slides/slide23.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image26.png",
+          "sha256": "a1ccba6b5360747e9b83adc9792b7c5ee5369099505cce2688e38278809adf30"
+        }
+      ],
+      "text": "DBTK 81"
+    },
+    {
+      "sequence": 24,
+      "sourceSlide": 24,
+      "slidePath": "ppt/slides/slide24.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image27.png",
+          "sha256": "3d1078bcdcc560d3e0ad5a6d4a5e3bb60a9f9d940861aa5e5980eed382207f26"
+        }
+      ],
+      "text": "DBTK 82"
+    },
+    {
+      "sequence": 25,
+      "sourceSlide": 25,
+      "slidePath": "ppt/slides/slide25.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image28.png",
+          "sha256": "52d4af92841492d5de5865a465b414ff2db0b52833c56695e126fedd6cd3d8fd"
+        }
+      ],
+      "text": "DBTK 82"
+    },
+    {
+      "sequence": 26,
+      "sourceSlide": 26,
+      "slidePath": "ppt/slides/slide26.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image29.png",
+          "sha256": "979982a7f20ec47c1d9811126bf1c83629b88740c00015f779919decdc578c08"
+        }
+      ],
+      "text": "DBTK 83"
+    },
+    {
+      "sequence": 27,
+      "sourceSlide": 27,
+      "slidePath": "ppt/slides/slide27.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image30.png",
+          "sha256": "0a70848067912c7ef22ebee87f6c1aea2aa45685466c5d80053de499ac08f8e7"
+        }
+      ],
+      "text": "DBTK 83"
+    },
+    {
+      "sequence": 28,
+      "sourceSlide": 28,
+      "slidePath": "ppt/slides/slide28.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image31.png",
+          "sha256": "9c8d7f9ca8d15a164ecc515f400d0d047e491929dabdfc9b98c268362b50e686"
+        }
+      ],
+      "text": "DBTK 83"
+    },
+    {
+      "sequence": 29,
+      "sourceSlide": 29,
+      "slidePath": "ppt/slides/slide29.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "cbf929f43857bb3dd897edb67aee07084e62f27220acedbdfc79e71a70ed7aaf",
+          "sourceDuration": 210.45175,
+          "sourceMedia": "ppt/media/media3.wav",
+          "start": 16.0,
+          "end": 210.45175,
+          "trim": {
+            "st": "16000"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "id": [
+            "7"
+          ],
+          "text": "1. Yeni telefon ve yeni bilgisayar daha ince ve daha hafiftir. Eski bilgisayar ve eski telefon daha ucuzdur.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1902940\" y=\"6080540\"/><a:ext cx=\"9497243\" cy=\"707886\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>1. Yeni telefon ve yeni bilgisayar daha ince ve daha hafiftir. Eski bilgisayar ve eski telefon daha ucuzdur.</a:t></a:r><a:endParaRPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1880164\" y=\"5067472\"/><a:ext cx=\"704992\" cy=\"398639\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1880164\" y=\"4748416\"/><a:ext cx=\"750148\" cy=\"319056\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3921093\" y=\"5451293\"/><a:ext cx=\"975735\" cy=\"452796\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4896828\" y=\"4748416\"/><a:ext cx=\"648357\" cy=\"443689\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3864598\" y=\"4459110\"/><a:ext cx=\"842870\" cy=\"385135\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"15\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 14\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7396563\" y=\"4135679\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"16\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 15\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8444090\" y=\"4135678\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"17\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 16\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"9496539\" y=\"5485924\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"18\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 17\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8444090\" y=\"4465138\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "19"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"19\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 18\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8444090\" y=\"4783721\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"20\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 19\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7396562\" y=\"4748417\"/><a:ext cx=\"857955\" cy=\"408381\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "21"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"21\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 20\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6547357\" y=\"5485923\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "22"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"22\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 21\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7396562\" y=\"4442048\"/><a:ext cx=\"857955\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image32.png",
+          "sha256": "59fe17d767dfd0c15aca21a911d7af5fd12339f2c42db4dd3bbf4c90d568bf2c"
+        },
+        {
+          "part": "ppt/media/image33.jpg",
+          "sha256": "96d08a5c2d3772c9b3675705131e893daa5bd2af1dba20bafbf694022d1d95fd"
+        }
+      ],
+      "text": "1. Yeni telefon ve yeni bilgisayar daha ince ve daha hafiftir. Eski bilgisayar ve eski telefon daha ucuzdur. DK 140"
+    },
+    {
+      "sequence": 30,
+      "sourceSlide": 30,
+      "slidePath": "ppt/slides/slide30.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "cbf929f43857bb3dd897edb67aee07084e62f27220acedbdfc79e71a70ed7aaf",
+          "sourceDuration": 210.45175,
+          "sourceMedia": "ppt/media/media3.wav",
+          "start": 16.0,
+          "end": 210.45175,
+          "trim": {
+            "st": "16000"
+          }
+        }
+      ],
+      "answerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4255911\" y=\"2069900\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4255911\" y=\"3101191\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4255911\" y=\"4295373\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4255911\" y=\"4926769\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4255911\" y=\"5489555\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7603067\" y=\"2069899\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7603067\" y=\"2937247\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7603068\" y=\"3310324\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7603067\" y=\"4247706\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"15\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 14\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7603067\" y=\"4877583\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"16\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 15\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7603067\" y=\"5145672\"/><a:ext cx=\"462846\" cy=\"373077\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image33.jpg",
+          "sha256": "96d08a5c2d3772c9b3675705131e893daa5bd2af1dba20bafbf694022d1d95fd"
+        }
+      ],
+      "text": "DK 140"
+    },
+    {
+      "sequence": 31,
+      "sourceSlide": 31,
+      "slidePath": "ppt/slides/slide31.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image34.png",
+          "sha256": "f2a8f391c86c382eb6679eca72036fef3d97c764017a8991aa195c48704df643"
+        }
+      ],
+      "text": "DK 140"
+    },
+    {
+      "sequence": 32,
+      "sourceSlide": 32,
+      "slidePath": "ppt/slides/slide32.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image35.png",
+          "sha256": "cfb7a92cccdf2d84ce88b60e9aa506b76ae25ea9a6e94cc3a9891362f54cdd08"
+        }
+      ],
+      "text": "DK 141"
+    },
+    {
+      "sequence": 33,
+      "sourceSlide": 33,
+      "slidePath": "ppt/slides/slide33.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image36.png",
+          "sha256": "20493eea5582af8fc613924430002da5c3de086fc13440a06f9431e5697225f5"
+        },
+        {
+          "part": "ppt/media/image37.png",
+          "sha256": "deaac1b251ef22a5b2a3f22015847f592a02dd8a8a78f2512dbc604bdd2ab3af"
+        }
+      ],
+      "text": "DK 141"
+    },
+    {
+      "sequence": 34,
+      "sourceSlide": 34,
+      "slidePath": "ppt/slides/slide34.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "4"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"695021\" y=\"3408239\"/><a:ext cx=\"279013\" cy=\"359068\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4730308\" y=\"3144073\"/><a:ext cx=\"279013\" cy=\"359068\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8884865\" y=\"2853554\"/><a:ext cx=\"279013\" cy=\"359068\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"695020\" y=\"4432023\"/><a:ext cx=\"279013\" cy=\"359068\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4730308\" y=\"4611557\"/><a:ext cx=\"279013\" cy=\"359068\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8884865\" y=\"4676397\"/><a:ext cx=\"279013\" cy=\"359068\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image38.jpg",
+          "sha256": "7fae9cf69a0929f24083e8adcc49986f7ef2cfba69001024ca1fd4f5b8fde902"
+        }
+      ],
+      "text": "buzdolabı DK 142"
+    },
+    {
+      "sequence": 35,
+      "sourceSlide": 35,
+      "slidePath": "ppt/slides/slide35.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image39.png",
+          "sha256": "9619ffeb60adf0905ebb5e1f92281d24afe4d5a80a3544eb62f9929c151f6ba0"
+        }
+      ],
+      "text": "DK 142"
+    },
+    {
+      "sequence": 36,
+      "sourceSlide": 36,
+      "slidePath": "ppt/slides/slide36.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "e22c62df7ce53c6f0c05cbfa2a9b07e3285684ccf72a8135b09ab2a24bcf66b9",
+          "sourceDuration": 56.437375,
+          "sourceMedia": "ppt/media/media4.wav",
+          "start": 0.0,
+          "end": 56.437375,
+          "trim": {}
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image40.png",
+          "sha256": "4eca543d051c2a565080561b418a0f0648bb29a7eb1d66fcfd3d2f30e75d3911"
+        }
+      ],
+      "text": "DBTK 84"
+    },
+    {
+      "sequence": 37,
+      "sourceSlide": 37,
+      "slidePath": "ppt/slides/slide37.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image41.png",
+          "sha256": "2d132b385ca45a91e62cf236c45fd2ecc4bb06c3709fd51b97fe47eabf6c8deb"
+        },
+        {
+          "part": "ppt/media/image42.png",
+          "sha256": "34b840616d170d735b43bc7ec68e1ee102e699822f7c5484803b4422dc3b1821"
+        },
+        {
+          "part": "ppt/media/image43.png",
+          "sha256": "9169af92106a179be8481bd661305c1262b58b349cdbea4bf761759e85540c0c"
+        }
+      ],
+      "text": "DBTK 84"
+    },
+    {
+      "sequence": 38,
+      "sourceSlide": 38,
+      "slidePath": "ppt/slides/slide38.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image44.png",
+          "sha256": "e0863df25b20e95f953ddb59498dded7164ec03312c518b8416bebda2e0af84f"
+        }
+      ],
+      "text": "DBTK 85"
+    },
+    {
+      "sequence": 39,
+      "sourceSlide": 39,
+      "slidePath": "ppt/slides/slide39.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image45.png",
+          "sha256": "012a6e5d66861d3e69d399cde7e54c3ce28b224f160e830db7850014f07c8819"
+        }
+      ],
+      "text": "DBTK 85"
+    },
+    {
+      "sequence": 40,
+      "sourceSlide": 40,
+      "slidePath": "ppt/slides/slide40.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image46.png",
+          "sha256": "75048cdc4afaaa2c021c4123bac7db09eb369158a1e0f357f3185a6b6e214c6e"
+        }
+      ],
+      "text": "DBTK 85"
+    },
+    {
+      "sequence": 41,
+      "sourceSlide": 41,
+      "slidePath": "ppt/slides/slide41.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image47.png",
+          "sha256": "944e1b6033a8bb9d98a96b71755bb88a98963f50ee4227312939c64fc6d406b4"
+        }
+      ],
+      "text": "DBTK 85"
+    },
+    {
+      "sequence": 42,
+      "sourceSlide": 42,
+      "slidePath": "ppt/slides/slide42.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image48.png",
+          "sha256": "3e1de216f26e1baf081101d874390092b2bb41187fb78b42247ecc3058cee0e0"
+        }
+      ],
+      "text": "DK 142"
+    },
+    {
+      "sequence": 43,
+      "sourceSlide": 43,
+      "slidePath": "ppt/slides/slide43.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image49.png",
+          "sha256": "633254f6bced7e80bf4fce7d1fa55564ba06765cc8feab5502586110ca4dc449"
+        }
+      ],
+      "text": "DBTK 85"
+    },
+    {
+      "sequence": 44,
+      "sourceSlide": 44,
+      "slidePath": "ppt/slides/slide44.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image50.png",
+          "sha256": "ed2eff5d453f46daa5d9725058823dc39050eeb93e928ee30b4cb7632a5d2cc9"
+        }
+      ],
+      "text": "DK 143"
+    },
+    {
+      "sequence": 45,
+      "sourceSlide": 45,
+      "slidePath": "ppt/slides/slide45.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image51.png",
+          "sha256": "ccd508a4bc77c1dccf79b00e508efc638d7d2806743c4843f68f517b40a6d0d6"
+        }
+      ],
+      "text": "DK 143"
+    },
+    {
+      "sequence": 46,
+      "sourceSlide": 46,
+      "slidePath": "ppt/slides/slide46.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image52.png",
+          "sha256": "53b2efea160089eca0c9f9212867377f54017460c1579e52793a7c226703560a"
+        }
+      ],
+      "text": "DK 143"
+    },
+    {
+      "sequence": 47,
+      "sourceSlide": 47,
+      "slidePath": "ppt/slides/slide47.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Merhaba,  hoşgeldiniz . Size nasıl yardımcı olabilirim?",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2193234\" y=\"1962789\"/><a:ext cx=\"4823792\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Merhaba, </a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\" err=\"1\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ho&#351;geldiniz</a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>. Size nas&#305;l yard&#305;mc&#305; olabilirim?</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Merhaba.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392016\" y=\"1654052\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Merhaba.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "SP Sor-17 tam olarak aradığınız ürün. ",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Metin kutusu 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2193234\" y=\"2550446\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>SP Sor-17 tam olarak arad&#305;&#287;&#305;n&#305;z &#252;r&#252;n. </a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Bu ürünün özellikleri nedir?",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392015\" y=\"2859183\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Bu &#252;r&#252;n&#252;n &#246;zellikleri nedir?</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "Bu ürünün fiyatı ne kadar?",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392014\" y=\"3464055\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Bu &#252;r&#252;n&#252;n fiyat&#305; ne kadar?</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "4250 liradır.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"15\" name=\"Metin kutusu 14\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2193234\" y=\"3762852\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>4250 lirad&#305;r.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "16"
+          ],
+          "text": "Diğer bilgisayarlara bakabilir miyiz?",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"16\" name=\"Metin kutusu 15\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392014\" y=\"4065601\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Di&#287;er bilgisayarlara bakabilir miyiz?</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "17"
+          ],
+          "text": "Elbette. Size  Tekbil  25’i de önerebilirim.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"17\" name=\"Metin kutusu 16\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2193234\" y=\"4368350\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Elbette. Size </a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\" err=\"1\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Tekbil</a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t> 25&#8217;i de &#246;nerebilirim.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "18"
+          ],
+          "text": "Bu bilgisayarın özellikleri nelerdir?",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"18\" name=\"Metin kutusu 17\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392013\" y=\"4667147\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Bu bilgisayar&#305;n &#246;zellikleri nelerdir?</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "20"
+          ],
+          "text": "500 GB depolama alanı ve 8 saat 15 dakika kullanım süresi vardır.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"20\" name=\"Metin kutusu 19\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2193234\" y=\"4956005\"/><a:ext cx=\"5917096\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>500 GB depolama alan&#305; ve 8 saat 15 dakika kullan&#305;m s&#252;resi vard&#305;r.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "21"
+          ],
+          "text": "Ben bu ürünü tercih ediyorum.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"21\" name=\"Metin kutusu 20\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392012\" y=\"5264742\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Ben bu &#252;r&#252;n&#252; tercih ediyorum.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "22"
+          ],
+          "text": "İyi bir tercih yaptınız.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"22\" name=\"Metin kutusu 21\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2193233\" y=\"5562209\"/><a:ext cx=\"4426227\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#304;yi bir tercih yapt&#305;n&#305;z.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "250 GB depolama alanı ve 6 saat 15 dakika kullanım süresi vardır.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Metin kutusu 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2123660\" y=\"3155318\"/><a:ext cx=\"5787886\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>250 GB depolama alan&#305; ve 6 saat 15 dakika kullan&#305;m s&#252;resi vard&#305;r.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Uygun fiyatlı ve güçlü bataryaya sahip bilgisayar almak istiyorum.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2392016\" y=\"2271526\"/><a:ext cx=\"6105940\" cy=\"338554\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Uygun fiyatl&#305; ve g&#252;&#231;l&#252; bataryaya sahip bilgisayar almak istiyorum.</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image53.jpg",
+          "sha256": "27c022d2a0ad156d965cd3f88c07712439fd6812ab7caa586c4cdaf17d244efa"
+        },
+        {
+          "part": "ppt/media/image54.png",
+          "sha256": "f5204072f455feeef6996b2712809988de9faf7e8659d40e3ce24e4f783e61ef"
+        }
+      ],
+      "text": "Merhaba,  hoşgeldiniz . Size nasıl yardımcı olabilirim? Merhaba. SP Sor-17 tam olarak aradığınız ürün.  Bu ürünün özellikleri nedir? Bu ürünün fiyatı ne kadar? 4250 liradır. Diğer bilgisayarlara bakabilir miyiz? Elbette. Size  Tekbil  25’i de önerebilirim. Bu bilgisayarın özellikleri nelerdir? 500 GB depolama alanı ve 8 saat 15 dakika kullanım süresi vardır. Ben bu ürünü tercih ediyorum. İyi bir tercih yaptınız. 250 GB depolama alanı ve 6 saat 15 dakika kullanım süresi vardır. Uygun fiyatlı ve güçlü bataryaya sahip bilgisayar almak istiyorum. DK 143"
+    },
+    {
+      "sequence": 48,
+      "sourceSlide": 48,
+      "slidePath": "ppt/slides/slide48.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Fırın, ütü, bulaşık makinesi süpürge makinesi, mutfak  robotu, çamaşır makinesi,  mikser, tost makinesi, kahve makinesi, buzdolabı, çay makinesi ",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1696279\" y=\"4407815\"/><a:ext cx=\"2488096\" cy=\"1569660\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>F&#305;r&#305;n, &#252;t&#252;, bula&#351;&#305;k makinesi</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>s&#252;p&#252;rge makinesi, mutfak </a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>robotu, &#231;ama&#351;&#305;r makinesi, </a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>mikser, tost makinesi,</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>kahve makinesi, buzdolab&#305;,</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#231;ay makinesi </a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Akıllı telefon, yazıcı, akıllı saat, televizyon, tablet",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5107493\" y=\"4437632\"/><a:ext cx=\"2426367\" cy=\"584775\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Ak&#305;ll&#305; telefon, yaz&#305;c&#305;, ak&#305;ll&#305; saat, televizyon, tablet</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Akıllı telefon, akıllı saat, bilgisayar, tablet, televizyon, fotoğraf makinesi, konsol oyunları",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8681160\" y=\"4530397\"/><a:ext cx=\"2426367\" cy=\"1077218\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Ak&#305;ll&#305; telefon, ak&#305;ll&#305; saat,</a:t></a:r></a:p><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"1600\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>bilgisayar, tablet, televizyon, foto&#287;raf makinesi, konsol oyunlar&#305;</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image53.jpg",
+          "sha256": "27c022d2a0ad156d965cd3f88c07712439fd6812ab7caa586c4cdaf17d244efa"
+        },
+        {
+          "part": "ppt/media/image53.jpg",
+          "sha256": "27c022d2a0ad156d965cd3f88c07712439fd6812ab7caa586c4cdaf17d244efa"
+        }
+      ],
+      "text": "Fırın, ütü, bulaşık makinesi süpürge makinesi, mutfak  robotu, çamaşır makinesi,  mikser, tost makinesi, kahve makinesi, buzdolabı, çay makinesi  Akıllı telefon, yazıcı, akıllı saat, televizyon, tablet Akıllı telefon, akıllı saat, bilgisayar, tablet, televizyon, fotoğraf makinesi, konsol oyunları DK 144"
+    },
+    {
+      "sequence": 49,
+      "sourceSlide": 49,
+      "slidePath": "ppt/slides/slide49.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image55.png",
+          "sha256": "bb95e2950a83c8c24514f61b7f2c06c8beba9983ae3593c659c8668962a68c69"
+        }
+      ],
+      "text": "DK 144"
+    },
+    {
+      "sequence": 50,
+      "sourceSlide": 50,
+      "slidePath": "ppt/slides/slide50.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image56.png",
+          "sha256": "b233ac175f1e7f0df7427a5631b03b18c24f321267b2d53647327bd68a32ca5e"
+        }
+      ],
+      "text": "DK 145"
+    },
+    {
+      "sequence": 51,
+      "sourceSlide": 51,
+      "slidePath": "ppt/slides/slide51.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image57.png",
+          "sha256": "1309d2439dc439b6a86b8722c70171aec14101267da27671e6c5f4b538c8203a"
+        }
+      ],
+      "text": "DK 145"
+    },
+    {
+      "sequence": 52,
+      "sourceSlide": 52,
+      "slidePath": "ppt/slides/slide52.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image58.png",
+          "sha256": "5fb68862aaa58e0304b69b21544b0a2f8ce3d25446ef1f48550b0b5ca02cc105"
+        }
+      ],
+      "text": "DK 146"
+    },
+    {
+      "sequence": 53,
+      "sourceSlide": 53,
+      "slidePath": "ppt/slides/slide53.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image59.png",
+          "sha256": "717f14d25dc1e93e6d564de7dc42a548ce2168f5c679e43e6a22d51e685e6766"
+        }
+      ],
+      "text": "DK 146"
+    },
+    {
+      "sequence": 54,
+      "sourceSlide": 54,
+      "slidePath": "ppt/slides/slide54.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "a9b47515ee70a450f517ee566da6722879313ab21492a70e9e8d132f57611450",
+          "sourceDuration": 88.906125,
+          "sourceMedia": "ppt/media/media5.wav",
+          "start": 16.419,
+          "end": 88.906125,
+          "trim": {
+            "st": "16419"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image60.png",
+          "sha256": "4f02ff4c82944db745bb9ac24cc72ae2d875db8cb44dce3f43642204173865aa"
+        }
+      ],
+      "text": "DK 146"
+    },
+    {
+      "sequence": 55,
+      "sourceSlide": 55,
+      "slidePath": "ppt/slides/slide55.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image61.png",
+          "sha256": "4f9c5e482db1b68fedf99d42184758c02d714b3128b1713d7e05c360b936a598"
+        }
+      ],
+      "text": "DK 147"
+    },
+    {
+      "sequence": 56,
+      "sourceSlide": 56,
+      "slidePath": "ppt/slides/slide56.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image62.png",
+          "sha256": "084fe808c9b415e853ec0dc971e66c4667bf0880db63d2c005696a9eb6507c04"
+        }
+      ],
+      "text": "DK 147"
+    },
+    {
+      "sequence": 57,
+      "sourceSlide": 57,
+      "slidePath": "ppt/slides/slide57.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image63.png",
+          "sha256": "9a094620dc1c3a957655f992a49244dfe00f022745af0167e39236bef6c32584"
+        }
+      ],
+      "text": "DK 147"
+    },
+    {
+      "sequence": 58,
+      "sourceSlide": 58,
+      "slidePath": "ppt/slides/slide58.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image64.png",
+          "sha256": "f50df04959cfcaf7489a10b43a9637749dda11df01bcbfb18b938cb99de03112"
+        },
+        {
+          "part": "ppt/media/image65.png",
+          "sha256": "c598c8cb6dc4c8998494dd07596fab63777e26f0edac59aced4caba57651cfd5"
+        }
+      ],
+      "text": "DK 147-8"
+    },
+    {
+      "sequence": 59,
+      "sourceSlide": 59,
+      "slidePath": "ppt/slides/slide59.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image66.png",
+          "sha256": "6c75b7d80393d5e78a278ccc0f1eaf54a5ac239dfe6f306d5fa6d33b7e9d776e"
+        }
+      ],
+      "text": "DK 148"
+    },
+    {
+      "sequence": 60,
+      "sourceSlide": 60,
+      "slidePath": "ppt/slides/slide60.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image67.png",
+          "sha256": "7daf355a37e9f37a3721e82692bb97ec12852d546deaecbaeffe188ad5110e38"
+        }
+      ],
+      "text": "DK 148"
+    },
+    {
+      "sequence": 61,
+      "sourceSlide": 61,
+      "slidePath": "ppt/slides/slide61.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image68.png",
+          "sha256": "651867317536ab9cfd743e51f775131ff1b9df27bcabb8fea832a58ba63aa7c6"
+        }
+      ],
+      "text": "DBTK 87"
+    },
+    {
+      "sequence": 62,
+      "sourceSlide": 62,
+      "slidePath": "ppt/slides/slide62.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "472f75bc09f1efc65d4bbd4272220b15f72cc19dc6c6e1279ffc2405c6ab2528",
+          "sourceDuration": 90.352708,
+          "sourceMedia": "ppt/media/media6.wav",
+          "start": 17.03,
+          "end": 44.99999970000001,
+          "trim": {
+            "st": "17030",
+            "end": "45352.7083"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image69.png",
+          "sha256": "b9f64da9c9a030e6e37f1d19cd8ec23c34156c3e151119a4f4b641c3a0c4ef96"
+        }
+      ],
+      "text": "DBTK 87"
+    },
+    {
+      "sequence": 63,
+      "sourceSlide": 63,
+      "slidePath": "ppt/slides/slide63.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "472f75bc09f1efc65d4bbd4272220b15f72cc19dc6c6e1279ffc2405c6ab2528",
+          "sourceDuration": 90.352708,
+          "sourceMedia": "ppt/media/media6.wav",
+          "start": 45.423,
+          "end": 64.6879997,
+          "trim": {
+            "st": "45423",
+            "end": "25664.7083"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image70.png",
+          "sha256": "e35f313ff86c380b0575489d2c11cbcc68efe12ab22cb8e394e194d9fd45ec6d"
+        }
+      ],
+      "text": "DBTK 87"
+    },
+    {
+      "sequence": 64,
+      "sourceSlide": 64,
+      "slidePath": "ppt/slides/slide64.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "472f75bc09f1efc65d4bbd4272220b15f72cc19dc6c6e1279ffc2405c6ab2528",
+          "sourceDuration": 90.352708,
+          "sourceMedia": "ppt/media/media6.wav",
+          "start": 64.176,
+          "end": 90.352708,
+          "trim": {
+            "st": "64176"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image71.png",
+          "sha256": "d4ee32ce5e8b980bb0ccc620dc249becba3bebc1efa8834b5289dc96f3611afc"
+        }
+      ],
+      "text": "DBTK 87"
+    },
+    {
+      "sequence": 65,
+      "sourceSlide": 65,
+      "slidePath": "ppt/slides/slide65.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image72.png",
+          "sha256": "3d1dc02a7c16f6c5800e13efd3e08f4fd0d381919a93a9a19621eaaf07685e48"
+        }
+      ],
+      "text": "DBTK 88"
+    },
+    {
+      "sequence": 66,
+      "sourceSlide": 66,
+      "slidePath": "ppt/slides/slide66.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image73.png",
+          "sha256": "862a23596ab6cb463bb70566409a09286a64ad0ad5223543f87d471030bc13bd"
+        }
+      ],
+      "text": "DBTK 88"
+    },
+    {
+      "sequence": 67,
+      "sourceSlide": 67,
+      "slidePath": "ppt/slides/slide67.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image74.png",
+          "sha256": "725efc2b6c3ec131ee1793236bb4521621f2710db94a7412730135f77e016e0b"
+        }
+      ],
+      "text": "DBTK 89"
+    },
+    {
+      "sequence": 68,
+      "sourceSlide": 68,
+      "slidePath": "ppt/slides/slide68.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image75.png",
+          "sha256": "140d52fd591c714c22da4d986ec5705dbd94ec8d916ef21dd2eeca372f5d2c09"
+        }
+      ],
+      "text": "DBTK 89"
+    },
+    {
+      "sequence": 69,
+      "sourceSlide": 69,
+      "slidePath": "ppt/slides/slide69.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "572056d2773c16ba235b6a6d945101e597c3d39478a9e14985e2f90937bdb22a",
+          "sourceDuration": 47.824521,
+          "sourceMedia": "ppt/media/media7.wav",
+          "start": 16.116,
+          "end": 47.824521,
+          "trim": {
+            "st": "16116"
+          }
+        },
+        {
+          "sha256": "98d12ddf306f5352a453847ca6d12199cdce723a6e68ee60f6e3fb9a0459937a",
+          "sourceDuration": 39.296938,
+          "sourceMedia": "ppt/media/media8.wav",
+          "start": 15.579,
+          "end": 39.296938,
+          "trim": {
+            "st": "15579"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image76.png",
+          "sha256": "50035af07bb36f3572a9601a75fcc8f0446f6437a89819cc6e6b19526347ac21"
+        }
+      ],
+      "text": "DBTK 89"
+    },
+    {
+      "sequence": 70,
+      "sourceSlide": 70,
+      "slidePath": "ppt/slides/slide70.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "4ce728e778be9be72e0f8adc3f285bc62f9bbc67ab3e683ad707eff5b059460e",
+          "sourceDuration": 82.323271,
+          "sourceMedia": "ppt/media/media9.wav",
+          "start": 20.866,
+          "end": 48.157000200000006,
+          "trim": {
+            "st": "20866",
+            "end": "34166.2708"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image77.png",
+          "sha256": "1e9f300e501da7dca88eefca05e3f8c0421c564e74f544bc520078227b6d964c"
+        }
+      ],
+      "text": "DBTK 90"
+    },
+    {
+      "sequence": 71,
+      "sourceSlide": 71,
+      "slidePath": "ppt/slides/slide71.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "4ce728e778be9be72e0f8adc3f285bc62f9bbc67ab3e683ad707eff5b059460e",
+          "sourceDuration": 82.323271,
+          "sourceMedia": "ppt/media/media9.wav",
+          "start": 48.945,
+          "end": 82.323271,
+          "trim": {
+            "st": "48945"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image78.png",
+          "sha256": "3ea09b3e842fdc5c63b2f8c206bec706f4f2c5ee2af5abfad8c2d41f798d1b8c"
+        }
+      ],
+      "text": "DBTK 90"
+    },
+    {
+      "sequence": 72,
+      "sourceSlide": 72,
+      "slidePath": "ppt/slides/slide72.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image79.png",
+          "sha256": "2438144a53547469ff24037a3a5e8a2e7c9ee1d2c1162d3f935ac8951d3eed63"
+        }
+      ],
+      "text": "DBTK 90"
+    },
+    {
+      "sequence": 73,
+      "sourceSlide": 73,
+      "slidePath": "ppt/slides/slide73.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image80.png",
+          "sha256": "c956d19501aac852d018721870f68d7b65e53442bad3f0286bb90d04eac1848d"
+        }
+      ],
+      "text": "DK 149"
+    },
+    {
+      "sequence": 74,
+      "sourceSlide": 74,
+      "slidePath": "ppt/slides/slide74.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [
+        {
+          "sha256": "89599dfc29d37c81ace71033243a35e06e9aeb601015e85a602987e5965fe80a",
+          "sourceDuration": 153.403208,
+          "sourceMedia": "ppt/media/media10.wav",
+          "start": 15.48,
+          "end": 153.403208,
+          "trim": {
+            "st": "15480"
+          }
+        }
+      ],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image81.png",
+          "sha256": "ee1fdb4a6f82ad0b6541a9fc7b1a31e4a0645c84331f09bd834a13f06155c9ba"
+        }
+      ],
+      "text": "DK 149"
+    },
+    {
+      "sequence": 75,
+      "sourceSlide": 75,
+      "slidePath": "ppt/slides/slide75.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image82.png",
+          "sha256": "0cf8264046721327990e21cd6686876325575988b668110c15fc9ab6c42ec6e0"
+        }
+      ],
+      "text": "DK 149"
+    },
+    {
+      "sequence": 76,
+      "sourceSlide": 76,
+      "slidePath": "ppt/slides/slide76.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image83.png",
+          "sha256": "b1f257278f7f943a36917c51dd750f55ec4392e55396f891b4edc085189ee33b"
+        }
+      ],
+      "text": "DK 150"
+    },
+    {
+      "sequence": 77,
+      "sourceSlide": 77,
+      "slidePath": "ppt/slides/slide77.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image84.png",
+          "sha256": "f9f68f359b9f3fde977c6fc3f23f06dd5513f7407108ac3525fe9120d2c142f3"
+        }
+      ],
+      "text": "DK 150"
+    },
+    {
+      "sequence": 78,
+      "sourceSlide": 78,
+      "slidePath": "ppt/slides/slide78.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image85.png",
+          "sha256": "94fd2a335f06058e6afa5e5448d2f1e99fb226c044a48670acb17ae4cbdd9303"
+        }
+      ],
+      "text": "DK 150"
+    },
+    {
+      "sequence": 79,
+      "sourceSlide": 79,
+      "slidePath": "ppt/slides/slide79.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image86.png",
+          "sha256": "79a5423d8cac0b5fc742c3e3e7fd2ba2bd3cc24f399b2779ff1f710ceca64a34"
+        }
+      ],
+      "text": "DK 150"
+    },
+    {
+      "sequence": 80,
+      "sourceSlide": 80,
+      "slidePath": "ppt/slides/slide80.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image87.png",
+          "sha256": "ebcb8b9b635cc907ad28df52eae69fbceb3baf8c8351fcf6ff5777dd6ec6e5ae"
+        }
+      ],
+      "text": "DK 151"
+    },
+    {
+      "sequence": 81,
+      "sourceSlide": 81,
+      "slidePath": "ppt/slides/slide81.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image88.png",
+          "sha256": "fcd6f979a608a1e83a9a494c34b1a83dcd8acdda3eee7c29ce8319c563c179ed"
+        }
+      ],
+      "text": "DK 151"
+    },
+    {
+      "sequence": 82,
+      "sourceSlide": 82,
+      "slidePath": "ppt/slides/slide82.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image89.png",
+          "sha256": "ec1b4f1212aa4bb44938eb91ed8da99af8b7c06d5fcc9ddfbde3929f0973861f"
+        }
+      ],
+      "text": "DK 151"
+    },
+    {
+      "sequence": 83,
+      "sourceSlide": 83,
+      "slidePath": "ppt/slides/slide83.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image90.png",
+          "sha256": "50455a7e2ff9dd00e02bba5f62184e0b8469e4d93a919a3d033e28cea71589ba"
+        }
+      ],
+      "text": "DK 151"
+    },
+    {
+      "sequence": 84,
+      "sourceSlide": 84,
+      "slidePath": "ppt/slides/slide84.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image91.png",
+          "sha256": "7f311281a4e0852c55369e9ca179edc39df570b37f86c0dea9a34e4121f05f71"
+        }
+      ],
+      "text": "DK 152"
+    },
+    {
+      "sequence": 85,
+      "sourceSlide": 85,
+      "slidePath": "ppt/slides/slide85.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image92.png",
+          "sha256": "ec7428824dfcbd2cc253494f6a0501ec1e9e544151f33507aa462b82a665cf04"
+        }
+      ],
+      "text": "DK 152"
+    },
+    {
+      "sequence": 86,
+      "sourceSlide": 86,
+      "slidePath": "ppt/slides/slide86.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image93.png",
+          "sha256": "07bcc384ce2af9a004aba29562d421e80b678c458c7348318ae974e4c67effe9"
+        }
+      ],
+      "text": "DK 152"
+    },
+    {
+      "sequence": 87,
+      "sourceSlide": 87,
+      "slidePath": "ppt/slides/slide87.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image94.png",
+          "sha256": "8723010722552789e0a63ee00e3cb38aaeeb97a7e26d0a495df0122b734aa12a"
+        }
+      ],
+      "text": "DK 153"
+    },
+    {
+      "sequence": 88,
+      "sourceSlide": 88,
+      "slidePath": "ppt/slides/slide88.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "4"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{6621B07A-7980-4806-A437-B00587AB2602}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5617306\" y=\"3030792\"/><a:ext cx=\"421556\" cy=\"427704\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{8E00B68A-0519-4FE0-A3C7-1F590F4B863D}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2848340\" y=\"3650653\"/><a:ext cx=\"421556\" cy=\"427704\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{569CA38C-8643-4904-8150-35A147637FA1}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8178602\" y=\"4266879\"/><a:ext cx=\"421556\" cy=\"427704\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{9522D937-809E-4C6A-B508-9B1C56E7DF5F}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5617306\" y=\"4843350\"/><a:ext cx=\"421556\" cy=\"427704\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{6DC0CC10-DF58-4916-A275-C34A2350F3DF}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2848340\" y=\"5466522\"/><a:ext cx=\"421556\" cy=\"406010\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Kitap",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{C83D2283-AB98-4956-93AE-0A34B8D66937}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3129475\" y=\"6052689\"/><a:ext cx=\"1780455\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Kitap</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "DVD",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Metin kutusu 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{549CA28D-40BE-42C5-A130-AC5B1E1527B7}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6038862\" y=\"6052689\"/><a:ext cx=\"1780455\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>DVD</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Uçak  Rezarvasyonu",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Metin kutusu 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5D0FC13D-33E6-44A5-B5BA-D4A44843BB9C}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8600158\" y=\"6052689\"/><a:ext cx=\"2352764\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>U&#231;ak </a:t></a:r><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\" err=\"1\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Rezarvasyonu</a:t></a:r><a:endParaRPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:endParaRPr></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "Videoyu izlemek için tıklayınız.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:hlinkClick r:id=\"rId3\" action=\"ppaction://hlinksldjump\"/><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{41C712CD-2408-4818-B0BC-8FE1C8240E53}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6038862\" y=\"2410103\"/><a:ext cx=\"4436981\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Videoyu izlemek i&#231;in t&#305;klay&#305;n&#305;z.</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image95.jpg",
+          "sha256": "32e360b75607abd4fc0854c747de917230c85073ccaa886f68abb256c85e0edb"
+        }
+      ],
+      "text": "Kitap DVD Uçak  Rezarvasyonu Videoyu izlemek için tıklayınız. DK 153"
+    },
+    {
+      "sequence": 89,
+      "sourceSlide": 89,
+      "slidePath": "ppt/slides/slide89.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Adres ve konum belirtilen siteler tercih edilmeli.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2470333\" y=\"874402\"/><a:ext cx=\"7246978\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Adres ve konum belirtilen siteler tercih edilmeli.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Satış sözleşmesi olan sitelerden alışveriş yapılmalı.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2470333\" y=\"1299187\"/><a:ext cx=\"7246978\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Sat&#305;&#351; s&#246;zle&#351;mesi olan sitelerden al&#305;&#351;veri&#351; yap&#305;lmal&#305;.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Alışveriş yapılan sitenin diğer platformlardaki yorumlarına bakılmalı.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2470332\" y=\"1699297\"/><a:ext cx=\"8820519\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Al&#305;&#351;veri&#351; yap&#305;lan sitenin di&#287;er platformlardaki yorumlar&#305;na bak&#305;lmal&#305;.</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Ödeme 3D korumasıyla yapılmalı.",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2470332\" y=\"2124082\"/><a:ext cx=\"7246978\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#214;deme 3D korumas&#305;yla yap&#305;lmal&#305;.</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image95.jpg",
+          "sha256": "32e360b75607abd4fc0854c747de917230c85073ccaa886f68abb256c85e0edb"
+        },
+        {
+          "part": "ppt/media/image95.jpg",
+          "sha256": "32e360b75607abd4fc0854c747de917230c85073ccaa886f68abb256c85e0edb"
+        }
+      ],
+      "text": "Adres ve konum belirtilen siteler tercih edilmeli. Satış sözleşmesi olan sitelerden alışveriş yapılmalı. Alışveriş yapılan sitenin diğer platformlardaki yorumlarına bakılmalı. Ödeme 3D korumasıyla yapılmalı. DK 153"
+    },
+    {
+      "sequence": 90,
+      "sourceSlide": 90,
+      "slidePath": "ppt/slides/slide90.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image96.png",
+          "sha256": "259f51e61854c01bbd707d595466c358c4e0cb698981e3f3d87c1805cfdba900"
+        }
+      ],
+      "text": "DK 154"
+    },
+    {
+      "sequence": 91,
+      "sourceSlide": 91,
+      "slidePath": "ppt/slides/slide91.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image97.png",
+          "sha256": "19b3d63abf8217373f8978b7bba64f2dca31325bb44770d87a134603cf6c1682"
+        },
+        {
+          "part": "ppt/media/image98.png",
+          "sha256": "643fd2929e94c7a98ef6dc16e6fec23f3a6c30d05904c2103a878ea6aebc625e"
+        }
+      ],
+      "text": "DK 154"
+    },
+    {
+      "sequence": 92,
+      "sourceSlide": 92,
+      "slidePath": "ppt/slides/slide92.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image99.png",
+          "sha256": "6beb65d61b490622d577d6ad3ffe12acdc49c38258b5229a3344d7bdc5b1b941"
+        }
+      ],
+      "text": "DK 154"
+    },
+    {
+      "sequence": 93,
+      "sourceSlide": 93,
+      "slidePath": "ppt/slides/slide93.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "6"
+          ],
+          "text": "fırın",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7780986\" y=\"2745861\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>f&#305;r&#305;n</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "buzdolabı",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7482812\" y=\"3035421\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>buzdolab&#305;</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "çamaşır makinesi",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7092087\" y=\"3355620\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#231;ama&#351;&#305;r makinesi</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "kulaklık",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7482812\" y=\"3685758\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>kulakl&#305;k</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "bilgisayar",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Metin kutusu 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7482811\" y=\"3995196\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>bilgisayar</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "elektrikli süpürge",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Metin kutusu 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7057325\" y=\"4277954\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>elektrikli s&#252;p&#252;rge</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "saç kurutma makinesi",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6906342\" y=\"4587392\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>sa&#231; kurutma makinesi</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "televizyon",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Metin kutusu 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7297067\" y=\"4887713\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>televizyon</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "akıllı saat",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7383420\" y=\"5180889\"/><a:ext cx=\"3161997\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ak&#305;ll&#305; saat</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image100.jpg",
+          "sha256": "a8f7c31c61b7685bf40acc680c141909e261114fde3c0949e6c18a36ad152521"
+        },
+        {
+          "part": "ppt/media/image100.jpg",
+          "sha256": "a8f7c31c61b7685bf40acc680c141909e261114fde3c0949e6c18a36ad152521"
+        }
+      ],
+      "text": "58 fırın buzdolabı çamaşır makinesi kulaklık bilgisayar elektrikli süpürge saç kurutma makinesi televizyon akıllı saat"
+    },
+    {
+      "sequence": 94,
+      "sourceSlide": 94,
+      "slidePath": "ppt/slides/slide94.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "4"
+          ],
+          "text": "b",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"Metin kutusu 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7472873\" y=\"3849104\"/><a:ext cx=\"438675\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>b</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "text": "c",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7472873\" y=\"4515954\"/><a:ext cx=\"438675\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>c</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "ç",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7472873\" y=\"2423360\"/><a:ext cx=\"438675\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#231;</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "d",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7472873\" y=\"4209377\"/><a:ext cx=\"438675\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>d</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "e",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7472873\" y=\"2776704\"/><a:ext cx=\"438675\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>e</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "f",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7472872\" y=\"3502690\"/><a:ext cx=\"438675\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>f</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image100.jpg",
+          "sha256": "a8f7c31c61b7685bf40acc680c141909e261114fde3c0949e6c18a36ad152521"
+        }
+      ],
+      "text": "58 b c ç d e f"
+    },
+    {
+      "sequence": 95,
+      "sourceSlide": 95,
+      "slidePath": "ppt/slides/slide95.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "4"
+          ],
+          "text": "hem",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"Metin kutusu 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4351986\" y=\"2755800\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>hem</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "text": "hem de",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6985855\" y=\"2755800\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>hem de</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "ya",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5266386\" y=\"3116153\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ya</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "ya",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"7919040\" y=\"3136032\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ya</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Hem",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1231100\" y=\"3487307\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Hem</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "hem",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"3940059\" y=\"3516941\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>hem</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "ne",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Metin kutusu 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5024777\" y=\"3877972\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ne</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "ne de",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Metin kutusu 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6518717\" y=\"3877972\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ne de</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "ya",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4607516\" y=\"4228386\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ya</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "ya",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Metin kutusu 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6754809\" y=\"4228386\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ya</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "ne",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"4025400\" y=\"4600034\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ne</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "15"
+          ],
+          "text": "ne de",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"15\" name=\"Metin kutusu 14\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5590578\" y=\"4600034\"/><a:ext cx=\"1164231\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>ne de</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image100.jpg",
+          "sha256": "a8f7c31c61b7685bf40acc680c141909e261114fde3c0949e6c18a36ad152521"
+        }
+      ],
+      "text": "58 hem hem de ya ya Hem hem ne ne de ya ya ne ne de"
+    },
+    {
+      "sequence": 96,
+      "sourceSlide": 96,
+      "slidePath": "ppt/slides/slide96.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "4"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"4\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 3\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5893185\" y=\"2836549\"/><a:ext cx=\"736215\" cy=\"483121\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "5"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6079753\" y=\"3264049\"/><a:ext cx=\"1035945\" cy=\"477078\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6589283\" y=\"3685506\"/><a:ext cx=\"985112\" cy=\"558503\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"8744507\" y=\"4092894\"/><a:ext cx=\"875362\" cy=\"592451\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Ak&#305;&#351; &#199;izelgesi: Ba&#287;lay&#305;c&#305; 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{211E97F5-9615-4CCE-A018-90797E54AF30}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5510379\" y=\"4556018\"/><a:ext cx=\"875362\" cy=\"592451\"/></a:xfrm><a:prstGeom prst=\"flowChartConnector\"><a:avLst/></a:prstGeom><a:noFill/><a:ln w=\"57150\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:ln></p:spPr><p:style><a:lnRef idx=\"2\"><a:schemeClr val=\"accent1\"><a:shade val=\"15000\"/></a:schemeClr></a:lnRef><a:fillRef idx=\"1\"><a:schemeClr val=\"accent1\"/></a:fillRef><a:effectRef idx=\"0\"><a:schemeClr val=\"accent1\"/></a:effectRef><a:fontRef idx=\"minor\"><a:schemeClr val=\"lt1\"/></a:fontRef></p:style><p:txBody><a:bodyPr rtlCol=\"0\" anchor=\"ctr\"/><a:lstStyle/><a:p><a:pPr algn=\"ctr\"/><a:endParaRPr lang=\"tr-TR\" dirty=\"0\"/></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image101.jpg",
+          "sha256": "d29c55f6bb661bbf00cf803a067b62df0a21954a9f38fc0b21b7067f6aac371b"
+        }
+      ],
+      "text": "59"
+    },
+    {
+      "sequence": 97,
+      "sourceSlide": 97,
+      "slidePath": "ppt/slides/slide97.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [
+        {
+          "id": [
+            "5"
+          ],
+          "text": "Fırını ",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"5\" name=\"Metin kutusu 4\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1916899\" y=\"1811583\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>F&#305;r&#305;n&#305; </a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "6"
+          ],
+          "text": "Ütüyü",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"6\" name=\"Metin kutusu 5\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1865850\" y=\"2155974\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#220;t&#252;y&#252;</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "7"
+          ],
+          "text": "Kulaklıkla ",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"7\" name=\"Metin kutusu 6\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1777751\" y=\"2747954\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Kulakl&#305;kla </a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "8"
+          ],
+          "text": "Elektrik süpürgesiyle",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"8\" name=\"Metin kutusu 7\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"5335961\" y=\"2965247\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Elektrik s&#252;p&#252;rgesiyle</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "9"
+          ],
+          "text": "Televizyonu",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"9\" name=\"Metin kutusu 8\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1549152\" y=\"3422469\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Televizyonu</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "10"
+          ],
+          "text": "tost makinesi",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"10\" name=\"Metin kutusu 9\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1608110\" y=\"3679117\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>tost makinesi</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "11"
+          ],
+          "text": "Çamaşır makinesine",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"11\" name=\"Metin kutusu 10\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1916899\" y=\"3981946\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>&#199;ama&#351;&#305;r makinesine</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "12"
+          ],
+          "text": "kameranın",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"12\" name=\"Metin kutusu 11\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"6718176\" y=\"4382056\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>kameran&#305;n</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "13"
+          ],
+          "text": "Saç kurutma makinesini",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"13\" name=\"Metin kutusu 12\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"1626635\" y=\"4595971\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>Sa&#231; kurutma makinesini</a:t></a:r></a:p></p:txBody></p:sp>"
+        },
+        {
+          "id": [
+            "14"
+          ],
+          "text": "tablet",
+          "xml": "<p:sp xmlns:p=\"http://schemas.openxmlformats.org/presentationml/2006/main\" xmlns:a=\"http://schemas.openxmlformats.org/drawingml/2006/main\" xmlns:r=\"http://schemas.openxmlformats.org/officeDocument/2006/relationships\"><p:nvSpPr><p:cNvPr id=\"14\" name=\"Metin kutusu 13\"><a:extLst><a:ext uri=\"{FF2B5EF4-FFF2-40B4-BE49-F238E27FC236}\"><a16:creationId xmlns:a16=\"http://schemas.microsoft.com/office/drawing/2014/main\" id=\"{5BCF482D-EF3E-6A1B-C12B-327A878DFABD}\"/></a:ext></a:extLst></p:cNvPr><p:cNvSpPr txBox=\"1\"/><p:nvPr/></p:nvSpPr><p:spPr><a:xfrm><a:off x=\"2244891\" y=\"4975836\"/><a:ext cx=\"2764431\" cy=\"400110\"/></a:xfrm><a:prstGeom prst=\"rect\"><a:avLst/></a:prstGeom><a:noFill/></p:spPr><p:txBody><a:bodyPr wrap=\"square\" rtlCol=\"0\"><a:spAutoFit/></a:bodyPr><a:lstStyle/><a:p><a:r><a:rPr lang=\"tr-TR\" sz=\"2000\" b=\"1\" dirty=\"0\"><a:solidFill><a:srgbClr val=\"FF0000\"/></a:solidFill></a:rPr><a:t>tablet</a:t></a:r></a:p></p:txBody></p:sp>"
+        }
+      ],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image101.jpg",
+          "sha256": "d29c55f6bb661bbf00cf803a067b62df0a21954a9f38fc0b21b7067f6aac371b"
+        }
+      ],
+      "text": "59 Fırını  Ütüyü Kulaklıkla  Elektrik süpürgesiyle Televizyonu tost makinesi Çamaşır makinesine kameranın Saç kurutma makinesini tablet"
+    },
+    {
+      "sequence": 98,
+      "sourceSlide": 98,
+      "slidePath": "ppt/slides/slide98.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image101.jpg",
+          "sha256": "d29c55f6bb661bbf00cf803a067b62df0a21954a9f38fc0b21b7067f6aac371b"
+        },
+        {
+          "part": "ppt/media/image101.jpg",
+          "sha256": "d29c55f6bb661bbf00cf803a067b62df0a21954a9f38fc0b21b7067f6aac371b"
+        }
+      ],
+      "text": "59"
+    },
+    {
+      "sequence": 99,
+      "sourceSlide": 99,
+      "slidePath": "ppt/slides/slide99.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image102.jpg",
+          "sha256": "264cc516c601598ecf2669e8e47d3aeb3882b203476317f61e0a5907f1325072"
+        },
+        {
+          "part": "ppt/media/image102.jpg",
+          "sha256": "264cc516c601598ecf2669e8e47d3aeb3882b203476317f61e0a5907f1325072"
+        }
+      ],
+      "text": "60"
+    },
+    {
+      "sequence": 100,
+      "sourceSlide": 100,
+      "slidePath": "ppt/slides/slide100.xml",
+      "dimensions": [
+        12192000,
+        6858000
+      ],
+      "audio": [],
+      "answerShapes": [],
+      "removedEnglish": [],
+      "pictures": [
+        {
+          "part": "ppt/media/image102.jpg",
+          "sha256": "264cc516c601598ecf2669e8e47d3aeb3882b203476317f61e0a5907f1325072"
+        },
+        {
+          "part": "ppt/media/image102.jpg",
+          "sha256": "264cc516c601598ecf2669e8e47d3aeb3882b203476317f61e0a5907f1325072"
+        },
+        {
+          "part": "ppt/media/image103.png",
+          "sha256": "b36c108e4cb2594503da320fde7bf1d5364ec08b64e95ff3b07a10a217f8781c"
+        },
+        {
+          "part": "ppt/media/image102.jpg",
+          "sha256": "264cc516c601598ecf2669e8e47d3aeb3882b203476317f61e0a5907f1325072"
+        }
+      ],
+      "text": "60"
+    }
+  ],
+  "originalPicturesPreserved": true,
+  "pictureHashChecks": 234,
+  "removedEnglishTables": 2,
+  "addedAnswerObjects": 103
+}
