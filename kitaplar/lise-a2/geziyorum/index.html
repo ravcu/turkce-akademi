@@ -63,7 +63,26 @@
 .quiz-meta{margin-top:12px}
 .quiz-next,.quiz-check{min-height:38px}
 @media(max-width:520px){.study-card{padding:12px}.quiz-option{min-height:40px;padding:8px;font-size:11px}}
-</style><style>.page-export-actions{display:flex;justify-content:center;margin:10px 0}.page-export-actions button{background:#e8f5ef;color:#075d61;border:1px solid #a4d3c8;border-radius:10px;padding:10px 14px;font:inherit;font-size:12px;font-weight:750;cursor:pointer}.page-export-actions button:hover{background:#d7efe6}</style><style>.listening-player{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:10px 0;padding:10px;border:1px solid #b9ded4;border-radius:12px;background:#f5faf7}.listening-player[hidden]{display:none}.listening-player audio{flex:1;min-width:190px;max-width:100%;height:36px}.listening-label{font-size:12px;font-weight:750;color:#075d61}</style><style>.answer-content .answer-group ul{font-family:"Times New Roman",serif;font-size:14px;color:#b32025}</style><style>.answer-fill{color:#b32025;font-family:"Times New Roman",serif;font-size:clamp(5px,1.6cqw,12px)}</style></head>
+</style><style>.page-export-actions{display:flex;justify-content:center;margin:10px 0}.page-export-actions button{background:#e8f5ef;color:#075d61;border:1px solid #a4d3c8;border-radius:10px;padding:10px 14px;font:inherit;font-size:12px;font-weight:750;cursor:pointer}.page-export-actions button:hover{background:#d7efe6}</style><style>.listening-player{display:flex;align-items:center;gap:12px;flex-wrap:wrap;margin:10px 0;padding:10px;border:1px solid #b9ded4;border-radius:12px;background:#f5faf7}.listening-player[hidden]{display:none}.listening-player audio{flex:1;min-width:190px;max-width:100%;height:36px}.listening-label{font-size:12px;font-weight:750;color:#075d61}</style><style>.answer-content .answer-group ul{font-family:"Times New Roman",serif;font-size:14px;color:#b32025}</style><style>.answer-fill{color:#b32025;font-family:"Times New Roman",serif;font-size:clamp(5px,1.6cqw,12px)}</style><style id="pdf-unit-picker-style">
+.heading .unit-picker{position:relative;flex-shrink:0;z-index:15}
+.unit-picker>summary.unit-mark{display:flex;align-items:center;gap:9px;list-style:none;cursor:pointer;user-select:none;margin-left:0;font-family:inherit}
+.unit-picker>summary::-webkit-details-marker{display:none}
+.unit-picker>summary::after{content:"▾";color:#087f83;font-size:13px}
+.unit-picker[open]>summary::after{content:"▴"}
+.unit-picker>summary:hover,.unit-picker[open]>summary{background:#e0f4ed;border-color:#087f83}
+.unit-picker>summary:focus-visible{outline:2px solid #087f83;outline-offset:3px}
+.unit-picker-list{position:absolute;right:0;top:calc(100% + 8px);width:min(360px,calc(100vw - 32px));max-height:min(65vh,440px);overflow-y:auto;overscroll-behavior:contain;display:grid;gap:4px;padding:9px;margin:0;background:#fffefa;border:1px solid #c9ddd5;border-radius:14px;box-shadow:0 14px 40px #17343b30}
+.unit-picker:not([open])>.unit-picker-list{display:none}
+.unit-picker-list a{display:grid;grid-template-columns:25px minmax(0,1fr);column-gap:10px;align-items:center;min-height:44px;padding:9px 10px;border-radius:9px;text-decoration:none;color:#17343b;font-size:13px;line-height:1.35}
+.unit-picker-list a:hover,.unit-picker-list a:focus-visible{background:#edf6f1;outline:2px solid #087f83;outline-offset:-2px}
+.unit-picker-list a[aria-current="page"]{background:#d9f3eb;color:#075d61;font-weight:750}
+.unit-picker-number{grid-row:span 2;text-align:center;font-weight:850;color:#087f83}
+.unit-picker-name{min-width:0;white-space:normal}
+.unit-picker-pages{font-size:10px;color:#667c80}
+@media(max-width:1000px){.heading .unit-picker{margin-left:auto}}
+@media(max-width:520px){.unit-picker-list a{font-size:12px}.unit-picker-list{max-height:60vh}}
+</style>
+</head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
@@ -72,7 +91,18 @@
   <main class="shell">
     <div class="heading">
       <div><div class="eyebrow">A2 • Türkçe ders kitabı</div><h1>Gezi-yorum</h1><p>Sayfadaki bir kelimeye dokun; anlamını beş dilde gör ve Türkçe telaffuzunu dinle.</p></div>
-      <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../bir-hikayem-var/">← Bir Önceki Ünite</a><button class="unit-nav-button" disabled title="Lise A2 kitabının son ünitesindesiniz">Son Ünite</button></nav><div class="unit-mark">10. ÜNİTE &nbsp;·&nbsp; 20 SAYFA</div>
+      <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button" href="../bir-hikayem-var/">← Bir Önceki Ünite</a><button class="unit-nav-button" disabled title="Lise A2 kitabının son ünitesindesiniz">Son Ünite</button></nav><details class="unit-picker"><summary class="unit-mark" aria-label="10. ünite, 30 sayfa. Diğer üniteleri seç">10. ÜNİTE &nbsp;·&nbsp; 30 SAYFA</summary><nav class="unit-picker-list" aria-label="Lise A2 PDF üniteleri">
+<a href="../tatil-donusu/"><span class="unit-picker-number">1</span><span class="unit-picker-name">Tatil Dönüşü</span><span class="unit-picker-pages">22 sayfa</span></a>
+<a href="../hafta-sonu-planin-ne/"><span class="unit-picker-number">2</span><span class="unit-picker-name">Hafta Sonu Planın Ne?</span><span class="unit-picker-pages">22 sayfa</span></a>
+<a href="../bir-gunum/"><span class="unit-picker-number">3</span><span class="unit-picker-name">Bir Günüm</span><span class="unit-picker-pages">24 sayfa</span></a>
+<a href="../simdi-haberler/"><span class="unit-picker-number">4</span><span class="unit-picker-name">Şimdi Haberler</span><span class="unit-picker-pages">22 sayfa</span></a>
+<a href="../dedemin-meslegi/"><span class="unit-picker-number">5</span><span class="unit-picker-name">Dedemin Mesleği Bana Göre mi?</span><span class="unit-picker-pages">20 sayfa</span></a>
+<a href="../hayat-birlikte-guzel/"><span class="unit-picker-number">6</span><span class="unit-picker-name">Hayat Birlikte Güzel</span><span class="unit-picker-pages">16 sayfa</span></a>
+<a href="../akilli-teknoloji/"><span class="unit-picker-number">7</span><span class="unit-picker-name">Akıllı Teknoloji</span><span class="unit-picker-pages">20 sayfa</span></a>
+<a href="../spor-ve-saglik/"><span class="unit-picker-number">8</span><span class="unit-picker-name">Spor ve Sağlık</span><span class="unit-picker-pages">20 sayfa</span></a>
+<a href="../bir-hikayem-var/"><span class="unit-picker-number">9</span><span class="unit-picker-name">Bir Hikâyem Var</span><span class="unit-picker-pages">20 sayfa</span></a>
+<a href="../geziyorum/" aria-current="page"><span class="unit-picker-number">10</span><span class="unit-picker-name">Geziyorum</span><span class="unit-picker-pages">30 sayfa</span></a>
+</nav></details>
     </div>
     <p style="font-size:13px;line-height:1.5;color:#52646a;margin:0 auto 18px;max-width:1180px">Kelimeler ve kalıp ifadeler için İngilizce, Rusça, Kırgızca, Arapça ve Fransızca anlamlar ve örnekler.</p><div class="progress" aria-label="Kitap ilerlemesi"><span id="progress"></span></div>
     <div class="reader">
@@ -345,5 +375,12 @@ makeThumbs();current=savedPage();renderPage();renderVocab();buildQuiz()}).catch(
 })();
 </script>
 
-<script src="../../../assets/js/interface-i18n.js?v=20261028-ui1" defer></script></body>
+<script src="../../../assets/js/interface-i18n.js?v=20261028-ui1" defer></script><script id="pdf-unit-picker-script">
+(()=>{const picker=document.querySelector('.unit-picker');if(!picker)return;
+document.addEventListener('click',event=>{if(picker.open&&!picker.contains(event.target))picker.open=false});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&picker.open){picker.open=false;picker.querySelector('summary').focus();event.preventDefault()}});
+picker.addEventListener('focusout',()=>{setTimeout(()=>{if(picker.open&&!picker.contains(document.activeElement))picker.open=false},0)});
+})();
+</script>
+</body>
 </html>
