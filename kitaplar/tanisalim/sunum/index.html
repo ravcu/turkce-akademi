@@ -43,14 +43,44 @@
 .unit-navigation{display:grid;grid-template-columns:minmax(0,1fr) auto minmax(0,1fr)}.unit-navigation>.unit-nav-button:first-child{justify-self:start}.unit-navigation>.unit-nav-button:last-child{justify-self:end}.unit-current{justify-self:center;white-space:nowrap;color:var(--teal);font-size:13px;font-weight:850;letter-spacing:.06em}@media(max-width:520px){.unit-navigation{gap:5px}.unit-current{font-size:11px;letter-spacing:.02em}.unit-navigation>.unit-nav-button{font-size:10px;padding:8px 6px}}
 </style>
 <script>if(new URLSearchParams(location.search).get('share')==='1')document.documentElement.classList.add('share-mode')</script><style>html.share-mode .back{display:none!important}</style>
-<style>.lesson-audio-panel{display:flex;align-items:center;gap:7px;flex-wrap:wrap;min-width:180px}.lesson-audio-panel[hidden]{display:none}.lesson-audio-panel span{font-size:10px;font-weight:700}.lesson-audio-panel audio{width:clamp(160px,20vw,260px);height:34px}@media(max-width:850px){.lesson-audio-panel{order:10;width:100%;justify-content:center}.lesson-audio-panel audio{width:min(85%,340px)}}</style></head>
+<style>.lesson-audio-panel{display:flex;align-items:center;gap:7px;flex-wrap:wrap;min-width:180px}.lesson-audio-panel[hidden]{display:none}.lesson-audio-panel span{font-size:10px;font-weight:700}.lesson-audio-panel audio{width:clamp(160px,20vw,260px);height:34px}@media(max-width:850px){.lesson-audio-panel{order:10;width:100%;justify-content:center}.lesson-audio-panel audio{width:min(85%,340px)}}</style><style id="sunum-unit-picker-style">
+.unit-navigation>.sunum-unit-picker{position:relative;justify-self:center;z-index:50;min-width:0}
+.sunum-unit-picker>summary.unit-current{position:relative;display:flex;flex-direction:column;align-items:center;gap:1px;min-height:36px;padding:6px 23px 6px 11px;border:1px solid #a4d3c8;border-radius:11px;background:#fffefa;color:#075d61;cursor:pointer;list-style:none;user-select:none;line-height:1.25;font-family:inherit;letter-spacing:.02em}
+.sunum-unit-picker>summary::-webkit-details-marker{display:none}
+.sunum-unit-picker>summary::after{content:"▾";position:absolute;right:8px;top:50%;transform:translateY(-50%);font-size:12px}
+.sunum-unit-picker[open]>summary::after{content:"▴"}
+.sunum-unit-picker>summary small{font-size:10px;font-weight:600;letter-spacing:0;color:#667c80}
+.sunum-unit-picker>summary:hover,.sunum-unit-picker[open]>summary{background:#e0f4ed;border-color:#167b70}
+.sunum-unit-picker>summary:focus-visible{outline:2px solid #167b70;outline-offset:3px}
+.sunum-unit-picker-list{position:absolute;top:calc(100% + 8px);left:50%;transform:translateX(-50%);width:min(360px,calc(100vw - 32px));max-height:min(65dvh,440px);overflow-y:auto;overscroll-behavior:contain;display:grid;gap:4px;padding:9px;background:#fffefa;border:1px solid #c9ddd5;border-radius:14px;box-shadow:0 14px 40px #17343b30}
+.sunum-unit-picker:not([open])>.sunum-unit-picker-list{display:none}
+.sunum-unit-picker-list a{display:grid;grid-template-columns:25px minmax(0,1fr);column-gap:10px;align-items:center;min-height:44px;padding:9px 10px;border-radius:9px;text-decoration:none;color:#17343b;font-size:13px;line-height:1.35}
+.sunum-unit-picker-list a:hover,.sunum-unit-picker-list a:focus-visible{background:#edf6f1;outline:2px solid #167b70;outline-offset:-2px}
+.sunum-unit-picker-list a[aria-current="page"]{background:#d9f3eb;color:#075d61;font-weight:750}
+.sunum-unit-picker-number{grid-row:span 2;text-align:center;font-weight:850;color:#167b70}
+.sunum-unit-picker-name{min-width:0;white-space:normal}
+.sunum-unit-picker-pages{font-size:10px;color:#667c80}
+@media(max-width:520px){.sunum-unit-picker>summary.unit-current{font-size:10px;padding:6px 18px 6px 7px}.sunum-unit-picker>summary small{font-size:9px}.sunum-unit-picker>summary::after{right:5px}.sunum-unit-picker-list a{font-size:12px}.unit-navigation>.unit-nav-button{min-width:0;white-space:normal;text-align:center}}
+</style>
+</head>
 <body>
 <div class="app">
   <header>
     <div class="brand"><span class="mark">T</span><span>Türkçe Akademi<small>A1 · TANIŞALIM · SUNUM MODU</small></span></div>
     <div class="header-right"><button class="plain-btn" id="fullBtn" title="Tam ekran">⛶</button><a class="back" href="../index.html" target="_top">PDF Modu’na dön</a></div>
   </header>
-  <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><button class="unit-nav-button" type="button" disabled title="Bu kitabın ilk ünitesindesiniz.">← Bir Önceki Ünite</button><span class="unit-current" aria-current="step">1. ÜNİTE</span><a class="unit-nav-button" href="../../okuldayiz/sunum/">Bir Sonraki Ünite →</a></nav>
+  <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><button class="unit-nav-button" type="button" disabled title="Bu kitabın ilk ünitesindesiniz.">← Bir Önceki Ünite</button><details class="sunum-unit-picker"><summary class="unit-current" aria-label="1. ünite, 94 sunu sayfası. Diğer üniteleri seç"><span>1. ÜNİTE</span><small>94 sayfa</small></summary><div class="sunum-unit-picker-list" aria-label="Lise A1 sunu üniteleri">
+<a href="../../tanisalim/sunum/" aria-current="page"><span class="sunum-unit-picker-number">1</span><span class="sunum-unit-picker-name">Tanışalım</span><span class="sunum-unit-picker-pages">94 sayfa</span></a>
+<a href="../../okuldayiz/sunum/"><span class="sunum-unit-picker-number">2</span><span class="sunum-unit-picker-name">Okuldayız</span><span class="sunum-unit-picker-pages">97 sayfa</span></a>
+<a href="../../ailem-ve-evim/sunum/"><span class="sunum-unit-picker-number">3</span><span class="sunum-unit-picker-name">Ailem ve Evim</span><span class="sunum-unit-picker-pages">102 sayfa</span></a>
+<a href="../../bir-gunum/sunum/"><span class="sunum-unit-picker-number">4</span><span class="sunum-unit-picker-name">Bir Günüm</span><span class="sunum-unit-picker-pages">105 sayfa</span></a>
+<a href="../../sehir-gezisi/sunum/"><span class="sunum-unit-picker-number">5</span><span class="sunum-unit-picker-name">Şehir Gezisi</span><span class="sunum-unit-picker-pages">100 sayfa</span></a>
+<a href="../../carsi-pazar/sunum/"><span class="sunum-unit-picker-number">6</span><span class="sunum-unit-picker-name">Çarşı Pazar</span><span class="sunum-unit-picker-pages">124 sayfa</span></a>
+<a href="../../bugun-hava-nasil/sunum/"><span class="sunum-unit-picker-number">7</span><span class="sunum-unit-picker-name">Bugün Hava Nasıl?</span><span class="sunum-unit-picker-pages">130 sayfa</span></a>
+<a href="../../gecmis-olsun/sunum/"><span class="sunum-unit-picker-number">8</span><span class="sunum-unit-picker-name">Geçmiş Olsun</span><span class="sunum-unit-picker-pages">91 sayfa</span></a>
+<a href="../../davetlisiniz/sunum/"><span class="sunum-unit-picker-number">9</span><span class="sunum-unit-picker-name">Davetlisiniz</span><span class="sunum-unit-picker-pages">101 sayfa</span></a>
+<a href="../../tatil-planim/sunum/"><span class="sunum-unit-picker-number">10</span><span class="sunum-unit-picker-name">Tatil Planım</span><span class="sunum-unit-picker-pages">118 sayfa</span></a>
+</div></details><a class="unit-nav-button" href="../../okuldayiz/sunum/">Bir Sonraki Ünite →</a></nav>
   <main id="main"><div class="loading">Sunum sayfaları yükleniyor…</div></main>
 </div>
 <div class="toast" id="toast" role="status"></div>
@@ -184,5 +214,14 @@
   init();
 })();
 </script>
-<script src="../../../assets/js/interface-i18n.js?v=20261028-ui1" defer></script></body>
+<script src="../../../assets/js/interface-i18n.js?v=20261028-ui1" defer></script><script id="sunum-unit-picker-script">
+(()=>{const picker=document.querySelector('.sunum-unit-picker');if(!picker)return;
+document.addEventListener('click',event=>{if(picker.open&&!picker.contains(event.target))picker.open=false});
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&picker.open){picker.open=false;picker.querySelector('summary').focus();event.preventDefault()}});
+picker.addEventListener('focusout',()=>{setTimeout(()=>{if(picker.open&&!picker.contains(document.activeElement))picker.open=false},0)});
+picker.addEventListener('keydown',event=>{if(picker.open&&event.key.startsWith('Arrow'))event.stopPropagation()});
+})();
+</script>
+</body>
 </html>
+
