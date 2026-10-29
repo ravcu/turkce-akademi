@@ -1,6 +1,7 @@
 /* Shared UI language. Turkish lesson text, answer keys and book artwork remain learning content. */
 (()=>{'use strict';
 const rows=[
+["Bu platform, Türkçeyi herkes için daha kolay ve erişilebilir kılmak amacıyla Türkçe Öğretmeni Ramazan Avcu tarafından hazırlanmıştır.","This platform was created by Turkish teacher Ramazan Avcu to make learning Turkish easier and more accessible for everyone.","Эта платформа подготовлена преподавателем турецкого языка Рамазаном Авджу, чтобы сделать изучение турецкого языка проще и доступнее для всех.","Бул платформа түрк тилин үйрөнүүнү баары үчүн жеңил жана жеткиликтүү кылуу максатында түрк тили мугалими Рамазан Авжу тарабынан даярдалган."],
 ["Bu sayfadaki taslak işaretler silinsin mi?", "Remove the draft markings on this page?", "Удалить черновые отметки на этой странице?", "Бул барактагы сыноо белгилери өчүрүлсүнбү?"],
 ["ETKİNLİK CEVAPLARI", "ACTIVITY ANSWERS", "ОТВЕТЫ К ЗАДАНИЯМ", "ТАПШЫРМАЛАРДЫН ЖООПТОРУ"],
 ["İsteğe bağlı", "Optional", "По желанию", "Каалоого жараша"],
