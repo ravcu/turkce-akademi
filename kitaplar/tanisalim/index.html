@@ -82,16 +82,36 @@
 @media(max-width:1000px){.heading .unit-picker{margin-left:auto}}
 @media(max-width:520px){.unit-picker-list a{font-size:12px}.unit-picker-list{max-height:60vh}}
 </style>
+<style id="pdf-reader-actions-style">
+.heading{flex-direction:column;align-items:stretch;gap:16px}
+.heading>div:first-child{flex:0 0 auto}
+.heading .unit-navigation.reader-actions{display:flex;align-items:center;justify-content:flex-end;align-self:stretch;flex:0 0 auto;flex-basis:auto;flex-wrap:nowrap;gap:12px;width:100%;max-width:none;margin:0;order:initial}
+.heading .reader-actions>.unit-nav-button,.heading .reader-actions>.unit-picker>summary.unit-mark{display:inline-flex;align-items:center;justify-content:center;box-sizing:border-box;height:44px;min-height:44px;margin:0;padding:10px 14px;font-family:inherit;font-size:12px;font-weight:750;line-height:1.25;white-space:nowrap;text-decoration:none}
+.heading .reader-actions>.unit-nav-button{flex:0 0 auto;font-family:inherit;font-size:12px;font-weight:750;line-height:1.25}
+.heading .reader-actions>.unit-picker{flex:0 0 auto;margin-left:0}
+.heading .reader-actions>.unit-picker>summary.unit-mark{font-family:inherit;font-size:12px;font-weight:750;line-height:1.25}
+.heading .reader-actions>.unit-nav-next{margin-left:0}
+.heading .reader-actions>.presentation-link{gap:8px;border:1px solid #087f88;border-radius:12px;background:linear-gradient(135deg,#078b91,#126480);color:#fff;box-shadow:0 5px 14px #087f8830}
+.heading .reader-actions>.presentation-link:hover,.heading .reader-actions>.presentation-link:focus-visible{color:#fff;background:linear-gradient(135deg,#067a80,#0d526c);outline:2px solid #42b9ad;outline-offset:2px}
+html.share-mode .reader-actions>.presentation-link{display:none!important}
+@media(max-width:650px){
+.heading .unit-navigation.reader-actions{display:grid;grid-template-columns:repeat(3,minmax(0,1fr)) minmax(0,1.25fr);gap:6px}
+.heading .reader-actions>.unit-nav-button,.heading .reader-actions>.unit-picker>summary.unit-mark{width:100%;height:60px;min-height:60px;white-space:normal;text-align:center;padding:7px 5px;font-size:10px;line-height:1.3}
+.heading .reader-actions>.unit-picker{width:100%;min-width:0;grid-column:4;margin:0}
+.heading .reader-actions>.presentation-link{gap:3px}
+.heading .reader-actions>.unit-picker>summary::after{font-size:10px}
+}
+</style>
 </head>
 <body>
   <header class="topbar">
     <a class="brand" href="../../" aria-label="Türkçe Akademi ana sayfa"><span class="brandmark">T</span><span>Türkçe Akademi<small>etkileşimli ders kitabı</small></span></a>
-    <nav class="mode-links"><a class="toplink presentation-link" href="sunum/"><span class="presentation-icon" aria-hidden="true">▣</span>16:9 Sunum Modu<span class="presentation-arrow" aria-hidden="true">↗</span></a><a class="toplink" href="../../">← Ana sayfaya dön</a></nav>
+    <nav class="mode-links"><a class="toplink" href="../../">← Ana sayfaya dön</a></nav>
   </header>
   <main class="shell">
     <div class="heading">
       <div><div class="eyebrow">A1 • Türkçe ders kitabı</div><h1>Tanışalım</h1><p>Sayfadaki bir kelimeye dokun; anlamını beş dilde gör ve Türkçe telaffuzunu dinle.</p></div>
-      <nav class="unit-navigation" aria-label="Üniteler arasında geçiş"><a class="unit-nav-button unit-nav-next" href="../okuldayiz/">Bir Sonraki Ünite →</a></nav><details class="unit-picker"><summary class="unit-mark" aria-label="1. ünite, 18 sayfa. Diğer üniteleri seç">1. ÜNİTE &nbsp;·&nbsp; 18 SAYFA</summary><nav class="unit-picker-list" aria-label="Lise A1 PDF üniteleri">
+      <nav class="unit-navigation reader-actions" aria-label="Sunum ve ünite geçişleri"><a class="unit-nav-button presentation-link" id="presentationLink" href="sunum/" aria-label="1. ünite 16:9 Sunum Modu"><span class="presentation-icon" aria-hidden="true">▣</span><span>16:9 Sunum Modu</span><span class="presentation-arrow" aria-hidden="true">↗</span></a><a class="unit-nav-button unit-nav-next" href="../okuldayiz/">Bir Sonraki Ünite →</a><details class="unit-picker"><summary class="unit-mark" aria-label="1. ünite, 18 sayfa. Diğer üniteleri seç">1. ÜNİTE &nbsp;·&nbsp; 18 SAYFA</summary><nav class="unit-picker-list" aria-label="Lise A1 PDF üniteleri">
 <a href="../tanisalim/" aria-current="page"><span class="unit-picker-number">1</span><span class="unit-picker-name">Tanışalım</span><span class="unit-picker-pages">18 sayfa</span></a>
 <a href="../okuldayiz/"><span class="unit-picker-number">2</span><span class="unit-picker-name">Okuldayız</span><span class="unit-picker-pages">20 sayfa</span></a>
 <a href="../ailem-ve-evim/"><span class="unit-picker-number">3</span><span class="unit-picker-name">Ailem ve Evim</span><span class="unit-picker-pages">26 sayfa</span></a>
@@ -102,7 +122,7 @@
 <a href="../gecmis-olsun/"><span class="unit-picker-number">8</span><span class="unit-picker-name">Geçmiş Olsun</span><span class="unit-picker-pages">24 sayfa</span></a>
 <a href="../davetlisiniz/"><span class="unit-picker-number">9</span><span class="unit-picker-name">Davetlisiniz</span><span class="unit-picker-pages">22 sayfa</span></a>
 <a href="../tatil-planim/"><span class="unit-picker-number">10</span><span class="unit-picker-name">Tatil Planım</span><span class="unit-picker-pages">28 sayfa</span></a>
-</nav></details>
+</nav></details></nav>
     </div>
     <div class="progress" aria-label="Kitap ilerlemesi"><span id="progress"></span></div>
     <div class="reader">
@@ -327,7 +347,7 @@
 
 <script>
 (()=>{
-  const link=document.querySelector('.mode-links a[href="sunum/"]');
+  const link=document.getElementById('presentationLink');
   if(!link)return;
   let presentationFrame=null;
   link.addEventListener('click',event=>{
