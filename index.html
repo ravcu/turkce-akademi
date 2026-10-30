@@ -36,7 +36,7 @@ const words=[['kitap','book · книга · китеп','Bu kitap çok güzel.'
    if(available)link.href='kitaplar/lise-a1-dilbilgisi/tanisalim/';
    const image=grammar.querySelector('img');if(image)link.append(image);
    link.append(document.createTextNode('Dil Bilgisi ve Telaffuz Kitabı'));
-   const badge=document.createElement('small');badge.textContent=available?'1–2. Ünite · PDF Modu':'Yakında';link.append(badge);
+   const badge=document.createElement('small');badge.textContent=available?'1–3. Ünite · PDF Modu':'Yakında';link.append(badge);
    grammar.replaceWith(link);
   }
   return;
