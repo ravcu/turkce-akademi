@@ -8,7 +8,7 @@
   const clean = text => String(text ?? '').normalize('NFC').replace(/(^|\s)[\-−–—]+(?=\s*\S)/g,'$1').replace(/\s+/g,' ').trim();
   const key = (text, language) => clean(text).toLocaleLowerCase(language === 'tr' ? 'tr-TR' : 'und').replace(/^[.!?,:;…\s]+|[.!?,:;…\s]+$/g,'');
   function prepare() {
-    if (!indexPromise) indexPromise = fetch(new URL('index.json',base)).then(r => {
+    if (!indexPromise) indexPromise = fetch(new URL('index.json',base),{cache:'no-store'}).then(r => {
       if (!r.ok) throw new Error('Ses sözlüğü yüklenemedi. Sayfayı yenileyin.');
       return r.json();
     }).catch(error => { indexPromise = null; throw error; });
