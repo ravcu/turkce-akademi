@@ -104,7 +104,7 @@ renderSchool('high');
 const step=document.getElementById('unitStep'),panel=document.getElementById('a1ModePanel');
 if(!step||!panel)return;
 const grid=step.querySelector('.unit-grid');
-function refresh(){const title=document.getElementById('a1DialogTitle')?.textContent||'';const active=title.includes('A1')&&title.includes('Ders Kitabı')&&!title.includes('Dil Bilgisi');step.classList.toggle('a1-mode-layout',active);panel.hidden=!active;if(active)grid.querySelectorAll('a.unit-card').forEach(a=>a.setAttribute('aria-label','Çalışma modlarını seç: '+a.querySelector('.unit-name')?.textContent));}
+function refresh(){const title=document.getElementById('a1DialogTitle')?.textContent||'';const active=/^A[12] · Lise Ders Kitabı$/.test(title.trim());step.classList.toggle('a1-mode-layout',active);panel.hidden=!active;if(active)grid.querySelectorAll('a.unit-card').forEach(a=>a.setAttribute('aria-label','Çalışma modlarını seç: '+a.querySelector('.unit-name')?.textContent));}
 new MutationObserver(refresh).observe(grid,{childList:true});new MutationObserver(refresh).observe(document.getElementById('a1DialogTitle'),{childList:true,characterData:true,subtree:true});
 grid.addEventListener('click',function(e){const a=e.target.closest('a.unit-card');if(!a||!step.classList.contains('a1-mode-layout'))return;e.preventDefault();e.stopImmediatePropagation();grid.querySelectorAll('.unit-card').forEach(x=>x.classList.remove('mode-selected'));a.classList.add('mode-selected');const url=new URL(a.getAttribute('href'),document.baseURI);document.getElementById('a1ModeTitle').textContent=a.querySelector('.unit-name')?.textContent||'Ünite';document.getElementById('a1ModeTopic').textContent=a.querySelector('.unit-topic')?.textContent||'';document.getElementById('a1PdfChoice').href=url.href;document.getElementById('a1PresentationChoice').href=new URL('sunum/',url).href;document.getElementById('a1ActivityChoice').href='#';panel.hidden=false;},{capture:true});
 document.getElementById('a1ActivityChoice').addEventListener('click',function(e){e.preventDefault();alert('Etkinlik Modu sayfası tasarım aşamasında. Yakında açılacak.');});
@@ -126,13 +126,15 @@ const cards=[...grid.querySelectorAll('.unit-card')],i=cards.indexOf(card);
 if(i<0||i>=10)return;
 grid.querySelectorAll('.unit-card').forEach(x=>x.classList.toggle('mode-selected',x===card));
 const topic=card.querySelector('.unit-topic')?.textContent?.trim()||'';
+const level=document.getElementById('a1DialogTitle').textContent.trim().startsWith('A2')?'A2':'A1';
 label.textContent=(i+1)+'. Ünite · '+topic;
+const subtitle=banner.querySelector('span');if(subtitle)subtitle.textContent=level+' · Lise Ders Kitabı';
 document.getElementById('a1ModeTitle').textContent=(i+1)+'. Ünite';
 document.getElementById('a1ModeTopic').textContent=topic;
 const target=new URL(card.getAttribute('href'),document.baseURI);
 document.getElementById('a1PdfChoice').href=target.href;
 document.getElementById('a1PresentationChoice').href=new URL('sunum/',target).href;
-cover.src=new URL('assets/a1-unit-covers/a1-unite-'+String(i+1).padStart(2,'0')+'.webp',document.baseURI).href;
+cover.src=new URL('assets/'+level.toLowerCase()+'-unit-covers/'+level.toLowerCase()+'-unite-'+String(i+1).padStart(2,'0')+'.webp',document.baseURI).href;
 cover.style.display='block';
 panel.hidden=false;
 }
@@ -142,7 +144,7 @@ if(!card||!document.getElementById('unitStep').classList.contains('a1-mode-layou
 e.preventDefault();e.stopImmediatePropagation();select(card);
 },true);
 const title=document.getElementById('a1DialogTitle');
-new MutationObserver(()=>{if(title.textContent.trim()==='A1 · Lise Ders Kitabı')select(grid.querySelector('.unit-card'));}).observe(title,{childList:true,subtree:true});
+new MutationObserver(()=>{if(/^A[12] · Lise Ders Kitabı$/.test(title.textContent.trim()))select(grid.querySelector('.unit-card'));}).observe(title,{childList:true,subtree:true});
 })();
 </script></body></html>
 
