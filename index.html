@@ -112,13 +112,37 @@ refresh();
 })();
 </script><script id="a1-unit-banner-images">
 (function(){
-const photos=["1523050854058-8df90110c9f1","1509062522246-3755977927d7","1511895426328-dc8714191300","1506784983877-45594efa4cbe","1480714378408-67cf0d13bc1b","1555529669-e69e7aa0ba9a","1504609773096-104ff2c73ba4","1576091160399-112ba8d25d1d","1530103862676-de8c9debad1d","1488646953014-85cb44e25828"];
-const banner=document.getElementById('a1UnitBanner'),label=document.getElementById('a1BannerLabel'),grid=document.querySelector('#unitStep .unit-grid');
-if(!banner||!label||!grid)return;
-function update(card){const cards=Array.from(grid.querySelectorAll('.unit-card'));const i=cards.indexOf(card);if(i<0||i>=10)return;const title=card.querySelector('.unit-topic')?.textContent||'';label.textContent=(i+1)+'. Ünite · '+title;banner.style.backgroundImage='none';banner.style.backgroundColor='#fff';banner.style.position='relative';banner.style.overflow='hidden';let cover=banner.querySelector('.a1-real-cover');if(!cover){cover=document.createElement('img');cover.className='a1-real-cover';cover.alt='Ünite kapak görseli';cover.style.cssText='position:absolute;right:0;top:0;width:60%;height:100%;object-fit:contain;object-position:center;pointer-events:none';cover.onerror=function(){this.style.display='none';};banner.appendChild(cover);}cover.style.display='block';cover.src='assets/a1-unit-covers/a1-unite-'+String(i+1).padStart(2,'0')+'.webp';}
-grid.addEventListener('click',e=>{const card=e.target.closest('.unit-card');if(card)update(card)},true);
-new MutationObserver(()=>{if(document.getElementById('a1DialogTitle')?.textContent==='A1 · Lise Ders Kitabı')update(grid.querySelector('.mode-selected')||grid.querySelector('.unit-card'));}).observe(grid,{childList:true});
-update(grid.querySelector('.unit-card'));
+const grid=document.querySelector('#unitStep .unit-grid');
+const banner=document.getElementById('a1UnitBanner');
+const label=document.getElementById('a1BannerLabel');
+const panel=document.getElementById('a1ModePanel');
+if(!grid||!banner||!label||!panel)return;
+let cover=banner.querySelector('.a1-real-cover');
+if(!cover){cover=document.createElement('img');cover.className='a1-real-cover';cover.alt='Seçilen ünitenin kapak görseli';cover.style.cssText='position:absolute;right:0;top:0;width:60%;height:100%;object-fit:contain;object-position:center;pointer-events:none';banner.appendChild(cover);}
+banner.style.position='relative';banner.style.background='#fff';banner.style.overflow='hidden';
+function select(card){
+if(!card||!grid.contains(card))return;
+const cards=[...grid.querySelectorAll('.unit-card')],i=cards.indexOf(card);
+if(i<0||i>=10)return;
+grid.querySelectorAll('.unit-card').forEach(x=>x.classList.toggle('mode-selected',x===card));
+const topic=card.querySelector('.unit-topic')?.textContent?.trim()||'';
+label.textContent=(i+1)+'. Ünite · '+topic;
+document.getElementById('a1ModeTitle').textContent=(i+1)+'. Ünite';
+document.getElementById('a1ModeTopic').textContent=topic;
+const target=new URL(card.getAttribute('href'),document.baseURI);
+document.getElementById('a1PdfChoice').href=target.href;
+document.getElementById('a1PresentationChoice').href=new URL('sunum/',target).href;
+cover.src=new URL('assets/a1-unit-covers/a1-unite-'+String(i+1).padStart(2,'0')+'.webp',document.baseURI).href;
+cover.style.display='block';
+panel.hidden=false;
+}
+grid.addEventListener('click',function(e){
+const card=e.target.closest('a.unit-card');
+if(!card||!document.getElementById('unitStep').classList.contains('a1-mode-layout'))return;
+e.preventDefault();e.stopImmediatePropagation();select(card);
+},true);
+const title=document.getElementById('a1DialogTitle');
+new MutationObserver(()=>{if(title.textContent.trim()==='A1 · Lise Ders Kitabı')select(grid.querySelector('.unit-card'));}).observe(title,{childList:true,subtree:true});
 })();
 </script></body></html>
 
