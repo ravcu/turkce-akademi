@@ -3,7 +3,7 @@ const {sections,questions:qs}=window.LISTENING_A1_1;
 const $=id=>document.getElementById(id);
 let answers=Array(30).fill(null),plays=Array(30).fill(0),pos=0;
 const draft='ta-listening-a1-1-draft-v1',key='ta-activities-A1-1';
-function stop(){if('speechSynthesis'in window)speechSynthesis.cancel()}
+function stop(){if('speechSynthesis'in window)speechSynthesis.cancel();const player=$('audioPlayer');if(player){player.pause();player.currentTime=0}}
 function save(){sessionStorage.setItem(draft,JSON.stringify({answers,plays,pos}))}
 function render(){
  const q=qs[pos];
@@ -26,10 +26,14 @@ function render(){
   b.onclick=()=>{answers[pos]=i;save();render()};
   $('opts').append(b)
  });
- $('listenCount').textContent='Dinleme hakkı: '+plays[pos]+'/2';
- $('listen').disabled=plays[pos]>=2||!('speechSynthesis'in window);
+ $('listenCount').textContent='Tekrar dinleme serbest';
+ $('listen').disabled=!('speechSynthesis'in window);
+ const audio=$('audioPlayer');const src=qs[pos].audioFile||'';
+ if(src){audio.hidden=false;audio.src=src;audio.load();$('listen').hidden=true;$('voiceFallback').hidden=true}
+ else{audio.pause();audio.removeAttribute('src');audio.load();audio.hidden=true;$('listen').hidden=false;$('voiceFallback').hidden=false}
  $('prev').disabled=pos===0;$('next').disabled=pos===29;
- $('stats').textContent='Cevaplanan: '+answers.filter(x=>x!==null).length+' · Boş: '+answers.filter(x=>x===null).length
+ $('stats').textContent='Cevaplanan: '+answers.filter(x=>x!==null).length+' · Boş: '+answers.filter(x=>x===null).length;
+ $('rightStats').textContent='Boş sorular: '+answers.filter(x=>x===null).length+' / 30'
 }
 $('start').onclick=()=>{
  try{
@@ -41,13 +45,13 @@ $('start').onclick=()=>{
  $('intro').classList.add('hidden');$('exam').classList.remove('hidden');render()
 };
 $('listen').onclick=()=>{
- if(plays[pos]>=2||!('speechSynthesis'in window))return;
+ if(!('speechSynthesis'in window))return;
  stop();
  const u=new SpeechSynthesisUtterance(qs[pos].text);
  u.lang='tr-TR';u.rate=.85;
  const v=speechSynthesis.getVoices().find(v=>v.lang.toLowerCase().startsWith('tr'));
  if(v)u.voice=v;
- plays[pos]++;save();render();speechSynthesis.speak(u)
+ plays[pos]++;save();speechSynthesis.speak(u)
 };
 $('prev').onclick=()=>{stop();pos--;save();render()};
 $('next').onclick=()=>{stop();pos++;save();render()};
@@ -69,6 +73,6 @@ $('finish').onclick=()=>{
  sections.forEach((s,i)=>{const p=document.createElement('p');p.textContent=s+': '+counts[i]+'/5';$('resultLines').append(p)})
 };
 $('retry').onclick=()=>{answers=Array(30).fill(null);plays=Array(30).fill(0);pos=0;$('result').classList.add('hidden');$('exam').classList.remove('hidden');save();render()};
-if(!('speechSynthesis'in window)){$('start').disabled=true;$('voiceWarning').textContent='Bu tarayıcı seslendirmeyi desteklemiyor.'}
+if(!('speechSynthesis'in window)){$('voiceWarning').textContent='Tarayıcınız geçici seslendirmeyi desteklemiyor. Ses dosyaları eklenince çubuktan oynatılabilecek.'}
 window.addEventListener('pagehide',stop);
 })();
