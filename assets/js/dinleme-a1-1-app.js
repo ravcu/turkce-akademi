@@ -1,7 +1,7 @@
 (()=>{'use strict';
 const {sections,questions:qs}=window.LISTENING_A1_1;
 const $=id=>document.getElementById(id);
-let answers=Array(30).fill(null),plays=Array(30).fill(0),pos=0;
+let answers=Array(30).fill(null),plays=Array(30).fill(0),pos=0,lastAudioPos=-1;
 const draft='ta-listening-a1-1-draft-v1',key='ta-activities-A1-1';
 function stop(){if('speechSynthesis'in window)speechSynthesis.cancel();const player=$('audioPlayer');if(player){player.pause();player.currentTime=0}}
 function save(){sessionStorage.setItem(draft,JSON.stringify({answers,plays,pos}))}
@@ -13,7 +13,7 @@ function render(){
  $('nums').replaceChildren();
  qs.forEach((_,i)=>{
   const b=document.createElement('button');
-  b.className='num'+(i===pos?' selected':'')+(answers[i]!==null?' done':'');
+  b.className='num'+(i===pos?' active':'')+(answers[i]!==null?' done':'');
   b.textContent=i+1;
   b.onclick=()=>{stop();pos=i;save();render()};
   $('nums').append(b)
@@ -21,7 +21,7 @@ function render(){
  $('ask').textContent=q.question;$('opts').replaceChildren();
  q.options.forEach((o,i)=>{
   const b=document.createElement('button');
-  b.className='opt';b.textContent='ABCD'[i]+') '+o;
+  b.className='option-btn';const circle=document.createElement('span');circle.className='circle';const label=document.createElement('span');label.textContent='ABCD'[i]+') '+o;b.append(circle,label);
   b.setAttribute('aria-pressed',String(answers[pos]===i));
   b.onclick=()=>{answers[pos]=i;save();render()};
   $('opts').append(b)
@@ -29,9 +29,8 @@ function render(){
  $('listenCount').textContent='Tekrar dinleme serbest';
  $('listen').disabled=!('speechSynthesis'in window);
  const audio=$('audioPlayer');const src=qs[pos].audioFile||'';
- if(src){audio.hidden=false;audio.src=src;audio.load();$('listen').hidden=true;$('voiceFallback').hidden=true}
- else{audio.pause();audio.removeAttribute('src');audio.load();audio.hidden=true;$('listen').hidden=false;$('voiceFallback').hidden=false}
- $('prev').disabled=pos===0;$('next').disabled=pos===29;
+ if(lastAudioPos!==pos){if(src){audio.hidden=false;audio.src=src;audio.load();$('listen').hidden=true;$('voiceFallback').hidden=true}else{audio.pause();audio.removeAttribute('src');audio.load();audio.hidden=true;$('listen').hidden=false;$('voiceFallback').hidden=false}lastAudioPos=pos}
+ $('prev').disabled=pos===0;$('next').classList.toggle('hidden',pos===29);$('finish').classList.toggle('hidden',pos!==29);
  $('stats').textContent='Cevaplanan: '+answers.filter(x=>x!==null).length+' · Boş: '+answers.filter(x=>x===null).length;
  $('rightStats').textContent='Boş sorular: '+answers.filter(x=>x===null).length+' / 30'
 }
@@ -53,6 +52,7 @@ $('listen').onclick=()=>{
  if(v)u.voice=v;
  plays[pos]++;save();speechSynthesis.speak(u)
 };
+$('clear').onclick=()=>{answers[pos]=null;save();render()};
 $('prev').onclick=()=>{stop();pos--;save();render()};
 $('next').onclick=()=>{stop();pos++;save();render()};
 $('finish').onclick=()=>{
@@ -72,7 +72,7 @@ $('finish').onclick=()=>{
  $('resultLines').replaceChildren();
  sections.forEach((s,i)=>{const p=document.createElement('p');p.textContent=s+': '+counts[i]+'/5';$('resultLines').append(p)})
 };
-$('retry').onclick=()=>{answers=Array(30).fill(null);plays=Array(30).fill(0);pos=0;$('result').classList.add('hidden');$('exam').classList.remove('hidden');save();render()};
+$('retry').onclick=()=>{answers=Array(30).fill(null);plays=Array(30).fill(0);pos=0;lastAudioPos=-1;$('result').classList.add('hidden');$('exam').classList.remove('hidden');save();render()};
 if(!('speechSynthesis'in window)){$('voiceWarning').textContent='Tarayıcınız geçici seslendirmeyi desteklemiyor. Ses dosyaları eklenince çubuktan oynatılabilecek.'}
 window.addEventListener('pagehide',stop);
 })();
