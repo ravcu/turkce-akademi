@@ -106,7 +106,7 @@ if(!step||!panel)return;
 const grid=step.querySelector('.unit-grid');
 function refresh(){const title=document.getElementById('a1DialogTitle')?.textContent||'';const active=/^A[12] · Lise Ders Kitabı$/.test(title.trim());step.classList.toggle('a1-mode-layout',active);panel.hidden=!active;if(active)grid.querySelectorAll('a.unit-card').forEach(a=>a.setAttribute('aria-label','Çalışma modlarını seç: '+a.querySelector('.unit-name')?.textContent));}
 new MutationObserver(refresh).observe(grid,{childList:true});new MutationObserver(refresh).observe(document.getElementById('a1DialogTitle'),{childList:true,characterData:true,subtree:true});
-document.getElementById('a1ActivityChoice').addEventListener('click',function(e){e.preventDefault();alert('Etkinlik Modu sayfası tasarım aşamasında. Yakında açılacak.');});
+document.getElementById('a1ActivityChoice').addEventListener('click',function(e){e.preventDefault();const title=document.getElementById('a1DialogTitle')?.textContent||'';const level=title.trim().startsWith('A2')?'A2':'A1';const selected=document.querySelector('#unitStep .unit-card.mode-selected');const cards=[...document.querySelectorAll('#unitStep .unit-card')];const unit=Math.max(1,cards.indexOf(selected)+1);window.location.href=new URL('etkinlik.html?level='+level+'&unit='+unit,document.baseURI).href;});
 refresh();
 })();
 </script><script id="a1-unit-banner-images">
