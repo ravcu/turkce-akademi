@@ -43,6 +43,8 @@ jobs:
           fi
       - name: Gerekliyse otomatik bağlantıları kaydet
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           if [[ -n "$(git status --porcelain -- '*.html' '*.htm')" ]]; then
             git config user.name "github-actions[bot]"
