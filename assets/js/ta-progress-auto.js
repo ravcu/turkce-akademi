@@ -11,16 +11,14 @@ const pageId=Array.from(location.pathname).reduce((h,c)=>Math.imul(h^c.charCodeA
 const prefix='ta-auto-'+pageId+'-';
 const sensitive=/(?:auth|token|secret|password|passwd|email|session|credential|supabase|student-name|sync-account|api-key)/i;
 const keyAllowed=k=>typeof k==='string'&&(k.startsWith('ta-')||/^sunum-(?:u\d+-)?current$/i.test(k)||/^a[1-5]-unit\d+-sunum-current$/i.test(k))&&k.length<=130&&!sensitive.test(k)&&!k.startsWith('ta-auto-')&&!k.startsWith('ta-sync-')&&k!=='ta-last-location';
-const originalSet=Storage.prototype.setItem,originalRemove=Storage.prototype.removeItem;
+const originalSet=Storage.prototype.setItem,originalRemove=Storage.prototype.removeItem,originalGet=Storage.prototype.getItem;
 const api={ready:false,save:async()=>false,load:async()=>null};
 window.TAProgressAuto=api;
 const keys=new Set(),timers=new Map();
 let cloud=null,userId=null,active=false,restoring=false;
 const remoteKey=k=>prefix+k;
-function readInitial(){
- for(let i=0;i<localStorage.length;i++){const k=localStorage.key(i);if(keyAllowed(k))keys.add(k)}
-}
-readInitial();
+// Observe keys that this page actually accesses. Never scan and upload all other units' localStorage.
+Storage.prototype.getItem=function(k){if(this===localStorage&&keyAllowed(k))keys.add(k);return originalGet.call(this,k)};
 function write(k,v,removed=false){
  if(!keyAllowed(k))return;
  keys.add(k);
@@ -65,7 +63,6 @@ async function init(){
   restoring=true;
   if(changedUser)for(const k of keys)originalRemove.call(localStorage,k);
   originalSet.call(localStorage,marker,userId);
-  readInitial();
   const {data,error}=await cloud.client.from('student_progress')
     .select('progress_key,payload').eq('user_id',userId)
     .like('progress_key',prefix+'%').limit(500);
