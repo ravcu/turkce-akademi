@@ -1,0 +1,54 @@
+name: Yeni İçerik Otomatik İlerleme Bağlantısı
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '**/*.html'
+      - '**/*.htm'
+      - 'tools/ensure_auto_progress.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: student-progress-autolink
+  cancel-in-progress: false
+
+jobs:
+  auto-link:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kodu getir
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
+          persist-credentials: true
+      - name: Bu sürümde değişen sayfaları bul ve bağla
+        shell: bash
+        run: |
+          set -euo pipefail
+          if git rev-parse HEAD^ >/dev/null 2>&1; then
+            mapfile -d '' files < <(git diff --name-only -z --diff-filter=ACMR HEAD^ HEAD -- '*.html' '*.htm')
+          else
+            mapfile -d '' files < <(git ls-files -z '*.html' '*.htm')
+          fi
+          if (("${#files[@]}" == 0)); then
+            echo "Yeni eğitim sayfası yok."
+          else
+            python3 tools/ensure_auto_progress.py "${files[@]}"
+          fi
+      - name: Gerekliyse otomatik bağlantıları kaydet
+        shell: bash
+        run: |
+          if [[ -n "$(git status --porcelain -- '*.html' '*.htm')" ]]; then
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add -- '*.html' '*.htm'
+            git commit -m "Yeni eğitim içeriklerine otomatik ilerleme bağlantısı ekle [skip ci]"
+            git push origin HEAD:main
+          else
+            echo "Tüm yeni eğitim içerikleri zaten bağlı."
+          fi
