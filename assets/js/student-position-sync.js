@@ -9,7 +9,7 @@ const originalSet = Storage.prototype.setItem;
 const initial = new Map(keys.map(k=>[k,localStorage.getItem(k)]));
 let ready=false, current=null;
 const pending=new Map();
-function remoteKey(key){return 'ta-sync-'+path+'-'+key.replace(/[^a-zA-Z0-9_-]/g,'_').slice(0,35)}
+function remoteKey(key){return key.startsWith('ta-activities-') ? key : 'ta-sync-'+path+'-'+key.replace(/[^a-zA-Z0-9_-]/g,'_').slice(0,35)}
 function start() {
  const api=window.TAStudentCloud;
  if(!api?.ready)return;
@@ -27,11 +27,11 @@ function start() {
    try {
      for(const key of keys){
        const saved=await api.load(remoteKey(key));
-       if(saved && Object.prototype.hasOwnProperty.call(saved,'value')){
-         const val=String(saved.value);
+       if(saved!==null && (key.startsWith('ta-activities-') || Object.prototype.hasOwnProperty.call(saved,'value'))){
+         const val=key.startsWith('ta-activities-')?JSON.stringify(saved):String(saved.value);
          if(localStorage.getItem(key)!==val){originalSet.call(localStorage,key,val);changed=true}
        } else if(initial.get(key)!==null) {
-         await api.save(remoteKey(key),{value:initial.get(key)});
+         await api.save(remoteKey(key),key.startsWith('ta-activities-')?JSON.parse(initial.get(key)):{value:initial.get(key)});
        }
      }
    }catch(err){console.warn('Türkçe Akademi ilerleme yükleme hatası:',err)}
@@ -45,7 +45,7 @@ Storage.prototype.setItem=function(key,value){
  if(this!==localStorage||!keys.includes(key)||!ready||!current)return;
  clearTimeout(pending.get(key));
  pending.set(key,setTimeout(async()=>{
-  try{const api=window.TAStudentCloud;const u=await api.user();if(u?.id===current.id)await api.save(remoteKey(key),{value:String(localStorage.getItem(key))})}
+  try{const api=window.TAStudentCloud;const u=await api.user();if(u?.id===current.id)await api.save(remoteKey(key),key.startsWith('ta-activities-')?JSON.parse(localStorage.getItem(key)||'{}'):{value:String(localStorage.getItem(key))})}
   catch(err){console.warn('İlerleme kaydedilemedi:',err)}
  },850));
 };
