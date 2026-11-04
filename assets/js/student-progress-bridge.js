@@ -8,7 +8,6 @@ try{current=await api.user()}catch(e){return}
 if(!current)return;
 const params=new URLSearchParams(location.search),level=(params.get('level')||'A1').toUpperCase(),unit=Math.max(1,Math.min(10,Number(params.get('unit'))||1));
 const keys=['ta-activities-'+level+'-'+unit,'ta-certificate-'+level+'-'+unit];
-const certPage=location.pathname.endsWith('/basari-sertifikasi.html');
 let restoring=true;
 try{
  const p=await api.profile();
@@ -22,10 +21,7 @@ try{
    }
  }
  restoring=false;
- if(changed && !sessionStorage.getItem('ta-restored-'+level+'-'+unit)){
-   sessionStorage.setItem('ta-restored-'+level+'-'+unit,'1');
-   location.reload();return;
- }
+ if(changed){location.reload();return;}
 }catch(e){restoring=false;console.warn('Öğrenci ilerlemesi yüklenemedi:',e)}
 const original=Storage.prototype.setItem;
 const pending=new Map();
