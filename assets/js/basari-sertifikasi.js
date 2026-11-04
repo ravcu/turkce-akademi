@@ -33,7 +33,7 @@ function makeSvg(scores){
 function resize(){const w=Math.max(260,Math.min(1500,document.documentElement.clientWidth-20)),ratio=w/1500;$('viewport').style.width=w+'px';$('viewport').style.height=(1000*ratio)+'px';$('certificate').style.transform='scale('+ratio+')'}
 window.addEventListener('resize',resize);resize();
 const name=preview?'Ahmet Yılmaz':(localStorage.getItem('ta-student-name')||'').trim(),validName=name.length>=3&&name.includes(' '),allScores=values.every(x=>x!==null);
-$('levelBadge').textContent=level;$('unitTitle').textContent='Lise '+level+' – '+unit+'. Ünite: '+titles[level][unit-1];$('unitInText').textContent=unit+'. Ünite';$('studentName').textContent=validName?name:'Öğrenci Adı';
+$('levelBadge').textContent=level;$('medalImage').src='assets/img/'+level.toLowerCase()+'-defne-celengi.svg?v=20261104j';$('medalImage').alt='Turkuaz defne çelengi içinde '+level;$('unitTitle').textContent='Lise '+level+' – '+unit+'. Ünite: '+titles[level][unit-1];$('unitInText').textContent=unit+'. Ünite';$('studentName').textContent=validName?name:'Öğrenci Adı';
 if(name.length>25)$('studentName').style.fontSize='63px';
 let cert=read(certKey);if(!cert||typeof cert!=='object')cert={};
 if(!preview&&!cert.date&&validName&&allScores){cert.date=new Date().toISOString();cert.name=name;try{localStorage.setItem(certKey,JSON.stringify(cert))}catch(e){}}
