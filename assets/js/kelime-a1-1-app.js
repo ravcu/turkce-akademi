@@ -28,24 +28,24 @@ function begin(){
  $('noMistakes').textContent='';
  questions=list.map(makeQuestion);chosen=Array(questions.length).fill(null);pos=0;submitted=false;
  const draft=readJSON(draftKey(),null);
- if(draft&&Array.isArray(draft.ids)&&Array.isArray(draft.answers)&&draft.ids.join('\u0000')===questions.map(x=>x.id).join('\u0000')&&draft.answers.length===questions.length)chosen=draft.answers.map(x=>Number.isInteger(x)&&x>=0&&x<=3?x:null);
+ if(draft&&Array.isArray(draft.ids)&&Array.isArray(draft.answers)&&draft.ids.join('\u0000')===questions.map(x=>x.id).join('\u0000')&&draft.answers.length===questions.length){chosen=draft.answers.map(x=>Number.isInteger(x)&&x>=0&&x<=3?x:null);pos=Math.max(0,Math.min(questions.length-1,Number(draft.pos)||0));}
  $('welcome').classList.add('hidden');$('test').classList.remove('hidden');render()
 }
 function count(){return chosen.filter(x=>x!==null).length}
-function save(){try{localStorage.setItem(draftKey(),JSON.stringify({ids:questions.map(x=>x.id),answers:chosen}))}catch(e){}}
+function save(){try{localStorage.setItem(draftKey(),JSON.stringify({ids:questions.map(x=>x.id),answers:chosen,pos}))}catch(e){}}
 function render(){
  const n=questions.length,q=questions[pos];$('counter').textContent='Soru '+(pos+1)+' / '+n;$('answered').textContent='Cevaplanan: '+count()+' · Boş: '+(n-count());
  $('bar').style.width=(count()/n*100)+'%';$('topic').textContent=q.topic;
  $('direction').textContent='Türkçe kelimenin '+langs[lang]+' karşılığını seç.';
  $('word').textContent=q.word;$('options').replaceChildren();
  q.options.forEach((o,i)=>{const b=document.createElement('button');b.type='button';b.className='option-btn';b.setAttribute('aria-pressed',String(chosen[pos]===i));const letter=document.createElement('strong'),span=document.createElement('span');letter.textContent='ABCD'[i]+')';span.textContent=o;b.append(letter,span);b.onclick=()=>{chosen[pos]=i;save();render()};$('options').append(b)});
- $('numbers').replaceChildren();chosen.forEach((a,i)=>{const b=document.createElement('button');b.className='num'+(a!==null?' done':'')+(i===pos?' active':'');b.type='button';b.textContent=i+1;b.onclick=()=>{pos=i;render()};$('numbers').append(b)});
+ $('numbers').replaceChildren();chosen.forEach((a,i)=>{const b=document.createElement('button');b.className='num'+(a!==null?' done':'')+(i===pos?' active':'');b.type='button';b.textContent=i+1;b.onclick=()=>{pos=i;save();render()};$('numbers').append(b)});
  $('blankCount').textContent='Boş: '+(n-count())+' / '+n;$('prev').disabled=pos===0;
  $('next').classList.toggle('hidden',pos===n-1);$('finish').classList.toggle('hidden',pos!==n-1);
 }
 $('start').onclick=begin;
-$('prev').onclick=()=>{if(pos>0){pos--;render()}};
-$('next').onclick=()=>{if(pos<questions.length-1){pos++;render()}};
+$('prev').onclick=()=>{if(pos>0){pos--;save();render()}};
+$('next').onclick=()=>{if(pos<questions.length-1){pos++;save();render()}};
 $('clear').onclick=()=>{chosen[pos]=null;save();render()};
 $('finish').onclick=()=>{
  if(submitted)return;
