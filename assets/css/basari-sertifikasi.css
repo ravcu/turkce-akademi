@@ -31,3 +31,9 @@
 .sign{margin-top:31px}
 footer{font-size:21px;bottom:30px}
 @media print{.certificate{box-shadow:none!important}.brand h1{-webkit-print-color-adjust:exact;print-color-adjust:exact}}
+
+/* Unified vector skill pictograms and preview controls */
+.starlabel .symbol svg{display:block;width:49px;height:43px;margin:0 auto}
+.starlabel .symbol.double svg{width:74px;height:43px}
+.toolbar button:disabled{opacity:.45;cursor:not-allowed}
+.student{overflow:visible;text-shadow:0 2px 1px #ffffff,0 3px 7px #65421b38}
