@@ -15,7 +15,7 @@ html,body{margin:0;min-height:100%;font-family:Georgia,"Times New Roman",serif;b
 .heading{position:relative;width:694px;height:221px}
 .medal{position:absolute;left:4px;top:0;width:146px;height:219px;z-index:3;display:flex;align-items:flex-start;justify-content:center}
 .medal img{display:block;width:146px;height:219px;object-fit:contain}
-.medal .seal,.medal .ribbons{display:none!important}
+.medal .seal,.medal .ribbons,.hidden-level{display:none!important}
 .heading h2{position:absolute;left:160px;top:53px;width:526px;height:90px;display:flex;align-items:center;justify-content:center;margin:0;padding:0 15px;white-space:nowrap;background:linear-gradient(115deg,#153652,#061e39 75%);color:#fff;font:bold 38px/1 Georgia,serif;letter-spacing:-1px;text-shadow:1px 2px 2px #0009;border:5px solid #f3bf4b;border-radius:25px;box-shadow:0 4px 0 #ba7927,0 8px 11px #0003}
 .left h3{margin:4px 0 8px;white-space:nowrap;font:bold 35px/1.08 Georgia,serif;min-height:40px}
 .flourish{margin:4px 0;color:#cb951b;font:19px/1.1 Georgia,serif;letter-spacing:3px}.flourish.small{margin:5px 0}
@@ -28,7 +28,7 @@ html,body{margin:0;min-height:100%;font-family:Georgia,"Times New Roman",serif;b
 .starbox>svg{position:absolute;inset:0;width:680px;height:680px;display:block;overflow:visible}
 .starlabel{position:absolute;z-index:6;width:126px;height:101px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;text-align:center;color:#0c1426;text-shadow:0 1px 1px #fff9e5}
 .starlabel b{font:bold 17px/1.04 Georgia,serif;letter-spacing:-.3px}.starlabel strong{font:900 32px/1 system-ui,-apple-system,sans-serif}
-.starlabel.top{left:277px;top:95px}.starlabel.lefttop{left:71px;top:248px}.starlabel.righttop{left:483px;top:249px}.starlabel.leftbottom{left:166px;top:460px}.starlabel.rightbottom{left:388px;top:460px}
+.starlabel.top{left:277px;top:99px}.starlabel.lefttop{left:96px;top:231px}.starlabel.righttop{left:458px;top:231px}.starlabel.leftbottom{left:165px;top:444px}.starlabel.rightbottom{left:389px;top:444px}
 .symbol{display:flex;align-items:center;justify-content:center;height:31px;color:#111827}.symbol svg{width:39px;height:31px}.symbol.double svg{width:55px;height:31px}
 .center-disc{position:absolute;z-index:8;left:245px;top:245px;width:190px;height:190px;border-radius:50%;background:radial-gradient(circle at 34% 29%,#fffff7,#fff0c2 59%,#e7af29);border:9px ridge #e6b53b;box-shadow:0 4px 13px #76501f50;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
 .center-disc span{font:bold 28px/.96 Georgia,serif}.center-disc strong{margin-top:7px;font:900 44px/1 system-ui,sans-serif}
