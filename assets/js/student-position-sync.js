@@ -17,6 +17,13 @@ function start() {
    if(!user)return;
    current=user;
    let changed=false;
+   const marker='ta-sync-account';
+   const prior=localStorage.getItem(marker);
+   if(prior && prior!==user.id){
+     for(const key of keys){originalSet.call(localStorage,key,'0'); initial.set(key,null)}
+     changed=true;
+   }
+   originalSet.call(localStorage,marker,user.id);
    try {
      for(const key of keys){
        const saved=await api.load(remoteKey(key));
@@ -29,7 +36,8 @@ function start() {
      }
    }catch(err){console.warn('Türkçe Akademi ilerleme yükleme hatası:',err)}
    ready=true;
-   if(changed)location.reload();
+   if(changed){location.reload();return;}
+   try{await api.save('ta-last-location',{path:location.pathname+location.search,updatedAt:new Date().toISOString()})}catch(err){console.warn('Son konum kaydedilemedi:',err)}
  }).catch(err=>console.warn('Oturum kontrolü başarısız:',err));
 }
 Storage.prototype.setItem=function(key,value){
