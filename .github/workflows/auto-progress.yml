@@ -11,6 +11,7 @@ on:
 
 permissions:
   contents: write
+  pages: write
 
 concurrency:
   group: student-progress-autolink
@@ -49,6 +50,8 @@ jobs:
             git add -- '*.html' '*.htm'
             git commit -m "Yeni eğitim içeriklerine otomatik ilerleme bağlantısı ekle [skip ci]"
             git push origin HEAD:main
+            echo "Güncellenen dosyalar için Pages yayınını yeniden istiyoruz."
+            gh api --method POST "repos/$GITHUB_REPOSITORY/pages/builds" || echo "Pages rebuild API desteklenmiyor; yayın ayarını kontrol edin."
           else
             echo "Tüm yeni eğitim içerikleri zaten bağlı."
           fi
