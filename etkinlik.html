@@ -40,8 +40,6 @@ document.getElementById('confirmName').onclick=()=>{
  const certKey='ta-certificate-'+level+'-'+num;let record;try{record=JSON.parse(localStorage.getItem(certKey))}catch(e){}
  if(!record||!record.date)record={date:new Date().toISOString()};
  record.name=name;localStorage.setItem(certKey,JSON.stringify(record));
- document.getElementById('certName').textContent=name;starSvg(arr);
- document.getElementById('certDate').textContent='Tarih: '+new Intl.DateTimeFormat('tr-TR',{day:'2-digit',month:'2-digit',year:'numeric'}).format(new Date(record.date));
- dialog.classList.add('hidden');document.getElementById('certificate').classList.remove('hidden');document.getElementById('certificate').scrollIntoView({behavior:'smooth'});
+ location.href='basari-sertifikasi.html?level='+encodeURIComponent(level)+'&unit='+num;
 };draw()})();
 </script></body></html>
