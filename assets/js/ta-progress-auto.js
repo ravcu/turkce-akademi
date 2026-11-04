@@ -22,8 +22,10 @@ function readInitial(){
 }
 readInitial();
 function write(k,v,removed=false){
- if(!active||restoring||!keyAllowed(k))return;
- keys.add(k);clearTimeout(timers.get(k));
+ if(!keyAllowed(k))return;
+ keys.add(k);
+ if(!active||restoring)return;
+ clearTimeout(timers.get(k));
  timers.set(k,setTimeout(async()=>{
   try{
    const user=await cloud.user();if(!user||user.id!==userId)return;
@@ -63,6 +65,7 @@ async function init(){
   restoring=true;
   if(changedUser)for(const k of keys)originalRemove.call(localStorage,k);
   originalSet.call(localStorage,marker,userId);
+  readInitial();
   const {data,error}=await cloud.client.from('student_progress')
     .select('progress_key,payload').eq('user_id',userId)
     .like('progress_key',prefix+'%').limit(500);
