@@ -6,7 +6,7 @@
 'use strict';
 if(window.TAProgressAuto)return;
 const site='/turkce-akademi/';
-if(!location.pathname.startsWith(site)||/\/ogrenci-girisi\.html$/.test(location.pathname))return;
+if(!location.pathname.startsWith(site)||location.pathname===site||location.pathname===site+'index.html'||/\/ogrenci-girisi\.html$/.test(location.pathname))return;
 const pageId=Array.from(location.pathname).reduce((h,c)=>Math.imul(h^c.charCodeAt(0),16777619)>>>0,2166136261).toString(36);
 const prefix='ta-auto-'+pageId+'-';
 const sensitive=/(?:auth|token|secret|password|passwd|email|session|credential|supabase|student-name|sync-account|api-key)/i;
