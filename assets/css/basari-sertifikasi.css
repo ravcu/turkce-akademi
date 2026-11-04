@@ -26,9 +26,9 @@ html,body{margin:0;min-height:100%;font-family:Georgia,"Times New Roman",serif;b
 .right{position:relative;width:686px;height:672px}
 .starbox{position:absolute;top:-31px;left:20px;width:680px;height:680px}
 .starbox>svg{position:absolute;inset:0;width:680px;height:680px;display:block;overflow:visible}
-.starlabel{position:absolute;z-index:6;width:112px;height:88px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;text-align:center;color:#0c1426;text-shadow:0 1px 1px #fff9e5}
-.starlabel b{font:bold 14px/1.08 Georgia,serif;letter-spacing:-.25px}.starlabel strong{font:900 26px/1.02 system-ui,-apple-system,sans-serif}
-.starlabel.top{left:284px;top:107px}.starlabel.lefttop{left:97px;top:240px}.starlabel.righttop{left:471px;top:240px}.starlabel.leftbottom{left:169px;top:451px}.starlabel.rightbottom{left:399px;top:451px}
+.starlabel{position:absolute;z-index:6;width:100px;height:76px;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:2px;text-align:center;color:#0c1426;text-shadow:0 1px 1px #fff9e5}
+.starlabel b{font:bold 13px/1.07 Georgia,serif;letter-spacing:-.25px}.starlabel strong{font:900 25px/1.02 system-ui,-apple-system,sans-serif}
+.starlabel.top{left:290px;top:145px}.starlabel.lefttop{left:140px;top:247px}.starlabel.righttop{left:440px;top:247px}.starlabel.leftbottom{left:196px;top:427px}.starlabel.rightbottom{left:384px;top:427px}
 .symbol{display:flex;align-items:center;justify-content:center;height:25px;color:#111827}.symbol svg{width:31px;height:25px}.symbol.double svg{width:46px;height:25px}
 .center-disc{position:absolute;z-index:8;left:245px;top:245px;width:190px;height:190px;border-radius:50%;background:radial-gradient(circle at 34% 29%,#fffff7,#fff0c2 59%,#e7af29);border:9px ridge #e6b53b;box-shadow:0 4px 13px #76501f50;display:flex;flex-direction:column;align-items:center;justify-content:center;text-align:center}
 .center-disc span{font:bold 28px/.96 Georgia,serif}.center-disc strong{margin-top:7px;font:900 44px/1 system-ui,sans-serif}
