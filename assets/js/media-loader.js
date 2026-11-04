@@ -1,6 +1,14 @@
 /* Binary assets are served independently of the GitHub Pages HTML/data build. */
 (()=>{'use strict';
   if(window.TurkceMedia)return;
+  // Shared bootstrap: every existing/future reader using media-loader gets progress syncing.
+  if(!window.__taAutoProgressLoader){
+    window.__taAutoProgressLoader=true;
+    const auto=document.createElement('script');
+    auto.src='/turkce-akademi/assets/js/ta-progress-auto.js';
+    auto.defer=true;
+    document.head.appendChild(auto);
+  }
   const script=document.currentScript;
   const scriptURL=new URL(script.src,document.baseURI);
   const siteRoot=scriptURL.pathname.slice(0,scriptURL.pathname.lastIndexOf('/assets/js/')+1);
