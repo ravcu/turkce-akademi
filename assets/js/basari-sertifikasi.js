@@ -5,7 +5,7 @@ const names=['reading','listening','speaking','writing','vocabulary'],scoreKey='
 const back='etkinlik.html?level='+level+'&unit='+unit;$('back').href=back;
 function read(k){try{return JSON.parse(localStorage.getItem(k))}catch(e){return null}}
 function dataScore(result){return result&&result.completed===true&&Number.isFinite(result.earned)&&Number.isFinite(result.possible)&&result.possible>0&&result.earned>=0&&result.earned<=result.possible?100*result.earned/result.possible:null}
-const result=read(scoreKey)||{},values=names.map(x=>dataScore(result[x]));
+const preview=params.get('preview')==='1',result=read(scoreKey)||{},values=preview?[90,85,78,88,80]:names.map(x=>dataScore(result[x]));
 function tier(score){return score>=85?'gold':score>=70?'silver':'bronze'}
 const colors={gold:['#fffbd6','#ffd542','#f4aa08'],silver:['#f8fdff','#cfe3f5','#8cadca'],bronze:['#ffe6d2','#ffbd84','#e67a37']};
 const ns='http://www.w3.org/2000/svg',svg=$('achievementStar');
@@ -31,11 +31,11 @@ function makeSvg(scores){
 }
 function resize(){const w=Math.max(260,Math.min(1500,document.documentElement.clientWidth-20)),ratio=w/1500;$('viewport').style.width=w+'px';$('viewport').style.height=(1000*ratio)+'px';$('certificate').style.transform='scale('+ratio+')'}
 window.addEventListener('resize',resize);resize();
-const name=(localStorage.getItem('ta-student-name')||'').trim(),validName=name.length>=3&&name.includes(' '),allScores=values.every(x=>x!==null);
+const name=preview?'Ahmet Yılmaz':(localStorage.getItem('ta-student-name')||'').trim(),validName=name.length>=3&&name.includes(' '),allScores=values.every(x=>x!==null);
 $('levelBadge').textContent=level;$('unitTitle').textContent='Lise '+level+' – '+unit+'. Ünite: '+titles[level][unit-1];$('unitInText').textContent=unit+'. Ünite';$('studentName').textContent=validName?name:'Öğrenci Adı';
 if(name.length>25)$('studentName').style.fontSize='63px';
 let cert=read(certKey);if(!cert||typeof cert!=='object')cert={};
-if(!cert.date&&validName&&allScores){cert.date=new Date().toISOString();cert.name=name;try{localStorage.setItem(certKey,JSON.stringify(cert))}catch(e){}}
+if(!preview&&!cert.date&&validName&&allScores){cert.date=new Date().toISOString();cert.name=name;try{localStorage.setItem(certKey,JSON.stringify(cert))}catch(e){}}
 const when=cert.date?new Date(cert.date):new Date();$('dateText').textContent='Tarih: '+new Intl.DateTimeFormat('tr-TR',{day:'2-digit',month:'2-digit',year:'numeric'}).format(when);
 if(!allScores||!validName){
  $('print').disabled=true;
@@ -47,5 +47,5 @@ if(!allScores||!validName){
 const ids=['readingScore','listeningScore','speakingScore','writingScore','vocabularyScore'];values.forEach((v,i)=>$(ids[i]).textContent='%'+Math.round(v));
 const average=values.reduce((a,b)=>a+b,0)/5;$('overallScore').textContent='%'+(Math.round(average*10)/10).toLocaleString('tr-TR',{maximumFractionDigits:1});
 makeSvg(values);
-$('print').addEventListener('click',()=>window.print());
+if(preview){$('print').disabled=true;$('notice').textContent='TASARIM ÖNİZLEMESİ · Ahmet Yılmaz ve örnek puanlar kullanılıyor. Gerçek başarı belgesi değildir.'}else{$('print').addEventListener('click',()=>window.print())}
 })();
