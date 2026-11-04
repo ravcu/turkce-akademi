@@ -53,8 +53,9 @@ async function initialize(){
  originalSet.call(localStorage,localKey,user.id);
  let changed=otherAccount;
  try{
+  const all=await cloud.loadMany(keys.map(remoteKey));
   for(const k of keys){
-   const saved=await cloud.load(remoteKey(k));
+   const saved=all.has(remoteKey(k))?all.get(remoteKey(k)):null;
    if(saved!==null){changed=restore(k,saved)||changed}
    else if(initial.get(k)!==null){await cloud.save(remoteKey(k),serialize(k,initial.get(k)))}
   }
