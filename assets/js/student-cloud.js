@@ -8,5 +8,6 @@ async function profile(){const u=await user();if(!u)return null;const {data,erro
 async function saveProfile(first,last){const u=await user();if(!u)throw Error('Giriş yapınız');const {error}=await client.from('student_profiles').upsert({user_id:u.id,first_name:first.trim(),last_name:last.trim()},{onConflict:'user_id'});if(error)throw error}
 async function save(progressKey,payload){const u=await user();if(!u)return false;if(!/^ta-[\w-]{1,170}$/.test(progressKey))throw Error('Geçersiz anahtar');const {error}=await client.from('student_progress').upsert({user_id:u.id,progress_key:progressKey,payload,updated_at:new Date().toISOString()},{onConflict:'user_id,progress_key'});if(error)throw error;return true}
 async function load(progressKey){const u=await user();if(!u)return null;const {data,error}=await client.from('student_progress').select('payload').eq('user_id',u.id).eq('progress_key',progressKey).maybeSingle();if(error)throw error;return data?data.payload:null}
-window.TAStudentCloud={ready:true,client,user,profile,saveProfile,save,load};
+async function loadMany(keys){const u=await user();if(!u)return new Map();if(!Array.isArray(keys)||keys.length>100)throw Error('Geçersiz anahtar listesi');const {data,error}=await client.from('student_progress').select('progress_key,payload').eq('user_id',u.id).in('progress_key',keys);if(error)throw error;return new Map((data||[]).map(x=>[x.progress_key,x.payload]))}
+window.TAStudentCloud={ready:true,client,user,profile,saveProfile,save,load,loadMany};
 })();
