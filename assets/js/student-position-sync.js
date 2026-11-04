@@ -20,7 +20,7 @@ function start() {
    const marker='ta-sync-account';
    const prior=localStorage.getItem(marker);
    if(prior && prior!==user.id){
-     for(const key of keys){originalSet.call(localStorage,key,'0'); initial.set(key,null)}
+     for(const key of keys){Storage.prototype.removeItem.call(localStorage,key);initial.set(key,null)}
      changed=true;
    }
    originalSet.call(localStorage,marker,user.id);
