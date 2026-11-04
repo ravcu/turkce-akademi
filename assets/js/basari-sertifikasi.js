@@ -1,5 +1,5 @@
 (()=>{'use strict';
-const $=id=>document.getElementById(id),params=new URLSearchParams(location.search),level=params.get('level')==='A2'?'A2':'A1',unit=Math.max(1,Math.min(10,parseInt(params.get('unit'),10)||1));
+const $=id=>document.getElementById(id),params=new URLSearchParams(location.search),level=['A1','A2','B1','B2','C1'].includes((params.get('level')||'').toUpperCase())?params.get('level').toUpperCase():'A1',unit=Math.max(1,Math.min(10,parseInt(params.get('unit'),10)||1));
 const titles={A1:['Tanışalım','Okuldayız','Ailem ve Evim','Bir Günüm','Şehir Gezisi','Çarşı Pazar','Bugün Hava Nasıl?','Geçmiş Olsun','Davetlisiniz','Tatil Planım'],A2:['Tatil Dönüşü','Hafta Sonu Planın Ne?','Bir Günüm','Şimdi Haberler','Dedemin Mesleği Bana Göre mi?','Hayat Birlikte Güzel','Akıllı Teknoloji','Spor-Sağlık','Bir Hikâyem Var','Geziyorum']};
 const names=['reading','listening','speaking','writing','vocabulary'],scoreKey='ta-activities-'+level+'-'+unit,certKey='ta-certificate-'+level+'-'+unit;
 const back='etkinlik.html?level='+level+'&unit='+unit;$('back').href=back;
@@ -33,7 +33,7 @@ function makeSvg(scores){
 function resize(){const widths=[window.innerWidth,document.documentElement.clientWidth,window.visualViewport?.width,window.screen?.width].filter(v=>Number.isFinite(v)&&v>0);const w=Math.max(240,Math.min(1500,Math.min(...widths)-24)),ratio=w/1500;$('viewport').style.width=w+'px';$('viewport').style.height=(1000*ratio)+'px';$('certificate').style.transform='scale('+ratio+')'}
 window.addEventListener('resize',resize);resize();
 const name=preview?'Ahmet Yılmaz':(localStorage.getItem('ta-student-name')||'').trim(),validName=name.length>=3&&name.includes(' '),allScores=values.every(x=>x!==null);
-$('levelBadge').textContent=level;$('emblemLevelText').textContent=level;$('unitTitle').textContent='Lise '+level+' – '+unit+'. Ünite: '+titles[level][unit-1];$('unitInText').textContent=unit+'. Ünite';$('studentName').textContent=validName?name:'Öğrenci Adı';
+$('levelBadge').textContent=level;$('emblemLevelText').textContent=level;$('unitTitle').textContent='Lise-Yetişkin '+level+' – '+unit+'. Ünite'+(titles[level]?.[unit-1]?': '+titles[level][unit-1]:'');$('unitInText').textContent=unit+'. Ünite';if($('unitTitle').textContent.length>38)$('unitTitle').style.fontSize='29px';$('studentName').textContent=validName?name:'Öğrenci Adı';
 if(name.length>25)$('studentName').style.fontSize='63px';
 let cert=read(certKey);if(!cert||typeof cert!=='object')cert={};
 if(!preview&&!cert.date&&validName&&allScores){cert.date=new Date().toISOString();cert.name=name;try{localStorage.setItem(certKey,JSON.stringify(cert))}catch(e){}}
