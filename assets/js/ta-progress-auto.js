@@ -61,7 +61,13 @@ async function init(){
   const marker='ta-sync-account',prior=localStorage.getItem(marker);
   const changedUser=Boolean(prior&&prior!==userId);
   restoring=true;
-  if(changedUser)for(const k of keys)originalRemove.call(localStorage,k);
+  if(changedUser){
+   for(let i=localStorage.length-1;i>=0;i--){
+    const k=localStorage.key(i);
+    if(keyAllowed(k)||k==='ta-student-name')originalRemove.call(localStorage,k);
+   }
+   keys.clear();
+  }
   originalSet.call(localStorage,marker,userId);
   const {data,error}=await cloud.client.from('student_progress')
     .select('progress_key,payload').eq('user_id',userId)
