@@ -1,6 +1,6 @@
 (()=>{'use strict';
 const source=window.TA_SPEAKING_A1_1;if(!source||source.tasks.length!==30)throw Error('Konuşma görevleri yüklenemedi.');
-const {sections,tasks}=source,$=id=>document.getElementById(id);
+const {sections,tasks}=source,$=id=>document.getElementById(id),grader=window.TA_SPEAKING_GRADE;if(!grader||grader.ruleCount!==30)throw Error('Konuşma değerlendirme kuralları bulunamadı.');
 const answers=tasks.map(()=>({url:null,blob:null,text:'',recognized:false,feedback:false}));
 let pos=0,recorder=null,stream=null,chunks=[],recognition=null,recordingIndex=-1;
 const SpeechRecognition=window.SpeechRecognition||window.webkitSpeechRecognition;
@@ -70,15 +70,10 @@ $('stop').onclick=()=>{if(recorder&&recorder.state!=='inactive')recorder.stop();
 $('transcript').addEventListener('input',updateText);
 function normalize(s){return String(s||'').toLocaleLowerCase('tr-TR').normalize('NFC').replace(/[.,!?;:()\-]/g,' ').replace(/\s+/g,' ').trim()}
 $('feedbackBtn').onclick=()=>{
- const task=tasks[pos],a=answers[pos],text=normalize($('transcript').value);
- $('feedback').replaceChildren();$('feedback').hidden=false;const heading=document.createElement('h3');heading.textContent='Metne dayalı öğrenme geri bildirimi';$('feedback').append(heading);
- function line(t){const p=document.createElement('p');p.textContent=t;$('feedback').append(p)}
- if(!a.blob){line('Henüz bu görev için ses kaydı oluşturulmadı. Önce konuşmanı kaydet.');return}
- if(!text){line('Konuşma metni bulunamadı. Ses kaydını dinleyip metni kontrol ederek yazabilirsin.');return}
- const matches=task.terms.filter(t=>text.includes(normalize(t)));
- if(matches.length){line('İlgili anahtar ifadeler metinde bulundu: '+matches.slice(0,5).join(', ')+'.');line('Bu, görevin tam doğru yapıldığını kanıtlamaz. Söylediğin sözlerin anlamını öğretmeninle de kontrol et.')}
- else{line('Görevle ilgili beklenen anahtar ifadeler metinde bulunamadı. Soruyu tekrar dinleyip yanıtını gözden geçir.');line('Farklı ama doğru cevaplar da mümkündür; bu otomatik kontrol bunları her zaman tanıyamayabilir.')}
- line('Telaffuz ve akıcılık: Bu metinden güvenilir biçimde puanlanamaz. Ses kaydı üzerinden öğretmen kontrolü gerekir.');
+ const a=answers[pos],result=grader.grade(pos,$('transcript').value,!!a.blob);
+ $('feedback').replaceChildren();$('feedback').hidden=false;
+ const heading=document.createElement('h3');heading.textContent='Transkripte göre ön kontrol';$('feedback').append(heading);
+ const p=document.createElement('p');p.textContent=!a.blob?'Bu görevde ses kaydı yok.':result.untranscribed?'Ses kaydı var, ancak konuşma metni boş. Transkripti kontrol et.':'Beklenen dil işaretlerinden '+result.matched+'/'+result.total+' tanesi algılandı. Bu kontrol telaffuz veya akıcılığı ölçmez.';$('feedback').append(p);
  a.feedback=true;
 };
 $('exampleBtn').onclick=()=>{const e=$('example');e.hidden=!e.hidden;e.textContent='Örnek yanıt (tek doğru cevap değildir): '+tasks[pos].example};
@@ -89,14 +84,27 @@ $('clear').onclick=()=>{
 };
 $('prev').onclick=()=>navigate(pos-1);$('next').onclick=()=>navigate(pos+1);
 $('finish').onclick=()=>{
- const missing=30-answeredCount();if(!confirm((missing?missing+' görevde kayıt yok. ':'')+'Etkinlik özetine geçilsin mi?'))return;
- haltVoice();if($('recorded'))$('recorded').pause();
- const completed=answeredCount();const stats={tasksCompleted:completed,totalTasks:30,updatedAt:new Date().toISOString(),assessmentStatus:'teacher_review_required'};
- try{localStorage.setItem('ta-speaking-a1-1-progress',JSON.stringify(stats));const key='ta-activities-A1-1';const results=JSON.parse(localStorage.getItem(key))||{};results.speaking={tasksCompleted:completed,totalTasks:30,assessmentStatus:'teacher_review_required',updatedAt:stats.updatedAt,completed:false};localStorage.setItem(key,JSON.stringify(results))}catch(e){}
+ if(recorder&&recorder.state==='recording'){alert('Önce ses kaydını bitir.');return}
+ answers[pos].text=$('transcript').value;
+ const grades=answers.map((a,i)=>grader.grade(i,a.text,!!a.blob));
+ const missing=grades.filter(g=>!g.recorded).length,untranscribed=grades.filter(g=>g.untranscribed).length;
+ if(!confirm((missing?missing+' soru kayıtsız. ':'')+(untranscribed?untranscribed+' kaydın transkripti boş; bu görevler puan alamaz. ':'')+'Sınavı bitirip otomatik puanı hesaplamak istiyor musun?'))return;
+ haltVoice();$('recorded').pause();
+ const completed=answeredCount(),earned=grades.reduce((s,g)=>s+g.earned,0);
+ const correct=grades.filter(g=>g.earned===1).length,partial=grades.filter(g=>g.earned>0&&g.earned<1).length,wrong=grades.filter(g=>g.recorded&&!g.untranscribed&&g.earned===0).length,blank=missing+untranscribed;
+ const now=new Date().toISOString();
+ const stats={tasksCompleted:completed,totalTasks:30,updatedAt:now,assessmentStatus:'transcript_auto_scored',earned,possible:30,correct,partial,wrong,blank};
+ try{
+  localStorage.setItem('ta-speaking-a1-1-progress',JSON.stringify(stats));
+  const key='ta-activities-A1-1',results=JSON.parse(localStorage.getItem(key))||{};
+  results.speaking={earned,possible:30,completed:true,correct,partial,wrong,blank,tasksCompleted:completed,totalTasks:30,assessmentMethod:'transcript-keyword-rubric',updatedAt:now};
+  localStorage.setItem(key,JSON.stringify(results))
+ }catch(e){alert('Puan cihazda kaydedilemedi. Tarayıcının depolama ayarlarını kontrol et.')}
  $('test').classList.add('hidden');$('result').classList.remove('hidden');
- $('completion').textContent=completed+' / 30 görevde ses kaydı';
- $('resultSummary').textContent='Tamamlanan görev: '+completed+' · Eksik görev: '+missing+' · Konuşma puanı: öğretmen değerlendirmesi bekleniyor.';
- $('sectionResults').replaceChildren();sections.forEach((s,i)=>{const p=document.createElement('p');p.textContent=s+': '+answers.slice(i*5,i*5+5).filter(a=>a.blob).length+' / 5 kayıt';$('sectionResults').append(p)});
+ $('completion').textContent='%'+(earned/30*100).toFixed(1)+' · Transkript puanı';
+ $('resultSummary').textContent='Tam doğru: '+correct+' · Kısmen doğru: '+partial+' · Yanlış: '+wrong+' · Boş / transkriptsiz: '+blank+' · Ses kaydı: '+completed+'/30';
+ $('sectionResults').replaceChildren();sections.forEach((name,i)=>{const p=document.createElement('p');p.textContent=name+': '+grades.slice(i*5,i*5+5).reduce((s,g)=>s+g.earned,0).toFixed(2)+'/5 puan';$('sectionResults').append(p)});
+ const review=$('taskReview');if(review){review.replaceChildren();grades.forEach((g,i)=>{const div=document.createElement('div');div.className='feedback';const heading=document.createElement('strong');heading.textContent=(i+1)+'. görev · '+(g.earned*100).toFixed(0)+' / 100';const p=document.createElement('p');p.textContent='Transkript: '+(answers[i].text.trim()||'(boş)')+' | Beklenen örnek: '+tasks[i].example;div.append(heading,p);review.append(div)})}
  window.scrollTo({top:0,behavior:'smooth'})
 };
 $('retry').onclick=()=>{$('result').classList.add('hidden');$('test').classList.remove('hidden');render()};
