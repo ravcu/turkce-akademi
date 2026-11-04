@@ -14,6 +14,6 @@ let {data,error}=await api.client.auth.signUp({email,password,options:{data:{fir
 else{let {error}=await api.client.auth.signInWithPassword({email,password});if(error)throw error;await refresh()}}
 catch(err){msg(err.message||'İşlem tamamlanamadı.')}finally{$('submit').disabled=false}};
 $('forgot').onclick=async()=>{const email=$('email').value.trim();if(!email){msg('E-posta adresinizi yazınız.');return}const {error}=await api.client.auth.resetPasswordForEmail(email,{redirectTo:location.origin+location.pathname});msg(error?error.message:'Şifre sıfırlama e-postasını kontrol ediniz.')};
-$('logout').onclick=async()=>{await api.client.auth.signOut();await refresh()};api.client.auth.onAuthStateChange(()=>setTimeout(refresh,0));refresh();
+$('logout').onclick=async()=>{await api.client.auth.signOut();for(const k of Object.keys(localStorage)){if(k==='ta-student-name'||k.startsWith('ta-activities-')||k.startsWith('ta-certificate-'))localStorage.removeItem(k)}await refresh()};api.client.auth.onAuthStateChange(()=>setTimeout(refresh,0));refresh();
 })();
 </script></body></html>
