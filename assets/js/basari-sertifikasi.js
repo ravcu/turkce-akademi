@@ -30,10 +30,10 @@ function makeSvg(scores){
  });
  defs+='</defs>';svg.innerHTML=defs+wings+tips;
 }
-function resize(){const w=Math.max(260,Math.min(1500,document.documentElement.clientWidth-20)),ratio=w/1500;$('viewport').style.width=w+'px';$('viewport').style.height=(1000*ratio)+'px';$('certificate').style.transform='scale('+ratio+')'}
+function resize(){const widths=[window.innerWidth,document.documentElement.clientWidth,window.visualViewport?.width,window.screen?.width].filter(v=>Number.isFinite(v)&&v>0);const w=Math.max(240,Math.min(1500,Math.min(...widths)-24)),ratio=w/1500;$('viewport').style.width=w+'px';$('viewport').style.height=(1000*ratio)+'px';$('certificate').style.transform='scale('+ratio+')'}
 window.addEventListener('resize',resize);resize();
 const name=preview?'Ahmet Yılmaz':(localStorage.getItem('ta-student-name')||'').trim(),validName=name.length>=3&&name.includes(' '),allScores=values.every(x=>x!==null);
-$('levelBadge').textContent=level;$('medalImage').src='assets/img/'+level.toLowerCase()+'-defne-celengi.svg?v=20261104j';$('medalImage').alt='Turkuaz defne çelengi içinde '+level;$('unitTitle').textContent='Lise '+level+' – '+unit+'. Ünite: '+titles[level][unit-1];$('unitInText').textContent=unit+'. Ünite';$('studentName').textContent=validName?name:'Öğrenci Adı';
+$('levelBadge').textContent=level;$('emblemLevelText').textContent=level;$('unitTitle').textContent='Lise '+level+' – '+unit+'. Ünite: '+titles[level][unit-1];$('unitInText').textContent=unit+'. Ünite';$('studentName').textContent=validName?name:'Öğrenci Adı';
 if(name.length>25)$('studentName').style.fontSize='63px';
 let cert=read(certKey);if(!cert||typeof cert!=='object')cert={};
 if(!preview&&!cert.date&&validName&&allScores){cert.date=new Date().toISOString();cert.name=name;try{localStorage.setItem(certKey,JSON.stringify(cert))}catch(e){}}
