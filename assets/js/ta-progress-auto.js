@@ -10,7 +10,7 @@ if(!location.pathname.startsWith(site)||location.pathname===site||location.pathn
 const pageId=Array.from(location.pathname).reduce((h,c)=>Math.imul(h^c.charCodeAt(0),16777619)>>>0,2166136261).toString(36);
 const prefix='ta-auto-'+pageId+'-';
 const sensitive=/(?:auth|token|secret|password|passwd|email|session|credential|supabase|student-name|sync-account|api-key)/i;
-const keyAllowed=k=>typeof k==='string'&&k.startsWith('ta-')&&k.length<=130&&!sensitive.test(k)&&!k.startsWith('ta-auto-')&&!k.startsWith('ta-sync-')&&k!=='ta-last-location';
+const keyAllowed=k=>typeof k==='string'&&(k.startsWith('ta-')||/^sunum-(?:u\d+-)?current$/i.test(k)||/^a[1-5]-unit\d+-sunum-current$/i.test(k))&&k.length<=130&&!sensitive.test(k)&&!k.startsWith('ta-auto-')&&!k.startsWith('ta-sync-')&&k!=='ta-last-location';
 const originalSet=Storage.prototype.setItem,originalRemove=Storage.prototype.removeItem;
 const api={ready:false,save:async()=>false,load:async()=>null};
 window.TAProgressAuto=api;
