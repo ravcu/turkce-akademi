@@ -92,7 +92,7 @@ $('finish').onclick=()=>{
  const missing=30-answeredCount();if(!confirm((missing?missing+' görevde kayıt yok. ':'')+'Etkinlik özetine geçilsin mi?'))return;
  haltVoice();if($('recorded'))$('recorded').pause();
  const completed=answeredCount();const stats={tasksCompleted:completed,totalTasks:30,updatedAt:new Date().toISOString(),assessmentStatus:'teacher_review_required'};
- try{localStorage.setItem('ta-speaking-a1-1-progress',JSON.stringify(stats))}catch(e){}
+ try{localStorage.setItem('ta-speaking-a1-1-progress',JSON.stringify(stats));const key='ta-activities-A1-1';const results=JSON.parse(localStorage.getItem(key))||{};results.speaking={tasksCompleted:completed,totalTasks:30,assessmentStatus:'teacher_review_required',updatedAt:stats.updatedAt,completed:false};localStorage.setItem(key,JSON.stringify(results))}catch(e){}
  $('test').classList.add('hidden');$('result').classList.remove('hidden');
  $('completion').textContent=completed+' / 30 görevde ses kaydı';
  $('resultSummary').textContent='Tamamlanan görev: '+completed+' · Eksik görev: '+missing+' · Konuşma puanı: öğretmen değerlendirmesi bekleniyor.';
