@@ -5,8 +5,8 @@
 .word{font-size:clamp(21px,3vw,28px);font-weight:800;color:#163446;margin:14px 0 24px;padding:19px;background:#f4fafa;border:1px solid #dce8e8;border-radius:11px}
 .option-btn{display:flex;align-items:center;text-align:left;gap:13px;width:100%;background:#fff;border:1px solid #d7e5e6;border-radius:10px;padding:13px;margin:9px 0;font:inherit;cursor:pointer}
 .option-btn[aria-pressed=true]{background:#eaf8f6;border-color:#008b90}
-.option-btn strong{color:#007e86;min-width:20px}
-.language-picker{display:flex;gap:13px;flex-wrap:wrap;margin:15px 0}
+.option-btn strong{color:#007e86;min-width:20px}.option-btn span{unicode-bidi:plaintext;text-align:start}
+.language-picker{display:flex;gap:13px;flex-wrap:wrap;margin:15px 0}.language-picker label:has(input:checked){outline:2px solid #00898d}
 .language-picker label{display:flex;gap:8px;align-items:center;background:#eef8f7;border-radius:10px;padding:13px;font-weight:700;cursor:pointer}
 input[type=radio]{accent-color:#008b90}
 .result-list{display:grid;grid-template-columns:repeat(5,minmax(0,1fr));gap:6px}
@@ -17,10 +17,10 @@ input[type=radio]{accent-color:#008b90}
 </style></head><body>
 <header class="top"><div class="brand">TÜRKÇE AKADEMİ</div><a class="back" href="etkinlik.html?level=A1&amp;unit=1">← Etkinlik Moduna Dön</a></header>
 <main class="wrap"><div class="hero"><div style="font-size:11px;font-weight:800">LİSE A1 · 1. ÜNİTE: TANIŞALIM</div><h1>2 DİLLİ KELİME TESTİ</h1><p>Ders Kitabı + Dil Bilgisi ve Telaffuz Kitabı</p></div>
-<section id="welcome" class="card"><h2>Teste başlamadan önce</h2><p>Ünitedeki selamlaşma, tanışma, ülke, dil, şahıs zamiri, kişisel bilgi ve sayı kelimelerini iki yönde öğrenip ölç.</p>
+<section id="welcome" class="card"><h2>Teste başlamadan önce</h2><p>1. ünitenin en önemli Türkçe kelimelerinin seçtiğin ana dildeki karşılıklarını belirle.</p>
 <div class="summary"><div><strong>50</strong><span>Soru</span></div><div><strong>2</strong><span>Her doğru cevap</span></div><div><strong>100</strong><span>Toplam puan</span></div></div>
-<h3>Dil çiftini seç</h3><div class="language-picker"><label><input type="radio" name="lang" value="ru" checked> Türkçe – Rusça</label><label><input type="radio" name="lang" value="en"> Türkçe – İngilizce</label></div>
-<p class="muted">25 soruda Türkçe kelimenin karşılığını, 25 soruda seçtiğin dildeki ifadenin Türkçesini bulacaksın. 50 kelimenin tamamı birer kez sorulur. Sorular dört seçeneklidir; doğru cevabı seç. Yanlışlar doğruları götürmez.</p>
+<h3>Ana dilini seç</h3><div class="language-picker"><label><input type="radio" name="lang" value="ru" checked> Rusça</label><label><input type="radio" name="lang" value="en"> İngilizce</label><label><input type="radio" name="lang" value="kg"> Kırgızca</label><label><input type="radio" name="lang" value="ar"> Arapça</label><label><input type="radio" name="lang" value="fr"> Fransızca</label></div>
+<p class="muted">Bütün sorular Türkçedir. Dört cevap seçeneği yalnızca seçtiğin ana dilde gösterilir. 1. üniteden seçilmiş 50 önemli kelime ve kalıp ifade birer kez sorulur. Yanlışlar doğruları götürmez.</p>
 <div class="topics"><h3>Kapsam</h3><table><thead><tr><th>Konu</th><th>Kapsam</th></tr></thead><tbody><tr><td>Selamlaşma ve nezaket</td><td>Karşılaşma, vedalaşma, teşekkür</td></tr><tr><td>Tanışma ve şahıs zamirleri</td><td>Ad, yaş, hâl hatır, ben/sen/siz</td></tr><tr><td>Ülkeler ve diller</td><td>Ülke ve dil isimleri</td></tr><tr><td>Kişisel bilgiler ve sayılar</td><td>Kimlik kartı, okul, yaş, sayılar</td></tr></tbody></table></div>
 <button id="start" class="btn">TESTE BAŞLA →</button></section>
 <div id="test" class="layout hidden"><section class="card"><div class="question-head"><strong id="counter"></strong><span class="muted" id="answered"></span></div><div class="progress"><div id="bar"></div></div>
@@ -28,4 +28,4 @@ input[type=radio]{accent-color:#008b90}
 <div class="controls"><button class="btn alt" id="prev">← Önceki Soru</button><button class="btn alt" id="clear">Cevabı Temizle</button><button class="btn" id="next">Sonraki Soru →</button><button class="btn" id="finish">SINAVI BİTİR</button></div></section>
 <aside class="card side"><h2>SORU DURUMU</h2><div id="numbers" class="numbers"></div><div class="legend"><div><i class="dot active"></i>Aktif soru</div><div><i class="dot done"></i>Cevaplanan soru</div><div><i class="dot"></i>Boş soru</div></div><p id="blankCount" class="muted"></p></aside></div>
 <section id="result" class="card hidden"><h2>İki Dilli Kelime Testi Sonucu</h2><div id="score" class="result"></div><p id="stats"></p><p class="muted">Sonuç, bu cihazda ilgili ünitenin başarı grafiğine ve sertifika hesaplamasına kaydedildi.</p><h3>Soru sonuçları</h3><div id="review" class="result-list"></div><div class="controls"><button id="retry" class="btn alt">Testi Yeniden Çöz</button><a class="btn" style="text-decoration:none" href="etkinlik.html?level=A1&amp;unit=1">Etkinlik Moduna Dön</a></div></section></main>
-<script src="assets/js/kelime-a1-1-data.js?v=20261104a"></script><script src="assets/js/kelime-a1-1-app.js?v=20261104a"></script></body></html>
+<script src="assets/js/kelime-a1-1-data.js?v=20261104b"></script><script src="assets/js/kelime-a1-1-app.js?v=20261104b"></script></body></html>
