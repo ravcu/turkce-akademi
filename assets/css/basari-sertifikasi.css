@@ -13,8 +13,8 @@ html,body{margin:0;min-height:100%;font-family:Georgia,"Times New Roman",serif;b
 .content{position:absolute;top:176px;left:60px;z-index:3;width:1380px;height:672px;display:grid;grid-template-columns:694px 686px}
 .left{position:relative;width:694px;height:672px;text-align:center}
 .heading{position:relative;width:694px;height:221px}
-.medal{position:absolute;left:4px;top:0;width:146px;height:219px;z-index:3;display:flex;align-items:flex-start;justify-content:center}
-.medal img{display:block;width:146px;height:219px;object-fit:contain}
+.medal{position:absolute;left:2px;top:18px;width:148px;height:170px;z-index:3;display:flex;align-items:center;justify-content:center}
+.medal img{display:block;width:148px;height:148px;object-fit:contain}
 .medal .seal,.medal .ribbons,.hidden-level{display:none!important}
 .heading h2{position:absolute;left:160px;top:53px;width:526px;height:90px;display:flex;align-items:center;justify-content:center;margin:0;padding:0 15px;white-space:nowrap;background:linear-gradient(115deg,#153652,#061e39 75%);color:#fff;font:bold 38px/1 Georgia,serif;letter-spacing:-1px;text-shadow:1px 2px 2px #0009;border:5px solid #f3bf4b;border-radius:25px;box-shadow:0 4px 0 #ba7927,0 8px 11px #0003}
 .left h3{margin:4px 0 8px;white-space:nowrap;font:bold 35px/1.08 Georgia,serif;min-height:40px}
