@@ -1,0 +1,74 @@
+name: Lise A1 Dil Bilgisi Seslerini Aç
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları/Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lise-a1-dilbilgisi-ses
+  cancel-in-progress: false
+
+jobs:
+  unzip-audio:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Kaynak depoyu indir
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: 67 ses dosyasını kontrol et ve aç
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          import re
+          import zipfile
+
+          directory=Path("sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları")
+          archive=directory/'Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip'
+          if not archive.is_file():
+              raise SystemExit('Beklenen ZIP dosyası bu klasörde bulunamadı.')
+          expected=set(range(1,61))|set(range(64,68))|set(range(69,72))
+          with zipfile.ZipFile(archive) as z:
+              actual={}
+              for info in z.infolist():
+                  if info.is_dir():
+                      continue
+                  m=re.fullmatch(r'Lise - A1 - Dil Bilgisi - (\d+)\.opus',info.filename)
+                  if not m:
+                      if info.filename not in ('OKU_BENI.txt','boyut_karsilastirmasi.csv'):
+                          raise SystemExit('Bilinmeyen dosya: '+info.filename)
+                      continue
+                  n=int(m.group(1))
+                  if n not in expected or n in actual or info.file_size>5_000_000:
+                      raise SystemExit('Eksik, tekrarlı veya büyük ses: '+info.filename)
+                  actual[n]=info
+              if set(actual)!=expected:
+                  raise SystemExit('Eksik ses numaraları: '+str(sorted(expected-set(actual))))
+              for n,info in sorted(actual.items()):
+                  path=directory/info.filename
+                  with z.open(info) as f:
+                      data=f.read()
+                  if not data.startswith(b'OggS'):
+                      raise SystemExit('Opus/Ogg doğrulaması başarısız: '+info.filename)
+                  path.write_bytes(data)
+          print('67 ses dosyası başarıyla ayrıldı.')
+          PY
+      - name: Sesleri depoya kaydet
+        shell: bash
+        run: |
+          set -euo pipefail
+          dir='sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları'
+          git rm -- "$dir/Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip"
+          git add -- "$dir"
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Lise A1 dil bilgisi 67 Opus sesini ayrı dosyalar olarak yayımla [skip ci]'
+          git push origin HEAD:main
