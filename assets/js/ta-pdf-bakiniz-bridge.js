@@ -29,7 +29,7 @@ function makeMap(slug,allPages){
 function style(){
  if(document.getElementById('ta-pdf-bridge-style'))return;
  const el=document.createElement('style');el.id='ta-pdf-bridge-style';
- el.textContent='.ta-pdf-bridges{position:absolute;inset:0;z-index:8;pointer-events:none}.ta-pdf-bridge{position:absolute;pointer-events:auto;display:flex;align-items:center;gap:3px;padding:3px 8px;border:1px solid #008f96;border-radius:20px;background:#008f96;color:white;box-shadow:0 2px 6px #004c5255;font:800 clamp(7px,.95cqw,12px)/1.2 system-ui,sans-serif;text-decoration:none;white-space:nowrap;transform:translateY(-8%);cursor:pointer}.ta-pdf-bridge:hover,.ta-pdf-bridge:focus-visible{background:#006d72;outline:2px solid #ffcb78;outline-offset:1px}.ta-pdf-return{position:fixed;right:18px;bottom:18px;z-index:99999;background:#008f96;color:#fff!important;border:2px solid #fff;border-radius:22px;box-shadow:0 3px 12px #15343f55;padding:10px 16px;text-decoration:none;font:700 13px system-ui,sans-serif}.ta-pdf-return:hover,.ta-pdf-return:focus-visible{background:#00666b}@media print{.ta-pdf-bridges,.ta-pdf-return{display:none!important}}';
+ el.textContent='.ta-pdf-bridges{position:absolute;inset:0;z-index:8;pointer-events:none}.ta-pdf-bridge{position:absolute;pointer-events:auto;display:flex;align-items:center;gap:3px;padding:3px 8px;border:1px solid #008f96;border-radius:20px;background:#008f96;color:white;box-shadow:0 2px 6px #004c5255;font:800 11px/1.15 system-ui,sans-serif;height:24px;min-width:74px;box-sizing:border-box;justify-content:center;text-decoration:none;white-space:nowrap;cursor:pointer}.ta-pdf-bridge:hover,.ta-pdf-bridge:focus-visible{background:#006d72;outline:2px solid #ffcb78;outline-offset:1px}.ta-pdf-return{position:fixed;right:18px;bottom:18px;z-index:99999;background:#008f96;color:#fff!important;border:2px solid #fff;border-radius:22px;box-shadow:0 3px 12px #15343f55;padding:10px 16px;text-decoration:none;font:700 13px system-ui,sans-serif}.ta-pdf-return:hover,.ta-pdf-return:focus-visible{background:#00666b}@media print{.ta-pdf-bridges,.ta-pdf-return{display:none!important}}';
  document.head.append(el);
 }
 function hrefFor(slug,pdfPage,originPage){
@@ -51,10 +51,14 @@ function renderSource(slug,pages,current,container){
    const key=(current+1)+'@'+marker.x.toFixed(4)+'@'+marker.y.toFixed(4);
    const target=pageMap.get(key);
    if(!target)continue;
-   const left=marker.x>.5?Math.min(marker.x+.15,.83):Math.min(marker.x+.28,.76);
-   const top=marker.y>.84?Math.max(.01,marker.y-.045):Math.min(.95,marker.y+.025);
+   // One standard placement for every unit: directly ABOVE the printed Bakınız line.
+   // Pixel-based vertical clearance avoids touching the reference text at any zoom.
+   const width=container.clientWidth||1000, height=container.clientHeight||1250;
+   const buttonWidth=74,buttonHeight=24,gap=7;
+   const top=Math.max(2,marker.y*height-buttonHeight-gap);
+   const left=Math.min(width-buttonWidth-4,Math.max(4,marker.x*width+12));
    const a=document.createElement('a');a.className='ta-pdf-bridge';
-   a.style.left=(left*100)+'%';a.style.top=(top*100)+'%';
+   a.style.left=left+'px';a.style.top=top+'px';
    a.href=hrefFor(slug,target,current+1);
    a.textContent='↗ TIKLA';
    a.title='Dil Bilgisi ve Telaffuz Kitabı – ilgili konunun olduğu sayfaya git';
