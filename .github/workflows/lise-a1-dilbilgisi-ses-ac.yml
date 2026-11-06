@@ -4,6 +4,7 @@ on:
     branches: [main]
     paths:
       - 'sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları/Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip'
+      - 'sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları/Lise_A1_Dil_Bilgisi_Yeni_72_Opus.zip'
   workflow_dispatch:
 
 permissions:
@@ -22,7 +23,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           persist-credentials: true
-      - name: 67 ses dosyasını kontrol et ve aç
+      - name: Sesleri denetle ve klasöre çıkar
         shell: bash
         run: |
           set -euo pipefail
@@ -31,44 +32,70 @@ jobs:
           import re
           import zipfile
 
-          directory=Path("sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları")
-          archive=directory/'Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip'
-          if not archive.is_file():
-              raise SystemExit('Beklenen ZIP dosyası bu klasörde bulunamadı.')
-          expected=set(range(1,61))|set(range(64,68))|set(range(69,72))
-          with zipfile.ZipFile(archive) as z:
-              actual={}
-              for info in z.infolist():
-                  if info.is_dir():
-                      continue
-                  m=re.fullmatch(r'Lise - A1 - Dil Bilgisi - (\d+)\.opus',info.filename)
-                  if not m:
-                      if info.filename not in ('OKU_BENI.txt','boyut_karsilastirmasi.csv'):
-                          raise SystemExit('Bilinmeyen dosya: '+info.filename)
-                      continue
-                  n=int(m.group(1))
-                  if n not in expected or n in actual or info.file_size>5_000_000:
-                      raise SystemExit('Eksik, tekrarlı veya büyük ses: '+info.filename)
-                  actual[n]=info
-              if set(actual)!=expected:
-                  raise SystemExit('Eksik ses numaraları: '+str(sorted(expected-set(actual))))
-              for n,info in sorted(actual.items()):
-                  path=directory/info.filename
-                  with z.open(info) as f:
-                      data=f.read()
-                  if not data.startswith(b'OggS'):
-                      raise SystemExit('Opus/Ogg doğrulaması başarısız: '+info.filename)
-                  path.write_bytes(data)
-          print('67 ses dosyası başarıyla ayrıldı.')
+          folder=Path('sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları')
+          old_name='Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip'
+          new_name='Lise_A1_Dil_Bilgisi_Yeni_72_Opus.zip'
+          old_expected={str(i) for i in range(1,61)} | {str(i) for i in [64,65,66,67,69,70,71]}
+          new_expected={str(i) for i in [61,62,63]} | {str(i) for i in range(72,139)} | {'97-2','104-2'}
+          packages=[(folder/old_name,old_expected),(folder/new_name,new_expected)]
+          imported=set()
+          for archive,expected in packages:
+              if not archive.exists():
+                  continue
+              with zipfile.ZipFile(archive) as z:
+                  actual={}
+                  for info in z.infolist():
+                      if info.is_dir():
+                          continue
+                      name=info.filename
+                      m=re.fullmatch(r'Lise - A1 - Dil Bilgisi - (\d+(?:-\d+)?)\.opus',name)
+                      if not m:
+                          if name in ('OKU_BENI.txt','boyut_karsilastirmasi.csv'):
+                              continue
+                          raise SystemExit('Bilinmeyen ZIP içeriği: '+name)
+                      code=m.group(1)
+                      if code not in expected or code in actual or info.file_size>5_000_000:
+                          raise SystemExit('Beklenmeyen, tekrarlı veya büyük ses: '+name)
+                      actual[code]=info
+                  if set(actual)!=expected:
+                      raise SystemExit('ZIP içindeki eksik sesler: '+str(sorted(expected-set(actual))))
+                  # Everything checked: unpack without overwriting existing tracks.
+                  for code,info in actual.items():
+                      dest=folder/info.filename
+                      if dest.exists():
+                          raise SystemExit('Önceden yüklü sesin üzerine yazılmayacak: '+info.filename)
+                      data=z.read(info)
+                      if not data.startswith(b'OggS'):
+                          raise SystemExit('Geçersiz Ogg/Opus başlığı: '+info.filename)
+                      dest.write_bytes(data)
+                      imported.add(code)
+              archive.unlink()
+          if not imported:
+              print('Yeni ZIP bulunamadı, değişiklik yapılmadı.')
+          else:
+              # Enable the matching PDF DİNLE buttons in the same commit as audio files.
+              path=Path('assets/js/lise-a1-dilbilgisi-audio.js')
+              text=path.read_text(encoding='utf-8')
+              updated={str(i) for i in range(1,139) if i!=68} | {'97-2','104-2'}
+              pattern=r'const available=new Set\([^;]*\);'
+              replacement='const available=new Set('+str(sorted(updated,key=lambda s:(int(s.split('-')[0]),s))).replace("'",'"')+');'
+              text,count=re.subn(pattern,lambda _:replacement,text,count=1)
+              if count!=1:
+                  raise SystemExit('DİNLE kayıt listesi güncellenemedi.')
+              path.write_text(text,encoding='utf-8')
+              print('Yüklenen ses:',len(imported),'Etkin toplam ses:',len(updated))
           PY
-      - name: Sesleri depoya kaydet
+      - name: Sesleri ve DİNLE eşleştirmesini kaydet
         shell: bash
         run: |
           set -euo pipefail
           dir='sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları'
-          git rm -- "$dir/Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip"
-          git add -- "$dir"
+          git add -A -- "$dir" assets/js/lise-a1-dilbilgisi-audio.js
+          if git diff --cached --quiet; then
+            echo "Değişiklik yok."
+            exit 0
+          fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Lise A1 dil bilgisi 67 Opus sesini ayrı dosyalar olarak yayımla [skip ci]'
+          git commit -m 'Lise A1 dilbilgisi yeni Opus seslerini ve DİNLE kayıtlarını ekle [skip ci]'
           git push origin HEAD:main
