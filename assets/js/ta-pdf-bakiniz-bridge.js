@@ -22,7 +22,8 @@ const destinationsA2={
  'dedemin-meslegi':[2,4,7,8,10,12],
  'hayat-birlikte-guzel':[2,5,8,9,11],
  'akilli-teknoloji':[2,6,8,9,12],
- 'spor-ve-saglik':[2,4,7,11,15,18]
+ 'spor-ve-saglik':[2,4,7,11,15,18],
+ 'bir-hikayem-var':[2,7,5,8,12]
 };
 const a2TargetSlugs={'spor-ve-saglik':'spor-yapiyorum-saglikli-besleniyorum'};
 const pageMap=new Map();
