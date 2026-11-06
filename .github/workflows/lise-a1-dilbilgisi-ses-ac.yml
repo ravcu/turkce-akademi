@@ -78,7 +78,8 @@ jobs:
               text=path.read_text(encoding='utf-8')
               updated={str(i) for i in range(1,139) if i!=68} | {'97-2','104-2'}
               pattern=r'const available=new Set\([^;]*\);'
-              replacement='const available=new Set('+str(sorted(updated,key=lambda s:(int(s.split('-')[0]),s))).replace("'",'"')+');'
+              entries=[int(s) if '-' not in s else s for s in sorted(updated,key=lambda s:(int(s.split('-')[0]),s))]
+              replacement='const available=new Set('+repr(entries).replace("'",'"')+');'
               text,count=re.subn(pattern,lambda _:replacement,text,count=1)
               if count!=1:
                   raise SystemExit('DİNLE kayıt listesi güncellenemedi.')
