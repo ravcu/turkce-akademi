@@ -5,7 +5,7 @@
 const folder='Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları';
 const base='/turkce-akademi/sesler/'+encodeURIComponent(folder)+'/';
 const available=new Set([...Array(60)].map((_,i)=>i+1).concat([64,65,66,67,69,70,71]));
-const labelFor=(code)=>'S.'+String(code).padStart(3,'0');
+const labelFor=(code)=>{const m=String(code).match(/^(\d+)(?:-(\d+))?$/);return m?'S.'+m[1].padStart(3,'0')+(m[2]?'.'+m[2]:''):'S.'+code};
 function parsed(text){
   const m=/^S\.(\d{3})(?:\.(\d+))?$/.exec(String(text||'').trim());
   return m?{number:Number(m[1]),extra:m[2]||'',label:text}:null;
@@ -29,7 +29,8 @@ function render(page,layer,play){
    if(!data)continue;
    const identity=data.label+'-'+Math.round(word.x*1000)+'-'+Math.round(word.y*1000);
    if(seen.has(identity))continue;seen.add(identity);
-   const ready=!data.extra&&available.has(data.number);
+   const track=data.extra?data.number+'-'+data.extra:data.number;
+   const ready=available.has(track);
    const b=document.createElement('button');b.type='button';b.className='audio-cue';
    b.textContent='DİNLE';
    b.title=ready?data.label+' ses kaydını dinle':data.label+' ses dosyası henüz yüklenmedi';
@@ -37,7 +38,7 @@ function render(page,layer,play){
    b.style.left=(Math.max(.06,Math.min(Number(word.x)+Number(word.w)+.007,.91))*100)+'%';
    b.style.top=(Math.max(.02,Math.min(Number(word.y)-.004,.95))*100)+'%';
    b.disabled=!ready;
-   if(ready)b.addEventListener('click',()=>play(data.number,b));
+   if(ready)b.addEventListener('click',()=>play(track,b));
    layer.append(b);
  }
 }
