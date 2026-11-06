@@ -26,10 +26,12 @@ const destinationsA2={
 };
 const a2TargetSlugs={'spor-ve-saglik':'spor-yapiyorum-saglikli-besleniyorum'};
 const pageMap=new Map();
+let activeMapId=null;
 function makeMap(slug,allPages,level){
  let count=0;
  const targets=(level==='a2'?destinationsA2:destinations)[slug]||[];
  pageMap.clear();
+ activeMapId=level+'/'+slug;
  for(let p=0;p<allPages.length;p++){
   for(const w of (allPages[p].words||[]).filter(x=>/^Bakınız\s*:/i.test(x.t))){
    const target=targets[count++];
@@ -56,7 +58,7 @@ function hrefFor(slug,pdfPage,originPage,level){
 function renderSource(slug,pages,current,container,level='a1'){
  if(!container||!(level==='a2'?destinationsA2:destinations)[slug])return;
  style();
- if(!pageMap.size||!pageMap.has(level+'/'+slug+'/'+(pages.findIndex(p=>(p.words||[]).some(x=>/^Bakınız\\s*:/i.test(x.t)))+1)+'@'+((pages.find(p=>(p.words||[]).some(x=>/^Bakınız\\s*:/i.test(x.t)))?.words||[]).find(x=>/^Bakınız\\s*:/i.test(x.t))?.x||0).toFixed(4)+'@'+((pages.find(p=>(p.words||[]).some(x=>/^Bakınız\\s*:/i.test(x.t)))?.words||[]).find(x=>/^Bakınız\\s*:/i.test(x.t))?.y||0).toFixed(4)))makeMap(slug,pages,level);
+ if(activeMapId!==level+'/'+slug)makeMap(slug,pages,level);
  let layer=container.querySelector('.ta-pdf-bridges');
  if(!layer){layer=document.createElement('div');layer.className='ta-pdf-bridges';container.append(layer)}
  layer.replaceChildren();
