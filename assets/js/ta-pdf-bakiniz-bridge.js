@@ -23,7 +23,8 @@ const destinationsA2={
  'hayat-birlikte-guzel':[2,5,8,9,11],
  'akilli-teknoloji':[2,6,8,9,12],
  'spor-ve-saglik':[2,4,7,11,15,18],
- 'bir-hikayem-var':[2,7,5,8,12]
+ 'bir-hikayem-var':[2,7,5,8,12],
+ 'geziyorum':[2,7,4,8,10]
 };
 const a2TargetSlugs={'spor-ve-saglik':'spor-yapiyorum-saglikli-besleniyorum'};
 const pageMap=new Map();
