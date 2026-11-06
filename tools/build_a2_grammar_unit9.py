@@ -70,6 +70,7 @@ h=h.replace('1 / 9</span><button id="next"','1 / 12</span><button id="next"').re
 h=h.replace('p.image.replace(\'sayfa-\',\'onizleme-\')','p.image')
 # Select a compound phrase only at the clicked occurrence.
 h=h.replace("if(!phrase){for(let i=0;i<words.length;i++){if(normalize(words[i].t)===normalize(word)){const found=phraseAt(i,words);if(found){phrase=found;break}}}}",'')
+h=re.sub(r'<(?:a|button) class="unit-nav-button unit-nav-next"[^>]*>Bir Sonraki Ünite →</(?:a|button)>','<button class="unit-nav-button unit-nav-next" disabled aria-disabled="true" title="10. ünite henüz hazırlanmadı">Bir Sonraki Ünite →</button>',h)
 (OUT/'index.html').write_text(h)
 # Reuse existing recordings by reference; never copy unrelated audio into the new unit.
 speech=OUT/'speech';speech.mkdir(exist_ok=True);entries={k:{} for k in ['tr','en','ru','ky','ar','fr']}
