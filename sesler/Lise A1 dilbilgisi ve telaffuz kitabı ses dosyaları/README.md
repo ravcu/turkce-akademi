@@ -17,3 +17,12 @@ Bu klasör, Türkçe Akademi **Lise A1 Dil Bilgisi ve Telaffuz Kitabı** için y
 **Not:** GitHub Actions'ın ana dala yazma yetkisi ve dal koruması bu otomatik işlemi etkileyebilir. Actions çalışması başarısız olursa GitHub Actions → `Lise A1 Dil Bilgisi Seslerini Aç` kaydını incele.
 
 **Ses formatı:** Opus, 48 kbps VBR. Orijinal WAV kayıtlar ayrıca güvenli bir yedekte saklanmalıdır.
+
+
+## İkinci ses paketi — yeni 72 kayıt
+- Toplu yükleme adı: `Lise_A1_Dil_Bilgisi_Yeni_72_Opus.zip`
+- Kapsam: 61–63, 72–138 ve özel `97-2`, `104-2` kayıtları.
+- Bu ZIP dosyasını **klasöre doğrudan ZIP olarak** yükle. GitHub Actions iş akışı içindeki dosyaları çıkarıp ana seslerle birleştirir.
+- İş akışı, mevcut 67 kaydın üzerine yazmaz ve kitabın PDF Modundaki DİNLE düğmelerini aynı işlemde etkinleştirir.
+- Dosya 68 hâlâ eksiktir. Diğerleri yüklenirse toplam 139 ayrı ses dosyası bulunur.
+- Aynı ZIP'i iki kez yüklememelisin; yükleme sonrası iş akışının başarılı olduğunu kontrol et.
