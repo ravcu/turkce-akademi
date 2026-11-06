@@ -14,14 +14,28 @@ const destinations={
  'davetlisiniz':[2,5,8,9,12,15],
  'tatil-planim':[2,3,6]
 };
+const destinationsA2={
+ 'tatil-donusu':[2,5,5,9,12,14],
+ 'hafta-sonu-planin-ne':[2,5,7,8,10],
+ 'bir-gunum':[2,5,7,8,11],
+ 'simdi-haberler':[2,5,6,8,11,14],
+ 'dedemin-meslegi':[2,4,7,8,10,12],
+ 'hayat-birlikte-guzel':[2,5,8,9,11],
+ 'akilli-teknoloji':[2,6,8,9,12],
+ 'spor-ve-saglik':[2,4,7,11,15,18]
+};
+const a2TargetSlugs={'spor-ve-saglik':'spor-yapiyorum-saglikli-besleniyorum'};
 const pageMap=new Map();
-function makeMap(slug,allPages){
+let activeMapId=null;
+function makeMap(slug,allPages,level){
  let count=0;
- const targets=destinations[slug]||[];
+ const targets=(level==='a2'?destinationsA2:destinations)[slug]||[];
+ pageMap.clear();
+ activeMapId=level+'/'+slug;
  for(let p=0;p<allPages.length;p++){
   for(const w of (allPages[p].words||[]).filter(x=>/^Bakınız\s*:/i.test(x.t))){
    const target=targets[count++];
-   if(Number.isInteger(target))pageMap.set((p+1)+'@'+w.x.toFixed(4)+'@'+w.y.toFixed(4),target);
+   if(Number.isInteger(target))pageMap.set(level+'/'+slug+'/'+(p+1)+'@'+w.x.toFixed(4)+'@'+w.y.toFixed(4),target);
   }
  }
  if(count!==targets.length)console.warn('Köprü sayısı kontrol edilmeli:',slug,count,targets.length);
@@ -32,23 +46,24 @@ function style(){
  el.textContent='.ta-pdf-bridges{position:absolute;inset:0;z-index:8;pointer-events:none}.ta-pdf-bridge{position:absolute;pointer-events:auto;display:flex;align-items:center;gap:3px;padding:3px 8px;border:1px solid #008f96;border-radius:20px;background:#008f96;color:white;box-shadow:0 2px 6px #004c5255;font:800 11px/1.15 system-ui,sans-serif;height:24px;min-width:74px;box-sizing:border-box;justify-content:center;text-decoration:none;white-space:nowrap;cursor:pointer}.ta-pdf-bridge:hover,.ta-pdf-bridge:focus-visible{background:#006d72;outline:2px solid #ffcb78;outline-offset:1px}.ta-pdf-return{position:fixed;right:18px;bottom:18px;z-index:99999;background:#008f96;color:#fff!important;border:2px solid #fff;border-radius:22px;box-shadow:0 3px 12px #15343f55;padding:10px 16px;text-decoration:none;font:700 13px system-ui,sans-serif}.ta-pdf-return:hover,.ta-pdf-return:focus-visible{background:#00666b}@media print{.ta-pdf-bridges,.ta-pdf-return{display:none!important}}';
  document.head.append(el);
 }
-function hrefFor(slug,pdfPage,originPage){
- const url=new URL(root+'kitaplar/lise-a1-dilbilgisi/'+slug+'/',location.origin);
+function hrefFor(slug,pdfPage,originPage,level){
+ const pathSlug=level==='a2'?(a2TargetSlugs[slug]||slug):slug;
+ const url=new URL(root+'kitaplar/lise-'+level+'-dilbilgisi/'+pathSlug+'/',location.origin);
  url.searchParams.set('page',String(pdfPage));
  const back=new URL(location.href);
  back.searchParams.set('page',String(originPage));
  url.searchParams.set('from',back.pathname+back.search);
  return url.pathname+url.search;
 }
-function renderSource(slug,pages,current,container){
- if(!container||!destinations[slug])return;
+function renderSource(slug,pages,current,container,level='a1'){
+ if(!container||!(level==='a2'?destinationsA2:destinations)[slug])return;
  style();
- if(!pageMap.size)makeMap(slug,pages);
+ if(activeMapId!==level+'/'+slug)makeMap(slug,pages,level);
  let layer=container.querySelector('.ta-pdf-bridges');
  if(!layer){layer=document.createElement('div');layer.className='ta-pdf-bridges';container.append(layer)}
  layer.replaceChildren();
  for(const marker of (pages[current]?.words||[]).filter(x=>/^Bakınız\s*:/i.test(x.t))){
-   const key=(current+1)+'@'+marker.x.toFixed(4)+'@'+marker.y.toFixed(4);
+   const key=level+'/'+slug+'/'+(current+1)+'@'+marker.x.toFixed(4)+'@'+marker.y.toFixed(4);
    const target=pageMap.get(key);
    if(!target)continue;
    // One standard placement for every unit: directly ABOVE the printed Bakınız line.
@@ -59,7 +74,7 @@ function renderSource(slug,pages,current,container){
    const left=Math.min(width-buttonWidth-4,Math.max(4,marker.x*width+12));
    const a=document.createElement('a');a.className='ta-pdf-bridge';
    a.style.left=left+'px';a.style.top=top+'px';
-   a.href=hrefFor(slug,target,current+1);
+   a.href=hrefFor(slug,target,current+1,level);
    a.textContent='↗ TIKLA';
    a.title='Dil Bilgisi ve Telaffuz Kitabı – ilgili konunun olduğu sayfaya git';
    a.setAttribute('aria-label','Dil Bilgisi ve Telaffuz Kitabının ilgili konusunu aç');
