@@ -1,0 +1,80 @@
+name: Lise A1 Yeni 72 Opus Sesini Aç
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları/Lise_A1_Dil_Bilgisi_Yeni_72_Ses_Opus.zip'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: lise-a1-dilbilgisi-yeni-ses
+  cancel-in-progress: false
+
+jobs:
+  extract-new-tracks:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: 72 Opus dosyasını doğrula, aç ve PDF DİNLE kodlarını etkinleştir
+        shell: bash
+        run: |
+          set -euo pipefail
+          python3 - <<'PY'
+          from pathlib import Path
+          import zipfile, re
+
+          directory=Path("sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları")
+          archive=directory/"Lise_A1_Dil_Bilgisi_Yeni_72_Ses_Opus.zip"
+          if not archive.is_file():
+              raise SystemExit('Yeni 72 ses ZIP dosyası bulunamadı.')
+          needed=set(map(str,[61,62,63]+list(range(72,139))))|{'97-2','104-2'}
+          received={}
+          with zipfile.ZipFile(archive) as z:
+              for info in z.infolist():
+                  if info.is_dir(): continue
+                  if info.filename in ('OKU_BENI.txt','boyut_karsilastirmasi.csv'): continue
+                  matched=re.fullmatch(r'Lise - A1 - Dil Bilgisi - (\d+(?:-\d+)?)\.opus', info.filename)
+                  if not matched:
+                      raise SystemExit('Beklenmeyen dosya adı: '+info.filename)
+                  number=matched.group(1)
+                  if number not in needed or number in received or info.file_size>5_000_000:
+                      raise SystemExit('Bilinmeyen veya tekrarlı ses: '+info.filename)
+                  received[number]=info
+              if set(received)!=needed:
+                  raise SystemExit('Eksik sesler: '+str(sorted(needed-set(received))))
+              for number,info in received.items():
+                  destination=directory/info.filename
+                  if destination.exists():
+                      raise SystemExit('Önceden var olan sesin üzerine yazılmayacak: '+str(destination))
+                  audio=z.read(info)
+                  if not audio.startswith(b'OggS'):
+                      raise SystemExit('Geçersiz Opus/Ogg: '+info.filename)
+                  destination.write_bytes(audio)
+
+          source=Path('assets/js/lise-a1-dilbilgisi-audio.js')
+          js=source.read_text(encoding='utf-8')
+          old="const available=new Set([...Array(60)].map((_,i)=>i+1).concat([64,65,66,67,69,70,71]));"
+          new="const available=new Set([...Array(67)].map((_,i)=>i+1).concat([69,70,71],Array.from({length:67},(_,i)=>i+72),['97-2','104-2']));"
+          if old not in js and new not in js:
+              raise SystemExit('PDF DİNLE envanteri değişmiş: manuel kontrol gerekli.')
+          if old in js:
+              source.write_text(js.replace(old,new),encoding='utf-8')
+          print('72 yeni Opus dosyası ve S.097.2 / S.104.2 dâhil DİNLE eşleştirmesi hazır.')
+          PY
+      - name: Sesleri GitHub ana dalına kaydet
+        shell: bash
+        run: |
+          set -euo pipefail
+          dir='sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları'
+          git rm -- "$dir/Lise_A1_Dil_Bilgisi_Yeni_72_Ses_Opus.zip"
+          git add -- "$dir" assets/js/lise-a1-dilbilgisi-audio.js
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Lise A1 dil bilgisi 72 yeni Opus kaydı ve PDF DİNLE eşleştirmeleri [skip ci]'
+          git push origin HEAD:main
