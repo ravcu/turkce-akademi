@@ -5,6 +5,7 @@ on:
     paths:
       - 'sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları/Lise_A1_Dil_Bilgisi_67_Ses_Opus.zip'
       - 'sesler/Lise A1 dilbilgisi ve telaffuz kitabı ses dosyaları/Lise_A1_Dil_Bilgisi_Yeni_72_Opus.zip'
+      - '.github/workflows/lise-a1-dilbilgisi-ses-ac.yml'
   workflow_dispatch:
 
 permissions:
