@@ -53,8 +53,7 @@ function renderSource(slug,pages,current,container){
    if(!target)continue;
    // One standard placement for every unit: directly ABOVE the printed Bakınız line.
    // Pixel-based vertical clearance avoids touching the reference text at any zoom.
-   const rect=container.getBoundingClientRect();
-   const width=rect.width||1000, height=rect.height||1250;
+   const width=container.clientWidth||1000, height=container.clientHeight||1250;
    const buttonWidth=74,buttonHeight=24,gap=7;
    const top=Math.max(2,marker.y*height-buttonHeight-gap);
    const left=Math.min(width-buttonWidth-4,Math.max(4,marker.x*width+12));
