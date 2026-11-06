@@ -43,10 +43,25 @@ for line in Path('tools/a2-grammar-unit9-phrases.tsv').read_text().splitlines():
  if not line.strip():continue
  a=line.split('|');assert len(a)==6,a;phrases[norm(a[0])]={'translations':a[1:]}
 used_phrases={}
+def occurs(parts):
+ for page in pages:
+  logical=[]
+  for w in page['words']:
+   if logical and w.get('group') and logical[-1].get('group')==w['group']:continue
+   logical.append(w)
+  for i in range(len(logical)-len(parts)+1):
+   seq=logical[i:i+len(parts)]
+   if [norm(w['t']) for w in seq]!=parts:continue
+   def adjacent(a,b):
+    dy=(b['y']+b['h']/2)-(a['y']+a['h']/2)
+    if abs(dy)<=max(.009,min(a['h'],b['h'])*.75):return b['x']>=a['x']-.015 and b['x']-a['x']-a['w']<=.08
+    return 0<dy<=.026 and a['x']-.55<=b['x']<=a['x']+a['w']+.1
+   if all(adjacent(a,b) for a,b in zip(seq,seq[1:])):return True
+ return False
 for key,value in phrases.items():
  if not isinstance(value,dict) or len(value.get('translations',[]))!=5:continue
  parts=key.split()
- if len(parts)>1 and all(part in keys for part in parts):used_phrases[key]=value
+ if len(parts)>1 and occurs(parts):used_phrases[key]=value
 save(OUT/'pages.json',pages)
 save(OUT/'translations.json',{'words':{k:pool[k] for k in sorted(keys)},'phrases':used_phrases,'forms':{},'examples':{},'quizVocabulary':[k for k in ['hikâye','masal','kahraman','padişah','hükümdar','efsâne','sultan','fıkra','ayna','kral','kurbağa','fok','kurt','kuyruğu','tencere','kepçe','itfaiye','itfaiyeciler','yavru','bulmuş','kurtarmış','üşümüş','acıkmış','gülen','kızan','şaşıran','oynayan','yaşayan','koşan','somurtkan','cömert','kıskanç','dürüst','biyografi','rüya','uçmak','dilek','çözen','anlamışım','türkü'] if k in keys]})
 h=(PREV/'index.html').read_text().replace('spor-yapiyorum-saglikli-besleniyorum','bir-hikayem-var').replace('Spor Yapıyorum Sağlıklı Besleniyorum','Bir Hikâyem Var').replace('8. Ünite','9. Ünite').replace('8. ünite, 18 sayfa','9. ünite, 12 sayfa').replace('8. ÜNİTE &nbsp;·&nbsp; 18 SAYFA','9. ÜNİTE &nbsp;·&nbsp; 12 SAYFA').replace('pages/sayfa-01.webp','sayfa-01.webp').replace('ders kitabı sayfa','dil bilgisi ve telaffuz kitabı sayfa')
