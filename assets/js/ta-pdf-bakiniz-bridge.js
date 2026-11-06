@@ -3,11 +3,11 @@
 'use strict';
 const root='/turkce-akademi/';
 const destinations={
- 'tanisalim':[2,6,5,8,8,11],
+ 'tanisalim':[2,8,5,8,8,11],
  'okuldayiz':[2,6,12,14,17,20],
  'ailem-ve-evim':[2,4,7,9,11],
- 'bir-gunum':[2,5,7,11,13,16],
- 'sehir-gezisi':[2,3,4,5,8],
+ 'bir-gunum':[2,5,7,14,14,16],
+ 'sehir-gezisi':[2,3,4,8,8],
  'carsi-pazar':[2,7,11,12,15,16],
  'bugun-hava-nasil':[2,5,8,15,17,20],
  'gecmis-olsun':[2,4,5,8],
