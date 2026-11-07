@@ -432,7 +432,52 @@ new MutationObserver(()=>{viewport.scrollTop=0;viewport.scrollLeft=0;document.qu
 if(innerWidth<=760)togglePanel(true);
 document.querySelector('#saved').textContent='Deneme sayfası · Ana kitap düzeni değişmedi';layout();
 })();
-</script></body>
+</script>
+<style id="demo-space-revision">
+.demo-bar{height:52px;padding:0 14px;gap:8px;flex-wrap:nowrap}
+.demo-bar .demo-title,.demo-bar .demo-badge{display:none}
+.demo-brand>span{font-size:12px}
+.demo-controls{margin-left:auto;gap:5px}
+.demo-controls button{padding:7px 8px;font-size:11px}
+.demo-bar>.toolbar{height:auto;flex:0 0 auto;padding:0;gap:12px;margin-left:14px}
+.demo-bar .toolgroup{gap:4px}
+.demo-bar .iconbtn{height:30px;min-width:30px;font-size:11px}
+.demo-bar .pagecount{font-size:10px;min-width:43px}
+.shell{height:calc(100dvh - 52px);padding:4px 12px 3px;grid-template-rows:3px minmax(0,1fr) 16px;gap:3px}
+.book{padding:3px 5px;border-radius:12px}
+.demo-page-zone{padding:0 45px}
+.page-export-actions{margin:10px 0 0;justify-content:stretch}
+.page-export-actions button{width:100%;font-size:10px;padding:8px 6px;line-height:1.4}
+.side-stack{display:flex;flex-direction:column;gap:0}
+.side-stack .page-export-actions{margin-top:auto;padding-top:12px;position:sticky;bottom:0;background:#e8eeeb}
+.demo-panel-closed .side-stack{display:none}
+#wordPopup{position:static!important;left:auto!important;top:auto!important;width:100%!important;max-height:none;overflow:visible;flex-shrink:0;box-shadow:none;margin:0 0 12px;border-radius:13px}
+#wordPopup .popup-top{position:static}
+#demoSidebar:has(#wordPopup:not([hidden])) .demo-hint{display:none}
+#wordPopup .panel{padding:10px 12px}
+#wordPopup .language-tabs{margin:8px 0}
+#wordPopup .selected{font-size:23px}
+#wordPopup .example-tr,#wordPopup .example-target{font-size:12px}
+.demo-arrow{height:55px;width:35px}
+.listening-player{margin:3px 45px}
+@media(max-width:1150px){.demo-brand>span{display:none}.demo-bar{gap:4px;padding:0 8px}.demo-bar>.toolbar{margin-left:3px;gap:5px}.demo-controls button{font-size:10px;padding:7px 5px}}
+@media(max-width:800px){.demo-bar{height:90px;flex-wrap:wrap;align-content:center}.demo-bar>.toolbar{margin-left:auto}.demo-controls{width:100%;order:3}.shell{height:calc(100dvh - 90px)}.side-stack{top:97px}.demo-brand>span{display:inline}.demo-page-zone{padding:0 34px}.demo-arrow{width:28px}.demo-bar .pagecount{min-width:36px}}
+</style>
+<script>
+(()=>{
+const bar=document.querySelector('.demo-bar'),toolbar=document.querySelector('.book>.toolbar'),sidebar=document.querySelector('#demoSidebar'),popup=document.querySelector('#wordPopup'),actions=document.querySelector('.page-export-actions');
+bar.insertBefore(toolbar,document.querySelector('.demo-controls'));
+sidebar.querySelector('.demo-hint').after(popup);
+sidebar.append(actions);
+document.querySelector('#hotspots').addEventListener('click',e=>{
+ if(!e.target.closest('.word-hit'))return;
+ if(document.querySelector('#demoPanel').getAttribute('aria-expanded')==='false')document.querySelector('#demoPanel').click();
+ popup.hidden=false;
+ requestAnimationFrame(()=>sidebar.scrollTo({top:0,behavior:'smooth'}));
+});
+})();
+</script>
+</body>
 </html>
 
 
