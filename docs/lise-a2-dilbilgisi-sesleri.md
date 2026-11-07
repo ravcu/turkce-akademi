@@ -22,3 +22,7 @@ Her çıktı baştan sona çözümlendi. Süreler kaynaklarla karşılaştırıl
 ## Sonraki paket
 
 `python3 tools/prepare_a2_grammar_audio.py GIRDILER` komutu, numaralı WAV dosyalarını dönüştürür ve mevcut manifeste ekler. `numpy`, `scipy`, `ffmpeg` ve `ffprobe` gerekir. Dosyalar ve güncel manifest birlikte yayımlanmalıdır.
+
+## Güncel ses bağlantıları
+
+Toplam 120 kayıt PDF DİNLE butonlarına kodlarıyla bağlıdır. ZIP içindeki Opus dosyaları yeniden kodlanmadan çıkarılmış ve tamamı FFmpeg ile doğrulanmıştır. Eksik kodlar: S.081. Alt kayıtlar (S.107.1, S.107.2, S.107.3) ayrı dosyalardır. sourceBytes yalnız kaynak boyutu bilinen ilk paketi kapsar.

@@ -938,9 +938,429 @@
       "channels": 2,
       "targetBitrate": "64k",
       "sha256": "8a3da4d95b76b27f30f1382daa16acbd73f6587951fd1b15245aedcee575a6e8"
+    },
+    "S.079": {
+      "number": 79,
+      "code": "S.079",
+      "file": "Lise - A2 - Dil Bilgisi - 79.opus",
+      "bytes": 301678,
+      "duration": 51.668063,
+      "encodedDuration": 51.668063,
+      "channels": 1,
+      "sha256": "bee364dc065685b199ca59a72dd66f1f4ad061334e5936e2412d071b9ff37b26"
+    },
+    "S.080": {
+      "number": 80,
+      "code": "S.080",
+      "file": "Lise - A2 - Dil Bilgisi - 80.opus",
+      "bytes": 702244,
+      "duration": 90.359208,
+      "encodedDuration": 90.359208,
+      "channels": 2,
+      "sha256": "648c0e0d753214f894b88d35946380abddacbfc71caca8f0bfe053b463639d16"
+    },
+    "S.082": {
+      "number": 82,
+      "code": "S.082",
+      "file": "Lise - A2 - Dil Bilgisi - 82.opus",
+      "bytes": 261521,
+      "duration": 47.831021,
+      "encodedDuration": 47.831021,
+      "channels": 1,
+      "sha256": "88c02e0fb905d5359f32ab4f3c88a30de8123aca7e01ab7a319fd000a6312b44"
+    },
+    "S.083": {
+      "number": 83,
+      "code": "S.083",
+      "file": "Lise - A2 - Dil Bilgisi - 83.opus",
+      "bytes": 646769,
+      "duration": 82.329771,
+      "encodedDuration": 82.329771,
+      "channels": 2,
+      "sha256": "0c347f492174116d22ffe73771ff4fe438b9186037aaf057fc13f07cb91bcbea"
+    },
+    "S.084": {
+      "number": 84,
+      "code": "S.084",
+      "file": "Lise - A2 - Dil Bilgisi - 84.opus",
+      "bytes": 153350,
+      "duration": 26.751688,
+      "encodedDuration": 26.751688,
+      "channels": 1,
+      "sha256": "1748e715932488f2ff9f1682e4568547cad4dae6b994f18058ad9af9f23014e2"
+    },
+    "S.085": {
+      "number": 85,
+      "code": "S.085",
+      "file": "Lise - A2 - Dil Bilgisi - 85.opus",
+      "bytes": 485230,
+      "duration": 68.550708,
+      "encodedDuration": 68.550708,
+      "channels": 2,
+      "sha256": "e023a044770be0abf46045fb6a19729c8d0d7bd7bc5895beb9c9f4d2b1c581a4"
+    },
+    "S.086": {
+      "number": 86,
+      "code": "S.086",
+      "file": "Lise - A2 - Dil Bilgisi - 86.opus",
+      "bytes": 391240,
+      "duration": 52.620021,
+      "encodedDuration": 52.620021,
+      "channels": 2,
+      "sha256": "5f5da1675982c939010437f83aa33938a526ae2a280d5315c8528fdcc26bfaeb"
+    },
+    "S.087": {
+      "number": 87,
+      "code": "S.087",
+      "file": "Lise - A2 - Dil Bilgisi - 87.opus",
+      "bytes": 662876,
+      "duration": 93.536521,
+      "encodedDuration": 93.536521,
+      "channels": 2,
+      "sha256": "575b77f11cbe3bd64314e80491be4d53cc9e1596657276e5ae515e48a43d8b09"
+    },
+    "S.088": {
+      "number": 88,
+      "code": "S.088",
+      "file": "Lise - A2 - Dil Bilgisi - 88.opus",
+      "bytes": 169073,
+      "duration": 32.571708,
+      "encodedDuration": 32.571708,
+      "channels": 1,
+      "sha256": "f12e5f1fb499e53d65082c0b0787416ca2a9d4dc1f1f79be73034fe52b2cdc33"
+    },
+    "S.089": {
+      "number": 89,
+      "code": "S.089",
+      "file": "Lise - A2 - Dil Bilgisi - 89.opus",
+      "bytes": 178858,
+      "duration": 32.869958,
+      "encodedDuration": 32.869958,
+      "channels": 1,
+      "sha256": "f070f24d7c3d00ba07bdc5b596a589dd5e6122007ac54d67f4485896540bbc0e"
+    },
+    "S.090": {
+      "number": 90,
+      "code": "S.090",
+      "file": "Lise - A2 - Dil Bilgisi - 90.opus",
+      "bytes": 498881,
+      "duration": 68.382208,
+      "encodedDuration": 68.382208,
+      "channels": 2,
+      "sha256": "f2ddd97f5252627058cf75179d0539323a46df860c77c2e6fa66aae1ae7b3bd9"
+    },
+    "S.091": {
+      "number": 91,
+      "code": "S.091",
+      "file": "Lise - A2 - Dil Bilgisi - 91.opus",
+      "bytes": 196327,
+      "duration": 35.284458,
+      "encodedDuration": 35.284458,
+      "channels": 1,
+      "sha256": "4766c88b7161b664c456c1184afe776eb15dd6eb0ffd4a175aa4129060e0fbaa"
+    },
+    "S.092": {
+      "number": 92,
+      "code": "S.092",
+      "file": "Lise - A2 - Dil Bilgisi - 92.opus",
+      "bytes": 697622,
+      "duration": 93.558729,
+      "encodedDuration": 93.558729,
+      "channels": 2,
+      "sha256": "ffc986d5509f1499e64d5b59ec7fae7ec04451758e9172ad1f3a814037660706"
+    },
+    "S.093": {
+      "number": 93,
+      "code": "S.093",
+      "file": "Lise - A2 - Dil Bilgisi - 93.opus",
+      "bytes": 280773,
+      "duration": 40.022,
+      "encodedDuration": 40.022,
+      "channels": 2,
+      "sha256": "deab902efbd37e08aee87e32b40cac147741cba38e69e01886ddbf29d4aaaeef"
+    },
+    "S.094": {
+      "number": 94,
+      "code": "S.094",
+      "file": "Lise - A2 - Dil Bilgisi - 94.opus",
+      "bytes": 322407,
+      "duration": 45.316167,
+      "encodedDuration": 45.316167,
+      "channels": 2,
+      "sha256": "ab94da02947c588754f28807d9280e785abe360326940c58d327090c2b08f9e6"
+    },
+    "S.095": {
+      "number": 95,
+      "code": "S.095",
+      "file": "Lise - A2 - Dil Bilgisi - 95.opus",
+      "bytes": 440487,
+      "duration": 58.158521,
+      "encodedDuration": 58.158521,
+      "channels": 2,
+      "sha256": "59d704109cbf46b084d7e61ae531f2f3296b6cbdadc6a68f0196082add4a5695"
+    },
+    "S.096": {
+      "number": 96,
+      "code": "S.096",
+      "file": "Lise - A2 - Dil Bilgisi - 96.opus",
+      "bytes": 191350,
+      "duration": 36.845646,
+      "encodedDuration": 36.845646,
+      "channels": 1,
+      "sha256": "cae97ac6308ed78b63c3e28203025d4d415654473696293e2151ac54573ec801"
+    },
+    "S.097": {
+      "number": 97,
+      "code": "S.097",
+      "file": "Lise - A2 - Dil Bilgisi - 97.opus",
+      "bytes": 238642,
+      "duration": 44.040896,
+      "encodedDuration": 44.040896,
+      "channels": 1,
+      "sha256": "e0e0c7657aab7f4e00feb2a883cebdb9590660a3758cd9699c3cc5610d5235da"
+    },
+    "S.098": {
+      "number": 98,
+      "code": "S.098",
+      "file": "Lise - A2 - Dil Bilgisi - 98.opus",
+      "bytes": 635051,
+      "duration": 84.944958,
+      "encodedDuration": 84.944958,
+      "channels": 2,
+      "sha256": "acc0db65652e0e7920a2fa6746eee7e2629856f63037bbc51b98de750f7693ac"
+    },
+    "S.099": {
+      "number": 99,
+      "code": "S.099",
+      "file": "Lise - A2 - Dil Bilgisi - 99.opus",
+      "bytes": 183795,
+      "duration": 32.194646,
+      "encodedDuration": 32.194646,
+      "channels": 1,
+      "sha256": "4d8de72a969bb2fd864ef766658f62ef07e4fca2d60599c648a89970ef8da416"
+    },
+    "S.100": {
+      "number": 100,
+      "code": "S.100",
+      "file": "Lise - A2 - Dil Bilgisi - 100.opus",
+      "bytes": 551828,
+      "duration": 73.606646,
+      "encodedDuration": 73.606646,
+      "channels": 2,
+      "sha256": "3a9011418fc24b0da1fd4622dee952cb33c88c297756bace4f9289c75db56447"
+    },
+    "S.101": {
+      "number": 101,
+      "code": "S.101",
+      "file": "Lise - A2 - Dil Bilgisi - 101.opus",
+      "bytes": 143580,
+      "duration": 27.225208,
+      "encodedDuration": 27.225208,
+      "channels": 1,
+      "sha256": "2d2cd50c613712dc9fe9dffcf3ea1c4c58dc5557a0775ea52786b4a61a0f0c1d"
+    },
+    "S.102": {
+      "number": 102,
+      "code": "S.102",
+      "file": "Lise - A2 - Dil Bilgisi - 102.opus",
+      "bytes": 160192,
+      "duration": 30.558646,
+      "encodedDuration": 30.558646,
+      "channels": 1,
+      "sha256": "09dd819aa549ee5e9ca9cf05f2b73b660c78e74d6df237f81d0b42d302d82107"
+    },
+    "S.103": {
+      "number": 103,
+      "code": "S.103",
+      "file": "Lise - A2 - Dil Bilgisi - 103.opus",
+      "bytes": 502967,
+      "duration": 67.822625,
+      "encodedDuration": 67.822625,
+      "channels": 2,
+      "sha256": "d959a8fa1c51315f3f931ca7d01dcd583b7fac9cdbd9e0448858d3b9a0a5b4a3"
+    },
+    "S.104": {
+      "number": 104,
+      "code": "S.104",
+      "file": "Lise - A2 - Dil Bilgisi - 104.opus",
+      "bytes": 674187,
+      "duration": 87.360417,
+      "encodedDuration": 87.360417,
+      "channels": 2,
+      "sha256": "ed16479ec3aea35055504a85eb5008f64240831b46931c7e3bc8ba175cfe4716"
+    },
+    "S.105": {
+      "number": 105,
+      "code": "S.105",
+      "file": "Lise - A2 - Dil Bilgisi - 105.opus",
+      "bytes": 144601,
+      "duration": 27.830646,
+      "encodedDuration": 27.830646,
+      "channels": 1,
+      "sha256": "8dedbdf8578e74b9b4bb9d93e06b999709a3d1d97bd2acb21ac519599fe15d52"
+    },
+    "S.106": {
+      "number": 106,
+      "code": "S.106",
+      "file": "Lise - A2 - Dil Bilgisi - 106.opus",
+      "bytes": 190598,
+      "duration": 36.030604,
+      "encodedDuration": 36.030604,
+      "channels": 1,
+      "sha256": "85d67c2837117335be64c1ed057db1ea2dcefbf184463dca5988f31b2233b4a6"
+    },
+    "S.107": {
+      "number": 107,
+      "code": "S.107",
+      "file": "Lise - A2 - Dil Bilgisi - 107.opus",
+      "bytes": 602028,
+      "duration": 78.558938,
+      "encodedDuration": 78.558938,
+      "channels": 2,
+      "sha256": "e9d3066fa215ce4d1a8234ade895e8fae13f241409384986fc09f6518a1bb060"
+    },
+    "S.107.1": {
+      "number": 107,
+      "code": "S.107.1",
+      "file": "Lise - A2 - Dil Bilgisi - 107.1.opus",
+      "bytes": 728944,
+      "duration": 91.147917,
+      "encodedDuration": 91.147917,
+      "channels": 2,
+      "sha256": "22f1eb82764440f2765947d8b12e1329650a059f4b8f62df17c840cb39d2ac44"
+    },
+    "S.107.2": {
+      "number": 107,
+      "code": "S.107.2",
+      "file": "Lise - A2 - Dil Bilgisi - 107.2.opus",
+      "bytes": 248953,
+      "duration": 44.4785,
+      "encodedDuration": 44.4785,
+      "channels": 1,
+      "sha256": "fd1c2f180b537c941ed2cf0a296935b15b412896e352ba893adf58bd2e0b4c13"
+    },
+    "S.107.3": {
+      "number": 107,
+      "code": "S.107.3",
+      "file": "Lise - A2 - Dil Bilgisi - 107.3.opus",
+      "bytes": 149643,
+      "duration": 27.252875,
+      "encodedDuration": 27.252875,
+      "channels": 1,
+      "sha256": "62500a204d5207f47e355f0fe5276b19fc01f65760d2432b4b86428ea464c9c3"
+    },
+    "S.108": {
+      "number": 108,
+      "code": "S.108",
+      "file": "Lise - A2 - Dil Bilgisi - 108.opus",
+      "bytes": 259031,
+      "duration": 47.089,
+      "encodedDuration": 47.089,
+      "channels": 1,
+      "sha256": "fac3c240de5c08614666439536e7e2e3e9a5e2d5733178b0c75dfa44c56c3df5"
+    },
+    "S.109": {
+      "number": 109,
+      "code": "S.109",
+      "file": "Lise - A2 - Dil Bilgisi - 109.opus",
+      "bytes": 511848,
+      "duration": 70.513354,
+      "encodedDuration": 70.513354,
+      "channels": 2,
+      "sha256": "d6c7d1c4e90b1d2fb02eae5f33af6b51c49a88bbcca792141a82f01f06f5de68"
+    },
+    "S.110": {
+      "number": 110,
+      "code": "S.110",
+      "file": "Lise - A2 - Dil Bilgisi - 110.opus",
+      "bytes": 173837,
+      "duration": 33.926833,
+      "encodedDuration": 33.926833,
+      "channels": 1,
+      "sha256": "ed3adac95beef0f694dea894169ee650b08d470580f83906d872e17570080521"
+    },
+    "S.111": {
+      "number": 111,
+      "code": "S.111",
+      "file": "Lise - A2 - Dil Bilgisi - 111.opus",
+      "bytes": 278831,
+      "duration": 50.116646,
+      "encodedDuration": 50.116646,
+      "channels": 1,
+      "sha256": "57b2da54496aa612c260ee1b065018f0ffab953f79e0e3c35caecd3b9ba41474"
+    },
+    "S.112": {
+      "number": 112,
+      "code": "S.112",
+      "file": "Lise - A2 - Dil Bilgisi - 112.opus",
+      "bytes": 739492,
+      "duration": 95.402417,
+      "encodedDuration": 95.402417,
+      "channels": 2,
+      "sha256": "fb2f563f748f808d9bc0c3aef961696c7bae574308b5533a6658980e9e62e65a"
+    },
+    "S.113": {
+      "number": 113,
+      "code": "S.113",
+      "file": "Lise - A2 - Dil Bilgisi - 113.opus",
+      "bytes": 138680,
+      "duration": 25.380458,
+      "encodedDuration": 25.380458,
+      "channels": 1,
+      "sha256": "e29c126f2627f8c7114ad8af387c034ffa9fccee986255e23668dea74f2ba7c1"
+    },
+    "S.114": {
+      "number": 114,
+      "code": "S.114",
+      "file": "Lise - A2 - Dil Bilgisi - 114.opus",
+      "bytes": 557706,
+      "duration": 73.8865,
+      "encodedDuration": 73.8865,
+      "channels": 2,
+      "sha256": "a36f2cdc185e602a3e1eabf058b7ac61c1d886136b01b2fffb2b93e41f4b32af"
+    },
+    "S.115": {
+      "number": 115,
+      "code": "S.115",
+      "file": "Lise - A2 - Dil Bilgisi - 115.opus",
+      "bytes": 165155,
+      "duration": 32.018521,
+      "encodedDuration": 32.018521,
+      "channels": 1,
+      "sha256": "03b15fd802c3212cc2cf707b50b8d79729cae2c425bd16f8aa9aeff83681d2d0"
+    },
+    "S.116": {
+      "number": 116,
+      "code": "S.116",
+      "file": "Lise - A2 - Dil Bilgisi - 116.opus",
+      "bytes": 269281,
+      "duration": 48.986563,
+      "encodedDuration": 48.986563,
+      "channels": 1,
+      "sha256": "042ef5c4578b32693f5bca8f1840755d59913dfa05cf62cf7350156e245e5e92"
+    },
+    "S.117": {
+      "number": 117,
+      "code": "S.117",
+      "file": "Lise - A2 - Dil Bilgisi - 117.opus",
+      "bytes": 565765,
+      "duration": 75.34175,
+      "encodedDuration": 75.34175,
+      "channels": 2,
+      "sha256": "2ab636aa49629571f6f4f88d7d78b14a9a4b540f2feb176f4458c5b912008f75"
+    },
+    "S.118": {
+      "number": 118,
+      "code": "S.118",
+      "file": "Lise - A2 - Dil Bilgisi - 118.opus",
+      "bytes": 182965,
+      "duration": 32.618958,
+      "encodedDuration": 32.618958,
+      "channels": 1,
+      "sha256": "a398bd1509b5c723fa54ad96b926de2f9b89fe0b3c308c35dbcd64915500acab"
     }
   },
   "sourceBytes": 1233662856,
-  "encodedBytes": 28463997,
-  "durationSeconds": 4283.3647083333335
+  "encodedBytes": 44042283,
+  "durationSeconds": 6578.355626333333
 }
