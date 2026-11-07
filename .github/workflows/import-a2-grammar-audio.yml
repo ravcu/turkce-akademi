@@ -10,12 +10,18 @@ permissions:
   contents: write
 concurrency:
   group: import-a2-grammar-audio
-  cancel-in-progress: false
+  cancel-in-progress: true
 jobs:
   import:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            sesler/Lise-A2-Dilbilgisi-ve-Telaffuz
+            kitaplar/lise-a2-dilbilgisi
+            docs
+          filter: blob:none
       - name: Install audio validation tools
         run: sudo apt-get update -qq && sudo apt-get install -y ffmpeg
       - name: Extract exact recording codes and update manifest
