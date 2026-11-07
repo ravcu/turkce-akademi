@@ -4,12 +4,12 @@ if(/\/(sunum|deneme)\//.test(location.pathname))return;
 function install(){
  const q=s=>document.querySelector(s),stage=q('#stage'),img=q('#pageImage'),book=q('.book'),reader=q('.reader'),sidebar=q('.side-stack'),shell=q('.shell');
  if(!stage||!img||!book||!reader||!sidebar||!shell||document.body.classList.contains('ta-unified-pdf'))return;
- const css=document.createElement('link');css.rel='stylesheet';css.href='/turkce-akademi/assets/css/pdf-workspace.css?v=20261108-mobile2';document.head.append(css);
+ const css=document.createElement('link');css.rel='stylesheet';css.href='/turkce-akademi/assets/css/pdf-workspace.css?v=20261108-mobile3';document.head.append(css);
  const title=q('.heading h1')?.textContent||document.title.split('|')[0],eyebrow=q('.eyebrow')?.textContent||'Türkçe Kitabı';
  const oldHeader=q('header'),language=q('.ta-ui-language'),toolbar=q('.toolbar'),nav=q('.reader-actions')||q('.unit-navigation');
  const bar=document.createElement('header');bar.className='demo-bar';
  const name=document.createElement('div');name.className='demo-book-title';const level=document.createElement('small');level.textContent=eyebrow.replace(/Lise(?!-Yetişkin)/g,'Lise-Yetişkin');const heading=document.createElement('strong');heading.textContent=title;name.append(level,heading);bar.append(name);
- if(language)bar.append(language);if(nav){bar.append(nav);nav.querySelectorAll('.presentation-link').forEach(a=>a.hidden=true)}if(toolbar)bar.append(toolbar);
+ if(nav)nav.querySelectorAll('a.unit-nav-button').forEach(a=>{if(a.textContent.includes('→'))a.classList.add('unit-nav-next')});if(language)bar.append(language);if(nav){bar.append(nav);nav.querySelectorAll('.presentation-link').forEach(a=>a.hidden=true)}if(toolbar)bar.append(toolbar);
  const controls=document.createElement('div');controls.className='demo-controls';const full=document.createElement('button');full.id='demoFull';full.type='button';full.textContent='⛶ Tam ekran';controls.append(full);bar.append(controls);
  const brand=document.createElement('a');brand.className='academy-home';brand.href='/turkce-akademi/';brand.setAttribute('aria-label','Türkçe Akademi · Ana sayfaya dön');brand.innerHTML='<strong>TÜRKÇE AKADEMİ</strong><span class="academy-tagline">DÜNYANIN TÜRKÇE ÖĞRENME PLATFORMU</span><span class="academy-return">← Ana sayfaya dön</span>';bar.append(brand);
  if(oldHeader)oldHeader.replaceWith(bar);else document.body.prepend(bar);

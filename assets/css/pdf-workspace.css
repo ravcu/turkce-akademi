@@ -150,3 +150,10 @@ html,body{height:100%;overflow:hidden}body{background:#e8eeeb}.demo-bar{height:5
 .ta-unified-pdf .reader,.ta-unified-pdf .book{width:100%;max-width:100%;min-width:0}
 .ta-unified-pdf .book>#thumbrail,.ta-unified-pdf .ta-mobile-page-nav{min-width:0;max-width:100%}
 }
+
+@media(max-width:800px) and (min-width:640px) and (max-height:500px){
+.ta-unified-pdf .demo-bar{height:52px;min-height:52px;max-height:52px;flex-wrap:nowrap!important;align-items:center;align-content:center}
+.ta-unified-pdf .shell{height:calc(100dvh - 52px)}
+.ta-unified-pdf .unit-picker-list{top:54px;max-height:calc(100dvh - 65px)}
+.ta-mobile-backdrop{top:52px}
+}
