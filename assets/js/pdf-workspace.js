@@ -34,6 +34,11 @@ function install(){
  new ResizeObserver(layout).observe(viewport);new ResizeObserver(align).observe(stage);new ResizeObserver(layout).observe(reader);
  img.addEventListener('load',layout);window.addEventListener('resize',layout);viewport.addEventListener('scroll',align,{passive:true});css.addEventListener('load',layout);
  if(nav){const summary=nav.querySelector('summary.unit-mark');if(summary){const number=(summary.textContent.match(/\d+/)||[])[0];if(number)summary.textContent=number+'. ÜNİTE';}}
+ const mobileButton=document.createElement('button');mobileButton.className='ta-mobile-tools';mobileButton.textContent='Çalışma';mobileButton.type='button';mobileButton.setAttribute('aria-expanded','false');controls.prepend(mobileButton);
+ const mobileClose=document.createElement('button');mobileClose.className='ta-mobile-close';mobileClose.type='button';mobileClose.textContent='×';mobileClose.setAttribute('aria-label','Çalışma panelini kapat');sideHeading.append(mobileClose);
+ function mobilePanel(open){document.body.classList.toggle('ta-mobile-panel-open',open);mobileButton.setAttribute('aria-expanded',String(open));}
+ mobileButton.onclick=()=>mobilePanel(!document.body.classList.contains('ta-mobile-panel-open'));mobileClose.onclick=()=>mobilePanel(false);
+ q('#hotspots')?.addEventListener('click',e=>{if(innerWidth<=800&&e.target.closest('.word-hit'))mobilePanel(true)});
  layout();window.TAPdfWorkspace={version:1,layout,fit:()=>{mode='fit';layout()}};
 }
 if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',()=>setTimeout(install,0),{once:true});else setTimeout(install,0);

@@ -97,3 +97,5 @@ html,body{height:100%;overflow:hidden}body{background:#e8eeeb}.demo-bar{height:5
 
 /* Shared reader adjustments. */
 .shell>p{display:none}.demo-brand{display:none!important}.ta-unified-pdf .demo-book-title{margin-left:4px}.ta-unified-pdf .demo-bar .unit-nav-button{min-width:0}.ta-unified-pdf .stage.turn{animation:none!important}.ta-unified-pdf .demo-bar .unit-picker-list{z-index:100}.ta-unified-pdf .side-stack>.panel{flex-shrink:0}.ta-unified-pdf .demo-bar #count{display:none!important}
+
+.ta-mobile-tools,.ta-mobile-close{display:none}@media(max-width:800px){.ta-mobile-tools,.ta-mobile-close{display:inline-block}.ta-mobile-close{margin-left:auto;border:1px solid #c5d9ce;border-radius:6px;background:white}.ta-unified-pdf .side-stack{display:none}.ta-unified-pdf.ta-mobile-panel-open .side-stack{display:flex}.ta-unified-pdf .demo-panel-heading{display:flex}.ta-unified-pdf .demo-bar{overflow-x:auto}.ta-unified-pdf .academy-home{display:none}}
