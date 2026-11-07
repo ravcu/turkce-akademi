@@ -14,7 +14,7 @@
   if(!window.__taPdfWorkspaceLoader){
     window.__taPdfWorkspaceLoader=true;
     const workspace=document.createElement('script');
-    workspace.src='/turkce-akademi/assets/js/pdf-workspace.js?v=20261108-mobile1';
+    workspace.src='/turkce-akademi/assets/js/pdf-workspace.js?v=20261108-mobile2';
     workspace.defer=true;
     document.head.appendChild(workspace);
   }

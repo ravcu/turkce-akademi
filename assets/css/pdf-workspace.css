@@ -144,3 +144,9 @@ html,body{height:100%;overflow:hidden}body{background:#e8eeeb}.demo-bar{height:5
 @media(max-width:360px){.ta-unified-pdf .demo-bar{padding-left:4px;padding-right:4px;gap:4px}.ta-unified-pdf .academy-home{flex-basis:95px}.ta-unified-pdf .academy-home strong{font-size:10px}.ta-unified-pdf .demo-bar .unit-nav-button{width:34px;min-width:34px;flex-basis:34px}.ta-unified-pdf .demo-book-title{max-width:calc(100% - 180px)}}
 @media(max-width:800px) and (max-height:500px){.ta-unified-pdf .book>#thumbrail{flex-basis:62px;height:62px;min-height:62px;max-height:62px}.ta-unified-pdf #thumbrail .thumb{height:55px;flex-basis:43px;width:43px}.ta-unified-pdf #thumbrail .thumb img{height:34px;width:35px}.ta-unified-pdf .ta-mobile-page-nav{flex-basis:38px}.ta-mobile-page-nav button{min-height:36px}}
 @media(prefers-reduced-motion:reduce){.ta-unified-pdf *{scroll-behavior:auto!important;animation:none!important;transition:none!important}}
+
+@media(max-width:800px){
+.ta-unified-pdf .shell{grid-template-columns:minmax(0,1fr)}
+.ta-unified-pdf .reader,.ta-unified-pdf .book{width:100%;max-width:100%;min-width:0}
+.ta-unified-pdf .book>#thumbrail,.ta-unified-pdf .ta-mobile-page-nav{min-width:0;max-width:100%}
+}

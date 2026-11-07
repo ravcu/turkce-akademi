@@ -4,7 +4,7 @@ if(/\/(sunum|deneme)\//.test(location.pathname))return;
 function install(){
  const q=s=>document.querySelector(s),stage=q('#stage'),img=q('#pageImage'),book=q('.book'),reader=q('.reader'),sidebar=q('.side-stack'),shell=q('.shell');
  if(!stage||!img||!book||!reader||!sidebar||!shell||document.body.classList.contains('ta-unified-pdf'))return;
- const css=document.createElement('link');css.rel='stylesheet';css.href='/turkce-akademi/assets/css/pdf-workspace.css?v=20261108-mobile1';document.head.append(css);
+ const css=document.createElement('link');css.rel='stylesheet';css.href='/turkce-akademi/assets/css/pdf-workspace.css?v=20261108-mobile2';document.head.append(css);
  const title=q('.heading h1')?.textContent||document.title.split('|')[0],eyebrow=q('.eyebrow')?.textContent||'Türkçe Kitabı';
  const oldHeader=q('header'),language=q('.ta-ui-language'),toolbar=q('.toolbar'),nav=q('.reader-actions')||q('.unit-navigation');
  const bar=document.createElement('header');bar.className='demo-bar';
@@ -24,7 +24,7 @@ function install(){
  let mode='fit',factor=1,frame=0;
  const scale=document.createElement('button');scale.id='demoScale';scale.type='button';scale.className='iconbtn pagecount';scale.title='Sayfanın tamamını ekrana sığdır';scale.setAttribute('aria-label','Sayfayı ekrana sığdır');q('#zoomOut')?.before(scale);scale.onclick=()=>{mode='fit';factor=1;layout()};
  function align(){const p=stage.getBoundingClientRect(),h=bar.getBoundingClientRect();if(p.width>0){const left=p.left+p.width/2-h.left;if(brand.style.left!==left+'px')brand.style.left=left+'px';zone.style.setProperty('--demo-page-half',p.width/2+'px')}}
- function layout(){cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{if(img.naturalWidth){const ratio=img.naturalHeight/img.naturalWidth;const fitWidth=Math.min(viewport.clientWidth-2,(viewport.clientHeight-2)/ratio);const width=Math.max(50,mode==='fit'?fitWidth:(innerWidth<=800?fitWidth:680)*factor);const px=Math.round(width)+'px';if(stage.style.width!==px)stage.style.width=px;stage.style.maxWidth='none';stage.style.margin='0 auto';scale.textContent=Math.round(width/680*100)+'%'}for(const [b,id]of arrows)b.disabled=!!q('#'+id)?.disabled;align()})}
+ function layout(){cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{if(img.naturalWidth){const ratio=img.naturalHeight/img.naturalWidth;const fitWidth=innerWidth<=800&&viewport.clientHeight<260?viewport.clientWidth-2:Math.min(viewport.clientWidth-2,(viewport.clientHeight-2)/ratio);const width=Math.max(50,mode==='fit'?fitWidth:(innerWidth<=800?fitWidth:680)*factor);const px=Math.round(width)+'px';if(stage.style.width!==px)stage.style.width=px;stage.style.maxWidth='none';stage.style.margin='0 auto';scale.textContent=Math.round(width/680*100)+'%'}for(const [b,id]of arrows)b.disabled=!!q('#'+id)?.disabled;align()})}
  if(q('#zoomIn'))q('#zoomIn').onclick=()=>{factor=Math.min(2.4,factor+.1);mode='large';layout()};if(q('#zoomOut'))q('#zoomOut').onclick=()=>{factor=Math.max(.5,factor-.1);mode='large';layout()};
  full.onclick=async()=>{try{if(document.fullscreenElement)await document.exitFullscreen();else await document.documentElement.requestFullscreen()}catch{const toast=q('#toast');if(toast){toast.textContent='Tam ekran için F11 tuşunu kullanabilirsiniz.';toast.classList.add('show');setTimeout(()=>toast.classList.remove('show'),2600)}}};
  document.addEventListener('fullscreenchange',()=>{full.textContent=document.fullscreenElement?'⛶ Tam ekrandan çık':'⛶ Tam ekran';layout()});
