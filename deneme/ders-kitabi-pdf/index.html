@@ -563,6 +563,18 @@ summary.setAttribute('aria-label','7. ünite · Ünite seç');
 <script>
 (()=>{const a=document.createElement('a');a.href='/turkce-akademi/';a.className='academy-home';a.setAttribute('aria-label','Türkçe Akademi · Ana sayfaya dön');a.innerHTML='<strong>TÜRKÇE AKADEMİ</strong><span class="academy-tagline">DÜNYANIN TÜRKÇE ÖĞRENME PLATFORMU</span><span class="academy-return">← Ana sayfaya dön</span>';document.querySelector('.demo-bar').append(a)})();
 </script>
+
+<script id="align-brand-to-book">
+(()=>{
+const brand=document.querySelector('.academy-home'),stage=document.querySelector('#stage'),bar=document.querySelector('.demo-bar');let frame=0;
+function align(){cancelAnimationFrame(frame);frame=requestAnimationFrame(()=>{const page=stage.getBoundingClientRect(),header=bar.getBoundingClientRect();if(page.width>0)brand.style.left=(page.left+page.width/2-header.left)+'px';});}
+new ResizeObserver(align).observe(stage);
+new ResizeObserver(align).observe(document.querySelector('.reader'));
+new MutationObserver(align).observe(stage,{attributes:true,attributeFilter:['style']});
+document.querySelector('.page-viewport').addEventListener('scroll',align,{passive:true});
+window.addEventListener('resize',align);document.querySelector('#pageImage').addEventListener('load',align);document.addEventListener('fullscreenchange',align);align();
+})();
+</script>
 </body>
 </html>
 
