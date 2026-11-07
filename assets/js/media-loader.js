@@ -9,6 +9,15 @@
     auto.defer=true;
     document.head.appendChild(auto);
   }
+
+  // All current and future PDF readers share the approved workspace.
+  if(!window.__taPdfWorkspaceLoader){
+    window.__taPdfWorkspaceLoader=true;
+    const workspace=document.createElement('script');
+    workspace.src='/turkce-akademi/assets/js/pdf-workspace.js?v=20261108-1';
+    workspace.defer=true;
+    document.head.appendChild(workspace);
+  }
   const script=document.currentScript;
   const scriptURL=new URL(script.src,document.baseURI);
   const siteRoot=scriptURL.pathname.slice(0,scriptURL.pathname.lastIndexOf('/assets/js/')+1);
