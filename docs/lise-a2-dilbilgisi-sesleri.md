@@ -13,8 +13,8 @@ Her çıktı baştan sona çözümlendi. Süreler kaynaklarla karşılaştırıl
 `assets/js/lise-a2-dilbilgisi-audio.js`, dosya listesini manifestten alır. On PDF okuyucusu bu ortak dosyayı kullanır. Yeni kayıtlar doğru kodla manifeste eklendiğinde okuyucuda otomatik tanınır.
 
 - 1–6. üniteler: tüm özgün kayıtlar mevcut (S.001–S.073).
-- 7. ünite: S.074–S.078 mevcut; S.079–S.084 bekleniyor.
-- 8–10. üniteler: sonraki paket bekleniyor.
+- 7. ünite: S.074–S.084 mevcut; S.081 yüklenen pakette bulunmadığı için pasif.
+- 8–10. üniteler: S.085–S.118 ve S.107.1/S.107.2/S.107.3 mevcut.
 - S.107.1 gibi alt kayıtlar ayrı kimliktir; S.107 dosyasına yönlendirilmez.
 - Eksik kaydın DİNLE düğmesi pasiftir. Sayfa değişince oynatma durur ve kaynak temizlenir.
 - Düğmeler resim boyutu değişince yeniden konumlandırılır; basılı metinlerle çakışma kontrol edilir.
