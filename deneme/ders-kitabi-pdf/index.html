@@ -477,6 +477,37 @@ document.querySelector('#hotspots').addEventListener('click',e=>{
 });
 })();
 </script>
+
+<style id="demo-markup-revision-2">
+#demoFit,#demoLarge,#demoPanel,#demoThumbs,#demoClosePanel{display:none!important}
+.demo-bar>.toolbar{margin-left:auto;order:2}
+.demo-controls{margin-left:8px;order:3;width:auto}
+.demo-bar> .interface-language{order:4}
+.book{display:grid;grid-template-columns:74px minmax(0,1fr);grid-template-rows:minmax(0,1fr) auto;gap:5px;padding:4px}
+.demo-page-zone{grid-column:2;grid-row:1;min-width:0;padding:0 44px}
+.book>#thumbrail,.demo-thumbs .book>#thumbrail{grid-column:1;grid-row:1 / -1;display:flex;flex-direction:column;align-items:center;gap:9px;overflow-x:hidden;overflow-y:auto;max-height:none;height:100%;min-height:0;flex:none;padding:8px 3px;border-right:1px solid #cbd9d1}
+#thumbrail .thumb{flex:0 0 auto;width:56px;padding:2px;border-radius:6px}
+#thumbrail .thumb img{width:100%;height:64px;object-fit:contain}
+#thumbrail .thumb span{font-size:9px;padding:1px}
+.listening-player{grid-column:2;grid-row:2;margin:0 44px}
+.demo-prev{left:max(0px,calc(50% - var(--demo-page-half,260px) - 42px))}
+.demo-next{right:max(0px,calc(50% - var(--demo-page-half,260px) - 42px))}
+.demo-arrow{width:34px;height:54px}
+.demo-panel-closed .reader{grid-template-columns:minmax(0,1fr) 320px}
+.demo-panel-closed .side-stack{display:flex}
+@media(max-width:1150px){.demo-brand>span{display:inline}.demo-bar>.toolbar{margin-left:auto}}
+@media(max-width:800px){.demo-bar{height:52px;flex-wrap:nowrap}.demo-brand>span{display:none}.demo-controls{order:3;width:auto}.demo-controls button{flex:none}.shell{height:calc(100dvh - 52px)}.book{grid-template-columns:49px minmax(0,1fr)}#thumbrail .thumb{width:38px}#thumbrail .thumb img{height:48px}.demo-page-zone{padding:0 34px}.demo-arrow{width:27px}.demo-prev{left:max(0px,calc(50% - var(--demo-page-half,200px) - 32px))}.demo-next{right:max(0px,calc(50% - var(--demo-page-half,200px) - 32px))}.side-stack{top:60px}.demo-panel-closed .reader{grid-template-columns:1fr}.demo-panel-closed .side-stack{display:none}}
+</style>
+<script>
+(()=>{
+const stage=document.querySelector('#stage'),zone=document.querySelector('.demo-page-zone'),rail=document.querySelector('#thumbrail');
+const place=()=>zone.style.setProperty('--demo-page-half',stage.getBoundingClientRect().width/2+'px');
+new ResizeObserver(place).observe(stage);
+new MutationObserver(()=>{const active=rail.querySelector('.thumb.active');if(active){const top=active.offsetTop-rail.offsetTop;if(top<rail.scrollTop||top+active.offsetHeight>rail.scrollTop+rail.clientHeight)rail.scrollTo({top:Math.max(0,top-rail.clientHeight/2),behavior:'smooth'})}}).observe(rail,{subtree:true,attributes:true,attributeFilter:['class']});
+document.querySelector('.demo-hint').innerHTML='<strong>Kitaba dokun, anlamını gör.</strong>Kelime ve kalıp ifadelerin anlamları bu panelde açılır.';
+place();
+})();
+</script>
 </body>
 </html>
 
