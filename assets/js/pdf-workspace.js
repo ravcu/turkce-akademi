@@ -4,7 +4,7 @@ if(/\/(sunum|deneme)\//.test(location.pathname))return;
 function install(){
  const q=s=>document.querySelector(s),stage=q('#stage'),img=q('#pageImage'),book=q('.book'),reader=q('.reader'),sidebar=q('.side-stack'),shell=q('.shell');
  if(!stage||!img||!book||!reader||!sidebar||!shell||document.body.classList.contains('ta-unified-pdf'))return;
- const css=document.createElement('link');css.rel='stylesheet';css.href='/turkce-akademi/assets/css/pdf-workspace.css?v=20261108-1';document.head.append(css);
+ const css=document.createElement('link');css.rel='stylesheet';css.href='/turkce-akademi/assets/css/pdf-workspace.css?v=20261108-2';document.head.append(css);
  const title=q('.heading h1')?.textContent||document.title.split('|')[0],eyebrow=q('.eyebrow')?.textContent||'Türkçe Kitabı';
  const oldHeader=q('header'),language=q('.ta-ui-language'),toolbar=q('.toolbar'),nav=q('.reader-actions')||q('.unit-navigation');
  const bar=document.createElement('header');bar.className='demo-bar';
