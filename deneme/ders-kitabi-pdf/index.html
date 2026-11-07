@@ -508,6 +508,45 @@ document.querySelector('.demo-hint').innerHTML='<strong>Kitaba dokun, anlamını
 place();
 })();
 </script>
+
+<style id="demo-header-and-large-thumbnails">
+.demo-bar{height:52px;min-height:52px;max-height:52px;gap:9px;overflow:visible}
+.demo-book-title{display:flex;flex-direction:column;gap:2px;flex:0 1 auto;min-width:95px;max-width:200px;margin-left:5px}
+.demo-book-title small{font-size:8px;letter-spacing:.07em;color:#087f83;font-weight:800;white-space:nowrap}
+.demo-book-title strong{font-size:15px;line-height:1.1;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.demo-bar .unit-navigation.reader-actions{display:flex;flex:0 0 auto;align-items:center;gap:5px;margin:0 0 0 auto;max-width:none;order:1}
+.demo-bar .reader-actions>.presentation-link{display:none!important}
+.demo-bar .unit-nav-button,.demo-bar .unit-picker>summary.unit-mark{height:30px;min-height:30px;min-width:0;padding:5px 8px;font-size:10px;line-height:1.1;white-space:nowrap;border-radius:8px;margin:0}
+.demo-bar .unit-picker{position:relative;z-index:60;flex-shrink:0}
+.demo-bar .unit-picker>summary.unit-mark{display:flex;gap:4px}
+.demo-bar .unit-nav-next{margin-left:0}
+.demo-bar>.toolbar{margin-left:0;order:2}
+.demo-bar #prev,.demo-bar #next,.demo-bar #count{display:none!important}
+.demo-controls{margin-left:0;order:3}
+.demo-controls button{font-size:10px;padding:6px 7px}
+.demo-bar #demoScale{min-width:32px;font-size:9px}
+.demo-bar .iconbtn{height:28px;min-width:26px}
+.book{grid-template-columns:126px minmax(0,1fr)}
+#thumbrail .thumb{width:104px;padding:3px}
+#thumbrail .thumb img{height:132px;width:100%;object-fit:contain}
+#thumbrail .thumb span{font-size:11px;padding:3px}
+.book>#thumbrail{gap:12px;padding:8px 5px}
+@media(max-width:1300px){.demo-brand>span{display:none!important}.demo-book-title{max-width:160px}.demo-bar{gap:6px}.demo-bar .unit-nav-button,.demo-bar .unit-picker>summary.unit-mark{font-size:9px;padding:5px 6px}}
+@media(max-width:1050px){.demo-book-title{max-width:140px}.demo-book-title small{font-size:7px}.demo-book-title strong{font-size:12px}.demo-bar .unit-nav-button{font-size:0;min-width:27px}.demo-bar .unit-nav-button:not(.unit-nav-next)::after{content:'←';font-size:13px}.demo-bar .unit-nav-next::after{content:'→';font-size:13px}.book{grid-template-columns:106px minmax(0,1fr)}#thumbrail .thumb{width:85px}#thumbrail .thumb img{height:110px}}
+@media(max-width:800px){.demo-bar{height:52px;flex-wrap:nowrap}.demo-book-title{min-width:55px;max-width:95px}.demo-book-title small{display:none}.demo-bar .reader-actions>.unit-picker>summary.unit-mark{max-width:85px;overflow:hidden;font-size:8px}.demo-bar .unit-navigation.reader-actions{display:flex;gap:3px}.demo-bar .unit-picker{grid-column:auto}.demo-bar .unit-nav-button{width:25px;height:28px;min-height:28px;padding:2px}.book{grid-template-columns:87px minmax(0,1fr)}#thumbrail .thumb{width:69px}#thumbrail .thumb img{height:90px}.demo-bar #demoScale{display:none}}
+</style>
+<script>
+(()=>{
+const bar=document.querySelector('.demo-bar'),nav=document.querySelector('.heading .reader-actions'),title=document.createElement('div');
+title.className='demo-book-title';
+title.innerHTML='<small>LİSE A2 · DERS KİTABI</small><strong>Akıllı Teknoloji</strong>';
+bar.querySelector('.demo-brand').after(title);
+bar.insertBefore(nav,bar.querySelector('.toolbar'));
+const summary=nav.querySelector('summary.unit-mark');
+summary.textContent='7. ÜNİTE ▾';
+summary.setAttribute('aria-label','7. ünite · Ünite seç');
+})();
+</script>
 </body>
 </html>
 
