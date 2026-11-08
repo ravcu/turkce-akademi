@@ -52,7 +52,8 @@ function launch({ initial = {}, records = {} } = {}) {
   const window = {
     TA_SUPABASE_URL: 'test',
     TA_SUPABASE_ANON_KEY: 'test',
-    TAStudentCloud: cloud
+    TAStudentCloud: cloud,
+    supabase: { createClient: () => cloud.client }
   };
   const context = { window, document, location, Storage, localStorage: storage,
     setTimeout: (fn, delay) => setTimeout(fn, delay === 700 ? 0 : delay),
