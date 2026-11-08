@@ -16,7 +16,8 @@ const api={ready:false,save:async()=>false,load:async()=>null};
 window.TAProgressAuto=api;
 const keys=new Set(),timers=new Map();
 let cloud=null,userId=null,active=false,restoring=false;
-const remoteKey=k=>prefix+k;
+const canonicalKey=k=>/^ta-(?:activities|certificate)-(?:A1|A2|B1|B2|C1)-(?:[1-9]|10)$/.test(k);
+const remoteKey=k=>canonicalKey(k)?k:prefix+k;
 // Observe keys that this page actually accesses. Never scan and upload all other units' localStorage.
 Storage.prototype.getItem=function(k){if(this===localStorage&&keyAllowed(k))keys.add(k);return originalGet.call(this,k)};
 function write(k,v,removed=false){
@@ -28,7 +29,9 @@ function write(k,v,removed=false){
   try{
    const user=await cloud.user();if(!user||user.id!==userId)return;
    const value=localStorage.getItem(k);
-   await cloud.save(remoteKey(k),removed||value===null?{deleted:true}:{value});
+   if(removed||value===null)await cloud.save(remoteKey(k),{deleted:true});
+   else if(canonicalKey(k))await cloud.save(remoteKey(k),JSON.parse(value));
+   else await cloud.save(remoteKey(k),{value});
   }catch(e){console.warn('Otomatik ilerleme kaydedilemedi:',e)}
  },700));
 }
@@ -73,21 +76,34 @@ async function init(){
     .select('progress_key,payload').eq('user_id',userId)
     .like('progress_key',prefix+'%').limit(500);
   if(error)throw error;
+  // Assessment results and certificates use the same account-wide keys as the
+  // activity hub. Without this, a test can appear completed on one device but
+  // absent from the certificate or another device.
+  const sharedKeys=[...keys].filter(canonicalKey);
+  const shared=sharedKeys.length?await cloud.loadMany(sharedKeys):new Map();
+  const sharedRecords=[...shared].map(([progress_key,payload])=>({progress_key,payload}));
   let changed=changedUser;
   const returned=new Set();
-  for(const record of data||[]){
-   const key=record.progress_key.slice(prefix.length);
+  for(const record of [...(data||[]),...sharedRecords]){
+   const key=canonicalKey(record.progress_key)?record.progress_key:record.progress_key.slice(prefix.length);
    if(!keyAllowed(key))continue;
    returned.add(key);keys.add(key);
    if(record.payload?.deleted===true){
     if(localStorage.getItem(key)!==null){originalRemove.call(localStorage,key);changed=true}
+   }else if(canonicalKey(key)){
+    const value=JSON.stringify(record.payload);
+    if(localStorage.getItem(key)!==value){originalSet.call(localStorage,key,value);changed=true}
    }else if(typeof record.payload?.value==='string'&&localStorage.getItem(key)!==record.payload.value){
     originalSet.call(localStorage,key,record.payload.value);changed=true
    }
   }
   for(const k of keys){
    if(!returned.has(k)&&localStorage.getItem(k)!==null&&!changedUser){
-    await cloud.save(remoteKey(k),{value:localStorage.getItem(k)})
+    const localValue=localStorage.getItem(k);
+    if(canonicalKey(k)){
+     try{await cloud.save(remoteKey(k),JSON.parse(localValue))}
+     catch(e){console.warn('Etkinlik sonuçları okunamadı:',e)}
+    }else await cloud.save(remoteKey(k),{value:localValue})
    }
   }
   restoring=false;active=true;api.ready=true;

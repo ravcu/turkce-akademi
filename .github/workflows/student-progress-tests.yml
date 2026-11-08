@@ -1,0 +1,27 @@
+name: Student progress synchronization tests
+on:
+  pull_request:
+    paths:
+      - 'assets/js/ta-progress-auto.js'
+      - 'tests/student-auto-progress.test.cjs'
+      - '.github/workflows/student-progress-tests.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  student-progress:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          sparse-checkout: |
+            assets/js
+            tests
+          filter: blob:none
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Test student progress synchronization
+        run: node --test tests/student-auto-progress.test.cjs
