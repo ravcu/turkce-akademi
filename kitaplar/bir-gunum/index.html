@@ -41,6 +41,7 @@
     .answer-overlay[hidden]{display:none}
     .stage{container-type:inline-size}
     .answer-box{position:absolute;display:block;box-sizing:border-box;overflow:hidden;color:#075d61;background:transparent;border:0;padding:0;font-weight:650;line-height:1.45;white-space:normal;overflow-wrap:break-word;pointer-events:none}
+    .answer-box-tick{text-align:center;font-weight:800;line-height:1.1}.answer-box-underline{border-bottom:1.5px solid #087f83;line-height:0}.answer-box-note{background:#fffffff0;border-radius:3px;padding:1px 3px}.answer-box-pending{color:#855116}.answer-box{white-space:pre-line}
     .answer-fill{position:absolute;display:block;overflow:hidden;padding:0;color:#125f4d;background:transparent;border:0;border-radius:0;font-size:clamp(5px,1.35cqw,9px);font-weight:750;line-height:1;white-space:nowrap;text-overflow:clip}
     .answer-fill.answer-underline{color:transparent;text-decoration:underline;text-decoration-color:#125f4d;text-decoration-thickness:1.4px;text-underline-offset:1px}
     .answer-links{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
@@ -198,7 +199,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
       boxes.forEach(box=>{
         const {x,y,w,h}=box;
         if(![x,y,w,h].every(Number.isFinite)||x<0||y<0||w<=0||h<=0||x+w>1||y+h>1)return;
-        const el=document.createElement('div');el.className='answer-box';el.textContent=box.text;
+        const el=document.createElement('div');el.className='answer-box'+(['tick','underline','note','pending'].includes(box.kind)?' answer-box-'+box.kind:'');el.textContent=box.text;
         el.setAttribute('role','note');el.setAttribute('aria-label',box.label||'Cevap');
         Object.assign(el.style,{left:`${x*100}%`,top:`${y*100}%`,width:`${w*100}%`,height:`${h*100}%`,fontSize:`${box.fontSize||1.22}cqw`});
         overlay.append(el);
