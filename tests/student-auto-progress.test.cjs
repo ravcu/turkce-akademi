@@ -100,5 +100,5 @@ test('ordinary page progress remains namespaced', async () => {
   const keys = [...a.writes.keys()].filter(k => k.includes('example-position'));
   assert.equal(keys.length, 1);
   assert.match(keys[0], /^ta-auto-[a-z0-9]+-ta-example-position$/);
-  assert.deepEqual(a.writes.get(keys[0]), { value: '7' });
+  assert.equal(JSON.stringify(a.writes.get(keys[0])), JSON.stringify({ value: '7' }));
 });
