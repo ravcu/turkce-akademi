@@ -63,7 +63,49 @@
       }
     ],
     "note": "7. etkinlikteki “540 GB” ifadesi okuma metnindeki 256 GB ile tutarsızdır; metin 256 GB diyor.",
-    "bookPage": 138
+    "bookPage": 138,
+    "boxes": [
+      {
+        "x": 0.295,
+        "y": 0.232,
+        "w": 0.34,
+        "h": 0.018,
+        "text": "4000 mAh batarya",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 138 cevabı"
+      },
+      {
+        "x": 0.295,
+        "y": 0.252,
+        "w": 0.34,
+        "h": 0.018,
+        "text": "Diğer cihazlara bağlantı",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 138 cevabı"
+      },
+      {
+        "x": 0.295,
+        "y": 0.272,
+        "w": 0.34,
+        "h": 0.018,
+        "text": "20 MP arka kamera",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 138 cevabı"
+      },
+      {
+        "x": 0.295,
+        "y": 0.29200000000000004,
+        "w": 0.34,
+        "h": 0.018,
+        "text": "256 GB hafıza",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 138 cevabı"
+      }
+    ]
   },
   "5": {
     "sections": [
@@ -205,7 +247,169 @@
         ]
       }
     ],
-    "bookPage": 147
+    "bookPage": 147,
+    "boxes": [
+      {
+        "x": 0.18,
+        "y": 0.765,
+        "w": 0.56,
+        "h": 0.019,
+        "text": "Sık sık kapanıyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.18,
+        "y": 0.787,
+        "w": 0.56,
+        "h": 0.019,
+        "text": "Çok çabuk ısınıyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.18,
+        "y": 0.809,
+        "w": 0.56,
+        "h": 0.019,
+        "text": "Şarjı çabuk bitiyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.18,
+        "y": 0.831,
+        "w": 0.56,
+        "h": 0.019,
+        "text": "Hoparlörü çalışmıyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.18,
+        "y": 0.853,
+        "w": 0.56,
+        "h": 0.019,
+        "text": "Bazı klavye tuşları çalışmıyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.18,
+        "y": 0.875,
+        "w": 0.56,
+        "h": 0.019,
+        "text": "Yazıcıya bağlanmıyor; fare takılıyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.82,
+        "y": 0.27,
+        "w": 0.035,
+        "h": 0.019,
+        "text": "3",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.82,
+        "y": 0.295,
+        "w": 0.035,
+        "h": 0.019,
+        "text": "2",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.82,
+        "y": 0.318,
+        "w": 0.035,
+        "h": 0.019,
+        "text": "6",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.82,
+        "y": 0.352,
+        "w": 0.035,
+        "h": 0.019,
+        "text": "7",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.82,
+        "y": 0.386,
+        "w": 0.035,
+        "h": 0.019,
+        "text": "4",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.82,
+        "y": 0.419,
+        "w": 0.035,
+        "h": 0.019,
+        "text": "5",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.39,
+        "y": 0.607,
+        "w": 0.47,
+        "h": 0.019,
+        "text": "18.10.2022",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.39,
+        "y": 0.633,
+        "w": 0.47,
+        "h": 0.019,
+        "text": "Teknoloji Market Genel Müdürlüğü",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.39,
+        "y": 0.658,
+        "w": 0.47,
+        "h": 0.019,
+        "text": "Bilgisayarındaki sorunlar nedeniyle.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      },
+      {
+        "x": 0.39,
+        "y": 0.684,
+        "w": 0.47,
+        "h": 0.019,
+        "text": "Bilgisayarının değiştirilmesini istiyor.",
+        "fontSize": 1.1,
+        "kind": "note",
+        "label": "Kitap sayfası 147 cevabı"
+      }
+    ]
   },
   "14": {
     "sections": [
