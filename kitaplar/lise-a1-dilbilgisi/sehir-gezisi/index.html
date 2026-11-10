@@ -41,6 +41,7 @@
     .answer-overlay{position:absolute;inset:0;z-index:4;pointer-events:none}
     .answer-overlay[hidden]{display:none}
     .stage{container-type:inline-size}
+    .answer-box{position:absolute;display:block;box-sizing:border-box;overflow:hidden;color:#075d61;background:transparent;border:0;padding:0;font-family:Arial,Helvetica,sans-serif;font-weight:400;line-height:1.12;white-space:normal;overflow-wrap:break-word;pointer-events:none}.answer-box-tick{text-align:center;font-weight:800;line-height:1.1}.answer-box-underline{border-bottom:1.5px solid #087f83;line-height:0}.answer-box-note{background:#fffffff0;border-radius:3px;padding:1px 3px}.answer-box-pending{color:#855116}.answer-box{white-space:pre-line}
     .answer-fill{position:absolute;display:block;overflow:hidden;padding:0;color:#125f4d;background:transparent;border:0;border-radius:0;font-size:clamp(5px,1.35cqw,9px);font-weight:750;line-height:1;white-space:nowrap;text-overflow:clip}
     .answer-fill.answer-underline{color:transparent;text-decoration:underline;text-decoration-color:#125f4d;text-decoration-thickness:1.4px;text-underline-offset:1px}
     .answer-links{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
@@ -102,7 +103,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
 .heading .reader-actions>.unit-picker>summary::after{font-size:10px}
 }
 </style>
-<style>#answerDetails{display:none}.heading .unit-navigation.reader-actions{display:flex}.heading .reader-actions>.unit-picker{margin-left:auto}.pageimage{image-rendering:auto}</style><style>.page-viewport{width:100%;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}.page-viewport .stage{flex-shrink:0}</style><style id="grammar-unit-navigation-layout">
+<style>.heading .unit-navigation.reader-actions{display:flex}.heading .reader-actions>.unit-picker{margin-left:auto}.pageimage{image-rendering:auto}</style><style>.page-viewport{width:100%;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}.page-viewport .stage{flex-shrink:0}</style><style id="grammar-unit-navigation-layout">
 .heading .unit-navigation.reader-actions{display:flex;justify-content:flex-end;gap:12px;flex-wrap:nowrap}
 .heading .reader-actions>.unit-picker{margin-left:0}
 .heading .reader-actions>.unit-nav-button{min-width:150px}
@@ -179,8 +180,19 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
       (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
     }
     function renderAnswerOverlay(){
-      const overlay=$('#answerOverlay'),data=glossary.answerKeys?.[String(current+1)];overlay.replaceChildren();overlay.hidden=true;
-      if(!$('#answerDetails').open||!Array.isArray(data?.fills)||!data.fills.length)return;
+      const overlay=$('#answerOverlay'),data=glossary.answerKeys?.[String(current+1)];overlay.replaceChildren();overlay.hidden=true;overlay.setAttribute('aria-hidden','true');
+      if(!$('#answerDetails').open||!data)return;
+      const fills=Array.isArray(data.fills)?data.fills:[],boxes=Array.isArray(data.boxes)?data.boxes:[];
+      if(!fills.length&&!boxes.length)return;
+      overlay.setAttribute('aria-hidden','false');
+      boxes.forEach(box=>{
+        const {x,y,w,h}=box;
+        if(![x,y,w,h].every(Number.isFinite)||x<0||y<0||w<=0||h<=0||x+w>1||y+h>1)return;
+        const el=document.createElement('div');el.className='answer-box'+(['tick','underline','note','pending'].includes(box.kind)?' answer-box-'+box.kind:'');el.textContent=box.text;
+        el.setAttribute('role','note');el.setAttribute('aria-label',box.label||'Cevap');
+        Object.assign(el.style,{left:`${x*100}%`,top:`${y*100}%`,width:`${w*100}%`,height:`${h*100}%`,fontSize:`${box.fontSize||1.22}cqw`});
+        overlay.append(el);
+      });
       if(Array.isArray(data.links)&&data.links.length){const svg=document.createElementNS('http://www.w3.org/2000/svg','svg');svg.setAttribute('class','answer-links');svg.setAttribute('viewBox','0 0 950 1202');svg.setAttribute('preserveAspectRatio','none');svg.innerHTML='<defs><marker id="answerArrow" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto"><path d="M0,0 L8,4 L0,8 z" fill="#087f83"></path></marker></defs>';data.links.forEach(link=>{const line=document.createElementNS('http://www.w3.org/2000/svg','line');line.setAttribute('x1',link.x1*950);line.setAttribute('y1',link.y1*1202);line.setAttribute('x2',link.x2*950);line.setAttribute('y2',link.y2*1202);svg.append(line)});overlay.append(svg)}
       const pageWords=pages[current]?.words||[];
       const collides=(x,y,w,h)=>pageWords.some(word=>{
@@ -188,7 +200,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
         const padX=.003,padY=.002;
         return x<word.x+word.w-padX&&x+w>word.x+padX&&y<word.y+word.h-padY&&y+h>word.y+padY;
       });
-      data.fills.forEach(fill=>{
+      fills.forEach(fill=>{
         const answer=document.createElement('span');
         answer.className=`answer-fill${fill.underline?' answer-underline':''}`;
         answer.textContent=fill.text;
