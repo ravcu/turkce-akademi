@@ -1,0 +1,3046 @@
+{
+  "seviye": "A1",
+  "unite": 4,
+  "baslik": "Bir Günüm",
+  "toplam": 434,
+  "kelimeler": [
+    {
+      "id": "a1-u4-001",
+      "turkce": "uyanmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 1
+    },
+    {
+      "id": "a1-u4-002",
+      "turkce": "kalkmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 2
+    },
+    {
+      "id": "a1-u4-003",
+      "turkce": "erken kalkmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 3
+    },
+    {
+      "id": "a1-u4-004",
+      "turkce": "elini yüzünü yıkamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 4
+    },
+    {
+      "id": "a1-u4-005",
+      "turkce": "diş fırçalamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 5
+    },
+    {
+      "id": "a1-u4-006",
+      "turkce": "dişlerini fırçalamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 6
+    },
+    {
+      "id": "a1-u4-007",
+      "turkce": "giyinmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 7
+    },
+    {
+      "id": "a1-u4-008",
+      "turkce": "elbise giymek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 8
+    },
+    {
+      "id": "a1-u4-009",
+      "turkce": "pijama giymek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 9
+    },
+    {
+      "id": "a1-u4-010",
+      "turkce": "yatmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 10
+    },
+    {
+      "id": "a1-u4-011",
+      "turkce": "uyumak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 11
+    },
+    {
+      "id": "a1-u4-012",
+      "turkce": "dinlenmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 12
+    },
+    {
+      "id": "a1-u4-013",
+      "turkce": "kahvaltı etmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 13
+    },
+    {
+      "id": "a1-u4-014",
+      "turkce": "kahvaltı hazırlamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 14
+    },
+    {
+      "id": "a1-u4-015",
+      "turkce": "öğle yemeği yemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 15
+    },
+    {
+      "id": "a1-u4-016",
+      "turkce": "akşam yemeği yemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 16
+    },
+    {
+      "id": "a1-u4-017",
+      "turkce": "yemek yemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 17
+    },
+    {
+      "id": "a1-u4-018",
+      "turkce": "yemek yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 18
+    },
+    {
+      "id": "a1-u4-019",
+      "turkce": "duş almak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 19
+    },
+    {
+      "id": "a1-u4-020",
+      "turkce": "banyo yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 20
+    },
+    {
+      "id": "a1-u4-021",
+      "turkce": "spor yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 21
+    },
+    {
+      "id": "a1-u4-022",
+      "turkce": "okula gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 22
+    },
+    {
+      "id": "a1-u4-023",
+      "turkce": "okuldan çıkmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 23
+    },
+    {
+      "id": "a1-u4-024",
+      "turkce": "eve gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 24
+    },
+    {
+      "id": "a1-u4-025",
+      "turkce": "eve dönmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 25
+    },
+    {
+      "id": "a1-u4-026",
+      "turkce": "evden çıkmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 26
+    },
+    {
+      "id": "a1-u4-027",
+      "turkce": "ders çalışmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 27
+    },
+    {
+      "id": "a1-u4-028",
+      "turkce": "derse girmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 28
+    },
+    {
+      "id": "a1-u4-029",
+      "turkce": "ders dinlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 29
+    },
+    {
+      "id": "a1-u4-030",
+      "turkce": "not almak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 30
+    },
+    {
+      "id": "a1-u4-031",
+      "turkce": "ödev yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 31
+    },
+    {
+      "id": "a1-u4-032",
+      "turkce": "kitap okumak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 32
+    },
+    {
+      "id": "a1-u4-033",
+      "turkce": "müzik dinlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 33
+    },
+    {
+      "id": "a1-u4-034",
+      "turkce": "televizyon izlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 34
+    },
+    {
+      "id": "a1-u4-035",
+      "turkce": "oyun oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 35
+    },
+    {
+      "id": "a1-u4-036",
+      "turkce": "alışverişe gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 36
+    },
+    {
+      "id": "a1-u4-037",
+      "turkce": "arkadaşlarla buluşmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 37
+    },
+    {
+      "id": "a1-u4-038",
+      "turkce": "çay içmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 38
+    },
+    {
+      "id": "a1-u4-039",
+      "turkce": "kahve içmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 39
+    },
+    {
+      "id": "a1-u4-040",
+      "turkce": "Türkçe öğrenmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 40
+    },
+    {
+      "id": "a1-u4-041",
+      "turkce": "gezmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 41
+    },
+    {
+      "id": "a1-u4-042",
+      "turkce": "yardım etmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 42
+    },
+    {
+      "id": "a1-u4-043",
+      "turkce": "çanta hazırlamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 43
+    },
+    {
+      "id": "a1-u4-044",
+      "turkce": "yatağını toplamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 44
+    },
+    {
+      "id": "a1-u4-045",
+      "turkce": "yıkanmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 45
+    },
+    {
+      "id": "a1-u4-046",
+      "turkce": "hazırlamak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 46
+    },
+    {
+      "id": "a1-u4-047",
+      "turkce": "başlamak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 47
+    },
+    {
+      "id": "a1-u4-048",
+      "turkce": "bitmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 48
+    },
+    {
+      "id": "a1-u4-049",
+      "turkce": "gitmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 49
+    },
+    {
+      "id": "a1-u4-050",
+      "turkce": "gelmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 50
+    },
+    {
+      "id": "a1-u4-051",
+      "turkce": "çıkmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 51
+    },
+    {
+      "id": "a1-u4-052",
+      "turkce": "girmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 52
+    },
+    {
+      "id": "a1-u4-053",
+      "turkce": "dönmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 53
+    },
+    {
+      "id": "a1-u4-054",
+      "turkce": "yemek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 54
+    },
+    {
+      "id": "a1-u4-055",
+      "turkce": "içmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 55
+    },
+    {
+      "id": "a1-u4-056",
+      "turkce": "okumak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 56
+    },
+    {
+      "id": "a1-u4-057",
+      "turkce": "yazmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 57
+    },
+    {
+      "id": "a1-u4-058",
+      "turkce": "dinlemek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 58
+    },
+    {
+      "id": "a1-u4-059",
+      "turkce": "anlatmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 59
+    },
+    {
+      "id": "a1-u4-060",
+      "turkce": "söylemek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 60
+    },
+    {
+      "id": "a1-u4-061",
+      "turkce": "yapmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 61
+    },
+    {
+      "id": "a1-u4-062",
+      "turkce": "almak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 62
+    },
+    {
+      "id": "a1-u4-063",
+      "turkce": "vermek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 63
+    },
+    {
+      "id": "a1-u4-064",
+      "turkce": "sevmek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 64
+    },
+    {
+      "id": "a1-u4-065",
+      "turkce": "beklemek",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 65
+    },
+    {
+      "id": "a1-u4-066",
+      "turkce": "buluşmak",
+      "tur": "Kelime",
+      "kategori": "Günlük rutinler ve temel eylemler",
+      "kaynak_sira": 66
+    },
+    {
+      "id": "a1-u4-067",
+      "turkce": "zaman",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 67
+    },
+    {
+      "id": "a1-u4-068",
+      "turkce": "saat",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 68
+    },
+    {
+      "id": "a1-u4-069",
+      "turkce": "saat kaç",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 69
+    },
+    {
+      "id": "a1-u4-070",
+      "turkce": "saat kaçta",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 70
+    },
+    {
+      "id": "a1-u4-071",
+      "turkce": "saat kaçta uyanırsın",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 71
+    },
+    {
+      "id": "a1-u4-072",
+      "turkce": "saat on iki",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 72
+    },
+    {
+      "id": "a1-u4-073",
+      "turkce": "on geçiyor",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 73
+    },
+    {
+      "id": "a1-u4-074",
+      "turkce": "çeyrek geçiyor",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 74
+    },
+    {
+      "id": "a1-u4-075",
+      "turkce": "buçuk",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 75
+    },
+    {
+      "id": "a1-u4-076",
+      "turkce": "çeyrek var",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 76
+    },
+    {
+      "id": "a1-u4-077",
+      "turkce": "on var",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 77
+    },
+    {
+      "id": "a1-u4-078",
+      "turkce": "sabah",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 78
+    },
+    {
+      "id": "a1-u4-079",
+      "turkce": "öğle",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 79
+    },
+    {
+      "id": "a1-u4-080",
+      "turkce": "akşam",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 80
+    },
+    {
+      "id": "a1-u4-081",
+      "turkce": "gece",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 81
+    },
+    {
+      "id": "a1-u4-082",
+      "turkce": "öğleden önce",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 82
+    },
+    {
+      "id": "a1-u4-083",
+      "turkce": "öğleden sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 83
+    },
+    {
+      "id": "a1-u4-084",
+      "turkce": "öğle arası",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 84
+    },
+    {
+      "id": "a1-u4-085",
+      "turkce": "sabahleyin",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 85
+    },
+    {
+      "id": "a1-u4-086",
+      "turkce": "her sabah",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 86
+    },
+    {
+      "id": "a1-u4-087",
+      "turkce": "her akşam",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 87
+    },
+    {
+      "id": "a1-u4-088",
+      "turkce": "her gün",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 88
+    },
+    {
+      "id": "a1-u4-089",
+      "turkce": "gün",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 89
+    },
+    {
+      "id": "a1-u4-090",
+      "turkce": "günde",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 90
+    },
+    {
+      "id": "a1-u4-091",
+      "turkce": "günlük",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 91
+    },
+    {
+      "id": "a1-u4-092",
+      "turkce": "bir gün",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 92
+    },
+    {
+      "id": "a1-u4-093",
+      "turkce": "bir günüm",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 93
+    },
+    {
+      "id": "a1-u4-094",
+      "turkce": "günlük program",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 94
+    },
+    {
+      "id": "a1-u4-095",
+      "turkce": "haftalık program",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 95
+    },
+    {
+      "id": "a1-u4-096",
+      "turkce": "ders programı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 96
+    },
+    {
+      "id": "a1-u4-097",
+      "turkce": "etkinlik programı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 97
+    },
+    {
+      "id": "a1-u4-098",
+      "turkce": "hafta",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 98
+    },
+    {
+      "id": "a1-u4-099",
+      "turkce": "haftalık",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 99
+    },
+    {
+      "id": "a1-u4-100",
+      "turkce": "hafta içi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 100
+    },
+    {
+      "id": "a1-u4-101",
+      "turkce": "hafta sonu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 101
+    },
+    {
+      "id": "a1-u4-102",
+      "turkce": "hafta içi her gün",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 102
+    },
+    {
+      "id": "a1-u4-103",
+      "turkce": "her cumartesi günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 103
+    },
+    {
+      "id": "a1-u4-104",
+      "turkce": "sabah namazından sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 104
+    },
+    {
+      "id": "a1-u4-105",
+      "turkce": "kahvaltıdan sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 105
+    },
+    {
+      "id": "a1-u4-106",
+      "turkce": "kurstan sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 106
+    },
+    {
+      "id": "a1-u4-107",
+      "turkce": "yemekten sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 107
+    },
+    {
+      "id": "a1-u4-108",
+      "turkce": "okuldan sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 108
+    },
+    {
+      "id": "a1-u4-109",
+      "turkce": "spordan sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 109
+    },
+    {
+      "id": "a1-u4-110",
+      "turkce": "ne zaman",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 110
+    },
+    {
+      "id": "a1-u4-111",
+      "turkce": "hangi saatte",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 111
+    },
+    {
+      "id": "a1-u4-112",
+      "turkce": "kaç saat",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 112
+    },
+    {
+      "id": "a1-u4-113",
+      "turkce": "yarım saat",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 113
+    },
+    {
+      "id": "a1-u4-114",
+      "turkce": "bir saat",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 114
+    },
+    {
+      "id": "a1-u4-115",
+      "turkce": "üç saat",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 115
+    },
+    {
+      "id": "a1-u4-116",
+      "turkce": "saatler",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 116
+    },
+    {
+      "id": "a1-u4-117",
+      "turkce": "saat kaçta başlar",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 117
+    },
+    {
+      "id": "a1-u4-118",
+      "turkce": "saat kaçta biter",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 118
+    },
+    {
+      "id": "a1-u4-119",
+      "turkce": "ne sıklıkla",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 119
+    },
+    {
+      "id": "a1-u4-120",
+      "turkce": "erken",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 120
+    },
+    {
+      "id": "a1-u4-121",
+      "turkce": "erkenden",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 121
+    },
+    {
+      "id": "a1-u4-122",
+      "turkce": "geç",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 122
+    },
+    {
+      "id": "a1-u4-123",
+      "turkce": "önce",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 123
+    },
+    {
+      "id": "a1-u4-124",
+      "turkce": "sonra",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 124
+    },
+    {
+      "id": "a1-u4-125",
+      "turkce": "daha sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 125
+    },
+    {
+      "id": "a1-u4-126",
+      "turkce": "-dan önce",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 126
+    },
+    {
+      "id": "a1-u4-127",
+      "turkce": "-dan sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 127
+    },
+    {
+      "id": "a1-u4-128",
+      "turkce": "arasında",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 128
+    },
+    {
+      "id": "a1-u4-129",
+      "turkce": "arası",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 129
+    },
+    {
+      "id": "a1-u4-130",
+      "turkce": "ilk",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 130
+    },
+    {
+      "id": "a1-u4-131",
+      "turkce": "son",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 131
+    },
+    {
+      "id": "a1-u4-132",
+      "turkce": "sıra",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 132
+    },
+    {
+      "id": "a1-u4-133",
+      "turkce": "sıralama",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 133
+    },
+    {
+      "id": "a1-u4-134",
+      "turkce": "oluş sırası",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 134
+    },
+    {
+      "id": "a1-u4-135",
+      "turkce": "bugün",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 135
+    },
+    {
+      "id": "a1-u4-136",
+      "turkce": "yarın",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 136
+    },
+    {
+      "id": "a1-u4-137",
+      "turkce": "her zaman",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 137
+    },
+    {
+      "id": "a1-u4-138",
+      "turkce": "sık sık",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 138
+    },
+    {
+      "id": "a1-u4-139",
+      "turkce": "genellikle",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 139
+    },
+    {
+      "id": "a1-u4-140",
+      "turkce": "bazen",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 140
+    },
+    {
+      "id": "a1-u4-141",
+      "turkce": "asla",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 141
+    },
+    {
+      "id": "a1-u4-142",
+      "turkce": "ara sıra",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 142
+    },
+    {
+      "id": "a1-u4-143",
+      "turkce": "hiç",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 143
+    },
+    {
+      "id": "a1-u4-144",
+      "turkce": "pek",
+      "tur": "Kelime",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 144
+    },
+    {
+      "id": "a1-u4-145",
+      "turkce": "serbest zaman",
+      "tur": "Kalıp / cümle",
+      "kategori": "Zaman, saatler ve günün bölümleri",
+      "kaynak_sira": 145
+    },
+    {
+      "id": "a1-u4-146",
+      "turkce": "pazartesi",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 146
+    },
+    {
+      "id": "a1-u4-147",
+      "turkce": "salı",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 147
+    },
+    {
+      "id": "a1-u4-148",
+      "turkce": "çarşamba",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 148
+    },
+    {
+      "id": "a1-u4-149",
+      "turkce": "perşembe",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 149
+    },
+    {
+      "id": "a1-u4-150",
+      "turkce": "cuma",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 150
+    },
+    {
+      "id": "a1-u4-151",
+      "turkce": "cumartesi",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 151
+    },
+    {
+      "id": "a1-u4-152",
+      "turkce": "pazar",
+      "tur": "Kelime",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 152
+    },
+    {
+      "id": "a1-u4-153",
+      "turkce": "pazartesi günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 153
+    },
+    {
+      "id": "a1-u4-154",
+      "turkce": "salı günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 154
+    },
+    {
+      "id": "a1-u4-155",
+      "turkce": "çarşamba günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 155
+    },
+    {
+      "id": "a1-u4-156",
+      "turkce": "perşembe günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 156
+    },
+    {
+      "id": "a1-u4-157",
+      "turkce": "cuma günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 157
+    },
+    {
+      "id": "a1-u4-158",
+      "turkce": "cumartesi günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 158
+    },
+    {
+      "id": "a1-u4-159",
+      "turkce": "pazar günü",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 159
+    },
+    {
+      "id": "a1-u4-160",
+      "turkce": "haftanın günleri",
+      "tur": "Kalıp / cümle",
+      "kategori": "Haftanın günleri",
+      "kaynak_sira": 160
+    },
+    {
+      "id": "a1-u4-161",
+      "turkce": "okul",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 161
+    },
+    {
+      "id": "a1-u4-162",
+      "turkce": "yaz okulu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 162
+    },
+    {
+      "id": "a1-u4-163",
+      "turkce": "Maarif Yaz Okulu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 163
+    },
+    {
+      "id": "a1-u4-164",
+      "turkce": "öğrenci",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 164
+    },
+    {
+      "id": "a1-u4-165",
+      "turkce": "öğretmen",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 165
+    },
+    {
+      "id": "a1-u4-166",
+      "turkce": "Türkçe öğretmeni",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 166
+    },
+    {
+      "id": "a1-u4-167",
+      "turkce": "müzik öğretmeni",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 167
+    },
+    {
+      "id": "a1-u4-168",
+      "turkce": "ders",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 168
+    },
+    {
+      "id": "a1-u4-169",
+      "turkce": "Türkçe dersi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 169
+    },
+    {
+      "id": "a1-u4-170",
+      "turkce": "İngilizce",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 170
+    },
+    {
+      "id": "a1-u4-171",
+      "turkce": "matematik",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 171
+    },
+    {
+      "id": "a1-u4-172",
+      "turkce": "geometri",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 172
+    },
+    {
+      "id": "a1-u4-173",
+      "turkce": "fizik",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 173
+    },
+    {
+      "id": "a1-u4-174",
+      "turkce": "kimya",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 174
+    },
+    {
+      "id": "a1-u4-175",
+      "turkce": "biyoloji",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 175
+    },
+    {
+      "id": "a1-u4-176",
+      "turkce": "coğrafya",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 176
+    },
+    {
+      "id": "a1-u4-177",
+      "turkce": "tarih",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 177
+    },
+    {
+      "id": "a1-u4-178",
+      "turkce": "edebiyat",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 178
+    },
+    {
+      "id": "a1-u4-179",
+      "turkce": "felsefe",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 179
+    },
+    {
+      "id": "a1-u4-180",
+      "turkce": "beden eğitimi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 180
+    },
+    {
+      "id": "a1-u4-181",
+      "turkce": "resim",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 181
+    },
+    {
+      "id": "a1-u4-182",
+      "turkce": "müzik",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 182
+    },
+    {
+      "id": "a1-u4-183",
+      "turkce": "sınıf",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 183
+    },
+    {
+      "id": "a1-u4-184",
+      "turkce": "dördüncü sınıf",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 184
+    },
+    {
+      "id": "a1-u4-185",
+      "turkce": "kütüphane",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 185
+    },
+    {
+      "id": "a1-u4-186",
+      "turkce": "yemekhane",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 186
+    },
+    {
+      "id": "a1-u4-187",
+      "turkce": "yurt",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 187
+    },
+    {
+      "id": "a1-u4-188",
+      "turkce": "spor salonu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 188
+    },
+    {
+      "id": "a1-u4-189",
+      "turkce": "yüzme havuzu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 189
+    },
+    {
+      "id": "a1-u4-190",
+      "turkce": "bahçe",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 190
+    },
+    {
+      "id": "a1-u4-191",
+      "turkce": "kurs",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 191
+    },
+    {
+      "id": "a1-u4-192",
+      "turkce": "resim kursu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 192
+    },
+    {
+      "id": "a1-u4-193",
+      "turkce": "Türkçe kursu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 193
+    },
+    {
+      "id": "a1-u4-194",
+      "turkce": "halk oyunları kursu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 194
+    },
+    {
+      "id": "a1-u4-195",
+      "turkce": "güzel yazı kursu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 195
+    },
+    {
+      "id": "a1-u4-196",
+      "turkce": "ebru kursu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 196
+    },
+    {
+      "id": "a1-u4-197",
+      "turkce": "takı tasarımı kursu",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 197
+    },
+    {
+      "id": "a1-u4-198",
+      "turkce": "sinema saati",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 198
+    },
+    {
+      "id": "a1-u4-199",
+      "turkce": "gezi programı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 199
+    },
+    {
+      "id": "a1-u4-200",
+      "turkce": "haftalık etkinlik programı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 200
+    },
+    {
+      "id": "a1-u4-201",
+      "turkce": "okul programı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 201
+    },
+    {
+      "id": "a1-u4-202",
+      "turkce": "ders saati",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 202
+    },
+    {
+      "id": "a1-u4-203",
+      "turkce": "kahvaltı saati",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 203
+    },
+    {
+      "id": "a1-u4-204",
+      "turkce": "spor",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 204
+    },
+    {
+      "id": "a1-u4-205",
+      "turkce": "halk oyunları",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 205
+    },
+    {
+      "id": "a1-u4-206",
+      "turkce": "güzel yazı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 206
+    },
+    {
+      "id": "a1-u4-207",
+      "turkce": "ebru",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 207
+    },
+    {
+      "id": "a1-u4-208",
+      "turkce": "takı tasarımı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 208
+    },
+    {
+      "id": "a1-u4-209",
+      "turkce": "sinema",
+      "tur": "Kelime",
+      "kategori": "Dersler, okul ve kurslar",
+      "kaynak_sira": 209
+    },
+    {
+      "id": "a1-u4-210",
+      "turkce": "hobi",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 210
+    },
+    {
+      "id": "a1-u4-211",
+      "turkce": "hobiler",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 211
+    },
+    {
+      "id": "a1-u4-212",
+      "turkce": "ilgi alanı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 212
+    },
+    {
+      "id": "a1-u4-213",
+      "turkce": "resim yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 213
+    },
+    {
+      "id": "a1-u4-214",
+      "turkce": "fotoğraf çekmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 214
+    },
+    {
+      "id": "a1-u4-215",
+      "turkce": "manzara fotoğrafı çekmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 215
+    },
+    {
+      "id": "a1-u4-216",
+      "turkce": "çiçek yetiştirmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 216
+    },
+    {
+      "id": "a1-u4-217",
+      "turkce": "çiçek sulamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 217
+    },
+    {
+      "id": "a1-u4-218",
+      "turkce": "balık tutmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 218
+    },
+    {
+      "id": "a1-u4-219",
+      "turkce": "yüzmek",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 219
+    },
+    {
+      "id": "a1-u4-220",
+      "turkce": "futbol oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 220
+    },
+    {
+      "id": "a1-u4-221",
+      "turkce": "basketbol oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 221
+    },
+    {
+      "id": "a1-u4-222",
+      "turkce": "voleybol oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 222
+    },
+    {
+      "id": "a1-u4-223",
+      "turkce": "satranç oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 223
+    },
+    {
+      "id": "a1-u4-224",
+      "turkce": "ata binmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 224
+    },
+    {
+      "id": "a1-u4-225",
+      "turkce": "kayak yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 225
+    },
+    {
+      "id": "a1-u4-226",
+      "turkce": "film izlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 226
+    },
+    {
+      "id": "a1-u4-227",
+      "turkce": "bulmaca çözmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 227
+    },
+    {
+      "id": "a1-u4-228",
+      "turkce": "bisiklet sürmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 228
+    },
+    {
+      "id": "a1-u4-229",
+      "turkce": "yapboz yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 229
+    },
+    {
+      "id": "a1-u4-230",
+      "turkce": "bağlama çalmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 230
+    },
+    {
+      "id": "a1-u4-231",
+      "turkce": "saz çalmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 231
+    },
+    {
+      "id": "a1-u4-232",
+      "turkce": "türkü söylemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 232
+    },
+    {
+      "id": "a1-u4-233",
+      "turkce": "şarkı söylemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 233
+    },
+    {
+      "id": "a1-u4-234",
+      "turkce": "kriket oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 234
+    },
+    {
+      "id": "a1-u4-235",
+      "turkce": "bovling oynamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 235
+    },
+    {
+      "id": "a1-u4-236",
+      "turkce": "pikniğe gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 236
+    },
+    {
+      "id": "a1-u4-237",
+      "turkce": "mangal yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 237
+    },
+    {
+      "id": "a1-u4-238",
+      "turkce": "sinemaya gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 238
+    },
+    {
+      "id": "a1-u4-239",
+      "turkce": "tiyatroya gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 239
+    },
+    {
+      "id": "a1-u4-240",
+      "turkce": "fotoğraf paylaşmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 240
+    },
+    {
+      "id": "a1-u4-241",
+      "turkce": "sergiye gitmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 241
+    },
+    {
+      "id": "a1-u4-242",
+      "turkce": "resim sergisi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 242
+    },
+    {
+      "id": "a1-u4-243",
+      "turkce": "fotoğraf sergisi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 243
+    },
+    {
+      "id": "a1-u4-244",
+      "turkce": "televizyonda spor programı izlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 244
+    },
+    {
+      "id": "a1-u4-245",
+      "turkce": "spor programı",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 245
+    },
+    {
+      "id": "a1-u4-246",
+      "turkce": "fotoğraf makinesi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 246
+    },
+    {
+      "id": "a1-u4-247",
+      "turkce": "bisiklet",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 247
+    },
+    {
+      "id": "a1-u4-248",
+      "turkce": "futbol",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 248
+    },
+    {
+      "id": "a1-u4-249",
+      "turkce": "basketbol",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 249
+    },
+    {
+      "id": "a1-u4-250",
+      "turkce": "voleybol",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 250
+    },
+    {
+      "id": "a1-u4-251",
+      "turkce": "satranç",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 251
+    },
+    {
+      "id": "a1-u4-252",
+      "turkce": "kayak",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 252
+    },
+    {
+      "id": "a1-u4-253",
+      "turkce": "bulmaca",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 253
+    },
+    {
+      "id": "a1-u4-254",
+      "turkce": "yapboz",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 254
+    },
+    {
+      "id": "a1-u4-255",
+      "turkce": "kriket",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 255
+    },
+    {
+      "id": "a1-u4-256",
+      "turkce": "bovling",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 256
+    },
+    {
+      "id": "a1-u4-257",
+      "turkce": "piknik",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 257
+    },
+    {
+      "id": "a1-u4-258",
+      "turkce": "mangal",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 258
+    },
+    {
+      "id": "a1-u4-259",
+      "turkce": "tiyatro",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 259
+    },
+    {
+      "id": "a1-u4-260",
+      "turkce": "film",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 260
+    },
+    {
+      "id": "a1-u4-261",
+      "turkce": "fotoğraf",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 261
+    },
+    {
+      "id": "a1-u4-262",
+      "turkce": "manzara",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 262
+    },
+    {
+      "id": "a1-u4-263",
+      "turkce": "sanat",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 263
+    },
+    {
+      "id": "a1-u4-264",
+      "turkce": "çiçek",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 264
+    },
+    {
+      "id": "a1-u4-265",
+      "turkce": "balık",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 265
+    },
+    {
+      "id": "a1-u4-266",
+      "turkce": "oyun",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 266
+    },
+    {
+      "id": "a1-u4-267",
+      "turkce": "yüzme",
+      "tur": "Kelime",
+      "kategori": "Hobiler, sporlar ve sanat etkinlikleri",
+      "kaynak_sira": 267
+    },
+    {
+      "id": "a1-u4-268",
+      "turkce": "aile",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 268
+    },
+    {
+      "id": "a1-u4-269",
+      "turkce": "anne",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 269
+    },
+    {
+      "id": "a1-u4-270",
+      "turkce": "baba",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 270
+    },
+    {
+      "id": "a1-u4-271",
+      "turkce": "kardeş",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 271
+    },
+    {
+      "id": "a1-u4-272",
+      "turkce": "dede",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 272
+    },
+    {
+      "id": "a1-u4-273",
+      "turkce": "nine",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 273
+    },
+    {
+      "id": "a1-u4-274",
+      "turkce": "arkadaş",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 274
+    },
+    {
+      "id": "a1-u4-275",
+      "turkce": "aşçı",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 275
+    },
+    {
+      "id": "a1-u4-276",
+      "turkce": "usta",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 276
+    },
+    {
+      "id": "a1-u4-277",
+      "turkce": "veteriner",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 277
+    },
+    {
+      "id": "a1-u4-278",
+      "turkce": "çocuk",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 278
+    },
+    {
+      "id": "a1-u4-279",
+      "turkce": "kişi",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 279
+    },
+    {
+      "id": "a1-u4-280",
+      "turkce": "kedi",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 280
+    },
+    {
+      "id": "a1-u4-281",
+      "turkce": "ev",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 281
+    },
+    {
+      "id": "a1-u4-282",
+      "turkce": "evimiz",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 282
+    },
+    {
+      "id": "a1-u4-283",
+      "turkce": "havuz",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 283
+    },
+    {
+      "id": "a1-u4-284",
+      "turkce": "sahil",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 284
+    },
+    {
+      "id": "a1-u4-285",
+      "turkce": "Türk",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 288
+    },
+    {
+      "id": "a1-u4-286",
+      "turkce": "Türkçe",
+      "tur": "Kelime",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 289
+    },
+    {
+      "id": "a1-u4-287",
+      "turkce": "Türk kahvesi",
+      "tur": "Kalıp / cümle",
+      "kategori": "Kişiler, aile, meslekler ve yerler",
+      "kaynak_sira": 290
+    },
+    {
+      "id": "a1-u4-288",
+      "turkce": "kitap",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 293
+    },
+    {
+      "id": "a1-u4-289",
+      "turkce": "kitaplık",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 294
+    },
+    {
+      "id": "a1-u4-290",
+      "turkce": "çanta",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 295
+    },
+    {
+      "id": "a1-u4-291",
+      "turkce": "elbise",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 296
+    },
+    {
+      "id": "a1-u4-292",
+      "turkce": "pijama",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 297
+    },
+    {
+      "id": "a1-u4-293",
+      "turkce": "yatak",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 298
+    },
+    {
+      "id": "a1-u4-294",
+      "turkce": "çöp",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 299
+    },
+    {
+      "id": "a1-u4-295",
+      "turkce": "not",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 300
+    },
+    {
+      "id": "a1-u4-296",
+      "turkce": "ödev",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 301
+    },
+    {
+      "id": "a1-u4-297",
+      "turkce": "telefon",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 302
+    },
+    {
+      "id": "a1-u4-298",
+      "turkce": "video",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 303
+    },
+    {
+      "id": "a1-u4-299",
+      "turkce": "e-posta",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 304
+    },
+    {
+      "id": "a1-u4-300",
+      "turkce": "röportaj",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 305
+    },
+    {
+      "id": "a1-u4-301",
+      "turkce": "proje",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 306
+    },
+    {
+      "id": "a1-u4-302",
+      "turkce": "afiş",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 307
+    },
+    {
+      "id": "a1-u4-303",
+      "turkce": "metin",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 308
+    },
+    {
+      "id": "a1-u4-304",
+      "turkce": "görsel",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 309
+    },
+    {
+      "id": "a1-u4-305",
+      "turkce": "tablo",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 310
+    },
+    {
+      "id": "a1-u4-306",
+      "turkce": "takvim",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 311
+    },
+    {
+      "id": "a1-u4-307",
+      "turkce": "program",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 312
+    },
+    {
+      "id": "a1-u4-308",
+      "turkce": "soru",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 313
+    },
+    {
+      "id": "a1-u4-309",
+      "turkce": "cevap",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 314
+    },
+    {
+      "id": "a1-u4-310",
+      "turkce": "konu",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 315
+    },
+    {
+      "id": "a1-u4-311",
+      "turkce": "mesaj",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 316
+    },
+    {
+      "id": "a1-u4-312",
+      "turkce": "mektup",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 317
+    },
+    {
+      "id": "a1-u4-313",
+      "turkce": "kutu",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 318
+    },
+    {
+      "id": "a1-u4-314",
+      "turkce": "kutucuk",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 319
+    },
+    {
+      "id": "a1-u4-315",
+      "turkce": "ok",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 320
+    },
+    {
+      "id": "a1-u4-316",
+      "turkce": "kahvaltı",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 321
+    },
+    {
+      "id": "a1-u4-317",
+      "turkce": "öğle yemeği",
+      "tur": "Kalıp / cümle",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 322
+    },
+    {
+      "id": "a1-u4-318",
+      "turkce": "akşam yemeği",
+      "tur": "Kalıp / cümle",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 323
+    },
+    {
+      "id": "a1-u4-319",
+      "turkce": "çay",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 324
+    },
+    {
+      "id": "a1-u4-320",
+      "turkce": "kahve",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 325
+    },
+    {
+      "id": "a1-u4-321",
+      "turkce": "leblebi",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 326
+    },
+    {
+      "id": "a1-u4-322",
+      "turkce": "su",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 327
+    },
+    {
+      "id": "a1-u4-323",
+      "turkce": "güzel",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 328
+    },
+    {
+      "id": "a1-u4-324",
+      "turkce": "büyük",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 329
+    },
+    {
+      "id": "a1-u4-325",
+      "turkce": "eğlenceli",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 330
+    },
+    {
+      "id": "a1-u4-326",
+      "turkce": "lezzetli",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 331
+    },
+    {
+      "id": "a1-u4-327",
+      "turkce": "harika",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 332
+    },
+    {
+      "id": "a1-u4-328",
+      "turkce": "komik",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 333
+    },
+    {
+      "id": "a1-u4-329",
+      "turkce": "gerçek",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 334
+    },
+    {
+      "id": "a1-u4-330",
+      "turkce": "çok",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 335
+    },
+    {
+      "id": "a1-u4-331",
+      "turkce": "birçok",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 336
+    },
+    {
+      "id": "a1-u4-332",
+      "turkce": "birlikte",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 337
+    },
+    {
+      "id": "a1-u4-333",
+      "turkce": "kendi",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 338
+    },
+    {
+      "id": "a1-u4-334",
+      "turkce": "çeşit çeşit",
+      "tur": "Kalıp / cümle",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 339
+    },
+    {
+      "id": "a1-u4-335",
+      "turkce": "genel",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 340
+    },
+    {
+      "id": "a1-u4-336",
+      "turkce": "serbest",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 341
+    },
+    {
+      "id": "a1-u4-337",
+      "turkce": "hazır",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 342
+    },
+    {
+      "id": "a1-u4-338",
+      "turkce": "uygun",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 343
+    },
+    {
+      "id": "a1-u4-339",
+      "turkce": "doğru",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 344
+    },
+    {
+      "id": "a1-u4-340",
+      "turkce": "yanlış",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 345
+    },
+    {
+      "id": "a1-u4-341",
+      "turkce": "hangi",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 346
+    },
+    {
+      "id": "a1-u4-342",
+      "turkce": "nasıl",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 347
+    },
+    {
+      "id": "a1-u4-343",
+      "turkce": "niçin",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 348
+    },
+    {
+      "id": "a1-u4-344",
+      "turkce": "kim",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 349
+    },
+    {
+      "id": "a1-u4-345",
+      "turkce": "kime",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 350
+    },
+    {
+      "id": "a1-u4-346",
+      "turkce": "nerede",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 351
+    },
+    {
+      "id": "a1-u4-347",
+      "turkce": "neler",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 352
+    },
+    {
+      "id": "a1-u4-348",
+      "turkce": "kaç",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 353
+    },
+    {
+      "id": "a1-u4-349",
+      "turkce": "ne",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 354
+    },
+    {
+      "id": "a1-u4-350",
+      "turkce": "biri",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 355
+    },
+    {
+      "id": "a1-u4-351",
+      "turkce": "bizim",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 356
+    },
+    {
+      "id": "a1-u4-352",
+      "turkce": "benim",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 357
+    },
+    {
+      "id": "a1-u4-353",
+      "turkce": "onun",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 358
+    },
+    {
+      "id": "a1-u4-354",
+      "turkce": "onlar",
+      "tur": "Kelime",
+      "kategori": "Nesneler, yiyecekler ve tanımlayıcı kelimeler",
+      "kaynak_sira": 359
+    },
+    {
+      "id": "a1-u4-355",
+      "turkce": "Bir günün nasıl geçer?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 360
+    },
+    {
+      "id": "a1-u4-356",
+      "turkce": "Hobilerin nelerdir?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 361
+    },
+    {
+      "id": "a1-u4-357",
+      "turkce": "Saat kaç?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 362
+    },
+    {
+      "id": "a1-u4-358",
+      "turkce": "Saat kaçta uyanırsın?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 363
+    },
+    {
+      "id": "a1-u4-359",
+      "turkce": "Ne zaman ders çalışırsın?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 364
+    },
+    {
+      "id": "a1-u4-360",
+      "turkce": "Ne sıklıkla spor yaparsın?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 365
+    },
+    {
+      "id": "a1-u4-361",
+      "turkce": "Ne sıklıkla müzik dinlersin?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 366
+    },
+    {
+      "id": "a1-u4-362",
+      "turkce": "Hangi sporları yapmayı seversin?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 367
+    },
+    {
+      "id": "a1-u4-363",
+      "turkce": "Hangi sanatları seversin?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 368
+    },
+    {
+      "id": "a1-u4-364",
+      "turkce": "Neler yapmayı seversin?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 369
+    },
+    {
+      "id": "a1-u4-365",
+      "turkce": "Günlük programın nasıl?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 370
+    },
+    {
+      "id": "a1-u4-366",
+      "turkce": "Bir haftada kaç gün vardır?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 371
+    },
+    {
+      "id": "a1-u4-367",
+      "turkce": "Hafta içi günler hangileridir?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 372
+    },
+    {
+      "id": "a1-u4-368",
+      "turkce": "Hafta sonu günler hangileridir?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 373
+    },
+    {
+      "id": "a1-u4-369",
+      "turkce": "Pazartesi günü hangi dersler var?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 374
+    },
+    {
+      "id": "a1-u4-370",
+      "turkce": "Çarşamba günü fizik dersi var mı?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 375
+    },
+    {
+      "id": "a1-u4-371",
+      "turkce": "Türkçe dersi saat kaçta?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 376
+    },
+    {
+      "id": "a1-u4-372",
+      "turkce": "Kim ne yapmayı sever?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 377
+    },
+    {
+      "id": "a1-u4-373",
+      "turkce": "Hobileriniz nelerdir?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 378
+    },
+    {
+      "id": "a1-u4-374",
+      "turkce": "Sen neler yapıyorsun?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 379
+    },
+    {
+      "id": "a1-u4-375",
+      "turkce": "Ben her sabah erken kalkarım.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 380
+    },
+    {
+      "id": "a1-u4-376",
+      "turkce": "Önce elimi yüzümü yıkarım.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 381
+    },
+    {
+      "id": "a1-u4-377",
+      "turkce": "Sonra kahvaltı ederim.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 382
+    },
+    {
+      "id": "a1-u4-378",
+      "turkce": "Daha sonra okula giderim.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 383
+    },
+    {
+      "id": "a1-u4-379",
+      "turkce": "Ben her zaman erken kalkarım.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 384
+    },
+    {
+      "id": "a1-u4-380",
+      "turkce": "Ben genellikle kitap okurum.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 385
+    },
+    {
+      "id": "a1-u4-381",
+      "turkce": "Ben bazen futbol oynarım.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 386
+    },
+    {
+      "id": "a1-u4-382",
+      "turkce": "Ben asla erken kalkmam.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 387
+    },
+    {
+      "id": "a1-u4-383",
+      "turkce": "Resim yapmayı çok severim.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 388
+    },
+    {
+      "id": "a1-u4-384",
+      "turkce": "Fotoğraf çekmeyi sevmem.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 389
+    },
+    {
+      "id": "a1-u4-385",
+      "turkce": "Arkadaşlarımla birlikte sinemaya giderim.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 390
+    },
+    {
+      "id": "a1-u4-386",
+      "turkce": "Saat on ikiyi çeyrek geçiyor.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 391
+    },
+    {
+      "id": "a1-u4-387",
+      "turkce": "Saat on iki buçuk.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 392
+    },
+    {
+      "id": "a1-u4-388",
+      "turkce": "Saat on ikiye çeyrek var.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 393
+    },
+    {
+      "id": "a1-u4-389",
+      "turkce": "Öğleden önce dersim var.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 394
+    },
+    {
+      "id": "a1-u4-390",
+      "turkce": "Kahvaltıdan sonra dişlerimi fırçalarım.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 395
+    },
+    {
+      "id": "a1-u4-391",
+      "turkce": "Hafta sonu resim kursuna giderim.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 396
+    },
+    {
+      "id": "a1-u4-392",
+      "turkce": "Birlikte kitap okuruz.",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 397
+    },
+    {
+      "id": "a1-u4-393",
+      "turkce": "Kiminle spor yaparsın?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 398
+    },
+    {
+      "id": "a1-u4-394",
+      "turkce": "Kimlerle spor yaparsın?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 399
+    },
+    {
+      "id": "a1-u4-395",
+      "turkce": "Nerede spor yaparsın?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 400
+    },
+    {
+      "id": "a1-u4-396",
+      "turkce": "Telefonla mı fotoğraf çekersin?",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 401
+    },
+    {
+      "id": "a1-u4-397",
+      "turkce": "ile",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 402
+    },
+    {
+      "id": "a1-u4-398",
+      "turkce": "ve",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 403
+    },
+    {
+      "id": "a1-u4-399",
+      "turkce": "veya",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 404
+    },
+    {
+      "id": "a1-u4-400",
+      "turkce": "ama",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 405
+    },
+    {
+      "id": "a1-u4-401",
+      "turkce": "de/da",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 406
+    },
+    {
+      "id": "a1-u4-402",
+      "turkce": "geniş zaman",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 407
+    },
+    {
+      "id": "a1-u4-403",
+      "turkce": "sıklık zarfları",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 408
+    },
+    {
+      "id": "a1-u4-404",
+      "turkce": "basit adlaştırma",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 409
+    },
+    {
+      "id": "a1-u4-405",
+      "turkce": "olumlu cümle",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 410
+    },
+    {
+      "id": "a1-u4-406",
+      "turkce": "olumsuz cümle",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 411
+    },
+    {
+      "id": "a1-u4-407",
+      "turkce": "önce / sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 412
+    },
+    {
+      "id": "a1-u4-408",
+      "turkce": "-dan önce / -dan sonra",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 413
+    },
+    {
+      "id": "a1-u4-409",
+      "turkce": "resim yapmayı sevmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 414
+    },
+    {
+      "id": "a1-u4-410",
+      "turkce": "yüzmeyi sevmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 415
+    },
+    {
+      "id": "a1-u4-411",
+      "turkce": "fotoğraf çekmeyi sevmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 416
+    },
+    {
+      "id": "a1-u4-412",
+      "turkce": "röportaj yapmak",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 417
+    },
+    {
+      "id": "a1-u4-413",
+      "turkce": "video çekmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 418
+    },
+    {
+      "id": "a1-u4-414",
+      "turkce": "videoya kaydetmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 419
+    },
+    {
+      "id": "a1-u4-415",
+      "turkce": "video düzenlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 420
+    },
+    {
+      "id": "a1-u4-416",
+      "turkce": "soru hazırlamak",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 421
+    },
+    {
+      "id": "a1-u4-417",
+      "turkce": "cevap vermek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 422
+    },
+    {
+      "id": "a1-u4-418",
+      "turkce": "soru sormak",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 423
+    },
+    {
+      "id": "a1-u4-419",
+      "turkce": "işaretlemek",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 424
+    },
+    {
+      "id": "a1-u4-420",
+      "turkce": "eşleştirmek",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 425
+    },
+    {
+      "id": "a1-u4-421",
+      "turkce": "tamamlamak",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 426
+    },
+    {
+      "id": "a1-u4-422",
+      "turkce": "sınıflandırmak",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 427
+    },
+    {
+      "id": "a1-u4-423",
+      "turkce": "numaralandırmak",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 428
+    },
+    {
+      "id": "a1-u4-424",
+      "turkce": "karşılaştırmak",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 429
+    },
+    {
+      "id": "a1-u4-425",
+      "turkce": "altını çizmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 430
+    },
+    {
+      "id": "a1-u4-426",
+      "turkce": "izletmek",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 431
+    },
+    {
+      "id": "a1-u4-427",
+      "turkce": "sunmak",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 432
+    },
+    {
+      "id": "a1-u4-428",
+      "turkce": "puan vermek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 433
+    },
+    {
+      "id": "a1-u4-429",
+      "turkce": "beğenmek",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 434
+    },
+    {
+      "id": "a1-u4-430",
+      "turkce": "seçmek",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 435
+    },
+    {
+      "id": "a1-u4-431",
+      "turkce": "incelemek",
+      "tur": "Kelime",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 436
+    },
+    {
+      "id": "a1-u4-432",
+      "turkce": "takip etmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 437
+    },
+    {
+      "id": "a1-u4-433",
+      "turkce": "kontrol etmek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 438
+    },
+    {
+      "id": "a1-u4-434",
+      "turkce": "tekrar dinlemek",
+      "tur": "Kalıp / cümle",
+      "kategori": "İletişim, yönergeler ve dil bilgisi kalıpları",
+      "kaynak_sira": 439
+    }
+  ]
+}
