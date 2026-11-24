@@ -102,7 +102,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
 .heading .reader-actions>.unit-picker>summary::after{font-size:10px}
 }
 </style>
-<style>#answerDetails{display:none}.heading .unit-navigation.reader-actions{display:flex}.heading .reader-actions>.unit-picker{margin-left:auto}.pageimage{image-rendering:auto}</style><style>.page-viewport{width:100%;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}.page-viewport .stage{flex-shrink:0}</style><style id="grammar-unit-navigation-layout">
+<style>.heading .unit-navigation.reader-actions{display:flex}.heading .reader-actions>.unit-picker{margin-left:auto}.pageimage{image-rendering:auto}</style><style>.page-viewport{width:100%;overflow-x:auto;overscroll-behavior-x:contain;scrollbar-width:thin}.page-viewport .stage{flex-shrink:0}</style><style id="grammar-unit-navigation-layout">
 .heading .unit-navigation.reader-actions{display:flex;justify-content:flex-end;gap:12px;flex-wrap:nowrap}
 .heading .reader-actions>.unit-picker{margin-left:0}
 .heading .reader-actions>.unit-nav-button{min-width:150px}
@@ -137,7 +137,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
         <div id="languageTabs" class="language-tabs" role="tablist" aria-label="Çeviri dili"><button class="language-tab" role="tab" aria-selected="true" aria-label="English" data-lang="en"><span>🇬🇧</span>EN</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Русский" data-lang="ru"><span>🇷🇺</span>RU</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Кыргызча" data-lang="ky"><span>🇰🇬</span>KY</button><button class="language-tab" role="tab" aria-selected="false" aria-label="العربية" data-lang="ar"><span>🇸🇦</span>AR</button><button class="language-tab" role="tab" aria-selected="false" aria-label="Français" data-lang="fr"><span>🇫🇷</span>FR</button></div>
         <div id="translationBody"><div class="idle"><span class="tapicon">☝️</span>Kitapta bir kelimeye ya da ifadeye dokun.<br>Anlamı seçtiğin dilde görünsün; Türkçe ve çeviri seslendirmesini dinle.</div></div>
         <div class="vocab-actions"><button id="saveWord" class="small-action" disabled>＋ Kelime defterime ekle</button><button id="openVocab" class="small-action">📘 Defterim (0)</button></div>
-        <details id="answerDetails" class="answer-details">
+        <details id="answerDetails" class="answer-details" hidden>
           <summary id="answerSummary">Cevapları Göster</summary>
           <div id="answerContent" class="answer-content"><p class="answer-note">Bu sayfanın cevap anahtarı henüz eklenmedi.</p></div>
         </details>
@@ -174,7 +174,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
     function playAudio(code,button){window.TAA2DilbilgisiAudio.play(code,button)}
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
-      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=false;content.replaceChildren();renderAnswerOverlay();
+      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
       if(!data){const note=document.createElement('p');note.className='answer-note';note.textContent='Bu sayfanın cevap anahtarı henüz eklenmedi.';content.append(note);return;}
       if(data.note){const note=document.createElement('p');note.className='answer-note';note.textContent=data.note;content.append(note)}
       (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
