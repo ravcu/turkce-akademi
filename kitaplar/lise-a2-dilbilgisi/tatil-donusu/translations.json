@@ -3,11 +3,19 @@
     "3": {
       "sections": [
         {
+          "title": "2. Diyaloğu tamamlayın · Örnek cevaplar",
+          "items": [
+            "Tatile geçen yaz gittim.",
+            "Tatile Artvin’e gittim."
+          ]
+        },
+        {
           "title": "3b. Zaman ifadeleri (yakından uzağa)",
           "items": [
             "1. Bir dakika önce",
             "2. Sekiz saat önce",
-            "3–4. Dün gece, dün akşam (günün kullanılan saatine göre)",
+            "3. Dün gece",
+            "4. Dün akşam",
             "5. Dün sabah",
             "6. İki hafta önce",
             "7. Bir ay önce",
@@ -15,6 +23,74 @@
             "9. On yıl önce",
             "10. 1996’da"
           ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.31537,
+          "y": 0.38462,
+          "w": 0.36133,
+          "text": "Tatile geçen yaz gittim."
+        },
+        {
+          "x": 0.32964,
+          "y": 0.49038,
+          "w": 0.35658,
+          "text": "Tatile Artvin’e gittim."
+        },
+        {
+          "x": 0.18225,
+          "y": 0.80769,
+          "w": 0.04596,
+          "text": "9"
+        },
+        {
+          "x": 0.18225,
+          "y": 0.85043,
+          "w": 0.04596,
+          "text": "4"
+        },
+        {
+          "x": 0.18225,
+          "y": 0.87179,
+          "w": 0.04596,
+          "text": "7"
+        },
+        {
+          "x": 0.18225,
+          "y": 0.89316,
+          "w": 0.04596,
+          "text": "10"
+        },
+        {
+          "x": 0.4897,
+          "y": 0.80769,
+          "w": 0.04754,
+          "text": "3"
+        },
+        {
+          "x": 0.4897,
+          "y": 0.82906,
+          "w": 0.04754,
+          "text": "6"
+        },
+        {
+          "x": 0.4897,
+          "y": 0.85043,
+          "w": 0.04754,
+          "text": "2"
+        },
+        {
+          "x": 0.4897,
+          "y": 0.87179,
+          "w": 0.04754,
+          "text": "5"
+        },
+        {
+          "x": 0.4897,
+          "y": 0.89316,
+          "w": 0.04754,
+          "text": "8"
         }
       ]
     },
@@ -40,6 +116,128 @@
             "6. Güzel yemekler yedin mi? Evet, yedim. / Hayır, yemedim."
           ]
         }
+      ],
+      "fills": [
+        {
+          "x": 0.28526,
+          "y": 0.25214,
+          "w": 0.41046,
+          "text": "Kütüphaneye iki saat önce gittim."
+        },
+        {
+          "x": 0.32488,
+          "y": 0.32585,
+          "w": 0.37084,
+          "text": "Arkadaşlarımla dün buluştum."
+        },
+        {
+          "x": 0.28526,
+          "y": 0.39957,
+          "w": 0.41046,
+          "text": "Doktora üç hafta önce gittim."
+        },
+        {
+          "x": 0.25198,
+          "y": 0.47329,
+          "w": 0.44374,
+          "text": "Tatile iki ay önce gittim."
+        },
+        {
+          "x": 0.24089,
+          "y": 0.54594,
+          "w": 0.45483,
+          "text": "İstanbul’a beş yıl önce gittim."
+        },
+        {
+          "x": 0.30428,
+          "y": 0.74145,
+          "w": 0.0729,
+          "text": "tanıştın mı?"
+        },
+        {
+          "x": 0.50713,
+          "y": 0.73397,
+          "w": 0.35341,
+          "text": "Evet, tanıştım."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.75,
+          "w": 0.35341,
+          "text": "Hayır, tanışmadım."
+        },
+        {
+          "x": 0.25198,
+          "y": 0.77778,
+          "w": 0.08875,
+          "text": "güneşlendin mi?"
+        },
+        {
+          "x": 0.50713,
+          "y": 0.7703,
+          "w": 0.35341,
+          "text": "Evet, güneşlendim."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.78632,
+          "w": 0.35341,
+          "text": "Hayır, güneşlenmedim."
+        },
+        {
+          "x": 0.2599,
+          "y": 0.8141,
+          "w": 0.08241,
+          "text": "ziyaret ettin mi?"
+        },
+        {
+          "x": 0.50713,
+          "y": 0.80662,
+          "w": 0.35341,
+          "text": "Evet, ziyaret ettim."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.82265,
+          "w": 0.35341,
+          "text": "Hayır, ziyaret etmedim."
+        },
+        {
+          "x": 0.24406,
+          "y": 0.84936,
+          "w": 0.1046,
+          "text": "spor yaptın mı?"
+        },
+        {
+          "x": 0.50713,
+          "y": 0.84188,
+          "w": 0.35341,
+          "text": "Evet, yaptım."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.85791,
+          "w": 0.35341,
+          "text": "Hayır, yapmadım."
+        },
+        {
+          "x": 0.31537,
+          "y": 0.88462,
+          "w": 0.07924,
+          "text": "yedin mi?"
+        },
+        {
+          "x": 0.50713,
+          "y": 0.87714,
+          "w": 0.35341,
+          "text": "Evet, yedim."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.89316,
+          "w": 0.35341,
+          "text": "Hayır, yemedim."
+        }
       ]
     },
     "10": {
@@ -51,6 +249,44 @@
             "3. Evet, yemekler lezzetliydi. / Hayır, yemekler lezzetli değildi.",
             "4. Evet, dün sabah hava soğuktu. / Hayır, dün sabah hava soğuk değildi."
           ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.27258,
+          "y": 0.58547,
+          "w": 0.58479,
+          "text": "dün akşam evdeydim."
+        },
+        {
+          "x": 0.27258,
+          "y": 0.61966,
+          "w": 0.58479,
+          "text": "dün akşam evde değildim."
+        },
+        {
+          "x": 0.27258,
+          "y": 0.71261,
+          "w": 0.58479,
+          "text": "yemekler lezzetliydi."
+        },
+        {
+          "x": 0.27258,
+          "y": 0.74786,
+          "w": 0.58479,
+          "text": "yemekler lezzetli değildi."
+        },
+        {
+          "x": 0.27258,
+          "y": 0.83974,
+          "w": 0.58479,
+          "text": "dün sabah hava soğuktu."
+        },
+        {
+          "x": 0.27258,
+          "y": 0.875,
+          "w": 0.58479,
+          "text": "dün sabah hava soğuk değildi."
         }
       ]
     },
@@ -66,6 +302,38 @@
             "O, 2019’da lise öğrencisiydi."
           ]
         }
+      ],
+      "fills": [
+        {
+          "x": 0.13154,
+          "y": 0.20726,
+          "w": 0.26149,
+          "text": "Üç saat önce toktum."
+        },
+        {
+          "x": 0.13154,
+          "y": 0.22756,
+          "w": 0.26149,
+          "text": "İki hafta önce sınavım vardı."
+        },
+        {
+          "x": 0.13154,
+          "y": 0.24786,
+          "w": 0.26149,
+          "text": "Geçen ay İstanbul’daydım."
+        },
+        {
+          "x": 0.13154,
+          "y": 0.26816,
+          "w": 0.26149,
+          "text": "Geçen yaz otel kalabalıktı."
+        },
+        {
+          "x": 0.13154,
+          "y": 0.28846,
+          "w": 0.26149,
+          "text": "O, 2019’da lise öğrencisiydi."
+        }
       ]
     },
     "12": {
@@ -79,6 +347,38 @@
             "5. Önce spor yaptım. Sonra kahvaltı yaptım.",
             "6. İstanbul’u gezdikten sonra öğle yemeği yedik."
           ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.16957,
+          "y": 0.70406,
+          "w": 0.30586,
+          "text": "Önce spor yaptım. Sonra duş aldım."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.74573,
+          "w": 0.36292,
+          "text": "Dün akşam yemek yedikten sonra sahilde dolaştık."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.79167,
+          "w": 0.36292,
+          "text": "Hafta sonu konsere gittikten sonra otele döndük."
+        },
+        {
+          "x": 0.16957,
+          "y": 0.84295,
+          "w": 0.30586,
+          "text": "Önce spor yaptım. Sonra kahvaltı yaptım."
+        },
+        {
+          "x": 0.50713,
+          "y": 0.88462,
+          "w": 0.36292,
+          "text": "İstanbul’u gezdikten sonra öğle yemeği yedik."
         }
       ]
     },
@@ -108,6 +408,321 @@
           "items": [
             "Önce kahvaltı ettim. Kahvaltıdan sonra sahile gittim. Denize girmeden önce güneş kremi sürdüm. Yüzdükten sonra otele döndüm. Daha sonra arkadaşlarımla yemek yedim."
           ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.16006,
+          "y": 0.25748,
+          "w": 0.61173,
+          "text": "Petra kentine geri dönmeden önce dağdan indik."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.28526,
+          "w": 0.61173,
+          "text": "Dağdan indikten sonra Petra kentine geri döndük."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.36004,
+          "w": 0.61173,
+          "text": "Hemen uyumadan önce otelde akşam yemeği yedim."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.38782,
+          "w": 0.61173,
+          "text": "Otelde akşam yemeği yedikten sonra hemen uyudum."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.46368,
+          "w": 0.61173,
+          "text": "Taşkuyu Mağarası’na gitmeden önce mağaradaki teknelere bindik."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.49145,
+          "w": 0.61173,
+          "text": "Mağaradaki teknelere bindikten sonra Taşkuyu Mağarası’na gittik."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.56838,
+          "w": 0.61173,
+          "text": "Çadırlarımızı kurmadan önce kampta ateş yaktık ve yemek yedik."
+        },
+        {
+          "x": 0.16006,
+          "y": 0.59615,
+          "w": 0.61173,
+          "text": "Kampta ateş yakıp yemek yedikten sonra çadırlarımızı kurduk."
+        },
+        {
+          "x": 0.13946,
+          "y": 0.76496,
+          "w": 0.06815,
+          "text": "Önce"
+        },
+        {
+          "x": 0.40095,
+          "y": 0.76496,
+          "w": 0.08399,
+          "text": "Sonra"
+        },
+        {
+          "x": 0.70681,
+          "y": 0.78632,
+          "w": 0.09826,
+          "text": "meden önce"
+        },
+        {
+          "x": 0.52932,
+          "y": 0.80983,
+          "w": 0.09984,
+          "text": "tikten sonra"
+        },
+        {
+          "x": 0.3851,
+          "y": 0.8547,
+          "w": 0.08875,
+          "text": "Daha sonra"
+        }
+      ]
+    },
+    "6": {
+      "sections": [
+        {
+          "title": "3. İşaret zamirleri",
+          "items": [
+            "Bu ne? Bu çanta.",
+            "Kitap nerede? Kitap burada.",
+            "Burası neresi? Burası okul.",
+            "Şu kim? Şu Ali.",
+            "Ali nerede? Ali burada.",
+            "Şurası neresi? Şurası sınıf.",
+            "O ne? O kedi.",
+            "Kedi nerede? Kedi orada.",
+            "Orası neresi? Orası otopark."
+          ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.13471,
+          "y": 0.64423,
+          "w": 0.12044,
+          "text": "Bu çanta."
+        },
+        {
+          "x": 0.45959,
+          "y": 0.62821,
+          "w": 0.11569,
+          "text": "nerede"
+        },
+        {
+          "x": 0.40729,
+          "y": 0.64423,
+          "w": 0.11886,
+          "text": "Kitap"
+        },
+        {
+          "x": 0.77338,
+          "y": 0.62821,
+          "w": 0.11727,
+          "text": "neresi"
+        },
+        {
+          "x": 0.71315,
+          "y": 0.64423,
+          "w": 0.11886,
+          "text": "Burası"
+        },
+        {
+          "x": 0.13471,
+          "y": 0.75107,
+          "w": 0.11886,
+          "text": "Şu"
+        },
+        {
+          "x": 0.13471,
+          "y": 0.76816,
+          "w": 0.11886,
+          "text": "Şu Ali."
+        },
+        {
+          "x": 0.43582,
+          "y": 0.75107,
+          "w": 0.11727,
+          "text": "nerede"
+        },
+        {
+          "x": 0.40729,
+          "y": 0.76816,
+          "w": 0.11886,
+          "text": "Ali"
+        },
+        {
+          "x": 0.70206,
+          "y": 0.75107,
+          "w": 0.17433,
+          "text": "Şurası neresi"
+        },
+        {
+          "x": 0.70206,
+          "y": 0.76816,
+          "w": 0.18067,
+          "text": "Şurası sınıf."
+        },
+        {
+          "x": 0.13471,
+          "y": 0.86859,
+          "w": 0.18384,
+          "text": "O ne?"
+        },
+        {
+          "x": 0.13471,
+          "y": 0.88568,
+          "w": 0.11886,
+          "text": "O kedi."
+        },
+        {
+          "x": 0.40729,
+          "y": 0.87073,
+          "w": 0.11727,
+          "text": "Kedi"
+        },
+        {
+          "x": 0.40729,
+          "y": 0.88889,
+          "w": 0.22979,
+          "text": "Kedi orada."
+        },
+        {
+          "x": 0.71315,
+          "y": 0.87073,
+          "w": 0.17433,
+          "text": "Orası neresi"
+        },
+        {
+          "x": 0.71315,
+          "y": 0.88782,
+          "w": 0.11886,
+          "text": "Orası"
+        }
+      ]
+    },
+    "7": {
+      "sections": [
+        {
+          "title": "5a. Binanın katları",
+          "items": [
+            "Sinema, dokuzuncu kattadır.",
+            "Kitapçı, sekizinci kattadır.",
+            "Kafe, yedinci kattadır.",
+            "Spor salonu, altıncı kattadır.",
+            "Kuaför, beşinci kattadır.",
+            "Giyim mağazası, dördüncü kattadır.",
+            "Banka, üçüncü kattadır.",
+            "Market, ikinci kattadır."
+          ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.39144,
+          "y": 0.46902,
+          "w": 0.35658,
+          "text": "Sinema, dokuzuncu kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.5203,
+          "w": 0.35658,
+          "text": "Kitapçı, sekizinci kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.57158,
+          "w": 0.35658,
+          "text": "Kafe, yedinci kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.62179,
+          "w": 0.35658,
+          "text": "Spor salonu, altıncı kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.67308,
+          "w": 0.35658,
+          "text": "Kuaför, beşinci kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.72436,
+          "w": 0.35658,
+          "text": "Giyim mağazası, dördüncü kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.77457,
+          "w": 0.35658,
+          "text": "Banka, üçüncü kattadır."
+        },
+        {
+          "x": 0.39144,
+          "y": 0.82585,
+          "w": 0.35658,
+          "text": "Market, ikinci kattadır."
+        }
+      ]
+    },
+    "8": {
+      "sections": [
+        {
+          "title": "5b. Soruları cevaplayın",
+          "items": [
+            "Bina on katlıdır.",
+            "Birinci katta manav var.",
+            "Dördüncü katta giyim mağazası var.",
+            "Altıncı katta spor salonu var.",
+            "Onuncu katta restoran var."
+          ]
+        }
+      ],
+      "fills": [
+        {
+          "x": 0.47702,
+          "y": 0.11218,
+          "w": 0.38669,
+          "text": "Bina on katlıdır."
+        },
+        {
+          "x": 0.47702,
+          "y": 0.13568,
+          "w": 0.38669,
+          "text": "Birinci katta manav var."
+        },
+        {
+          "x": 0.47702,
+          "y": 0.15919,
+          "w": 0.38669,
+          "text": "Dördüncü katta giyim mağazası var."
+        },
+        {
+          "x": 0.47702,
+          "y": 0.18269,
+          "w": 0.38669,
+          "text": "Altıncı katta spor salonu var."
+        },
+        {
+          "x": 0.47702,
+          "y": 0.2062,
+          "w": 0.38669,
+          "text": "Onuncu katta restoran var."
         }
       ]
     }
