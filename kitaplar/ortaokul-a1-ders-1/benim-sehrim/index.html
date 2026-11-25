@@ -41,7 +41,7 @@
     .answer-overlay{position:absolute;inset:0;z-index:4;pointer-events:none}
     .answer-overlay[hidden]{display:none}
     .stage{container-type:inline-size}
-    .answer-box{position:absolute;display:block;box-sizing:border-box;overflow:hidden;color:#075d61;background:transparent;border:0;padding:0;font-family:Arial,Helvetica,sans-serif;font-weight:400;line-height:1.12;white-space:normal;overflow-wrap:break-word;pointer-events:none}.answer-box-tick{text-align:center;font-weight:800;line-height:1.1}.answer-box-underline{border-bottom:1.5px solid #087f83;line-height:0}.answer-box-note{background:#fffffff0;border-radius:3px;padding:1px 3px}.answer-box-pending{color:#855116}.answer-box{white-space:pre-line}
+    .answer-box{position:absolute;display:block;box-sizing:border-box;overflow:hidden;color:#075d61;background:transparent;border:0;padding:0;font-family:Arial,Helvetica,sans-serif;font-weight:400;line-height:1.12;white-space:normal;overflow-wrap:break-word;pointer-events:none}.answer-box-field{white-space:nowrap;text-overflow:clip}.answer-box-tick{text-align:center;font-weight:800;line-height:1.1}.answer-box-underline{border-bottom:1.5px solid #087f83;line-height:0}.answer-box-note{background:#fffffff0;border-radius:3px;padding:1px 3px}.answer-box-pending{color:#855116}.answer-box{white-space:pre-line}
     .answer-fill{position:absolute;display:block;overflow:hidden;padding:0;color:#125f4d;background:transparent;border:0;border-radius:0;font-size:clamp(5px,1.35cqw,9px);font-weight:750;line-height:1;white-space:nowrap;text-overflow:clip}
     .answer-fill.answer-underline{color:transparent;text-decoration:underline;text-decoration-color:#125f4d;text-decoration-thickness:1.4px;text-underline-offset:1px}
     .answer-links{position:absolute;inset:0;width:100%;height:100%;overflow:visible}
@@ -118,15 +118,6 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
 .answer-overlay{z-index:7}
 @media(max-width:800px){.student-field:focus:not([data-mark]){font-size:16px;min-width:4em;min-height:1.35em}}
 </style>
-<style>
-#pageAnswerToggle{position:absolute;z-index:9;top:.4rem;right:.4rem;padding:.35rem .65rem;border:1px solid #b5dcd7;border-radius:.6rem;background:#fffefa;color:#075d61;font-weight:800;font-size:clamp(.68rem,2cqw,.86rem)}
-#answerOverlay .page-answer-card{position:absolute;inset:auto 4% 3% 4%;z-index:8;max-height:43%;overflow:auto;pointer-events:auto;touch-action:pan-y;background:#fffef5;border:2px solid #087f83;border-radius:.65rem;box-shadow:0 .2rem .65rem #17343b33;padding:.45rem .65rem;color:#17343b;font-size:clamp(.72rem,2.05cqw,.95rem);line-height:1.35}
-.page-answer-card summary{cursor:pointer;color:#075d61;font-weight:800}
-.page-answer-card h3{font:inherit;font-weight:800;margin:.55em 0 .15em}
-.page-answer-card ul{margin:0;padding-inline-start:1.25em}
-.page-answer-card p{margin:.4em 0}
-.answer-box:not(.answer-box-tick){background:#fffef0f5;color:#075d61;font-weight:700}
-</style>
 </head>
 <body>
   <header class="topbar">
@@ -145,7 +136,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
           <div class="toolgroup"><button id="prev" class="iconbtn" aria-label="Önceki sayfa">←</button><span id="count" class="pagecount">1 / 16</span><button id="next" class="iconbtn" aria-label="Sonraki sayfa">→</button></div>
           <div class="toolgroup"><button id="zoomOut" class="iconbtn" aria-label="Uzaklaştır">−</button><button id="zoomIn" class="iconbtn" aria-label="Yakınlaştır">+</button></div>
         </div>
-        <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="Ortaokul A1, 5. Ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="studentFields" class="student-fields"></div><button id="pageAnswerToggle" type="button" aria-controls="answerOverlay" aria-expanded="false" hidden>Cevapları Göster</button><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
+        <div id="stage" class="stage"><img id="pageImage" class="pageimage" alt="Ortaokul A1, 5. Ünite sayfası"><div id="hotspots" class="hotspots"></div><div id="audioCues" class="audio-cues" aria-label="Dinleme sesleri"></div><div id="studentFields" class="student-fields"></div><div id="answerOverlay" class="answer-overlay" aria-hidden="true" hidden></div></div>
         <div class="page-export-actions"><button id="exportPageWords" type="button">📄 Bu sayfanın kelimelerini PDF olarak kaydet</button></div>
         <div id="thumbrail" class="thumbrail" aria-label="Sayfa seçimi"></div>
 
@@ -186,8 +177,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
     function savedPage(){try{return Math.max(0,Math.min(pages.length-1,(parseInt(localStorage.getItem('ta-ortaokul-a1-ders-1-benim-sehrim-page'),10)||0)))}catch{return 0}}
     function renderPage(){if(!pages.length)return;if(renderedPage!==current){window.speechSynthesis?.cancel();renderedPage=current}const p=pages[current];img.src=p.image;img.alt=`Benim Şehrim ünitesi, ders kitabı sayfa ${p.bookPage}`;$('#count').textContent=`${current+1} / ${pages.length}`;$('#prev').disabled=current===0;$('#next').disabled=current===pages.length-1;$('#progress').style.width=((current+1)/pages.length*100)+'%';$('#stage').classList.remove('turn');void stage.offsetWidth;$('#stage').classList.add('turn');
       hits.replaceChildren();for(const [index,w] of p.words.entries()){if(!/[\p{L}\p{N}]/u.test(w.t)||/^[SMV]\.\d{3}$/i.test(w.t))continue;const b=document.createElement('button');b.className='word-hit';b.type='button';b.title=`${w.t} — anlamını göster`;b.setAttribute('aria-label',`${w.t} kelimesini seç`);b.dataset.word=w.t;b.dataset.index=index;b.style.left=(w.x*100)+'%';b.style.top=(w.y*100)+'%';b.style.width=(Math.max(w.w,0.006)*100)+'%';b.style.height=(Math.max(w.h,0.007)*100)+'%';b.addEventListener('click',()=>selectWord(w.t,index,p.words));hits.append(b)}
-      renderAudioCues(p);renderStudentFields(p);
-      renderAnswerKey();document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-ortaokul-a1-ders-1-benim-sehrim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
+      renderAudioCues(p);renderAnswerKey();renderStudentFields(p);document.querySelectorAll('.thumb').forEach((b,i)=>b.classList.toggle('active',i===current));document.querySelector('.thumb.active')?.scrollIntoView({block:'nearest',inline:'center',behavior:'smooth'});try{localStorage.setItem('ta-ortaokul-a1-ders-1-benim-sehrim-page',current)}catch{} $('#saved').textContent='İlerlemen bu cihazda kaydedilir.';requestAnimationFrame(alignStudyArea);}
     function renderStudentFields(page){
       if(!page)return;
       const layer=$('#studentFields'), key='ortaokul-benim-sehrim-yazilar-'+page.page;
@@ -229,36 +219,22 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
     }
     function renderAnswerKey(){
       const details=$('#answerDetails'),content=$('#answerContent'),data=glossary.answerKeys?.[String(current+1)];
-      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=!data;$('#pageAnswerToggle').hidden=!data;content.replaceChildren();renderAnswerOverlay();
+      details.open=false;$('#answerSummary').textContent='Cevapları Göster';details.hidden=!data;content.replaceChildren();renderAnswerOverlay();
       if(!data){const note=document.createElement('p');note.className='answer-note';note.textContent='Bu sayfanın cevap anahtarı henüz eklenmedi.';content.append(note);return;}
       if(data.note){const note=document.createElement('p');note.className='answer-note';note.textContent=data.note;content.append(note)}
       (data.sections||[]).forEach(section=>{const group=document.createElement('section');group.className='answer-group';const title=document.createElement('h3');title.textContent=section.title;group.append(title);const list=document.createElement('ul');(section.items||[]).forEach(value=>{const item=document.createElement('li');item.textContent=value;list.append(item)});group.append(list);content.append(group)});
     }
-    function appendPageAnswerCard(overlay,data){
-      if(!data.sections?.length&&!data.note)return;
-      const card=document.createElement('details');card.className='page-answer-card';card.open=true;
-      const title=document.createElement('summary');title.textContent='Sayfa cevapları';card.append(title);
-      for(const section of data.sections||[]){
-        const label=document.createElement('h3');label.textContent=section.title;card.append(label);
-        const items=document.createElement('ul');
-        for(const value of section.items||[]){const item=document.createElement('li');item.textContent=value;items.append(item)}
-        card.append(items);
-      }
-      if(data.note){const note=document.createElement('p');note.textContent=data.note;card.append(note)}
-      overlay.append(card);
-    }
     function renderAnswerOverlay(){
       const overlay=$('#answerOverlay'),data=glossary.answerKeys?.[String(current+1)];overlay.replaceChildren();overlay.hidden=true;overlay.setAttribute('aria-hidden','true');
       const open=$('#answerDetails').open;
-      const toggle=$('#pageAnswerToggle');toggle.textContent=open?'Cevapları Gizle':'Cevapları Göster';toggle.setAttribute('aria-expanded',String(open));
       if(!open||!data)return;
       const fills=Array.isArray(data.fills)?data.fills:[],boxes=Array.isArray(data.boxes)?data.boxes:[];
-      if(!fills.length&&!boxes.length&&!data.sections?.length&&!data.note&&!data.links?.length)return;
+      if(!fills.length&&!boxes.length&&!data.links?.length)return;
       overlay.setAttribute('aria-hidden','false');
       boxes.forEach(box=>{
         const {x,y,w,h}=box;
         if(![x,y,w,h].every(Number.isFinite)||x<0||y<0||w<=0||h<=0||x+w>1||y+h>1)return;
-        const el=document.createElement('div');el.className='answer-box'+(['tick','underline','note','pending'].includes(box.kind)?' answer-box-'+box.kind:'');el.textContent=box.text;
+        const el=document.createElement('div');el.className='answer-box'+(['tick','underline','note','pending'].includes(box.kind)?' answer-box-'+box.kind:'');if(box.field)el.classList.add('answer-box-field');el.textContent=box.text;
         el.setAttribute('role','note');el.setAttribute('aria-label',box.label||'Cevap');
         Object.assign(el.style,{left:`${x*100}%`,top:`${y*100}%`,width:`${w*100}%`,height:`${h*100}%`,fontSize:`${box.fontSize||1.22}cqw`});
         overlay.append(el);
@@ -283,10 +259,9 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
         answer.style.top=(position[1]*100)+'%';
         answer.style.width=(w*100)+'%';
         overlay.append(answer);
-      });appendPageAnswerCard(overlay,data);overlay.hidden=false;
+      });overlay.hidden=false;
       overlay.querySelectorAll('.answer-fill').forEach(answer=>{let size=parseFloat(getComputedStyle(answer).fontSize);while(answer.scrollWidth>answer.clientWidth+1&&size>5){size=Math.max(5,size-.5);answer.style.fontSize=`${size}px`}});
     }
-    $('#pageAnswerToggle').addEventListener('click',()=>{const details=$('#answerDetails');details.open=!details.open});
     $('#answerDetails').addEventListener('toggle',()=>{$('#answerSummary').textContent=$('#answerDetails').open?'Cevapları Gizle':'Cevapları Göster';renderAnswerOverlay();renderStudentFields(pages[current])});
 
     function exportCurrentPageWords(){
