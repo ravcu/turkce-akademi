@@ -109,6 +109,19 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
   .ta-unified-pdf .demo-bar > .ta-ui-language { order: 4; }
 }
 </style>
+<style>
+@media (min-width: 801px) {
+  .ta-unified-pdf .demo-bar > .academy-home {
+    position: static;
+    transform: none;
+    flex: 0 0 auto;
+    margin-inline: auto;
+  }
+  .ta-unified-pdf .demo-bar > .reader-actions,
+  .ta-unified-pdf .demo-bar > .toolbar { margin-left: 0; }
+  .ta-unified-pdf .demo-bar > .ta-ui-language { order: 4; }
+}
+</style>
 </head>
 <body>
   <header class="topbar">
@@ -118,6 +131,20 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
   <main class="shell">
     <div class="heading">
       <div><div class="eyebrow">Ortaokul A1 • Ders Kitabı 1 · Başlangıç Ünitesi</div><h1>Hoş Geldiniz!</h1><p>Sayfadaki bir kelimeye dokun; anlamını beş dilde gör ve Türkçe telaffuzunu dinle.</p></div>
+      <nav class="unit-navigation reader-actions" aria-label="Ünite geçişleri">
+        <a class="unit-nav-button unit-nav-next" href="../merhaba/">Bir Sonraki Ünite →</a>
+        <details class="unit-picker">
+          <summary class="unit-mark" aria-label="BAŞLANGIÇ · Üniteleri seç">BAŞLANGIÇ</summary>
+          <nav class="unit-picker-list" aria-label="Ortaokul A1 Ders Kitabı 1 üniteleri">
+            <a href="../baslangic/" aria-current="page"><span class="unit-picker-number">•</span><span class="unit-picker-name">Başlangıç Ünitesi</span></a>
+            <a href="../merhaba/"><span class="unit-picker-number">1</span><span class="unit-picker-name">Merhaba</span></a>
+            <a href="../haydi-okula/"><span class="unit-picker-number">2</span><span class="unit-picker-name">Haydi Okula!</span></a>
+            <a href="../canim-ailem-guzel-evim/"><span class="unit-picker-number">3</span><span class="unit-picker-name">Canım Ailem, Güzel Evim</span></a>
+            <a href="../bir-gunum/"><span class="unit-picker-number">4</span><span class="unit-picker-name">Bir Günüm</span></a>
+            <a href="../benim-sehrim/"><span class="unit-picker-number">5</span><span class="unit-picker-name">Benim Şehrim</span></a>
+          </nav>
+        </details>
+      </nav>
     </div>
     <div class="progress" aria-label="Kitap ilerlemesi"><span id="progress"></span></div>
     <div class="reader">
@@ -380,5 +407,19 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
 
 
 <script src="../../../assets/js/interface-i18n.js?v=20261028-ui1" defer></script>
+<script>
+(() => {
+  const picker = document.querySelector('.unit-picker');
+  document.addEventListener('click', event => {
+    if (picker.open && !picker.contains(event.target)) picker.open = false;
+  });
+  document.addEventListener('keydown', event => {
+    if (event.key === 'Escape' && picker.open) {
+      picker.open = false;
+      picker.querySelector('summary').focus();
+    }
+  });
+})();
+</script>
 </body>
 </html>
