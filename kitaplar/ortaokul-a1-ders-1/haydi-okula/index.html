@@ -104,12 +104,6 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
 }
 </style>
 <script src="../../../assets/js/supabase-config.js"></script><script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/dist/umd/supabase.min.js"></script><script src="../../../assets/js/student-cloud.js"></script><script src="../../../assets/js/student-position-sync.js" data-keys="ta-ortaokul-a1-ders-1-haydi-okula-page"></script><style>
-@media (min-width: 801px) {
-  .ta-unified-pdf .demo-bar > .toolbar { margin-left: auto; }
-  .ta-unified-pdf .demo-bar > .ta-ui-language { order: 4; }
-}
-</style>
-<style>
 .student-fields{position:absolute;inset:0;z-index:6;pointer-events:none}
 .student-field{position:absolute;pointer-events:auto;min-width:0;margin:0;padding:0 1px;border:1px solid #087e8070;border-radius:.25em;background:#fffdebdc;color:#17343b;font:600 max(8px,1.65cqw) Arial,sans-serif;line-height:1}
 .student-field:focus{outline:2px solid #078b91;background:white;z-index:1}
@@ -119,16 +113,15 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
 @media(max-width:800px){.student-field:focus:not([data-mark]){font-size:16px;min-width:4em;min-height:1.35em}}
 </style>
 <style>
-@media (min-width: 801px) {
+/* Give the shared header enough room when the desktop controls are compact. */
+@media (801px <= width <= 1000px) {
   .ta-unified-pdf .demo-bar > .academy-home {
     position: static;
     transform: none;
     flex: 0 0 auto;
     margin-inline: auto;
   }
-  .ta-unified-pdf .demo-bar > .reader-actions,
-  .ta-unified-pdf .demo-bar > .toolbar { margin-left: 0; }
-  .ta-unified-pdf .demo-bar > .ta-ui-language { order: 4; }
+  .ta-unified-pdf .demo-bar > .reader-actions { margin-left: 0; }
 }
 </style>
 </head>
