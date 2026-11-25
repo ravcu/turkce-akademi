@@ -205,7 +205,7 @@ html.share-mode .reader-actions>.presentation-link{display:none!important}
       try{entries=JSON.parse(localStorage.getItem(key)||'{}')||{}}catch{}
       layer.replaceChildren();
       for(const [i,field] of (page.fields||[]).entries()){
-        if(field.answer&&$('#answerDetails').open)continue;
+        if(field.example||((field.answer||field.reveal)&&$('#answerDetails').open))continue;
         const rect={left:field.x*100+'%',top:field.y*100+'%',width:field.w*100+'%',height:field.h*100+'%'};
         const control=document.createElement(field.mark?'button':'input');
         control.className='student-field';Object.assign(control.style,rect);
