@@ -101,7 +101,8 @@ function populateUnits(kind){
     const grid=unitStep.querySelector('.unit-grid');
     grid.innerHTML='<a class="unit-card unit-available" href="'+middleSixthPdf+'"><span class="unit-number">06</span><span class="unit-name">6. Ünite</span><span class="unit-topic">Alışveriş Zamanı</span></a>';
     grid.insertAdjacentHTML('beforeend','<a class="unit-card unit-available" href="kitaplar/ortaokul-a1-ders-2/hava-nasil/"><span class="unit-number">07</span><span class="unit-name">7. Ünite</span><span class="unit-topic">Hava Nasıl?</span></a>');
-    for(let unit=8;unit<=10;unit++){
+    grid.insertAdjacentHTML('beforeend','<a class="unit-card unit-available" href="kitaplar/ortaokul-a1-ders-2/gecmis-olsun/"><span class="unit-number">08</span><span class="unit-name">8. Ünite</span><span class="unit-topic">Geçmiş Olsun</span></a>');
+    for(let unit=9;unit<=10;unit++){
       const pending=document.createElement('div');
       pending.className='unit-card';
       pending.innerHTML='<span class="unit-number">'+String(unit).padStart(2,'0')+'</span><span class="unit-name">'+unit+'. Ünite</span><span class="unit-topic">Hazırlanıyor</span>';
