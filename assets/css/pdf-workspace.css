@@ -157,3 +157,8 @@ html,body{height:100%;overflow:hidden}body{background:#e8eeeb}.demo-bar{height:5
 .ta-unified-pdf .unit-picker-list{top:54px;max-height:calc(100dvh - 65px)}
 .ta-mobile-backdrop{top:52px}
 }
+
+/* Ortaokul A1 PDF pages retain their printed lines and checkboxes. */
+html:has(script[data-keys^="ta-ortaokul-a1-"]) #studentFields {
+  display: none;
+}
