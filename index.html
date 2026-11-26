@@ -103,12 +103,7 @@ function populateUnits(kind){
     grid.insertAdjacentHTML('beforeend','<a class="unit-card unit-available" href="kitaplar/ortaokul-a1-ders-2/hava-nasil/"><span class="unit-number">07</span><span class="unit-name">7. Ünite</span><span class="unit-topic">Hava Nasıl?</span></a>');
     grid.insertAdjacentHTML('beforeend','<a class="unit-card unit-available" href="kitaplar/ortaokul-a1-ders-2/gecmis-olsun/"><span class="unit-number">08</span><span class="unit-name">8. Ünite</span><span class="unit-topic">Geçmiş Olsun</span></a>');
     grid.insertAdjacentHTML('beforeend','<a class="unit-card unit-available" href="kitaplar/ortaokul-a1-ders-2/mutlu-gunum/"><span class="unit-number">09</span><span class="unit-name">9. Ünite</span><span class="unit-topic">Mutlu Günüm</span></a>');
-    for(let unit=10;unit<=10;unit++){
-      const pending=document.createElement('div');
-      pending.className='unit-card';
-      pending.innerHTML='<span class="unit-number">'+String(unit).padStart(2,'0')+'</span><span class="unit-name">'+unit+'. Ünite</span><span class="unit-topic">Hazırlanıyor</span>';
-      grid.append(pending);
-    }
+    grid.insertAdjacentHTML('beforeend','<a class="unit-card unit-available" href="kitaplar/ortaokul-a1-ders-2/tatil-planim/"><span class="unit-number">10</span><span class="unit-name">10. Ünite</span><span class="unit-topic">Tatil Planım</span></a>');
     return;
   }
 
